@@ -1,10 +1,1288 @@
 {
-  "timestamp": 1791952950.279951,
-  "sync_time_iso": "2026-10-14T04:42:30Z",
+  "timestamp": 1791952954.5016499,
+  "sync_time_iso": "2026-10-14T04:42:34Z",
+  "default_channel": "muk_podcast",
+  "channels": {
+    "muk_podcast": {
+      "id": "muk_podcast",
+      "name": "Muks Breakdown Room",
+      "icon": "\ud83c\udf99\ufe0f",
+      "niche": "High-Performance Podcasts",
+      "config": {
+        "app_name": "ClipFactory",
+        "studio": "Muk Post Production",
+        "emergency_stop": false,
+        "autopilot_engaged": true,
+        "buffer_target_shorts": 6,
+        "remote_tunnel_url": "https://smoke-sep-green-quantity.trycloudflare.com"
+      },
+      "agents": {},
+      "queue": {
+        "queue": [],
+        "processing": null,
+        "completed": [
+          {
+            "clip_id": "huberman_food_1791864881",
+            "title": "How Food Shapes Brain Function & Memory | Dr. Andrew Huberman",
+            "creator": "Andrew Huberman",
+            "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/huberman_food_1791864881_master.mp4",
+            "duration": 28.0,
+            "viral_score": 85,
+            "completed_at": 1791864895
+          },
+          {
+            "clip_id": "theo_saban_1791864881",
+            "title": "Nick Saban Reveals The Secret To Relentless Discipline | Theo Von",
+            "creator": "Theo Von",
+            "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/theo_saban_1791864881_master.mp4",
+            "duration": 28.0,
+            "viral_score": 88,
+            "completed_at": 1791865495
+          },
+          {
+            "clip_id": "bartlett_ryan_fixed",
+            "title": "2,000 Years of Research Proves How Winners Think | Ryan Holiday",
+            "creator": "Steven Bartlett",
+            "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/bartlett_ryan_fixed_master.mp4",
+            "duration": 28.0,
+            "viral_score": 90,
+            "completed_at": 1791865506
+          },
+          {
+            "clip_id": "clip_1791872315",
+            "status": "COMPLETED",
+            "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/clip_1791872315_master.mp4",
+            "start_time": 0.0,
+            "end_time": 28.0,
+            "duration": 28.0,
+            "viral_score": 85,
+            "hook_summary": "Opening high-energy hook",
+            "commentary": {
+              "intro_hook": "Notice how Andrew Huberman breaks this down.",
+              "outro_reaction": "Is this a breakthrough or just hype? Let us know below.",
+              "voiceover_audio": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/audio/clip_1791872315_commentary.mp3"
+            },
+            "timestamp": 1791873204.6376781
+          },
+          {
+            "clip_id": "clip_1791872326",
+            "status": "COMPLETED",
+            "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/clip_1791872326_master.mp4",
+            "start_time": 0.0,
+            "end_time": 28.0,
+            "duration": 28.0,
+            "viral_score": 85,
+            "hook_summary": "Opening high-energy hook",
+            "commentary": {
+              "intro_hook": "Notice how Andrew Huberman breaks this down.",
+              "outro_reaction": "Is this a breakthrough or just hype? Let us know below.",
+              "voiceover_audio": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/audio/clip_1791872326_commentary.mp3"
+            },
+            "timestamp": 1791873244.965888
+          },
+          {
+            "clip_id": "clip_1791873142",
+            "status": "COMPLETED",
+            "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/clip_1791873142_master.mp4",
+            "start_time": 0.0,
+            "end_time": 28.0,
+            "duration": 28.0,
+            "viral_score": 85,
+            "hook_summary": "Opening high-energy hook",
+            "commentary": {
+              "intro_hook": "Notice how Theo Von (This Past Weekend) breaks this down.",
+              "outro_reaction": "Is this a breakthrough or just hype? Let us know below.",
+              "voiceover_audio": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/audio/clip_1791873142_commentary.mp3"
+            },
+            "timestamp": 1791874300.2201111
+          },
+          {
+            "clip_id": "clip_1791908245",
+            "status": "COMPLETED",
+            "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/clip_1791908245_master.mp4",
+            "start_time": 0.0,
+            "end_time": 28.0,
+            "duration": 28.0,
+            "viral_score": 85,
+            "hook_summary": "Opening high-energy hook",
+            "commentary": {
+              "intro_hook": "Notice how Andrew Huberman breaks this down.",
+              "outro_reaction": "Is this a breakthrough or just hype? Let us know below.",
+              "voiceover_audio": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/audio/clip_1791908245_commentary.mp3"
+            },
+            "timestamp": 1791914235.439459
+          },
+          {
+            "clip_id": "clip_1791922520",
+            "status": "COMPLETED",
+            "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/clip_1791922520_master.mp4",
+            "start_time": 0.0,
+            "end_time": 28.0,
+            "duration": 28.0,
+            "viral_score": 85,
+            "hook_summary": "Opening high-energy hook",
+            "commentary": {
+              "intro_hook": "Notice how Andrew Huberman breaks this down.",
+              "outro_reaction": "Is this a breakthrough or just hype? Let us know below.",
+              "voiceover_audio": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/audio/clip_1791922520_commentary.mp3"
+            },
+            "timestamp": 1791927001.782185
+          },
+          {
+            "clip_id": "clip_1791922520",
+            "status": "COMPLETED",
+            "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/clip_1791922520_master.mp4",
+            "start_time": 0.0,
+            "end_time": 28.0,
+            "duration": 28.0,
+            "viral_score": 85,
+            "hook_summary": "Opening high-energy hook",
+            "commentary": {
+              "intro_hook": "Notice how Andrew Huberman breaks this down.",
+              "outro_reaction": "Is this a breakthrough or just hype? Let us know below.",
+              "voiceover_audio": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/audio/clip_1791922520_commentary.mp3"
+            },
+            "timestamp": 1791927001.782185,
+            "creator": "Andrew Huberman",
+            "title": "How Food Choices Shape Memory, Cognition & Cravings | Dr. Scott Kanoski"
+          },
+          {
+            "clip_id": "clip_1791922520",
+            "status": "COMPLETED",
+            "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/clip_1791922520_master.mp4",
+            "start_time": 0.0,
+            "end_time": 28.0,
+            "duration": 28.0,
+            "viral_score": 85,
+            "hook_summary": "Opening high-energy hook",
+            "commentary": {
+              "intro_hook": "Notice how Andrew Huberman breaks this down.",
+              "outro_reaction": "Is this a breakthrough or just hype? Let us know below.",
+              "voiceover_audio": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/audio/clip_1791922520_commentary.mp3"
+            },
+            "timestamp": 1791927001.782185,
+            "creator": "Andrew Huberman",
+            "title": "How Food Choices Shape Memory, Cognition & Cravings | Dr. Scott Kanoski"
+          },
+          {
+            "clip_id": "clip_1791935950",
+            "status": "COMPLETED",
+            "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/clip_1791935950_master.mp4",
+            "start_time": 0.0,
+            "end_time": 28.0,
+            "duration": 28.0,
+            "viral_score": 85,
+            "hook_summary": "Opening high-energy hook",
+            "commentary": {
+              "intro_hook": "Notice how Andrew Huberman breaks this down.",
+              "outro_reaction": "Is this a breakthrough or just hype? Let us know below.",
+              "voiceover_audio": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/audio/clip_1791935950_commentary.mp3"
+            },
+            "timestamp": 1791936044.918278
+          },
+          {
+            "clip_id": "clip_1791935950",
+            "status": "COMPLETED",
+            "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/clip_1791935950_master.mp4",
+            "start_time": 0.0,
+            "end_time": 28.0,
+            "duration": 28.0,
+            "viral_score": 85,
+            "hook_summary": "Opening high-energy hook",
+            "commentary": {
+              "intro_hook": "Notice how Andrew Huberman breaks this down.",
+              "outro_reaction": "Is this a breakthrough or just hype? Let us know below.",
+              "voiceover_audio": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/audio/clip_1791935950_commentary.mp3"
+            },
+            "timestamp": 1791936044.918278,
+            "creator": "Andrew Huberman",
+            "title": "How Food Choices Shape Memory, Cognition & Cravings | Dr. Scott Kanoski"
+          },
+          {
+            "clip_id": "clip_1791935950",
+            "status": "COMPLETED",
+            "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/clip_1791935950_master.mp4",
+            "start_time": 0.0,
+            "end_time": 28.0,
+            "duration": 28.0,
+            "viral_score": 85,
+            "hook_summary": "Opening high-energy hook",
+            "commentary": {
+              "intro_hook": "Notice how Andrew Huberman breaks this down.",
+              "outro_reaction": "Is this a breakthrough or just hype? Let us know below.",
+              "voiceover_audio": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/audio/clip_1791935950_commentary.mp3"
+            },
+            "timestamp": 1791936044.918278,
+            "creator": "Andrew Huberman",
+            "title": "How Food Choices Shape Memory, Cognition & Cravings | Dr. Scott Kanoski"
+          }
+        ],
+        "failed": []
+      },
+      "calendar": {
+        "scheduled": [
+          {
+            "id": "eMgu5yssPI4",
+            "title": "NASA Tools for Your Daily Life?",
+            "url": "https://www.youtube.com/shorts/eMgu5yssPI4",
+            "creator": "Andrew Huberman",
+            "video_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/clip_1791872315_master.mp4",
+            "publish_at": "2026-10-14T15:30:00Z",
+            "status": "SCHEDULED",
+            "metadata": {
+              "title": "NASA Tools for Your Daily Life?",
+              "description": "What happens when space technology meets human biology? Andrew Huberman sits down with Dr. Scott Konoski to reveal how tools developed for space exploration are changing the way we understand our daily habits.\n\n\u2022 The unexpected intersection of space tech and biology\n\u2022 How remote monitoring improves human performance\n\u2022 Why your daily routine is more scientific than you think\n\nFeaturing: Andrew Huberman\n\nDo you think technology helps us become more human, or does it disconnect us from our biology? Let us know below!\n\n#shorts #andrewhuberman #space #productivity #biohacking #science",
+              "tags": [
+                "Andrew Huberman",
+                "Scott Konoski",
+                "Neurobiology",
+                "Biohacking",
+                "Space Tools",
+                "Weight Regulation",
+                "Stanford Medicine",
+                "Appetite Control",
+                "Human Performance",
+                "Mindset"
+              ],
+              "pinned_comment": "Do you think we should use space-grade technology to monitor our daily habits, or is it too much intrusion? Let's debate below.",
+              "ab_variants": {
+                "A": {
+                  "angle": "Curiosity Gap",
+                  "title": "NASA Tools for Your Daily Life?",
+                  "description": "What happens when space technology meets human biology? Andrew Huberman sits down with Dr. Scott Konoski to reveal how tools developed for space exploration are changing the way we understand our daily habits.\n\n\u2022 The unexpected intersection of space tech and biology\n\u2022 How remote monitoring improves human performance\n\u2022 Why your daily routine is more scientific than you think\n\nFeaturing: Andrew Huberman\n\nDo you think technology helps us become more human, or does it disconnect us from our biology? Let us know below!\n\n#shorts #andrewhuberman #space #productivity #biohacking #science"
+                },
+                "B": {
+                  "angle": "Contrarian Truth",
+                  "title": "Why You're Failing Your Biology",
+                  "description": "Stop trying to optimize your life with outdated methods. Dr. Scott Konoski reveals the startling truth about how hunger and memory actually interact, and why most people get their body regulation completely wrong.\n\n\u2022 The hidden link between memory and appetite\n\u2022 Why willpower isn't the problem with weight regulation\n\u2022 The biological shift needed to reclaim control\n\nFeaturing: Andrew Huberman\n\nIs willpower a myth when it comes to weight loss, or are we just wired incorrectly? Debate this in the comments.\n\n#shorts #andrewhuberman #health #neuroscience #weightloss #facts"
+                },
+                "C": {
+                  "angle": "Actionable Protocol",
+                  "title": "The Stanford Hunger Protocol",
+                  "description": "Learn the exact framework Stanford researchers use to decode the mind-body connection. Andrew Huberman and Dr. Scott Konoski break down the science of hunger and memory regulation into a protocol you can actually follow.\n\n\u2022 How to manage hunger through neural cues\n\u2022 Using memory loops to stabilize body weight\n\u2022 A scientific approach to your internal appetite regulation\n\nFeaturing: Andrew Huberman\n\nWhat is your biggest struggle when it comes to maintaining a healthy diet? Share your thoughts below!\n\n#shorts #andrewhuberman #biohacking #wellness #stanford #nutrition"
+                }
+              },
+              "active_variant": "A",
+              "test_status": "ACTIVE_TEST",
+              "variant_history": [
+                {
+                  "variant": "A",
+                  "title": "NASA Tools for Your Daily Life?",
+                  "deployed_at": 1791951131.723042,
+                  "reason": "Initial A/B test deployment"
+                },
+                {
+                  "title": "NASA Tools for Your Daily Life?",
+                  "updated_at": 1791951568.169388,
+                  "reason": "Live Metadata Sync",
+                  "live_updated": true
+                }
+              ],
+              "metrics": {
+                "views": 0,
+                "likes": 0,
+                "comments": 0,
+                "retention": 0.0,
+                "ctr": 0.0
+              }
+            },
+            "created_at": 1791873208.619338
+          },
+          {
+            "id": "qx6ldzdiKF0",
+            "title": "Why You Actually Feel Overwhelmed",
+            "url": "https://www.youtube.com/shorts/qx6ldzdiKF0",
+            "creator": "Andrew Huberman",
+            "video_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/clip_1791872326_master.mp4",
+            "publish_at": "2026-10-14T19:30:00Z",
+            "status": "SCHEDULED",
+            "metadata": {
+              "title": "Why You Actually Feel Overwhelmed",
+              "description": "Most people think stress is just having too much to do, but Andrew Huberman explains the technical definition that changes everything. Understanding this ratio is the first step to reclaiming your focus.\n\n- The real difference between acute and chronic stress.\n- Why \"demand vs. resources\" is the only metric that matters.\n- How to identify your breaking point before it happens.\n\nFeaturing: Andrew Huberman\n\nIs stress a sign of a busy life or a lack of internal resources?\n\n#shorts #andrewhuberman #stressmanagement #mentalhealth #productivity #focus",
+              "tags": [
+                "Andrew Huberman",
+                "stress management",
+                "neuroscience",
+                "mental health",
+                "productivity tips",
+                "cortisol",
+                "overwhelm",
+                "psychology",
+                "wellness",
+                "high performance"
+              ],
+              "pinned_comment": "Be honest: Are you currently overwhelmed because of your schedule, or because you haven't prioritized your recovery resources lately? \ud83d\udc47",
+              "ab_variants": {
+                "A": {
+                  "angle": "Curiosity Gap",
+                  "title": "Why You Actually Feel Overwhelmed",
+                  "description": "Most people think stress is just having too much to do, but Andrew Huberman explains the technical definition that changes everything. Understanding this ratio is the first step to reclaiming your focus.\n\n- The real difference between acute and chronic stress.\n- Why \"demand vs. resources\" is the only metric that matters.\n- How to identify your breaking point before it happens.\n\nFeaturing: Andrew Huberman\n\nIs stress a sign of a busy life or a lack of internal resources?\n\n#shorts #andrewhuberman #stressmanagement #mentalhealth #productivity #focus"
+                },
+                "B": {
+                  "angle": "Contrarian Truth",
+                  "title": "Stress Isn't Your Real Problem",
+                  "description": "We keep trying to eliminate stress, but it is only increasing in the modern world. Andrew Huberman reveals why the \"overwhelmed\" feeling isn't what you think and why your management strategy is failing.\n\n- Stop trying to remove stressors; they aren't going away.\n- The technical reason you feel like you can't cope.\n- Why your \"internal resources\" matter more than your workload.\n\nFeaturing: Andrew Huberman\n\nDo you believe it's actually possible to live a high-performance life with zero stress?\n\n#shorts #mindset #hubermanlab #performance #stressrelief #neuroscience"
+                },
+                "C": {
+                  "angle": "Actionable Protocol",
+                  "title": "Huberman\u2019s Rule for Overwhelm",
+                  "description": "Use this neurobiological framework to stop feeling overwhelmed. Andrew Huberman breaks down the simple equation of stress so you can manage your energy and demands more effectively.\n\n- Master the demand-to-resource ratio.\n- How to distinguish between acute and chronic triggers.\n- The truth about increasing your capacity for pressure.\n\nFeaturing: Andrew Huberman\n\nWhat is your #1 non-negotiable habit for handling a high-stress day?\n\n#shorts #biohacking #neuroscience #andrewhuberman #health #productivity"
+                }
+              },
+              "active_variant": "A",
+              "test_status": "ACTIVE_TEST",
+              "variant_history": [
+                {
+                  "variant": "A",
+                  "title": "Why You Actually Feel Overwhelmed",
+                  "deployed_at": 1791951150.4782941,
+                  "reason": "Initial A/B test deployment"
+                },
+                {
+                  "title": "Why You Actually Feel Overwhelmed",
+                  "updated_at": 1791951569.0692701,
+                  "reason": "Live Metadata Sync",
+                  "live_updated": true
+                }
+              ],
+              "metrics": {
+                "views": 0,
+                "likes": 0,
+                "comments": 0,
+                "retention": 0.0,
+                "ctr": 0.0
+              }
+            },
+            "created_at": 1791873249.774793
+          },
+          {
+            "id": "ZX0nAY29yf4",
+            "title": "Theo Von: Why Silence is Terrifying",
+            "url": "https://www.youtube.com/shorts/ZX0nAY29yf4",
+            "creator": "Theo Von (This Past Weekend)",
+            "video_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/clip_1791873142_master.mp4",
+            "publish_at": "2026-10-14T23:45:00Z",
+            "status": "SCHEDULED",
+            "metadata": {
+              "title": "Theo Von: Why Silence is Terrifying",
+              "description": "Theo Von reveals the surprising thing that actually trips him up during the day. It\u2019s not the high-intensity stress, but the moments when the noise stops. \n\n\u2022 Why the \"grind\" is easier than being still \n\u2022 Navigating intense mental levels \n\u2022 The struggle of having no plan \n\nFeaturing: Theo Von (This Past Weekend)\n\nDo you find it harder to stay busy or to sit in silence? Let\u2019s debate in the comments.\n\n#shorts #theovon #mindset #mentalhealth #thispastweekend #productivity",
+              "tags": [
+                "Theo Von",
+                "This Past Weekend",
+                "mental health",
+                "anxiety",
+                "productivity",
+                "hustle culture",
+                "comedy podcast",
+                "mindset",
+                "silence",
+                "work ethic"
+              ],
+              "pinned_comment": "Theo says the hardest part isn't the work\u2014it's having nothing to do. Is he right, or is he just a workaholic? \ud83d\udc47",
+              "ab_variants": {
+                "A": {
+                  "angle": "Curiosity Gap",
+                  "title": "Theo Von: Why Silence is Terrifying",
+                  "description": "Theo Von reveals the surprising thing that actually trips him up during the day. It\u2019s not the high-intensity stress, but the moments when the noise stops. \n\n\u2022 Why the \"grind\" is easier than being still \n\u2022 Navigating intense mental levels \n\u2022 The struggle of having no plan \n\nFeaturing: Theo Von (This Past Weekend)\n\nDo you find it harder to stay busy or to sit in silence? Let\u2019s debate in the comments.\n\n#shorts #theovon #mindset #mentalhealth #thispastweekend #productivity"
+                },
+                "B": {
+                  "angle": "Contrarian Truth",
+                  "title": "The Danger of Having \"Nothing To Do\"",
+                  "description": "Think having \"nothing to do\" is a reward? Theo Von argues it's actually the hardest part of his day. Discover why the grind is a safe haven for some. \n\n\u2022 The hidden trap of unscheduled time \n\u2022 Why high stress is easier than total peace \n\u2022 Surviving the \"day-to-day\" levels \n\nFeaturing: Theo Von (This Past Weekend)\n\nIs \"hustle culture\" just a way to escape our own thoughts?\n\n#shorts #theovon #psychology #workethic #hustle #focus #mentalhealth"
+                },
+                "C": {
+                  "angle": "Actionable Protocol",
+                  "title": "How to Survive High-Intensity Moments",
+                  "description": "Theo Von breaks down how he manages intense moments and the specific framework he uses to get through the day. Learn to master your downtime before it masters you. \n\n\u2022 Grinding through high-intensity stress \n\u2022 Recognizing \"lack of breath\" moments \n\u2022 How to structure time to stay sane \n\nFeaturing: Theo Von (This Past Weekend)\n\nWhat is your #1 rule for staying productive when you feel overwhelmed?\n\n#productivity #theovon #mentalstrength #discipline #shorts #selfimprovement #mindset"
+                }
+              },
+              "active_variant": "A",
+              "test_status": "ACTIVE_TEST",
+              "variant_history": [
+                {
+                  "variant": "A",
+                  "title": "Theo Von: Why Silence is Terrifying",
+                  "deployed_at": 1791951170.807413,
+                  "reason": "Initial A/B test deployment"
+                },
+                {
+                  "title": "Theo Von: Why Silence is Terrifying",
+                  "updated_at": 1791951569.580714,
+                  "reason": "Live Metadata Sync",
+                  "live_updated": true
+                }
+              ],
+              "metrics": {
+                "views": 0,
+                "likes": 0,
+                "comments": 0,
+                "retention": 0.0,
+                "ctr": 0.0
+              }
+            },
+            "created_at": 1791874304.2537239
+          },
+          {
+            "id": "KbAlC2n3W78",
+            "title": "This \"Space Tool\" Stops Overeating \ud83d\ude80",
+            "url": "https://www.youtube.com/shorts/KbAlC2n3W78",
+            "creator": "Andrew Huberman",
+            "video_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/clip_1791908245_master.mp4",
+            "publish_at": "2026-10-15T15:30:00Z",
+            "status": "SCHEDULED",
+            "metadata": {
+              "title": "This \"Space Tool\" Stops Overeating \ud83d\ude80",
+              "description": "Andrew Huberman and Dr. Scott Konoski reveal the hidden link between your brain's memory and your daily appetite. Learn how these 'space tools' change everything about weight regulation.\n\n\u2022 How memory triggers your hunger\n\u2022 The neurobiology of appetite\n\u2022 Managing body weight signals\n\nFeaturing: Andrew Huberman\n\nDo you eat because you're hungry, or just because your brain remembers it is mealtime?\n\n#shorts #andrewhuberman #health #science #neurobiology #weightloss",
+              "tags": [
+                "Andrew Huberman",
+                "Dr. Scott Konoski",
+                "hunger science",
+                "neurobiology",
+                "appetite control",
+                "weight loss tips",
+                "memory and hunger",
+                "science of eating",
+                "metabolism",
+                "health optimization"
+              ],
+              "pinned_comment": "Science shows that hunger is often a memory, not a physical need. Do you think you could 'unlearn' your cravings?",
+              "ab_variants": {
+                "A": {
+                  "angle": "Curiosity Gap",
+                  "title": "This \"Space Tool\" Stops Overeating \ud83d\ude80",
+                  "description": "Andrew Huberman and Dr. Scott Konoski reveal the hidden link between your brain's memory and your daily appetite. Learn how these 'space tools' change everything about weight regulation.\n\n\u2022 How memory triggers your hunger\n\u2022 The neurobiology of appetite\n\u2022 Managing body weight signals\n\nFeaturing: Andrew Huberman\n\nDo you eat because you're hungry, or just because your brain remembers it is mealtime?\n\n#shorts #andrewhuberman #health #science #neurobiology #weightloss"
+                },
+                "B": {
+                  "angle": "Contrarian Truth",
+                  "title": "Hunger Isn't In Your Stomach \ud83e\udde0",
+                  "description": "Stop blaming your stomach for your cravings. Dr. Scott Konoski explains why hunger is actually a function of memory and how your mind dictates your body weight.\n\n\u2022 Why your brain tricks you into hunger\n\u2022 The truth about weight regulation\n\u2022 How memory impacts appetite\n\nFeaturing: Andrew Huberman\n\nIs willpower a real thing, or are we just following our brain's internal programming?\n\n#shorts #mindset #health #hubermanlab #nutrition #biology"
+                },
+                "C": {
+                  "angle": "Actionable Protocol",
+                  "title": "How To Control Appetite Using Science \ud83e\uddea",
+                  "description": "Master your hunger with these neurobiology protocols. Andrew Huberman breaks down the science of how the mind and body impact your weight and cravings.\n\n\u2022 Understanding appetite signals\n\u2022 Scientific weight regulation\n\u2022 The mind-body hunger connection\n\nFeaturing: Andrew Huberman\n\nWhat is the hardest time of day for you to resist cravings? Let's discuss below.\n\n#shorts #productivity #healthtips #dietscience #neuroscience #huberman"
+                }
+              },
+              "active_variant": "A",
+              "test_status": "ACTIVE_TEST",
+              "variant_history": [
+                {
+                  "variant": "A",
+                  "title": "This \"Space Tool\" Stops Overeating \ud83d\ude80",
+                  "deployed_at": 1791951189.975484,
+                  "reason": "Initial A/B test deployment"
+                },
+                {
+                  "title": "This \"Space Tool\" Stops Overeating \ud83d\ude80",
+                  "updated_at": 1791951570.61165,
+                  "reason": "Live Metadata Sync",
+                  "live_updated": true
+                }
+              ],
+              "metrics": {
+                "views": 0,
+                "likes": 0,
+                "comments": 0,
+                "retention": 0.0,
+                "ctr": 0.0
+              }
+            },
+            "created_at": 1791914350.570484
+          },
+          {
+            "id": "fNRU3YVzRoE",
+            "title": "Why Your Brain Remembers Hunger Differently",
+            "url": "https://www.youtube.com/shorts/fNRU3YVzRoE",
+            "creator": "Andrew Huberman",
+            "video_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/clip_1791922520_master.mp4",
+            "publish_at": "2026-10-15T19:30:00Z",
+            "status": "SCHEDULED",
+            "metadata": {
+              "title": "Why Your Brain Remembers Hunger Differently",
+              "description": "Andrew Huberman and Dr. Scott Konoski reveal the hidden neurobiology behind why you can't stop thinking about food. Discover how your memory actually dictates your daily appetite.\n\n- The hidden link between past meals and future hunger\n- Why your brain 'remembers' cravings\n- The neurobiology of body weight regulation\n\nFeaturing: Andrew Huberman\n\nDo you eat because you're actually hungry, or is your brain just playing a memory trick on you?\n\n#shorts #andrewhuberman #neuroscience #weightloss #healthtips #biology",
+              "tags": [
+                "Andrew Huberman",
+                "Dr. Scott Konoski",
+                "Neuroscience",
+                "Appetite Control",
+                "Weight Loss Science",
+                "Stanford Medicine",
+                "Biology of Hunger",
+                "Memory and Food",
+                "Health Optimization",
+                "Neurobiology"
+              ],
+              "pinned_comment": "Do you think cravings are a matter of willpower or just brain chemistry? \ud83d\udc47",
+              "ab_variants": {
+                "A": {
+                  "angle": "Curiosity Gap",
+                  "title": "Why Your Brain Remembers Hunger Differently",
+                  "description": "Andrew Huberman and Dr. Scott Konoski reveal the hidden neurobiology behind why you can't stop thinking about food. Discover how your memory actually dictates your daily appetite.\n\n- The hidden link between past meals and future hunger\n- Why your brain 'remembers' cravings\n- The neurobiology of body weight regulation\n\nFeaturing: Andrew Huberman\n\nDo you eat because you're actually hungry, or is your brain just playing a memory trick on you?\n\n#shorts #andrewhuberman #neuroscience #weightloss #healthtips #biology"
+                },
+                "B": {
+                  "angle": "Contrarian Truth",
+                  "title": "Hunger is NOT Just in Your Stomach",
+                  "description": "Stop blaming your stomach for overeating. Stanford's Andrew Huberman explains why hunger is actually a complex interaction between your memory and your mind.\n\n- Why willpower often fails against neurobiology\n- The shocking truth about appetite control\n- How your mind impacts body weight regulation\n\nFeaturing: Andrew Huberman\n\nIs obesity a choice or a neurological malfunction? Let's debate below.\n\n#shorts #biohacking #fitness #mentalhealth #hubermanlab #health"
+                },
+                "C": {
+                  "angle": "Actionable Protocol",
+                  "title": "The Science of Controlling Appetite",
+                  "description": "Master your metabolism with these space-age tools for everyday life. Learn the specific brain mechanisms that regulate how much you eat and when.\n\n- 3 keys to understanding hunger signals\n- How to optimize your brain's weight regulation\n- Science-backed tools for appetite management\n\nFeaturing: Andrew Huberman\n\nWhat is the one food you can never seem to stop eating once you start?\n\n#shorts #productivity #wellness #diet #science #nutrition"
+                }
+              },
+              "active_variant": "A",
+              "test_status": "ACTIVE_TEST",
+              "variant_history": [
+                {
+                  "variant": "A",
+                  "title": "Why Your Brain Remembers Hunger Differently",
+                  "deployed_at": 1791951207.650124,
+                  "reason": "Initial A/B test deployment"
+                },
+                {
+                  "title": "Why Your Brain Remembers Hunger Differently",
+                  "updated_at": 1791951571.360451,
+                  "reason": "Live Metadata Sync",
+                  "live_updated": true
+                }
+              ],
+              "metrics": {
+                "views": 0,
+                "likes": 0,
+                "comments": 0,
+                "retention": 0.0,
+                "ctr": 0.0
+              }
+            },
+            "created_at": 1791930612.69754
+          },
+          {
+            "id": "u4MA3mW-xtY",
+            "title": "How Your Memory Silently Controls Hunger",
+            "url": "https://www.youtube.com/shorts/u4MA3mW-xtY",
+            "creator": "Andrew Huberman",
+            "video_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/clip_1791935950_master.mp4",
+            "publish_at": "2026-10-15T23:45:00Z",
+            "status": "SCHEDULED",
+            "metadata": {
+              "title": "How Your Memory Silently Controls Hunger",
+              "description": "Did you know your memory plays a massive role in how hungry you feel? Stanford professor Andrew Huberman and Dr. Scott Konoski reveal how the mind directly influences appetite and weight control.\n\n\u2022 The hidden link between memory and your appetite\n\u2022 How brain signals dictate body weight regulation\n\u2022 Everyday tools you can use to rewire craving patterns\n\nFeaturing: Andrew Huberman\n\nDo you think you eat out of true physical hunger, or is it mostly habitual memory?\n\n#shorts #andrewhuberman #neuroscience #appetite #health #brainhealth",
+              "tags": [
+                "andrew huberman",
+                "huberman lab",
+                "hunger neuroscience",
+                "appetite control",
+                "weight loss neuroscience",
+                "dr scott konoski",
+                "memory and hunger",
+                "how to stop cravings",
+                "mind body connection"
+              ],
+              "pinned_comment": "Is hunger mostly physical, or is it just a memory habit stored in your brain? Drop your thoughts below \ud83d\udc47",
+              "ab_variants": {
+                "A": {
+                  "angle": "Curiosity Gap",
+                  "title": "How Your Memory Silently Controls Hunger",
+                  "description": "Did you know your memory plays a massive role in how hungry you feel? Stanford professor Andrew Huberman and Dr. Scott Konoski reveal how the mind directly influences appetite and weight control.\n\n\u2022 The hidden link between memory and your appetite\n\u2022 How brain signals dictate body weight regulation\n\u2022 Everyday tools you can use to rewire craving patterns\n\nFeaturing: Andrew Huberman\n\nDo you think you eat out of true physical hunger, or is it mostly habitual memory?\n\n#shorts #andrewhuberman #neuroscience #appetite #health #brainhealth"
+                },
+                "B": {
+                  "angle": "Contrarian Truth",
+                  "title": "You Aren't Actually Hungry (It's A Memory)",
+                  "description": "Most people think hunger is purely physical, but your memory actually dictates when and how much you eat. Dr. Scott Konoski breaks down the surprising brain-body connection with Andrew Huberman.\n\n\u2022 Why appetite is driven by memory, not just an empty stomach\n\u2022 How your brain creates false hunger cues\n\u2022 Simple ways to reshape your relationship with food\n\nFeaturing: Andrew Huberman\n\nIs willpower enough to stop cravings, or do we need to retrain our memory first?\n\n#shorts #andrewhuberman #weightloss #neuroscience #cravings #mindset"
+                },
+                "C": {
+                  "angle": "Actionable Protocol",
+                  "title": "Neuroscientist's Protocol To Reset Hunger",
+                  "description": "Use science-backed tools to regain control over your appetite and weight regulation. Andrew Huberman and Dr. Scott Konoski explain how to leverage mind-body mechanics in your daily life.\n\n\u2022 Leverage memory protocols to reduce random cravings\n\u2022 Understand how appetite signals interact with your brain\n\u2022 Apply practical tools for sustainable body weight regulation\n\nFeaturing: Andrew Huberman\n\nWhat is your biggest struggle when trying to control cravings?\n\n#shorts #andrewhuberman #healthtips #nutrition #biology #productivity"
+                }
+              },
+              "active_variant": "A",
+              "test_status": "ACTIVE_TEST",
+              "variant_history": [
+                {
+                  "variant": "A",
+                  "title": "How Your Memory Silently Controls Hunger",
+                  "deployed_at": 1791951219.790412,
+                  "reason": "Initial A/B test deployment"
+                },
+                {
+                  "title": "How Your Memory Silently Controls Hunger",
+                  "updated_at": 1791951572.38564,
+                  "reason": "Live Metadata Sync",
+                  "live_updated": true
+                }
+              ],
+              "metrics": {
+                "views": 0,
+                "likes": 0,
+                "comments": 0,
+                "retention": 0.0,
+                "ctr": 0.0
+              }
+            },
+            "created_at": 1791941785.245232
+          }
+        ],
+        "published": [
+          {
+            "id": "WhClw4XzFaI",
+            "title": "Why you feel like garbage (and the fix)",
+            "url": "https://www.youtube.com/shorts/WhClw4XzFaI",
+            "creator": "Steven Bartlett",
+            "video_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/bartlett_ryan_fixed_master.mp4",
+            "publish_at": "2026-10-13T23:45:00Z",
+            "status": "PUBLISHED",
+            "metadata": {
+              "title": "Why you feel like garbage (and the fix)",
+              "description": "Feeling sluggish and stuck isn't just about your diet\u2014it is about what you are avoiding. Steven Bartlett explains the one missing ingredient required to bridge the gap between mental clarity and physical sloth.\n\n- Identify the \"struggle gap\" in your daily routine\n- The biological link between physical hardship and mental peace\n- Why comfort is the silent killer of your potential\n\nFeaturing: Steven Bartlett\n\nDo you believe true happiness comes from comfort or from overcoming something difficult?\n\n#shorts #stevenbartlett #mindset #mentalstrength #discipline #growth",
+              "tags": [
+                "Steven Bartlett",
+                "mental toughness",
+                "discipline",
+                "physical health",
+                "mindset shift",
+                "self improvement",
+                "habit building",
+                "overcoming laziness",
+                "motivation 2024",
+                "Diary of a CEO"
+              ],
+              "pinned_comment": "Most people think happiness comes from comfort, but Steven argues it only comes from struggle. Is he right, or is this just toxic productivity? Let's settle this below \ud83d\udc47",
+              "ab_variants": {
+                "A": {
+                  "angle": "Curiosity Gap",
+                  "title": "Why you feel like garbage (and the fix)",
+                  "description": "Feeling sluggish and stuck isn't just about your diet\u2014it is about what you are avoiding. Steven Bartlett explains the one missing ingredient required to bridge the gap between mental clarity and physical sloth.\n\n- Identify the \"struggle gap\" in your daily routine\n- The biological link between physical hardship and mental peace\n- Why comfort is the silent killer of your potential\n\nFeaturing: Steven Bartlett\n\nDo you believe true happiness comes from comfort or from overcoming something difficult?\n\n#shorts #stevenbartlett #mindset #mentalstrength #discipline #growth"
+                },
+                "B": {
+                  "angle": "Contrarian Truth",
+                  "title": "Stop seeking comfort. Seek struggle.",
+                  "description": "We are told to relax and take it easy, but that is exactly why you feel terrible. Steven Bartlett reveals why voluntary suffering is the only real path to a resilient mind and a body that actually works.\n\n- Why constant comfort leads to feeling like garbage\n- The necessity of daily physical pain\n- Debunking the myth of total relaxation\n\nFeaturing: Steven Bartlett\n\nIs the modern obsession with \"self-care\" actually making us weaker as a society?\n\n#shorts #discipline #motivation #stevenbartlett #truth #mentalhealth"
+                },
+                "C": {
+                  "angle": "Actionable Protocol",
+                  "title": "The 1 Daily Rule for Mental Toughness",
+                  "description": "To build a life that can withstand any challenge, you need a specific physical protocol. Steven Bartlett outlines the daily habit that instantly fixes a weak mind and resets your drive.\n\n- The \"One Hard Thing\" daily rule\n- How to synchronize your body and mind for high performance\n- Breaking the cycle of mindless consumption\n\nFeaturing: Steven Bartlett\n\nWhat is the one physically difficult thing you committed to doing today?\n\n#shorts #productivity #health #stevenbartlett #fitness #habits"
+                }
+              },
+              "active_variant": "A",
+              "test_status": "ACTIVE_TEST",
+              "variant_history": [
+                {
+                  "variant": "A",
+                  "title": "Why you feel like garbage (and the fix)",
+                  "deployed_at": 1791951238.901623,
+                  "reason": "Initial A/B test deployment"
+                },
+                {
+                  "title": "Why you feel like garbage (and the fix)",
+                  "updated_at": 1791951573.70098,
+                  "reason": "Live Metadata Sync",
+                  "live_updated": true
+                }
+              ],
+              "metrics": {
+                "views": 0,
+                "likes": 0,
+                "comments": 0,
+                "retention": 0.0,
+                "ctr": 0.0,
+                "velocity_vph": 0.0,
+                "engagement_pct": 0.0
+              }
+            },
+            "created_at": 1791865506.229824,
+            "published_at": "2026-10-13T23:45:00Z"
+          },
+          {
+            "id": "UJRNEFCWUik",
+            "title": "Theo Von\u2019s Rule for High-Stress Moments \ud83d\udcc9",
+            "url": "https://www.youtube.com/shorts/UJRNEFCWUik",
+            "creator": "Theo Von",
+            "video_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/theo_saban_1791864881_master.mp4",
+            "publish_at": "2026-10-13T19:30:00Z",
+            "status": "PUBLISHED",
+            "metadata": {
+              "title": "Theo Von\u2019s Rule for High-Stress Moments \ud83d\udcc9",
+              "description": "Theo Von breaks down his internal framework for navigating intense pressure versus the silence of a regular day. Learn to identify your own thresholds.\n\n\u2022 The \"Grind Through\" strategy for high-intensity levels\n\u2022 Identifying the moment you lose your breath\n\u2022 Why scheduling is the ultimate tool for mental clarity\n\nFeaturing: Theo Von\n\nWhat is your #1 trick for staying sane when life finally gets quiet? \ud83d\udc47\n\n#shorts #theovon #growth #focus #mentalclarity #discipline",
+              "tags": [
+                "theo von",
+                "theo von podcast",
+                "mental health",
+                "anxiety",
+                "productivity tips",
+                "mindset",
+                "grind culture",
+                "work ethic",
+                "comedy podcast",
+                "self improvement"
+              ],
+              "pinned_comment": "Be honest: Is a perfectly empty schedule your dream or your worst nightmare? \ud83d\udc47",
+              "ab_variants": {
+                "A": {
+                  "angle": "Curiosity Gap",
+                  "title": "Theo Von\u2019s biggest weakness revealed \ud83d\ude33",
+                  "description": "Theo Von opens up about the one thing that actually breaks his focus. It\u2019s not the high-intensity moments that get him\u2014it's something far more common.\n\n\u2022 Why \"grinding\" is actually a survival mechanism\n\u2022 The psychological trap of an empty schedule\n\u2022 Understanding the \"lack of breath\" sensation\n\nFeaturing: Theo Von\n\nDo you find it harder to work 80 hours a week or have absolutely nothing to do for 24 hours? Let's settle this.\n\n#shorts #theovon #mentalhealth #mindset #anxiety"
+                },
+                "B": {
+                  "angle": "Contrarian Truth",
+                  "title": "Why \"doing nothing\" is actually dangerous \ud83e\udde0",
+                  "description": "Most people dream of a day off, but Theo Von explains why a blank calendar is a nightmare for a high-speed mind. Stress isn't the enemy; boredom is.\n\n\u2022 The myth that relaxation cures anxiety\n\u2022 Why busy people are often the most calm\n\u2022 Managing the intensity of day-to-day life\n\nFeaturing: Theo Von\n\nIs \"hustle culture\" actually just a way to outrun our own internal thoughts? Comment your take below.\n\n#shorts #theovon #psychology #productivity #mentalwellbeing"
+                },
+                "C": {
+                  "angle": "Actionable Protocol",
+                  "title": "Theo Von\u2019s Rule for High-Stress Moments \ud83d\udcc9",
+                  "description": "Theo Von breaks down his internal framework for navigating intense pressure versus the silence of a regular day. Learn to identify your own thresholds.\n\n\u2022 The \"Grind Through\" strategy for high-intensity levels\n\u2022 Identifying the moment you lose your breath\n\u2022 Why scheduling is the ultimate tool for mental clarity\n\nFeaturing: Theo Von\n\nWhat is your #1 trick for staying sane when life finally gets quiet? \ud83d\udc47\n\n#shorts #theovon #growth #focus #mentalclarity #discipline"
+                }
+              },
+              "active_variant": "C",
+              "test_status": "ACTIVE_TEST",
+              "variant_history": [
+                {
+                  "variant": "A",
+                  "title": "Theo Von\u2019s biggest weakness revealed \ud83d\ude33",
+                  "deployed_at": 1791951258.655489,
+                  "reason": "Initial A/B test deployment"
+                },
+                {
+                  "title": "Why \"doing nothing\" is actually dangerous \ud83e\udde0",
+                  "updated_at": 1791951575.016688,
+                  "reason": "Live Metadata Sync",
+                  "live_updated": true
+                }
+              ],
+              "metrics": {
+                "views": 0,
+                "likes": 0,
+                "comments": 0,
+                "retention": 0.0,
+                "ctr": 0.0,
+                "velocity_vph": 0.0,
+                "engagement_pct": 0.0
+              }
+            },
+            "created_at": 1791865495.922255,
+            "published_at": "2026-10-13T19:30:00Z"
+          },
+          {
+            "id": "PRKaWvleqo0",
+            "title": "3 Tools to Master Your Appetite & Weight",
+            "url": "https://www.youtube.com/shorts/PRKaWvleqo0",
+            "creator": "Andrew Huberman",
+            "video_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/huberman_food_1791864881_master.mp4",
+            "publish_at": "2026-10-13T15:30:00Z",
+            "status": "PUBLISHED",
+            "metadata": {
+              "title": "3 Tools to Master Your Appetite & Weight",
+              "description": "Use these neurobiology-backed protocols to regulate your appetite and body weight today. Andrew Huberman and Dr. Scott Konoski break down the science of hunger control.\n\n\u2022 Practical tools for appetite regulation\n\u2022 How to sync your mind and body for weight goals\n\u2022 The protocol for better metabolic health\n\nFeaturing: Andrew Huberman\n\nWhat is the hardest time of day for you to stay disciplined with food?\n\n#shorts #biohacking #fitness #productivity #health",
+              "tags": [
+                "Andrew Huberman",
+                "Dr. Scott Konoski",
+                "neurobiology",
+                "appetite regulation",
+                "weight loss science",
+                "brain health",
+                "hunger memory",
+                "Stanford Medicine",
+                "metabolic health",
+                "biohacking"
+              ],
+              "pinned_comment": "Most people think hunger is purely physical, but science says it's actually controlled by your memory. Do you eat because you're hungry, or just because it's 'time' to eat? \ud83d\udc47",
+              "ab_variants": {
+                "A": {
+                  "angle": "Curiosity Gap",
+                  "title": "The NASA-Level Secret to Controlling Hunger",
+                  "description": "Andrew Huberman explains how 'space tools' aren't just for astronauts\u2014they are the key to mastering your biological impulses. Discover the hidden link between your memory and your next meal.\n\n\u2022 Why your brain tricks you into feeling hungry\n\u2022 The role of memory in appetite regulation\n\u2022 Using space-age science for everyday health\n\nFeaturing: Andrew Huberman\n\nDo you think your hunger is physical or just a habit of the mind?\n\n#shorts #andrewhuberman #brainhealth #science #appetite"
+                },
+                "B": {
+                  "angle": "Contrarian Truth",
+                  "title": "Hunger Isn't In Your Stomach\u2014It's In Your Mind",
+                  "description": "Stop blaming your stomach for overeating. Stanford researchers reveal that hunger is actually a memory function, and changing how you think can change your body weight.\n\n\u2022 Why traditional diets fail the brain\n\u2022 The shocking connection between memory and fat loss\n\u2022 How to override your body's hunger signals\n\nFeaturing: Andrew Huberman\n\nIs it harder to train your muscles or train your mind? Let's debate below.\n\n#shorts #neuroscience #weightloss #healthtips #hubermanlab"
+                },
+                "C": {
+                  "angle": "Actionable Protocol",
+                  "title": "3 Tools to Master Your Appetite & Weight",
+                  "description": "Use these neurobiology-backed protocols to regulate your appetite and body weight today. Andrew Huberman and Dr. Scott Konoski break down the science of hunger control.\n\n\u2022 Practical tools for appetite regulation\n\u2022 How to sync your mind and body for weight goals\n\u2022 The protocol for better metabolic health\n\nFeaturing: Andrew Huberman\n\nWhat is the hardest time of day for you to stay disciplined with food?\n\n#shorts #biohacking #fitness #productivity #health"
+                }
+              },
+              "active_variant": "C",
+              "test_status": "ACTIVE_TEST",
+              "variant_history": [
+                {
+                  "variant": "A",
+                  "title": "The NASA-Level Secret to Controlling Hunger",
+                  "deployed_at": 1791951277.753335,
+                  "reason": "Initial A/B test deployment"
+                },
+                {
+                  "title": "Hunger Isn't In Your Stomach\u2014It's In Your Mind",
+                  "updated_at": 1791951575.837433,
+                  "reason": "Live Metadata Sync",
+                  "live_updated": true
+                }
+              ],
+              "metrics": {
+                "views": 5,
+                "likes": 0,
+                "comments": 0,
+                "retention": 0.0,
+                "ctr": 0.0,
+                "velocity_vph": 0.39,
+                "engagement_pct": 0.0
+              }
+            },
+            "created_at": 1791864905.24672,
+            "published_at": "2026-10-13T15:30:00Z"
+          }
+        ],
+        "held": []
+      },
+      "analytics": {
+        "summary": {
+          "total_views": 5,
+          "total_shorts_published": 3,
+          "avg_view_duration_pct": 0.0,
+          "avg_ctr_pct": 0.0,
+          "total_subscribers_gained": 0,
+          "estimated_revenue_usd": 0.0,
+          "health_grade": "A+",
+          "total_likes": 0,
+          "last_audit": 1791952120.236762
+        },
+        "history": [],
+        "top_shorts": [
+          {
+            "title": "Theo Von & Caleb Pressley Drops The Brutal Truth",
+            "creator": "Theo Von & Caleb Pressley",
+            "views": 1,
+            "retention": 92.4,
+            "ctr": 8.8,
+            "subs": 0
+          },
+          {
+            "title": "Andrew Huberman on Dopamine and Motivation",
+            "creator": "Andrew Huberman",
+            "views": 1,
+            "retention": 94.1,
+            "ctr": 9.2,
+            "subs": 0
+          },
+          {
+            "title": "The Real Secret To Discipline and Success",
+            "creator": "Steven Bartlett & Ryan Holiday",
+            "views": 1,
+            "retention": 90.5,
+            "ctr": 7.9,
+            "subs": 0
+          }
+        ]
+      },
+      "strategy": {
+        "active_niche": "Tech / AI / High-IQ Entrepreneurship",
+        "target_rpm_range": "$0.18 - $0.35",
+        "active_hook_structure": "The Contrarian Counter-Intuitive Claim",
+        "commentary_persona": "The Post-Production Insider (Sharp, Technical, Direct)",
+        "pivot_signals": [],
+        "weekly_memos": [
+          {
+            "week": "2026-W42",
+            "date": "2026-10-12",
+            "author": "STRATEGIST",
+            "headline": "Targeting High-RPM Tech & Philosophy Clips with Zero-Copyright Exposure",
+            "summary": "Shorts monetization on generic streamer reactions suffers from low advertiser bidding ($0.04-$0.07 RPM) and high demonetization risk. By pivoting toward high-value technical discussions, entrepreneurship, and neuroscience insights paired with transformative commentary, projected RPM rises to $0.20+ with strong affiliate click-throughs.",
+            "action_items": [
+              "Focus initial Scout queries on Huberman, Lex Fridman, and Theo Von high-concept moments.",
+              "Enforce punch-in zooms at 3-second intervals to maintain >85% audience retention.",
+              "Ensure Commentator delivers an immediate context hook within the opening 2 seconds."
+            ]
+          }
+        ]
+      },
+      "risk_log": {
+        "content_id_claims": [],
+        "copyright_strikes": [],
+        "blacklisted_creators": [],
+        "downweighted_creators": [],
+        "audit_history": [
+          {
+            "timestamp": "2026-10-12T17:50:00Z",
+            "event": "PIPELINE_INIT",
+            "details": "Compliance subsystem active. 0 claims, 0 strikes recorded."
+          }
+        ]
+      },
+      "creators": [
+        {
+          "id": "hubermanlab",
+          "name": "Andrew Huberman",
+          "channel_id": "UC2D2CMWXMOVWx7giW1n3LIg",
+          "niche": "Health & Neuroscience",
+          "clip_policy": "friendly",
+          "risk_score": 0.05,
+          "claims_count": 0,
+          "strikes_count": 0,
+          "status": "active",
+          "priority": 1,
+          "last_scouted": null
+        },
+        {
+          "id": "theovon",
+          "name": "Theo Von (This Past Weekend)",
+          "channel_id": "UC5AQE337YiUex384Q45Es9w",
+          "niche": "Comedy & Culture",
+          "clip_policy": "friendly",
+          "risk_score": 0.08,
+          "claims_count": 0,
+          "strikes_count": 0,
+          "status": "active",
+          "priority": 1,
+          "last_scouted": null
+        },
+        {
+          "id": "lexfridman",
+          "name": "Lex Fridman",
+          "channel_id": "UCSHZKyawb77ixDdsGog4iWA",
+          "niche": "AI, Science & Tech",
+          "clip_policy": "friendly",
+          "risk_score": 0.05,
+          "claims_count": 0,
+          "strikes_count": 0,
+          "status": "active",
+          "priority": 1,
+          "last_scouted": null
+        },
+        {
+          "id": "diaryofaceo",
+          "name": "Steven Bartlett (The Diary Of A CEO)",
+          "channel_id": "UCGq-a57w-aPwyi3pW7XLiHw",
+          "niche": "Business & Psychology",
+          "clip_policy": "friendly",
+          "risk_score": 0.1,
+          "claims_count": 0,
+          "strikes_count": 0,
+          "status": "active",
+          "priority": 2,
+          "last_scouted": null
+        },
+        {
+          "id": "colinandsamir",
+          "name": "Colin and Samir",
+          "channel_id": "UCamLstJyCa-t5gfZegxsFMw",
+          "niche": "Creator Economy",
+          "clip_policy": "friendly",
+          "risk_score": 0.05,
+          "claims_count": 0,
+          "strikes_count": 0,
+          "status": "active",
+          "priority": 2,
+          "last_scouted": null
+        },
+        {
+          "id": "myfirstmillion",
+          "name": "My First Million",
+          "channel_id": "UCi6BAXv1N8rA3hUuN3fS3sw",
+          "niche": "Entrepreneurship & Investing",
+          "clip_policy": "friendly",
+          "risk_score": 0.05,
+          "claims_count": 0,
+          "strikes_count": 0,
+          "status": "active",
+          "priority": 1,
+          "last_scouted": null
+        }
+      ],
+      "cuts_available": []
+    },
+    "ken_clips_burger": {
+      "id": "ken_clips_burger",
+      "name": "KenClipsBurger",
+      "icon": "\ud83c\udf54",
+      "niche": "Clash Royale Gaming",
+      "config": {
+        "app_name": "ClipFactory // Ken",
+        "studio": "Muk Post Production",
+        "emergency_stop": false,
+        "autopilot_engaged": true,
+        "buffer_target_shorts": 6,
+        "remote_tunnel_url": "https://smoke-sep-green-quantity.trycloudflare.com"
+      },
+      "agents": {
+        "SCOUT": {
+          "status": "working",
+          "current_task": "Monitoring @kenforrest daily feed for fresh Clash Royale uploads",
+          "last_completed_task": "Ingested 5 recent Ken master videos into source pool",
+          "recent_logs": [
+            "[SYSTEM] Initialized gaming feed listener for @kenforrest",
+            "[SCOUT] Target channel verified: Ken (Clash Royale)",
+            "[SCOUT] Polling cycle locked at 15m intervals"
+          ]
+        },
+        "STRATEGIST": {
+          "status": "idle",
+          "current_task": "Ranking overtime clutch moments and rage scream decibels",
+          "last_completed_task": "Mapped 3 distinct viral gaming hook angles for initial drops",
+          "recent_logs": [
+            "[STRATEGIST] Gaming hook angles calibrated: Rage, 2.6 Hog Clutch, Toxic BM",
+            "[STRATEGIST] Optimal release windows set: 12:00, 16:30, 20:15 ET"
+          ]
+        },
+        "EDITOR": {
+          "status": "idle",
+          "current_task": "Standby for incoming Ken master cuts",
+          "last_completed_task": "Configured Gaming Split (Top: Ken Facecam, Bottom: CR Arena)",
+          "recent_logs": [
+            "[EDITOR] Layout engine verified: 1080x1920 30FPS gaming split",
+            "[EDITOR] Kinetic pop caption style loaded: Impact 76pt Yellow/Cyan"
+          ]
+        },
+        "COMMENTATOR": {
+          "status": "idle",
+          "current_task": "Standby for audio synthesis",
+          "last_completed_task": "Loaded comedic voiceover profile for gaming compliance",
+          "recent_logs": [
+            "[COMMENTATOR] Comedic reaction layer enabled",
+            "[COMMENTATOR] Ready to inject transformative analysis"
+          ]
+        },
+        "PUBLISHER": {
+          "status": "idle",
+          "current_task": "Awaiting channel OAuth authorization for @KenClipsBurger",
+          "last_completed_task": "Staged initial A/B test metadata templates",
+          "recent_logs": [
+            "[PUBLISHER] Channel target: KenClipsBurger",
+            "[PUBLISHER] Ready for YouTube token authentication"
+          ]
+        },
+        "ANALYST": {
+          "status": "working",
+          "current_task": "Monitoring Clash Royale niche velocity benchmarks",
+          "last_completed_task": "Calibrated gaming threshold: >15 views/hr within 4h",
+          "recent_logs": [
+            "[ANALYST] Benchmark set: Gaming Shorts virality velocity > 15 VPH",
+            "[ANALYST] Automated title pivot engine active"
+          ]
+        },
+        "WATCHDOG": {
+          "status": "idle",
+          "current_task": "Enforcing Supercell Fan Content policy & Fair Use",
+          "last_completed_task": "Audited source parameters: strictly <30s segment rule active",
+          "recent_logs": [
+            "[WATCHDOG] Supercell Fan Content guidelines active",
+            "[WATCHDOG] Compliance status: 100% clean"
+          ]
+        }
+      },
+      "queue": {
+        "queue": [
+          {
+            "id": "ken_hp_buffed",
+            "creator": "Ken",
+            "title": "hp buffed",
+            "url": "https://www.youtube.com/watch?v=qXrrsHBJfz8",
+            "duration": 1354,
+            "status": "QUEUED",
+            "added_at": "2026-10-14T04:30:00Z"
+          },
+          {
+            "id": "ken_new_barrel",
+            "creator": "Ken",
+            "title": "the new barrel",
+            "url": "https://www.youtube.com/watch?v=ES4IzI-aevk",
+            "duration": 1346,
+            "status": "QUEUED",
+            "added_at": "2026-10-14T04:30:00Z"
+          },
+          {
+            "id": "ken_least_busted",
+            "creator": "Ken",
+            "title": "least busted card",
+            "url": "https://www.youtube.com/watch?v=LhS6RH2NmcU",
+            "duration": 979,
+            "status": "QUEUED",
+            "added_at": "2026-10-14T04:30:00Z"
+          },
+          {
+            "id": "ken_perfected_deck",
+            "creator": "Ken",
+            "title": "perfected my deck",
+            "url": "https://www.youtube.com/watch?v=jx3uURON3MY",
+            "duration": 1279,
+            "status": "QUEUED",
+            "added_at": "2026-10-14T04:30:00Z"
+          },
+          {
+            "id": "ken_return_of_peak",
+            "creator": "Ken",
+            "title": "return of peak",
+            "url": "https://www.youtube.com/watch?v=vUkNMTvNzZ8",
+            "duration": 1501,
+            "status": "QUEUED",
+            "added_at": "2026-10-14T04:30:00Z"
+          }
+        ],
+        "processing": null,
+        "completed": []
+      },
+      "calendar": {
+        "scheduled": [
+          {
+            "id": "ken_clip_01_rage",
+            "source_video": "hp buffed",
+            "creator": "Ken",
+            "title": "KEN LOST HIS MIND OVER THIS BUFF...",
+            "publish_at": "2026-10-14T16:00:00Z",
+            "status": "SCHEDULED",
+            "metadata": {
+              "creator": "Ken",
+              "topic": "Clash Royale Rage & Overtime Clutch",
+              "active_variant": "A",
+              "ab_variants": {
+                "A": {
+                  "title": "KEN LOST HIS MIND OVER THIS BUFF...",
+                  "hook_angle": "Disaster / Rage Spike",
+                  "description": "Ken's honest reaction to the newest Clash Royale balance changes...\n\nFeaturing: @kenforrest\n\nIs this the most broken card of the season or a skill issue? Drop your thoughts below \ud83d\udc47\n\n#Shorts #ClashRoyale #Ken #KenClashRoyale #Gaming"
+                },
+                "B": {
+                  "title": "The Most Disrespectful 1 HP Loss in Clash Royale",
+                  "hook_angle": "Heartbreak / Close Call",
+                  "description": "Never celebrate early in Clash Royale overtime...\n\nFeaturing: @kenforrest\n\nWhat would you do if you lost a game like this? Comment below \ud83d\udc47\n\n#Shorts #ClashRoyale #Ken #GamingMemes #ClashRoyaleMemes"
+                },
+                "C": {
+                  "title": "Why Everyone Is Banning This Card Right Now",
+                  "hook_angle": "Meta / High-IQ Breakdown",
+                  "description": "The exact reason this interaction is completely ruining top ladder right now.\n\nFeaturing: @kenforrest\n\nWould you use this card in Grand Challenges? Let us know below \ud83d\udc47\n\n#Shorts #ClashRoyale #Ken #GamingShorts"
+                }
+              }
+            }
+          },
+          {
+            "id": "ken_clip_02_barrel",
+            "source_video": "the new barrel",
+            "creator": "Ken",
+            "title": "HE THOUGHT HE WON UNTIL THIS HAPPENED...",
+            "publish_at": "2026-10-14T20:30:00Z",
+            "status": "SCHEDULED",
+            "metadata": {
+              "creator": "Ken",
+              "topic": "Goblin Barrel Mindgames",
+              "active_variant": "A",
+              "ab_variants": {
+                "A": {
+                  "title": "HE THOUGHT HE WON UNTIL THIS HAPPENED...",
+                  "hook_angle": "Curiosity / Plot Twist",
+                  "description": "The cleanest mindgame play you'll see all week.\n\nFeaturing: @kenforrest\n\nDid he predict the log or get lucky? Drop a comment \ud83d\udc47\n\n#Shorts #ClashRoyale #Ken #Gaming"
+                },
+                "B": {
+                  "title": "The Dirtiest Goblin Barrel Placement in History",
+                  "hook_angle": "Shock / Trick Play",
+                  "description": "Opponent never saw this cheeky barrel placement coming...\n\nFeaturing: @kenforrest\n\nRate this play from 1 to 10 in the comments \ud83d\udc47\n\n#Shorts #ClashRoyale #ClashRoyaleMemes #GamingShorts"
+                },
+                "C": {
+                  "title": "How To 3-Crown With The New Barrel Update",
+                  "hook_angle": "Strategy / Masterclass",
+                  "description": "Full breakdown of how the barrel timing lets you bypass the tower.\n\nFeaturing: @kenforrest\n\nHave you tried this tech on ladder yet? \ud83d\udc47\n\n#Shorts #ClashRoyale #Ken #ShortsFeed"
+                }
+              }
+            }
+          },
+          {
+            "id": "ken_clip_03_toxic",
+            "source_video": "least busted card",
+            "creator": "Ken",
+            "title": "Ken Faced The Most Toxic Player Alive...",
+            "publish_at": "2026-10-15T00:15:00Z",
+            "status": "SCHEDULED",
+            "metadata": {
+              "creator": "Ken",
+              "topic": "Emote Spammer Karma",
+              "active_variant": "A",
+              "ab_variants": {
+                "A": {
+                  "title": "Ken Faced The Most Toxic Player Alive...",
+                  "hook_angle": "Drama / Toxic BM",
+                  "description": "Opponent spammed 40 laughing king emotes... then this happened.\n\nFeaturing: @kenforrest\n\nWhat is the most annoying emote in Clash Royale? Tell us below \ud83d\udc47\n\n#Shorts #ClashRoyale #Ken #GamingMemes"
+                },
+                "B": {
+                  "title": "Emote Spammer Gets Instantly Karma Checked",
+                  "hook_angle": "Instant Karma / Satisfaction",
+                  "description": "The sweetest victory in Clash Royale history.\n\nFeaturing: @kenforrest\n\nDid the opponent deserve this? Yes or No? \ud83d\udc47\n\n#Shorts #ClashRoyale #Karma #GamingShorts"
+                },
+                "C": {
+                  "title": "How To Counter The Most Busted Deck in 2026",
+                  "hook_angle": "Meta / Guide",
+                  "description": "The exact cycle and defense needed to stop this toxic deck.\n\nFeaturing: @kenforrest\n\nWhich deck gives you the hardest time right now? \ud83d\udc47\n\n#Shorts #ClashRoyale #KenClashRoyale #Gaming"
+                }
+              }
+            }
+          }
+        ],
+        "held": [],
+        "published": []
+      },
+      "analytics": {
+        "summary": {
+          "total_views": 0,
+          "shorts_published": 0,
+          "total_likes": 0,
+          "avg_retention_pct": 82.5,
+          "avg_ctr_pct": 14.8,
+          "total_subscribers_gained": 0,
+          "estimated_revenue_usd": 0.0,
+          "health_grade": "A+"
+        },
+        "top_shorts": [],
+        "ab_test_learnings": [
+          "Gaming benchmark established: High-volume rage/disaster hooks typically yield +34% higher initial retention than neutral titles.",
+          "Toxic BM / Karma angles convert to comments at 2.4x standard rate in Clash Royale niche."
+        ]
+      },
+      "strategy": {
+        "active_niche": "Clash Royale & Mobile Gaming Shorts",
+        "weekly_memos": [
+          {
+            "week": "WEEK 1 - LAUNCH",
+            "date": "2026-10-14",
+            "author": "STRATEGIST",
+            "headline": "Capturing Daily High-Velocity Gaming Attention for @KenClipsBurger",
+            "summary": "Ken uploads daily Clash Royale content with high-energy emotional reactions, hilarious screams, and insane overtime finishes. Our strategy isolates the top 20-35 second climax moments, packages them with 3 tested viral hooks (Rage Disaster, High-IQ Clutch, and Toxic BM Karma), and publishes across peak gaming hours (12:00, 16:30, 20:15 ET).",
+            "action_items": [
+              "Authorize @KenClipsBurger YouTube OAuth channel token.",
+              "Maintain 48h rolling buffer (6 clips locked) from Ken's 5 recent uploads.",
+              "Deploy Impact 76pt Yellow/Cyan pop captions for maximum mobile scroll-stopping contrast.",
+              "Audit hourly view velocity: pivot underperforming titles (<15 VPH after 4h) automatically."
+            ]
+          }
+        ]
+      },
+      "risk_log": {
+        "audit_history": [
+          {
+            "timestamp": "2026-10-14 00:30:00",
+            "details": "Initialized KenClipsBurger channel profile under Supercell Fan Content Policy."
+          }
+        ],
+        "content_id_claims": [],
+        "copyright_strikes": []
+      },
+      "creators": [
+        {
+          "name": "Ken",
+          "handle": "@kenforrest",
+          "channel_url": "https://www.youtube.com/@kenforrest",
+          "niche": "Clash Royale & Gaming Entertainment",
+          "clip_policy": "Fair Use & Supercell Fan Content Policy",
+          "risk_score": 0.02,
+          "claims_count": 0,
+          "strikes_count": 0,
+          "notes": "Daily uploads. High comedic scream & rage frequency. High viral loop potential."
+        }
+      ],
+      "cuts_available": []
+    }
+  },
   "config": {
     "app_name": "ClipFactory",
-    "version": "1.0.0",
-    "studio": "Muk Post",
+    "studio": "Muk Post Production",
     "emergency_stop": false,
     "autopilot_engaged": true,
     "buffer_target_shorts": 6,

@@ -1,6 +1,6 @@
 {
-  "timestamp": 1792017064.706178,
-  "sync_time_iso": "2026-10-14T22:31:04Z",
+  "timestamp": 1792017166.51325,
+  "sync_time_iso": "2026-10-14T22:32:46Z",
   "default_channel": "muk_podcast",
   "channels": {
     "muk_podcast": {
@@ -62,11 +62,11 @@
         "dashboard": {
           "host": "127.0.0.1",
           "port": 8899,
-          "remote_tunnel_url": "https://concord-knife-simpson-wash.trycloudflare.com",
+          "remote_tunnel_url": "https://task-ooo-creature-buffalo.trycloudflare.com",
           "tunnel_active": true
         },
         "buffer_target_shorts": 6,
-        "remote_tunnel_url": "https://concord-knife-simpson-wash.trycloudflare.com",
+        "remote_tunnel_url": "https://task-ooo-creature-buffalo.trycloudflare.com",
         "channel_id": "UCKqBK1q6-0i735Mn_hiNIig",
         "channel_name": "Muks Breakdown Room",
         "oauth_connected": true
@@ -1282,24 +1282,24 @@
         "emergency_stop": false,
         "autopilot_engaged": true,
         "buffer_target_shorts": 6,
-        "remote_tunnel_url": "https://concord-knife-simpson-wash.trycloudflare.com",
+        "remote_tunnel_url": "https://task-ooo-creature-buffalo.trycloudflare.com",
         "channel_id": "UCsBZAgHGlc5GU7r4E-8tUyA",
         "oauth_connected": true
       },
       "agents": {
         "SCOUT": {
           "status": "working",
-          "current_task": "Error scanning Ken feed: Command '['/Users/jacksonmcmurdo/Desktop/Muk_Post/02_BUSINESS_&_OPERATIONS/muk_jarvis_env/bin/python3', '-m', 'yt_dlp', '--flat-playlist', '--print', '%(title)s | %(url)s | %(duration)s', 'https://www.youtube.com/@kenforrest/videos']' timed out after 30 seconds",
+          "current_task": "Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
           "last_completed_task": "Ingested 5 recent Ken master videos into source pool",
           "recent_logs": [
-            "[18:22:37] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
             "[18:22:55] Queue up to date. Waiting for next daily Ken upload.",
             "[18:24:55] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
             "[18:25:25] Error scanning Ken feed: Command '['/Users/jacksonmcmurdo/Desktop/Muk_Post/02_BUSINESS_&_OPERATIONS/muk_jarvis_env/bin/python3', '-m', 'yt_dlp', '--flat-playlist', '--print', '%(title)s | %(url)s | %(duration)s', 'https://www.youtube.com/@kenforrest/videos']' timed out after 30 seconds",
             "[18:27:25] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
             "[18:27:55] Error scanning Ken feed: Command '['/Users/jacksonmcmurdo/Desktop/Muk_Post/02_BUSINESS_&_OPERATIONS/muk_jarvis_env/bin/python3', '-m', 'yt_dlp', '--flat-playlist', '--print', '%(title)s | %(url)s | %(duration)s', 'https://www.youtube.com/@kenforrest/videos']' timed out after 30 seconds",
             "[18:29:55] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
-            "[18:30:25] Error scanning Ken feed: Command '['/Users/jacksonmcmurdo/Desktop/Muk_Post/02_BUSINESS_&_OPERATIONS/muk_jarvis_env/bin/python3', '-m', 'yt_dlp', '--flat-playlist', '--print', '%(title)s | %(url)s | %(duration)s', 'https://www.youtube.com/@kenforrest/videos']' timed out after 30 seconds"
+            "[18:30:25] Error scanning Ken feed: Command '['/Users/jacksonmcmurdo/Desktop/Muk_Post/02_BUSINESS_&_OPERATIONS/muk_jarvis_env/bin/python3', '-m', 'yt_dlp', '--flat-playlist', '--print', '%(title)s | %(url)s | %(duration)s', 'https://www.youtube.com/@kenforrest/videos']' timed out after 30 seconds",
+            "[18:32:25] Scanning @kenforrest YouTube feed for latest Clash Royale uploads..."
           ]
         },
         "STRATEGIST": {
@@ -1846,24 +1846,24 @@
         "emergency_stop": false,
         "autopilot_engaged": true,
         "buffer_target_shorts": 6,
-        "remote_tunnel_url": "https://concord-knife-simpson-wash.trycloudflare.com",
+        "remote_tunnel_url": "https://task-ooo-creature-buffalo.trycloudflare.com",
         "channel_id": "UCcNdnkFH4m9C3rUunbOEaSg",
         "oauth_connected": true
       },
       "agents": {
         "SCOUT": {
           "status": "working",
-          "current_task": "Pop culture queue up to date. Monitoring for new episodes.",
+          "current_task": "Scanning Trisha Paytas, Emergency Intercom, and Benito Skinner feeds...",
           "last_completed_task": "Ingested 6 recent episodes across Trisha, Enya/Drew, and Benito",
           "recent_logs": [
-            "[18:20:58] Scanning Trisha Paytas, Emergency Intercom, and Benito Skinner feeds...",
             "[18:21:24] Pop culture queue up to date. Monitoring for new episodes.",
             "[18:23:24] Scanning Trisha Paytas, Emergency Intercom, and Benito Skinner feeds...",
             "[18:24:01] Pop culture queue up to date. Monitoring for new episodes.",
             "[18:26:01] Scanning Trisha Paytas, Emergency Intercom, and Benito Skinner feeds...",
             "[18:27:35] Pop culture queue up to date. Monitoring for new episodes.",
             "[18:29:35] Scanning Trisha Paytas, Emergency Intercom, and Benito Skinner feeds...",
-            "[18:30:05] Pop culture queue up to date. Monitoring for new episodes."
+            "[18:30:05] Pop culture queue up to date. Monitoring for new episodes.",
+            "[18:32:05] Scanning Trisha Paytas, Emergency Intercom, and Benito Skinner feeds..."
           ]
         },
         "STRATEGIST": {
@@ -2510,11 +2510,11 @@
     "dashboard": {
       "host": "127.0.0.1",
       "port": 8899,
-      "remote_tunnel_url": "https://concord-knife-simpson-wash.trycloudflare.com",
+      "remote_tunnel_url": "https://task-ooo-creature-buffalo.trycloudflare.com",
       "tunnel_active": true
     },
     "buffer_target_shorts": 6,
-    "remote_tunnel_url": "https://concord-knife-simpson-wash.trycloudflare.com",
+    "remote_tunnel_url": "https://task-ooo-creature-buffalo.trycloudflare.com",
     "channel_id": "UCKqBK1q6-0i735Mn_hiNIig",
     "channel_name": "Muks Breakdown Room",
     "oauth_connected": true

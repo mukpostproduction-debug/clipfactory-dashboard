@@ -1,6 +1,6 @@
 {
-  "timestamp": 1791997968.970906,
-  "sync_time_iso": "2026-10-14T17:12:48Z",
+  "timestamp": 1791998031.083711,
+  "sync_time_iso": "2026-10-14T17:13:51Z",
   "default_channel": "muk_podcast",
   "channels": {
     "muk_podcast": {
@@ -1206,17 +1206,17 @@
       "agents": {
         "SCOUT": {
           "status": "working",
-          "current_task": "Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
+          "current_task": "Queue up to date. Waiting for next daily Ken upload.",
           "last_completed_task": "Ingested 5 recent Ken master videos into source pool",
           "recent_logs": [
-            "[13:03:21] Queue up to date. Waiting for next daily Ken upload.",
             "[13:05:21] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
             "[13:05:39] Queue up to date. Waiting for next daily Ken upload.",
             "[13:07:39] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
             "[13:08:04] Queue up to date. Waiting for next daily Ken upload.",
             "[13:10:04] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
             "[13:10:34] Error scanning Ken feed: Command '['/Users/jacksonmcmurdo/Desktop/Muk_Post/02_BUSINESS_&_OPERATIONS/muk_jarvis_env/bin/python3', '-m', 'yt_dlp', '--flat-playlist', '--print', '%(title)s | %(url)s | %(duration)s', 'https://www.youtube.com/@kenforrest/videos']' timed out after 30 seconds",
-            "[13:12:34] Scanning @kenforrest YouTube feed for latest Clash Royale uploads..."
+            "[13:12:34] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
+            "[13:12:50] Queue up to date. Waiting for next daily Ken upload."
           ]
         },
         "STRATEGIST": {
@@ -1224,14 +1224,14 @@
           "current_task": "Buffer healthy: 3 scheduled Ken Shorts staged.",
           "last_completed_task": "Mapped 3 distinct viral gaming hook angles for initial drops",
           "recent_logs": [
-            "[12:54:03] Buffer healthy: 3 scheduled Ken Shorts staged.",
             "[12:56:17] Buffer healthy: 3 scheduled Ken Shorts staged.",
             "[12:58:36] Buffer healthy: 3 scheduled Ken Shorts staged.",
             "[13:01:06] Buffer healthy: 3 scheduled Ken Shorts staged.",
             "[13:03:21] Buffer healthy: 3 scheduled Ken Shorts staged.",
             "[13:05:39] Buffer healthy: 3 scheduled Ken Shorts staged.",
             "[13:08:04] Buffer healthy: 3 scheduled Ken Shorts staged.",
-            "[13:10:34] Buffer healthy: 3 scheduled Ken Shorts staged."
+            "[13:10:34] Buffer healthy: 3 scheduled Ken Shorts staged.",
+            "[13:12:50] Buffer healthy: 3 scheduled Ken Shorts staged."
           ]
         },
         "EDITOR": {
@@ -1276,14 +1276,14 @@
           "current_task": "Auditing velocity of active Ken Clash Royale Shorts...",
           "last_completed_task": "Calibrated gaming threshold: >15 views/hr within 4h",
           "recent_logs": [
-            "[12:54:03] Auditing velocity of active Ken Clash Royale Shorts...",
             "[12:56:17] Auditing velocity of active Ken Clash Royale Shorts...",
             "[12:58:36] Auditing velocity of active Ken Clash Royale Shorts...",
             "[13:01:06] Auditing velocity of active Ken Clash Royale Shorts...",
             "[13:03:21] Auditing velocity of active Ken Clash Royale Shorts...",
             "[13:05:39] Auditing velocity of active Ken Clash Royale Shorts...",
             "[13:08:04] Auditing velocity of active Ken Clash Royale Shorts...",
-            "[13:10:34] Auditing velocity of active Ken Clash Royale Shorts..."
+            "[13:10:34] Auditing velocity of active Ken Clash Royale Shorts...",
+            "[13:12:50] Auditing velocity of active Ken Clash Royale Shorts..."
           ]
         },
         "WATCHDOG": {
@@ -1291,14 +1291,14 @@
           "current_task": "Verifying Supercell fan policy: 0 claims, 0 strikes.",
           "last_completed_task": "Audited source parameters: strictly <30s segment rule active",
           "recent_logs": [
-            "[12:54:03] Verifying Supercell fan policy: 0 claims, 0 strikes.",
             "[12:56:17] Verifying Supercell fan policy: 0 claims, 0 strikes.",
             "[12:58:36] Verifying Supercell fan policy: 0 claims, 0 strikes.",
             "[13:01:06] Verifying Supercell fan policy: 0 claims, 0 strikes.",
             "[13:03:21] Verifying Supercell fan policy: 0 claims, 0 strikes.",
             "[13:05:39] Verifying Supercell fan policy: 0 claims, 0 strikes.",
             "[13:08:04] Verifying Supercell fan policy: 0 claims, 0 strikes.",
-            "[13:10:34] Verifying Supercell fan policy: 0 claims, 0 strikes."
+            "[13:10:34] Verifying Supercell fan policy: 0 claims, 0 strikes.",
+            "[13:12:50] Verifying Supercell fan policy: 0 claims, 0 strikes."
           ]
         }
       },
@@ -1703,17 +1703,17 @@
       "agents": {
         "SCOUT": {
           "status": "working",
-          "current_task": "Pop culture queue up to date. Monitoring for new episodes.",
+          "current_task": "Scanning Trisha Paytas, Emergency Intercom, and Benito Skinner feeds...",
           "last_completed_task": "Ingested 6 recent episodes across Trisha, Enya/Drew, and Benito",
           "recent_logs": [
-            "[13:04:31] Scanning Trisha Paytas, Emergency Intercom, and Benito Skinner feeds...",
             "[13:04:51] Pop culture queue up to date. Monitoring for new episodes.",
             "[13:06:51] Scanning Trisha Paytas, Emergency Intercom, and Benito Skinner feeds...",
             "[13:07:07] Pop culture queue up to date. Monitoring for new episodes.",
             "[13:09:07] Scanning Trisha Paytas, Emergency Intercom, and Benito Skinner feeds...",
             "[13:09:23] Pop culture queue up to date. Monitoring for new episodes.",
             "[13:11:23] Scanning Trisha Paytas, Emergency Intercom, and Benito Skinner feeds...",
-            "[13:11:37] Pop culture queue up to date. Monitoring for new episodes."
+            "[13:11:37] Pop culture queue up to date. Monitoring for new episodes.",
+            "[13:13:37] Scanning Trisha Paytas, Emergency Intercom, and Benito Skinner feeds..."
           ]
         },
         "STRATEGIST": {

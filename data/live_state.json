@@ -1,6 +1,6 @@
 {
-  "timestamp": 1791999643.7846951,
-  "sync_time_iso": "2026-10-14T17:40:43Z",
+  "timestamp": 1791999704.8011498,
+  "sync_time_iso": "2026-10-14T17:41:44Z",
   "default_channel": "muk_podcast",
   "channels": {
     "muk_podcast": {
@@ -62,11 +62,11 @@
         "dashboard": {
           "host": "127.0.0.1",
           "port": 8899,
-          "remote_tunnel_url": "https://similarly-unlock-provided-beast.trycloudflare.com",
+          "remote_tunnel_url": "https://api.trycloudflare.com",
           "tunnel_active": true
         },
         "buffer_target_shorts": 6,
-        "remote_tunnel_url": "https://similarly-unlock-provided-beast.trycloudflare.com",
+        "remote_tunnel_url": "https://api.trycloudflare.com",
         "channel_id": "UCKqBK1q6-0i735Mn_hiNIig",
         "channel_name": "Muks Breakdown Room",
         "oauth_connected": true
@@ -1199,7 +1199,7 @@
         "emergency_stop": false,
         "autopilot_engaged": true,
         "buffer_target_shorts": 6,
-        "remote_tunnel_url": "https://similarly-unlock-provided-beast.trycloudflare.com",
+        "remote_tunnel_url": "https://api.trycloudflare.com",
         "channel_id": "UCsBZAgHGlc5GU7r4E-8tUyA",
         "oauth_connected": true
       },
@@ -1209,14 +1209,14 @@
           "current_task": "Queue up to date. Waiting for next daily Ken upload.",
           "last_completed_task": "Ingested 5 recent Ken master videos into source pool",
           "recent_logs": [
-            "[13:31:12] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
-            "[13:31:42] Error scanning Ken feed: Command '['/Users/jacksonmcmurdo/Desktop/Muk_Post/02_BUSINESS_&_OPERATIONS/muk_jarvis_env/bin/python3', '-m', 'yt_dlp', '--flat-playlist', '--print', '%(title)s | %(url)s | %(duration)s', 'https://www.youtube.com/@kenforrest/videos']' timed out after 30 seconds",
             "[13:33:42] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
             "[13:34:01] Queue up to date. Waiting for next daily Ken upload.",
             "[13:36:01] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
             "[13:36:31] Error scanning Ken feed: Command '['/Users/jacksonmcmurdo/Desktop/Muk_Post/02_BUSINESS_&_OPERATIONS/muk_jarvis_env/bin/python3', '-m', 'yt_dlp', '--flat-playlist', '--print', '%(title)s | %(url)s | %(duration)s', 'https://www.youtube.com/@kenforrest/videos']' timed out after 30 seconds",
             "[13:38:31] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
-            "[13:38:55] Queue up to date. Waiting for next daily Ken upload."
+            "[13:38:55] Queue up to date. Waiting for next daily Ken upload.",
+            "[13:40:55] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
+            "[13:40:55] Queue up to date. Waiting for next daily Ken upload."
           ]
         },
         "STRATEGIST": {
@@ -1224,14 +1224,14 @@
           "current_task": "Buffer healthy: 3 scheduled Ken Shorts staged.",
           "last_completed_task": "Mapped 3 distinct viral gaming hook angles for initial drops",
           "recent_logs": [
-            "[13:22:06] Buffer healthy: 3 scheduled Ken Shorts staged.",
             "[13:24:31] Buffer healthy: 3 scheduled Ken Shorts staged.",
             "[13:26:49] Buffer healthy: 3 scheduled Ken Shorts staged.",
             "[13:29:12] Buffer healthy: 3 scheduled Ken Shorts staged.",
             "[13:31:42] Buffer healthy: 3 scheduled Ken Shorts staged.",
             "[13:34:01] Buffer healthy: 3 scheduled Ken Shorts staged.",
             "[13:36:31] Buffer healthy: 3 scheduled Ken Shorts staged.",
-            "[13:38:55] Buffer healthy: 3 scheduled Ken Shorts staged."
+            "[13:38:55] Buffer healthy: 3 scheduled Ken Shorts staged.",
+            "[13:40:55] Buffer healthy: 3 scheduled Ken Shorts staged."
           ]
         },
         "EDITOR": {
@@ -1276,14 +1276,14 @@
           "current_task": "Auditing velocity of active Ken Clash Royale Shorts...",
           "last_completed_task": "Calibrated gaming threshold: >15 views/hr within 4h",
           "recent_logs": [
-            "[13:22:06] Auditing velocity of active Ken Clash Royale Shorts...",
             "[13:24:31] Auditing velocity of active Ken Clash Royale Shorts...",
             "[13:26:49] Auditing velocity of active Ken Clash Royale Shorts...",
             "[13:29:12] Auditing velocity of active Ken Clash Royale Shorts...",
             "[13:31:42] Auditing velocity of active Ken Clash Royale Shorts...",
             "[13:34:01] Auditing velocity of active Ken Clash Royale Shorts...",
             "[13:36:31] Auditing velocity of active Ken Clash Royale Shorts...",
-            "[13:38:55] Auditing velocity of active Ken Clash Royale Shorts..."
+            "[13:38:55] Auditing velocity of active Ken Clash Royale Shorts...",
+            "[13:40:55] Auditing velocity of active Ken Clash Royale Shorts..."
           ]
         },
         "WATCHDOG": {
@@ -1291,14 +1291,14 @@
           "current_task": "Verifying Supercell fan policy: 0 claims, 0 strikes.",
           "last_completed_task": "Audited source parameters: strictly <30s segment rule active",
           "recent_logs": [
-            "[13:22:06] Verifying Supercell fan policy: 0 claims, 0 strikes.",
             "[13:24:31] Verifying Supercell fan policy: 0 claims, 0 strikes.",
             "[13:26:49] Verifying Supercell fan policy: 0 claims, 0 strikes.",
             "[13:29:12] Verifying Supercell fan policy: 0 claims, 0 strikes.",
             "[13:31:42] Verifying Supercell fan policy: 0 claims, 0 strikes.",
             "[13:34:01] Verifying Supercell fan policy: 0 claims, 0 strikes.",
             "[13:36:31] Verifying Supercell fan policy: 0 claims, 0 strikes.",
-            "[13:38:55] Verifying Supercell fan policy: 0 claims, 0 strikes."
+            "[13:38:55] Verifying Supercell fan policy: 0 claims, 0 strikes.",
+            "[13:40:55] Verifying Supercell fan policy: 0 claims, 0 strikes."
           ]
         }
       },
@@ -1696,7 +1696,7 @@
         "emergency_stop": false,
         "autopilot_engaged": true,
         "buffer_target_shorts": 6,
-        "remote_tunnel_url": "https://similarly-unlock-provided-beast.trycloudflare.com",
+        "remote_tunnel_url": "https://api.trycloudflare.com",
         "channel_id": "UCcNdnkFH4m9C3rUunbOEaSg",
         "oauth_connected": true
       },
@@ -2288,11 +2288,11 @@
     "dashboard": {
       "host": "127.0.0.1",
       "port": 8899,
-      "remote_tunnel_url": "https://similarly-unlock-provided-beast.trycloudflare.com",
+      "remote_tunnel_url": "https://api.trycloudflare.com",
       "tunnel_active": true
     },
     "buffer_target_shorts": 6,
-    "remote_tunnel_url": "https://similarly-unlock-provided-beast.trycloudflare.com",
+    "remote_tunnel_url": "https://api.trycloudflare.com",
     "channel_id": "UCKqBK1q6-0i735Mn_hiNIig",
     "channel_name": "Muks Breakdown Room",
     "oauth_connected": true

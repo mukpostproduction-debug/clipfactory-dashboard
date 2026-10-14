@@ -1,6 +1,6 @@
 {
-  "timestamp": 1792014286.481825,
-  "sync_time_iso": "2026-10-14T21:44:46Z",
+  "timestamp": 1792014304.828437,
+  "sync_time_iso": "2026-10-14T21:45:04Z",
   "default_channel": "muk_podcast",
   "channels": {
     "muk_podcast": {
@@ -1262,17 +1262,17 @@
         },
         "PUBLISHER": {
           "status": "working",
-          "current_task": "Short SCHEDULED on YouTube: urztidxP3HY (12:00 PM ET (Thu, Oct 15))",
+          "current_task": "YouTube upload error: Unable to find the server at oauth2.googleapis.com",
           "last_completed_task": "Uploaded all 3 initial Clash Royale gaming cuts to YouTube (kenclipsburger420)",
           "recent_logs": [
-            "[PUBLISHER] Reframed cut uploaded: ken_clip_01_rage_master.mp4",
-            "[PUBLISHER] Live Video ID: qyFiSQ8Q8VA (Scheduled 12:00 PM ET)",
-            "[PUBLISHER] Uploaded wio8IxcOaXM (ken_clip_02_barrel)",
             "[PUBLISHER] Uploaded 78_GRpovluw (ken_clip_03_toxic)",
             "[PUBLISHER] Ken buffer fully staged: 3/3 scheduled on YouTube",
             "[12:09:38] Generating gaming A/B metadata for slot: 12:00 PM ET (Thu, Oct 15)...",
             "[12:09:51] Deploying to YouTube (@kenclipsburger420) for release 12:00 PM ET (Thu, Oct 15)...",
-            "[12:10:46] Short SCHEDULED on YouTube: urztidxP3HY (12:00 PM ET (Thu, Oct 15))"
+            "[12:10:46] Short SCHEDULED on YouTube: urztidxP3HY (12:00 PM ET (Thu, Oct 15))",
+            "[17:45:04] Generating gaming A/B metadata for slot: 04:30 PM ET (Thu, Oct 15)...",
+            "[17:45:04] Deploying to YouTube (@kenclipsburger420) for release 04:30 PM ET (Thu, Oct 15)...",
+            "[17:45:04] YouTube upload error: Unable to find the server at oauth2.googleapis.com"
           ]
         },
         "ANALYST": {
@@ -1308,15 +1308,6 @@
       },
       "queue": {
         "queue": [
-          {
-            "id": "ken_new_barrel",
-            "creator": "Ken",
-            "title": "the new barrel",
-            "url": "https://www.youtube.com/watch?v=ES4IzI-aevk",
-            "duration": 1346,
-            "status": "PROCESSING",
-            "added_at": "2026-10-14T04:30:00Z"
-          },
           {
             "id": "ken_least_busted",
             "creator": "Ken",
@@ -1366,6 +1357,17 @@
             "added_at": "2026-10-14T04:30:00Z",
             "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_hp_buffed_master.mp4",
             "youtube_video_id": "urztidxP3HY"
+          },
+          {
+            "id": "ken_new_barrel",
+            "creator": "Ken",
+            "title": "the new barrel",
+            "url": "https://www.youtube.com/watch?v=ES4IzI-aevk",
+            "duration": 1346,
+            "status": "COMPLETED",
+            "added_at": "2026-10-14T04:30:00Z",
+            "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_new_barrel_master.mp4",
+            "youtube_video_id": null
           }
         ]
       },
@@ -1462,6 +1464,70 @@
                   "variant": "A",
                   "title": "The One Card Everyone Fears...",
                   "deployed_at": 1791994191.052665,
+                  "reason": "Initial A/B test deployment"
+                }
+              ],
+              "metrics": {
+                "views": 0,
+                "likes": 0,
+                "comments": 0,
+                "retention": 0.0,
+                "ctr": 0.0
+              }
+            },
+            "reframed": "gaming_split"
+          },
+          {
+            "id": "ken_new_barrel",
+            "source_video": "the new barrel",
+            "creator": "Ken",
+            "title": "The Real Secret Behind Podcast Discussion #Shorts",
+            "publish_at": "2026-10-15T20:30:00Z",
+            "status": "SCHEDULED",
+            "uploaded": false,
+            "youtube_video_id": null,
+            "youtube_url": null,
+            "video_file": "ken_new_barrel_master.mp4",
+            "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_new_barrel_master.mp4",
+            "duration": 58.0,
+            "hook_summary": "Essential discussion and core insight",
+            "metadata": {
+              "title": "The Real Secret Behind Podcast Discussion #Shorts",
+              "description": "Essential discussion and core insight\n\nKey Takeaways:\n\u2022 Understand the core habit\n\u2022 Avoid the daily trap\n\u2022 Optimize for long-term clarity\n\nFeaturing Ken.\n\nWhat's your perspective on this? Comment below! \ud83d\udc47\n\n#Shorts #Podcast #Mindset",
+              "tags": [
+                "Shorts",
+                "Ken",
+                "Podcast Clips",
+                "Viral",
+                "Mindset",
+                "Productivity",
+                "Motivation"
+              ],
+              "pinned_comment": "What's your biggest takeaway from this? Drop your thoughts below! \ud83d\udc47",
+              "ab_variants": {
+                "A": {
+                  "angle": "Curiosity Gap",
+                  "title": "The Real Secret Behind Podcast Discussion #Shorts",
+                  "description": "Essential discussion and core insight\n\nKey Takeaways:\n\u2022 Understand the core habit\n\u2022 Avoid the daily trap\n\u2022 Optimize for long-term clarity\n\nFeaturing Ken.\n\nWhat's your perspective on this? Comment below! \ud83d\udc47\n\n#Shorts #Podcast #Mindset"
+                },
+                "B": {
+                  "angle": "Contrarian Truth",
+                  "title": "Ken: Stop Making This Mistake #Shorts",
+                  "description": "Essential discussion and core insight\n\nKey Takeaways:\n\u2022 Why the common approach fails\n\u2022 The shift high performers make\n\u2022 Practical daily application\n\nFeaturing Ken.\n\nDo you agree with this? Let us know below! \ud83d\udc47\n\n#Shorts #Discipline #Growth"
+                },
+                "C": {
+                  "angle": "Actionable Protocol",
+                  "title": "How Ken Masters Daily Execution #Shorts",
+                  "description": "Essential discussion and core insight\n\nKey Takeaways:\n\u2022 Step 1: Lock in your standard\n\u2022 Step 2: Eliminate distractions\n\u2022 Step 3: Execute without emotion\n\nFeaturing Ken.\n\nWill you implement this today? Tell us below! \ud83d\udc47\n\n#Shorts #Performance #DailyHabits"
+                }
+              },
+              "active_variant": "A",
+              "test_status": "ACTIVE_TEST",
+              "variant_history": [
+                {
+                  "variant": "A",
+                  "title": "The Real Secret Behind Podcast Discussion #Shorts",
+                  "deployed_at": 1792014304.7538612,
                   "reason": "Initial A/B test deployment"
                 }
               ],

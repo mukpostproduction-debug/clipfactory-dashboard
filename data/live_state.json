@@ -1,6 +1,6 @@
 {
-  "timestamp": 1791999704.8011498,
-  "sync_time_iso": "2026-10-14T17:41:44Z",
+  "timestamp": 1791999764.947263,
+  "sync_time_iso": "2026-10-14T17:42:44Z",
   "default_channel": "muk_podcast",
   "channels": {
     "muk_podcast": {
@@ -62,11 +62,11 @@
         "dashboard": {
           "host": "127.0.0.1",
           "port": 8899,
-          "remote_tunnel_url": "https://api.trycloudflare.com",
+          "remote_tunnel_url": "https://enrollment-horizon-latino-paid.trycloudflare.com",
           "tunnel_active": true
         },
         "buffer_target_shorts": 6,
-        "remote_tunnel_url": "https://api.trycloudflare.com",
+        "remote_tunnel_url": "https://enrollment-horizon-latino-paid.trycloudflare.com",
         "channel_id": "UCKqBK1q6-0i735Mn_hiNIig",
         "channel_name": "Muks Breakdown Room",
         "oauth_connected": true
@@ -1199,7 +1199,7 @@
         "emergency_stop": false,
         "autopilot_engaged": true,
         "buffer_target_shorts": 6,
-        "remote_tunnel_url": "https://api.trycloudflare.com",
+        "remote_tunnel_url": "https://enrollment-horizon-latino-paid.trycloudflare.com",
         "channel_id": "UCsBZAgHGlc5GU7r4E-8tUyA",
         "oauth_connected": true
       },
@@ -1696,24 +1696,24 @@
         "emergency_stop": false,
         "autopilot_engaged": true,
         "buffer_target_shorts": 6,
-        "remote_tunnel_url": "https://api.trycloudflare.com",
+        "remote_tunnel_url": "https://enrollment-horizon-latino-paid.trycloudflare.com",
         "channel_id": "UCcNdnkFH4m9C3rUunbOEaSg",
         "oauth_connected": true
       },
       "agents": {
         "SCOUT": {
           "status": "working",
-          "current_task": "Pop culture queue up to date. Monitoring for new episodes.",
+          "current_task": "Scanning Trisha Paytas, Emergency Intercom, and Benito Skinner feeds...",
           "last_completed_task": "Ingested 6 recent episodes across Trisha, Enya/Drew, and Benito",
           "recent_logs": [
-            "[13:31:36] Scanning Trisha Paytas, Emergency Intercom, and Benito Skinner feeds...",
             "[13:32:26] Pop culture queue up to date. Monitoring for new episodes.",
             "[13:34:26] Scanning Trisha Paytas, Emergency Intercom, and Benito Skinner feeds...",
             "[13:34:47] Pop culture queue up to date. Monitoring for new episodes.",
             "[13:36:47] Scanning Trisha Paytas, Emergency Intercom, and Benito Skinner feeds...",
             "[13:37:48] Pop culture queue up to date. Monitoring for new episodes.",
             "[13:39:48] Scanning Trisha Paytas, Emergency Intercom, and Benito Skinner feeds...",
-            "[13:40:18] Pop culture queue up to date. Monitoring for new episodes."
+            "[13:40:18] Pop culture queue up to date. Monitoring for new episodes.",
+            "[13:42:18] Scanning Trisha Paytas, Emergency Intercom, and Benito Skinner feeds..."
           ]
         },
         "STRATEGIST": {
@@ -2288,11 +2288,11 @@
     "dashboard": {
       "host": "127.0.0.1",
       "port": 8899,
-      "remote_tunnel_url": "https://api.trycloudflare.com",
+      "remote_tunnel_url": "https://enrollment-horizon-latino-paid.trycloudflare.com",
       "tunnel_active": true
     },
     "buffer_target_shorts": 6,
-    "remote_tunnel_url": "https://api.trycloudflare.com",
+    "remote_tunnel_url": "https://enrollment-horizon-latino-paid.trycloudflare.com",
     "channel_id": "UCKqBK1q6-0i735Mn_hiNIig",
     "channel_name": "Muks Breakdown Room",
     "oauth_connected": true

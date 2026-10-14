@@ -1,6 +1,6 @@
 {
-  "timestamp": 1792000850.328696,
-  "sync_time_iso": "2026-10-14T18:00:50Z",
+  "timestamp": 1792005246.015718,
+  "sync_time_iso": "2026-10-14T19:14:06Z",
   "default_channel": "muk_podcast",
   "channels": {
     "muk_podcast": {
@@ -62,11 +62,11 @@
         "dashboard": {
           "host": "127.0.0.1",
           "port": 8899,
-          "remote_tunnel_url": "https://enrollment-horizon-latino-paid.trycloudflare.com",
+          "remote_tunnel_url": "https://api.trycloudflare.com",
           "tunnel_active": true
         },
         "buffer_target_shorts": 6,
-        "remote_tunnel_url": "https://enrollment-horizon-latino-paid.trycloudflare.com",
+        "remote_tunnel_url": "https://api.trycloudflare.com",
         "channel_id": "UCKqBK1q6-0i735Mn_hiNIig",
         "channel_name": "Muks Breakdown Room",
         "oauth_connected": true
@@ -965,7 +965,7 @@
                 "comments": 0,
                 "retention": 0.0,
                 "ctr": 0.0,
-                "velocity_vph": 0.19,
+                "velocity_vph": 0.0,
                 "engagement_pct": 0.0
               }
             },
@@ -985,7 +985,7 @@
           "estimated_revenue_usd": 0.0,
           "health_grade": "A+",
           "total_likes": 0,
-          "last_audit": 1792000396.7993758
+          "last_audit": 1792005032.13335
         },
         "history": [],
         "top_shorts": [
@@ -1199,7 +1199,7 @@
         "emergency_stop": false,
         "autopilot_engaged": true,
         "buffer_target_shorts": 6,
-        "remote_tunnel_url": "https://enrollment-horizon-latino-paid.trycloudflare.com",
+        "remote_tunnel_url": "https://api.trycloudflare.com",
         "channel_id": "UCsBZAgHGlc5GU7r4E-8tUyA",
         "oauth_connected": true
       },
@@ -1696,7 +1696,7 @@
         "emergency_stop": false,
         "autopilot_engaged": true,
         "buffer_target_shorts": 6,
-        "remote_tunnel_url": "https://enrollment-horizon-latino-paid.trycloudflare.com",
+        "remote_tunnel_url": "https://api.trycloudflare.com",
         "channel_id": "UCcNdnkFH4m9C3rUunbOEaSg",
         "oauth_connected": true
       },
@@ -2288,11 +2288,11 @@
     "dashboard": {
       "host": "127.0.0.1",
       "port": 8899,
-      "remote_tunnel_url": "https://enrollment-horizon-latino-paid.trycloudflare.com",
+      "remote_tunnel_url": "https://api.trycloudflare.com",
       "tunnel_active": true
     },
     "buffer_target_shorts": 6,
-    "remote_tunnel_url": "https://enrollment-horizon-latino-paid.trycloudflare.com",
+    "remote_tunnel_url": "https://api.trycloudflare.com",
     "channel_id": "UCKqBK1q6-0i735Mn_hiNIig",
     "channel_name": "Muks Breakdown Room",
     "oauth_connected": true
@@ -3191,7 +3191,7 @@
             "comments": 0,
             "retention": 0.0,
             "ctr": 0.0,
-            "velocity_vph": 0.19,
+            "velocity_vph": 0.0,
             "engagement_pct": 0.0
           }
         },
@@ -3211,7 +3211,7 @@
       "estimated_revenue_usd": 0.0,
       "health_grade": "A+",
       "total_likes": 0,
-      "last_audit": 1792000396.7993758
+      "last_audit": 1792005032.13335
     },
     "history": [],
     "top_shorts": [

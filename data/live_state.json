@@ -1,6 +1,6 @@
 {
-  "timestamp": 1791995529.705107,
-  "sync_time_iso": "2026-10-14T16:32:09Z",
+  "timestamp": 1791995577.177435,
+  "sync_time_iso": "2026-10-14T16:32:57Z",
   "default_channel": "muk_podcast",
   "channels": {
     "muk_podcast": {
@@ -1753,17 +1753,17 @@
         },
         "PUBLISHER": {
           "status": "working",
-          "current_task": "3/3 Shorts SCHEDULED on YouTube (12:30 PM, 5:00 PM, 9:00 PM ET)",
+          "current_task": "Short SCHEDULED on YouTube: 1oX5lAgrJbs (12:30 PM ET (Thu, Oct 15))",
           "last_completed_task": "Uploaded all 3 initial pop-culture Shorts to YouTube (@abiclitsalot)",
           "recent_logs": [
-            "[PUBLISHER] OAuth credentials secured and verified",
-            "[PUBLISHER] Test upload probe verified & cleaned up successfully",
-            "[PUBLISHER] Upload engine is 100% OPERATIONAL!",
             "[PUBLISHER] Rendered cut: abigail_clip_01_trisha_master.mp4",
             "[PUBLISHER] Live Video ID: 2eV-Xlbk5fU (Scheduled 12:30 PM ET)",
             "[PUBLISHER] Uploaded 7CDto-1BXXg (Emergency Intercom)",
             "[PUBLISHER] Uploaded 46cyGL26hXw (Benito Skinner)",
-            "[PUBLISHER] Abigail buffer fully staged: 3/3 scheduled on YouTube"
+            "[PUBLISHER] Abigail buffer fully staged: 3/3 scheduled on YouTube",
+            "[12:32:22] Generating dynamic A/B metadata for slot: 12:30 PM ET (Thu, Oct 15)...",
+            "[12:32:42] Deploying to YouTube (@abiclitsalot) for release 12:30 PM ET (Thu, Oct 15)...",
+            "[12:32:57] Short SCHEDULED on YouTube: 1oX5lAgrJbs (12:30 PM ET (Thu, Oct 15))"
           ]
         },
         "ANALYST": {
@@ -1799,15 +1799,6 @@
       },
       "queue": {
         "queue": [
-          {
-            "id": "trish_jeffree_star",
-            "creator": "Trisha Paytas",
-            "title": "Jeffree Star Goes OFF on Kori King + Emma Chamberlain\u2019s AWKWARD Reunion",
-            "url": "https://www.youtube.com/watch?v=Dg5bNhjn7M4",
-            "duration": 5400,
-            "status": "PROCESSING",
-            "added_at": "2026-10-14T05:25:00Z"
-          },
           {
             "id": "ei_ep_255",
             "creator": "Emergency Intercom",
@@ -1945,7 +1936,19 @@
           }
         ],
         "processing": null,
-        "completed": []
+        "completed": [
+          {
+            "id": "trish_jeffree_star",
+            "creator": "Trisha Paytas",
+            "title": "Jeffree Star Goes OFF on Kori King + Emma Chamberlain\u2019s AWKWARD Reunion",
+            "url": "https://www.youtube.com/watch?v=Dg5bNhjn7M4",
+            "duration": 5400,
+            "status": "COMPLETED",
+            "added_at": "2026-10-14T05:25:00Z",
+            "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/trish_jeffree_star_master.mp4",
+            "youtube_video_id": "1oX5lAgrJbs"
+          }
+        ]
       },
       "calendar": {
         "scheduled": [
@@ -2020,6 +2023,72 @@
             "video_file": "abigail_clip_03_benito_master.mp4",
             "duration": 12.2,
             "rendered": true
+          },
+          {
+            "id": "trish_jeffree_star",
+            "source_video": "Jeffree Star Goes OFF on Kori King + Emma Chamberlain\u2019s AWKWARD Reunion",
+            "creator": "Trisha Paytas",
+            "title": "The Moment Trisha Paytas Lost It All...",
+            "publish_at": "2026-10-15T16:30:00Z",
+            "status": "SCHEDULED",
+            "uploaded": true,
+            "youtube_video_id": "1oX5lAgrJbs",
+            "youtube_url": "https://www.youtube.com/shorts/1oX5lAgrJbs",
+            "video_file": "trish_jeffree_star_master.mp4",
+            "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/trish_jeffree_star_master.mp4",
+            "duration": 58.0,
+            "hook_summary": "Essential discussion and core insight",
+            "metadata": {
+              "title": "The Moment Trisha Paytas Lost It All...",
+              "description": "Trisha reveals the raw truth behind her most emotional performance and what it actually cost her to stay on top. \n\n- The price of public vulnerability\n- Why effort doesn't always equal success\n- Navigating high-pressure environments\n\nFeaturing: Trisha Paytas\n\nIs it possible to give 'everything' without losing yourself in the process? Let us know below.\n\n#shorts #trishapaytas #podcast #vulnerability #australia",
+              "tags": [
+                "trisha paytas",
+                "podcast",
+                "motivation",
+                "mindset",
+                "australia",
+                "viral shorts",
+                "celebrity news",
+                "performance tips",
+                "success strategy",
+                "mental health"
+              ],
+              "pinned_comment": "Is Trisha right for giving her 'all', or is she setting herself up for a crash? Let\u2019s talk about it below. \ud83d\udc47",
+              "ab_variants": {
+                "A": {
+                  "angle": "Curiosity Gap",
+                  "title": "The Moment Trisha Paytas Lost It All...",
+                  "description": "Trisha reveals the raw truth behind her most emotional performance and what it actually cost her to stay on top. \n\n- The price of public vulnerability\n- Why effort doesn't always equal success\n- Navigating high-pressure environments\n\nFeaturing: Trisha Paytas\n\nIs it possible to give 'everything' without losing yourself in the process? Let us know below.\n\n#shorts #trishapaytas #podcast #vulnerability #australia"
+                },
+                "B": {
+                  "angle": "Contrarian Truth",
+                  "title": "Why Hard Work is Never Enough \ud83d\udcc9",
+                  "description": "We\u2019re told to work until we drop, but Trisha\u2019s latest perspective shows why that\u2019s a recipe for disaster in the creator world.\n\n- The myth of infinite energy\n- Why 'all-in' can lead to a total burnout\n- Setting boundaries with your core audience\n\nFeaturing: Trisha Paytas\n\nIs 'giving your all' a toxic mindset or the only way to actually win today?\n\n#shorts #mindset #trishapaytas #burnout #success"
+                },
+                "C": {
+                  "angle": "Actionable Protocol",
+                  "title": "Trisha's 100% Rule for Success",
+                  "description": "Unlock the high-intensity performance protocol Trisha uses to captivate audiences even when she\u2019s at her breaking point.\n\n- The 'All-In' commitment framework\n- How to manifest peak energy on demand\n- Maintaining consistency under extreme pressure\n\nFeaturing: Trisha Paytas\n\nDoes success require you to sacrifice your personal well-being or is there a middle ground?\n\n#shorts #productivity #success #trishapaytas #discipline"
+                }
+              },
+              "active_variant": "A",
+              "test_status": "ACTIVE_TEST",
+              "variant_history": [
+                {
+                  "variant": "A",
+                  "title": "The Moment Trisha Paytas Lost It All...",
+                  "deployed_at": 1791995562.541785,
+                  "reason": "Initial A/B test deployment"
+                }
+              ],
+              "metrics": {
+                "views": 0,
+                "likes": 0,
+                "comments": 0,
+                "retention": 0.0,
+                "ctr": 0.0
+              }
+            }
           }
         ],
         "held": [],

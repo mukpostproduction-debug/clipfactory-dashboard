@@ -1,0 +1,319 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover">
+  <title>ClipFactory // Muk Post Mission Control</title>
+  
+  <!-- PWA & Mobile Web App Meta -->
+  <link rel="manifest" href="manifest.json">
+  <meta name="theme-color" content="#080808">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="apple-mobile-web-app-title" content="ClipFactory">
+  <meta name="application-name" content="ClipFactory">
+  
+  <!-- App Icons with Main Muk Post Logo -->
+  <link rel="apple-touch-icon" sizes="180x180" href="icons/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="icons/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="icons/favicon-16x16.png">
+  <link rel="shortcut icon" href="icons/favicon-32x32.png">
+
+  <!-- Google Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;600;700&family=Space+Grotesk:wght@500;700&display=swap" rel="stylesheet">
+  
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="hud-container">
+    
+    <!-- Top HUD Header -->
+    <header class="hud-header">
+      <div class="brand-zone">
+        <img src="icons/icon-192.png" alt="Muk Post" class="brand-logo-img">
+        <div class="brand-text">
+          <div class="studio-tag">MUK POST PRODUCTION</div>
+          <h1 class="system-title">CLIPFACTORY <span class="badge">MISSION CONTROL</span></h1>
+        </div>
+      </div>
+      
+      <div class="header-telemetry">
+        <div class="telemetry-pill" id="remote-pill" onclick="openBridgeSettings()" style="cursor:pointer;" title="Tap to configure Remote Bridge URL">
+          <span class="dot live-pulse" id="bridge-dot"></span>
+          <span class="label">BRIDGE:</span>
+          <span id="remote-url-link" style="color:var(--volt-green); text-decoration:none; font-weight:600;">CONNECTING...</span>
+        </div>
+        
+        <div class="telemetry-pill" id="status-pill">
+          <span class="dot" id="system-dot"></span>
+          <span id="system-status-text">AUTOPILOT ENGAGED</span>
+        </div>
+
+        <div class="telemetry-pill" id="buffer-pill" style="border-color: rgba(0,255,102,0.4);">
+          <span class="label" style="color:var(--volt-green);">BUFFER:</span>
+          <span id="buffer-status-text" style="font-weight:700; color:#fff;">6/6 SLOTS (48H SECURE)</span>
+        </div>
+
+        <button id="btn-killswitch" class="btn-emergency">
+          <span class="icon">🛑</span> KILL SWITCH
+        </button>
+      </div>
+    </header>
+
+    <!-- Navigation Tabs -->
+    <nav class="nav-bar">
+      <button class="nav-tab active" data-tab="tab-agents">🤖 AGENTS WALL</button>
+      <button class="nav-tab" data-tab="tab-ab-tests">🧪 A/B HOOK TESTING</button>
+      <button class="nav-tab" data-tab="tab-calendar">📅 CALENDAR</button>
+      <button class="nav-tab" data-tab="tab-queue">🎬 QUEUE <span class="count-badge" id="queue-count">0</span></button>
+      <button class="nav-tab" data-tab="tab-analytics">📈 ANALYTICS</button>
+      <button class="nav-tab" data-tab="tab-compliance">🛡️ COMPLIANCE</button>
+      <button class="nav-tab" data-tab="tab-strategy">💡 STRATEGY</button>
+    </nav>
+
+    <!-- Main Content Area -->
+    <main class="content-viewport">
+      
+      <!-- TAB 1: AGENTS WALL -->
+      <section id="tab-agents" class="tab-pane active">
+        <div class="section-header">
+          <h2>AUTONOMOUS AGENT SQUADRON (7 ACTIVE SUBAGENTS)</h2>
+          <span class="refresh-indicator" id="sync-indicator">Live Sync Active</span>
+        </div>
+        <div class="agents-grid" id="agents-wall">
+          <!-- Populated dynamically via JS -->
+        </div>
+      </section>
+
+      <!-- TAB 2: A/B HOOK TESTING MATRIX -->
+      <section id="tab-ab-tests" class="tab-pane">
+        <div class="section-header">
+          <h2>ALGORITHMIC A/B TITLE & HOOK TESTING ENGINE</h2>
+          <div class="header-actions">
+            <button class="btn-preview" onclick="triggerImmediateAudit()" style="cursor:pointer; display:inline-flex; align-items:center; gap:6px;">
+              ⚡ Audit View Velocity
+            </button>
+          </div>
+        </div>
+
+        <div style="background:var(--bg-card); border:1px solid var(--border-subtle); border-radius:var(--radius-md); padding:16px; margin-bottom:20px;">
+          <div style="display:flex; justify-content:space-between; align-items:center; flex-wrap:wrap; gap:10px;">
+            <div>
+              <h3 style="color:var(--volt-green); margin-bottom:4px;">Growth Strategy: Multi-Angle Variant Testing</h3>
+              <p style="color:var(--text-secondary); font-size:12px; margin:0;">
+                Every Short is published with 3 distinct tested angles: <strong>Variant A (Curiosity Gap)</strong>, <strong>Variant B (Contrarian Truth)</strong>, and <strong>Variant C (Actionable Protocol)</strong>.
+                If view velocity drops below 5 views/hour after 6h, the ANALYST subagent automatically pivots to the next challenger title on YouTube.
+              </p>
+            </div>
+          </div>
+        </div>
+
+        <div class="item-list" id="ab-tests-list" style="max-height:none;">
+          <!-- Dynamically populated -->
+        </div>
+      </section>
+
+      <!-- TAB 3: PUBLISHING CALENDAR -->
+      <section id="tab-calendar" class="tab-pane">
+        <div class="section-header">
+          <h2>SCHEDULED & PUBLISHED RELEASES</h2>
+          <div class="header-actions">
+            <span class="status-tag locked">AUTONOMOUS 3/DAY CADENCE: LOCKED</span>
+          </div>
+        </div>
+
+        <div class="calendar-grid">
+          <div class="cal-col">
+            <h3>Scheduled Uploads (Rolling 48h Buffer)</h3>
+            <div id="calendar-scheduled" class="item-list"></div>
+          </div>
+          <div class="cal-col">
+            <h3>Manual Hold List (Paused)</h3>
+            <div id="calendar-held" class="item-list"></div>
+          </div>
+          <div class="cal-col">
+            <h3>Live on YouTube (Active Metrics)</h3>
+            <div id="calendar-published" class="item-list"></div>
+          </div>
+        </div>
+      </section>
+
+      <!-- TAB 4: RENDER QUEUE -->
+      <section id="tab-queue" class="tab-pane">
+        <div class="section-header">
+          <h2>RENDER & EDITORIAL PIPELINE</h2>
+          <div class="header-actions">
+            <span class="stat-badge">Whisper AI</span>
+            <span class="stat-badge">1080x1920 30FPS</span>
+            <span class="stat-badge">Volt Pop Captions</span>
+          </div>
+        </div>
+
+        <div class="queue-split">
+          <div class="queue-card">
+            <h3>Currently Cutting / Processing</h3>
+            <div id="active-cutting-box" class="cutting-monitor empty">
+              <span class="empty-msg">No active render job currently running.</span>
+            </div>
+          </div>
+
+          <div class="queue-card">
+            <h3>Pending Source Queue</h3>
+            <div id="pending-queue-list" class="item-list"></div>
+          </div>
+
+          <div class="queue-card">
+            <h3>Rendered Master Shorts</h3>
+            <div id="completed-queue-list" class="item-list"></div>
+          </div>
+        </div>
+      </section>
+
+      <!-- TAB 5: PERFORMANCE & TELEMETRY -->
+      <section id="tab-analytics" class="tab-pane">
+        <div class="section-header">
+          <h2>YOUTUBE ANALYTICS TELEMETRY</h2>
+          <span class="stat-badge volt">ANALYST AUDIT LOOP: RUNNING</span>
+        </div>
+
+        <div class="stats-overview">
+          <div class="stat-box">
+            <div class="stat-label">TOTAL VIEWS</div>
+            <div class="stat-val" id="metric-views">0</div>
+          </div>
+          <div class="stat-box">
+            <div class="stat-label">SHORTS PUBLISHED</div>
+            <div class="stat-val" id="metric-published">0</div>
+          </div>
+          <div class="stat-box">
+            <div class="stat-label">TOTAL LIKES</div>
+            <div class="stat-val" id="metric-likes">0</div>
+          </div>
+          <div class="stat-box">
+            <div class="stat-label">AVG RETENTION</div>
+            <div class="stat-val" id="metric-retention">--</div>
+          </div>
+          <div class="stat-box highlight">
+            <div class="stat-label">SYSTEM HEALTH</div>
+            <div class="stat-val" id="metric-grade" style="color:var(--volt-green);">A+</div>
+          </div>
+        </div>
+
+        <div class="leaderboard-section">
+          <h3>Top Shorts Leaderboard</h3>
+          <table class="data-table">
+            <thead>
+              <tr>
+                <th>Title</th>
+                <th>Creator</th>
+                <th>Views</th>
+                <th>Velocity (VPH)</th>
+                <th>Winning Angle</th>
+              </tr>
+            </thead>
+            <tbody id="top-shorts-body">
+              <tr>
+                <td colspan="5" class="empty-msg">Loading telemetry...</td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+      </section>
+
+      <!-- TAB 6: COMPLIANCE & RISK -->
+      <section id="tab-compliance" class="tab-pane">
+        <div class="section-header">
+          <h2>COPYRIGHT & FAIR USE COMPLIANCE SENTRY</h2>
+          <span class="stat-badge safe" id="risk-badge">STATUS: DEFCON 5 // CLEAN</span>
+        </div>
+
+        <div class="compliance-grid">
+          <div class="comp-card">
+            <h3>Mandatory Policy Enforcement</h3>
+            <ul class="policy-checklist">
+              <li class="check pass">Original AI Commentary Voiceover Mixed on Every Short</li>
+              <li class="check pass">Source Segment Hard Cap: Strictly &lt;30s Duration</li>
+              <li class="check pass">Burned-in Animated Pop Captions + Punch-in Dynamic Zooms</li>
+              <li class="check pass">Automatic Content ID Claim Downweighting &amp; Blacklisting</li>
+              <li class="check pass">Defcon 1 Immediate Pipeline Freeze on Copyright Strike</li>
+            </ul>
+          </div>
+
+          <div class="comp-card">
+            <h3>Creator Risk Registry &amp; Policies</h3>
+            <div id="creator-risk-list" class="item-list"></div>
+          </div>
+
+          <div class="comp-card full-width">
+            <h3>Audit Log &amp; Claims History</h3>
+            <div id="claims-log-list" class="log-terminal"></div>
+          </div>
+        </div>
+      </section>
+
+      <!-- TAB 7: STRATEGY & RPMS -->
+      <section id="tab-strategy" class="tab-pane">
+        <div class="section-header">
+          <h2>COMMERCIAL MONETIZATION STRATEGY</h2>
+          <span class="stat-badge volt" id="active-niche-pill">FOCUS: HIGH-RETENTION PODCASTS</span>
+        </div>
+
+        <div class="strategy-layout">
+          <div class="strategy-memo-card" id="strategy-memo-view">
+            <!-- Rendered via JS -->
+          </div>
+        </div>
+      </section>
+
+    </main>
+
+    <!-- Remote Bridge Settings Modal -->
+    <div id="bridge-modal" class="modal-overlay hidden">
+      <div class="modal-content" style="max-width:480px;">
+        <div class="modal-header">
+          <h3>Remote Bridge Configuration</h3>
+          <button class="btn-close" onclick="closeBridgeSettings()">×</button>
+        </div>
+        <div class="modal-body" style="padding:16px;">
+          <p style="color:var(--text-secondary); font-size:12px; margin-bottom:12px;">
+            The app connects to your Mac Pro via the secure Cloudflare tunnel for zero-latency control, live telemetry, and instant A/B variant switching.
+          </p>
+          <label style="display:block; font-size:11px; color:var(--volt-green); margin-bottom:4px; font-weight:700;">TUNNEL ENDPOINT URL:</label>
+          <input type="text" id="bridge-input-url" style="width:100%; background:#111; border:1px solid #333; color:#fff; padding:10px; border-radius:6px; font-family:var(--font-mono); font-size:12px; margin-bottom:14px;">
+          <div style="display:flex; justify-content:flex-end; gap:8px;">
+            <button class="btn-preview" onclick="resetBridgeUrl()" style="background:#222; border-color:#444;">Reset to Auto</button>
+            <button class="btn-toggle-hold" onclick="saveBridgeUrl()" style="background:var(--volt-green); color:#000; font-weight:700;">Connect & Save</button>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Video Preview Modal -->
+    <div id="video-modal" class="modal-overlay hidden">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h3 id="modal-video-title">Short Preview</h3>
+          <button id="btn-close-modal" class="btn-close">×</button>
+        </div>
+        <div class="modal-body">
+          <video id="modal-video-player" controls autoplay playsinline></video>
+        </div>
+      </div>
+    </div>
+
+    <!-- Mobile Navigation Bar -->
+    <footer class="mobile-footer">
+      <button class="mob-tab active" data-tab="tab-agents">Agents</button>
+      <button class="mob-tab" data-tab="tab-ab-tests">A/B Tests</button>
+      <button class="mob-tab" data-tab="tab-calendar">Calendar</button>
+      <button class="mob-tab" data-tab="tab-queue">Queue</button>
+      <button class="mob-tab" data-tab="tab-analytics">Stats</button>
+    </footer>
+
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>

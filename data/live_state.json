@@ -1,6 +1,6 @@
 {
-  "timestamp": 1791953340.14269,
-  "sync_time_iso": "2026-10-14T04:49:00Z",
+  "timestamp": 1791953402.280442,
+  "sync_time_iso": "2026-10-14T04:50:02Z",
   "default_channel": "muk_podcast",
   "channels": {
     "muk_podcast": {
@@ -1012,14 +1012,14 @@
           "current_task": "Queue up to date. Waiting for next daily Ken upload.",
           "last_completed_task": "Ingested 5 recent Ken master videos into source pool",
           "recent_logs": [
-            "[SCOUT] Target channel verified: Ken (Clash Royale)",
-            "[SCOUT] Polling cycle locked at 15m intervals",
             "[00:43:29] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
             "[00:43:41] Queue up to date. Waiting for next daily Ken upload.",
             "[00:44:52] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
             "[00:45:05] Queue up to date. Waiting for next daily Ken upload.",
             "[00:47:05] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
-            "[00:47:18] Queue up to date. Waiting for next daily Ken upload."
+            "[00:47:18] Queue up to date. Waiting for next daily Ken upload.",
+            "[00:49:18] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
+            "[00:49:31] Queue up to date. Waiting for next daily Ken upload."
           ]
         },
         "STRATEGIST": {
@@ -1067,7 +1067,8 @@
             "[ANALYST] Automated title pivot engine active",
             "[00:43:41] Auditing velocity of active Ken Clash Royale Shorts...",
             "[00:45:05] Auditing velocity of active Ken Clash Royale Shorts...",
-            "[00:47:18] Auditing velocity of active Ken Clash Royale Shorts..."
+            "[00:47:18] Auditing velocity of active Ken Clash Royale Shorts...",
+            "[00:49:31] Auditing velocity of active Ken Clash Royale Shorts..."
           ]
         },
         "WATCHDOG": {
@@ -1079,7 +1080,8 @@
             "[WATCHDOG] Compliance status: 100% clean",
             "[00:43:41] Verifying Supercell fan policy: 0 claims, 0 strikes.",
             "[00:45:05] Verifying Supercell fan policy: 0 claims, 0 strikes.",
-            "[00:47:18] Verifying Supercell fan policy: 0 claims, 0 strikes."
+            "[00:47:18] Verifying Supercell fan policy: 0 claims, 0 strikes.",
+            "[00:49:31] Verifying Supercell fan policy: 0 claims, 0 strikes."
           ]
         }
       },

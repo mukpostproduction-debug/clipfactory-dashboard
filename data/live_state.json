@@ -1,6 +1,6 @@
 {
-  "timestamp": 1791979437.806592,
-  "sync_time_iso": "2026-10-14T12:03:57Z",
+  "timestamp": 1791979499.574398,
+  "sync_time_iso": "2026-10-14T12:04:59Z",
   "default_channel": "muk_podcast",
   "channels": {
     "muk_podcast": {
@@ -1105,9 +1105,9 @@
           "audio_integrated_lufs": -13.5
         },
         "compliance": {
-          "max_source_segment_sec": 29.5,
-          "min_total_short_sec": 18.0,
-          "max_total_short_sec": 42.0,
+          "max_source_segment_sec": 58.0,
+          "min_total_short_sec": 20.0,
+          "max_total_short_sec": 58.0,
           "supercell_fan_policy_compliant": true,
           "require_commentary_layer": true
         },
@@ -1530,9 +1530,9 @@
           "audio_integrated_lufs": -14.0
         },
         "compliance": {
-          "max_source_segment_sec": 29.5,
+          "max_source_segment_sec": 58.0,
           "min_total_short_sec": 20.0,
-          "max_total_short_sec": 45.0,
+          "max_total_short_sec": 58.0,
           "require_commentary_layer": true,
           "fair_use_transformative": true
         },

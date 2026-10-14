@@ -1,6 +1,6 @@
 {
-  "timestamp": 1792014830.384705,
-  "sync_time_iso": "2026-10-14T21:53:50Z",
+  "timestamp": 1792014894.088814,
+  "sync_time_iso": "2026-10-14T21:54:54Z",
   "default_channel": "muk_podcast",
   "channels": {
     "muk_podcast": {
@@ -74,17 +74,7 @@
       "agents": {},
       "queue": {
         "queue": [],
-        "processing": {
-          "id": "clip_1792014782",
-          "source_id": "PXHRYbr3mp4",
-          "title": "How Food Choices Shape Memory, Cognition & Cravings | Dr. Scott Kanoski",
-          "creator": "Andrew Huberman",
-          "source_type": "youtube",
-          "local_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/downloads/clip_1792014782_How Food Choices Shape Memory, Cognition & Craving.mp4",
-          "status": "QUEUED",
-          "notes": "Auto-scouted from Andrew Huberman",
-          "queued_at": 1792014797.305482
-        },
+        "processing": null,
         "completed": [
           {
             "clip_id": "huberman_food_1791864881",
@@ -299,6 +289,25 @@
               "voiceover_audio": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/audio/clip_1791994054_commentary.mp3"
             },
             "timestamp": 1791994124.0092201
+          },
+          {
+            "clip_id": "clip_1792014782",
+            "status": "COMPLETED",
+            "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/clip_1792014782_master.mp4",
+            "start_time": 237.57,
+            "end_time": 295.23,
+            "duration": 57.66,
+            "viral_score": 92,
+            "topic": "GLP-1 Drugs Effectiveness",
+            "hook_summary": "The discussion addresses the massive, super-physiological dosage of GLP-1 drugs like Ozempic compared to natural levels and whether there are significant downsides.",
+            "opening_hook_quote": "My understanding is that the GLP one drugs. So OZEMPIC would go V and on and on. That they increased levels of GLP one thousandfold more than we ever experienced natural.",
+            "core_insight": "While GLP-1 drugs are highly effective for weight loss, their primary limitation is the common side effects of nausea and vomiting, which often lead to high rates of treatment discontinuation.",
+            "commentary": {
+              "intro_hook": "Is Ozempic's thousandfold potency a breakthrough or a biological gamble?",
+              "outro_reaction": "Extreme potency demands caution. Is such a massive hormonal shift worth the risk?",
+              "voiceover_audio": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/audio/clip_1792014782_commentary.mp3"
+            },
+            "timestamp": 1792014857.745837
           }
         ],
         "failed": []
@@ -1786,14 +1795,14 @@
           "current_task": "Pop culture queue up to date. Monitoring for new episodes.",
           "last_completed_task": "Ingested 6 recent episodes across Trisha, Enya/Drew, and Benito",
           "recent_logs": [
-            "[17:45:50] Scanning Trisha Paytas, Emergency Intercom, and Benito Skinner feeds...",
-            "[17:45:51] Pop culture queue up to date. Monitoring for new episodes.",
             "[17:47:51] Scanning Trisha Paytas, Emergency Intercom, and Benito Skinner feeds...",
             "[17:47:53] Pop culture queue up to date. Monitoring for new episodes.",
             "[17:49:53] Scanning Trisha Paytas, Emergency Intercom, and Benito Skinner feeds...",
             "[17:49:54] Pop culture queue up to date. Monitoring for new episodes.",
             "[17:51:55] Scanning Trisha Paytas, Emergency Intercom, and Benito Skinner feeds...",
-            "[17:51:56] Pop culture queue up to date. Monitoring for new episodes."
+            "[17:51:56] Pop culture queue up to date. Monitoring for new episodes.",
+            "[17:53:56] Scanning Trisha Paytas, Emergency Intercom, and Benito Skinner feeds...",
+            "[17:54:19] Pop culture queue up to date. Monitoring for new episodes."
           ]
         },
         "STRATEGIST": {
@@ -1813,17 +1822,17 @@
         },
         "EDITOR": {
           "status": "idle",
-          "current_task": "Downloading highlight segment for: Ride Presents: Haunted HayRide SPOO...",
+          "current_task": "Downloading highlight segment for: Jeffree Star CRASHES OUT Over Kori ...",
           "last_completed_task": "Rendered Trisha Paytas & Brittany Broski pop culture highlight with Neon Pink/Cyan pop captions",
           "recent_logs": [
-            "[EDITOR] Studio banter two-shot dynamic re-framing enabled",
             "[12:31:04] Downloading highlight segment for: Jeffree Star Goes OFF on Kori King ...",
             "[12:31:14] Rendering 1080x1920 Short with pop captions: Jeffree Star Goes OFF on Kori ",
             "[17:19:20] Downloading highlight segment for: Emergency Intercom - Episode 255 (Y...",
             "[17:45:51] Downloading highlight segment for: Brittany Broski CLOCKS Her Manipula...",
             "[17:47:53] Downloading highlight segment for: Emergency Intercom - Episode 254 (T...",
             "[17:49:54] Downloading highlight segment for: Ride The Pod - Boba Tea + Wearable ...",
-            "[17:51:56] Downloading highlight segment for: Ride Presents: Haunted HayRide SPOO..."
+            "[17:51:56] Downloading highlight segment for: Ride Presents: Haunted HayRide SPOO...",
+            "[17:54:19] Downloading highlight segment for: Jeffree Star CRASHES OUT Over Kori ..."
           ]
         },
         "COMMENTATOR": {
@@ -1855,14 +1864,14 @@
           "current_task": "Auditing velocity of active Pop Culture & Comedy Shorts...",
           "last_completed_task": "Calibrated benchmark: >25 views/hr in first 3 hours",
           "recent_logs": [
-            "[13:57:23] Auditing velocity of active Pop Culture & Comedy Shorts...",
             "[13:59:48] Auditing velocity of active Pop Culture & Comedy Shorts...",
             "[15:14:08] Auditing velocity of active Pop Culture & Comedy Shorts...",
             "[17:19:20] Auditing velocity of active Pop Culture & Comedy Shorts...",
             "[17:45:51] Auditing velocity of active Pop Culture & Comedy Shorts...",
             "[17:47:53] Auditing velocity of active Pop Culture & Comedy Shorts...",
             "[17:49:55] Auditing velocity of active Pop Culture & Comedy Shorts...",
-            "[17:51:56] Auditing velocity of active Pop Culture & Comedy Shorts..."
+            "[17:51:56] Auditing velocity of active Pop Culture & Comedy Shorts...",
+            "[17:54:20] Auditing velocity of active Pop Culture & Comedy Shorts..."
           ]
         },
         "WATCHDOG": {
@@ -1870,14 +1879,14 @@
           "current_task": "Verifying Fair Use compliance: 100% transformative commentary.",
           "last_completed_task": "Validated commentary & transformative overlay standards",
           "recent_logs": [
-            "[13:57:23] Verifying Fair Use compliance: 100% transformative commentary.",
             "[13:59:48] Verifying Fair Use compliance: 100% transformative commentary.",
             "[15:14:08] Verifying Fair Use compliance: 100% transformative commentary.",
             "[17:19:20] Verifying Fair Use compliance: 100% transformative commentary.",
             "[17:45:51] Verifying Fair Use compliance: 100% transformative commentary.",
             "[17:47:53] Verifying Fair Use compliance: 100% transformative commentary.",
             "[17:49:55] Verifying Fair Use compliance: 100% transformative commentary.",
-            "[17:51:56] Verifying Fair Use compliance: 100% transformative commentary."
+            "[17:51:56] Verifying Fair Use compliance: 100% transformative commentary.",
+            "[17:54:20] Verifying Fair Use compliance: 100% transformative commentary."
           ]
         }
       },
@@ -1934,7 +1943,7 @@
             "title": "Jeffree Star CRASHES OUT Over Kori King + Emma Chamberlain RUNS AWAY From James Charles",
             "url": "Just Trish",
             "duration": 3600,
-            "status": "QUEUED",
+            "status": "FAILED_DOWNLOAD",
             "added_at": "2026-10-14T05:30:30Z"
           },
           {
@@ -2384,17 +2393,7 @@
   "agents": {},
   "queue": {
     "queue": [],
-    "processing": {
-      "id": "clip_1792014782",
-      "source_id": "PXHRYbr3mp4",
-      "title": "How Food Choices Shape Memory, Cognition & Cravings | Dr. Scott Kanoski",
-      "creator": "Andrew Huberman",
-      "source_type": "youtube",
-      "local_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/downloads/clip_1792014782_How Food Choices Shape Memory, Cognition & Craving.mp4",
-      "status": "QUEUED",
-      "notes": "Auto-scouted from Andrew Huberman",
-      "queued_at": 1792014797.305482
-    },
+    "processing": null,
     "completed": [
       {
         "clip_id": "huberman_food_1791864881",
@@ -2609,6 +2608,25 @@
           "voiceover_audio": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/audio/clip_1791994054_commentary.mp3"
         },
         "timestamp": 1791994124.0092201
+      },
+      {
+        "clip_id": "clip_1792014782",
+        "status": "COMPLETED",
+        "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/clip_1792014782_master.mp4",
+        "start_time": 237.57,
+        "end_time": 295.23,
+        "duration": 57.66,
+        "viral_score": 92,
+        "topic": "GLP-1 Drugs Effectiveness",
+        "hook_summary": "The discussion addresses the massive, super-physiological dosage of GLP-1 drugs like Ozempic compared to natural levels and whether there are significant downsides.",
+        "opening_hook_quote": "My understanding is that the GLP one drugs. So OZEMPIC would go V and on and on. That they increased levels of GLP one thousandfold more than we ever experienced natural.",
+        "core_insight": "While GLP-1 drugs are highly effective for weight loss, their primary limitation is the common side effects of nausea and vomiting, which often lead to high rates of treatment discontinuation.",
+        "commentary": {
+          "intro_hook": "Is Ozempic's thousandfold potency a breakthrough or a biological gamble?",
+          "outro_reaction": "Extreme potency demands caution. Is such a massive hormonal shift worth the risk?",
+          "voiceover_audio": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/audio/clip_1792014782_commentary.mp3"
+        },
+        "timestamp": 1792014857.745837
       }
     ],
     "failed": []

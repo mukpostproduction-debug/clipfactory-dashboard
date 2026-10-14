@@ -1,6 +1,6 @@
 {
-  "timestamp": 1792019121.850483,
-  "sync_time_iso": "2026-10-14T23:05:21Z",
+  "timestamp": 1792019184.040255,
+  "sync_time_iso": "2026-10-14T23:06:24Z",
   "default_channel": "muk_podcast",
   "channels": {
     "muk_podcast": {
@@ -1289,17 +1289,17 @@
       "agents": {
         "SCOUT": {
           "status": "working",
-          "current_task": "Queue up to date. Waiting for next daily Ken upload.",
+          "current_task": "Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
           "last_completed_task": "Ingested 5 recent Ken master videos into source pool",
           "recent_logs": [
-            "[18:56:53] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
             "[18:57:11] Queue up to date. Waiting for next daily Ken upload.",
             "[18:59:11] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
             "[18:59:30] Queue up to date. Waiting for next daily Ken upload.",
             "[19:01:30] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
             "[19:02:00] Error scanning Ken feed: Command '['/Users/jacksonmcmurdo/Desktop/Muk_Post/02_BUSINESS_&_OPERATIONS/muk_jarvis_env/bin/python3', '-m', 'yt_dlp', '--flat-playlist', '--print', '%(title)s | %(url)s | %(duration)s', 'https://www.youtube.com/@kenforrest/videos']' timed out after 30 seconds",
             "[19:04:00] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
-            "[19:04:19] Queue up to date. Waiting for next daily Ken upload."
+            "[19:04:19] Queue up to date. Waiting for next daily Ken upload.",
+            "[19:06:19] Scanning @kenforrest YouTube feed for latest Clash Royale uploads..."
           ]
         },
         "STRATEGIST": {

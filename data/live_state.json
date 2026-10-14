@@ -1,6 +1,6 @@
 {
-  "timestamp": 1791997906.845189,
-  "sync_time_iso": "2026-10-14T17:11:46Z",
+  "timestamp": 1791997968.970906,
+  "sync_time_iso": "2026-10-14T17:12:48Z",
   "default_channel": "muk_podcast",
   "channels": {
     "muk_podcast": {
@@ -1206,17 +1206,17 @@
       "agents": {
         "SCOUT": {
           "status": "working",
-          "current_task": "Error scanning Ken feed: Command '['/Users/jacksonmcmurdo/Desktop/Muk_Post/02_BUSINESS_&_OPERATIONS/muk_jarvis_env/bin/python3', '-m', 'yt_dlp', '--flat-playlist', '--print', '%(title)s | %(url)s | %(duration)s', 'https://www.youtube.com/@kenforrest/videos']' timed out after 30 seconds",
+          "current_task": "Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
           "last_completed_task": "Ingested 5 recent Ken master videos into source pool",
           "recent_logs": [
-            "[13:03:06] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
             "[13:03:21] Queue up to date. Waiting for next daily Ken upload.",
             "[13:05:21] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
             "[13:05:39] Queue up to date. Waiting for next daily Ken upload.",
             "[13:07:39] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
             "[13:08:04] Queue up to date. Waiting for next daily Ken upload.",
             "[13:10:04] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
-            "[13:10:34] Error scanning Ken feed: Command '['/Users/jacksonmcmurdo/Desktop/Muk_Post/02_BUSINESS_&_OPERATIONS/muk_jarvis_env/bin/python3', '-m', 'yt_dlp', '--flat-playlist', '--print', '%(title)s | %(url)s | %(duration)s', 'https://www.youtube.com/@kenforrest/videos']' timed out after 30 seconds"
+            "[13:10:34] Error scanning Ken feed: Command '['/Users/jacksonmcmurdo/Desktop/Muk_Post/02_BUSINESS_&_OPERATIONS/muk_jarvis_env/bin/python3', '-m', 'yt_dlp', '--flat-playlist', '--print', '%(title)s | %(url)s | %(duration)s', 'https://www.youtube.com/@kenforrest/videos']' timed out after 30 seconds",
+            "[13:12:34] Scanning @kenforrest YouTube feed for latest Clash Royale uploads..."
           ]
         },
         "STRATEGIST": {

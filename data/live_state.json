@@ -1,6 +1,6 @@
 {
-  "timestamp": 1791956075.1028988,
-  "sync_time_iso": "2026-10-14T05:34:35Z",
+  "timestamp": 1791956137.482653,
+  "sync_time_iso": "2026-10-14T05:35:37Z",
   "default_channel": "muk_podcast",
   "channels": {
     "muk_podcast": {
@@ -1419,7 +1419,7 @@
       "niche": "Pop Culture & Comedy",
       "config": {
         "channel_id_key": "abigails_channel",
-        "channel_name": "Abigail's Channel",
+        "channel_name": "abiclitsalot",
         "niche": "pop_culture_comedy_chaos",
         "creators": [
           {
@@ -1445,8 +1445,8 @@
         "publishing": {
           "enabled": true,
           "daily_target": 3,
-          "channel_id": null,
-          "channel_name": "Abigail's Channel",
+          "channel_id": "UCcNdnkFH4m9C3rUunbOEaSg",
+          "channel_name": "abiclitsalot",
           "scheduled_times": [
             "12:30",
             "17:00",
@@ -1467,7 +1467,7 @@
             "PodcastClips",
             "Comedy"
           ],
-          "oauth_connected": false
+          "oauth_connected": true
         },
         "editor": {
           "layout_mode": "smart_center",
@@ -1497,8 +1497,8 @@
         "autopilot_engaged": true,
         "buffer_target_shorts": 6,
         "remote_tunnel_url": "https://jenny-lie-lab-president.trycloudflare.com",
-        "channel_id": null,
-        "oauth_connected": false
+        "channel_id": "UCcNdnkFH4m9C3rUunbOEaSg",
+        "oauth_connected": true
       },
       "agents": {
         "SCOUT": {
@@ -1544,12 +1544,14 @@
           ]
         },
         "PUBLISHER": {
-          "status": "idle",
-          "current_task": "Awaiting YouTube channel link for Abigail's Channel",
-          "last_completed_task": "Staged 3 multi-angle A/B test metadata packages",
+          "status": "working",
+          "current_task": "Channel connected: abiclitsalot (UCcNdnkFH4m9C3rUunbOEaSg). Staging pop-culture drops.",
+          "last_completed_task": "OAuth handshake & private upload probe verified 100%",
           "recent_logs": [
-            "[PUBLISHER] Channel slot created: Abigail's Channel (Pop Culture / Comedy)",
-            "[PUBLISHER] Standby for one-click OAuth authentication"
+            "[PUBLISHER] Channel target: abiclitsalot (UCcNdnkFH4m9C3rUunbOEaSg)",
+            "[PUBLISHER] OAuth credentials secured and verified",
+            "[PUBLISHER] Test upload probe verified & cleaned up successfully",
+            "[PUBLISHER] Upload engine is 100% OPERATIONAL!"
           ]
         },
         "ANALYST": {

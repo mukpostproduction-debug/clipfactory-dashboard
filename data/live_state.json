@@ -1,6 +1,6 @@
 {
-  "timestamp": 1792017240.9443069,
-  "sync_time_iso": "2026-10-14T22:34:00Z",
+  "timestamp": 1792017303.861274,
+  "sync_time_iso": "2026-10-14T22:35:03Z",
   "default_channel": "muk_podcast",
   "channels": {
     "muk_podcast": {
@@ -1289,17 +1289,17 @@
       "agents": {
         "SCOUT": {
           "status": "working",
-          "current_task": "Error scanning Ken feed: Command '['/Users/jacksonmcmurdo/Desktop/Muk_Post/02_BUSINESS_&_OPERATIONS/muk_jarvis_env/bin/python3', '-m', 'yt_dlp', '--flat-playlist', '--print', '%(title)s | %(url)s | %(duration)s', 'https://www.youtube.com/@kenforrest/videos']' timed out after 30 seconds",
+          "current_task": "Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
           "last_completed_task": "Ingested 5 recent Ken master videos into source pool",
           "recent_logs": [
-            "[18:24:55] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
             "[18:25:25] Error scanning Ken feed: Command '['/Users/jacksonmcmurdo/Desktop/Muk_Post/02_BUSINESS_&_OPERATIONS/muk_jarvis_env/bin/python3', '-m', 'yt_dlp', '--flat-playlist', '--print', '%(title)s | %(url)s | %(duration)s', 'https://www.youtube.com/@kenforrest/videos']' timed out after 30 seconds",
             "[18:27:25] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
             "[18:27:55] Error scanning Ken feed: Command '['/Users/jacksonmcmurdo/Desktop/Muk_Post/02_BUSINESS_&_OPERATIONS/muk_jarvis_env/bin/python3', '-m', 'yt_dlp', '--flat-playlist', '--print', '%(title)s | %(url)s | %(duration)s', 'https://www.youtube.com/@kenforrest/videos']' timed out after 30 seconds",
             "[18:29:55] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
             "[18:30:25] Error scanning Ken feed: Command '['/Users/jacksonmcmurdo/Desktop/Muk_Post/02_BUSINESS_&_OPERATIONS/muk_jarvis_env/bin/python3', '-m', 'yt_dlp', '--flat-playlist', '--print', '%(title)s | %(url)s | %(duration)s', 'https://www.youtube.com/@kenforrest/videos']' timed out after 30 seconds",
             "[18:32:25] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
-            "[18:32:55] Error scanning Ken feed: Command '['/Users/jacksonmcmurdo/Desktop/Muk_Post/02_BUSINESS_&_OPERATIONS/muk_jarvis_env/bin/python3', '-m', 'yt_dlp', '--flat-playlist', '--print', '%(title)s | %(url)s | %(duration)s', 'https://www.youtube.com/@kenforrest/videos']' timed out after 30 seconds"
+            "[18:32:55] Error scanning Ken feed: Command '['/Users/jacksonmcmurdo/Desktop/Muk_Post/02_BUSINESS_&_OPERATIONS/muk_jarvis_env/bin/python3', '-m', 'yt_dlp', '--flat-playlist', '--print', '%(title)s | %(url)s | %(duration)s', 'https://www.youtube.com/@kenforrest/videos']' timed out after 30 seconds",
+            "[18:34:55] Scanning @kenforrest YouTube feed for latest Clash Royale uploads..."
           ]
         },
         "STRATEGIST": {
@@ -1853,17 +1853,17 @@
       "agents": {
         "SCOUT": {
           "status": "working",
-          "current_task": "Pop culture queue up to date. Monitoring for new episodes.",
+          "current_task": "Scanning Trisha Paytas, Emergency Intercom, and Benito Skinner feeds...",
           "last_completed_task": "Ingested 6 recent episodes across Trisha, Enya/Drew, and Benito",
           "recent_logs": [
-            "[18:23:24] Scanning Trisha Paytas, Emergency Intercom, and Benito Skinner feeds...",
             "[18:24:01] Pop culture queue up to date. Monitoring for new episodes.",
             "[18:26:01] Scanning Trisha Paytas, Emergency Intercom, and Benito Skinner feeds...",
             "[18:27:35] Pop culture queue up to date. Monitoring for new episodes.",
             "[18:29:35] Scanning Trisha Paytas, Emergency Intercom, and Benito Skinner feeds...",
             "[18:30:05] Pop culture queue up to date. Monitoring for new episodes.",
             "[18:32:05] Scanning Trisha Paytas, Emergency Intercom, and Benito Skinner feeds...",
-            "[18:32:52] Pop culture queue up to date. Monitoring for new episodes."
+            "[18:32:52] Pop culture queue up to date. Monitoring for new episodes.",
+            "[18:34:52] Scanning Trisha Paytas, Emergency Intercom, and Benito Skinner feeds..."
           ]
         },
         "STRATEGIST": {

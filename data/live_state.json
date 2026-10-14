@@ -1,6 +1,6 @@
 {
-  "timestamp": 1791955322.802677,
-  "sync_time_iso": "2026-10-14T05:22:02Z",
+  "timestamp": 1791955334.259679,
+  "sync_time_iso": "2026-10-14T05:22:14Z",
   "default_channel": "muk_podcast",
   "channels": {
     "muk_podcast": {
@@ -10,11 +10,66 @@
       "niche": "High-Performance Podcasts",
       "config": {
         "app_name": "ClipFactory",
+        "version": "1.0.0",
         "studio": "Muk Post Production",
+        "environment": "production",
+        "workspace_root": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory",
+        "python_executable": "/Users/jacksonmcmurdo/Desktop/Muk_Post/02_BUSINESS_&_OPERATIONS/muk_jarvis_env/bin/python3",
+        "gemini_model": "gemini-3-flash-preview",
+        "whisper_model": "tiny",
         "emergency_stop": false,
         "autopilot_engaged": true,
+        "demo_approved": true,
+        "publishing": {
+          "enabled": true,
+          "daily_target": 3,
+          "current_cadence": 3,
+          "scheduled_times": [
+            "11:30",
+            "15:30",
+            "19:45"
+          ],
+          "privacy_status": "private",
+          "channel_id": "UCKqBK1q6-0i735Mn_hiNIig",
+          "channel_name": "Muks Breakdown Room",
+          "daily_quota_limit": 10000,
+          "quota_alert_threshold": 7500,
+          "oauth_connected": true
+        },
+        "compliance": {
+          "max_source_segment_sec": 29.5,
+          "min_total_short_sec": 25.0,
+          "max_total_short_sec": 45.0,
+          "require_commentary_layer": true,
+          "auto_downweight_claim_count": 1,
+          "blacklist_strike_count": 1,
+          "rate_limit_download_seconds": 45
+        },
+        "editor": {
+          "target_width": 1080,
+          "target_height": 1920,
+          "fps": 30,
+          "font_name": "Impact",
+          "font_size": 72,
+          "primary_color": "&H00FFFFFF",
+          "accent_color": "&H0000FF66",
+          "outline_color": "&H00000000",
+          "outline_width": 4,
+          "punch_in_scale": 1.18,
+          "audio_integrated_lufs": -14.0,
+          "music_duck_db": -20
+        },
+        "dashboard": {
+          "host": "127.0.0.1",
+          "port": 8899,
+          "remote_tunnel_url": "https://modules-embedded-train-quarters.trycloudflare.com",
+          "tunnel_active": true
+        },
         "buffer_target_shorts": 6,
-        "remote_tunnel_url": "https://modules-embedded-train-quarters.trycloudflare.com"
+        "remote_tunnel_url": "https://modules-embedded-train-quarters.trycloudflare.com",
+        "channel_id": "UCKqBK1q6-0i735Mn_hiNIig",
+        "channel_name": "Muks Breakdown Room",
+        "oauth_connected": true
       },
       "agents": {},
       "queue": {
@@ -999,12 +1054,71 @@
       "icon": "\ud83c\udf54",
       "niche": "Clash Royale Gaming",
       "config": {
+        "channel_id_key": "ken_clips_burger",
+        "channel_name": "kenclipsburger420",
+        "niche": "gaming_clash_royale",
+        "creator_source": {
+          "name": "Ken",
+          "handle": "@kenforrest",
+          "url": "https://www.youtube.com/@kenforrest",
+          "rss_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCvckp2XpE3HhY_z22K0H35g"
+        },
+        "publishing": {
+          "enabled": true,
+          "daily_target": 3,
+          "channel_id": "UCsBZAgHGlc5GU7r4E-8tUyA",
+          "channel_name": "kenclipsburger420",
+          "scheduled_times": [
+            "12:00",
+            "16:30",
+            "20:15"
+          ],
+          "privacy_status": "private",
+          "daily_quota_limit": 10000,
+          "tags": [
+            "Shorts",
+            "ClashRoyale",
+            "Ken",
+            "KenClashRoyale",
+            "Gaming",
+            "ClashRoyaleMemes",
+            "GamingShorts"
+          ],
+          "oauth_connected": true
+        },
+        "editor": {
+          "layout_mode": "gaming_split",
+          "facecam_position": "top",
+          "facecam_height_pct": 0.38,
+          "gameplay_height_pct": 0.62,
+          "target_width": 1080,
+          "target_height": 1920,
+          "fps": 30,
+          "font_name": "Impact",
+          "font_size": 76,
+          "primary_color": "&H00FFFFFF",
+          "accent_color": "&H0000D4FF",
+          "highlight_color": "&H0000FF66",
+          "outline_color": "&H00000000",
+          "outline_width": 5,
+          "punch_in_scale": 1.25,
+          "audio_integrated_lufs": -13.5
+        },
+        "compliance": {
+          "max_source_segment_sec": 29.5,
+          "min_total_short_sec": 18.0,
+          "max_total_short_sec": 42.0,
+          "supercell_fan_policy_compliant": true,
+          "require_commentary_layer": true
+        },
         "app_name": "ClipFactory // Ken",
         "studio": "Muk Post Production",
         "emergency_stop": false,
         "autopilot_engaged": true,
         "buffer_target_shorts": 6,
-        "remote_tunnel_url": "https://modules-embedded-train-quarters.trycloudflare.com"
+        "remote_tunnel_url": "https://modules-embedded-train-quarters.trycloudflare.com",
+        "channel_id": "UCsBZAgHGlc5GU7r4E-8tUyA",
+        "oauth_connected": true
       },
       "agents": {
         "SCOUT": {
@@ -1301,11 +1415,66 @@
   },
   "config": {
     "app_name": "ClipFactory",
+    "version": "1.0.0",
     "studio": "Muk Post Production",
+    "environment": "production",
+    "workspace_root": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory",
+    "python_executable": "/Users/jacksonmcmurdo/Desktop/Muk_Post/02_BUSINESS_&_OPERATIONS/muk_jarvis_env/bin/python3",
+    "gemini_model": "gemini-3-flash-preview",
+    "whisper_model": "tiny",
     "emergency_stop": false,
     "autopilot_engaged": true,
+    "demo_approved": true,
+    "publishing": {
+      "enabled": true,
+      "daily_target": 3,
+      "current_cadence": 3,
+      "scheduled_times": [
+        "11:30",
+        "15:30",
+        "19:45"
+      ],
+      "privacy_status": "private",
+      "channel_id": "UCKqBK1q6-0i735Mn_hiNIig",
+      "channel_name": "Muks Breakdown Room",
+      "daily_quota_limit": 10000,
+      "quota_alert_threshold": 7500,
+      "oauth_connected": true
+    },
+    "compliance": {
+      "max_source_segment_sec": 29.5,
+      "min_total_short_sec": 25.0,
+      "max_total_short_sec": 45.0,
+      "require_commentary_layer": true,
+      "auto_downweight_claim_count": 1,
+      "blacklist_strike_count": 1,
+      "rate_limit_download_seconds": 45
+    },
+    "editor": {
+      "target_width": 1080,
+      "target_height": 1920,
+      "fps": 30,
+      "font_name": "Impact",
+      "font_size": 72,
+      "primary_color": "&H00FFFFFF",
+      "accent_color": "&H0000FF66",
+      "outline_color": "&H00000000",
+      "outline_width": 4,
+      "punch_in_scale": 1.18,
+      "audio_integrated_lufs": -14.0,
+      "music_duck_db": -20
+    },
+    "dashboard": {
+      "host": "127.0.0.1",
+      "port": 8899,
+      "remote_tunnel_url": "https://modules-embedded-train-quarters.trycloudflare.com",
+      "tunnel_active": true
+    },
     "buffer_target_shorts": 6,
-    "remote_tunnel_url": "https://modules-embedded-train-quarters.trycloudflare.com"
+    "remote_tunnel_url": "https://modules-embedded-train-quarters.trycloudflare.com",
+    "channel_id": "UCKqBK1q6-0i735Mn_hiNIig",
+    "channel_name": "Muks Breakdown Room",
+    "oauth_connected": true
   },
   "agents": {},
   "queue": {

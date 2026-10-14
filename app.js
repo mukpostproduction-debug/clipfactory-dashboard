@@ -18,6 +18,15 @@ let currentState = null;
 let activeBridgeUrl = localStorage.getItem("clipfactory_bridge_url") || "";
 let isBridgeConnected = false;
 let pollingInterval = null;
+let currentChannel = localStorage.getItem("clipfactory_selected_channel") || "muk_podcast";
+
+function changeActiveChannel(channelId) {
+  currentChannel = channelId;
+  localStorage.setItem("clipfactory_selected_channel", channelId);
+  if (currentState) {
+    renderDashboard(currentState);
+  }
+}
 
 // Tab Navigation (Desktop + Mobile)
 document.querySelectorAll(".nav-tab, .mob-tab").forEach(tab => {
@@ -231,14 +240,23 @@ function updateBridgeStatusUI(connected, urlText) {
 
 // Master Render Pipeline
 function renderDashboard(data) {
-  const cfg = data.config || {};
-  const agents = data.agents || {};
-  const queue = data.queue || {};
-  const cal = data.calendar || {};
-  const analytics = data.analytics || {};
-  const strategy = data.strategy || {};
-  const risk = data.risk_log || {};
-  const creators = data.creators || [];
+  // Sync dropdown selector if present
+  const channelSelector = document.getElementById("channel-selector");
+  if (channelSelector && channelSelector.value !== currentChannel) {
+    channelSelector.value = currentChannel;
+  }
+
+  // Extract channel-specific slice, fallback to root
+  const chData = (data.channels && data.channels[currentChannel]) ? data.channels[currentChannel] : data;
+
+  const cfg = chData.config || data.config || {};
+  const agents = chData.agents || {};
+  const queue = chData.queue || {};
+  const cal = chData.calendar || {};
+  const analytics = chData.analytics || {};
+  const strategy = chData.strategy || {};
+  const risk = chData.risk_log || {};
+  const creators = chData.creators || [];
 
   updateKillSwitchUI(cfg.emergency_stop);
 

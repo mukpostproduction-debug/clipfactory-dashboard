@@ -40,6 +40,14 @@
       </div>
       
       <div class="header-telemetry">
+        <div class="telemetry-pill" style="border-color: rgba(0, 240, 255, 0.4); background: rgba(0, 240, 255, 0.05);">
+          <span class="label" style="color:var(--electric-cyan); font-weight:700;">CHANNEL:</span>
+          <select id="channel-selector" onchange="changeActiveChannel(this.value)" style="background:transparent; border:none; color:#fff; font-family:var(--font-mono); font-size:11px; font-weight:700; outline:none; cursor:pointer;">
+            <option value="muk_podcast" style="background:#121519; color:#fff;">🎙️ Muks Breakdown Room</option>
+            <option value="ken_clips_burger" style="background:#121519; color:#fff;">🍔 KenClipsBurger (Gaming)</option>
+          </select>
+        </div>
+
         <div class="telemetry-pill" id="remote-pill" onclick="openBridgeSettings()" style="cursor:pointer;" title="Tap to configure Remote Bridge URL">
           <span class="dot live-pulse" id="bridge-dot"></span>
           <span class="label">BRIDGE:</span>

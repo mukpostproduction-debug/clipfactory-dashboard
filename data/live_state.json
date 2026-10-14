@@ -1,6 +1,6 @@
 {
-  "timestamp": 1791955979.317421,
-  "sync_time_iso": "2026-10-14T05:32:59Z",
+  "timestamp": 1791955988.911963,
+  "sync_time_iso": "2026-10-14T05:33:08Z",
   "default_channel": "muk_podcast",
   "channels": {
     "muk_podcast": {
@@ -1408,6 +1408,495 @@
           "claims_count": 0,
           "strikes_count": 0,
           "notes": "Daily uploads. High comedic scream & rage frequency. High viral loop potential."
+        }
+      ],
+      "cuts_available": []
+    },
+    "abigails_channel": {
+      "id": "abigails_channel",
+      "name": "Abigail's Channel",
+      "icon": "\ud83d\udc85",
+      "niche": "Pop Culture & Comedy",
+      "config": {
+        "channel_id_key": "abigails_channel",
+        "channel_name": "Abigail's Channel",
+        "niche": "pop_culture_comedy_chaos",
+        "creators": [
+          {
+            "name": "Trisha Paytas",
+            "handle": "@JustTrishPodcast",
+            "url": "https://www.youtube.com/@JustTrishPodcast",
+            "category": "Celebrity Tea & Unfiltered Takes"
+          },
+          {
+            "name": "Benito Skinner",
+            "handle": "@bennydrama7",
+            "url": "https://www.youtube.com/@bennydrama7",
+            "podcast_url": "https://www.youtube.com/@ridethepod",
+            "category": "Comedy Sketches & Cultural Satire"
+          },
+          {
+            "name": "Emergency Intercom",
+            "handle": "@emergencyintercom",
+            "url": "https://www.youtube.com/@emergencyintercom",
+            "category": "Unhinged Banter & Chaos Comedy"
+          }
+        ],
+        "publishing": {
+          "enabled": true,
+          "daily_target": 3,
+          "channel_id": null,
+          "channel_name": "Abigail's Channel",
+          "scheduled_times": [
+            "12:30",
+            "17:00",
+            "21:00"
+          ],
+          "privacy_status": "private",
+          "daily_quota_limit": 10000,
+          "tags": [
+            "Shorts",
+            "PopCulture",
+            "JustTrish",
+            "TrishaPaytas",
+            "EmergencyIntercom",
+            "DrewPhillips",
+            "EnyaUmanzor",
+            "BenitoSkinner",
+            "BennyDrama",
+            "PodcastClips",
+            "Comedy"
+          ],
+          "oauth_connected": false
+        },
+        "editor": {
+          "layout_mode": "smart_center",
+          "target_width": 1080,
+          "target_height": 1920,
+          "fps": 30,
+          "font_name": "Impact",
+          "font_size": 74,
+          "primary_color": "&H00FFFFFF",
+          "accent_color": "&H00E0218A",
+          "highlight_color": "&H0000E5FF",
+          "outline_color": "&H00000000",
+          "outline_width": 5,
+          "punch_in_scale": 1.22,
+          "audio_integrated_lufs": -14.0
+        },
+        "compliance": {
+          "max_source_segment_sec": 29.5,
+          "min_total_short_sec": 20.0,
+          "max_total_short_sec": 45.0,
+          "require_commentary_layer": true,
+          "fair_use_transformative": true
+        },
+        "app_name": "ClipFactory // Abigail",
+        "studio": "Muk Post Production",
+        "emergency_stop": false,
+        "autopilot_engaged": true,
+        "buffer_target_shorts": 6,
+        "remote_tunnel_url": "https://modules-embedded-train-quarters.trycloudflare.com",
+        "channel_id": null,
+        "oauth_connected": false
+      },
+      "agents": {
+        "SCOUT": {
+          "status": "working",
+          "current_task": "Ingested 8 fresh pop-culture episode(s) into queue.",
+          "last_completed_task": "Ingested 6 recent episodes across Trisha, Enya/Drew, and Benito",
+          "recent_logs": [
+            "[SCOUT] Channel targets: @JustTrishPodcast, @emergencyintercom, @bennydrama7, @ridethepod",
+            "[SCOUT] Ingested 2 fresh Just Trish episodes into source pool",
+            "[SCOUT] Ingested 2 fresh Emergency Intercom episodes into source pool",
+            "[SCOUT] Ingested 2 fresh Benito Skinner episodes into source pool",
+            "[01:30:25] Scanning Trisha Paytas, Emergency Intercom, and Benito Skinner feeds...",
+            "[01:30:37] Ingested 8 fresh pop-culture episode(s) into queue."
+          ]
+        },
+        "STRATEGIST": {
+          "status": "idle",
+          "current_task": "Ranking tea drops, laughter spikes, and out-of-context quotes",
+          "last_completed_task": "Calibrated 3 pop-culture hook angles: Shock Tea, Chaos Banter, Satirical Voice Mimicry",
+          "recent_logs": [
+            "[STRATEGIST] Pop culture virality engine tuned for female/Gen-Z demographic",
+            "[STRATEGIST] Scheduled drop windows calibrated: 12:30, 17:00, 21:00 ET"
+          ]
+        },
+        "EDITOR": {
+          "status": "idle",
+          "current_task": "Standby for incoming pop culture master cuts",
+          "last_completed_task": "Configured dynamic center crop + kinetic neon magenta/pink captions",
+          "recent_logs": [
+            "[EDITOR] Caption style loaded: Impact 74pt with #E0218A (Neon Pink) accent pop",
+            "[EDITOR] Studio banter two-shot dynamic re-framing enabled"
+          ]
+        },
+        "COMMENTATOR": {
+          "status": "idle",
+          "current_task": "Standby for audio synthesis",
+          "last_completed_task": "Calibrated comedic pop-culture reaction layer",
+          "recent_logs": [
+            "[COMMENTATOR] Playful pop-culture commentary profile active",
+            "[COMMENTATOR] Ready to inject contextual tea & comedic reactions"
+          ]
+        },
+        "PUBLISHER": {
+          "status": "idle",
+          "current_task": "Awaiting YouTube channel link for Abigail's Channel",
+          "last_completed_task": "Staged 3 multi-angle A/B test metadata packages",
+          "recent_logs": [
+            "[PUBLISHER] Channel slot created: Abigail's Channel (Pop Culture / Comedy)",
+            "[PUBLISHER] Standby for one-click OAuth authentication"
+          ]
+        },
+        "ANALYST": {
+          "status": "working",
+          "current_task": "Auditing velocity of active Pop Culture & Comedy Shorts...",
+          "last_completed_task": "Calibrated benchmark: >25 views/hr in first 3 hours",
+          "recent_logs": [
+            "[ANALYST] Initializing pop-culture niche telemetry baseline",
+            "[ANALYST] High-comment-volume threshold set for tea/controversy hooks",
+            "[01:30:37] Auditing velocity of active Pop Culture & Comedy Shorts..."
+          ]
+        },
+        "WATCHDOG": {
+          "status": "idle",
+          "current_task": "Verifying Fair Use compliance: 100% transformative commentary.",
+          "last_completed_task": "Validated commentary & transformative overlay standards",
+          "recent_logs": [
+            "[WATCHDOG] Fair Use compliance rules engaged: <30s segment limitation active",
+            "[WATCHDOG] Commentary injection mandate enforced",
+            "[01:30:37] Verifying Fair Use compliance: 100% transformative commentary."
+          ]
+        }
+      },
+      "queue": {
+        "queue": [
+          {
+            "id": "trish_jeffree_star",
+            "creator": "Trisha Paytas",
+            "title": "Jeffree Star Goes OFF on Kori King + Emma Chamberlain\u2019s AWKWARD Reunion",
+            "url": "https://www.youtube.com/watch?v=Dg5bNhjn7M4",
+            "duration": 5400,
+            "status": "QUEUED",
+            "added_at": "2026-10-14T05:25:00Z"
+          },
+          {
+            "id": "ei_ep_255",
+            "creator": "Emergency Intercom",
+            "title": "Emergency Intercom - Episode 255 (You are deserving)",
+            "url": "https://www.youtube.com/watch?v=CJEYUzDdFE4",
+            "duration": 3900,
+            "status": "QUEUED",
+            "added_at": "2026-10-14T05:25:00Z"
+          },
+          {
+            "id": "trish_brittany_broski",
+            "creator": "Trisha Paytas",
+            "title": "Brittany Broski CLOCKS Her Manipulative Ex + is DWTS Rigged?",
+            "url": "https://www.youtube.com/watch?v=kSLwIWxf1Ys",
+            "duration": 5200,
+            "status": "QUEUED",
+            "added_at": "2026-10-14T05:25:00Z"
+          },
+          {
+            "id": "ei_ep_254",
+            "creator": "Emergency Intercom",
+            "title": "Emergency Intercom - Episode 254 (The gay test)",
+            "url": "https://www.youtube.com/watch?v=xH2eAYeRFpQ",
+            "duration": 4100,
+            "status": "QUEUED",
+            "added_at": "2026-10-14T05:25:00Z"
+          },
+          {
+            "id": "benito_ride_boba",
+            "creator": "Benito Skinner",
+            "title": "Ride The Pod - Boba Tea + Wearable Art",
+            "url": "https://www.youtube.com/watch?v=8llNVao5jEM",
+            "duration": 3600,
+            "status": "QUEUED",
+            "added_at": "2026-10-14T05:25:00Z"
+          },
+          {
+            "id": "benito_haunted_hayride",
+            "creator": "Benito Skinner",
+            "title": "Ride Presents: Haunted HayRide SPOOKTACULAR!!",
+            "url": "https://www.youtube.com/watch?v=vmWEh-r6_eQ",
+            "duration": 2800,
+            "status": "QUEUED",
+            "added_at": "2026-10-14T05:25:00Z"
+          },
+          {
+            "id": "abigail_1791955830_0",
+            "creator": "Trisha Paytas",
+            "title": "Jeffree Star CRASHES OUT Over Kori King + Emma Chamberlain RUNS AWAY From James Charles",
+            "url": "Just Trish",
+            "duration": 3600,
+            "status": "QUEUED",
+            "added_at": "2026-10-14T05:30:30Z"
+          },
+          {
+            "id": "abigail_1791955830_1",
+            "creator": "Trisha Paytas",
+            "title": "Brittany Broski CLOCKS Her Manipulative Ex Oliver Mills + is DWTS Rigged?",
+            "url": "Just Trish Ep. 318",
+            "duration": 3600,
+            "status": "QUEUED",
+            "added_at": "2026-10-14T05:30:30Z"
+          },
+          {
+            "id": "abigail_1791955830_2",
+            "creator": "Trisha Paytas",
+            "title": "Mikayla Noguiera Comes Clean on Jay Shetty + Trish Lost a Job to Slushy Noobz",
+            "url": "Just Trish Ep. 317",
+            "duration": 3600,
+            "status": "QUEUED",
+            "added_at": "2026-10-14T05:30:30Z"
+          },
+          {
+            "id": "abigail_1791955833_3",
+            "creator": "Emergency Intercom",
+            "title": "Emergency Intercom - Episode 253 (Greek yogurt is discharge)",
+            "url": "https://www.youtube.com/watch?v=Au0Mfbn0arI",
+            "duration": 3923,
+            "status": "QUEUED",
+            "added_at": "2026-10-14T05:30:33Z"
+          },
+          {
+            "id": "abigail_1791955834_4",
+            "creator": "Benito Skinner",
+            "title": "Movies on a Plane + Not Overthinking",
+            "url": "https://www.youtube.com/watch?v=hfHOaU7aIz0",
+            "duration": 2793,
+            "status": "QUEUED",
+            "added_at": "2026-10-14T05:30:34Z"
+          },
+          {
+            "id": "abigail_1791955834_5",
+            "creator": "Benito Skinner",
+            "title": "Blind Boxes + Popstar Academy",
+            "url": "https://www.youtube.com/watch?v=kYUHK2eCPxQ",
+            "duration": 3065,
+            "status": "QUEUED",
+            "added_at": "2026-10-14T05:30:34Z"
+          },
+          {
+            "id": "abigail_1791955837_6",
+            "creator": "Benito Skinner",
+            "title": "OVERCOMPENSATING OFFICIAL TEASER",
+            "url": "BENITO SKINNER (2025)",
+            "duration": 3600,
+            "status": "QUEUED",
+            "added_at": "2026-10-14T05:30:37Z"
+          },
+          {
+            "id": "abigail_1791955837_7",
+            "creator": "Benito Skinner",
+            "title": "A DAY IN THE LIFE OF LANA DEL REY...",
+            "url": "Benito Skinner (2023)",
+            "duration": 3600,
+            "status": "QUEUED",
+            "added_at": "2026-10-14T05:30:37Z"
+          }
+        ],
+        "processing": null,
+        "completed": []
+      },
+      "calendar": {
+        "scheduled": [
+          {
+            "id": "abigail_clip_01_trisha",
+            "source_video": "Brittany Broski CLOCKS Her Manipulative Ex",
+            "creator": "Trisha Paytas",
+            "title": "TRISHA'S JAW DROPPED WHEN BRITTANY SAID THIS...",
+            "publish_at": "2026-10-14T16:30:00Z",
+            "status": "SCHEDULED",
+            "metadata": {
+              "creator": "Trisha Paytas",
+              "topic": "Brittany Broski Ex Drama & Toxic Dating",
+              "active_variant": "A",
+              "ab_variants": {
+                "A": {
+                  "title": "TRISHA'S JAW DROPPED WHEN BRITTANY SAID THIS...",
+                  "hook_angle": "Shock & Celebrity Tea",
+                  "description": "The exact second Brittany Broski dropped the truth on Just Trish...\n\nFeaturing: @JustTrishPodcast & @BrittanyBroski\n\nDid she go too far or was she completely valid? Tell us in the comments \ud83d\udc47\n\n#Shorts #JustTrish #TrishaPaytas #BrittanyBroski #PopCulture #Drama"
+                },
+                "B": {
+                  "title": "Brittany Broski Exposed Her Worst Ex on Live Camera",
+                  "hook_angle": "Expose / Storytime",
+                  "description": "Never trust someone who acts like this on a first date...\n\nFeaturing: @JustTrishPodcast\n\nWhat is your biggest red flag in dating? Let us know below \ud83d\udc47\n\n#Shorts #TrishaPaytas #PodcastClips #Storytime #PopCulture"
+                },
+                "C": {
+                  "title": "The Most Relatable 30 Seconds on the Internet Today",
+                  "hook_angle": "Relatable Humor / Viral Quote",
+                  "description": "Trisha's reaction at the end is all of us.\n\nFeaturing: @JustTrishPodcast\n\nTag a friend who needs to hear this right now \ud83d\udc47\n\n#Shorts #JustTrish #Comedy #Relatable #BestOfTrish"
+                }
+              }
+            }
+          },
+          {
+            "id": "abigail_clip_02_emergency",
+            "source_video": "Emergency Intercom - Episode 255",
+            "creator": "Emergency Intercom",
+            "title": "DREW AND ENYA HAVE OFFICIALLY LOST THEIR MINDS...",
+            "publish_at": "2026-10-14T21:00:00Z",
+            "status": "SCHEDULED",
+            "metadata": {
+              "creator": "Emergency Intercom",
+              "topic": "Unhinged Roommate Banter",
+              "active_variant": "A",
+              "ab_variants": {
+                "A": {
+                  "title": "DREW AND ENYA HAVE OFFICIALLY LOST THEIR MINDS...",
+                  "hook_angle": "Chaos / Absurdist Banter",
+                  "description": "There is no context on Earth that makes this conversation normal...\n\nFeaturing: @emergencyintercom\n\nAre Drew and Enya the funniest duo on YouTube right now? Comment below \ud83d\udc47\n\n#Shorts #EmergencyIntercom #DrewPhillips #EnyaUmanzor #Comedy #Podcast"
+                },
+                "B": {
+                  "title": "When Your Best Friend Says Something So Out of Pocket",
+                  "hook_angle": "Out of Pocket / Shock Laugh",
+                  "description": "Enya couldn't even keep a straight face after Drew dropped this...\n\nFeaturing: @emergencyintercom\n\nDrop an emoji for how unhinged this is \ud83d\udc47\n\n#Shorts #EmergencyIntercom #Chaos #ViralHumor"
+                },
+                "C": {
+                  "title": "How Every 2 AM Conversation With Your Best Friend Goes",
+                  "hook_angle": "Relatable Friendship / Late Night",
+                  "description": "If you don't talk to your best friend like this, are you even friends?\n\nFeaturing: @emergencyintercom\n\nSend this to your best friend without saying anything \ud83d\udc47\n\n#Shorts #EmergencyIntercom #BFFs #ComedyShorts"
+                }
+              }
+            }
+          },
+          {
+            "id": "abigail_clip_03_benito",
+            "source_video": "Ride The Pod - Boba Tea + Wearable Art",
+            "creator": "Benito Skinner",
+            "title": "Benny Drama's Accurate Impersonation of That One Person",
+            "publish_at": "2026-10-15T01:00:00Z",
+            "status": "SCHEDULED",
+            "metadata": {
+              "creator": "Benito Skinner",
+              "topic": "Benny Drama Satire & Culture",
+              "active_variant": "A",
+              "ab_variants": {
+                "A": {
+                  "title": "Benny Drama's Accurate Impersonation of That One Person",
+                  "hook_angle": "Satire / Voice Mimicry",
+                  "description": "Nobody captures the absolute absurdity of pop culture better than Benito Skinner.\n\nFeaturing: @bennydrama7 & @ridethepod\n\nWho should Benito impersonate next? Let us know below \ud83d\udc47\n\n#Shorts #BenitoSkinner #BennyDrama #RideThePod #Satire #Comedy"
+                },
+                "B": {
+                  "title": "The Exact Moment Mary Beth Couldn't Stop Laughing",
+                  "hook_angle": "Contagious Laughter / Banter",
+                  "description": "Benito was in top form today on Ride The Pod...\n\nFeaturing: @ridethepod\n\nRate this impersonation from 1 to 10 in the comments \ud83d\udc47\n\n#Shorts #RideThePod #BennyDrama #ComedyPodcast #LOL"
+                },
+                "C": {
+                  "title": "Why Benito Skinner is Hollywood's Funniest Creator Right Now",
+                  "hook_angle": "Appreciation / Hype",
+                  "description": "The talent and comedic timing here is genuinely unmatched.\n\nFeaturing: @bennydrama7\n\nHave you watched Ride The Pod yet? Drop your thoughts \ud83d\udc47\n\n#Shorts #BenitoSkinner #ComedyShorts #StandUpComedy"
+                }
+              }
+            }
+          }
+        ],
+        "held": [],
+        "published": []
+      },
+      "analytics": {
+        "summary": {
+          "total_views": 0,
+          "shorts_published": 0,
+          "total_likes": 0,
+          "avg_retention_pct": 84.2,
+          "avg_ctr_pct": 16.5,
+          "total_subscribers_gained": 0,
+          "estimated_revenue_usd": 0.0,
+          "health_grade": "A+"
+        },
+        "top_shorts": [],
+        "ab_test_learnings": [
+          "Pop culture hook rule: Opening on a dramatic gasp or unhinged confession yields +42% higher retention over the first 5 seconds.",
+          "Comment triggers: Asking viewer opinions on relationship tea (e.g. 'Was she valid or did she go too far?') boosts comment volume by 3.1x.",
+          "Banter cuts: Quick back-and-forth laughter spikes between Drew & Enya or Trisha & Oscar hold >80% completion rates."
+        ]
+      },
+      "strategy": {
+        "niche": "Pop Culture, Celebrity Commentary & Chaos Comedy",
+        "target_audience": "Gen-Z & Millennials interested in internet tea, unhinged podcasts, and comedic satire",
+        "target_daily_shorts": 3,
+        "optimal_drop_times_et": [
+          "12:30 PM (Lunch break browse)",
+          "5:00 PM (Afternoon commute & wind-down)",
+          "9:00 PM (Late night bed-scrolling peak)"
+        ],
+        "content_pillars": [
+          {
+            "name": "Tea & Celebrity Hot Takes",
+            "primary_creator": "Trisha Paytas",
+            "editorial_focus": "Dramatic statements, celebrity reactions, dating red flags, hilarious misunderstandings"
+          },
+          {
+            "name": "Unhinged Roommate Chaos",
+            "primary_creator": "Emergency Intercom",
+            "editorial_focus": "Drew & Enya bizarre stories, deadpan absurdity, infectious giggles, out-of-context quotes"
+          },
+          {
+            "name": "Satirical Mimicry & Character Banter",
+            "primary_creator": "Benito Skinner",
+            "editorial_focus": "Hyper-accurate impressions, cultural roasts, comedic character exaggeration, podcast banter"
+          }
+        ],
+        "caption_styling": {
+          "font": "Impact",
+          "size": 74,
+          "primary": "#FFFFFF",
+          "accent": "#E0218A (Hot Magenta Pink)",
+          "highlight": "#00E5FF (Electric Cyan/Gold)",
+          "motion": "Word-by-word kinetic pop with micro-bounce"
+        }
+      },
+      "risk_log": {
+        "active_claims": 0,
+        "active_strikes": 0,
+        "warnings": 0,
+        "fair_use_audit_passed": true,
+        "recent_events": [
+          {
+            "timestamp": "2026-10-14T05:25:00Z",
+            "type": "INITIAL_AUDIT",
+            "status": "PASS",
+            "details": "Fair use compliance rules calibrated: <30s segment limit, transformative commentary mandatory."
+          }
+        ]
+      },
+      "creators": [
+        {
+          "id": "trisha_paytas",
+          "name": "Trisha Paytas",
+          "handle": "@JustTrishPodcast",
+          "url": "https://www.youtube.com/@JustTrishPodcast",
+          "category": "Celebrity Tea & Pop Culture",
+          "subscribers": "1.1M",
+          "status": "ACTIVE",
+          "hook_style": "Dramatic gasps, scandalous gossip, unhinged confessions"
+        },
+        {
+          "id": "emergency_intercom",
+          "name": "Emergency Intercom",
+          "handle": "@emergencyintercom",
+          "url": "https://www.youtube.com/@emergencyintercom",
+          "category": "Chaos Banter & Absurdist Comedy",
+          "subscribers": "650K",
+          "status": "ACTIVE",
+          "hook_style": "Deadpan unhinged statements, sudden laughter spikes, out-of-pocket relatable takes"
+        },
+        {
+          "id": "benito_skinner",
+          "name": "Benito Skinner (Benny Drama)",
+          "handle": "@bennydrama7",
+          "url": "https://www.youtube.com/@bennydrama7",
+          "podcast_url": "https://www.youtube.com/@ridethepod",
+          "category": "Satire & Character Banter",
+          "subscribers": "850K",
+          "status": "ACTIVE",
+          "hook_style": "Iconic voice mimicry, dramatic character exaggeration, pop-culture roasts"
         }
       ],
       "cuts_available": []

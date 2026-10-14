@@ -1,6 +1,6 @@
 {
-  "timestamp": 1792014707.2598872,
-  "sync_time_iso": "2026-10-14T21:51:47Z",
+  "timestamp": 1792014767.373961,
+  "sync_time_iso": "2026-10-14T21:52:47Z",
   "default_channel": "muk_podcast",
   "channels": {
     "muk_podcast": {
@@ -62,11 +62,11 @@
         "dashboard": {
           "host": "127.0.0.1",
           "port": 8899,
-          "remote_tunnel_url": "https://api.trycloudflare.com",
+          "remote_tunnel_url": "https://ash-graduated-beats-scenarios.trycloudflare.com",
           "tunnel_active": true
         },
         "buffer_target_shorts": 6,
-        "remote_tunnel_url": "https://api.trycloudflare.com",
+        "remote_tunnel_url": "https://ash-graduated-beats-scenarios.trycloudflare.com",
         "channel_id": "UCKqBK1q6-0i735Mn_hiNIig",
         "channel_name": "Muks Breakdown Room",
         "oauth_connected": true
@@ -1202,7 +1202,7 @@
         "emergency_stop": false,
         "autopilot_engaged": true,
         "buffer_target_shorts": 6,
-        "remote_tunnel_url": "https://api.trycloudflare.com",
+        "remote_tunnel_url": "https://ash-graduated-beats-scenarios.trycloudflare.com",
         "channel_id": "UCsBZAgHGlc5GU7r4E-8tUyA",
         "oauth_connected": true
       },
@@ -1766,7 +1766,7 @@
         "emergency_stop": false,
         "autopilot_engaged": true,
         "buffer_target_shorts": 6,
-        "remote_tunnel_url": "https://api.trycloudflare.com",
+        "remote_tunnel_url": "https://ash-graduated-beats-scenarios.trycloudflare.com",
         "channel_id": "UCcNdnkFH4m9C3rUunbOEaSg",
         "oauth_connected": true
       },
@@ -1776,14 +1776,14 @@
           "current_task": "Pop culture queue up to date. Monitoring for new episodes.",
           "last_completed_task": "Ingested 6 recent episodes across Trisha, Enya/Drew, and Benito",
           "recent_logs": [
-            "[17:19:19] Scanning Trisha Paytas, Emergency Intercom, and Benito Skinner feeds...",
-            "[17:19:20] Pop culture queue up to date. Monitoring for new episodes.",
             "[17:45:50] Scanning Trisha Paytas, Emergency Intercom, and Benito Skinner feeds...",
             "[17:45:51] Pop culture queue up to date. Monitoring for new episodes.",
             "[17:47:51] Scanning Trisha Paytas, Emergency Intercom, and Benito Skinner feeds...",
             "[17:47:53] Pop culture queue up to date. Monitoring for new episodes.",
             "[17:49:53] Scanning Trisha Paytas, Emergency Intercom, and Benito Skinner feeds...",
-            "[17:49:54] Pop culture queue up to date. Monitoring for new episodes."
+            "[17:49:54] Pop culture queue up to date. Monitoring for new episodes.",
+            "[17:51:55] Scanning Trisha Paytas, Emergency Intercom, and Benito Skinner feeds...",
+            "[17:51:56] Pop culture queue up to date. Monitoring for new episodes."
           ]
         },
         "STRATEGIST": {
@@ -1803,17 +1803,17 @@
         },
         "EDITOR": {
           "status": "idle",
-          "current_task": "Downloading highlight segment for: Ride The Pod - Boba Tea + Wearable ...",
+          "current_task": "Downloading highlight segment for: Ride Presents: Haunted HayRide SPOO...",
           "last_completed_task": "Rendered Trisha Paytas & Brittany Broski pop culture highlight with Neon Pink/Cyan pop captions",
           "recent_logs": [
-            "[EDITOR] Caption style loaded: Impact 74pt with #E0218A (Neon Pink) accent pop",
             "[EDITOR] Studio banter two-shot dynamic re-framing enabled",
             "[12:31:04] Downloading highlight segment for: Jeffree Star Goes OFF on Kori King ...",
             "[12:31:14] Rendering 1080x1920 Short with pop captions: Jeffree Star Goes OFF on Kori ",
             "[17:19:20] Downloading highlight segment for: Emergency Intercom - Episode 255 (Y...",
             "[17:45:51] Downloading highlight segment for: Brittany Broski CLOCKS Her Manipula...",
             "[17:47:53] Downloading highlight segment for: Emergency Intercom - Episode 254 (T...",
-            "[17:49:54] Downloading highlight segment for: Ride The Pod - Boba Tea + Wearable ..."
+            "[17:49:54] Downloading highlight segment for: Ride The Pod - Boba Tea + Wearable ...",
+            "[17:51:56] Downloading highlight segment for: Ride Presents: Haunted HayRide SPOO..."
           ]
         },
         "COMMENTATOR": {
@@ -1845,14 +1845,14 @@
           "current_task": "Auditing velocity of active Pop Culture & Comedy Shorts...",
           "last_completed_task": "Calibrated benchmark: >25 views/hr in first 3 hours",
           "recent_logs": [
-            "[13:55:01] Auditing velocity of active Pop Culture & Comedy Shorts...",
             "[13:57:23] Auditing velocity of active Pop Culture & Comedy Shorts...",
             "[13:59:48] Auditing velocity of active Pop Culture & Comedy Shorts...",
             "[15:14:08] Auditing velocity of active Pop Culture & Comedy Shorts...",
             "[17:19:20] Auditing velocity of active Pop Culture & Comedy Shorts...",
             "[17:45:51] Auditing velocity of active Pop Culture & Comedy Shorts...",
             "[17:47:53] Auditing velocity of active Pop Culture & Comedy Shorts...",
-            "[17:49:55] Auditing velocity of active Pop Culture & Comedy Shorts..."
+            "[17:49:55] Auditing velocity of active Pop Culture & Comedy Shorts...",
+            "[17:51:56] Auditing velocity of active Pop Culture & Comedy Shorts..."
           ]
         },
         "WATCHDOG": {
@@ -1860,14 +1860,14 @@
           "current_task": "Verifying Fair Use compliance: 100% transformative commentary.",
           "last_completed_task": "Validated commentary & transformative overlay standards",
           "recent_logs": [
-            "[13:55:01] Verifying Fair Use compliance: 100% transformative commentary.",
             "[13:57:23] Verifying Fair Use compliance: 100% transformative commentary.",
             "[13:59:48] Verifying Fair Use compliance: 100% transformative commentary.",
             "[15:14:08] Verifying Fair Use compliance: 100% transformative commentary.",
             "[17:19:20] Verifying Fair Use compliance: 100% transformative commentary.",
             "[17:45:51] Verifying Fair Use compliance: 100% transformative commentary.",
             "[17:47:53] Verifying Fair Use compliance: 100% transformative commentary.",
-            "[17:49:55] Verifying Fair Use compliance: 100% transformative commentary."
+            "[17:49:55] Verifying Fair Use compliance: 100% transformative commentary.",
+            "[17:51:56] Verifying Fair Use compliance: 100% transformative commentary."
           ]
         }
       },
@@ -1915,7 +1915,7 @@
             "title": "Ride Presents: Haunted HayRide SPOOKTACULAR!!",
             "url": "https://www.youtube.com/watch?v=vmWEh-r6_eQ",
             "duration": 2800,
-            "status": "QUEUED",
+            "status": "FAILED_DOWNLOAD",
             "added_at": "2026-10-14T05:25:00Z"
           },
           {
@@ -2362,11 +2362,11 @@
     "dashboard": {
       "host": "127.0.0.1",
       "port": 8899,
-      "remote_tunnel_url": "https://api.trycloudflare.com",
+      "remote_tunnel_url": "https://ash-graduated-beats-scenarios.trycloudflare.com",
       "tunnel_active": true
     },
     "buffer_target_shorts": 6,
-    "remote_tunnel_url": "https://api.trycloudflare.com",
+    "remote_tunnel_url": "https://ash-graduated-beats-scenarios.trycloudflare.com",
     "channel_id": "UCKqBK1q6-0i735Mn_hiNIig",
     "channel_name": "Muks Breakdown Room",
     "oauth_connected": true

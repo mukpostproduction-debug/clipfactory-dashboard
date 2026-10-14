@@ -1,6 +1,6 @@
 {
-  "timestamp": 1792014894.088814,
-  "sync_time_iso": "2026-10-14T21:54:54Z",
+  "timestamp": 1792014958.180883,
+  "sync_time_iso": "2026-10-14T21:55:58Z",
   "default_channel": "muk_podcast",
   "channels": {
     "muk_podcast": {
@@ -641,6 +641,67 @@
               }
             },
             "created_at": 1791994258.435176
+          },
+          {
+            "id": "c6lRtChXxUs",
+            "title": "The Hidden Cost of Ozempic",
+            "url": "https://www.youtube.com/shorts/c6lRtChXxUs",
+            "creator": "Andrew Huberman",
+            "video_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/clip_1792014782_master.mp4",
+            "publish_at": "2026-10-16T19:30:00Z",
+            "status": "SCHEDULED",
+            "metadata": {
+              "title": "The Hidden Cost of Ozempic",
+              "description": "Ever wonder what happens when you raise your body's GLP-1 levels by 1,000x? Andrew Huberman breaks down the massive discrepancy between natural regulation and pharmaceutical intervention.\n\nKey takeaways:\n\u2022 Why your body isn't designed for standard drug dosages.\n\u2022 The reality of the 1,000-fold GLP-1 spike.\n\u2022 The primary factor forcing patients to stop treatment.\n\nFeaturing: Andrew Huberman\n\nIs the risk of severe side effects worth the weight loss results? Let us know your take in the comments.\n\n#shorts #andrewhuberman #ozempic #weightloss #healthscience",
+              "tags": [
+                "Andrew Huberman",
+                "Ozempic",
+                "GLP-1",
+                "Weight Loss",
+                "Health Science",
+                "Metabolism",
+                "Biohacking",
+                "Nutrition",
+                "Endocrinology",
+                "Huberman Lab"
+              ],
+              "pinned_comment": "Is the trade-off of extreme nausea worth the rapid weight loss results? Let\u2019s debate in the comments. \ud83d\udc47",
+              "ab_variants": {
+                "A": {
+                  "angle": "Curiosity Gap",
+                  "title": "The Hidden Cost of Ozempic",
+                  "description": "Ever wonder what happens when you raise your body's GLP-1 levels by 1,000x? Andrew Huberman breaks down the massive discrepancy between natural regulation and pharmaceutical intervention.\n\nKey takeaways:\n\u2022 Why your body isn't designed for standard drug dosages.\n\u2022 The reality of the 1,000-fold GLP-1 spike.\n\u2022 The primary factor forcing patients to stop treatment.\n\nFeaturing: Andrew Huberman\n\nIs the risk of severe side effects worth the weight loss results? Let us know your take in the comments.\n\n#shorts #andrewhuberman #ozempic #weightloss #healthscience"
+                },
+                "B": {
+                  "angle": "Contrarian Truth",
+                  "title": "Ozempic: Why Most People Quit",
+                  "description": "It\u2019s not just about losing weight; it\u2019s about what these drugs do to your physiology. Huberman reveals why these drugs are actually a 'super-physiological' shock to your system.\n\nKey takeaways:\n\u2022 The staggering difference between natural and synthetic GLP-1.\n\u2022 Why nausea and vomiting are not just 'side effects' but systemic signals.\n\u2022 The high discontinuation rates hidden in the data.\n\nFeaturing: Andrew Huberman\n\nShould we be using these drugs for weight loss, or is the physiological cost too high? Sound off below.\n\n#shorts #andrewhuberman #ozempic #glp1 #biochemistry"
+                },
+                "C": {
+                  "angle": "Actionable Protocol",
+                  "title": "The Truth About GLP-1 Drugs",
+                  "description": "Understand the mechanism behind GLP-1 drugs before considering them. Andrew Huberman explains the dosage reality that every patient needs to know.\n\nKey takeaways:\n\u2022 The 1,000x dosage rule explained.\n\u2022 Identifying the biological trigger for treatment discontinuation.\n\u2022 Balancing modern medicine with internal hormonal health.\n\nFeaturing: Andrew Huberman\n\nHave you or someone you know experienced these side effects? Share your experience in the comments.\n\n#shorts #andrewhuberman #science #healthtips #wellness"
+                }
+              },
+              "active_variant": "A",
+              "test_status": "ACTIVE_TEST",
+              "variant_history": [
+                {
+                  "variant": "A",
+                  "title": "The Hidden Cost of Ozempic",
+                  "deployed_at": 1792014872.9265778,
+                  "reason": "Initial A/B test deployment"
+                }
+              ],
+              "metrics": {
+                "views": 0,
+                "likes": 0,
+                "comments": 0,
+                "retention": 0.0,
+                "ctr": 0.0
+              }
+            },
+            "created_at": 1792014909.4196212
           }
         ],
         "published": [
@@ -1231,14 +1292,14 @@
           "current_task": "Queue up to date. Waiting for next daily Ken upload.",
           "last_completed_task": "Ingested 5 recent Ken master videos into source pool",
           "recent_logs": [
-            "[17:47:04] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
-            "[17:47:05] Queue up to date. Waiting for next daily Ken upload.",
             "[17:49:05] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
             "[17:49:05] Queue up to date. Waiting for next daily Ken upload.",
             "[17:51:05] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
             "[17:51:05] Queue up to date. Waiting for next daily Ken upload.",
             "[17:53:05] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
-            "[17:53:30] Queue up to date. Waiting for next daily Ken upload."
+            "[17:53:30] Queue up to date. Waiting for next daily Ken upload.",
+            "[17:55:30] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
+            "[17:55:49] Queue up to date. Waiting for next daily Ken upload."
           ]
         },
         "STRATEGIST": {
@@ -1246,14 +1307,14 @@
           "current_task": "Buffer healthy: 3 scheduled Ken Shorts staged.",
           "last_completed_task": "Mapped 3 distinct viral gaming hook angles for initial drops",
           "recent_logs": [
-            "[13:55:03] Buffer healthy: 3 scheduled Ken Shorts staged.",
             "[13:57:25] Buffer healthy: 3 scheduled Ken Shorts staged.",
             "[13:59:49] Buffer healthy: 3 scheduled Ken Shorts staged.",
             "[15:14:08] Buffer healthy: 3 scheduled Ken Shorts staged.",
             "[17:47:05] Buffer healthy: 3 scheduled Ken Shorts staged.",
             "[17:49:05] Buffer healthy: 3 scheduled Ken Shorts staged.",
             "[17:51:05] Buffer healthy: 3 scheduled Ken Shorts staged.",
-            "[17:53:30] Buffer healthy: 3 scheduled Ken Shorts staged."
+            "[17:53:30] Buffer healthy: 3 scheduled Ken Shorts staged.",
+            "[17:55:49] Buffer healthy: 3 scheduled Ken Shorts staged."
           ]
         },
         "EDITOR": {
@@ -1299,14 +1360,14 @@
           "current_task": "Auditing velocity of active Ken Clash Royale Shorts...",
           "last_completed_task": "Calibrated gaming threshold: >15 views/hr within 4h",
           "recent_logs": [
-            "[13:57:25] Auditing velocity of active Ken Clash Royale Shorts...",
             "[13:59:49] Auditing velocity of active Ken Clash Royale Shorts...",
             "[15:14:08] Auditing velocity of active Ken Clash Royale Shorts...",
             "[17:45:04] Auditing velocity of active Ken Clash Royale Shorts...",
             "[17:47:05] Auditing velocity of active Ken Clash Royale Shorts...",
             "[17:49:05] Auditing velocity of active Ken Clash Royale Shorts...",
             "[17:51:05] Auditing velocity of active Ken Clash Royale Shorts...",
-            "[17:53:30] Auditing velocity of active Ken Clash Royale Shorts..."
+            "[17:53:30] Auditing velocity of active Ken Clash Royale Shorts...",
+            "[17:55:49] Auditing velocity of active Ken Clash Royale Shorts..."
           ]
         },
         "WATCHDOG": {
@@ -1314,14 +1375,14 @@
           "current_task": "Verifying Supercell fan policy: 0 claims, 0 strikes.",
           "last_completed_task": "Audited source parameters: strictly <30s segment rule active",
           "recent_logs": [
-            "[13:57:25] Verifying Supercell fan policy: 0 claims, 0 strikes.",
             "[13:59:49] Verifying Supercell fan policy: 0 claims, 0 strikes.",
             "[15:14:08] Verifying Supercell fan policy: 0 claims, 0 strikes.",
             "[17:45:04] Verifying Supercell fan policy: 0 claims, 0 strikes.",
             "[17:47:05] Verifying Supercell fan policy: 0 claims, 0 strikes.",
             "[17:49:05] Verifying Supercell fan policy: 0 claims, 0 strikes.",
             "[17:51:05] Verifying Supercell fan policy: 0 claims, 0 strikes.",
-            "[17:53:30] Verifying Supercell fan policy: 0 claims, 0 strikes."
+            "[17:53:30] Verifying Supercell fan policy: 0 claims, 0 strikes.",
+            "[17:55:49] Verifying Supercell fan policy: 0 claims, 0 strikes."
           ]
         }
       },
@@ -2960,6 +3021,67 @@
           }
         },
         "created_at": 1791994258.435176
+      },
+      {
+        "id": "c6lRtChXxUs",
+        "title": "The Hidden Cost of Ozempic",
+        "url": "https://www.youtube.com/shorts/c6lRtChXxUs",
+        "creator": "Andrew Huberman",
+        "video_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/clip_1792014782_master.mp4",
+        "publish_at": "2026-10-16T19:30:00Z",
+        "status": "SCHEDULED",
+        "metadata": {
+          "title": "The Hidden Cost of Ozempic",
+          "description": "Ever wonder what happens when you raise your body's GLP-1 levels by 1,000x? Andrew Huberman breaks down the massive discrepancy between natural regulation and pharmaceutical intervention.\n\nKey takeaways:\n\u2022 Why your body isn't designed for standard drug dosages.\n\u2022 The reality of the 1,000-fold GLP-1 spike.\n\u2022 The primary factor forcing patients to stop treatment.\n\nFeaturing: Andrew Huberman\n\nIs the risk of severe side effects worth the weight loss results? Let us know your take in the comments.\n\n#shorts #andrewhuberman #ozempic #weightloss #healthscience",
+          "tags": [
+            "Andrew Huberman",
+            "Ozempic",
+            "GLP-1",
+            "Weight Loss",
+            "Health Science",
+            "Metabolism",
+            "Biohacking",
+            "Nutrition",
+            "Endocrinology",
+            "Huberman Lab"
+          ],
+          "pinned_comment": "Is the trade-off of extreme nausea worth the rapid weight loss results? Let\u2019s debate in the comments. \ud83d\udc47",
+          "ab_variants": {
+            "A": {
+              "angle": "Curiosity Gap",
+              "title": "The Hidden Cost of Ozempic",
+              "description": "Ever wonder what happens when you raise your body's GLP-1 levels by 1,000x? Andrew Huberman breaks down the massive discrepancy between natural regulation and pharmaceutical intervention.\n\nKey takeaways:\n\u2022 Why your body isn't designed for standard drug dosages.\n\u2022 The reality of the 1,000-fold GLP-1 spike.\n\u2022 The primary factor forcing patients to stop treatment.\n\nFeaturing: Andrew Huberman\n\nIs the risk of severe side effects worth the weight loss results? Let us know your take in the comments.\n\n#shorts #andrewhuberman #ozempic #weightloss #healthscience"
+            },
+            "B": {
+              "angle": "Contrarian Truth",
+              "title": "Ozempic: Why Most People Quit",
+              "description": "It\u2019s not just about losing weight; it\u2019s about what these drugs do to your physiology. Huberman reveals why these drugs are actually a 'super-physiological' shock to your system.\n\nKey takeaways:\n\u2022 The staggering difference between natural and synthetic GLP-1.\n\u2022 Why nausea and vomiting are not just 'side effects' but systemic signals.\n\u2022 The high discontinuation rates hidden in the data.\n\nFeaturing: Andrew Huberman\n\nShould we be using these drugs for weight loss, or is the physiological cost too high? Sound off below.\n\n#shorts #andrewhuberman #ozempic #glp1 #biochemistry"
+            },
+            "C": {
+              "angle": "Actionable Protocol",
+              "title": "The Truth About GLP-1 Drugs",
+              "description": "Understand the mechanism behind GLP-1 drugs before considering them. Andrew Huberman explains the dosage reality that every patient needs to know.\n\nKey takeaways:\n\u2022 The 1,000x dosage rule explained.\n\u2022 Identifying the biological trigger for treatment discontinuation.\n\u2022 Balancing modern medicine with internal hormonal health.\n\nFeaturing: Andrew Huberman\n\nHave you or someone you know experienced these side effects? Share your experience in the comments.\n\n#shorts #andrewhuberman #science #healthtips #wellness"
+            }
+          },
+          "active_variant": "A",
+          "test_status": "ACTIVE_TEST",
+          "variant_history": [
+            {
+              "variant": "A",
+              "title": "The Hidden Cost of Ozempic",
+              "deployed_at": 1792014872.9265778,
+              "reason": "Initial A/B test deployment"
+            }
+          ],
+          "metrics": {
+            "views": 0,
+            "likes": 0,
+            "comments": 0,
+            "retention": 0.0,
+            "ctr": 0.0
+          }
+        },
+        "created_at": 1792014909.4196212
       }
     ],
     "published": [

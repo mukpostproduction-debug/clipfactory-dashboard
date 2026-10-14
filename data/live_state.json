@@ -1,6 +1,6 @@
 {
-  "timestamp": 1791997468.175033,
-  "sync_time_iso": "2026-10-14T17:04:28Z",
+  "timestamp": 1791997532.177015,
+  "sync_time_iso": "2026-10-14T17:05:32Z",
   "default_channel": "muk_podcast",
   "channels": {
     "muk_podcast": {
@@ -1206,17 +1206,17 @@
       "agents": {
         "SCOUT": {
           "status": "working",
-          "current_task": "Queue up to date. Waiting for next daily Ken upload.",
+          "current_task": "Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
           "last_completed_task": "Ingested 5 recent Ken master videos into source pool",
           "recent_logs": [
-            "[12:56:03] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
             "[12:56:17] Queue up to date. Waiting for next daily Ken upload.",
             "[12:58:17] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
             "[12:58:36] Queue up to date. Waiting for next daily Ken upload.",
             "[13:00:36] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
             "[13:01:06] Error scanning Ken feed: Command '['/Users/jacksonmcmurdo/Desktop/Muk_Post/02_BUSINESS_&_OPERATIONS/muk_jarvis_env/bin/python3', '-m', 'yt_dlp', '--flat-playlist', '--print', '%(title)s | %(url)s | %(duration)s', 'https://www.youtube.com/@kenforrest/videos']' timed out after 30 seconds",
             "[13:03:06] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
-            "[13:03:21] Queue up to date. Waiting for next daily Ken upload."
+            "[13:03:21] Queue up to date. Waiting for next daily Ken upload.",
+            "[13:05:21] Scanning @kenforrest YouTube feed for latest Clash Royale uploads..."
           ]
         },
         "STRATEGIST": {
@@ -1706,14 +1706,14 @@
           "current_task": "Pop culture queue up to date. Monitoring for new episodes.",
           "last_completed_task": "Ingested 6 recent episodes across Trisha, Enya/Drew, and Benito",
           "recent_logs": [
-            "[12:55:34] Scanning Trisha Paytas, Emergency Intercom, and Benito Skinner feeds...",
-            "[12:55:48] Pop culture queue up to date. Monitoring for new episodes.",
             "[12:57:49] Scanning Trisha Paytas, Emergency Intercom, and Benito Skinner feeds...",
             "[12:58:02] Pop culture queue up to date. Monitoring for new episodes.",
             "[13:00:02] Scanning Trisha Paytas, Emergency Intercom, and Benito Skinner feeds...",
             "[13:00:16] Pop culture queue up to date. Monitoring for new episodes.",
             "[13:02:16] Scanning Trisha Paytas, Emergency Intercom, and Benito Skinner feeds...",
-            "[13:02:31] Pop culture queue up to date. Monitoring for new episodes."
+            "[13:02:31] Pop culture queue up to date. Monitoring for new episodes.",
+            "[13:04:31] Scanning Trisha Paytas, Emergency Intercom, and Benito Skinner feeds...",
+            "[13:04:51] Pop culture queue up to date. Monitoring for new episodes."
           ]
         },
         "STRATEGIST": {
@@ -1721,14 +1721,14 @@
           "current_task": "Buffer healthy: 3 scheduled Shorts staged.",
           "last_completed_task": "Calibrated 3 pop-culture hook angles: Shock Tea, Chaos Banter, Satirical Voice Mimicry",
           "recent_logs": [
-            "[12:46:44] Buffer healthy: 3 scheduled Shorts staged.",
             "[12:49:04] Buffer healthy: 3 scheduled Shorts staged.",
             "[12:51:19] Buffer healthy: 3 scheduled Shorts staged.",
             "[12:53:34] Buffer healthy: 3 scheduled Shorts staged.",
             "[12:55:48] Buffer healthy: 3 scheduled Shorts staged.",
             "[12:58:02] Buffer healthy: 3 scheduled Shorts staged.",
             "[13:00:16] Buffer healthy: 3 scheduled Shorts staged.",
-            "[13:02:31] Buffer healthy: 3 scheduled Shorts staged."
+            "[13:02:31] Buffer healthy: 3 scheduled Shorts staged.",
+            "[13:04:51] Buffer healthy: 3 scheduled Shorts staged."
           ]
         },
         "EDITOR": {
@@ -1771,14 +1771,14 @@
           "current_task": "Auditing velocity of active Pop Culture & Comedy Shorts...",
           "last_completed_task": "Calibrated benchmark: >25 views/hr in first 3 hours",
           "recent_logs": [
-            "[12:46:44] Auditing velocity of active Pop Culture & Comedy Shorts...",
             "[12:49:04] Auditing velocity of active Pop Culture & Comedy Shorts...",
             "[12:51:19] Auditing velocity of active Pop Culture & Comedy Shorts...",
             "[12:53:34] Auditing velocity of active Pop Culture & Comedy Shorts...",
             "[12:55:48] Auditing velocity of active Pop Culture & Comedy Shorts...",
             "[12:58:02] Auditing velocity of active Pop Culture & Comedy Shorts...",
             "[13:00:16] Auditing velocity of active Pop Culture & Comedy Shorts...",
-            "[13:02:31] Auditing velocity of active Pop Culture & Comedy Shorts..."
+            "[13:02:31] Auditing velocity of active Pop Culture & Comedy Shorts...",
+            "[13:04:51] Auditing velocity of active Pop Culture & Comedy Shorts..."
           ]
         },
         "WATCHDOG": {
@@ -1786,14 +1786,14 @@
           "current_task": "Verifying Fair Use compliance: 100% transformative commentary.",
           "last_completed_task": "Validated commentary & transformative overlay standards",
           "recent_logs": [
-            "[12:46:44] Verifying Fair Use compliance: 100% transformative commentary.",
             "[12:49:04] Verifying Fair Use compliance: 100% transformative commentary.",
             "[12:51:19] Verifying Fair Use compliance: 100% transformative commentary.",
             "[12:53:34] Verifying Fair Use compliance: 100% transformative commentary.",
             "[12:55:48] Verifying Fair Use compliance: 100% transformative commentary.",
             "[12:58:02] Verifying Fair Use compliance: 100% transformative commentary.",
             "[13:00:16] Verifying Fair Use compliance: 100% transformative commentary.",
-            "[13:02:31] Verifying Fair Use compliance: 100% transformative commentary."
+            "[13:02:31] Verifying Fair Use compliance: 100% transformative commentary.",
+            "[13:04:51] Verifying Fair Use compliance: 100% transformative commentary."
           ]
         }
       },

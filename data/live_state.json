@@ -1,6 +1,6 @@
 {
-  "timestamp": 1792014346.611507,
-  "sync_time_iso": "2026-10-14T21:45:46Z",
+  "timestamp": 1792014406.7222779,
+  "sync_time_iso": "2026-10-14T21:46:46Z",
   "default_channel": "muk_podcast",
   "channels": {
     "muk_podcast": {
@@ -1776,14 +1776,14 @@
           "current_task": "Pop culture queue up to date. Monitoring for new episodes.",
           "last_completed_task": "Ingested 6 recent episodes across Trisha, Enya/Drew, and Benito",
           "recent_logs": [
-            "[13:57:01] Scanning Trisha Paytas, Emergency Intercom, and Benito Skinner feeds...",
-            "[13:57:23] Pop culture queue up to date. Monitoring for new episodes.",
             "[13:59:23] Scanning Trisha Paytas, Emergency Intercom, and Benito Skinner feeds...",
             "[13:59:48] Pop culture queue up to date. Monitoring for new episodes.",
             "[15:14:07] Scanning Trisha Paytas, Emergency Intercom, and Benito Skinner feeds...",
             "[15:14:08] Pop culture queue up to date. Monitoring for new episodes.",
             "[17:19:19] Scanning Trisha Paytas, Emergency Intercom, and Benito Skinner feeds...",
-            "[17:19:20] Pop culture queue up to date. Monitoring for new episodes."
+            "[17:19:20] Pop culture queue up to date. Monitoring for new episodes.",
+            "[17:45:50] Scanning Trisha Paytas, Emergency Intercom, and Benito Skinner feeds...",
+            "[17:45:51] Pop culture queue up to date. Monitoring for new episodes."
           ]
         },
         "STRATEGIST": {
@@ -1803,14 +1803,15 @@
         },
         "EDITOR": {
           "status": "idle",
-          "current_task": "Downloading highlight segment for: Emergency Intercom - Episode 255 (Y...",
+          "current_task": "Downloading highlight segment for: Brittany Broski CLOCKS Her Manipula...",
           "last_completed_task": "Rendered Trisha Paytas & Brittany Broski pop culture highlight with Neon Pink/Cyan pop captions",
           "recent_logs": [
             "[EDITOR] Caption style loaded: Impact 74pt with #E0218A (Neon Pink) accent pop",
             "[EDITOR] Studio banter two-shot dynamic re-framing enabled",
             "[12:31:04] Downloading highlight segment for: Jeffree Star Goes OFF on Kori King ...",
             "[12:31:14] Rendering 1080x1920 Short with pop captions: Jeffree Star Goes OFF on Kori ",
-            "[17:19:20] Downloading highlight segment for: Emergency Intercom - Episode 255 (Y..."
+            "[17:19:20] Downloading highlight segment for: Emergency Intercom - Episode 255 (Y...",
+            "[17:45:51] Downloading highlight segment for: Brittany Broski CLOCKS Her Manipula..."
           ]
         },
         "COMMENTATOR": {
@@ -1842,14 +1843,14 @@
           "current_task": "Auditing velocity of active Pop Culture & Comedy Shorts...",
           "last_completed_task": "Calibrated benchmark: >25 views/hr in first 3 hours",
           "recent_logs": [
-            "[13:47:45] Auditing velocity of active Pop Culture & Comedy Shorts...",
             "[13:50:11] Auditing velocity of active Pop Culture & Comedy Shorts...",
             "[13:52:45] Auditing velocity of active Pop Culture & Comedy Shorts...",
             "[13:55:01] Auditing velocity of active Pop Culture & Comedy Shorts...",
             "[13:57:23] Auditing velocity of active Pop Culture & Comedy Shorts...",
             "[13:59:48] Auditing velocity of active Pop Culture & Comedy Shorts...",
             "[15:14:08] Auditing velocity of active Pop Culture & Comedy Shorts...",
-            "[17:19:20] Auditing velocity of active Pop Culture & Comedy Shorts..."
+            "[17:19:20] Auditing velocity of active Pop Culture & Comedy Shorts...",
+            "[17:45:51] Auditing velocity of active Pop Culture & Comedy Shorts..."
           ]
         },
         "WATCHDOG": {
@@ -1857,14 +1858,14 @@
           "current_task": "Verifying Fair Use compliance: 100% transformative commentary.",
           "last_completed_task": "Validated commentary & transformative overlay standards",
           "recent_logs": [
-            "[13:47:45] Verifying Fair Use compliance: 100% transformative commentary.",
             "[13:50:11] Verifying Fair Use compliance: 100% transformative commentary.",
             "[13:52:45] Verifying Fair Use compliance: 100% transformative commentary.",
             "[13:55:01] Verifying Fair Use compliance: 100% transformative commentary.",
             "[13:57:23] Verifying Fair Use compliance: 100% transformative commentary.",
             "[13:59:48] Verifying Fair Use compliance: 100% transformative commentary.",
             "[15:14:08] Verifying Fair Use compliance: 100% transformative commentary.",
-            "[17:19:20] Verifying Fair Use compliance: 100% transformative commentary."
+            "[17:19:20] Verifying Fair Use compliance: 100% transformative commentary.",
+            "[17:45:51] Verifying Fair Use compliance: 100% transformative commentary."
           ]
         }
       },
@@ -1885,7 +1886,7 @@
             "title": "Brittany Broski CLOCKS Her Manipulative Ex + is DWTS Rigged?",
             "url": "https://www.youtube.com/watch?v=kSLwIWxf1Ys",
             "duration": 5200,
-            "status": "QUEUED",
+            "status": "FAILED_DOWNLOAD",
             "added_at": "2026-10-14T05:25:00Z"
           },
           {

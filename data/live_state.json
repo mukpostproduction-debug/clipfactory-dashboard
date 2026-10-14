@@ -1,6 +1,6 @@
 {
-  "timestamp": 1791994085.072777,
-  "sync_time_iso": "2026-10-14T16:08:05Z",
+  "timestamp": 1791994149.989795,
+  "sync_time_iso": "2026-10-14T16:09:09Z",
   "default_channel": "muk_podcast",
   "channels": {
     "muk_podcast": {
@@ -74,17 +74,7 @@
       "agents": {},
       "queue": {
         "queue": [],
-        "processing": {
-          "id": "clip_1791994054",
-          "source_id": "PXHRYbr3mp4",
-          "title": "How Food Choices Shape Memory, Cognition & Cravings | Dr. Scott Kanoski",
-          "creator": "Andrew Huberman",
-          "source_type": "youtube",
-          "local_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/downloads/clip_1791994054_How Food Choices Shape Memory, Cognition & Craving.mp4",
-          "status": "QUEUED",
-          "notes": "Auto-scouted from Andrew Huberman",
-          "queued_at": 1791994071.846177
-        },
+        "processing": null,
         "completed": [
           {
             "clip_id": "huberman_food_1791864881",
@@ -280,6 +270,25 @@
             "timestamp": 1791936044.918278,
             "creator": "Andrew Huberman",
             "title": "How Food Choices Shape Memory, Cognition & Cravings | Dr. Scott Kanoski"
+          },
+          {
+            "clip_id": "clip_1791994054",
+            "status": "COMPLETED",
+            "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/clip_1791994054_master.mp4",
+            "start_time": 0.0,
+            "end_time": 58.0,
+            "duration": 58.0,
+            "viral_score": 85,
+            "topic": "Podcast Discussion",
+            "hook_summary": "Essential discussion and core insight",
+            "opening_hook_quote": "in space tools for everyday life.",
+            "core_insight": "in space tools for everyday life.",
+            "commentary": {
+              "intro_hook": "Is your favorite snack actually sabotaging your memory and focus today?",
+              "outro_reaction": "Diet maps our cognition; would you trade flavor for a sharper mind?",
+              "voiceover_audio": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/audio/clip_1791994054_commentary.mp3"
+            },
+            "timestamp": 1791994124.0092201
           }
         ],
         "failed": []
@@ -2088,17 +2097,7 @@
   "agents": {},
   "queue": {
     "queue": [],
-    "processing": {
-      "id": "clip_1791994054",
-      "source_id": "PXHRYbr3mp4",
-      "title": "How Food Choices Shape Memory, Cognition & Cravings | Dr. Scott Kanoski",
-      "creator": "Andrew Huberman",
-      "source_type": "youtube",
-      "local_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/downloads/clip_1791994054_How Food Choices Shape Memory, Cognition & Craving.mp4",
-      "status": "QUEUED",
-      "notes": "Auto-scouted from Andrew Huberman",
-      "queued_at": 1791994071.846177
-    },
+    "processing": null,
     "completed": [
       {
         "clip_id": "huberman_food_1791864881",
@@ -2294,6 +2293,25 @@
         "timestamp": 1791936044.918278,
         "creator": "Andrew Huberman",
         "title": "How Food Choices Shape Memory, Cognition & Cravings | Dr. Scott Kanoski"
+      },
+      {
+        "clip_id": "clip_1791994054",
+        "status": "COMPLETED",
+        "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/clip_1791994054_master.mp4",
+        "start_time": 0.0,
+        "end_time": 58.0,
+        "duration": 58.0,
+        "viral_score": 85,
+        "topic": "Podcast Discussion",
+        "hook_summary": "Essential discussion and core insight",
+        "opening_hook_quote": "in space tools for everyday life.",
+        "core_insight": "in space tools for everyday life.",
+        "commentary": {
+          "intro_hook": "Is your favorite snack actually sabotaging your memory and focus today?",
+          "outro_reaction": "Diet maps our cognition; would you trade flavor for a sharper mind?",
+          "voiceover_audio": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/audio/clip_1791994054_commentary.mp3"
+        },
+        "timestamp": 1791994124.0092201
       }
     ],
     "failed": []

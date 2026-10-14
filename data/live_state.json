@@ -1,6 +1,6 @@
 {
-  "timestamp": 1791995405.326447,
-  "sync_time_iso": "2026-10-14T16:30:05Z",
+  "timestamp": 1791995467.240628,
+  "sync_time_iso": "2026-10-14T16:31:07Z",
   "default_channel": "muk_podcast",
   "channels": {
     "muk_podcast": {
@@ -1206,17 +1206,17 @@
       "agents": {
         "SCOUT": {
           "status": "working",
-          "current_task": "Queue up to date. Waiting for next daily Ken upload.",
+          "current_task": "Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
           "last_completed_task": "Ingested 5 recent Ken master videos into source pool",
           "recent_logs": [
-            "[12:22:06] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
             "[12:22:20] Queue up to date. Waiting for next daily Ken upload.",
             "[12:24:20] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
             "[12:24:33] Queue up to date. Waiting for next daily Ken upload.",
             "[12:26:33] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
             "[12:26:48] Queue up to date. Waiting for next daily Ken upload.",
             "[12:28:48] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
-            "[12:29:06] Queue up to date. Waiting for next daily Ken upload."
+            "[12:29:06] Queue up to date. Waiting for next daily Ken upload.",
+            "[12:31:06] Scanning @kenforrest YouTube feed for latest Clash Royale uploads..."
           ]
         },
         "STRATEGIST": {
@@ -1706,14 +1706,14 @@
           "current_task": "Pop culture queue up to date. Monitoring for new episodes.",
           "last_completed_task": "Ingested 6 recent episodes across Trisha, Enya/Drew, and Benito",
           "recent_logs": [
-            "[12:21:55] Scanning Trisha Paytas, Emergency Intercom, and Benito Skinner feeds...",
-            "[12:22:08] Pop culture queue up to date. Monitoring for new episodes.",
             "[12:24:08] Scanning Trisha Paytas, Emergency Intercom, and Benito Skinner feeds...",
             "[12:24:21] Pop culture queue up to date. Monitoring for new episodes.",
             "[12:26:21] Scanning Trisha Paytas, Emergency Intercom, and Benito Skinner feeds...",
             "[12:26:35] Pop culture queue up to date. Monitoring for new episodes.",
             "[12:28:35] Scanning Trisha Paytas, Emergency Intercom, and Benito Skinner feeds...",
-            "[12:28:50] Pop culture queue up to date. Monitoring for new episodes."
+            "[12:28:50] Pop culture queue up to date. Monitoring for new episodes.",
+            "[12:30:50] Scanning Trisha Paytas, Emergency Intercom, and Benito Skinner feeds...",
+            "[12:31:04] Pop culture queue up to date. Monitoring for new episodes."
           ]
         },
         "STRATEGIST": {
@@ -1733,11 +1733,12 @@
         },
         "EDITOR": {
           "status": "idle",
-          "current_task": "Master Short rendered: abigail_clip_01_trisha (27.9s, 1080x1920 30FPS)",
+          "current_task": "Downloading highlight segment for: Jeffree Star Goes OFF on Kori King ...",
           "last_completed_task": "Rendered Trisha Paytas & Brittany Broski pop culture highlight with Neon Pink/Cyan pop captions",
           "recent_logs": [
             "[EDITOR] Caption style loaded: Impact 74pt with #E0218A (Neon Pink) accent pop",
-            "[EDITOR] Studio banter two-shot dynamic re-framing enabled"
+            "[EDITOR] Studio banter two-shot dynamic re-framing enabled",
+            "[12:31:04] Downloading highlight segment for: Jeffree Star Goes OFF on Kori King ..."
           ]
         },
         "COMMENTATOR": {
@@ -1803,7 +1804,7 @@
             "title": "Jeffree Star Goes OFF on Kori King + Emma Chamberlain\u2019s AWKWARD Reunion",
             "url": "https://www.youtube.com/watch?v=Dg5bNhjn7M4",
             "duration": 5400,
-            "status": "QUEUED",
+            "status": "PROCESSING",
             "added_at": "2026-10-14T05:25:00Z"
           },
           {
@@ -1948,42 +1949,6 @@
       "calendar": {
         "scheduled": [
           {
-            "id": "abigail_clip_01_trisha",
-            "source_video": "Brittany Broski CLOCKS Her Manipulative Ex",
-            "creator": "Trisha Paytas",
-            "title": "TRISHA'S JAW DROPPED WHEN BRITTANY SAID THIS...",
-            "publish_at": "2026-10-14T16:30:00Z",
-            "status": "SCHEDULED",
-            "metadata": {
-              "creator": "Trisha Paytas",
-              "topic": "Brittany Broski Ex Drama & Toxic Dating",
-              "active_variant": "A",
-              "ab_variants": {
-                "A": {
-                  "title": "TRISHA'S JAW DROPPED WHEN BRITTANY SAID THIS...",
-                  "hook_angle": "Shock & Celebrity Tea",
-                  "description": "The exact second Brittany Broski dropped the truth on Just Trish...\n\nFeaturing: @JustTrishPodcast & @BrittanyBroski\n\nDid she go too far or was she completely valid? Tell us in the comments \ud83d\udc47\n\n#Shorts #JustTrish #TrishaPaytas #BrittanyBroski #PopCulture #Drama"
-                },
-                "B": {
-                  "title": "Brittany Broski Exposed Her Worst Ex on Live Camera",
-                  "hook_angle": "Expose / Storytime",
-                  "description": "Never trust someone who acts like this on a first date...\n\nFeaturing: @JustTrishPodcast\n\nWhat is your biggest red flag in dating? Let us know below \ud83d\udc47\n\n#Shorts #TrishaPaytas #PodcastClips #Storytime #PopCulture"
-                },
-                "C": {
-                  "title": "The Most Relatable 30 Seconds on the Internet Today",
-                  "hook_angle": "Relatable Humor / Viral Quote",
-                  "description": "Trisha's reaction at the end is all of us.\n\nFeaturing: @JustTrishPodcast\n\nTag a friend who needs to hear this right now \ud83d\udc47\n\n#Shorts #JustTrish #Comedy #Relatable #BestOfTrish"
-                }
-              }
-            },
-            "youtube_video_id": "2eV-Xlbk5fU",
-            "youtube_url": "https://www.youtube.com/shorts/2eV-Xlbk5fU",
-            "uploaded": true,
-            "video_file": "abigail_clip_01_trisha_master.mp4",
-            "duration": 27.9,
-            "rendered": true
-          },
-          {
             "id": "abigail_clip_02_emergency",
             "source_video": "Emergency Intercom - Episode 255",
             "creator": "Emergency Intercom",
@@ -2057,7 +2022,44 @@
           }
         ],
         "held": [],
-        "published": []
+        "published": [
+          {
+            "id": "abigail_clip_01_trisha",
+            "source_video": "Brittany Broski CLOCKS Her Manipulative Ex",
+            "creator": "Trisha Paytas",
+            "title": "TRISHA'S JAW DROPPED WHEN BRITTANY SAID THIS...",
+            "publish_at": "2026-10-14T16:30:00Z",
+            "status": "PUBLISHED",
+            "metadata": {
+              "creator": "Trisha Paytas",
+              "topic": "Brittany Broski Ex Drama & Toxic Dating",
+              "active_variant": "A",
+              "ab_variants": {
+                "A": {
+                  "title": "TRISHA'S JAW DROPPED WHEN BRITTANY SAID THIS...",
+                  "hook_angle": "Shock & Celebrity Tea",
+                  "description": "The exact second Brittany Broski dropped the truth on Just Trish...\n\nFeaturing: @JustTrishPodcast & @BrittanyBroski\n\nDid she go too far or was she completely valid? Tell us in the comments \ud83d\udc47\n\n#Shorts #JustTrish #TrishaPaytas #BrittanyBroski #PopCulture #Drama"
+                },
+                "B": {
+                  "title": "Brittany Broski Exposed Her Worst Ex on Live Camera",
+                  "hook_angle": "Expose / Storytime",
+                  "description": "Never trust someone who acts like this on a first date...\n\nFeaturing: @JustTrishPodcast\n\nWhat is your biggest red flag in dating? Let us know below \ud83d\udc47\n\n#Shorts #TrishaPaytas #PodcastClips #Storytime #PopCulture"
+                },
+                "C": {
+                  "title": "The Most Relatable 30 Seconds on the Internet Today",
+                  "hook_angle": "Relatable Humor / Viral Quote",
+                  "description": "Trisha's reaction at the end is all of us.\n\nFeaturing: @JustTrishPodcast\n\nTag a friend who needs to hear this right now \ud83d\udc47\n\n#Shorts #JustTrish #Comedy #Relatable #BestOfTrish"
+                }
+              }
+            },
+            "youtube_video_id": "2eV-Xlbk5fU",
+            "youtube_url": "https://www.youtube.com/shorts/2eV-Xlbk5fU",
+            "uploaded": true,
+            "video_file": "abigail_clip_01_trisha_master.mp4",
+            "duration": 27.9,
+            "rendered": true
+          }
+        ]
       },
       "analytics": {
         "summary": {

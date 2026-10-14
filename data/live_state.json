@@ -1,6 +1,6 @@
 {
-  "timestamp": 1792021483.8139699,
-  "sync_time_iso": "2026-10-14T23:44:43Z",
+  "timestamp": 1792021545.3855119,
+  "sync_time_iso": "2026-10-14T23:45:45Z",
   "default_channel": "muk_podcast",
   "channels": {
     "muk_podcast": {
@@ -74,7 +74,17 @@
       "agents": {},
       "queue": {
         "queue": [],
-        "processing": null,
+        "processing": {
+          "id": "clip_1792021508",
+          "source_id": "PXHRYbr3mp4",
+          "title": "How Food Choices Shape Memory, Cognition & Cravings | Dr. Scott Kanoski",
+          "creator": "Andrew Huberman",
+          "source_type": "youtube",
+          "local_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/downloads/clip_1792021508_How Food Choices Shape Memory, Cognition & Craving.mp4",
+          "status": "QUEUED",
+          "notes": "Auto-scouted from Andrew Huberman",
+          "queued_at": 1792021519.2513468
+        },
         "completed": [
           {
             "clip_id": "huberman_food_1791864881",
@@ -314,73 +324,6 @@
       },
       "calendar": {
         "scheduled": [
-          {
-            "id": "ZX0nAY29yf4",
-            "title": "Theo Von: Why Silence is Terrifying",
-            "url": "https://www.youtube.com/shorts/ZX0nAY29yf4",
-            "creator": "Theo Von (This Past Weekend)",
-            "video_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/clip_1791873142_master.mp4",
-            "publish_at": "2026-10-14T23:45:00Z",
-            "status": "SCHEDULED",
-            "metadata": {
-              "title": "Theo Von: Why Silence is Terrifying",
-              "description": "Theo Von reveals the surprising thing that actually trips him up during the day. It\u2019s not the high-intensity stress, but the moments when the noise stops. \n\n\u2022 Why the \"grind\" is easier than being still \n\u2022 Navigating intense mental levels \n\u2022 The struggle of having no plan \n\nFeaturing: Theo Von (This Past Weekend)\n\nDo you find it harder to stay busy or to sit in silence? Let\u2019s debate in the comments.\n\n#shorts #theovon #mindset #mentalhealth #thispastweekend #productivity",
-              "tags": [
-                "Theo Von",
-                "This Past Weekend",
-                "mental health",
-                "anxiety",
-                "productivity",
-                "hustle culture",
-                "comedy podcast",
-                "mindset",
-                "silence",
-                "work ethic"
-              ],
-              "pinned_comment": "Theo says the hardest part isn't the work\u2014it's having nothing to do. Is he right, or is he just a workaholic? \ud83d\udc47",
-              "ab_variants": {
-                "A": {
-                  "angle": "Curiosity Gap",
-                  "title": "Theo Von: Why Silence is Terrifying",
-                  "description": "Theo Von reveals the surprising thing that actually trips him up during the day. It\u2019s not the high-intensity stress, but the moments when the noise stops. \n\n\u2022 Why the \"grind\" is easier than being still \n\u2022 Navigating intense mental levels \n\u2022 The struggle of having no plan \n\nFeaturing: Theo Von (This Past Weekend)\n\nDo you find it harder to stay busy or to sit in silence? Let\u2019s debate in the comments.\n\n#shorts #theovon #mindset #mentalhealth #thispastweekend #productivity"
-                },
-                "B": {
-                  "angle": "Contrarian Truth",
-                  "title": "The Danger of Having \"Nothing To Do\"",
-                  "description": "Think having \"nothing to do\" is a reward? Theo Von argues it's actually the hardest part of his day. Discover why the grind is a safe haven for some. \n\n\u2022 The hidden trap of unscheduled time \n\u2022 Why high stress is easier than total peace \n\u2022 Surviving the \"day-to-day\" levels \n\nFeaturing: Theo Von (This Past Weekend)\n\nIs \"hustle culture\" just a way to escape our own thoughts?\n\n#shorts #theovon #psychology #workethic #hustle #focus #mentalhealth"
-                },
-                "C": {
-                  "angle": "Actionable Protocol",
-                  "title": "How to Survive High-Intensity Moments",
-                  "description": "Theo Von breaks down how he manages intense moments and the specific framework he uses to get through the day. Learn to master your downtime before it masters you. \n\n\u2022 Grinding through high-intensity stress \n\u2022 Recognizing \"lack of breath\" moments \n\u2022 How to structure time to stay sane \n\nFeaturing: Theo Von (This Past Weekend)\n\nWhat is your #1 rule for staying productive when you feel overwhelmed?\n\n#productivity #theovon #mentalstrength #discipline #shorts #selfimprovement #mindset"
-                }
-              },
-              "active_variant": "A",
-              "test_status": "ACTIVE_TEST",
-              "variant_history": [
-                {
-                  "variant": "A",
-                  "title": "Theo Von: Why Silence is Terrifying",
-                  "deployed_at": 1791951170.807413,
-                  "reason": "Initial A/B test deployment"
-                },
-                {
-                  "title": "Theo Von: Why Silence is Terrifying",
-                  "updated_at": 1791951569.580714,
-                  "reason": "Live Metadata Sync",
-                  "live_updated": true
-                }
-              ],
-              "metrics": {
-                "views": 0,
-                "likes": 0,
-                "comments": 0,
-                "retention": 0.0,
-                "ctr": 0.0
-              }
-            },
-            "created_at": 1791874304.2537239
-          },
           {
             "id": "KbAlC2n3W78",
             "title": "This \"Space Tool\" Stops Overeating \ud83d\ude80",
@@ -705,6 +648,74 @@
           }
         ],
         "published": [
+          {
+            "id": "ZX0nAY29yf4",
+            "title": "Theo Von: Why Silence is Terrifying",
+            "url": "https://www.youtube.com/shorts/ZX0nAY29yf4",
+            "creator": "Theo Von (This Past Weekend)",
+            "video_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/clip_1791873142_master.mp4",
+            "publish_at": "2026-10-14T23:45:00Z",
+            "status": "PUBLISHED",
+            "metadata": {
+              "title": "Theo Von: Why Silence is Terrifying",
+              "description": "Theo Von reveals the surprising thing that actually trips him up during the day. It\u2019s not the high-intensity stress, but the moments when the noise stops. \n\n\u2022 Why the \"grind\" is easier than being still \n\u2022 Navigating intense mental levels \n\u2022 The struggle of having no plan \n\nFeaturing: Theo Von (This Past Weekend)\n\nDo you find it harder to stay busy or to sit in silence? Let\u2019s debate in the comments.\n\n#shorts #theovon #mindset #mentalhealth #thispastweekend #productivity",
+              "tags": [
+                "Theo Von",
+                "This Past Weekend",
+                "mental health",
+                "anxiety",
+                "productivity",
+                "hustle culture",
+                "comedy podcast",
+                "mindset",
+                "silence",
+                "work ethic"
+              ],
+              "pinned_comment": "Theo says the hardest part isn't the work\u2014it's having nothing to do. Is he right, or is he just a workaholic? \ud83d\udc47",
+              "ab_variants": {
+                "A": {
+                  "angle": "Curiosity Gap",
+                  "title": "Theo Von: Why Silence is Terrifying",
+                  "description": "Theo Von reveals the surprising thing that actually trips him up during the day. It\u2019s not the high-intensity stress, but the moments when the noise stops. \n\n\u2022 Why the \"grind\" is easier than being still \n\u2022 Navigating intense mental levels \n\u2022 The struggle of having no plan \n\nFeaturing: Theo Von (This Past Weekend)\n\nDo you find it harder to stay busy or to sit in silence? Let\u2019s debate in the comments.\n\n#shorts #theovon #mindset #mentalhealth #thispastweekend #productivity"
+                },
+                "B": {
+                  "angle": "Contrarian Truth",
+                  "title": "The Danger of Having \"Nothing To Do\"",
+                  "description": "Think having \"nothing to do\" is a reward? Theo Von argues it's actually the hardest part of his day. Discover why the grind is a safe haven for some. \n\n\u2022 The hidden trap of unscheduled time \n\u2022 Why high stress is easier than total peace \n\u2022 Surviving the \"day-to-day\" levels \n\nFeaturing: Theo Von (This Past Weekend)\n\nIs \"hustle culture\" just a way to escape our own thoughts?\n\n#shorts #theovon #psychology #workethic #hustle #focus #mentalhealth"
+                },
+                "C": {
+                  "angle": "Actionable Protocol",
+                  "title": "How to Survive High-Intensity Moments",
+                  "description": "Theo Von breaks down how he manages intense moments and the specific framework he uses to get through the day. Learn to master your downtime before it masters you. \n\n\u2022 Grinding through high-intensity stress \n\u2022 Recognizing \"lack of breath\" moments \n\u2022 How to structure time to stay sane \n\nFeaturing: Theo Von (This Past Weekend)\n\nWhat is your #1 rule for staying productive when you feel overwhelmed?\n\n#productivity #theovon #mentalstrength #discipline #shorts #selfimprovement #mindset"
+                }
+              },
+              "active_variant": "A",
+              "test_status": "ACTIVE_TEST",
+              "variant_history": [
+                {
+                  "variant": "A",
+                  "title": "Theo Von: Why Silence is Terrifying",
+                  "deployed_at": 1791951170.807413,
+                  "reason": "Initial A/B test deployment"
+                },
+                {
+                  "title": "Theo Von: Why Silence is Terrifying",
+                  "updated_at": 1791951569.580714,
+                  "reason": "Live Metadata Sync",
+                  "live_updated": true
+                }
+              ],
+              "metrics": {
+                "views": 0,
+                "likes": 0,
+                "comments": 0,
+                "retention": 0.0,
+                "ctr": 0.0
+              }
+            },
+            "created_at": 1791874304.2537239,
+            "published_at": "2026-10-14T23:45:00Z"
+          },
           {
             "id": "qx6ldzdiKF0",
             "title": "Huberman\u2019s Rule for Overwhelm",
@@ -1289,17 +1300,17 @@
       "agents": {
         "SCOUT": {
           "status": "working",
-          "current_task": "Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
+          "current_task": "Queue up to date. Waiting for next daily Ken upload.",
           "last_completed_task": "Ingested 5 recent Ken master videos into source pool",
           "recent_logs": [
-            "[19:36:03] Queue up to date. Waiting for next daily Ken upload.",
             "[19:38:03] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
             "[19:38:15] Queue up to date. Waiting for next daily Ken upload.",
             "[19:40:15] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
             "[19:40:27] Queue up to date. Waiting for next daily Ken upload.",
             "[19:42:27] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
             "[19:42:39] Queue up to date. Waiting for next daily Ken upload.",
-            "[19:44:39] Scanning @kenforrest YouTube feed for latest Clash Royale uploads..."
+            "[19:44:39] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
+            "[19:44:51] Queue up to date. Waiting for next daily Ken upload."
           ]
         },
         "STRATEGIST": {
@@ -1307,14 +1318,14 @@
           "current_task": "Buffer healthy: 3 scheduled Ken Shorts staged.",
           "last_completed_task": "Mapped 3 distinct viral gaming hook angles for initial drops",
           "recent_logs": [
-            "[19:28:01] Buffer healthy: 3 scheduled Ken Shorts staged.",
             "[19:30:02] Buffer healthy: 3 scheduled Ken Shorts staged.",
             "[19:32:02] Buffer healthy: 3 scheduled Ken Shorts staged.",
             "[19:34:02] Buffer healthy: 3 scheduled Ken Shorts staged.",
             "[19:36:03] Buffer healthy: 3 scheduled Ken Shorts staged.",
             "[19:38:15] Buffer healthy: 3 scheduled Ken Shorts staged.",
             "[19:40:27] Buffer healthy: 3 scheduled Ken Shorts staged.",
-            "[19:42:39] Buffer healthy: 3 scheduled Ken Shorts staged."
+            "[19:42:39] Buffer healthy: 3 scheduled Ken Shorts staged.",
+            "[19:44:51] Buffer healthy: 3 scheduled Ken Shorts staged."
           ]
         },
         "EDITOR": {
@@ -1360,14 +1371,14 @@
           "current_task": "Auditing velocity of active Ken Clash Royale Shorts...",
           "last_completed_task": "Calibrated gaming threshold: >15 views/hr within 4h",
           "recent_logs": [
-            "[19:28:01] Auditing velocity of active Ken Clash Royale Shorts...",
             "[19:30:02] Auditing velocity of active Ken Clash Royale Shorts...",
             "[19:32:02] Auditing velocity of active Ken Clash Royale Shorts...",
             "[19:34:02] Auditing velocity of active Ken Clash Royale Shorts...",
             "[19:36:03] Auditing velocity of active Ken Clash Royale Shorts...",
             "[19:38:15] Auditing velocity of active Ken Clash Royale Shorts...",
             "[19:40:27] Auditing velocity of active Ken Clash Royale Shorts...",
-            "[19:42:39] Auditing velocity of active Ken Clash Royale Shorts..."
+            "[19:42:39] Auditing velocity of active Ken Clash Royale Shorts...",
+            "[19:44:51] Auditing velocity of active Ken Clash Royale Shorts..."
           ]
         },
         "WATCHDOG": {
@@ -1375,14 +1386,14 @@
           "current_task": "Verifying Supercell fan policy: 0 claims, 0 strikes.",
           "last_completed_task": "Audited source parameters: strictly <30s segment rule active",
           "recent_logs": [
-            "[19:28:01] Verifying Supercell fan policy: 0 claims, 0 strikes.",
             "[19:30:02] Verifying Supercell fan policy: 0 claims, 0 strikes.",
             "[19:32:02] Verifying Supercell fan policy: 0 claims, 0 strikes.",
             "[19:34:02] Verifying Supercell fan policy: 0 claims, 0 strikes.",
             "[19:36:03] Verifying Supercell fan policy: 0 claims, 0 strikes.",
             "[19:38:15] Verifying Supercell fan policy: 0 claims, 0 strikes.",
             "[19:40:27] Verifying Supercell fan policy: 0 claims, 0 strikes.",
-            "[19:42:39] Verifying Supercell fan policy: 0 claims, 0 strikes."
+            "[19:42:39] Verifying Supercell fan policy: 0 claims, 0 strikes.",
+            "[19:44:51] Verifying Supercell fan policy: 0 claims, 0 strikes."
           ]
         }
       },
@@ -1856,14 +1867,14 @@
           "current_task": "Pop culture queue up to date. Monitoring for new episodes.",
           "last_completed_task": "Ingested 6 recent episodes across Trisha, Enya/Drew, and Benito",
           "recent_logs": [
-            "[19:36:42] Scanning Trisha Paytas, Emergency Intercom, and Benito Skinner feeds...",
-            "[19:36:43] Pop culture queue up to date. Monitoring for new episodes.",
             "[19:38:43] Scanning Trisha Paytas, Emergency Intercom, and Benito Skinner feeds...",
             "[19:38:53] Pop culture queue up to date. Monitoring for new episodes.",
             "[19:40:53] Scanning Trisha Paytas, Emergency Intercom, and Benito Skinner feeds...",
             "[19:41:04] Pop culture queue up to date. Monitoring for new episodes.",
             "[19:43:04] Scanning Trisha Paytas, Emergency Intercom, and Benito Skinner feeds...",
-            "[19:43:16] Pop culture queue up to date. Monitoring for new episodes."
+            "[19:43:16] Pop culture queue up to date. Monitoring for new episodes.",
+            "[19:45:16] Scanning Trisha Paytas, Emergency Intercom, and Benito Skinner feeds...",
+            "[19:45:26] Pop culture queue up to date. Monitoring for new episodes."
           ]
         },
         "STRATEGIST": {
@@ -1871,14 +1882,14 @@
           "current_task": "Buffer healthy: 3 scheduled Shorts staged.",
           "last_completed_task": "Calibrated 3 pop-culture hook angles: Shock Tea, Chaos Banter, Satirical Voice Mimicry",
           "recent_logs": [
-            "[19:28:38] Buffer healthy: 3 scheduled Shorts staged.",
             "[19:30:40] Buffer healthy: 3 scheduled Shorts staged.",
             "[19:32:41] Buffer healthy: 3 scheduled Shorts staged.",
             "[19:34:42] Buffer healthy: 3 scheduled Shorts staged.",
             "[19:36:43] Buffer healthy: 3 scheduled Shorts staged.",
             "[19:38:53] Buffer healthy: 3 scheduled Shorts staged.",
             "[19:41:04] Buffer healthy: 3 scheduled Shorts staged.",
-            "[19:43:16] Buffer healthy: 3 scheduled Shorts staged."
+            "[19:43:16] Buffer healthy: 3 scheduled Shorts staged.",
+            "[19:45:26] Buffer healthy: 3 scheduled Shorts staged."
           ]
         },
         "EDITOR": {
@@ -1925,14 +1936,14 @@
           "current_task": "Auditing velocity of active Pop Culture & Comedy Shorts...",
           "last_completed_task": "Calibrated benchmark: >25 views/hr in first 3 hours",
           "recent_logs": [
-            "[19:28:38] Auditing velocity of active Pop Culture & Comedy Shorts...",
             "[19:30:40] Auditing velocity of active Pop Culture & Comedy Shorts...",
             "[19:32:41] Auditing velocity of active Pop Culture & Comedy Shorts...",
             "[19:34:42] Auditing velocity of active Pop Culture & Comedy Shorts...",
             "[19:36:43] Auditing velocity of active Pop Culture & Comedy Shorts...",
             "[19:38:53] Auditing velocity of active Pop Culture & Comedy Shorts...",
             "[19:41:04] Auditing velocity of active Pop Culture & Comedy Shorts...",
-            "[19:43:16] Auditing velocity of active Pop Culture & Comedy Shorts..."
+            "[19:43:16] Auditing velocity of active Pop Culture & Comedy Shorts...",
+            "[19:45:26] Auditing velocity of active Pop Culture & Comedy Shorts..."
           ]
         },
         "WATCHDOG": {
@@ -1940,14 +1951,14 @@
           "current_task": "Verifying Fair Use compliance: 100% transformative commentary.",
           "last_completed_task": "Validated commentary & transformative overlay standards",
           "recent_logs": [
-            "[19:28:38] Verifying Fair Use compliance: 100% transformative commentary.",
             "[19:30:40] Verifying Fair Use compliance: 100% transformative commentary.",
             "[19:32:41] Verifying Fair Use compliance: 100% transformative commentary.",
             "[19:34:42] Verifying Fair Use compliance: 100% transformative commentary.",
             "[19:36:43] Verifying Fair Use compliance: 100% transformative commentary.",
             "[19:38:53] Verifying Fair Use compliance: 100% transformative commentary.",
             "[19:41:04] Verifying Fair Use compliance: 100% transformative commentary.",
-            "[19:43:16] Verifying Fair Use compliance: 100% transformative commentary."
+            "[19:43:16] Verifying Fair Use compliance: 100% transformative commentary.",
+            "[19:45:26] Verifying Fair Use compliance: 100% transformative commentary."
           ]
         }
       },
@@ -2522,7 +2533,17 @@
   "agents": {},
   "queue": {
     "queue": [],
-    "processing": null,
+    "processing": {
+      "id": "clip_1792021508",
+      "source_id": "PXHRYbr3mp4",
+      "title": "How Food Choices Shape Memory, Cognition & Cravings | Dr. Scott Kanoski",
+      "creator": "Andrew Huberman",
+      "source_type": "youtube",
+      "local_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/downloads/clip_1792021508_How Food Choices Shape Memory, Cognition & Craving.mp4",
+      "status": "QUEUED",
+      "notes": "Auto-scouted from Andrew Huberman",
+      "queued_at": 1792021519.2513468
+    },
     "completed": [
       {
         "clip_id": "huberman_food_1791864881",
@@ -2762,73 +2783,6 @@
   },
   "calendar": {
     "scheduled": [
-      {
-        "id": "ZX0nAY29yf4",
-        "title": "Theo Von: Why Silence is Terrifying",
-        "url": "https://www.youtube.com/shorts/ZX0nAY29yf4",
-        "creator": "Theo Von (This Past Weekend)",
-        "video_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/clip_1791873142_master.mp4",
-        "publish_at": "2026-10-14T23:45:00Z",
-        "status": "SCHEDULED",
-        "metadata": {
-          "title": "Theo Von: Why Silence is Terrifying",
-          "description": "Theo Von reveals the surprising thing that actually trips him up during the day. It\u2019s not the high-intensity stress, but the moments when the noise stops. \n\n\u2022 Why the \"grind\" is easier than being still \n\u2022 Navigating intense mental levels \n\u2022 The struggle of having no plan \n\nFeaturing: Theo Von (This Past Weekend)\n\nDo you find it harder to stay busy or to sit in silence? Let\u2019s debate in the comments.\n\n#shorts #theovon #mindset #mentalhealth #thispastweekend #productivity",
-          "tags": [
-            "Theo Von",
-            "This Past Weekend",
-            "mental health",
-            "anxiety",
-            "productivity",
-            "hustle culture",
-            "comedy podcast",
-            "mindset",
-            "silence",
-            "work ethic"
-          ],
-          "pinned_comment": "Theo says the hardest part isn't the work\u2014it's having nothing to do. Is he right, or is he just a workaholic? \ud83d\udc47",
-          "ab_variants": {
-            "A": {
-              "angle": "Curiosity Gap",
-              "title": "Theo Von: Why Silence is Terrifying",
-              "description": "Theo Von reveals the surprising thing that actually trips him up during the day. It\u2019s not the high-intensity stress, but the moments when the noise stops. \n\n\u2022 Why the \"grind\" is easier than being still \n\u2022 Navigating intense mental levels \n\u2022 The struggle of having no plan \n\nFeaturing: Theo Von (This Past Weekend)\n\nDo you find it harder to stay busy or to sit in silence? Let\u2019s debate in the comments.\n\n#shorts #theovon #mindset #mentalhealth #thispastweekend #productivity"
-            },
-            "B": {
-              "angle": "Contrarian Truth",
-              "title": "The Danger of Having \"Nothing To Do\"",
-              "description": "Think having \"nothing to do\" is a reward? Theo Von argues it's actually the hardest part of his day. Discover why the grind is a safe haven for some. \n\n\u2022 The hidden trap of unscheduled time \n\u2022 Why high stress is easier than total peace \n\u2022 Surviving the \"day-to-day\" levels \n\nFeaturing: Theo Von (This Past Weekend)\n\nIs \"hustle culture\" just a way to escape our own thoughts?\n\n#shorts #theovon #psychology #workethic #hustle #focus #mentalhealth"
-            },
-            "C": {
-              "angle": "Actionable Protocol",
-              "title": "How to Survive High-Intensity Moments",
-              "description": "Theo Von breaks down how he manages intense moments and the specific framework he uses to get through the day. Learn to master your downtime before it masters you. \n\n\u2022 Grinding through high-intensity stress \n\u2022 Recognizing \"lack of breath\" moments \n\u2022 How to structure time to stay sane \n\nFeaturing: Theo Von (This Past Weekend)\n\nWhat is your #1 rule for staying productive when you feel overwhelmed?\n\n#productivity #theovon #mentalstrength #discipline #shorts #selfimprovement #mindset"
-            }
-          },
-          "active_variant": "A",
-          "test_status": "ACTIVE_TEST",
-          "variant_history": [
-            {
-              "variant": "A",
-              "title": "Theo Von: Why Silence is Terrifying",
-              "deployed_at": 1791951170.807413,
-              "reason": "Initial A/B test deployment"
-            },
-            {
-              "title": "Theo Von: Why Silence is Terrifying",
-              "updated_at": 1791951569.580714,
-              "reason": "Live Metadata Sync",
-              "live_updated": true
-            }
-          ],
-          "metrics": {
-            "views": 0,
-            "likes": 0,
-            "comments": 0,
-            "retention": 0.0,
-            "ctr": 0.0
-          }
-        },
-        "created_at": 1791874304.2537239
-      },
       {
         "id": "KbAlC2n3W78",
         "title": "This \"Space Tool\" Stops Overeating \ud83d\ude80",
@@ -3153,6 +3107,74 @@
       }
     ],
     "published": [
+      {
+        "id": "ZX0nAY29yf4",
+        "title": "Theo Von: Why Silence is Terrifying",
+        "url": "https://www.youtube.com/shorts/ZX0nAY29yf4",
+        "creator": "Theo Von (This Past Weekend)",
+        "video_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/clip_1791873142_master.mp4",
+        "publish_at": "2026-10-14T23:45:00Z",
+        "status": "PUBLISHED",
+        "metadata": {
+          "title": "Theo Von: Why Silence is Terrifying",
+          "description": "Theo Von reveals the surprising thing that actually trips him up during the day. It\u2019s not the high-intensity stress, but the moments when the noise stops. \n\n\u2022 Why the \"grind\" is easier than being still \n\u2022 Navigating intense mental levels \n\u2022 The struggle of having no plan \n\nFeaturing: Theo Von (This Past Weekend)\n\nDo you find it harder to stay busy or to sit in silence? Let\u2019s debate in the comments.\n\n#shorts #theovon #mindset #mentalhealth #thispastweekend #productivity",
+          "tags": [
+            "Theo Von",
+            "This Past Weekend",
+            "mental health",
+            "anxiety",
+            "productivity",
+            "hustle culture",
+            "comedy podcast",
+            "mindset",
+            "silence",
+            "work ethic"
+          ],
+          "pinned_comment": "Theo says the hardest part isn't the work\u2014it's having nothing to do. Is he right, or is he just a workaholic? \ud83d\udc47",
+          "ab_variants": {
+            "A": {
+              "angle": "Curiosity Gap",
+              "title": "Theo Von: Why Silence is Terrifying",
+              "description": "Theo Von reveals the surprising thing that actually trips him up during the day. It\u2019s not the high-intensity stress, but the moments when the noise stops. \n\n\u2022 Why the \"grind\" is easier than being still \n\u2022 Navigating intense mental levels \n\u2022 The struggle of having no plan \n\nFeaturing: Theo Von (This Past Weekend)\n\nDo you find it harder to stay busy or to sit in silence? Let\u2019s debate in the comments.\n\n#shorts #theovon #mindset #mentalhealth #thispastweekend #productivity"
+            },
+            "B": {
+              "angle": "Contrarian Truth",
+              "title": "The Danger of Having \"Nothing To Do\"",
+              "description": "Think having \"nothing to do\" is a reward? Theo Von argues it's actually the hardest part of his day. Discover why the grind is a safe haven for some. \n\n\u2022 The hidden trap of unscheduled time \n\u2022 Why high stress is easier than total peace \n\u2022 Surviving the \"day-to-day\" levels \n\nFeaturing: Theo Von (This Past Weekend)\n\nIs \"hustle culture\" just a way to escape our own thoughts?\n\n#shorts #theovon #psychology #workethic #hustle #focus #mentalhealth"
+            },
+            "C": {
+              "angle": "Actionable Protocol",
+              "title": "How to Survive High-Intensity Moments",
+              "description": "Theo Von breaks down how he manages intense moments and the specific framework he uses to get through the day. Learn to master your downtime before it masters you. \n\n\u2022 Grinding through high-intensity stress \n\u2022 Recognizing \"lack of breath\" moments \n\u2022 How to structure time to stay sane \n\nFeaturing: Theo Von (This Past Weekend)\n\nWhat is your #1 rule for staying productive when you feel overwhelmed?\n\n#productivity #theovon #mentalstrength #discipline #shorts #selfimprovement #mindset"
+            }
+          },
+          "active_variant": "A",
+          "test_status": "ACTIVE_TEST",
+          "variant_history": [
+            {
+              "variant": "A",
+              "title": "Theo Von: Why Silence is Terrifying",
+              "deployed_at": 1791951170.807413,
+              "reason": "Initial A/B test deployment"
+            },
+            {
+              "title": "Theo Von: Why Silence is Terrifying",
+              "updated_at": 1791951569.580714,
+              "reason": "Live Metadata Sync",
+              "live_updated": true
+            }
+          ],
+          "metrics": {
+            "views": 0,
+            "likes": 0,
+            "comments": 0,
+            "retention": 0.0,
+            "ctr": 0.0
+          }
+        },
+        "created_at": 1791874304.2537239,
+        "published_at": "2026-10-14T23:45:00Z"
+      },
       {
         "id": "qx6ldzdiKF0",
         "title": "Huberman\u2019s Rule for Overwhelm",

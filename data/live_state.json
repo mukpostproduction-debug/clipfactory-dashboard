@@ -1,6 +1,6 @@
 {
-  "timestamp": 1791997532.177015,
-  "sync_time_iso": "2026-10-14T17:05:32Z",
+  "timestamp": 1791997594.891768,
+  "sync_time_iso": "2026-10-14T17:06:34Z",
   "default_channel": "muk_podcast",
   "channels": {
     "muk_podcast": {
@@ -1206,17 +1206,17 @@
       "agents": {
         "SCOUT": {
           "status": "working",
-          "current_task": "Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
+          "current_task": "Queue up to date. Waiting for next daily Ken upload.",
           "last_completed_task": "Ingested 5 recent Ken master videos into source pool",
           "recent_logs": [
-            "[12:56:17] Queue up to date. Waiting for next daily Ken upload.",
             "[12:58:17] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
             "[12:58:36] Queue up to date. Waiting for next daily Ken upload.",
             "[13:00:36] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
             "[13:01:06] Error scanning Ken feed: Command '['/Users/jacksonmcmurdo/Desktop/Muk_Post/02_BUSINESS_&_OPERATIONS/muk_jarvis_env/bin/python3', '-m', 'yt_dlp', '--flat-playlist', '--print', '%(title)s | %(url)s | %(duration)s', 'https://www.youtube.com/@kenforrest/videos']' timed out after 30 seconds",
             "[13:03:06] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
             "[13:03:21] Queue up to date. Waiting for next daily Ken upload.",
-            "[13:05:21] Scanning @kenforrest YouTube feed for latest Clash Royale uploads..."
+            "[13:05:21] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
+            "[13:05:39] Queue up to date. Waiting for next daily Ken upload."
           ]
         },
         "STRATEGIST": {
@@ -1224,14 +1224,14 @@
           "current_task": "Buffer healthy: 3 scheduled Ken Shorts staged.",
           "last_completed_task": "Mapped 3 distinct viral gaming hook angles for initial drops",
           "recent_logs": [
-            "[12:47:15] Buffer healthy: 3 scheduled Ken Shorts staged.",
             "[12:49:31] Buffer healthy: 3 scheduled Ken Shorts staged.",
             "[12:51:48] Buffer healthy: 3 scheduled Ken Shorts staged.",
             "[12:54:03] Buffer healthy: 3 scheduled Ken Shorts staged.",
             "[12:56:17] Buffer healthy: 3 scheduled Ken Shorts staged.",
             "[12:58:36] Buffer healthy: 3 scheduled Ken Shorts staged.",
             "[13:01:06] Buffer healthy: 3 scheduled Ken Shorts staged.",
-            "[13:03:21] Buffer healthy: 3 scheduled Ken Shorts staged."
+            "[13:03:21] Buffer healthy: 3 scheduled Ken Shorts staged.",
+            "[13:05:39] Buffer healthy: 3 scheduled Ken Shorts staged."
           ]
         },
         "EDITOR": {
@@ -1276,14 +1276,14 @@
           "current_task": "Auditing velocity of active Ken Clash Royale Shorts...",
           "last_completed_task": "Calibrated gaming threshold: >15 views/hr within 4h",
           "recent_logs": [
-            "[12:47:15] Auditing velocity of active Ken Clash Royale Shorts...",
             "[12:49:31] Auditing velocity of active Ken Clash Royale Shorts...",
             "[12:51:48] Auditing velocity of active Ken Clash Royale Shorts...",
             "[12:54:03] Auditing velocity of active Ken Clash Royale Shorts...",
             "[12:56:17] Auditing velocity of active Ken Clash Royale Shorts...",
             "[12:58:36] Auditing velocity of active Ken Clash Royale Shorts...",
             "[13:01:06] Auditing velocity of active Ken Clash Royale Shorts...",
-            "[13:03:21] Auditing velocity of active Ken Clash Royale Shorts..."
+            "[13:03:21] Auditing velocity of active Ken Clash Royale Shorts...",
+            "[13:05:39] Auditing velocity of active Ken Clash Royale Shorts..."
           ]
         },
         "WATCHDOG": {
@@ -1291,14 +1291,14 @@
           "current_task": "Verifying Supercell fan policy: 0 claims, 0 strikes.",
           "last_completed_task": "Audited source parameters: strictly <30s segment rule active",
           "recent_logs": [
-            "[12:47:15] Verifying Supercell fan policy: 0 claims, 0 strikes.",
             "[12:49:31] Verifying Supercell fan policy: 0 claims, 0 strikes.",
             "[12:51:48] Verifying Supercell fan policy: 0 claims, 0 strikes.",
             "[12:54:03] Verifying Supercell fan policy: 0 claims, 0 strikes.",
             "[12:56:17] Verifying Supercell fan policy: 0 claims, 0 strikes.",
             "[12:58:36] Verifying Supercell fan policy: 0 claims, 0 strikes.",
             "[13:01:06] Verifying Supercell fan policy: 0 claims, 0 strikes.",
-            "[13:03:21] Verifying Supercell fan policy: 0 claims, 0 strikes."
+            "[13:03:21] Verifying Supercell fan policy: 0 claims, 0 strikes.",
+            "[13:05:39] Verifying Supercell fan policy: 0 claims, 0 strikes."
           ]
         }
       },

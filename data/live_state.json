@@ -1,6 +1,6 @@
 {
-  "timestamp": 1792014958.180883,
-  "sync_time_iso": "2026-10-14T21:55:58Z",
+  "timestamp": 1792015020.6995142,
+  "sync_time_iso": "2026-10-14T21:57:00Z",
   "default_channel": "muk_podcast",
   "channels": {
     "muk_podcast": {
@@ -1856,14 +1856,14 @@
           "current_task": "Pop culture queue up to date. Monitoring for new episodes.",
           "last_completed_task": "Ingested 6 recent episodes across Trisha, Enya/Drew, and Benito",
           "recent_logs": [
-            "[17:47:51] Scanning Trisha Paytas, Emergency Intercom, and Benito Skinner feeds...",
-            "[17:47:53] Pop culture queue up to date. Monitoring for new episodes.",
             "[17:49:53] Scanning Trisha Paytas, Emergency Intercom, and Benito Skinner feeds...",
             "[17:49:54] Pop culture queue up to date. Monitoring for new episodes.",
             "[17:51:55] Scanning Trisha Paytas, Emergency Intercom, and Benito Skinner feeds...",
             "[17:51:56] Pop culture queue up to date. Monitoring for new episodes.",
             "[17:53:56] Scanning Trisha Paytas, Emergency Intercom, and Benito Skinner feeds...",
-            "[17:54:19] Pop culture queue up to date. Monitoring for new episodes."
+            "[17:54:19] Pop culture queue up to date. Monitoring for new episodes.",
+            "[17:56:20] Scanning Trisha Paytas, Emergency Intercom, and Benito Skinner feeds...",
+            "[17:56:39] Pop culture queue up to date. Monitoring for new episodes."
           ]
         },
         "STRATEGIST": {
@@ -1883,17 +1883,17 @@
         },
         "EDITOR": {
           "status": "idle",
-          "current_task": "Downloading highlight segment for: Jeffree Star CRASHES OUT Over Kori ...",
+          "current_task": "Downloading highlight segment for: Brittany Broski CLOCKS Her Manipula...",
           "last_completed_task": "Rendered Trisha Paytas & Brittany Broski pop culture highlight with Neon Pink/Cyan pop captions",
           "recent_logs": [
-            "[12:31:04] Downloading highlight segment for: Jeffree Star Goes OFF on Kori King ...",
             "[12:31:14] Rendering 1080x1920 Short with pop captions: Jeffree Star Goes OFF on Kori ",
             "[17:19:20] Downloading highlight segment for: Emergency Intercom - Episode 255 (Y...",
             "[17:45:51] Downloading highlight segment for: Brittany Broski CLOCKS Her Manipula...",
             "[17:47:53] Downloading highlight segment for: Emergency Intercom - Episode 254 (T...",
             "[17:49:54] Downloading highlight segment for: Ride The Pod - Boba Tea + Wearable ...",
             "[17:51:56] Downloading highlight segment for: Ride Presents: Haunted HayRide SPOO...",
-            "[17:54:19] Downloading highlight segment for: Jeffree Star CRASHES OUT Over Kori ..."
+            "[17:54:19] Downloading highlight segment for: Jeffree Star CRASHES OUT Over Kori ...",
+            "[17:56:39] Downloading highlight segment for: Brittany Broski CLOCKS Her Manipula..."
           ]
         },
         "COMMENTATOR": {
@@ -1925,14 +1925,14 @@
           "current_task": "Auditing velocity of active Pop Culture & Comedy Shorts...",
           "last_completed_task": "Calibrated benchmark: >25 views/hr in first 3 hours",
           "recent_logs": [
-            "[13:59:48] Auditing velocity of active Pop Culture & Comedy Shorts...",
             "[15:14:08] Auditing velocity of active Pop Culture & Comedy Shorts...",
             "[17:19:20] Auditing velocity of active Pop Culture & Comedy Shorts...",
             "[17:45:51] Auditing velocity of active Pop Culture & Comedy Shorts...",
             "[17:47:53] Auditing velocity of active Pop Culture & Comedy Shorts...",
             "[17:49:55] Auditing velocity of active Pop Culture & Comedy Shorts...",
             "[17:51:56] Auditing velocity of active Pop Culture & Comedy Shorts...",
-            "[17:54:20] Auditing velocity of active Pop Culture & Comedy Shorts..."
+            "[17:54:20] Auditing velocity of active Pop Culture & Comedy Shorts...",
+            "[17:56:40] Auditing velocity of active Pop Culture & Comedy Shorts..."
           ]
         },
         "WATCHDOG": {
@@ -1940,14 +1940,14 @@
           "current_task": "Verifying Fair Use compliance: 100% transformative commentary.",
           "last_completed_task": "Validated commentary & transformative overlay standards",
           "recent_logs": [
-            "[13:59:48] Verifying Fair Use compliance: 100% transformative commentary.",
             "[15:14:08] Verifying Fair Use compliance: 100% transformative commentary.",
             "[17:19:20] Verifying Fair Use compliance: 100% transformative commentary.",
             "[17:45:51] Verifying Fair Use compliance: 100% transformative commentary.",
             "[17:47:53] Verifying Fair Use compliance: 100% transformative commentary.",
             "[17:49:55] Verifying Fair Use compliance: 100% transformative commentary.",
             "[17:51:56] Verifying Fair Use compliance: 100% transformative commentary.",
-            "[17:54:20] Verifying Fair Use compliance: 100% transformative commentary."
+            "[17:54:20] Verifying Fair Use compliance: 100% transformative commentary.",
+            "[17:56:40] Verifying Fair Use compliance: 100% transformative commentary."
           ]
         }
       },
@@ -2013,7 +2013,7 @@
             "title": "Brittany Broski CLOCKS Her Manipulative Ex Oliver Mills + is DWTS Rigged?",
             "url": "Just Trish Ep. 318",
             "duration": 3600,
-            "status": "QUEUED",
+            "status": "FAILED_DOWNLOAD",
             "added_at": "2026-10-14T05:30:30Z"
           },
           {

@@ -1,6 +1,6 @@
 {
-  "timestamp": 1792096265.957176,
-  "sync_time_iso": "2026-10-15T20:31:05Z",
+  "timestamp": 1792096327.82018,
+  "sync_time_iso": "2026-10-15T20:32:07Z",
   "default_channel": "muk_podcast",
   "channels": {
     "muk_podcast": {
@@ -1538,17 +1538,17 @@
       "agents": {
         "SCOUT": {
           "status": "working",
-          "current_task": "Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
+          "current_task": "Queue up to date. Waiting for next daily Ken upload.",
           "last_completed_task": "Ingested 5 recent Ken master videos into source pool",
           "recent_logs": [
-            "[16:22:27] Queue up to date. Waiting for next daily Ken upload.",
             "[16:24:27] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
             "[16:24:39] Queue up to date. Waiting for next daily Ken upload.",
             "[16:26:39] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
             "[16:26:53] Queue up to date. Waiting for next daily Ken upload.",
             "[16:28:53] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
             "[16:29:05] Queue up to date. Waiting for next daily Ken upload.",
-            "[16:31:05] Scanning @kenforrest YouTube feed for latest Clash Royale uploads..."
+            "[16:31:05] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
+            "[16:31:16] Queue up to date. Waiting for next daily Ken upload."
           ]
         },
         "STRATEGIST": {
@@ -1556,14 +1556,14 @@
           "current_task": "No queued Ken candidates ready. Waiting for SCOUT.",
           "last_completed_task": "Mapped 3 distinct viral gaming hook angles for initial drops",
           "recent_logs": [
-            "[16:13:27] No queued Ken candidates ready. Waiting for SCOUT.",
             "[16:15:40] No queued Ken candidates ready. Waiting for SCOUT.",
             "[16:17:52] No queued Ken candidates ready. Waiting for SCOUT.",
             "[16:20:17] No queued Ken candidates ready. Waiting for SCOUT.",
             "[16:22:27] No queued Ken candidates ready. Waiting for SCOUT.",
             "[16:24:39] No queued Ken candidates ready. Waiting for SCOUT.",
             "[16:26:53] No queued Ken candidates ready. Waiting for SCOUT.",
-            "[16:29:05] No queued Ken candidates ready. Waiting for SCOUT."
+            "[16:29:05] No queued Ken candidates ready. Waiting for SCOUT.",
+            "[16:31:16] No queued Ken candidates ready. Waiting for SCOUT."
           ]
         },
         "EDITOR": {
@@ -1610,14 +1610,14 @@
           "current_task": "Auditing velocity of active Ken Clash Royale Shorts...",
           "last_completed_task": "Calibrated gaming threshold: >15 views/hr within 4h",
           "recent_logs": [
-            "[16:13:27] Auditing velocity of active Ken Clash Royale Shorts...",
             "[16:15:40] Auditing velocity of active Ken Clash Royale Shorts...",
             "[16:17:52] Auditing velocity of active Ken Clash Royale Shorts...",
             "[16:20:17] Auditing velocity of active Ken Clash Royale Shorts...",
             "[16:22:27] Auditing velocity of active Ken Clash Royale Shorts...",
             "[16:24:39] Auditing velocity of active Ken Clash Royale Shorts...",
             "[16:26:53] Auditing velocity of active Ken Clash Royale Shorts...",
-            "[16:29:05] Auditing velocity of active Ken Clash Royale Shorts..."
+            "[16:29:05] Auditing velocity of active Ken Clash Royale Shorts...",
+            "[16:31:16] Auditing velocity of active Ken Clash Royale Shorts..."
           ]
         },
         "WATCHDOG": {
@@ -1625,14 +1625,14 @@
           "current_task": "Verifying Supercell fan policy: 0 claims, 0 strikes.",
           "last_completed_task": "Audited source parameters: strictly <30s segment rule active",
           "recent_logs": [
-            "[16:13:27] Verifying Supercell fan policy: 0 claims, 0 strikes.",
             "[16:15:40] Verifying Supercell fan policy: 0 claims, 0 strikes.",
             "[16:17:52] Verifying Supercell fan policy: 0 claims, 0 strikes.",
             "[16:20:17] Verifying Supercell fan policy: 0 claims, 0 strikes.",
             "[16:22:27] Verifying Supercell fan policy: 0 claims, 0 strikes.",
             "[16:24:39] Verifying Supercell fan policy: 0 claims, 0 strikes.",
             "[16:26:53] Verifying Supercell fan policy: 0 claims, 0 strikes.",
-            "[16:29:05] Verifying Supercell fan policy: 0 claims, 0 strikes."
+            "[16:29:05] Verifying Supercell fan policy: 0 claims, 0 strikes.",
+            "[16:31:16] Verifying Supercell fan policy: 0 claims, 0 strikes."
           ]
         }
       },
@@ -1721,69 +1721,6 @@
       },
       "calendar": {
         "scheduled": [
-          {
-            "id": "ken_new_barrel",
-            "source_video": "the new barrel",
-            "creator": "Ken",
-            "title": "The Dirtiest Goblin Barrel Placement in History #Shorts",
-            "publish_at": "2026-10-15T20:30:00Z",
-            "status": "SCHEDULED",
-            "uploaded": true,
-            "youtube_video_id": "F2gmqSQEt4Y",
-            "youtube_url": "https://www.youtube.com/shorts/F2gmqSQEt4Y",
-            "video_file": "ken_new_barrel_master.mp4",
-            "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_new_barrel_master.mp4",
-            "duration": 58.0,
-            "hook_summary": "Essential discussion and core insight",
-            "metadata": {
-              "title": "The Dirtiest Goblin Barrel Placement in History #Shorts",
-              "description": "Opponent never saw this sneaky goblin barrel coming...\n\nFeaturing: @kenforrest\n\nDid he predict the log or get lucky? Drop a comment \ud83d\udc47\n\n#Shorts #ClashRoyale #Ken #GamingMemes #ClashRoyaleMemes",
-              "tags": [
-                "Shorts",
-                "ClashRoyale",
-                "Ken",
-                "Gaming",
-                "ClashRoyaleMemes",
-                "GamingShorts"
-              ],
-              "pinned_comment": "What's your biggest takeaway from this? Drop your thoughts below! \ud83d\udc47",
-              "ab_variants": {
-                "A": {
-                  "angle": "Curiosity Gap",
-                  "title": "The Real Secret Behind Podcast Discussion #Shorts",
-                  "description": "Essential discussion and core insight\n\nKey Takeaways:\n\u2022 Understand the core habit\n\u2022 Avoid the daily trap\n\u2022 Optimize for long-term clarity\n\nFeaturing Ken.\n\nWhat's your perspective on this? Comment below! \ud83d\udc47\n\n#Shorts #Podcast #Mindset"
-                },
-                "B": {
-                  "angle": "Contrarian Truth",
-                  "title": "Ken: Stop Making This Mistake #Shorts",
-                  "description": "Essential discussion and core insight\n\nKey Takeaways:\n\u2022 Why the common approach fails\n\u2022 The shift high performers make\n\u2022 Practical daily application\n\nFeaturing Ken.\n\nDo you agree with this? Let us know below! \ud83d\udc47\n\n#Shorts #Discipline #Growth"
-                },
-                "C": {
-                  "angle": "Actionable Protocol",
-                  "title": "How Ken Masters Daily Execution #Shorts",
-                  "description": "Essential discussion and core insight\n\nKey Takeaways:\n\u2022 Step 1: Lock in your standard\n\u2022 Step 2: Eliminate distractions\n\u2022 Step 3: Execute without emotion\n\nFeaturing Ken.\n\nWill you implement this today? Tell us below! \ud83d\udc47\n\n#Shorts #Performance #DailyHabits"
-                }
-              },
-              "active_variant": "A",
-              "test_status": "ACTIVE_TEST",
-              "variant_history": [
-                {
-                  "variant": "A",
-                  "title": "The Real Secret Behind Podcast Discussion #Shorts",
-                  "deployed_at": 1792014304.7538612,
-                  "reason": "Initial A/B test deployment"
-                }
-              ],
-              "metrics": {
-                "views": 0,
-                "likes": 0,
-                "comments": 0,
-                "retention": 0.0,
-                "ctr": 0.0
-              }
-            },
-            "reframed": "gaming_split"
-          },
           {
             "id": "ken_least_busted",
             "source_video": "least busted card",
@@ -2053,6 +1990,69 @@
         ],
         "held": [],
         "published": [
+          {
+            "id": "ken_new_barrel",
+            "source_video": "the new barrel",
+            "creator": "Ken",
+            "title": "The Dirtiest Goblin Barrel Placement in History #Shorts",
+            "publish_at": "2026-10-15T20:30:00Z",
+            "status": "PUBLISHED",
+            "uploaded": true,
+            "youtube_video_id": "F2gmqSQEt4Y",
+            "youtube_url": "https://www.youtube.com/shorts/F2gmqSQEt4Y",
+            "video_file": "ken_new_barrel_master.mp4",
+            "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_new_barrel_master.mp4",
+            "duration": 58.0,
+            "hook_summary": "Essential discussion and core insight",
+            "metadata": {
+              "title": "The Dirtiest Goblin Barrel Placement in History #Shorts",
+              "description": "Opponent never saw this sneaky goblin barrel coming...\n\nFeaturing: @kenforrest\n\nDid he predict the log or get lucky? Drop a comment \ud83d\udc47\n\n#Shorts #ClashRoyale #Ken #GamingMemes #ClashRoyaleMemes",
+              "tags": [
+                "Shorts",
+                "ClashRoyale",
+                "Ken",
+                "Gaming",
+                "ClashRoyaleMemes",
+                "GamingShorts"
+              ],
+              "pinned_comment": "What's your biggest takeaway from this? Drop your thoughts below! \ud83d\udc47",
+              "ab_variants": {
+                "A": {
+                  "angle": "Curiosity Gap",
+                  "title": "The Real Secret Behind Podcast Discussion #Shorts",
+                  "description": "Essential discussion and core insight\n\nKey Takeaways:\n\u2022 Understand the core habit\n\u2022 Avoid the daily trap\n\u2022 Optimize for long-term clarity\n\nFeaturing Ken.\n\nWhat's your perspective on this? Comment below! \ud83d\udc47\n\n#Shorts #Podcast #Mindset"
+                },
+                "B": {
+                  "angle": "Contrarian Truth",
+                  "title": "Ken: Stop Making This Mistake #Shorts",
+                  "description": "Essential discussion and core insight\n\nKey Takeaways:\n\u2022 Why the common approach fails\n\u2022 The shift high performers make\n\u2022 Practical daily application\n\nFeaturing Ken.\n\nDo you agree with this? Let us know below! \ud83d\udc47\n\n#Shorts #Discipline #Growth"
+                },
+                "C": {
+                  "angle": "Actionable Protocol",
+                  "title": "How Ken Masters Daily Execution #Shorts",
+                  "description": "Essential discussion and core insight\n\nKey Takeaways:\n\u2022 Step 1: Lock in your standard\n\u2022 Step 2: Eliminate distractions\n\u2022 Step 3: Execute without emotion\n\nFeaturing Ken.\n\nWill you implement this today? Tell us below! \ud83d\udc47\n\n#Shorts #Performance #DailyHabits"
+                }
+              },
+              "active_variant": "A",
+              "test_status": "ACTIVE_TEST",
+              "variant_history": [
+                {
+                  "variant": "A",
+                  "title": "The Real Secret Behind Podcast Discussion #Shorts",
+                  "deployed_at": 1792014304.7538612,
+                  "reason": "Initial A/B test deployment"
+                }
+              ],
+              "metrics": {
+                "views": 0,
+                "likes": 0,
+                "comments": 0,
+                "retention": 0.0,
+                "ctr": 0.0
+              }
+            },
+            "reframed": "gaming_split"
+          },
           {
             "id": "ken_hp_buffed",
             "source_video": "hp buffed",
@@ -2389,14 +2389,14 @@
           "current_task": "Pop culture queue up to date. Monitoring for new episodes.",
           "last_completed_task": "Ingested 6 recent episodes across Trisha, Enya/Drew, and Benito",
           "recent_logs": [
-            "[16:22:57] Scanning Trisha Paytas, Emergency Intercom, and Benito Skinner feeds...",
-            "[16:23:08] Pop culture queue up to date. Monitoring for new episodes.",
             "[16:25:08] Scanning Trisha Paytas, Emergency Intercom, and Benito Skinner feeds...",
             "[16:25:18] Pop culture queue up to date. Monitoring for new episodes.",
             "[16:27:18] Scanning Trisha Paytas, Emergency Intercom, and Benito Skinner feeds...",
             "[16:27:29] Pop culture queue up to date. Monitoring for new episodes.",
             "[16:29:29] Scanning Trisha Paytas, Emergency Intercom, and Benito Skinner feeds...",
-            "[16:29:40] Pop culture queue up to date. Monitoring for new episodes."
+            "[16:29:40] Pop culture queue up to date. Monitoring for new episodes.",
+            "[16:31:40] Scanning Trisha Paytas, Emergency Intercom, and Benito Skinner feeds...",
+            "[16:31:51] Pop culture queue up to date. Monitoring for new episodes."
           ]
         },
         "STRATEGIST": {
@@ -2404,14 +2404,14 @@
           "current_task": "No queued candidates ready. Waiting for SCOUT.",
           "last_completed_task": "Calibrated 3 pop-culture hook angles: Shock Tea, Chaos Banter, Satirical Voice Mimicry",
           "recent_logs": [
-            "[16:14:26] No queued candidates ready. Waiting for SCOUT.",
             "[16:16:37] No queued candidates ready. Waiting for SCOUT.",
             "[16:18:47] No queued candidates ready. Waiting for SCOUT.",
             "[16:20:57] No queued candidates ready. Waiting for SCOUT.",
             "[16:23:08] No queued candidates ready. Waiting for SCOUT.",
             "[16:25:18] No queued candidates ready. Waiting for SCOUT.",
             "[16:27:29] No queued candidates ready. Waiting for SCOUT.",
-            "[16:29:40] No queued candidates ready. Waiting for SCOUT."
+            "[16:29:40] No queued candidates ready. Waiting for SCOUT.",
+            "[16:31:51] No queued candidates ready. Waiting for SCOUT."
           ]
         },
         "EDITOR": {
@@ -2458,14 +2458,14 @@
           "current_task": "Auditing velocity of active Pop Culture & Comedy Shorts...",
           "last_completed_task": "Calibrated benchmark: >25 views/hr in first 3 hours",
           "recent_logs": [
-            "[16:14:26] Auditing velocity of active Pop Culture & Comedy Shorts...",
             "[16:16:37] Auditing velocity of active Pop Culture & Comedy Shorts...",
             "[16:18:47] Auditing velocity of active Pop Culture & Comedy Shorts...",
             "[16:20:57] Auditing velocity of active Pop Culture & Comedy Shorts...",
             "[16:23:08] Auditing velocity of active Pop Culture & Comedy Shorts...",
             "[16:25:18] Auditing velocity of active Pop Culture & Comedy Shorts...",
             "[16:27:29] Auditing velocity of active Pop Culture & Comedy Shorts...",
-            "[16:29:40] Auditing velocity of active Pop Culture & Comedy Shorts..."
+            "[16:29:40] Auditing velocity of active Pop Culture & Comedy Shorts...",
+            "[16:31:51] Auditing velocity of active Pop Culture & Comedy Shorts..."
           ]
         },
         "WATCHDOG": {
@@ -2473,14 +2473,14 @@
           "current_task": "Verifying Fair Use compliance: 100% transformative commentary.",
           "last_completed_task": "Validated commentary & transformative overlay standards",
           "recent_logs": [
-            "[16:14:26] Verifying Fair Use compliance: 100% transformative commentary.",
             "[16:16:37] Verifying Fair Use compliance: 100% transformative commentary.",
             "[16:18:47] Verifying Fair Use compliance: 100% transformative commentary.",
             "[16:20:57] Verifying Fair Use compliance: 100% transformative commentary.",
             "[16:23:08] Verifying Fair Use compliance: 100% transformative commentary.",
             "[16:25:18] Verifying Fair Use compliance: 100% transformative commentary.",
             "[16:27:29] Verifying Fair Use compliance: 100% transformative commentary.",
-            "[16:29:40] Verifying Fair Use compliance: 100% transformative commentary."
+            "[16:29:40] Verifying Fair Use compliance: 100% transformative commentary.",
+            "[16:31:51] Verifying Fair Use compliance: 100% transformative commentary."
           ]
         }
       },

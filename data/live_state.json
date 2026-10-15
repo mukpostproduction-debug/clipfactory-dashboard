@@ -1,6 +1,6 @@
 {
-  "timestamp": 1792058832.871063,
-  "sync_time_iso": "2026-10-15T10:07:12Z",
+  "timestamp": 1792059287.751856,
+  "sync_time_iso": "2026-10-15T10:14:47Z",
   "default_channel": "muk_podcast",
   "channels": {
     "muk_podcast": {
@@ -62,11 +62,11 @@
         "dashboard": {
           "host": "127.0.0.1",
           "port": 8899,
-          "remote_tunnel_url": "https://prisoners-tommy-alice-yards.trycloudflare.com",
+          "remote_tunnel_url": "https://spectrum-ipaq-connecting-colour.trycloudflare.com",
           "tunnel_active": true
         },
         "buffer_target_shorts": 6,
-        "remote_tunnel_url": "https://prisoners-tommy-alice-yards.trycloudflare.com",
+        "remote_tunnel_url": "https://spectrum-ipaq-connecting-colour.trycloudflare.com",
         "channel_id": "UCKqBK1q6-0i735Mn_hiNIig",
         "channel_name": "Muks Breakdown Room",
         "oauth_connected": true
@@ -720,15 +720,15 @@
         "published": [
           {
             "id": "ZX0nAY29yf4",
-            "title": "The Danger of Having \"Nothing To Do\"",
+            "title": "How to Survive High-Intensity Moments",
             "url": "https://www.youtube.com/shorts/ZX0nAY29yf4",
             "creator": "Theo Von (This Past Weekend)",
             "video_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/clip_1791873142_master.mp4",
             "publish_at": "2026-10-14T23:45:00Z",
             "status": "PUBLISHED",
             "metadata": {
-              "title": "The Danger of Having \"Nothing To Do\"",
-              "description": "Think having \"nothing to do\" is a reward? Theo Von argues it's actually the hardest part of his day. Discover why the grind is a safe haven for some. \n\n\u2022 The hidden trap of unscheduled time \n\u2022 Why high stress is easier than total peace \n\u2022 Surviving the \"day-to-day\" levels \n\nFeaturing: Theo Von (This Past Weekend)\n\nIs \"hustle culture\" just a way to escape our own thoughts?\n\n#shorts #theovon #psychology #workethic #hustle #focus #mentalhealth",
+              "title": "How to Survive High-Intensity Moments",
+              "description": "Theo Von breaks down how he manages intense moments and the specific framework he uses to get through the day. Learn to master your downtime before it masters you. \n\n\u2022 Grinding through high-intensity stress \n\u2022 Recognizing \"lack of breath\" moments \n\u2022 How to structure time to stay sane \n\nFeaturing: Theo Von (This Past Weekend)\n\nWhat is your #1 rule for staying productive when you feel overwhelmed?\n\n#productivity #theovon #mentalstrength #discipline #shorts #selfimprovement #mindset",
               "tags": [
                 "Theo Von",
                 "This Past Weekend",
@@ -772,6 +772,12 @@
                   "title": "Theo Von: Why Silence is Terrifying",
                   "updated_at": 1791951569.580714,
                   "reason": "Live Metadata Sync",
+                  "live_updated": true
+                },
+                {
+                  "title": "How to Survive High-Intensity Moments",
+                  "updated_at": 1792059287.1894789,
+                  "reason": "A/B Optimization: Variant B underperformed (0.1 VPH)",
                   "live_updated": true
                 }
               ],
@@ -1365,7 +1371,7 @@
         "emergency_stop": false,
         "autopilot_engaged": true,
         "buffer_target_shorts": 6,
-        "remote_tunnel_url": "https://prisoners-tommy-alice-yards.trycloudflare.com",
+        "remote_tunnel_url": "https://spectrum-ipaq-connecting-colour.trycloudflare.com",
         "channel_id": "UCsBZAgHGlc5GU7r4E-8tUyA",
         "oauth_connected": true
       },
@@ -1426,17 +1432,17 @@
         },
         "PUBLISHER": {
           "status": "working",
-          "current_task": "Upload failed for ken_1791972067_0; staged for automatic retry.",
+          "current_task": "Short SCHEDULED on YouTube: 1u2ahpIHnZE (08:15 PM ET (Fri, Oct 16))",
           "last_completed_task": "Uploaded all 3 initial Clash Royale gaming cuts to YouTube (kenclipsburger420)",
           "recent_logs": [
-            "[21:38:12] Short SCHEDULED on YouTube: _ZuJ9BjEoZs (12:00 PM ET (Fri, Oct 16))",
-            "[21:42:15] Generating gaming A/B metadata for slot: 04:30 PM ET (Fri, Oct 16)...",
-            "[21:43:03] Deploying to YouTube (@kenclipsburger420) for release 04:30 PM ET (Fri, Oct 16)...",
             "[21:43:09] Short SCHEDULED on YouTube: lYdC_nGl-UQ (04:30 PM ET (Fri, Oct 16))",
             "[21:47:05] Generating gaming A/B metadata for slot: 08:15 PM ET (Fri, Oct 16)...",
             "[21:47:44] Deploying to YouTube (@kenclipsburger420) for release 08:15 PM ET (Fri, Oct 16)...",
             "[21:47:45] YouTube upload error: <HttpError 400 when requesting None returned \"The user has exceeded the number of videos they may upload.\". Details: \"[{'message': 'The user has exceeded the number of videos they may upload.', 'domain': 'youtube.video', 'reason': 'uploadLimitExceeded'}]\">",
-            "[21:47:45] Upload failed for ken_1791972067_0; staged for automatic retry."
+            "[21:47:45] Upload failed for ken_1791972067_0; staged for automatic retry.",
+            "[06:14:35] Generating gaming A/B metadata for slot: 08:15 PM ET (Fri, Oct 16)...",
+            "[06:14:43] Deploying to YouTube (@kenclipsburger420) for release 08:15 PM ET (Fri, Oct 16)...",
+            "[06:14:47] Short SCHEDULED on YouTube: 1u2ahpIHnZE (08:15 PM ET (Fri, Oct 16))"
           ]
         },
         "ANALYST": {
@@ -1481,15 +1487,6 @@
             "status": "RETRY_UPLOAD",
             "added_at": "2026-10-14T10:01:07Z",
             "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1791972067_0_master.mp4"
-          },
-          {
-            "id": "ken_1792058819_0",
-            "creator": "Ken",
-            "title": "they added gifs",
-            "url": "https://www.youtube.com/watch?v=ibqwuwJ_6x0",
-            "duration": 975,
-            "status": "PROCESSING",
-            "added_at": "2026-10-15T10:06:59Z"
           }
         ],
         "processing": null,
@@ -1548,6 +1545,17 @@
             "added_at": "2026-10-14T04:30:00Z",
             "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_return_of_peak_master.mp4",
             "youtube_video_id": "lYdC_nGl-UQ"
+          },
+          {
+            "id": "ken_1792058819_0",
+            "creator": "Ken",
+            "title": "they added gifs",
+            "url": "https://www.youtube.com/watch?v=ibqwuwJ_6x0",
+            "duration": 975,
+            "status": "COMPLETED",
+            "added_at": "2026-10-15T10:06:59Z",
+            "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792058819_0_master.mp4",
+            "youtube_video_id": "1u2ahpIHnZE"
           }
         ]
       },
@@ -1881,6 +1889,73 @@
               }
             },
             "reframed": "gaming_split"
+          },
+          {
+            "id": "ken_1792058819_0",
+            "source_video": "they added gifs",
+            "creator": "Ken",
+            "title": "The 1HP Skeleton That Saved Everything \ud83d\udc80",
+            "publish_at": "2026-10-17T00:15:00Z",
+            "status": "SCHEDULED",
+            "uploaded": true,
+            "youtube_video_id": "1u2ahpIHnZE",
+            "youtube_url": "https://www.youtube.com/shorts/1u2ahpIHnZE",
+            "video_file": "ken_1792058819_0_master.mp4",
+            "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792058819_0_master.mp4",
+            "duration": 20.41,
+            "hook_summary": "The creator reacts with disbelief to a narrow escape during a intense match, then explains the overpowered synergy between Sparky and Minion Horde.",
+            "metadata": {
+              "title": "The 1HP Skeleton That Saved Everything \ud83d\udc80",
+              "description": "Ken witnesses one of the luckiest saves in gaming history before revealing a hidden synergy that breaks the meta.\n\n\u2022 How a single unit creates the ultimate path for Sparky\n\u2022 The psychological pressure of high-cost combos\n\u2022 Perfect timing for the Synergy Strategy\n\nFeaturing: Ken\n\nWas this pure skill or just the luckiest skeleton placement ever? Let us know in the comments.\n\n#shorts #ken #clashroyale #gaming #luck #sparky",
+              "tags": [
+                "Sparky",
+                "Clash Royale",
+                "Ken",
+                "Minion Horde",
+                "Synergy Strategy",
+                "Clash Royale Strategy",
+                "Gaming Highlights",
+                "Mobile Gaming",
+                "Pro Tips",
+                "Clash Royale Gameplay"
+              ],
+              "pinned_comment": "If you were the opponent here, are you deleting the app immediately? \ud83d\udcf1\ud83d\udca8",
+              "ab_variants": {
+                "A": {
+                  "angle": "Curiosity Gap",
+                  "title": "The 1HP Skeleton That Saved Everything \ud83d\udc80",
+                  "description": "Ken witnesses one of the luckiest saves in gaming history before revealing a hidden synergy that breaks the meta.\n\n\u2022 How a single unit creates the ultimate path for Sparky\n\u2022 The psychological pressure of high-cost combos\n\u2022 Perfect timing for the Synergy Strategy\n\nFeaturing: Ken\n\nWas this pure skill or just the luckiest skeleton placement ever? Let us know in the comments.\n\n#shorts #ken #clashroyale #gaming #luck #sparky"
+                },
+                "B": {
+                  "angle": "Contrarian Truth",
+                  "title": "Why Sparky is Actually UNSTOPPABLE \u26a1",
+                  "description": "Most players think Sparky is a liability, but Ken proves why this specific duo makes opponents rage-quit instantly.\n\n\u2022 Why Minion Horde is the perfect Sparky shield\n\u2022 Exploiting opponent spell cycles for massive damage\n\u2022 The synergy secret top players aren't telling you\n\nFeaturing: Ken\n\nIs Sparky the most toxic card in the game right now, or is it just misunderstood? \n\n#shorts #ken #clashroyale #gaming #strategy #broken"
+                },
+                "C": {
+                  "angle": "Actionable Protocol",
+                  "title": "The Sparky Synergy Strategy Guide \ud83c\udfc6",
+                  "description": "Master the Sparky Synergy Strategy with Ken\u2019s breakdown of the ultimate offensive push for high-ladder wins.\n\n\u2022 Setup requirements for the Minion Horde bridge spam\n\u2022 How to bait out heavy spells like Rocket or Lightning\n\u2022 Managing elixir for the perfect counter-push\n\nFeaturing: Ken\n\nWhat is your absolute favorite counter for a Sparky push? \n\n#shorts #ken #clashroyale #strategy #gamingtips #sparky"
+                }
+              },
+              "active_variant": "A",
+              "test_status": "ACTIVE_TEST",
+              "variant_history": [
+                {
+                  "variant": "A",
+                  "title": "The 1HP Skeleton That Saved Everything \ud83d\udc80",
+                  "deployed_at": 1792059283.024857,
+                  "reason": "Initial A/B test deployment"
+                }
+              ],
+              "metrics": {
+                "views": 0,
+                "likes": 0,
+                "comments": 0,
+                "retention": 0.0,
+                "ctr": 0.0
+              }
+            },
+            "reframed": "gaming_split"
           }
         ],
         "held": [],
@@ -2144,7 +2219,7 @@
         "emergency_stop": false,
         "autopilot_engaged": true,
         "buffer_target_shorts": 6,
-        "remote_tunnel_url": "https://prisoners-tommy-alice-yards.trycloudflare.com",
+        "remote_tunnel_url": "https://spectrum-ipaq-connecting-colour.trycloudflare.com",
         "channel_id": "UCcNdnkFH4m9C3rUunbOEaSg",
         "oauth_connected": true
       },
@@ -2154,14 +2229,14 @@
           "current_task": "Pop culture queue up to date. Monitoring for new episodes.",
           "last_completed_task": "Ingested 6 recent episodes across Trisha, Enya/Drew, and Benito",
           "recent_logs": [
-            "[04:19:37] Scanning Trisha Paytas, Emergency Intercom, and Benito Skinner feeds...",
-            "[04:19:46] Pop culture queue up to date. Monitoring for new episodes.",
             "[04:37:37] Scanning Trisha Paytas, Emergency Intercom, and Benito Skinner feeds...",
             "[04:37:46] Pop culture queue up to date. Monitoring for new episodes.",
             "[05:06:03] Scanning Trisha Paytas, Emergency Intercom, and Benito Skinner feeds...",
             "[05:06:14] Pop culture queue up to date. Monitoring for new episodes.",
             "[05:35:56] Scanning Trisha Paytas, Emergency Intercom, and Benito Skinner feeds...",
-            "[05:53:32] Pop culture queue up to date. Monitoring for new episodes."
+            "[05:53:32] Pop culture queue up to date. Monitoring for new episodes.",
+            "[06:07:35] Scanning Trisha Paytas, Emergency Intercom, and Benito Skinner feeds...",
+            "[06:07:45] Pop culture queue up to date. Monitoring for new episodes."
           ]
         },
         "STRATEGIST": {
@@ -2169,14 +2244,14 @@
           "current_task": "No queued candidates ready. Waiting for SCOUT.",
           "last_completed_task": "Calibrated 3 pop-culture hook angles: Shock Tea, Chaos Banter, Satirical Voice Mimicry",
           "recent_logs": [
-            "[03:50:28] No queued candidates ready. Waiting for SCOUT.",
             "[03:52:37] No queued candidates ready. Waiting for SCOUT.",
             "[03:54:45] No queued candidates ready. Waiting for SCOUT.",
             "[04:04:55] No queued candidates ready. Waiting for SCOUT.",
             "[04:19:46] No queued candidates ready. Waiting for SCOUT.",
             "[04:37:46] No queued candidates ready. Waiting for SCOUT.",
             "[05:06:14] No queued candidates ready. Waiting for SCOUT.",
-            "[05:53:32] No queued candidates ready. Waiting for SCOUT."
+            "[05:53:32] No queued candidates ready. Waiting for SCOUT.",
+            "[06:07:45] No queued candidates ready. Waiting for SCOUT."
           ]
         },
         "EDITOR": {
@@ -2223,14 +2298,14 @@
           "current_task": "Auditing velocity of active Pop Culture & Comedy Shorts...",
           "last_completed_task": "Calibrated benchmark: >25 views/hr in first 3 hours",
           "recent_logs": [
-            "[03:50:28] Auditing velocity of active Pop Culture & Comedy Shorts...",
             "[03:52:37] Auditing velocity of active Pop Culture & Comedy Shorts...",
             "[03:54:45] Auditing velocity of active Pop Culture & Comedy Shorts...",
             "[04:04:55] Auditing velocity of active Pop Culture & Comedy Shorts...",
             "[04:19:46] Auditing velocity of active Pop Culture & Comedy Shorts...",
             "[04:37:46] Auditing velocity of active Pop Culture & Comedy Shorts...",
             "[05:06:14] Auditing velocity of active Pop Culture & Comedy Shorts...",
-            "[05:53:32] Auditing velocity of active Pop Culture & Comedy Shorts..."
+            "[05:53:32] Auditing velocity of active Pop Culture & Comedy Shorts...",
+            "[06:07:45] Auditing velocity of active Pop Culture & Comedy Shorts..."
           ]
         },
         "WATCHDOG": {
@@ -2238,14 +2313,14 @@
           "current_task": "Verifying Fair Use compliance: 100% transformative commentary.",
           "last_completed_task": "Validated commentary & transformative overlay standards",
           "recent_logs": [
-            "[03:50:28] Verifying Fair Use compliance: 100% transformative commentary.",
             "[03:52:37] Verifying Fair Use compliance: 100% transformative commentary.",
             "[03:54:45] Verifying Fair Use compliance: 100% transformative commentary.",
             "[04:04:55] Verifying Fair Use compliance: 100% transformative commentary.",
             "[04:19:46] Verifying Fair Use compliance: 100% transformative commentary.",
             "[04:37:46] Verifying Fair Use compliance: 100% transformative commentary.",
             "[05:06:14] Verifying Fair Use compliance: 100% transformative commentary.",
-            "[05:53:32] Verifying Fair Use compliance: 100% transformative commentary."
+            "[05:53:32] Verifying Fair Use compliance: 100% transformative commentary.",
+            "[06:07:45] Verifying Fair Use compliance: 100% transformative commentary."
           ]
         }
       },
@@ -3034,11 +3109,11 @@
     "dashboard": {
       "host": "127.0.0.1",
       "port": 8899,
-      "remote_tunnel_url": "https://prisoners-tommy-alice-yards.trycloudflare.com",
+      "remote_tunnel_url": "https://spectrum-ipaq-connecting-colour.trycloudflare.com",
       "tunnel_active": true
     },
     "buffer_target_shorts": 6,
-    "remote_tunnel_url": "https://prisoners-tommy-alice-yards.trycloudflare.com",
+    "remote_tunnel_url": "https://spectrum-ipaq-connecting-colour.trycloudflare.com",
     "channel_id": "UCKqBK1q6-0i735Mn_hiNIig",
     "channel_name": "Muks Breakdown Room",
     "oauth_connected": true
@@ -3692,15 +3767,15 @@
     "published": [
       {
         "id": "ZX0nAY29yf4",
-        "title": "The Danger of Having \"Nothing To Do\"",
+        "title": "How to Survive High-Intensity Moments",
         "url": "https://www.youtube.com/shorts/ZX0nAY29yf4",
         "creator": "Theo Von (This Past Weekend)",
         "video_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/clip_1791873142_master.mp4",
         "publish_at": "2026-10-14T23:45:00Z",
         "status": "PUBLISHED",
         "metadata": {
-          "title": "The Danger of Having \"Nothing To Do\"",
-          "description": "Think having \"nothing to do\" is a reward? Theo Von argues it's actually the hardest part of his day. Discover why the grind is a safe haven for some. \n\n\u2022 The hidden trap of unscheduled time \n\u2022 Why high stress is easier than total peace \n\u2022 Surviving the \"day-to-day\" levels \n\nFeaturing: Theo Von (This Past Weekend)\n\nIs \"hustle culture\" just a way to escape our own thoughts?\n\n#shorts #theovon #psychology #workethic #hustle #focus #mentalhealth",
+          "title": "How to Survive High-Intensity Moments",
+          "description": "Theo Von breaks down how he manages intense moments and the specific framework he uses to get through the day. Learn to master your downtime before it masters you. \n\n\u2022 Grinding through high-intensity stress \n\u2022 Recognizing \"lack of breath\" moments \n\u2022 How to structure time to stay sane \n\nFeaturing: Theo Von (This Past Weekend)\n\nWhat is your #1 rule for staying productive when you feel overwhelmed?\n\n#productivity #theovon #mentalstrength #discipline #shorts #selfimprovement #mindset",
           "tags": [
             "Theo Von",
             "This Past Weekend",
@@ -3744,6 +3819,12 @@
               "title": "Theo Von: Why Silence is Terrifying",
               "updated_at": 1791951569.580714,
               "reason": "Live Metadata Sync",
+              "live_updated": true
+            },
+            {
+              "title": "How to Survive High-Intensity Moments",
+              "updated_at": 1792059287.1894789,
+              "reason": "A/B Optimization: Variant B underperformed (0.1 VPH)",
               "live_updated": true
             }
           ],

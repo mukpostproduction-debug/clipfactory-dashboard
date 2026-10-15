@@ -1,6 +1,6 @@
 {
-  "timestamp": 1792030465.3204448,
-  "sync_time_iso": "2026-10-15T02:14:25Z",
+  "timestamp": 1792030527.330406,
+  "sync_time_iso": "2026-10-15T02:15:27Z",
   "default_channel": "muk_podcast",
   "channels": {
     "muk_podcast": {
@@ -2196,17 +2196,17 @@
         },
         "PUBLISHER": {
           "status": "working",
-          "current_task": "Generating dynamic A/B metadata for slot: 09:00 PM ET (Fri, Oct 16)...",
+          "current_task": "Upload failed for abigail_1792028155_1; staged for automatic retry.",
           "last_completed_task": "Uploaded all 3 initial pop-culture Shorts to YouTube (@abiclitsalot)",
           "recent_logs": [
-            "[22:04:30] Deploying to YouTube (@abiclitsalot) for release 09:00 PM ET (Fri, Oct 16)...",
-            "[22:04:30] YouTube upload error: <HttpError 400 when requesting None returned \"The user has exceeded the number of videos they may upload.\". Details: \"[{'message': 'The user has exceeded the number of videos they may upload.', 'domain': 'youtube.video', 'reason': 'uploadLimitExceeded'}]\">",
-            "[22:04:30] Upload failed for abigail_1792028106_9; staged for automatic retry.",
             "[22:10:21] Generating dynamic A/B metadata for slot: 09:00 PM ET (Fri, Oct 16)...",
             "[22:10:31] Deploying to YouTube (@abiclitsalot) for release 09:00 PM ET (Fri, Oct 16)...",
             "[22:10:31] YouTube upload error: <HttpError 400 when requesting None returned \"The user has exceeded the number of videos they may upload.\". Details: \"[{'message': 'The user has exceeded the number of videos they may upload.', 'domain': 'youtube.video', 'reason': 'uploadLimitExceeded'}]\">",
             "[22:10:31] Upload failed for abigail_1792028155_0; staged for automatic retry.",
-            "[22:14:05] Generating dynamic A/B metadata for slot: 09:00 PM ET (Fri, Oct 16)..."
+            "[22:14:05] Generating dynamic A/B metadata for slot: 09:00 PM ET (Fri, Oct 16)...",
+            "[22:14:34] Deploying to YouTube (@abiclitsalot) for release 09:00 PM ET (Fri, Oct 16)...",
+            "[22:14:34] YouTube upload error: <HttpError 400 when requesting None returned \"The user has exceeded the number of videos they may upload.\". Details: \"[{'message': 'The user has exceeded the number of videos they may upload.', 'domain': 'youtube.video', 'reason': 'uploadLimitExceeded'}]\">",
+            "[22:14:34] Upload failed for abigail_1792028155_1; staged for automatic retry."
           ]
         },
         "ANALYST": {
@@ -2214,14 +2214,14 @@
           "current_task": "Auditing velocity of active Pop Culture & Comedy Shorts...",
           "last_completed_task": "Calibrated benchmark: >25 views/hr in first 3 hours",
           "recent_logs": [
-            "[21:48:09] Auditing velocity of active Pop Culture & Comedy Shorts...",
             "[21:51:48] Auditing velocity of active Pop Culture & Comedy Shorts...",
             "[21:55:23] Auditing velocity of active Pop Culture & Comedy Shorts...",
             "[21:58:49] Auditing velocity of active Pop Culture & Comedy Shorts...",
             "[22:01:03] Auditing velocity of active Pop Culture & Comedy Shorts...",
             "[22:04:30] Auditing velocity of active Pop Culture & Comedy Shorts...",
             "[22:06:40] Auditing velocity of active Pop Culture & Comedy Shorts...",
-            "[22:10:31] Auditing velocity of active Pop Culture & Comedy Shorts..."
+            "[22:10:31] Auditing velocity of active Pop Culture & Comedy Shorts...",
+            "[22:14:34] Auditing velocity of active Pop Culture & Comedy Shorts..."
           ]
         },
         "WATCHDOG": {
@@ -2229,14 +2229,14 @@
           "current_task": "Verifying Fair Use compliance: 100% transformative commentary.",
           "last_completed_task": "Validated commentary & transformative overlay standards",
           "recent_logs": [
-            "[21:48:09] Verifying Fair Use compliance: 100% transformative commentary.",
             "[21:51:48] Verifying Fair Use compliance: 100% transformative commentary.",
             "[21:55:23] Verifying Fair Use compliance: 100% transformative commentary.",
             "[21:58:49] Verifying Fair Use compliance: 100% transformative commentary.",
             "[22:01:03] Verifying Fair Use compliance: 100% transformative commentary.",
             "[22:04:30] Verifying Fair Use compliance: 100% transformative commentary.",
             "[22:06:40] Verifying Fair Use compliance: 100% transformative commentary.",
-            "[22:10:31] Verifying Fair Use compliance: 100% transformative commentary."
+            "[22:10:31] Verifying Fair Use compliance: 100% transformative commentary.",
+            "[22:14:34] Verifying Fair Use compliance: 100% transformative commentary."
           ]
         }
       },
@@ -2343,8 +2343,9 @@
             "title": "Mikayla Noguiera Comes Clean on Jay Shetty + Trish Lost a Job to Slushy Noobz | Just Trish Ep. 317",
             "url": "https://www.youtube.com/watch?v=otBGdhJYWNc",
             "duration": 7798,
-            "status": "PROCESSING",
-            "added_at": "2026-10-15T01:35:55Z"
+            "status": "RETRY_UPLOAD",
+            "added_at": "2026-10-15T01:35:55Z",
+            "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/abigail_1792028155_1_master.mp4"
           },
           {
             "id": "abigail_1792028162_2",

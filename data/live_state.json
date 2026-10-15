@@ -1,6 +1,6 @@
 {
-  "timestamp": 1792026387.160146,
-  "sync_time_iso": "2026-10-15T01:06:27Z",
+  "timestamp": 1792026448.797587,
+  "sync_time_iso": "2026-10-15T01:07:28Z",
   "default_channel": "muk_podcast",
   "channels": {
     "muk_podcast": {
@@ -2008,14 +2008,14 @@
           "current_task": "Pop culture queue up to date. Monitoring for new episodes.",
           "last_completed_task": "Ingested 6 recent episodes across Trisha, Enya/Drew, and Benito",
           "recent_logs": [
-            "[20:57:40] Scanning Trisha Paytas, Emergency Intercom, and Benito Skinner feeds...",
-            "[20:57:53] Pop culture queue up to date. Monitoring for new episodes.",
             "[20:59:53] Scanning Trisha Paytas, Emergency Intercom, and Benito Skinner feeds...",
             "[21:00:05] Pop culture queue up to date. Monitoring for new episodes.",
             "[21:02:05] Scanning Trisha Paytas, Emergency Intercom, and Benito Skinner feeds...",
             "[21:02:18] Pop culture queue up to date. Monitoring for new episodes.",
             "[21:04:19] Scanning Trisha Paytas, Emergency Intercom, and Benito Skinner feeds...",
-            "[21:04:31] Pop culture queue up to date. Monitoring for new episodes."
+            "[21:04:31] Pop culture queue up to date. Monitoring for new episodes.",
+            "[21:06:31] Scanning Trisha Paytas, Emergency Intercom, and Benito Skinner feeds...",
+            "[21:06:46] Pop culture queue up to date. Monitoring for new episodes."
           ]
         },
         "STRATEGIST": {
@@ -2035,17 +2035,17 @@
         },
         "EDITOR": {
           "status": "idle",
-          "current_task": "Downloading highlight segment for: Slushy Noobz STOLE Trisha\u2019s Dream J...",
+          "current_task": "Rendering 1080x1920 Short with pop captions: Cow Print + Potatoes",
           "last_completed_task": "Rendered Trisha Paytas & Brittany Broski pop culture highlight with Neon Pink/Cyan pop captions",
           "recent_logs": [
-            "[18:00:15] Downloading highlight segment for: Mikayla Noguiera Comes Clean on Jay...",
-            "[18:02:17] Downloading highlight segment for: Emergency Intercom - Episode 253 (G...",
             "[18:04:18] Downloading highlight segment for: Movies on a Plane + Not Overthinkin...",
             "[18:06:36] Downloading highlight segment for: Blind Boxes + Popstar Academy...",
             "[18:06:43] Rendering 1080x1920 Short with pop captions: Blind Boxes + Popstar Academy",
             "[21:00:05] Downloading highlight segment for: OVERCOMPENSATING OFFICIAL TEASER...",
             "[21:02:18] Downloading highlight segment for: A DAY IN THE LIFE OF LANA DEL REY.....",
-            "[21:04:31] Downloading highlight segment for: Slushy Noobz STOLE Trisha\u2019s Dream J..."
+            "[21:04:31] Downloading highlight segment for: Slushy Noobz STOLE Trisha\u2019s Dream J...",
+            "[21:06:46] Downloading highlight segment for: Cow Print + Potatoes...",
+            "[21:06:54] Rendering 1080x1920 Short with pop captions: Cow Print + Potatoes"
           ]
         },
         "COMMENTATOR": {
@@ -2228,7 +2228,7 @@
             "title": "Cow Print + Potatoes",
             "url": "https://www.youtube.com/watch?v=eNHfoy9NDos",
             "duration": 2765,
-            "status": "QUEUED",
+            "status": "PROCESSING",
             "added_at": "2026-10-14T07:03:56Z"
           }
         ],

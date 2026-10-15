@@ -1,6 +1,6 @@
 {
-  "timestamp": 1792080099.918559,
-  "sync_time_iso": "2026-10-15T16:01:39Z",
+  "timestamp": 1792080161.545794,
+  "sync_time_iso": "2026-10-15T16:02:41Z",
   "default_channel": "muk_podcast",
   "channels": {
     "muk_podcast": {
@@ -1455,32 +1455,32 @@
       "agents": {
         "SCOUT": {
           "status": "working",
-          "current_task": "Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
+          "current_task": "Queue up to date. Waiting for next daily Ken upload.",
           "last_completed_task": "Ingested 5 recent Ken master videos into source pool",
           "recent_logs": [
-            "[11:52:57] Queue up to date. Waiting for next daily Ken upload.",
             "[11:54:57] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
             "[11:55:09] Queue up to date. Waiting for next daily Ken upload.",
             "[11:57:09] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
             "[11:57:21] Queue up to date. Waiting for next daily Ken upload.",
             "[11:59:21] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
             "[11:59:31] Queue up to date. Waiting for next daily Ken upload.",
-            "[12:01:31] Scanning @kenforrest YouTube feed for latest Clash Royale uploads..."
+            "[12:01:31] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
+            "[12:01:44] Queue up to date. Waiting for next daily Ken upload."
           ]
         },
         "STRATEGIST": {
           "status": "idle",
-          "current_task": "Buffer healthy: 6/6 scheduled Ken Shorts staged.",
+          "current_task": "No queued Ken candidates ready. Waiting for SCOUT.",
           "last_completed_task": "Mapped 3 distinct viral gaming hook angles for initial drops",
           "recent_logs": [
-            "[11:44:15] Buffer healthy: 6/6 scheduled Ken Shorts staged.",
             "[11:46:27] Buffer healthy: 6/6 scheduled Ken Shorts staged.",
             "[11:48:37] Buffer healthy: 6/6 scheduled Ken Shorts staged.",
             "[11:50:47] Buffer healthy: 6/6 scheduled Ken Shorts staged.",
             "[11:52:57] Buffer healthy: 6/6 scheduled Ken Shorts staged.",
             "[11:55:09] Buffer healthy: 6/6 scheduled Ken Shorts staged.",
             "[11:57:21] Buffer healthy: 6/6 scheduled Ken Shorts staged.",
-            "[11:59:31] Buffer healthy: 6/6 scheduled Ken Shorts staged."
+            "[11:59:31] Buffer healthy: 6/6 scheduled Ken Shorts staged.",
+            "[12:01:44] No queued Ken candidates ready. Waiting for SCOUT."
           ]
         },
         "EDITOR": {
@@ -1527,14 +1527,14 @@
           "current_task": "Auditing velocity of active Ken Clash Royale Shorts...",
           "last_completed_task": "Calibrated gaming threshold: >15 views/hr within 4h",
           "recent_logs": [
-            "[11:44:15] Auditing velocity of active Ken Clash Royale Shorts...",
             "[11:46:27] Auditing velocity of active Ken Clash Royale Shorts...",
             "[11:48:37] Auditing velocity of active Ken Clash Royale Shorts...",
             "[11:50:47] Auditing velocity of active Ken Clash Royale Shorts...",
             "[11:52:57] Auditing velocity of active Ken Clash Royale Shorts...",
             "[11:55:09] Auditing velocity of active Ken Clash Royale Shorts...",
             "[11:57:21] Auditing velocity of active Ken Clash Royale Shorts...",
-            "[11:59:31] Auditing velocity of active Ken Clash Royale Shorts..."
+            "[11:59:31] Auditing velocity of active Ken Clash Royale Shorts...",
+            "[12:01:44] Auditing velocity of active Ken Clash Royale Shorts..."
           ]
         },
         "WATCHDOG": {
@@ -1542,14 +1542,14 @@
           "current_task": "Verifying Supercell fan policy: 0 claims, 0 strikes.",
           "last_completed_task": "Audited source parameters: strictly <30s segment rule active",
           "recent_logs": [
-            "[11:44:15] Verifying Supercell fan policy: 0 claims, 0 strikes.",
             "[11:46:27] Verifying Supercell fan policy: 0 claims, 0 strikes.",
             "[11:48:37] Verifying Supercell fan policy: 0 claims, 0 strikes.",
             "[11:50:47] Verifying Supercell fan policy: 0 claims, 0 strikes.",
             "[11:52:57] Verifying Supercell fan policy: 0 claims, 0 strikes.",
             "[11:55:09] Verifying Supercell fan policy: 0 claims, 0 strikes.",
             "[11:57:21] Verifying Supercell fan policy: 0 claims, 0 strikes.",
-            "[11:59:31] Verifying Supercell fan policy: 0 claims, 0 strikes."
+            "[11:59:31] Verifying Supercell fan policy: 0 claims, 0 strikes.",
+            "[12:01:44] Verifying Supercell fan policy: 0 claims, 0 strikes."
           ]
         }
       },
@@ -1638,73 +1638,6 @@
       },
       "calendar": {
         "scheduled": [
-          {
-            "id": "ken_hp_buffed",
-            "source_video": "hp buffed",
-            "creator": "Ken",
-            "title": "The One Card Everyone Fears...",
-            "publish_at": "2026-10-15T16:00:00Z",
-            "status": "SCHEDULED",
-            "uploaded": true,
-            "youtube_video_id": "urztidxP3HY",
-            "youtube_url": "https://www.youtube.com/shorts/urztidxP3HY",
-            "video_file": "ken_hp_buffed_master.mp4",
-            "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_hp_buffed_master.mp4",
-            "duration": 57.04,
-            "hook_summary": "Essential discussion and core insight",
-            "metadata": {
-              "title": "The One Card Everyone Fears...",
-              "description": "Ken explains why the one card you hate seeing is actually your biggest test of character. Most people fold the moment things look bad, but here is how you play it to win.\n\n\u2022 Identify hidden opportunities in setbacks\n\u2022 Master emotional control during high stakes\n\u2022 Why your 'bad hand' is your best teacher\n\nFeaturing: Ken\n\nIf you were dealt a losing hand today, would you walk away or double down? Let's settle this in the comments.\n\n#shorts #ken #mindset #strategy #success #growth",
-              "tags": [
-                "ken",
-                "strategy",
-                "podcast",
-                "mindset",
-                "success",
-                "game theory",
-                "psychology",
-                "growth",
-                "discipline",
-                "winning"
-              ],
-              "pinned_comment": "Most people quit when they see the 'bad card.' Do you fold or do you find a way to win anyway? \ud83d\udc47",
-              "ab_variants": {
-                "A": {
-                  "angle": "Curiosity Gap",
-                  "title": "The One Card Everyone Fears...",
-                  "description": "Ken explains why the one card you hate seeing is actually your biggest test of character. Most people fold the moment things look bad, but here is how you play it to win.\n\n\u2022 Identify hidden opportunities in setbacks\n\u2022 Master emotional control during high stakes\n\u2022 Why your 'bad hand' is your best teacher\n\nFeaturing: Ken\n\nIf you were dealt a losing hand today, would you walk away or double down? Let's settle this in the comments.\n\n#shorts #ken #mindset #strategy #success #growth"
-                },
-                "B": {
-                  "angle": "Contrarian Truth",
-                  "title": "Why Winning Requires Bad Cards",
-                  "description": "Most people think you need luck to win, but Ken argues that the 'worst' cards are where the real skill is shown. Stop waiting for the perfect setup and start using the hand you have.\n\n\u2022 Why comfort is a trap in competition\n\u2022 Turning a disadvantage into a surprise attack\n\u2022 The mindset shift that beats luck every time\n\nFeaturing: Ken\n\nIs it better to have a perfect hand or a perfect strategy? Sound off below.\n\n#shorts #ken #psychology #competition #winning #mindset"
-                },
-                "C": {
-                  "angle": "Actionable Protocol",
-                  "title": "The 1 Secret to Winning Anyway",
-                  "description": "Ken breaks down the exact protocol for handling a bad hand and still coming out on top. This is the framework for high-level resilience and tactical pivoting.\n\n\u2022 Step-by-step strategy for pivoting mid-game\n\u2022 How to mask your weakness from opponents\n\u2022 The 'Win Anyway' mental framework\n\nFeaturing: Ken\n\nWhat is your go-to move when things don't go according to plan? Share your protocol.\n\n#shorts #ken #productivity #resilience #strategy #advice"
-                }
-              },
-              "active_variant": "A",
-              "test_status": "ACTIVE_TEST",
-              "variant_history": [
-                {
-                  "variant": "A",
-                  "title": "The One Card Everyone Fears...",
-                  "deployed_at": 1791994191.052665,
-                  "reason": "Initial A/B test deployment"
-                }
-              ],
-              "metrics": {
-                "views": 0,
-                "likes": 0,
-                "comments": 0,
-                "retention": 0.0,
-                "ctr": 0.0
-              }
-            },
-            "reframed": "gaming_split"
-          },
           {
             "id": "ken_new_barrel",
             "source_video": "the new barrel",
@@ -2037,6 +1970,73 @@
         ],
         "held": [],
         "published": [
+          {
+            "id": "ken_hp_buffed",
+            "source_video": "hp buffed",
+            "creator": "Ken",
+            "title": "The One Card Everyone Fears...",
+            "publish_at": "2026-10-15T16:00:00Z",
+            "status": "PUBLISHED",
+            "uploaded": true,
+            "youtube_video_id": "urztidxP3HY",
+            "youtube_url": "https://www.youtube.com/shorts/urztidxP3HY",
+            "video_file": "ken_hp_buffed_master.mp4",
+            "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_hp_buffed_master.mp4",
+            "duration": 57.04,
+            "hook_summary": "Essential discussion and core insight",
+            "metadata": {
+              "title": "The One Card Everyone Fears...",
+              "description": "Ken explains why the one card you hate seeing is actually your biggest test of character. Most people fold the moment things look bad, but here is how you play it to win.\n\n\u2022 Identify hidden opportunities in setbacks\n\u2022 Master emotional control during high stakes\n\u2022 Why your 'bad hand' is your best teacher\n\nFeaturing: Ken\n\nIf you were dealt a losing hand today, would you walk away or double down? Let's settle this in the comments.\n\n#shorts #ken #mindset #strategy #success #growth",
+              "tags": [
+                "ken",
+                "strategy",
+                "podcast",
+                "mindset",
+                "success",
+                "game theory",
+                "psychology",
+                "growth",
+                "discipline",
+                "winning"
+              ],
+              "pinned_comment": "Most people quit when they see the 'bad card.' Do you fold or do you find a way to win anyway? \ud83d\udc47",
+              "ab_variants": {
+                "A": {
+                  "angle": "Curiosity Gap",
+                  "title": "The One Card Everyone Fears...",
+                  "description": "Ken explains why the one card you hate seeing is actually your biggest test of character. Most people fold the moment things look bad, but here is how you play it to win.\n\n\u2022 Identify hidden opportunities in setbacks\n\u2022 Master emotional control during high stakes\n\u2022 Why your 'bad hand' is your best teacher\n\nFeaturing: Ken\n\nIf you were dealt a losing hand today, would you walk away or double down? Let's settle this in the comments.\n\n#shorts #ken #mindset #strategy #success #growth"
+                },
+                "B": {
+                  "angle": "Contrarian Truth",
+                  "title": "Why Winning Requires Bad Cards",
+                  "description": "Most people think you need luck to win, but Ken argues that the 'worst' cards are where the real skill is shown. Stop waiting for the perfect setup and start using the hand you have.\n\n\u2022 Why comfort is a trap in competition\n\u2022 Turning a disadvantage into a surprise attack\n\u2022 The mindset shift that beats luck every time\n\nFeaturing: Ken\n\nIs it better to have a perfect hand or a perfect strategy? Sound off below.\n\n#shorts #ken #psychology #competition #winning #mindset"
+                },
+                "C": {
+                  "angle": "Actionable Protocol",
+                  "title": "The 1 Secret to Winning Anyway",
+                  "description": "Ken breaks down the exact protocol for handling a bad hand and still coming out on top. This is the framework for high-level resilience and tactical pivoting.\n\n\u2022 Step-by-step strategy for pivoting mid-game\n\u2022 How to mask your weakness from opponents\n\u2022 The 'Win Anyway' mental framework\n\nFeaturing: Ken\n\nWhat is your go-to move when things don't go according to plan? Share your protocol.\n\n#shorts #ken #productivity #resilience #strategy #advice"
+                }
+              },
+              "active_variant": "A",
+              "test_status": "ACTIVE_TEST",
+              "variant_history": [
+                {
+                  "variant": "A",
+                  "title": "The One Card Everyone Fears...",
+                  "deployed_at": 1791994191.052665,
+                  "reason": "Initial A/B test deployment"
+                }
+              ],
+              "metrics": {
+                "views": 0,
+                "likes": 0,
+                "comments": 0,
+                "retention": 0.0,
+                "ctr": 0.0
+              }
+            },
+            "reframed": "gaming_split"
+          },
           {
             "id": "ken_clip_03_toxic",
             "source_video": "least busted card",

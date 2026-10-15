@@ -1,6 +1,6 @@
 {
-  "timestamp": 1792029106.306206,
-  "sync_time_iso": "2026-10-15T01:51:46Z",
+  "timestamp": 1792029167.94831,
+  "sync_time_iso": "2026-10-15T01:52:47Z",
   "default_channel": "muk_podcast",
   "channels": {
     "muk_podcast": {
@@ -1375,14 +1375,14 @@
           "current_task": "Queue up to date. Waiting for next daily Ken upload.",
           "last_completed_task": "Ingested 5 recent Ken master videos into source pool",
           "recent_logs": [
-            "[21:35:49] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
-            "[21:36:03] Queue up to date. Waiting for next daily Ken upload.",
             "[21:40:15] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
             "[21:40:28] Queue up to date. Waiting for next daily Ken upload.",
             "[21:45:12] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
             "[21:45:28] Queue up to date. Waiting for next daily Ken upload.",
             "[21:49:45] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
-            "[21:49:56] Queue up to date. Waiting for next daily Ken upload."
+            "[21:49:56] Queue up to date. Waiting for next daily Ken upload.",
+            "[21:51:56] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
+            "[21:52:13] Queue up to date. Waiting for next daily Ken upload."
           ]
         },
         "STRATEGIST": {
@@ -1390,14 +1390,14 @@
           "current_task": "No queued Ken candidates ready. Waiting for SCOUT.",
           "last_completed_task": "Mapped 3 distinct viral gaming hook angles for initial drops",
           "recent_logs": [
-            "[21:21:22] Buffer healthy: 3 scheduled Ken Shorts staged.",
             "[21:23:36] Buffer healthy: 3 scheduled Ken Shorts staged.",
             "[21:25:51] Buffer healthy: 3 scheduled Ken Shorts staged.",
             "[21:28:02] Buffer healthy: 3 scheduled Ken Shorts staged.",
             "[21:30:18] Buffer healthy: 3 scheduled Ken Shorts staged.",
             "[21:32:30] Buffer healthy: 3 scheduled Ken Shorts staged.",
             "[21:34:44] Buffer healthy: 3 scheduled Ken Shorts staged.",
-            "[21:49:56] No queued Ken candidates ready. Waiting for SCOUT."
+            "[21:49:56] No queued Ken candidates ready. Waiting for SCOUT.",
+            "[21:52:13] No queued Ken candidates ready. Waiting for SCOUT."
           ]
         },
         "EDITOR": {
@@ -1444,14 +1444,14 @@
           "current_task": "Auditing velocity of active Ken Clash Royale Shorts...",
           "last_completed_task": "Calibrated gaming threshold: >15 views/hr within 4h",
           "recent_logs": [
-            "[21:28:02] Auditing velocity of active Ken Clash Royale Shorts...",
             "[21:30:18] Auditing velocity of active Ken Clash Royale Shorts...",
             "[21:32:30] Auditing velocity of active Ken Clash Royale Shorts...",
             "[21:34:44] Auditing velocity of active Ken Clash Royale Shorts...",
             "[21:38:15] Auditing velocity of active Ken Clash Royale Shorts...",
             "[21:43:12] Auditing velocity of active Ken Clash Royale Shorts...",
             "[21:47:45] Auditing velocity of active Ken Clash Royale Shorts...",
-            "[21:49:56] Auditing velocity of active Ken Clash Royale Shorts..."
+            "[21:49:56] Auditing velocity of active Ken Clash Royale Shorts...",
+            "[21:52:13] Auditing velocity of active Ken Clash Royale Shorts..."
           ]
         },
         "WATCHDOG": {
@@ -1459,14 +1459,14 @@
           "current_task": "Verifying Supercell fan policy: 0 claims, 0 strikes.",
           "last_completed_task": "Audited source parameters: strictly <30s segment rule active",
           "recent_logs": [
-            "[21:28:02] Verifying Supercell fan policy: 0 claims, 0 strikes.",
             "[21:30:18] Verifying Supercell fan policy: 0 claims, 0 strikes.",
             "[21:32:30] Verifying Supercell fan policy: 0 claims, 0 strikes.",
             "[21:34:44] Verifying Supercell fan policy: 0 claims, 0 strikes.",
             "[21:38:15] Verifying Supercell fan policy: 0 claims, 0 strikes.",
             "[21:43:12] Verifying Supercell fan policy: 0 claims, 0 strikes.",
             "[21:47:45] Verifying Supercell fan policy: 0 claims, 0 strikes.",
-            "[21:49:56] Verifying Supercell fan policy: 0 claims, 0 strikes."
+            "[21:49:56] Verifying Supercell fan policy: 0 claims, 0 strikes.",
+            "[21:52:13] Verifying Supercell fan policy: 0 claims, 0 strikes."
           ]
         }
       },
@@ -2196,17 +2196,17 @@
         },
         "PUBLISHER": {
           "status": "working",
-          "current_task": "Generating dynamic A/B metadata for slot: 09:00 PM ET (Fri, Oct 16)...",
+          "current_task": "Upload failed for abigail_1792028101_5; staged for automatic retry.",
           "last_completed_task": "Uploaded all 3 initial pop-culture Shorts to YouTube (@abiclitsalot)",
           "recent_logs": [
-            "[21:08:31] Short SCHEDULED on YouTube: bFHhY8_nNxc (09:00 PM ET (Thu, Oct 15))",
-            "[21:43:53] Generating dynamic A/B metadata for slot: 12:30 PM ET (Fri, Oct 16)...",
-            "[21:44:01] Deploying to YouTube (@abiclitsalot) for release 12:30 PM ET (Fri, Oct 16)...",
             "[21:44:04] Short SCHEDULED on YouTube: jYimGboqzfs (12:30 PM ET (Fri, Oct 16))",
             "[21:47:22] Generating dynamic A/B metadata for slot: 05:00 PM ET (Fri, Oct 16)...",
             "[21:48:03] Deploying to YouTube (@abiclitsalot) for release 05:00 PM ET (Fri, Oct 16)...",
             "[21:48:07] Short SCHEDULED on YouTube: unttZbP-8zU (05:00 PM ET (Fri, Oct 16))",
-            "[21:51:08] Generating dynamic A/B metadata for slot: 09:00 PM ET (Fri, Oct 16)..."
+            "[21:51:08] Generating dynamic A/B metadata for slot: 09:00 PM ET (Fri, Oct 16)...",
+            "[21:51:47] Deploying to YouTube (@abiclitsalot) for release 09:00 PM ET (Fri, Oct 16)...",
+            "[21:51:48] YouTube upload error: <HttpError 400 when requesting None returned \"The user has exceeded the number of videos they may upload.\". Details: \"[{'message': 'The user has exceeded the number of videos they may upload.', 'domain': 'youtube.video', 'reason': 'uploadLimitExceeded'}]\">",
+            "[21:51:48] Upload failed for abigail_1792028101_5; staged for automatic retry."
           ]
         },
         "ANALYST": {
@@ -2214,14 +2214,14 @@
           "current_task": "Auditing velocity of active Pop Culture & Comedy Shorts...",
           "last_completed_task": "Calibrated benchmark: >25 views/hr in first 3 hours",
           "recent_logs": [
-            "[21:30:39] Auditing velocity of active Pop Culture & Comedy Shorts...",
             "[21:32:51] Auditing velocity of active Pop Culture & Comedy Shorts...",
             "[21:35:06] Auditing velocity of active Pop Culture & Comedy Shorts...",
             "[21:36:03] Auditing velocity of active Pop Culture & Comedy Shorts...",
             "[21:38:17] Auditing velocity of active Pop Culture & Comedy Shorts...",
             "[21:40:28] Auditing velocity of active Pop Culture & Comedy Shorts...",
             "[21:44:06] Auditing velocity of active Pop Culture & Comedy Shorts...",
-            "[21:48:09] Auditing velocity of active Pop Culture & Comedy Shorts..."
+            "[21:48:09] Auditing velocity of active Pop Culture & Comedy Shorts...",
+            "[21:51:48] Auditing velocity of active Pop Culture & Comedy Shorts..."
           ]
         },
         "WATCHDOG": {
@@ -2229,14 +2229,14 @@
           "current_task": "Verifying Fair Use compliance: 100% transformative commentary.",
           "last_completed_task": "Validated commentary & transformative overlay standards",
           "recent_logs": [
-            "[21:30:39] Verifying Fair Use compliance: 100% transformative commentary.",
             "[21:32:51] Verifying Fair Use compliance: 100% transformative commentary.",
             "[21:35:06] Verifying Fair Use compliance: 100% transformative commentary.",
             "[21:36:03] Verifying Fair Use compliance: 100% transformative commentary.",
             "[21:38:17] Verifying Fair Use compliance: 100% transformative commentary.",
             "[21:40:28] Verifying Fair Use compliance: 100% transformative commentary.",
             "[21:44:06] Verifying Fair Use compliance: 100% transformative commentary.",
-            "[21:48:09] Verifying Fair Use compliance: 100% transformative commentary."
+            "[21:48:09] Verifying Fair Use compliance: 100% transformative commentary.",
+            "[21:51:48] Verifying Fair Use compliance: 100% transformative commentary."
           ]
         }
       },
@@ -2275,8 +2275,9 @@
             "title": "Emergency Intercom - Episode 253 (Greek yogurt is discharge)",
             "url": "https://www.youtube.com/watch?v=Au0Mfbn0arI",
             "duration": 3923,
-            "status": "PROCESSING",
-            "added_at": "2026-10-15T01:35:01Z"
+            "status": "RETRY_UPLOAD",
+            "added_at": "2026-10-15T01:35:01Z",
+            "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/abigail_1792028101_5_master.mp4"
           },
           {
             "id": "abigail_1792028103_6",

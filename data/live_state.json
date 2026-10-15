@@ -1,6 +1,6 @@
 {
-  "timestamp": 1792030403.6819682,
-  "sync_time_iso": "2026-10-15T02:13:23Z",
+  "timestamp": 1792030465.3204448,
+  "sync_time_iso": "2026-10-15T02:14:25Z",
   "default_channel": "muk_podcast",
   "channels": {
     "muk_podcast": {
@@ -1375,14 +1375,14 @@
           "current_task": "Queue up to date. Waiting for next daily Ken upload.",
           "last_completed_task": "Ingested 5 recent Ken master videos into source pool",
           "recent_logs": [
-            "[22:05:16] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
-            "[22:05:27] Queue up to date. Waiting for next daily Ken upload.",
             "[22:07:27] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
             "[22:07:38] Queue up to date. Waiting for next daily Ken upload.",
             "[22:09:38] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
             "[22:09:49] Queue up to date. Waiting for next daily Ken upload.",
             "[22:11:49] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
-            "[22:12:02] Queue up to date. Waiting for next daily Ken upload."
+            "[22:12:02] Queue up to date. Waiting for next daily Ken upload.",
+            "[22:14:02] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
+            "[22:14:14] Queue up to date. Waiting for next daily Ken upload."
           ]
         },
         "STRATEGIST": {
@@ -1390,14 +1390,14 @@
           "current_task": "No queued Ken candidates ready. Waiting for SCOUT.",
           "last_completed_task": "Mapped 3 distinct viral gaming hook angles for initial drops",
           "recent_logs": [
-            "[21:56:39] No queued Ken candidates ready. Waiting for SCOUT.",
             "[21:58:52] No queued Ken candidates ready. Waiting for SCOUT.",
             "[22:01:05] No queued Ken candidates ready. Waiting for SCOUT.",
             "[22:03:16] No queued Ken candidates ready. Waiting for SCOUT.",
             "[22:05:27] No queued Ken candidates ready. Waiting for SCOUT.",
             "[22:07:38] No queued Ken candidates ready. Waiting for SCOUT.",
             "[22:09:49] No queued Ken candidates ready. Waiting for SCOUT.",
-            "[22:12:02] No queued Ken candidates ready. Waiting for SCOUT."
+            "[22:12:02] No queued Ken candidates ready. Waiting for SCOUT.",
+            "[22:14:14] No queued Ken candidates ready. Waiting for SCOUT."
           ]
         },
         "EDITOR": {
@@ -1444,14 +1444,14 @@
           "current_task": "Auditing velocity of active Ken Clash Royale Shorts...",
           "last_completed_task": "Calibrated gaming threshold: >15 views/hr within 4h",
           "recent_logs": [
-            "[21:56:39] Auditing velocity of active Ken Clash Royale Shorts...",
             "[21:58:52] Auditing velocity of active Ken Clash Royale Shorts...",
             "[22:01:05] Auditing velocity of active Ken Clash Royale Shorts...",
             "[22:03:16] Auditing velocity of active Ken Clash Royale Shorts...",
             "[22:05:27] Auditing velocity of active Ken Clash Royale Shorts...",
             "[22:07:38] Auditing velocity of active Ken Clash Royale Shorts...",
             "[22:09:49] Auditing velocity of active Ken Clash Royale Shorts...",
-            "[22:12:02] Auditing velocity of active Ken Clash Royale Shorts..."
+            "[22:12:02] Auditing velocity of active Ken Clash Royale Shorts...",
+            "[22:14:14] Auditing velocity of active Ken Clash Royale Shorts..."
           ]
         },
         "WATCHDOG": {
@@ -1459,14 +1459,14 @@
           "current_task": "Verifying Supercell fan policy: 0 claims, 0 strikes.",
           "last_completed_task": "Audited source parameters: strictly <30s segment rule active",
           "recent_logs": [
-            "[21:56:39] Verifying Supercell fan policy: 0 claims, 0 strikes.",
             "[21:58:52] Verifying Supercell fan policy: 0 claims, 0 strikes.",
             "[22:01:05] Verifying Supercell fan policy: 0 claims, 0 strikes.",
             "[22:03:16] Verifying Supercell fan policy: 0 claims, 0 strikes.",
             "[22:05:27] Verifying Supercell fan policy: 0 claims, 0 strikes.",
             "[22:07:38] Verifying Supercell fan policy: 0 claims, 0 strikes.",
             "[22:09:49] Verifying Supercell fan policy: 0 claims, 0 strikes.",
-            "[22:12:02] Verifying Supercell fan policy: 0 claims, 0 strikes."
+            "[22:12:02] Verifying Supercell fan policy: 0 claims, 0 strikes.",
+            "[22:14:14] Verifying Supercell fan policy: 0 claims, 0 strikes."
           ]
         }
       },
@@ -2196,17 +2196,17 @@
         },
         "PUBLISHER": {
           "status": "working",
-          "current_task": "Upload failed for abigail_1792028155_0; staged for automatic retry.",
+          "current_task": "Generating dynamic A/B metadata for slot: 09:00 PM ET (Fri, Oct 16)...",
           "last_completed_task": "Uploaded all 3 initial pop-culture Shorts to YouTube (@abiclitsalot)",
           "recent_logs": [
-            "[22:04:19] Generating dynamic A/B metadata for slot: 09:00 PM ET (Fri, Oct 16)...",
             "[22:04:30] Deploying to YouTube (@abiclitsalot) for release 09:00 PM ET (Fri, Oct 16)...",
             "[22:04:30] YouTube upload error: <HttpError 400 when requesting None returned \"The user has exceeded the number of videos they may upload.\". Details: \"[{'message': 'The user has exceeded the number of videos they may upload.', 'domain': 'youtube.video', 'reason': 'uploadLimitExceeded'}]\">",
             "[22:04:30] Upload failed for abigail_1792028106_9; staged for automatic retry.",
             "[22:10:21] Generating dynamic A/B metadata for slot: 09:00 PM ET (Fri, Oct 16)...",
             "[22:10:31] Deploying to YouTube (@abiclitsalot) for release 09:00 PM ET (Fri, Oct 16)...",
             "[22:10:31] YouTube upload error: <HttpError 400 when requesting None returned \"The user has exceeded the number of videos they may upload.\". Details: \"[{'message': 'The user has exceeded the number of videos they may upload.', 'domain': 'youtube.video', 'reason': 'uploadLimitExceeded'}]\">",
-            "[22:10:31] Upload failed for abigail_1792028155_0; staged for automatic retry."
+            "[22:10:31] Upload failed for abigail_1792028155_0; staged for automatic retry.",
+            "[22:14:05] Generating dynamic A/B metadata for slot: 09:00 PM ET (Fri, Oct 16)..."
           ]
         },
         "ANALYST": {

@@ -1,6 +1,6 @@
 {
-  "timestamp": 1792023393.366482,
-  "sync_time_iso": "2026-10-15T00:16:33Z",
+  "timestamp": 1792023407.974282,
+  "sync_time_iso": "2026-10-15T00:16:47Z",
   "default_channel": "muk_podcast",
   "channels": {
     "muk_podcast": {
@@ -1426,17 +1426,17 @@
         },
         "PUBLISHER": {
           "status": "working",
-          "current_task": "YouTube upload error: Unable to find the server at oauth2.googleapis.com",
+          "current_task": "Short SCHEDULED on YouTube: -dn1oqE81NU (08:15 PM ET (Thu, Oct 15))",
           "last_completed_task": "Uploaded all 3 initial Clash Royale gaming cuts to YouTube (kenclipsburger420)",
           "recent_logs": [
-            "[PUBLISHER] Uploaded 78_GRpovluw (ken_clip_03_toxic)",
-            "[PUBLISHER] Ken buffer fully staged: 3/3 scheduled on YouTube",
-            "[12:09:38] Generating gaming A/B metadata for slot: 12:00 PM ET (Thu, Oct 15)...",
             "[12:09:51] Deploying to YouTube (@kenclipsburger420) for release 12:00 PM ET (Thu, Oct 15)...",
             "[12:10:46] Short SCHEDULED on YouTube: urztidxP3HY (12:00 PM ET (Thu, Oct 15))",
             "[17:45:04] Generating gaming A/B metadata for slot: 04:30 PM ET (Thu, Oct 15)...",
             "[17:45:04] Deploying to YouTube (@kenclipsburger420) for release 04:30 PM ET (Thu, Oct 15)...",
-            "[17:45:04] YouTube upload error: Unable to find the server at oauth2.googleapis.com"
+            "[17:45:04] YouTube upload error: Unable to find the server at oauth2.googleapis.com",
+            "[20:16:37] Generating gaming A/B metadata for slot: 08:15 PM ET (Thu, Oct 15)...",
+            "[20:16:42] Deploying to YouTube (@kenclipsburger420) for release 08:15 PM ET (Thu, Oct 15)...",
+            "[20:16:47] Short SCHEDULED on YouTube: -dn1oqE81NU (08:15 PM ET (Thu, Oct 15))"
           ]
         },
         "ANALYST": {
@@ -1472,15 +1472,6 @@
       },
       "queue": {
         "queue": [
-          {
-            "id": "ken_least_busted",
-            "creator": "Ken",
-            "title": "least busted card",
-            "url": "https://www.youtube.com/watch?v=LhS6RH2NmcU",
-            "duration": 979,
-            "status": "PROCESSING",
-            "added_at": "2026-10-14T04:30:00Z"
-          },
           {
             "id": "ken_perfected_deck",
             "creator": "Ken",
@@ -1532,6 +1523,17 @@
             "added_at": "2026-10-14T04:30:00Z",
             "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_new_barrel_master.mp4",
             "youtube_video_id": null
+          },
+          {
+            "id": "ken_least_busted",
+            "creator": "Ken",
+            "title": "least busted card",
+            "url": "https://www.youtube.com/watch?v=LhS6RH2NmcU",
+            "duration": 979,
+            "status": "COMPLETED",
+            "added_at": "2026-10-14T04:30:00Z",
+            "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_least_busted_master.mp4",
+            "youtube_video_id": "-dn1oqE81NU"
           }
         ]
       },
@@ -1655,6 +1657,72 @@
                   "variant": "A",
                   "title": "The Real Secret Behind Podcast Discussion #Shorts",
                   "deployed_at": 1792014304.7538612,
+                  "reason": "Initial A/B test deployment"
+                }
+              ],
+              "metrics": {
+                "views": 0,
+                "likes": 0,
+                "comments": 0,
+                "retention": 0.0,
+                "ctr": 0.0
+              }
+            },
+            "reframed": "gaming_split"
+          },
+          {
+            "id": "ken_least_busted",
+            "source_video": "least busted card",
+            "creator": "Ken",
+            "title": "Why This Troll Deck Is Unstoppable",
+            "publish_at": "2026-10-16T00:15:00Z",
+            "status": "SCHEDULED",
+            "uploaded": true,
+            "youtube_video_id": "-dn1oqE81NU",
+            "youtube_url": "https://www.youtube.com/shorts/-dn1oqE81NU",
+            "video_file": "ken_least_busted_master.mp4",
+            "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_least_busted_master.mp4",
+            "duration": 33.21,
+            "hook_summary": "The speaker reveals his 'miserable to defend' troll deck strategy and explains why it only takes one push to win.",
+            "metadata": {
+              "title": "Why This Troll Deck Is Unstoppable",
+              "description": "Most players lose because they don't understand the hidden mechanics of bridge spam. Discover the one-push strategy that makes defending against this deck a nightmare.\n\n* Master the art of the singular, game-ending push.\n* Learn why 'troll' decks often break competitive defense meta.\n* The exact timing window you need to secure the win.\n\nFeaturing: Ken\n\nIs this deck actually 'low skill' or just misunderstood genius? Sound off below.\n\n#clashroyale #gaming #strategy #tipsandtricks #shorts",
+              "tags": [
+                "clash royale",
+                "bridge spam",
+                "deck guide",
+                "gaming tips",
+                "mobile gaming",
+                "strategy guide",
+                "clash royale strategy",
+                "troll deck",
+                "gaming shorts"
+              ],
+              "pinned_comment": "Be honest: Is bridge spam a legitimate strategy or is it just 'cheating' your way to a win? Let's settle this in the replies.",
+              "ab_variants": {
+                "A": {
+                  "angle": "Curiosity Gap",
+                  "title": "Why This Troll Deck Is Unstoppable",
+                  "description": "Most players lose because they don't understand the hidden mechanics of bridge spam. Discover the one-push strategy that makes defending against this deck a nightmare.\n\n* Master the art of the singular, game-ending push.\n* Learn why 'troll' decks often break competitive defense meta.\n* The exact timing window you need to secure the win.\n\nFeaturing: Ken\n\nIs this deck actually 'low skill' or just misunderstood genius? Sound off below.\n\n#clashroyale #gaming #strategy #tipsandtricks #shorts"
+                },
+                "B": {
+                  "angle": "Contrarian Truth",
+                  "title": "Stop Defending Bridge Spam Wrong",
+                  "description": "You've been taught to defend bridge spam incorrectly, and that\u2019s why you\u2019re losing. This deck proves that pure aggression beats calculated defense every time.\n\n* Why defensive play is a trap against this specific build.\n* The secret to making your opponent panic with one push.\n* How to weaponize a 'troll' deck to climb the ladder.\n\nFeaturing: Ken\n\nIf you could ban one card from existence to stop bridge spam, what would it be?\n\n#gaming #clashroyale #deckguide #winrate #shorts"
+                },
+                "C": {
+                  "angle": "Actionable Protocol",
+                  "title": "The One-Push Bridge Spam Strategy",
+                  "description": "Stop struggling with long, drawn-out matches. Use this precise bridge spam protocol to overwhelm your opponent\u2019s defense in a single move.\n\n* The step-by-step setup for an unstoppable bridge spam push.\n* How to identify when your opponent has already lost the game.\n* Leveraging the 'troll' element for maximum psychological pressure.\n\nFeaturing: Ken\n\nWould you rather win with a 'skill' deck or a 'troll' deck? Tell us your preference.\n\n#gaming #protips #clashroyale #strategy #shorts"
+                }
+              },
+              "active_variant": "A",
+              "test_status": "ACTIVE_TEST",
+              "variant_history": [
+                {
+                  "variant": "A",
+                  "title": "Why This Troll Deck Is Unstoppable",
+                  "deployed_at": 1792023402.7638242,
                   "reason": "Initial A/B test deployment"
                 }
               ],

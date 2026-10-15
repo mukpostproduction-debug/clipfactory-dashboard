@@ -1,6 +1,6 @@
 {
-  "timestamp": 1792029848.059681,
-  "sync_time_iso": "2026-10-15T02:04:08Z",
+  "timestamp": 1792029909.470913,
+  "sync_time_iso": "2026-10-15T02:05:09Z",
   "default_channel": "muk_podcast",
   "channels": {
     "muk_podcast": {
@@ -2196,17 +2196,17 @@
         },
         "PUBLISHER": {
           "status": "working",
-          "current_task": "Upload failed for abigail_1792028103_7; staged for automatic retry.",
+          "current_task": "Upload failed for abigail_1792028106_9; staged for automatic retry.",
           "last_completed_task": "Uploaded all 3 initial pop-culture Shorts to YouTube (@abiclitsalot)",
           "recent_logs": [
-            "[21:55:18] Generating dynamic A/B metadata for slot: 09:00 PM ET (Fri, Oct 16)...",
-            "[21:55:21] Deploying to YouTube (@abiclitsalot) for release 09:00 PM ET (Fri, Oct 16)...",
-            "[21:55:23] YouTube upload error: <HttpError 400 when requesting None returned \"The user has exceeded the number of videos they may upload.\". Details: \"[{'message': 'The user has exceeded the number of videos they may upload.', 'domain': 'youtube.video', 'reason': 'uploadLimitExceeded'}]\">",
-            "[21:55:23] Upload failed for abigail_1792028103_6; staged for automatic retry.",
             "[21:58:45] Generating dynamic A/B metadata for slot: 09:00 PM ET (Fri, Oct 16)...",
             "[21:58:49] Deploying to YouTube (@abiclitsalot) for release 09:00 PM ET (Fri, Oct 16)...",
             "[21:58:49] YouTube upload error: <HttpError 400 when requesting None returned \"The user has exceeded the number of videos they may upload.\". Details: \"[{'message': 'The user has exceeded the number of videos they may upload.', 'domain': 'youtube.video', 'reason': 'uploadLimitExceeded'}]\">",
-            "[21:58:49] Upload failed for abigail_1792028103_7; staged for automatic retry."
+            "[21:58:49] Upload failed for abigail_1792028103_7; staged for automatic retry.",
+            "[22:04:19] Generating dynamic A/B metadata for slot: 09:00 PM ET (Fri, Oct 16)...",
+            "[22:04:30] Deploying to YouTube (@abiclitsalot) for release 09:00 PM ET (Fri, Oct 16)...",
+            "[22:04:30] YouTube upload error: <HttpError 400 when requesting None returned \"The user has exceeded the number of videos they may upload.\". Details: \"[{'message': 'The user has exceeded the number of videos they may upload.', 'domain': 'youtube.video', 'reason': 'uploadLimitExceeded'}]\">",
+            "[22:04:30] Upload failed for abigail_1792028106_9; staged for automatic retry."
           ]
         },
         "ANALYST": {
@@ -2214,14 +2214,14 @@
           "current_task": "Auditing velocity of active Pop Culture & Comedy Shorts...",
           "last_completed_task": "Calibrated benchmark: >25 views/hr in first 3 hours",
           "recent_logs": [
-            "[21:38:17] Auditing velocity of active Pop Culture & Comedy Shorts...",
             "[21:40:28] Auditing velocity of active Pop Culture & Comedy Shorts...",
             "[21:44:06] Auditing velocity of active Pop Culture & Comedy Shorts...",
             "[21:48:09] Auditing velocity of active Pop Culture & Comedy Shorts...",
             "[21:51:48] Auditing velocity of active Pop Culture & Comedy Shorts...",
             "[21:55:23] Auditing velocity of active Pop Culture & Comedy Shorts...",
             "[21:58:49] Auditing velocity of active Pop Culture & Comedy Shorts...",
-            "[22:01:03] Auditing velocity of active Pop Culture & Comedy Shorts..."
+            "[22:01:03] Auditing velocity of active Pop Culture & Comedy Shorts...",
+            "[22:04:30] Auditing velocity of active Pop Culture & Comedy Shorts..."
           ]
         },
         "WATCHDOG": {
@@ -2229,14 +2229,14 @@
           "current_task": "Verifying Fair Use compliance: 100% transformative commentary.",
           "last_completed_task": "Validated commentary & transformative overlay standards",
           "recent_logs": [
-            "[21:38:17] Verifying Fair Use compliance: 100% transformative commentary.",
             "[21:40:28] Verifying Fair Use compliance: 100% transformative commentary.",
             "[21:44:06] Verifying Fair Use compliance: 100% transformative commentary.",
             "[21:48:09] Verifying Fair Use compliance: 100% transformative commentary.",
             "[21:51:48] Verifying Fair Use compliance: 100% transformative commentary.",
             "[21:55:23] Verifying Fair Use compliance: 100% transformative commentary.",
             "[21:58:49] Verifying Fair Use compliance: 100% transformative commentary.",
-            "[22:01:03] Verifying Fair Use compliance: 100% transformative commentary."
+            "[22:01:03] Verifying Fair Use compliance: 100% transformative commentary.",
+            "[22:04:30] Verifying Fair Use compliance: 100% transformative commentary."
           ]
         }
       },
@@ -2314,8 +2314,9 @@
             "title": "Ride Presents: Haunted HayRide SPOOKTACULAR!!",
             "url": "https://www.youtube.com/watch?v=vmWEh-r6_eQ",
             "duration": 2927,
-            "status": "PROCESSING",
-            "added_at": "2026-10-15T01:35:06Z"
+            "status": "RETRY_UPLOAD",
+            "added_at": "2026-10-15T01:35:06Z",
+            "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/abigail_1792028106_9_master.mp4"
           },
           {
             "id": "abigail_1792028106_10",

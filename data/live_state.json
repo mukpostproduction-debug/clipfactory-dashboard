@@ -1,6 +1,6 @@
 {
-  "timestamp": 1792028612.286037,
-  "sync_time_iso": "2026-10-15T01:43:32Z",
+  "timestamp": 1792028644.823023,
+  "sync_time_iso": "2026-10-15T01:44:04Z",
   "default_channel": "muk_podcast",
   "channels": {
     "muk_podcast": {
@@ -2195,17 +2195,17 @@
         },
         "PUBLISHER": {
           "status": "working",
-          "current_task": "Short SCHEDULED on YouTube: bFHhY8_nNxc (09:00 PM ET (Thu, Oct 15))",
+          "current_task": "Short SCHEDULED on YouTube: jYimGboqzfs (12:30 PM ET (Fri, Oct 16))",
           "last_completed_task": "Uploaded all 3 initial pop-culture Shorts to YouTube (@abiclitsalot)",
           "recent_logs": [
-            "[12:32:42] Deploying to YouTube (@abiclitsalot) for release 12:30 PM ET (Thu, Oct 15)...",
-            "[12:32:57] Short SCHEDULED on YouTube: 1oX5lAgrJbs (12:30 PM ET (Thu, Oct 15))",
-            "[18:08:46] Generating dynamic A/B metadata for slot: 05:00 PM ET (Thu, Oct 15)...",
             "[18:09:01] Deploying to YouTube (@abiclitsalot) for release 05:00 PM ET (Thu, Oct 15)...",
             "[18:09:08] Short SCHEDULED on YouTube: jGQup1lcx6Q (05:00 PM ET (Thu, Oct 15))",
             "[21:08:08] Generating dynamic A/B metadata for slot: 09:00 PM ET (Thu, Oct 15)...",
             "[21:08:27] Deploying to YouTube (@abiclitsalot) for release 09:00 PM ET (Thu, Oct 15)...",
-            "[21:08:31] Short SCHEDULED on YouTube: bFHhY8_nNxc (09:00 PM ET (Thu, Oct 15))"
+            "[21:08:31] Short SCHEDULED on YouTube: bFHhY8_nNxc (09:00 PM ET (Thu, Oct 15))",
+            "[21:43:53] Generating dynamic A/B metadata for slot: 12:30 PM ET (Fri, Oct 16)...",
+            "[21:44:01] Deploying to YouTube (@abiclitsalot) for release 12:30 PM ET (Fri, Oct 16)...",
+            "[21:44:04] Short SCHEDULED on YouTube: jYimGboqzfs (12:30 PM ET (Fri, Oct 16))"
           ]
         },
         "ANALYST": {
@@ -2267,15 +2267,6 @@
             "duration": 3600,
             "status": "FAILED_DOWNLOAD",
             "added_at": "2026-10-15T01:34:57Z"
-          },
-          {
-            "id": "abigail_1792028101_3",
-            "creator": "Emergency Intercom",
-            "title": "Emergency Intercom - Episode 255 (You are deserving)",
-            "url": "https://www.youtube.com/watch?v=CJEYUzDdFE4",
-            "duration": 3361,
-            "status": "PROCESSING",
-            "added_at": "2026-10-15T01:35:01Z"
           },
           {
             "id": "abigail_1792028101_4",
@@ -2411,6 +2402,17 @@
             "added_at": "2026-10-14T07:03:56Z",
             "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/abigail_1791961436_0_master.mp4",
             "youtube_video_id": "bFHhY8_nNxc"
+          },
+          {
+            "id": "abigail_1792028101_3",
+            "creator": "Emergency Intercom",
+            "title": "Emergency Intercom - Episode 255 (You are deserving)",
+            "url": "https://www.youtube.com/watch?v=CJEYUzDdFE4",
+            "duration": 3361,
+            "status": "COMPLETED",
+            "added_at": "2026-10-15T01:35:01Z",
+            "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/abigail_1792028101_3_master.mp4",
+            "youtube_video_id": "jYimGboqzfs"
           }
         ]
       },
@@ -2602,6 +2604,69 @@
                   "variant": "A",
                   "title": "Sydney Sweeney\u2019s Bizarre AI Ad Explained",
                   "deployed_at": 1792026507.2211242,
+                  "reason": "Initial A/B test deployment"
+                }
+              ],
+              "metrics": {
+                "views": 0,
+                "likes": 0,
+                "comments": 0,
+                "retention": 0.0,
+                "ctr": 0.0
+              }
+            }
+          },
+          {
+            "id": "abigail_1792028101_3",
+            "source_video": "Emergency Intercom - Episode 255 (You are deserving)",
+            "creator": "Emergency Intercom",
+            "title": "The Real Secret Behind Parenting and Personal #Shorts",
+            "publish_at": "2026-10-16T16:30:00Z",
+            "status": "SCHEDULED",
+            "uploaded": true,
+            "youtube_video_id": "jYimGboqzfs",
+            "youtube_url": "https://www.youtube.com/shorts/jYimGboqzfs",
+            "video_file": "abigail_1792028101_3_master.mp4",
+            "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/abigail_1792028101_3_master.mp4",
+            "duration": 29.55,
+            "hook_summary": "The speaker contrasts their friend's upcoming transition into motherhood with their own hilariously immature sense of self.",
+            "metadata": {
+              "title": "The Real Secret Behind Parenting and Personal #Shorts",
+              "description": "The speaker contrasts their friend's upcoming transition into motherhood with their own hilariously immature sense of self.\n\nKey Takeaways:\n\u2022 Understand the core habit\n\u2022 Avoid the daily trap\n\u2022 Optimize for long-term clarity\n\nFeaturing Emergency Intercom.\n\nWhat's your perspective on this? Comment below! \ud83d\udc47\n\n#Shorts #Podcast #Mindset",
+              "tags": [
+                "Shorts",
+                "Emergency Intercom",
+                "Podcast Clips",
+                "Viral",
+                "Mindset",
+                "Productivity",
+                "Motivation"
+              ],
+              "pinned_comment": "What's your biggest takeaway from this? Drop your thoughts below! \ud83d\udc47",
+              "ab_variants": {
+                "A": {
+                  "angle": "Curiosity Gap",
+                  "title": "The Real Secret Behind Parenting and Personal #Shorts",
+                  "description": "The speaker contrasts their friend's upcoming transition into motherhood with their own hilariously immature sense of self.\n\nKey Takeaways:\n\u2022 Understand the core habit\n\u2022 Avoid the daily trap\n\u2022 Optimize for long-term clarity\n\nFeaturing Emergency Intercom.\n\nWhat's your perspective on this? Comment below! \ud83d\udc47\n\n#Shorts #Podcast #Mindset"
+                },
+                "B": {
+                  "angle": "Contrarian Truth",
+                  "title": "Emergency Intercom: Stop Making This Mistake #Shorts",
+                  "description": "The speaker contrasts their friend's upcoming transition into motherhood with their own hilariously immature sense of self.\n\nKey Takeaways:\n\u2022 Why the common approach fails\n\u2022 The shift high performers make\n\u2022 Practical daily application\n\nFeaturing Emergency Intercom.\n\nDo you agree with this? Let us know below! \ud83d\udc47\n\n#Shorts #Discipline #Growth"
+                },
+                "C": {
+                  "angle": "Actionable Protocol",
+                  "title": "How Emergency Intercom Masters Daily Execution #Shorts",
+                  "description": "The speaker contrasts their friend's upcoming transition into motherhood with their own hilariously immature sense of self.\n\nKey Takeaways:\n\u2022 Step 1: Lock in your standard\n\u2022 Step 2: Eliminate distractions\n\u2022 Step 3: Execute without emotion\n\nFeaturing Emergency Intercom.\n\nWill you implement this today? Tell us below! \ud83d\udc47\n\n#Shorts #Performance #DailyHabits"
+                }
+              },
+              "active_variant": "A",
+              "test_status": "ACTIVE_TEST",
+              "variant_history": [
+                {
+                  "variant": "A",
+                  "title": "The Real Secret Behind Parenting and Personal #Shorts",
+                  "deployed_at": 1792028641.3235688,
                   "reason": "Initial A/B test deployment"
                 }
               ],

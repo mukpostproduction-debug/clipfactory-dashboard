@@ -1,6 +1,6 @@
 {
-  "timestamp": 1792026510.760757,
-  "sync_time_iso": "2026-10-15T01:08:30Z",
+  "timestamp": 1792026511.279595,
+  "sync_time_iso": "2026-10-15T01:08:31Z",
   "default_channel": "muk_podcast",
   "channels": {
     "muk_podcast": {
@@ -2059,17 +2059,17 @@
         },
         "PUBLISHER": {
           "status": "working",
-          "current_task": "Deploying to YouTube (@abiclitsalot) for release 09:00 PM ET (Thu, Oct 15)...",
+          "current_task": "Short SCHEDULED on YouTube: bFHhY8_nNxc (09:00 PM ET (Thu, Oct 15))",
           "last_completed_task": "Uploaded all 3 initial pop-culture Shorts to YouTube (@abiclitsalot)",
           "recent_logs": [
-            "[12:32:22] Generating dynamic A/B metadata for slot: 12:30 PM ET (Thu, Oct 15)...",
             "[12:32:42] Deploying to YouTube (@abiclitsalot) for release 12:30 PM ET (Thu, Oct 15)...",
             "[12:32:57] Short SCHEDULED on YouTube: 1oX5lAgrJbs (12:30 PM ET (Thu, Oct 15))",
             "[18:08:46] Generating dynamic A/B metadata for slot: 05:00 PM ET (Thu, Oct 15)...",
             "[18:09:01] Deploying to YouTube (@abiclitsalot) for release 05:00 PM ET (Thu, Oct 15)...",
             "[18:09:08] Short SCHEDULED on YouTube: jGQup1lcx6Q (05:00 PM ET (Thu, Oct 15))",
             "[21:08:08] Generating dynamic A/B metadata for slot: 09:00 PM ET (Thu, Oct 15)...",
-            "[21:08:27] Deploying to YouTube (@abiclitsalot) for release 09:00 PM ET (Thu, Oct 15)..."
+            "[21:08:27] Deploying to YouTube (@abiclitsalot) for release 09:00 PM ET (Thu, Oct 15)...",
+            "[21:08:31] Short SCHEDULED on YouTube: bFHhY8_nNxc (09:00 PM ET (Thu, Oct 15))"
           ]
         },
         "ANALYST": {
@@ -2221,15 +2221,6 @@
             "duration": 3600,
             "status": "FAILED_DOWNLOAD",
             "added_at": "2026-10-14T05:44:35Z"
-          },
-          {
-            "id": "abigail_1791961436_0",
-            "creator": "Benito Skinner",
-            "title": "Cow Print + Potatoes",
-            "url": "https://www.youtube.com/watch?v=eNHfoy9NDos",
-            "duration": 2765,
-            "status": "PROCESSING",
-            "added_at": "2026-10-14T07:03:56Z"
           }
         ],
         "processing": null,
@@ -2255,6 +2246,17 @@
             "added_at": "2026-10-14T05:30:34Z",
             "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/abigail_1791955834_5_master.mp4",
             "youtube_video_id": "jGQup1lcx6Q"
+          },
+          {
+            "id": "abigail_1791961436_0",
+            "creator": "Benito Skinner",
+            "title": "Cow Print + Potatoes",
+            "url": "https://www.youtube.com/watch?v=eNHfoy9NDos",
+            "duration": 2765,
+            "status": "COMPLETED",
+            "added_at": "2026-10-14T07:03:56Z",
+            "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/abigail_1791961436_0_master.mp4",
+            "youtube_video_id": "bFHhY8_nNxc"
           }
         ]
       },
@@ -2380,6 +2382,72 @@
                   "variant": "A",
                   "title": "The One Thing Men Never Actually Notice...",
                   "deployed_at": 1792015741.800093,
+                  "reason": "Initial A/B test deployment"
+                }
+              ],
+              "metrics": {
+                "views": 0,
+                "likes": 0,
+                "comments": 0,
+                "retention": 0.0,
+                "ctr": 0.0
+              }
+            }
+          },
+          {
+            "id": "abigail_1791961436_0",
+            "source_video": "Cow Print + Potatoes",
+            "creator": "Benito Skinner",
+            "title": "Sydney Sweeney\u2019s Bizarre AI Ad Explained",
+            "publish_at": "2026-10-16T01:00:00Z",
+            "status": "SCHEDULED",
+            "uploaded": true,
+            "youtube_video_id": "bFHhY8_nNxc",
+            "youtube_url": "https://www.youtube.com/shorts/bFHhY8_nNxc",
+            "video_file": "abigail_1791961436_0_master.mp4",
+            "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/abigail_1791961436_0_master.mp4",
+            "duration": 16.42,
+            "hook_summary": "The hosts discuss a bizarre AI-generated gambling ad featuring Sydney Sweeney that looks physically impossible.",
+            "metadata": {
+              "title": "Sydney Sweeney\u2019s Bizarre AI Ad Explained",
+              "description": "Have you seen the viral gambling ad featuring Sydney Sweeney that just doesn't look right? We\u2019re breaking down the uncanny valley nightmare that has everyone talking.\n\n* How AI technology is being misused to impersonate celebrities.\n* Why your eyes might be deceiving you when watching sponsored content.\n* The growing danger of deepfake marketing in the gambling industry.\n\nFeaturing: Benito Skinner\n\nDo you think AI ads should be legally required to carry a massive watermark, or is it already too late to stop them?\n\n#sydneysweeney #deepfake #ai #artificialintelligence #shorts #benitoskinner",
+              "tags": [
+                "Sydney Sweeney",
+                "AI generated",
+                "Deepfake",
+                "Benito Skinner",
+                "AI gambling ad",
+                "Artificial Intelligence",
+                "Fake Ads",
+                "Tech Trends",
+                "Internet Scams",
+                "Sydney Sweeney AI"
+              ],
+              "pinned_comment": "On a scale of 1-10, how creepy was that ad? \ud83d\udea9",
+              "ab_variants": {
+                "A": {
+                  "angle": "Curiosity Gap",
+                  "title": "Sydney Sweeney\u2019s Bizarre AI Ad Explained",
+                  "description": "Have you seen the viral gambling ad featuring Sydney Sweeney that just doesn't look right? We\u2019re breaking down the uncanny valley nightmare that has everyone talking.\n\n* How AI technology is being misused to impersonate celebrities.\n* Why your eyes might be deceiving you when watching sponsored content.\n* The growing danger of deepfake marketing in the gambling industry.\n\nFeaturing: Benito Skinner\n\nDo you think AI ads should be legally required to carry a massive watermark, or is it already too late to stop them?\n\n#sydneysweeney #deepfake #ai #artificialintelligence #shorts #benitoskinner"
+                },
+                "B": {
+                  "angle": "Contrarian Truth",
+                  "title": "Stop Trusting Ads With Your Favorite Stars",
+                  "description": "The Sydney Sweeney gambling ad isn't just a glitch\u2014it's a warning shot for everything you see on your feed. We\u2019re exposing why your favorite celebrity might be a total lie.\n\n* Why AI-generated celebrity endorsements are becoming impossible to spot.\n* The psychological tricks behind these bizarre deepfake campaigns.\n* What you need to look for before clicking any ad on social media.\n\nFeaturing: Benito Skinner\n\nIf we can't tell the difference between real and AI, should we ban celebrity digital likenesses entirely?\n\n#aiads #deepfakes #sydneysweeney #viral #tech #benitoskinner"
+                },
+                "C": {
+                  "angle": "Actionable Protocol",
+                  "title": "How to Spot Fake Sydney Sweeney AI Ads",
+                  "description": "The internet is flooded with fake celebrity gambling ads, and they're getting smarter. Learn the exact red flags to look for so you don't fall for these deceptive AI tactics.\n\n* Identify the common visual 'glitches' in AI-generated faces.\n* How to verify if a celebrity brand partnership is legitimate.\n* Protecting your data from predatory gambling schemes.\n\nFeaturing: Benito Skinner\n\nWhat is the biggest red flag you look for when you see an ad that seems too good to be true?\n\n#scamalert #ai #sydneysweeney #cybersecurity #techtips #benitoskinner"
+                }
+              },
+              "active_variant": "A",
+              "test_status": "ACTIVE_TEST",
+              "variant_history": [
+                {
+                  "variant": "A",
+                  "title": "Sydney Sweeney\u2019s Bizarre AI Ad Explained",
+                  "deployed_at": 1792026507.2211242,
                   "reason": "Initial A/B test deployment"
                 }
               ],

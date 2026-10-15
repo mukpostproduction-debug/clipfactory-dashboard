@@ -1,6 +1,6 @@
 {
-  "timestamp": 1792028550.7390761,
-  "sync_time_iso": "2026-10-15T01:42:30Z",
+  "timestamp": 1792028589.651409,
+  "sync_time_iso": "2026-10-15T01:43:09Z",
   "default_channel": "muk_podcast",
   "channels": {
     "muk_podcast": {
@@ -1426,17 +1426,17 @@
         },
         "PUBLISHER": {
           "status": "working",
-          "current_task": "Generating gaming A/B metadata for slot: 04:30 PM ET (Fri, Oct 16)...",
+          "current_task": "Short SCHEDULED on YouTube: lYdC_nGl-UQ (04:30 PM ET (Fri, Oct 16))",
           "last_completed_task": "Uploaded all 3 initial Clash Royale gaming cuts to YouTube (kenclipsburger420)",
           "recent_logs": [
-            "[17:45:04] YouTube upload error: Unable to find the server at oauth2.googleapis.com",
-            "[20:16:37] Generating gaming A/B metadata for slot: 08:15 PM ET (Thu, Oct 15)...",
             "[20:16:42] Deploying to YouTube (@kenclipsburger420) for release 08:15 PM ET (Thu, Oct 15)...",
             "[20:16:47] Short SCHEDULED on YouTube: -dn1oqE81NU (08:15 PM ET (Thu, Oct 15))",
             "[21:37:49] Generating gaming A/B metadata for slot: 12:00 PM ET (Fri, Oct 16)...",
             "[21:37:57] Deploying to YouTube (@kenclipsburger420) for release 12:00 PM ET (Fri, Oct 16)...",
             "[21:38:12] Short SCHEDULED on YouTube: _ZuJ9BjEoZs (12:00 PM ET (Fri, Oct 16))",
-            "[21:42:15] Generating gaming A/B metadata for slot: 04:30 PM ET (Fri, Oct 16)..."
+            "[21:42:15] Generating gaming A/B metadata for slot: 04:30 PM ET (Fri, Oct 16)...",
+            "[21:43:03] Deploying to YouTube (@kenclipsburger420) for release 04:30 PM ET (Fri, Oct 16)...",
+            "[21:43:09] Short SCHEDULED on YouTube: lYdC_nGl-UQ (04:30 PM ET (Fri, Oct 16))"
           ]
         },
         "ANALYST": {
@@ -1472,15 +1472,6 @@
       },
       "queue": {
         "queue": [
-          {
-            "id": "ken_return_of_peak",
-            "creator": "Ken",
-            "title": "return of peak",
-            "url": "https://www.youtube.com/watch?v=vUkNMTvNzZ8",
-            "duration": 1501,
-            "status": "PROCESSING",
-            "added_at": "2026-10-14T04:30:00Z"
-          },
           {
             "id": "ken_1791972067_0",
             "creator": "Ken",
@@ -1536,6 +1527,17 @@
             "added_at": "2026-10-14T04:30:00Z",
             "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_perfected_deck_master.mp4",
             "youtube_video_id": "_ZuJ9BjEoZs"
+          },
+          {
+            "id": "ken_return_of_peak",
+            "creator": "Ken",
+            "title": "return of peak",
+            "url": "https://www.youtube.com/watch?v=vUkNMTvNzZ8",
+            "duration": 1501,
+            "status": "COMPLETED",
+            "added_at": "2026-10-14T04:30:00Z",
+            "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_return_of_peak_master.mp4",
+            "youtube_video_id": "lYdC_nGl-UQ"
           }
         ]
       },
@@ -1790,6 +1792,73 @@
                   "variant": "A",
                   "title": "Why Pro Players Dropped The Cannon",
                   "deployed_at": 1792028277.374166,
+                  "reason": "Initial A/B test deployment"
+                }
+              ],
+              "metrics": {
+                "views": 0,
+                "likes": 0,
+                "comments": 0,
+                "retention": 0.0,
+                "ctr": 0.0
+              }
+            },
+            "reframed": "gaming_split"
+          },
+          {
+            "id": "ken_return_of_peak",
+            "source_video": "return of peak",
+            "creator": "Ken",
+            "title": "I spent 10,000 hours in a hospital...",
+            "publish_at": "2026-10-16T20:30:00Z",
+            "status": "SCHEDULED",
+            "uploaded": true,
+            "youtube_video_id": "lYdC_nGl-UQ",
+            "youtube_url": "https://www.youtube.com/shorts/lYdC_nGl-UQ",
+            "video_file": "ken_return_of_peak_master.mp4",
+            "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_return_of_peak_master.mp4",
+            "duration": 21.99,
+            "hook_summary": "The creator explains how 10,000 hours spent waiting in a hospital led to him randomly building deck variations for Clash Royale.",
+            "metadata": {
+              "title": "I spent 10,000 hours in a hospital...",
+              "description": "How do you survive thousands of hours in a hospital waiting room? Ken reveals the obsession that kept him sane during the hardest times of his life.\n\n* Turning extreme boredom into a creative outlet.\n* Why this specific game became his mental escape.\n* The power of deep-focus distractions during long waits.\n\nFeaturing: Ken\n\nWhat is the one game or hobby you would choose if you were stuck in a hospital for months? Let us know below.\n\n#shorts #ken #hospital #gaming #storytime #clashroyale",
+              "tags": [
+                "Clash Royale",
+                "hospital story",
+                "gaming",
+                "10000 hours",
+                "personal story",
+                "productivity",
+                "resilience",
+                "mobile gaming",
+                "Ken",
+                "storytime"
+              ],
+              "pinned_comment": "If you had 10,000 hours of waiting time, would you choose to master a game or learn a new professional skill? Be honest.",
+              "ab_variants": {
+                "A": {
+                  "angle": "Curiosity Gap",
+                  "title": "I spent 10,000 hours in a hospital...",
+                  "description": "How do you survive thousands of hours in a hospital waiting room? Ken reveals the obsession that kept him sane during the hardest times of his life.\n\n* Turning extreme boredom into a creative outlet.\n* Why this specific game became his mental escape.\n* The power of deep-focus distractions during long waits.\n\nFeaturing: Ken\n\nWhat is the one game or hobby you would choose if you were stuck in a hospital for months? Let us know below.\n\n#shorts #ken #hospital #gaming #storytime #clashroyale"
+                },
+                "B": {
+                  "angle": "Contrarian Truth",
+                  "title": "Why I played games in the hospital",
+                  "description": "Most people judge hospital patients for 'wasting time' on screens, but this obsession actually saved his mental health.\n\n* Why screen time isn't always the enemy.\n* The hidden benefits of complex deck building.\n* How repetition can provide stability in chaotic environments.\n\nFeaturing: Ken\n\nIs gaming a legitimate way to cope with trauma, or just a mindless distraction? Drop your take in the comments.\n\n#shorts #ken #mentalhealth #clashroyale #gaminglife #perspective"
+                },
+                "C": {
+                  "angle": "Actionable Protocol",
+                  "title": "My 10k Hour Survival Strategy",
+                  "description": "Ken breaks down the exact method he used to master his craft during 10,000 hours of forced downtime in a hospital.\n\n* How to gamify your environment to boost skill acquisition.\n* Finding focus when the world around you is falling apart.\n* The strategy of turning 'waiting' into 'training'.\n\nFeaturing: Ken\n\nWhat is one skill you think you could master if you had 10,000 hours of uninterrupted time? Share your thoughts below!\n\n#shorts #ken #productivity #learning #clashroyale #focus"
+                }
+              },
+              "active_variant": "A",
+              "test_status": "ACTIVE_TEST",
+              "variant_history": [
+                {
+                  "variant": "A",
+                  "title": "I spent 10,000 hours in a hospital...",
+                  "deployed_at": 1792028583.2416341,
                   "reason": "Initial A/B test deployment"
                 }
               ],
@@ -2072,17 +2141,17 @@
       "agents": {
         "SCOUT": {
           "status": "working",
-          "current_task": "Scanning Trisha Paytas, Emergency Intercom, and Benito Skinner feeds...",
+          "current_task": "Pop culture queue up to date. Monitoring for new episodes.",
           "last_completed_task": "Ingested 6 recent episodes across Trisha, Enya/Drew, and Benito",
           "recent_logs": [
-            "[21:35:06] Ingested 11 fresh pop-culture episode(s) into queue.",
             "[21:35:49] Scanning Trisha Paytas, Emergency Intercom, and Benito Skinner feeds...",
             "[21:36:02] Ingested 4 fresh pop-culture episode(s) into queue.",
             "[21:38:03] Scanning Trisha Paytas, Emergency Intercom, and Benito Skinner feeds...",
             "[21:38:17] Pop culture queue up to date. Monitoring for new episodes.",
             "[21:40:17] Scanning Trisha Paytas, Emergency Intercom, and Benito Skinner feeds...",
             "[21:40:28] Pop culture queue up to date. Monitoring for new episodes.",
-            "[21:42:28] Scanning Trisha Paytas, Emergency Intercom, and Benito Skinner feeds..."
+            "[21:42:28] Scanning Trisha Paytas, Emergency Intercom, and Benito Skinner feeds...",
+            "[21:42:43] Pop culture queue up to date. Monitoring for new episodes."
           ]
         },
         "STRATEGIST": {
@@ -2102,17 +2171,17 @@
         },
         "EDITOR": {
           "status": "idle",
-          "current_task": "Downloading highlight segment for: Mikayla Noguiera Comes Clean on Jay...",
+          "current_task": "Rendering 1080x1920 Short with pop captions: Emergency Intercom - Episode 2",
           "last_completed_task": "Rendered Trisha Paytas & Brittany Broski pop culture highlight with Neon Pink/Cyan pop captions",
           "recent_logs": [
-            "[21:00:05] Downloading highlight segment for: OVERCOMPENSATING OFFICIAL TEASER...",
-            "[21:02:18] Downloading highlight segment for: A DAY IN THE LIFE OF LANA DEL REY.....",
             "[21:04:31] Downloading highlight segment for: Slushy Noobz STOLE Trisha\u2019s Dream J...",
             "[21:06:46] Downloading highlight segment for: Cow Print + Potatoes...",
             "[21:06:54] Rendering 1080x1920 Short with pop captions: Cow Print + Potatoes",
             "[21:36:02] Downloading highlight segment for: Jeffree Star CRASHES OUT Over Kori ...",
             "[21:38:17] Downloading highlight segment for: Brittany Broski CLOCKS Her Manipula...",
-            "[21:40:28] Downloading highlight segment for: Mikayla Noguiera Comes Clean on Jay..."
+            "[21:40:28] Downloading highlight segment for: Mikayla Noguiera Comes Clean on Jay...",
+            "[21:42:43] Downloading highlight segment for: Emergency Intercom - Episode 255 (Y...",
+            "[21:42:52] Rendering 1080x1920 Short with pop captions: Emergency Intercom - Episode 2"
           ]
         },
         "COMMENTATOR": {
@@ -2205,7 +2274,7 @@
             "title": "Emergency Intercom - Episode 255 (You are deserving)",
             "url": "https://www.youtube.com/watch?v=CJEYUzDdFE4",
             "duration": 3361,
-            "status": "QUEUED",
+            "status": "PROCESSING",
             "added_at": "2026-10-15T01:35:01Z"
           },
           {

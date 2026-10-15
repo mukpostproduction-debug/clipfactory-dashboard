@@ -1,6 +1,6 @@
 {
-  "timestamp": 1792058048.2967439,
-  "sync_time_iso": "2026-10-15T09:54:08Z",
+  "timestamp": 1792058832.871063,
+  "sync_time_iso": "2026-10-15T10:07:12Z",
   "default_channel": "muk_podcast",
   "channels": {
     "muk_podcast": {
@@ -62,11 +62,11 @@
         "dashboard": {
           "host": "127.0.0.1",
           "port": 8899,
-          "remote_tunnel_url": "https://inf-chose-practitioners-gps.trycloudflare.com",
+          "remote_tunnel_url": "https://prisoners-tommy-alice-yards.trycloudflare.com",
           "tunnel_active": true
         },
         "buffer_target_shorts": 6,
-        "remote_tunnel_url": "https://inf-chose-practitioners-gps.trycloudflare.com",
+        "remote_tunnel_url": "https://prisoners-tommy-alice-yards.trycloudflare.com",
         "channel_id": "UCKqBK1q6-0i735Mn_hiNIig",
         "channel_name": "Muks Breakdown Room",
         "oauth_connected": true
@@ -1365,24 +1365,24 @@
         "emergency_stop": false,
         "autopilot_engaged": true,
         "buffer_target_shorts": 6,
-        "remote_tunnel_url": "https://inf-chose-practitioners-gps.trycloudflare.com",
+        "remote_tunnel_url": "https://prisoners-tommy-alice-yards.trycloudflare.com",
         "channel_id": "UCsBZAgHGlc5GU7r4E-8tUyA",
         "oauth_connected": true
       },
       "agents": {
         "SCOUT": {
           "status": "working",
-          "current_task": "Queue up to date. Waiting for next daily Ken upload.",
+          "current_task": "Ingested 1 fresh Ken video(s) into queue.",
           "last_completed_task": "Ingested 5 recent Ken master videos into source pool",
           "recent_logs": [
-            "[04:18:49] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
-            "[04:18:59] Queue up to date. Waiting for next daily Ken upload.",
             "[04:20:59] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
             "[04:21:09] Queue up to date. Waiting for next daily Ken upload.",
             "[04:54:06] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
             "[04:54:17] Queue up to date. Waiting for next daily Ken upload.",
             "[05:33:24] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
-            "[05:33:36] Queue up to date. Waiting for next daily Ken upload."
+            "[05:33:36] Queue up to date. Waiting for next daily Ken upload.",
+            "[06:06:49] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
+            "[06:06:59] Ingested 1 fresh Ken video(s) into queue."
           ]
         },
         "STRATEGIST": {
@@ -1402,17 +1402,17 @@
         },
         "EDITOR": {
           "status": "working",
-          "current_task": "Rendering gaming_split Short with captions: 2.3 brainrot cycle",
+          "current_task": "Rendering gaming_split Short with captions: they added gifs",
           "last_completed_task": "Rendered 'hp buffed' rage highlight with kinetic pop captions & commentary",
           "recent_logs": [
-            "[17:19:19] Rendering gaming_split Short with captions: the new barrel",
-            "[20:15:45] Rendering gaming_split Short with captions: least busted card",
             "[21:36:03] Downloading highlight segment for: perfected my deck...",
             "[21:36:23] Rendering gaming_split Short with captions: perfected my deck",
             "[21:40:28] Downloading highlight segment for: return of peak...",
             "[21:40:50] Rendering gaming_split Short with captions: return of peak",
             "[21:45:28] Downloading highlight segment for: 2.3 brainrot cycle...",
-            "[21:45:40] Rendering gaming_split Short with captions: 2.3 brainrot cycle"
+            "[21:45:40] Rendering gaming_split Short with captions: 2.3 brainrot cycle",
+            "[06:06:59] Downloading highlight segment for: they added gifs...",
+            "[06:07:06] Rendering gaming_split Short with captions: they added gifs"
           ]
         },
         "COMMENTATOR": {
@@ -1481,6 +1481,15 @@
             "status": "RETRY_UPLOAD",
             "added_at": "2026-10-14T10:01:07Z",
             "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1791972067_0_master.mp4"
+          },
+          {
+            "id": "ken_1792058819_0",
+            "creator": "Ken",
+            "title": "they added gifs",
+            "url": "https://www.youtube.com/watch?v=ibqwuwJ_6x0",
+            "duration": 975,
+            "status": "PROCESSING",
+            "added_at": "2026-10-15T10:06:59Z"
           }
         ],
         "processing": null,
@@ -2135,7 +2144,7 @@
         "emergency_stop": false,
         "autopilot_engaged": true,
         "buffer_target_shorts": 6,
-        "remote_tunnel_url": "https://inf-chose-practitioners-gps.trycloudflare.com",
+        "remote_tunnel_url": "https://prisoners-tommy-alice-yards.trycloudflare.com",
         "channel_id": "UCcNdnkFH4m9C3rUunbOEaSg",
         "oauth_connected": true
       },
@@ -3025,11 +3034,11 @@
     "dashboard": {
       "host": "127.0.0.1",
       "port": 8899,
-      "remote_tunnel_url": "https://inf-chose-practitioners-gps.trycloudflare.com",
+      "remote_tunnel_url": "https://prisoners-tommy-alice-yards.trycloudflare.com",
       "tunnel_active": true
     },
     "buffer_target_shorts": 6,
-    "remote_tunnel_url": "https://inf-chose-practitioners-gps.trycloudflare.com",
+    "remote_tunnel_url": "https://prisoners-tommy-alice-yards.trycloudflare.com",
     "channel_id": "UCKqBK1q6-0i735Mn_hiNIig",
     "channel_name": "Muks Breakdown Room",
     "oauth_connected": true

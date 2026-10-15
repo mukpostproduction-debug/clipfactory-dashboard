@@ -1,6 +1,6 @@
 {
-  "timestamp": 1792078741.817437,
-  "sync_time_iso": "2026-10-15T15:39:01Z",
+  "timestamp": 1792078804.392554,
+  "sync_time_iso": "2026-10-15T15:40:04Z",
   "default_channel": "muk_podcast",
   "channels": {
     "muk_podcast": {
@@ -1456,14 +1456,14 @@
           "current_task": "Queue up to date. Waiting for next daily Ken upload.",
           "last_completed_task": "Ingested 5 recent Ken master videos into source pool",
           "recent_logs": [
-            "[11:31:01] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
-            "[11:31:13] Queue up to date. Waiting for next daily Ken upload.",
             "[11:33:13] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
             "[11:33:23] Queue up to date. Waiting for next daily Ken upload.",
             "[11:35:23] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
             "[11:35:33] Queue up to date. Waiting for next daily Ken upload.",
             "[11:37:33] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
-            "[11:37:43] Queue up to date. Waiting for next daily Ken upload."
+            "[11:37:43] Queue up to date. Waiting for next daily Ken upload.",
+            "[11:39:43] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
+            "[11:39:53] Queue up to date. Waiting for next daily Ken upload."
           ]
         },
         "STRATEGIST": {
@@ -1471,14 +1471,14 @@
           "current_task": "Buffer healthy: 6/6 scheduled Ken Shorts staged.",
           "last_completed_task": "Mapped 3 distinct viral gaming hook angles for initial drops",
           "recent_logs": [
-            "[11:22:30] Buffer healthy: 6/6 scheduled Ken Shorts staged.",
             "[11:24:41] Buffer healthy: 6/6 scheduled Ken Shorts staged.",
             "[11:26:51] Buffer healthy: 6/6 scheduled Ken Shorts staged.",
             "[11:29:01] Buffer healthy: 6/6 scheduled Ken Shorts staged.",
             "[11:31:13] Buffer healthy: 6/6 scheduled Ken Shorts staged.",
             "[11:33:23] Buffer healthy: 6/6 scheduled Ken Shorts staged.",
             "[11:35:33] Buffer healthy: 6/6 scheduled Ken Shorts staged.",
-            "[11:37:43] Buffer healthy: 6/6 scheduled Ken Shorts staged."
+            "[11:37:43] Buffer healthy: 6/6 scheduled Ken Shorts staged.",
+            "[11:39:53] Buffer healthy: 6/6 scheduled Ken Shorts staged."
           ]
         },
         "EDITOR": {
@@ -1525,14 +1525,14 @@
           "current_task": "Auditing velocity of active Ken Clash Royale Shorts...",
           "last_completed_task": "Calibrated gaming threshold: >15 views/hr within 4h",
           "recent_logs": [
-            "[11:22:30] Auditing velocity of active Ken Clash Royale Shorts...",
             "[11:24:41] Auditing velocity of active Ken Clash Royale Shorts...",
             "[11:26:51] Auditing velocity of active Ken Clash Royale Shorts...",
             "[11:29:01] Auditing velocity of active Ken Clash Royale Shorts...",
             "[11:31:13] Auditing velocity of active Ken Clash Royale Shorts...",
             "[11:33:23] Auditing velocity of active Ken Clash Royale Shorts...",
             "[11:35:33] Auditing velocity of active Ken Clash Royale Shorts...",
-            "[11:37:43] Auditing velocity of active Ken Clash Royale Shorts..."
+            "[11:37:43] Auditing velocity of active Ken Clash Royale Shorts...",
+            "[11:39:53] Auditing velocity of active Ken Clash Royale Shorts..."
           ]
         },
         "WATCHDOG": {
@@ -1540,14 +1540,14 @@
           "current_task": "Verifying Supercell fan policy: 0 claims, 0 strikes.",
           "last_completed_task": "Audited source parameters: strictly <30s segment rule active",
           "recent_logs": [
-            "[11:22:30] Verifying Supercell fan policy: 0 claims, 0 strikes.",
             "[11:24:41] Verifying Supercell fan policy: 0 claims, 0 strikes.",
             "[11:26:51] Verifying Supercell fan policy: 0 claims, 0 strikes.",
             "[11:29:01] Verifying Supercell fan policy: 0 claims, 0 strikes.",
             "[11:31:13] Verifying Supercell fan policy: 0 claims, 0 strikes.",
             "[11:33:23] Verifying Supercell fan policy: 0 claims, 0 strikes.",
             "[11:35:33] Verifying Supercell fan policy: 0 claims, 0 strikes.",
-            "[11:37:43] Verifying Supercell fan policy: 0 claims, 0 strikes."
+            "[11:37:43] Verifying Supercell fan policy: 0 claims, 0 strikes.",
+            "[11:39:53] Verifying Supercell fan policy: 0 claims, 0 strikes."
           ]
         }
       },
@@ -2301,17 +2301,17 @@
       "agents": {
         "SCOUT": {
           "status": "working",
-          "current_task": "Pop culture queue up to date. Monitoring for new episodes.",
+          "current_task": "Ingested 1 fresh pop-culture episode(s) into queue.",
           "last_completed_task": "Ingested 6 recent episodes across Trisha, Enya/Drew, and Benito",
           "recent_logs": [
-            "[11:30:57] Scanning Trisha Paytas, Emergency Intercom, and Benito Skinner feeds...",
-            "[11:31:06] Pop culture queue up to date. Monitoring for new episodes.",
             "[11:33:06] Scanning Trisha Paytas, Emergency Intercom, and Benito Skinner feeds...",
             "[11:33:16] Pop culture queue up to date. Monitoring for new episodes.",
             "[11:35:16] Scanning Trisha Paytas, Emergency Intercom, and Benito Skinner feeds...",
             "[11:35:25] Pop culture queue up to date. Monitoring for new episodes.",
             "[11:37:25] Scanning Trisha Paytas, Emergency Intercom, and Benito Skinner feeds...",
-            "[11:37:33] Pop culture queue up to date. Monitoring for new episodes."
+            "[11:37:33] Pop culture queue up to date. Monitoring for new episodes.",
+            "[11:39:34] Scanning Trisha Paytas, Emergency Intercom, and Benito Skinner feeds...",
+            "[11:39:43] Ingested 1 fresh pop-culture episode(s) into queue."
           ]
         },
         "STRATEGIST": {
@@ -2331,17 +2331,17 @@
         },
         "EDITOR": {
           "status": "idle",
-          "current_task": "Rendering 1080x1920 Short with pop captions: A DAY IN THE LIFE OF LANA DEL ",
+          "current_task": "Downloading highlight segment for: Trisha's Going Through It & Everyth...",
           "last_completed_task": "Rendered Trisha Paytas & Brittany Broski pop culture highlight with Neon Pink/Cyan pop captions",
           "recent_logs": [
-            "[22:06:40] Downloading highlight segment for: A DAY IN THE LIFE OF LANA DEL REY.....",
             "[22:08:53] Downloading highlight segment for: Brittany Broski CLOCKS Her Manipula...",
             "[22:08:58] Rendering 1080x1920 Short with pop captions: Brittany Broski CLOCKS Her Man",
             "[22:12:43] Downloading highlight segment for: Mikayla Noguiera Comes Clean on Jay...",
             "[22:12:46] Rendering 1080x1920 Short with pop captions: Mikayla Noguiera Comes Clean o",
             "[22:16:48] Downloading highlight segment for: OVERCOMPENSATING OFFICIAL TEASER | ...",
             "[22:19:01] Downloading highlight segment for: A DAY IN THE LIFE OF LANA DEL REY.....",
-            "[22:19:06] Rendering 1080x1920 Short with pop captions: A DAY IN THE LIFE OF LANA DEL "
+            "[22:19:06] Rendering 1080x1920 Short with pop captions: A DAY IN THE LIFE OF LANA DEL ",
+            "[11:39:43] Downloading highlight segment for: Trisha's Going Through It & Everyth..."
           ]
         },
         "COMMENTATOR": {
@@ -2373,14 +2373,14 @@
           "current_task": "Auditing velocity of active Pop Culture & Comedy Shorts...",
           "last_completed_task": "Calibrated benchmark: >25 views/hr in first 3 hours",
           "recent_logs": [
-            "[11:22:29] Auditing velocity of active Pop Culture & Comedy Shorts...",
             "[11:24:38] Auditing velocity of active Pop Culture & Comedy Shorts...",
             "[11:26:47] Auditing velocity of active Pop Culture & Comedy Shorts...",
             "[11:28:57] Auditing velocity of active Pop Culture & Comedy Shorts...",
             "[11:31:06] Auditing velocity of active Pop Culture & Comedy Shorts...",
             "[11:33:16] Auditing velocity of active Pop Culture & Comedy Shorts...",
             "[11:35:25] Auditing velocity of active Pop Culture & Comedy Shorts...",
-            "[11:37:33] Auditing velocity of active Pop Culture & Comedy Shorts..."
+            "[11:37:33] Auditing velocity of active Pop Culture & Comedy Shorts...",
+            "[11:39:44] Auditing velocity of active Pop Culture & Comedy Shorts..."
           ]
         },
         "WATCHDOG": {
@@ -2388,14 +2388,14 @@
           "current_task": "Verifying Fair Use compliance: 100% transformative commentary.",
           "last_completed_task": "Validated commentary & transformative overlay standards",
           "recent_logs": [
-            "[11:22:29] Verifying Fair Use compliance: 100% transformative commentary.",
             "[11:24:38] Verifying Fair Use compliance: 100% transformative commentary.",
             "[11:26:47] Verifying Fair Use compliance: 100% transformative commentary.",
             "[11:28:57] Verifying Fair Use compliance: 100% transformative commentary.",
             "[11:31:06] Verifying Fair Use compliance: 100% transformative commentary.",
             "[11:33:16] Verifying Fair Use compliance: 100% transformative commentary.",
             "[11:35:25] Verifying Fair Use compliance: 100% transformative commentary.",
-            "[11:37:33] Verifying Fair Use compliance: 100% transformative commentary."
+            "[11:37:33] Verifying Fair Use compliance: 100% transformative commentary.",
+            "[11:39:44] Verifying Fair Use compliance: 100% transformative commentary."
           ]
         }
       },
@@ -2524,6 +2524,15 @@
             "status": "RETRY_UPLOAD",
             "added_at": "2026-10-15T01:36:02Z",
             "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/abigail_1792028162_3_master.mp4"
+          },
+          {
+            "id": "abigail_1792078777_0",
+            "creator": "Trisha Paytas",
+            "title": "Trisha's Going Through It & Everything's Falling Apart\u2026 | Just Trish Ep. 320",
+            "url": "https://www.youtube.com/watch?v=L11rc_M8wa8",
+            "duration": 3600,
+            "status": "FAILED_DOWNLOAD",
+            "added_at": "2026-10-15T15:39:37Z"
           }
         ],
         "processing": null,

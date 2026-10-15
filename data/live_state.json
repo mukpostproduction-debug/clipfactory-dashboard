@@ -1,6 +1,6 @@
 {
-  "timestamp": 1792028118.2280178,
-  "sync_time_iso": "2026-10-15T01:35:18Z",
+  "timestamp": 1792028174.481735,
+  "sync_time_iso": "2026-10-15T01:36:14Z",
   "default_channel": "muk_podcast",
   "channels": {
     "muk_podcast": {
@@ -1375,14 +1375,14 @@
           "current_task": "Queue up to date. Waiting for next daily Ken upload.",
           "last_completed_task": "Ingested 5 recent Ken master videos into source pool",
           "recent_logs": [
-            "[21:27:51] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
-            "[21:28:02] Queue up to date. Waiting for next daily Ken upload.",
             "[21:30:02] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
             "[21:30:18] Queue up to date. Waiting for next daily Ken upload.",
             "[21:32:18] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
             "[21:32:30] Queue up to date. Waiting for next daily Ken upload.",
             "[21:34:30] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
-            "[21:34:44] Queue up to date. Waiting for next daily Ken upload."
+            "[21:34:44] Queue up to date. Waiting for next daily Ken upload.",
+            "[21:35:49] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
+            "[21:36:03] Queue up to date. Waiting for next daily Ken upload."
           ]
         },
         "STRATEGIST": {
@@ -1402,17 +1402,17 @@
         },
         "EDITOR": {
           "status": "working",
-          "current_task": "Rendering gaming_split Short with captions: least busted card",
+          "current_task": "Downloading highlight segment for: perfected my deck...",
           "last_completed_task": "Rendered 'hp buffed' rage highlight with kinetic pop captions & commentary",
           "recent_logs": [
-            "[EDITOR] Transcribed 'hp buffed' via faster-whisper (310 words)",
             "[EDITOR] Viral highlight detected: 49.0s - 76.1s (27.1s duration)",
             "[EDITOR] Kinetic pop caption style loaded: Impact 76pt Yellow/Cyan",
             "[EDITOR] Transformative commentary synthesized (7.6s compliance layer)",
             "[EDITOR] Master cut rendered: ken_clip_01_rage_master.mp4 (1080x1920 30FPS)",
             "[12:07:37] Rendering gaming_split Short with captions: hp buffed",
             "[17:19:19] Rendering gaming_split Short with captions: the new barrel",
-            "[20:15:45] Rendering gaming_split Short with captions: least busted card"
+            "[20:15:45] Rendering gaming_split Short with captions: least busted card",
+            "[21:36:03] Downloading highlight segment for: perfected my deck..."
           ]
         },
         "COMMENTATOR": {
@@ -1478,7 +1478,7 @@
             "title": "perfected my deck",
             "url": "https://www.youtube.com/watch?v=jx3uURON3MY",
             "duration": 1279,
-            "status": "QUEUED",
+            "status": "PROCESSING",
             "added_at": "2026-10-14T04:30:00Z"
           },
           {
@@ -2004,17 +2004,17 @@
       "agents": {
         "SCOUT": {
           "status": "working",
-          "current_task": "Ingested 11 fresh pop-culture episode(s) into queue.",
+          "current_task": "Ingested 4 fresh pop-culture episode(s) into queue.",
           "last_completed_task": "Ingested 6 recent episodes across Trisha, Enya/Drew, and Benito",
           "recent_logs": [
-            "[21:28:11] Scanning Trisha Paytas, Emergency Intercom, and Benito Skinner feeds...",
-            "[21:28:24] Pop culture queue up to date. Monitoring for new episodes.",
             "[21:30:24] Scanning Trisha Paytas, Emergency Intercom, and Benito Skinner feeds...",
             "[21:30:39] Pop culture queue up to date. Monitoring for new episodes.",
             "[21:32:39] Scanning Trisha Paytas, Emergency Intercom, and Benito Skinner feeds...",
             "[21:32:51] Pop culture queue up to date. Monitoring for new episodes.",
             "[21:34:51] Scanning Trisha Paytas, Emergency Intercom, and Benito Skinner feeds...",
-            "[21:35:06] Ingested 11 fresh pop-culture episode(s) into queue."
+            "[21:35:06] Ingested 11 fresh pop-culture episode(s) into queue.",
+            "[21:35:49] Scanning Trisha Paytas, Emergency Intercom, and Benito Skinner feeds...",
+            "[21:36:02] Ingested 4 fresh pop-culture episode(s) into queue."
           ]
         },
         "STRATEGIST": {
@@ -2034,17 +2034,17 @@
         },
         "EDITOR": {
           "status": "idle",
-          "current_task": "Rendering 1080x1920 Short with pop captions: Cow Print + Potatoes",
+          "current_task": "Downloading highlight segment for: Jeffree Star CRASHES OUT Over Kori ...",
           "last_completed_task": "Rendered Trisha Paytas & Brittany Broski pop culture highlight with Neon Pink/Cyan pop captions",
           "recent_logs": [
-            "[18:04:18] Downloading highlight segment for: Movies on a Plane + Not Overthinkin...",
             "[18:06:36] Downloading highlight segment for: Blind Boxes + Popstar Academy...",
             "[18:06:43] Rendering 1080x1920 Short with pop captions: Blind Boxes + Popstar Academy",
             "[21:00:05] Downloading highlight segment for: OVERCOMPENSATING OFFICIAL TEASER...",
             "[21:02:18] Downloading highlight segment for: A DAY IN THE LIFE OF LANA DEL REY.....",
             "[21:04:31] Downloading highlight segment for: Slushy Noobz STOLE Trisha\u2019s Dream J...",
             "[21:06:46] Downloading highlight segment for: Cow Print + Potatoes...",
-            "[21:06:54] Rendering 1080x1920 Short with pop captions: Cow Print + Potatoes"
+            "[21:06:54] Rendering 1080x1920 Short with pop captions: Cow Print + Potatoes",
+            "[21:36:02] Downloading highlight segment for: Jeffree Star CRASHES OUT Over Kori ..."
           ]
         },
         "COMMENTATOR": {
@@ -2076,14 +2076,14 @@
           "current_task": "Auditing velocity of active Pop Culture & Comedy Shorts...",
           "last_completed_task": "Calibrated benchmark: >25 views/hr in first 3 hours",
           "recent_logs": [
-            "[21:19:34] Auditing velocity of active Pop Culture & Comedy Shorts...",
             "[21:21:46] Auditing velocity of active Pop Culture & Comedy Shorts...",
             "[21:23:58] Auditing velocity of active Pop Culture & Comedy Shorts...",
             "[21:26:11] Auditing velocity of active Pop Culture & Comedy Shorts...",
             "[21:28:24] Auditing velocity of active Pop Culture & Comedy Shorts...",
             "[21:30:39] Auditing velocity of active Pop Culture & Comedy Shorts...",
             "[21:32:51] Auditing velocity of active Pop Culture & Comedy Shorts...",
-            "[21:35:06] Auditing velocity of active Pop Culture & Comedy Shorts..."
+            "[21:35:06] Auditing velocity of active Pop Culture & Comedy Shorts...",
+            "[21:36:03] Auditing velocity of active Pop Culture & Comedy Shorts..."
           ]
         },
         "WATCHDOG": {
@@ -2091,14 +2091,14 @@
           "current_task": "Verifying Fair Use compliance: 100% transformative commentary.",
           "last_completed_task": "Validated commentary & transformative overlay standards",
           "recent_logs": [
-            "[21:19:34] Verifying Fair Use compliance: 100% transformative commentary.",
             "[21:21:46] Verifying Fair Use compliance: 100% transformative commentary.",
             "[21:23:58] Verifying Fair Use compliance: 100% transformative commentary.",
             "[21:26:11] Verifying Fair Use compliance: 100% transformative commentary.",
             "[21:28:24] Verifying Fair Use compliance: 100% transformative commentary.",
             "[21:30:39] Verifying Fair Use compliance: 100% transformative commentary.",
             "[21:32:51] Verifying Fair Use compliance: 100% transformative commentary.",
-            "[21:35:06] Verifying Fair Use compliance: 100% transformative commentary."
+            "[21:35:06] Verifying Fair Use compliance: 100% transformative commentary.",
+            "[21:36:03] Verifying Fair Use compliance: 100% transformative commentary."
           ]
         }
       },
@@ -2110,7 +2110,7 @@
             "title": "Jeffree Star CRASHES OUT Over Kori King + Emma Chamberlain RUNS AWAY From James Charles",
             "url": "Just Trish",
             "duration": 3600,
-            "status": "QUEUED",
+            "status": "FAILED_DOWNLOAD",
             "added_at": "2026-10-15T01:34:57Z"
           },
           {
@@ -2202,6 +2202,42 @@
             "duration": 3600,
             "status": "QUEUED",
             "added_at": "2026-10-15T01:35:06Z"
+          },
+          {
+            "id": "abigail_1792028155_0",
+            "creator": "Trisha Paytas",
+            "title": "Brittany Broski CLOCKS Her Manipulative Ex Oliver Mills + is DWTS Rigged? | Just Trish Ep. 318",
+            "url": "https://www.youtube.com/watch?v=kSLwIWxf1Ys",
+            "duration": 8175,
+            "status": "QUEUED",
+            "added_at": "2026-10-15T01:35:55Z"
+          },
+          {
+            "id": "abigail_1792028155_1",
+            "creator": "Trisha Paytas",
+            "title": "Mikayla Noguiera Comes Clean on Jay Shetty + Trish Lost a Job to Slushy Noobz | Just Trish Ep. 317",
+            "url": "https://www.youtube.com/watch?v=otBGdhJYWNc",
+            "duration": 7798,
+            "status": "QUEUED",
+            "added_at": "2026-10-15T01:35:55Z"
+          },
+          {
+            "id": "abigail_1792028162_2",
+            "creator": "Benito Skinner",
+            "title": "OVERCOMPENSATING OFFICIAL TEASER | BENITO SKINNER (2025)",
+            "url": "https://www.youtube.com/watch?v=oITip6WOoXk",
+            "duration": 53,
+            "status": "QUEUED",
+            "added_at": "2026-10-15T01:36:02Z"
+          },
+          {
+            "id": "abigail_1792028162_3",
+            "creator": "Benito Skinner",
+            "title": "A DAY IN THE LIFE OF LANA DEL REY... | Benito Skinner (2023)",
+            "url": "https://www.youtube.com/watch?v=1cT4gcguatw",
+            "duration": 121,
+            "status": "QUEUED",
+            "added_at": "2026-10-15T01:36:02Z"
           }
         ],
         "processing": null,

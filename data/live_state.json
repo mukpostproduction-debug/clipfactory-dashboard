@@ -1,6 +1,6 @@
 {
-  "timestamp": 1792096389.535267,
-  "sync_time_iso": "2026-10-15T20:33:09Z",
+  "timestamp": 1792096451.1703181,
+  "sync_time_iso": "2026-10-15T20:34:11Z",
   "default_channel": "muk_podcast",
   "channels": {
     "muk_podcast": {
@@ -37,9 +37,9 @@
           "oauth_connected": true
         },
         "compliance": {
-          "max_source_segment_sec": 58.0,
+          "max_source_segment_sec": 38.0,
           "min_total_short_sec": 20.0,
-          "max_total_short_sec": 59.0,
+          "max_total_short_sec": 38.0,
           "require_commentary_layer": true,
           "auto_downweight_claim_count": 1,
           "blacklist_strike_count": 1,
@@ -1383,38 +1383,12 @@
       },
       "creators": [
         {
-          "id": "hubermanlab",
-          "name": "Andrew Huberman",
-          "channel_id": "UC2D2CMWXMOVWx7giW1n3LIg",
-          "niche": "Health & Neuroscience",
-          "clip_policy": "friendly",
-          "risk_score": 0.05,
-          "claims_count": 0,
-          "strikes_count": 0,
-          "status": "active",
-          "priority": 1,
-          "last_scouted": null
-        },
-        {
           "id": "theovon",
           "name": "Theo Von (This Past Weekend)",
           "channel_id": "UC5AQE337YiUex384Q45Es9w",
-          "niche": "Comedy & Culture",
+          "niche": "Comedy, Culture & Chaos",
           "clip_policy": "friendly",
           "risk_score": 0.08,
-          "claims_count": 0,
-          "strikes_count": 0,
-          "status": "active",
-          "priority": 1,
-          "last_scouted": null
-        },
-        {
-          "id": "lexfridman",
-          "name": "Lex Fridman",
-          "channel_id": "UCSHZKyawb77ixDdsGog4iWA",
-          "niche": "AI, Science & Tech",
-          "clip_policy": "friendly",
-          "risk_score": 0.05,
           "claims_count": 0,
           "strikes_count": 0,
           "status": "active",
@@ -1425,9 +1399,35 @@
           "id": "diaryofaceo",
           "name": "Steven Bartlett (The Diary Of A CEO)",
           "channel_id": "UCGq-a57w-aPwyi3pW7XLiHw",
-          "niche": "Business & Psychology",
+          "niche": "High-Stakes Business, Psychology & Truth",
           "clip_policy": "friendly",
           "risk_score": 0.1,
+          "claims_count": 0,
+          "strikes_count": 0,
+          "status": "active",
+          "priority": 1,
+          "last_scouted": null
+        },
+        {
+          "id": "myfirstmillion",
+          "name": "My First Million",
+          "channel_id": "UCi6BAXv1N8rA3hUuN3fS3sw",
+          "niche": "Entrepreneurship & Viral Hustle Breakdown",
+          "clip_policy": "friendly",
+          "risk_score": 0.05,
+          "claims_count": 0,
+          "strikes_count": 0,
+          "status": "active",
+          "priority": 1,
+          "last_scouted": null
+        },
+        {
+          "id": "lexfridman",
+          "name": "Lex Fridman",
+          "channel_id": "UCSHZKyawb77ixDdsGog4iWA",
+          "niche": "AI, Future Tech & Philosophy",
+          "clip_policy": "friendly",
+          "risk_score": 0.05,
           "claims_count": 0,
           "strikes_count": 0,
           "status": "active",
@@ -1438,7 +1438,7 @@
           "id": "colinandsamir",
           "name": "Colin and Samir",
           "channel_id": "UCamLstJyCa-t5gfZegxsFMw",
-          "niche": "Creator Economy",
+          "niche": "Creator Economy & Media Insights",
           "clip_policy": "friendly",
           "risk_score": 0.05,
           "claims_count": 0,
@@ -1448,16 +1448,16 @@
           "last_scouted": null
         },
         {
-          "id": "myfirstmillion",
-          "name": "My First Million",
-          "channel_id": "UCi6BAXv1N8rA3hUuN3fS3sw",
-          "niche": "Entrepreneurship & Investing",
+          "id": "hubermanlab",
+          "name": "Andrew Huberman",
+          "channel_id": "UC2D2CMWXMOVWx7giW1n3LIg",
+          "niche": "Health & Neuroscience Protocols",
           "clip_policy": "friendly",
           "risk_score": 0.05,
           "claims_count": 0,
           "strikes_count": 0,
           "status": "active",
-          "priority": 1,
+          "priority": 3,
           "last_scouted": null
         }
       ],
@@ -1520,9 +1520,9 @@
           "audio_integrated_lufs": -13.5
         },
         "compliance": {
-          "max_source_segment_sec": 58.0,
+          "max_source_segment_sec": 32.0,
           "min_total_short_sec": 20.0,
-          "max_total_short_sec": 58.0,
+          "max_total_short_sec": 32.0,
           "supercell_fan_policy_compliant": true,
           "require_commentary_layer": true
         },
@@ -1541,14 +1541,14 @@
           "current_task": "Queue up to date. Waiting for next daily Ken upload.",
           "last_completed_task": "Ingested 5 recent Ken master videos into source pool",
           "recent_logs": [
-            "[16:24:27] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
-            "[16:24:39] Queue up to date. Waiting for next daily Ken upload.",
             "[16:26:39] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
             "[16:26:53] Queue up to date. Waiting for next daily Ken upload.",
             "[16:28:53] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
             "[16:29:05] Queue up to date. Waiting for next daily Ken upload.",
             "[16:31:05] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
-            "[16:31:16] Queue up to date. Waiting for next daily Ken upload."
+            "[16:31:16] Queue up to date. Waiting for next daily Ken upload.",
+            "[16:33:16] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
+            "[16:33:32] Queue up to date. Waiting for next daily Ken upload."
           ]
         },
         "STRATEGIST": {
@@ -1556,14 +1556,14 @@
           "current_task": "No queued Ken candidates ready. Waiting for SCOUT.",
           "last_completed_task": "Mapped 3 distinct viral gaming hook angles for initial drops",
           "recent_logs": [
-            "[16:15:40] No queued Ken candidates ready. Waiting for SCOUT.",
             "[16:17:52] No queued Ken candidates ready. Waiting for SCOUT.",
             "[16:20:17] No queued Ken candidates ready. Waiting for SCOUT.",
             "[16:22:27] No queued Ken candidates ready. Waiting for SCOUT.",
             "[16:24:39] No queued Ken candidates ready. Waiting for SCOUT.",
             "[16:26:53] No queued Ken candidates ready. Waiting for SCOUT.",
             "[16:29:05] No queued Ken candidates ready. Waiting for SCOUT.",
-            "[16:31:16] No queued Ken candidates ready. Waiting for SCOUT."
+            "[16:31:16] No queued Ken candidates ready. Waiting for SCOUT.",
+            "[16:33:32] No queued Ken candidates ready. Waiting for SCOUT."
           ]
         },
         "EDITOR": {
@@ -1610,14 +1610,14 @@
           "current_task": "Auditing velocity of active Ken Clash Royale Shorts...",
           "last_completed_task": "Calibrated gaming threshold: >15 views/hr within 4h",
           "recent_logs": [
-            "[16:15:40] Auditing velocity of active Ken Clash Royale Shorts...",
             "[16:17:52] Auditing velocity of active Ken Clash Royale Shorts...",
             "[16:20:17] Auditing velocity of active Ken Clash Royale Shorts...",
             "[16:22:27] Auditing velocity of active Ken Clash Royale Shorts...",
             "[16:24:39] Auditing velocity of active Ken Clash Royale Shorts...",
             "[16:26:53] Auditing velocity of active Ken Clash Royale Shorts...",
             "[16:29:05] Auditing velocity of active Ken Clash Royale Shorts...",
-            "[16:31:16] Auditing velocity of active Ken Clash Royale Shorts..."
+            "[16:31:16] Auditing velocity of active Ken Clash Royale Shorts...",
+            "[16:33:32] Auditing velocity of active Ken Clash Royale Shorts..."
           ]
         },
         "WATCHDOG": {
@@ -1625,14 +1625,14 @@
           "current_task": "Verifying Supercell fan policy: 0 claims, 0 strikes.",
           "last_completed_task": "Audited source parameters: strictly <30s segment rule active",
           "recent_logs": [
-            "[16:15:40] Verifying Supercell fan policy: 0 claims, 0 strikes.",
             "[16:17:52] Verifying Supercell fan policy: 0 claims, 0 strikes.",
             "[16:20:17] Verifying Supercell fan policy: 0 claims, 0 strikes.",
             "[16:22:27] Verifying Supercell fan policy: 0 claims, 0 strikes.",
             "[16:24:39] Verifying Supercell fan policy: 0 claims, 0 strikes.",
             "[16:26:53] Verifying Supercell fan policy: 0 claims, 0 strikes.",
             "[16:29:05] Verifying Supercell fan policy: 0 claims, 0 strikes.",
-            "[16:31:16] Verifying Supercell fan policy: 0 claims, 0 strikes."
+            "[16:31:16] Verifying Supercell fan policy: 0 claims, 0 strikes.",
+            "[16:33:32] Verifying Supercell fan policy: 0 claims, 0 strikes."
           ]
         }
       },
@@ -2309,20 +2309,26 @@
             "name": "Trisha Paytas",
             "handle": "@JustTrishPodcast",
             "url": "https://www.youtube.com/@JustTrishPodcast",
-            "category": "Celebrity Tea & Unfiltered Takes"
+            "category": "Celebrity Tea & Unfiltered Takes",
+            "priority": 1,
+            "target_weight_pct": 70
           },
           {
             "name": "Benito Skinner",
             "handle": "@bennydrama7",
             "url": "https://www.youtube.com/@bennydrama7",
             "podcast_url": "https://www.youtube.com/@ridethepod",
-            "category": "Comedy Sketches & Cultural Satire"
+            "category": "Comedy Sketches & Cultural Satire",
+            "priority": 2,
+            "target_weight_pct": 15
           },
           {
             "name": "Emergency Intercom",
             "handle": "@emergencyintercom",
             "url": "https://www.youtube.com/@emergencyintercom",
-            "category": "Unhinged Banter & Chaos Comedy"
+            "category": "Unhinged Banter & Chaos Comedy",
+            "priority": 2,
+            "target_weight_pct": 15
           }
         ],
         "publishing": {
@@ -2368,9 +2374,9 @@
           "audio_integrated_lufs": -14.0
         },
         "compliance": {
-          "max_source_segment_sec": 58.0,
+          "max_source_segment_sec": 32.0,
           "min_total_short_sec": 20.0,
-          "max_total_short_sec": 58.0,
+          "max_total_short_sec": 32.0,
           "require_commentary_layer": true,
           "fair_use_transformative": true
         },
@@ -2389,14 +2395,14 @@
           "current_task": "Pop culture queue up to date. Monitoring for new episodes.",
           "last_completed_task": "Ingested 6 recent episodes across Trisha, Enya/Drew, and Benito",
           "recent_logs": [
-            "[16:25:08] Scanning Trisha Paytas, Emergency Intercom, and Benito Skinner feeds...",
-            "[16:25:18] Pop culture queue up to date. Monitoring for new episodes.",
             "[16:27:18] Scanning Trisha Paytas, Emergency Intercom, and Benito Skinner feeds...",
             "[16:27:29] Pop culture queue up to date. Monitoring for new episodes.",
             "[16:29:29] Scanning Trisha Paytas, Emergency Intercom, and Benito Skinner feeds...",
             "[16:29:40] Pop culture queue up to date. Monitoring for new episodes.",
             "[16:31:40] Scanning Trisha Paytas, Emergency Intercom, and Benito Skinner feeds...",
-            "[16:31:51] Pop culture queue up to date. Monitoring for new episodes."
+            "[16:31:51] Pop culture queue up to date. Monitoring for new episodes.",
+            "[16:33:51] Scanning Trisha Paytas, Emergency Intercom, and Benito Skinner feeds...",
+            "[16:34:02] Pop culture queue up to date. Monitoring for new episodes."
           ]
         },
         "STRATEGIST": {
@@ -2404,14 +2410,14 @@
           "current_task": "No queued candidates ready. Waiting for SCOUT.",
           "last_completed_task": "Calibrated 3 pop-culture hook angles: Shock Tea, Chaos Banter, Satirical Voice Mimicry",
           "recent_logs": [
-            "[16:16:37] No queued candidates ready. Waiting for SCOUT.",
             "[16:18:47] No queued candidates ready. Waiting for SCOUT.",
             "[16:20:57] No queued candidates ready. Waiting for SCOUT.",
             "[16:23:08] No queued candidates ready. Waiting for SCOUT.",
             "[16:25:18] No queued candidates ready. Waiting for SCOUT.",
             "[16:27:29] No queued candidates ready. Waiting for SCOUT.",
             "[16:29:40] No queued candidates ready. Waiting for SCOUT.",
-            "[16:31:51] No queued candidates ready. Waiting for SCOUT."
+            "[16:31:51] No queued candidates ready. Waiting for SCOUT.",
+            "[16:34:02] No queued candidates ready. Waiting for SCOUT."
           ]
         },
         "EDITOR": {
@@ -2458,14 +2464,14 @@
           "current_task": "Auditing velocity of active Pop Culture & Comedy Shorts...",
           "last_completed_task": "Calibrated benchmark: >25 views/hr in first 3 hours",
           "recent_logs": [
-            "[16:16:37] Auditing velocity of active Pop Culture & Comedy Shorts...",
             "[16:18:47] Auditing velocity of active Pop Culture & Comedy Shorts...",
             "[16:20:57] Auditing velocity of active Pop Culture & Comedy Shorts...",
             "[16:23:08] Auditing velocity of active Pop Culture & Comedy Shorts...",
             "[16:25:18] Auditing velocity of active Pop Culture & Comedy Shorts...",
             "[16:27:29] Auditing velocity of active Pop Culture & Comedy Shorts...",
             "[16:29:40] Auditing velocity of active Pop Culture & Comedy Shorts...",
-            "[16:31:51] Auditing velocity of active Pop Culture & Comedy Shorts..."
+            "[16:31:51] Auditing velocity of active Pop Culture & Comedy Shorts...",
+            "[16:34:02] Auditing velocity of active Pop Culture & Comedy Shorts..."
           ]
         },
         "WATCHDOG": {
@@ -2473,14 +2479,14 @@
           "current_task": "Verifying Fair Use compliance: 100% transformative commentary.",
           "last_completed_task": "Validated commentary & transformative overlay standards",
           "recent_logs": [
-            "[16:16:37] Verifying Fair Use compliance: 100% transformative commentary.",
             "[16:18:47] Verifying Fair Use compliance: 100% transformative commentary.",
             "[16:20:57] Verifying Fair Use compliance: 100% transformative commentary.",
             "[16:23:08] Verifying Fair Use compliance: 100% transformative commentary.",
             "[16:25:18] Verifying Fair Use compliance: 100% transformative commentary.",
             "[16:27:29] Verifying Fair Use compliance: 100% transformative commentary.",
             "[16:29:40] Verifying Fair Use compliance: 100% transformative commentary.",
-            "[16:31:51] Verifying Fair Use compliance: 100% transformative commentary."
+            "[16:31:51] Verifying Fair Use compliance: 100% transformative commentary.",
+            "[16:34:02] Verifying Fair Use compliance: 100% transformative commentary."
           ]
         }
       },
@@ -3253,9 +3259,9 @@
       "oauth_connected": true
     },
     "compliance": {
-      "max_source_segment_sec": 58.0,
+      "max_source_segment_sec": 38.0,
       "min_total_short_sec": 20.0,
-      "max_total_short_sec": 59.0,
+      "max_total_short_sec": 38.0,
       "require_commentary_layer": true,
       "auto_downweight_claim_count": 1,
       "blacklist_strike_count": 1,
@@ -4599,38 +4605,12 @@
   },
   "creators": [
     {
-      "id": "hubermanlab",
-      "name": "Andrew Huberman",
-      "channel_id": "UC2D2CMWXMOVWx7giW1n3LIg",
-      "niche": "Health & Neuroscience",
-      "clip_policy": "friendly",
-      "risk_score": 0.05,
-      "claims_count": 0,
-      "strikes_count": 0,
-      "status": "active",
-      "priority": 1,
-      "last_scouted": null
-    },
-    {
       "id": "theovon",
       "name": "Theo Von (This Past Weekend)",
       "channel_id": "UC5AQE337YiUex384Q45Es9w",
-      "niche": "Comedy & Culture",
+      "niche": "Comedy, Culture & Chaos",
       "clip_policy": "friendly",
       "risk_score": 0.08,
-      "claims_count": 0,
-      "strikes_count": 0,
-      "status": "active",
-      "priority": 1,
-      "last_scouted": null
-    },
-    {
-      "id": "lexfridman",
-      "name": "Lex Fridman",
-      "channel_id": "UCSHZKyawb77ixDdsGog4iWA",
-      "niche": "AI, Science & Tech",
-      "clip_policy": "friendly",
-      "risk_score": 0.05,
       "claims_count": 0,
       "strikes_count": 0,
       "status": "active",
@@ -4641,9 +4621,35 @@
       "id": "diaryofaceo",
       "name": "Steven Bartlett (The Diary Of A CEO)",
       "channel_id": "UCGq-a57w-aPwyi3pW7XLiHw",
-      "niche": "Business & Psychology",
+      "niche": "High-Stakes Business, Psychology & Truth",
       "clip_policy": "friendly",
       "risk_score": 0.1,
+      "claims_count": 0,
+      "strikes_count": 0,
+      "status": "active",
+      "priority": 1,
+      "last_scouted": null
+    },
+    {
+      "id": "myfirstmillion",
+      "name": "My First Million",
+      "channel_id": "UCi6BAXv1N8rA3hUuN3fS3sw",
+      "niche": "Entrepreneurship & Viral Hustle Breakdown",
+      "clip_policy": "friendly",
+      "risk_score": 0.05,
+      "claims_count": 0,
+      "strikes_count": 0,
+      "status": "active",
+      "priority": 1,
+      "last_scouted": null
+    },
+    {
+      "id": "lexfridman",
+      "name": "Lex Fridman",
+      "channel_id": "UCSHZKyawb77ixDdsGog4iWA",
+      "niche": "AI, Future Tech & Philosophy",
+      "clip_policy": "friendly",
+      "risk_score": 0.05,
       "claims_count": 0,
       "strikes_count": 0,
       "status": "active",
@@ -4654,7 +4660,7 @@
       "id": "colinandsamir",
       "name": "Colin and Samir",
       "channel_id": "UCamLstJyCa-t5gfZegxsFMw",
-      "niche": "Creator Economy",
+      "niche": "Creator Economy & Media Insights",
       "clip_policy": "friendly",
       "risk_score": 0.05,
       "claims_count": 0,
@@ -4664,16 +4670,16 @@
       "last_scouted": null
     },
     {
-      "id": "myfirstmillion",
-      "name": "My First Million",
-      "channel_id": "UCi6BAXv1N8rA3hUuN3fS3sw",
-      "niche": "Entrepreneurship & Investing",
+      "id": "hubermanlab",
+      "name": "Andrew Huberman",
+      "channel_id": "UC2D2CMWXMOVWx7giW1n3LIg",
+      "niche": "Health & Neuroscience Protocols",
       "clip_policy": "friendly",
       "risk_score": 0.05,
       "claims_count": 0,
       "strikes_count": 0,
       "status": "active",
-      "priority": 1,
+      "priority": 3,
       "last_scouted": null
     }
   ],

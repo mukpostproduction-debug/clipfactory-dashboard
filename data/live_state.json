@@ -1,6 +1,6 @@
 {
-  "timestamp": 1792029415.434763,
-  "sync_time_iso": "2026-10-15T01:56:55Z",
+  "timestamp": 1792029477.552135,
+  "sync_time_iso": "2026-10-15T01:57:57Z",
   "default_channel": "muk_podcast",
   "channels": {
     "muk_podcast": {
@@ -2145,14 +2145,14 @@
           "current_task": "Pop culture queue up to date. Monitoring for new episodes.",
           "last_completed_task": "Ingested 6 recent episodes across Trisha, Enya/Drew, and Benito",
           "recent_logs": [
-            "[21:42:28] Scanning Trisha Paytas, Emergency Intercom, and Benito Skinner feeds...",
-            "[21:42:43] Pop culture queue up to date. Monitoring for new episodes.",
             "[21:46:06] Scanning Trisha Paytas, Emergency Intercom, and Benito Skinner feeds...",
             "[21:46:19] Pop culture queue up to date. Monitoring for new episodes.",
             "[21:50:09] Scanning Trisha Paytas, Emergency Intercom, and Benito Skinner feeds...",
             "[21:50:21] Pop culture queue up to date. Monitoring for new episodes.",
             "[21:53:48] Scanning Trisha Paytas, Emergency Intercom, and Benito Skinner feeds...",
-            "[21:53:58] Pop culture queue up to date. Monitoring for new episodes."
+            "[21:53:58] Pop culture queue up to date. Monitoring for new episodes.",
+            "[21:57:23] Scanning Trisha Paytas, Emergency Intercom, and Benito Skinner feeds...",
+            "[21:57:34] Pop culture queue up to date. Monitoring for new episodes."
           ]
         },
         "STRATEGIST": {
@@ -2172,17 +2172,17 @@
         },
         "EDITOR": {
           "status": "idle",
-          "current_task": "Rendering 1080x1920 Short with pop captions: Boba Tea + Wearable Art",
+          "current_task": "Rendering 1080x1920 Short with pop captions: Movies on a Plane + Not Overth",
           "last_completed_task": "Rendered Trisha Paytas & Brittany Broski pop culture highlight with Neon Pink/Cyan pop captions",
           "recent_logs": [
-            "[21:42:43] Downloading highlight segment for: Emergency Intercom - Episode 255 (Y...",
-            "[21:42:52] Rendering 1080x1920 Short with pop captions: Emergency Intercom - Episode 2",
             "[21:46:19] Downloading highlight segment for: Emergency Intercom - Episode 254 (T...",
             "[21:46:35] Rendering 1080x1920 Short with pop captions: Emergency Intercom - Episode 2",
             "[21:50:21] Downloading highlight segment for: Emergency Intercom - Episode 253 (G...",
             "[21:50:37] Rendering 1080x1920 Short with pop captions: Emergency Intercom - Episode 2",
             "[21:53:58] Downloading highlight segment for: Boba Tea + Wearable Art...",
-            "[21:54:09] Rendering 1080x1920 Short with pop captions: Boba Tea + Wearable Art"
+            "[21:54:09] Rendering 1080x1920 Short with pop captions: Boba Tea + Wearable Art",
+            "[21:57:34] Downloading highlight segment for: Movies on a Plane + Not Overthinkin...",
+            "[21:57:50] Rendering 1080x1920 Short with pop captions: Movies on a Plane + Not Overth"
           ]
         },
         "COMMENTATOR": {
@@ -2295,7 +2295,7 @@
             "title": "Movies on a Plane + Not Overthinking",
             "url": "https://www.youtube.com/watch?v=hfHOaU7aIz0",
             "duration": 2793,
-            "status": "QUEUED",
+            "status": "PROCESSING",
             "added_at": "2026-10-15T01:35:03Z"
           },
           {

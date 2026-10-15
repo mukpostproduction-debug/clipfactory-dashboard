@@ -1,6 +1,6 @@
 {
-  "timestamp": 1792025954.322892,
-  "sync_time_iso": "2026-10-15T00:59:14Z",
+  "timestamp": 1792026016.0287948,
+  "sync_time_iso": "2026-10-15T01:00:16Z",
   "default_channel": "muk_podcast",
   "channels": {
     "muk_podcast": {
@@ -2008,14 +2008,14 @@
           "current_task": "Pop culture queue up to date. Monitoring for new episodes.",
           "last_completed_task": "Ingested 6 recent episodes across Trisha, Enya/Drew, and Benito",
           "recent_logs": [
-            "[20:50:52] Scanning Trisha Paytas, Emergency Intercom, and Benito Skinner feeds...",
-            "[20:51:06] Pop culture queue up to date. Monitoring for new episodes.",
             "[20:53:06] Scanning Trisha Paytas, Emergency Intercom, and Benito Skinner feeds...",
             "[20:53:29] Pop culture queue up to date. Monitoring for new episodes.",
             "[20:55:29] Scanning Trisha Paytas, Emergency Intercom, and Benito Skinner feeds...",
             "[20:55:40] Pop culture queue up to date. Monitoring for new episodes.",
             "[20:57:40] Scanning Trisha Paytas, Emergency Intercom, and Benito Skinner feeds...",
-            "[20:57:53] Pop culture queue up to date. Monitoring for new episodes."
+            "[20:57:53] Pop culture queue up to date. Monitoring for new episodes.",
+            "[20:59:53] Scanning Trisha Paytas, Emergency Intercom, and Benito Skinner feeds...",
+            "[21:00:05] Pop culture queue up to date. Monitoring for new episodes."
           ]
         },
         "STRATEGIST": {
@@ -2035,17 +2035,17 @@
         },
         "EDITOR": {
           "status": "idle",
-          "current_task": "Rendering 1080x1920 Short with pop captions: Blind Boxes + Popstar Academy",
+          "current_task": "Downloading highlight segment for: OVERCOMPENSATING OFFICIAL TEASER...",
           "last_completed_task": "Rendered Trisha Paytas & Brittany Broski pop culture highlight with Neon Pink/Cyan pop captions",
           "recent_logs": [
-            "[17:51:56] Downloading highlight segment for: Ride Presents: Haunted HayRide SPOO...",
             "[17:54:19] Downloading highlight segment for: Jeffree Star CRASHES OUT Over Kori ...",
             "[17:56:39] Downloading highlight segment for: Brittany Broski CLOCKS Her Manipula...",
             "[18:00:15] Downloading highlight segment for: Mikayla Noguiera Comes Clean on Jay...",
             "[18:02:17] Downloading highlight segment for: Emergency Intercom - Episode 253 (G...",
             "[18:04:18] Downloading highlight segment for: Movies on a Plane + Not Overthinkin...",
             "[18:06:36] Downloading highlight segment for: Blind Boxes + Popstar Academy...",
-            "[18:06:43] Rendering 1080x1920 Short with pop captions: Blind Boxes + Popstar Academy"
+            "[18:06:43] Rendering 1080x1920 Short with pop captions: Blind Boxes + Popstar Academy",
+            "[21:00:05] Downloading highlight segment for: OVERCOMPENSATING OFFICIAL TEASER..."
           ]
         },
         "COMMENTATOR": {
@@ -2077,14 +2077,14 @@
           "current_task": "Auditing velocity of active Pop Culture & Comedy Shorts...",
           "last_completed_task": "Calibrated benchmark: >25 views/hr in first 3 hours",
           "recent_logs": [
-            "[20:42:04] Auditing velocity of active Pop Culture & Comedy Shorts...",
             "[20:44:29] Auditing velocity of active Pop Culture & Comedy Shorts...",
             "[20:46:40] Auditing velocity of active Pop Culture & Comedy Shorts...",
             "[20:48:52] Auditing velocity of active Pop Culture & Comedy Shorts...",
             "[20:51:06] Auditing velocity of active Pop Culture & Comedy Shorts...",
             "[20:53:29] Auditing velocity of active Pop Culture & Comedy Shorts...",
             "[20:55:40] Auditing velocity of active Pop Culture & Comedy Shorts...",
-            "[20:57:53] Auditing velocity of active Pop Culture & Comedy Shorts..."
+            "[20:57:53] Auditing velocity of active Pop Culture & Comedy Shorts...",
+            "[21:00:05] Auditing velocity of active Pop Culture & Comedy Shorts..."
           ]
         },
         "WATCHDOG": {
@@ -2092,14 +2092,14 @@
           "current_task": "Verifying Fair Use compliance: 100% transformative commentary.",
           "last_completed_task": "Validated commentary & transformative overlay standards",
           "recent_logs": [
-            "[20:42:04] Verifying Fair Use compliance: 100% transformative commentary.",
             "[20:44:29] Verifying Fair Use compliance: 100% transformative commentary.",
             "[20:46:40] Verifying Fair Use compliance: 100% transformative commentary.",
             "[20:48:52] Verifying Fair Use compliance: 100% transformative commentary.",
             "[20:51:06] Verifying Fair Use compliance: 100% transformative commentary.",
             "[20:53:29] Verifying Fair Use compliance: 100% transformative commentary.",
             "[20:55:40] Verifying Fair Use compliance: 100% transformative commentary.",
-            "[20:57:53] Verifying Fair Use compliance: 100% transformative commentary."
+            "[20:57:53] Verifying Fair Use compliance: 100% transformative commentary.",
+            "[21:00:05] Verifying Fair Use compliance: 100% transformative commentary."
           ]
         }
       },
@@ -2201,7 +2201,7 @@
             "title": "OVERCOMPENSATING OFFICIAL TEASER",
             "url": "BENITO SKINNER (2025)",
             "duration": 3600,
-            "status": "QUEUED",
+            "status": "FAILED_DOWNLOAD",
             "added_at": "2026-10-14T05:30:37Z"
           },
           {
@@ -2260,42 +2260,6 @@
       },
       "calendar": {
         "scheduled": [
-          {
-            "id": "abigail_clip_03_benito",
-            "source_video": "Ride The Pod - Boba Tea + Wearable Art",
-            "creator": "Benito Skinner",
-            "title": "Benny Drama's Accurate Impersonation of That One Person",
-            "publish_at": "2026-10-15T01:00:00Z",
-            "status": "SCHEDULED",
-            "metadata": {
-              "creator": "Benito Skinner",
-              "topic": "Benny Drama Satire & Culture",
-              "active_variant": "A",
-              "ab_variants": {
-                "A": {
-                  "title": "Benny Drama's Accurate Impersonation of That One Person",
-                  "hook_angle": "Satire / Voice Mimicry",
-                  "description": "Nobody captures the absolute absurdity of pop culture better than Benito Skinner.\n\nFeaturing: @bennydrama7 & @ridethepod\n\nWho should Benito impersonate next? Let us know below \ud83d\udc47\n\n#Shorts #BenitoSkinner #BennyDrama #RideThePod #Satire #Comedy"
-                },
-                "B": {
-                  "title": "The Exact Moment Mary Beth Couldn't Stop Laughing",
-                  "hook_angle": "Contagious Laughter / Banter",
-                  "description": "Benito was in top form today on Ride The Pod...\n\nFeaturing: @ridethepod\n\nRate this impersonation from 1 to 10 in the comments \ud83d\udc47\n\n#Shorts #RideThePod #BennyDrama #ComedyPodcast #LOL"
-                },
-                "C": {
-                  "title": "Why Benito Skinner is Hollywood's Funniest Creator Right Now",
-                  "hook_angle": "Appreciation / Hype",
-                  "description": "The talent and comedic timing here is genuinely unmatched.\n\nFeaturing: @bennydrama7\n\nHave you watched Ride The Pod yet? Drop your thoughts \ud83d\udc47\n\n#Shorts #BenitoSkinner #ComedyShorts #StandUpComedy"
-                }
-              }
-            },
-            "youtube_video_id": "46cyGL26hXw",
-            "youtube_url": "https://www.youtube.com/shorts/46cyGL26hXw",
-            "uploaded": true,
-            "video_file": "abigail_clip_03_benito_master.mp4",
-            "duration": 12.2,
-            "rendered": true
-          },
           {
             "id": "trish_jeffree_star",
             "source_video": "Jeffree Star Goes OFF on Kori King + Emma Chamberlain\u2019s AWKWARD Reunion",
@@ -2431,6 +2395,42 @@
         ],
         "held": [],
         "published": [
+          {
+            "id": "abigail_clip_03_benito",
+            "source_video": "Ride The Pod - Boba Tea + Wearable Art",
+            "creator": "Benito Skinner",
+            "title": "Benny Drama's Accurate Impersonation of That One Person",
+            "publish_at": "2026-10-15T01:00:00Z",
+            "status": "PUBLISHED",
+            "metadata": {
+              "creator": "Benito Skinner",
+              "topic": "Benny Drama Satire & Culture",
+              "active_variant": "A",
+              "ab_variants": {
+                "A": {
+                  "title": "Benny Drama's Accurate Impersonation of That One Person",
+                  "hook_angle": "Satire / Voice Mimicry",
+                  "description": "Nobody captures the absolute absurdity of pop culture better than Benito Skinner.\n\nFeaturing: @bennydrama7 & @ridethepod\n\nWho should Benito impersonate next? Let us know below \ud83d\udc47\n\n#Shorts #BenitoSkinner #BennyDrama #RideThePod #Satire #Comedy"
+                },
+                "B": {
+                  "title": "The Exact Moment Mary Beth Couldn't Stop Laughing",
+                  "hook_angle": "Contagious Laughter / Banter",
+                  "description": "Benito was in top form today on Ride The Pod...\n\nFeaturing: @ridethepod\n\nRate this impersonation from 1 to 10 in the comments \ud83d\udc47\n\n#Shorts #RideThePod #BennyDrama #ComedyPodcast #LOL"
+                },
+                "C": {
+                  "title": "Why Benito Skinner is Hollywood's Funniest Creator Right Now",
+                  "hook_angle": "Appreciation / Hype",
+                  "description": "The talent and comedic timing here is genuinely unmatched.\n\nFeaturing: @bennydrama7\n\nHave you watched Ride The Pod yet? Drop your thoughts \ud83d\udc47\n\n#Shorts #BenitoSkinner #ComedyShorts #StandUpComedy"
+                }
+              }
+            },
+            "youtube_video_id": "46cyGL26hXw",
+            "youtube_url": "https://www.youtube.com/shorts/46cyGL26hXw",
+            "uploaded": true,
+            "video_file": "abigail_clip_03_benito_master.mp4",
+            "duration": 12.2,
+            "rendered": true
+          },
           {
             "id": "abigail_clip_02_emergency",
             "source_video": "Emergency Intercom - Episode 255",

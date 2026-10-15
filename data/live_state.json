@@ -1,6 +1,6 @@
 {
-  "timestamp": 1792092685.196685,
-  "sync_time_iso": "2026-10-15T19:31:25Z",
+  "timestamp": 1792092747.8378198,
+  "sync_time_iso": "2026-10-15T19:32:27Z",
   "default_channel": "muk_podcast",
   "channels": {
     "muk_podcast": {
@@ -680,6 +680,67 @@
               }
             },
             "created_at": 1792078268.64143
+          },
+          {
+            "id": "v5YGZ8lyiAk",
+            "title": "What Happens When Your Brain Stops?",
+            "url": "https://www.youtube.com/shorts/v5YGZ8lyiAk",
+            "creator": "Andrew Huberman",
+            "video_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/clip_1792092621_master.mp4",
+            "publish_at": "2026-10-17T19:30:00Z",
+            "status": "SCHEDULED",
+            "metadata": {
+              "title": "What Happens When Your Brain Stops?",
+              "description": "Ever wonder what remains of 'you' when your impulse control is completely wiped away? Discover the haunting reality of what happens when the brain\u2019s social filter goes dark.\n\n\u2022 The biological mechanism of impulse control.\n\u2022 Real-world consequences of frontal lobe trauma.\n\u2022 Understanding the fragile nature of human behavior.\n\nFeaturing: Andrew Huberman\n\nIf your impulse control vanished tomorrow, what is the first thing you would do? Let us know below.\n\n#shorts #andrewhuberman #brainscience #neuroscience #psychology #mentalhealth",
+              "tags": [
+                "Andrew Huberman",
+                "Huberman Lab",
+                "Frontal Lobe",
+                "Impulse Control",
+                "Neuroscience",
+                "Brain Injury",
+                "Psychology",
+                "Mental Health",
+                "Human Behavior",
+                "Cognitive Science"
+              ],
+              "pinned_comment": "If your internal filter completely disappeared, would you still be considered the same person? Share your thoughts.",
+              "ab_variants": {
+                "A": {
+                  "angle": "Curiosity Gap",
+                  "title": "What Happens When Your Brain Stops?",
+                  "description": "Ever wonder what remains of 'you' when your impulse control is completely wiped away? Discover the haunting reality of what happens when the brain\u2019s social filter goes dark.\n\n\u2022 The biological mechanism of impulse control.\n\u2022 Real-world consequences of frontal lobe trauma.\n\u2022 Understanding the fragile nature of human behavior.\n\nFeaturing: Andrew Huberman\n\nIf your impulse control vanished tomorrow, what is the first thing you would do? Let us know below.\n\n#shorts #andrewhuberman #brainscience #neuroscience #psychology #mentalhealth"
+                },
+                "B": {
+                  "angle": "Contrarian Truth",
+                  "title": "You Are Not In Control of Your Brain",
+                  "description": "We like to think we are in the driver's seat, but one injury can prove that wrong in an instant. Learn why your personality is more vulnerable than you think.\n\n\u2022 Why social norms are processed, not innate.\n\u2022 The reality of 'failure modes' in the frontal lobe.\n\u2022 Why brain health is the foundation of all personality.\n\nFeaturing: Andrew Huberman\n\nDo you believe we have true free will, or is it just our biology making decisions for us? Drop a comment.\n\n#shorts #andrewhuberman #science #humanbehavior #neurobiology #brainhealth"
+                },
+                "C": {
+                  "angle": "Actionable Protocol",
+                  "title": "How to Hack Your Impulse Control",
+                  "description": "Understanding the frontal lobe is the first step to mastering your own behavior. Learn how to strengthen the part of your brain that regulates your social life.\n\n\u2022 The anatomy of high-level decision making.\n\u2022 Identifying the signs of poor impulse regulation.\n\u2022 How to protect your cognitive function daily.\n\nFeaturing: Andrew Huberman\n\nWhat is one habit you use to stay disciplined when you feel like losing control? Tell us your strategy.\n\n#shorts #andrewhuberman #productivity #mindset #selfimprovement #neuroscience"
+                }
+              },
+              "active_variant": "A",
+              "test_status": "ACTIVE_TEST",
+              "variant_history": [
+                {
+                  "variant": "A",
+                  "title": "What Happens When Your Brain Stops?",
+                  "deployed_at": 1792092692.5002692,
+                  "reason": "Initial A/B test deployment"
+                }
+              ],
+              "metrics": {
+                "views": 0,
+                "likes": 0,
+                "comments": 0,
+                "retention": 0.0,
+                "ctr": 0.0
+              }
+            },
+            "created_at": 1792092697.7477992
           }
         ],
         "published": [
@@ -1478,14 +1539,14 @@
           "current_task": "Queue up to date. Waiting for next daily Ken upload.",
           "last_completed_task": "Ingested 5 recent Ken master videos into source pool",
           "recent_logs": [
-            "[15:22:45] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
-            "[15:22:57] Queue up to date. Waiting for next daily Ken upload.",
             "[15:24:57] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
             "[15:25:08] Queue up to date. Waiting for next daily Ken upload.",
             "[15:27:08] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
             "[15:27:19] Queue up to date. Waiting for next daily Ken upload.",
             "[15:29:19] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
-            "[15:29:30] Queue up to date. Waiting for next daily Ken upload."
+            "[15:29:30] Queue up to date. Waiting for next daily Ken upload.",
+            "[15:31:30] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
+            "[15:31:44] Queue up to date. Waiting for next daily Ken upload."
           ]
         },
         "STRATEGIST": {
@@ -1493,14 +1554,14 @@
           "current_task": "No queued Ken candidates ready. Waiting for SCOUT.",
           "last_completed_task": "Mapped 3 distinct viral gaming hook angles for initial drops",
           "recent_logs": [
-            "[15:14:10] No queued Ken candidates ready. Waiting for SCOUT.",
             "[15:16:20] No queued Ken candidates ready. Waiting for SCOUT.",
             "[15:18:32] No queued Ken candidates ready. Waiting for SCOUT.",
             "[15:20:45] No queued Ken candidates ready. Waiting for SCOUT.",
             "[15:22:57] No queued Ken candidates ready. Waiting for SCOUT.",
             "[15:25:08] No queued Ken candidates ready. Waiting for SCOUT.",
             "[15:27:19] No queued Ken candidates ready. Waiting for SCOUT.",
-            "[15:29:30] No queued Ken candidates ready. Waiting for SCOUT."
+            "[15:29:30] No queued Ken candidates ready. Waiting for SCOUT.",
+            "[15:31:44] No queued Ken candidates ready. Waiting for SCOUT."
           ]
         },
         "EDITOR": {
@@ -1547,14 +1608,14 @@
           "current_task": "Auditing velocity of active Ken Clash Royale Shorts...",
           "last_completed_task": "Calibrated gaming threshold: >15 views/hr within 4h",
           "recent_logs": [
-            "[15:14:10] Auditing velocity of active Ken Clash Royale Shorts...",
             "[15:16:20] Auditing velocity of active Ken Clash Royale Shorts...",
             "[15:18:32] Auditing velocity of active Ken Clash Royale Shorts...",
             "[15:20:45] Auditing velocity of active Ken Clash Royale Shorts...",
             "[15:22:57] Auditing velocity of active Ken Clash Royale Shorts...",
             "[15:25:08] Auditing velocity of active Ken Clash Royale Shorts...",
             "[15:27:19] Auditing velocity of active Ken Clash Royale Shorts...",
-            "[15:29:30] Auditing velocity of active Ken Clash Royale Shorts..."
+            "[15:29:30] Auditing velocity of active Ken Clash Royale Shorts...",
+            "[15:31:44] Auditing velocity of active Ken Clash Royale Shorts..."
           ]
         },
         "WATCHDOG": {
@@ -1562,14 +1623,14 @@
           "current_task": "Verifying Supercell fan policy: 0 claims, 0 strikes.",
           "last_completed_task": "Audited source parameters: strictly <30s segment rule active",
           "recent_logs": [
-            "[15:14:10] Verifying Supercell fan policy: 0 claims, 0 strikes.",
             "[15:16:20] Verifying Supercell fan policy: 0 claims, 0 strikes.",
             "[15:18:32] Verifying Supercell fan policy: 0 claims, 0 strikes.",
             "[15:20:45] Verifying Supercell fan policy: 0 claims, 0 strikes.",
             "[15:22:57] Verifying Supercell fan policy: 0 claims, 0 strikes.",
             "[15:25:08] Verifying Supercell fan policy: 0 claims, 0 strikes.",
             "[15:27:19] Verifying Supercell fan policy: 0 claims, 0 strikes.",
-            "[15:29:30] Verifying Supercell fan policy: 0 claims, 0 strikes."
+            "[15:29:30] Verifying Supercell fan policy: 0 claims, 0 strikes.",
+            "[15:31:44] Verifying Supercell fan policy: 0 claims, 0 strikes."
           ]
         }
       },
@@ -3833,6 +3894,67 @@
           }
         },
         "created_at": 1792078268.64143
+      },
+      {
+        "id": "v5YGZ8lyiAk",
+        "title": "What Happens When Your Brain Stops?",
+        "url": "https://www.youtube.com/shorts/v5YGZ8lyiAk",
+        "creator": "Andrew Huberman",
+        "video_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/clip_1792092621_master.mp4",
+        "publish_at": "2026-10-17T19:30:00Z",
+        "status": "SCHEDULED",
+        "metadata": {
+          "title": "What Happens When Your Brain Stops?",
+          "description": "Ever wonder what remains of 'you' when your impulse control is completely wiped away? Discover the haunting reality of what happens when the brain\u2019s social filter goes dark.\n\n\u2022 The biological mechanism of impulse control.\n\u2022 Real-world consequences of frontal lobe trauma.\n\u2022 Understanding the fragile nature of human behavior.\n\nFeaturing: Andrew Huberman\n\nIf your impulse control vanished tomorrow, what is the first thing you would do? Let us know below.\n\n#shorts #andrewhuberman #brainscience #neuroscience #psychology #mentalhealth",
+          "tags": [
+            "Andrew Huberman",
+            "Huberman Lab",
+            "Frontal Lobe",
+            "Impulse Control",
+            "Neuroscience",
+            "Brain Injury",
+            "Psychology",
+            "Mental Health",
+            "Human Behavior",
+            "Cognitive Science"
+          ],
+          "pinned_comment": "If your internal filter completely disappeared, would you still be considered the same person? Share your thoughts.",
+          "ab_variants": {
+            "A": {
+              "angle": "Curiosity Gap",
+              "title": "What Happens When Your Brain Stops?",
+              "description": "Ever wonder what remains of 'you' when your impulse control is completely wiped away? Discover the haunting reality of what happens when the brain\u2019s social filter goes dark.\n\n\u2022 The biological mechanism of impulse control.\n\u2022 Real-world consequences of frontal lobe trauma.\n\u2022 Understanding the fragile nature of human behavior.\n\nFeaturing: Andrew Huberman\n\nIf your impulse control vanished tomorrow, what is the first thing you would do? Let us know below.\n\n#shorts #andrewhuberman #brainscience #neuroscience #psychology #mentalhealth"
+            },
+            "B": {
+              "angle": "Contrarian Truth",
+              "title": "You Are Not In Control of Your Brain",
+              "description": "We like to think we are in the driver's seat, but one injury can prove that wrong in an instant. Learn why your personality is more vulnerable than you think.\n\n\u2022 Why social norms are processed, not innate.\n\u2022 The reality of 'failure modes' in the frontal lobe.\n\u2022 Why brain health is the foundation of all personality.\n\nFeaturing: Andrew Huberman\n\nDo you believe we have true free will, or is it just our biology making decisions for us? Drop a comment.\n\n#shorts #andrewhuberman #science #humanbehavior #neurobiology #brainhealth"
+            },
+            "C": {
+              "angle": "Actionable Protocol",
+              "title": "How to Hack Your Impulse Control",
+              "description": "Understanding the frontal lobe is the first step to mastering your own behavior. Learn how to strengthen the part of your brain that regulates your social life.\n\n\u2022 The anatomy of high-level decision making.\n\u2022 Identifying the signs of poor impulse regulation.\n\u2022 How to protect your cognitive function daily.\n\nFeaturing: Andrew Huberman\n\nWhat is one habit you use to stay disciplined when you feel like losing control? Tell us your strategy.\n\n#shorts #andrewhuberman #productivity #mindset #selfimprovement #neuroscience"
+            }
+          },
+          "active_variant": "A",
+          "test_status": "ACTIVE_TEST",
+          "variant_history": [
+            {
+              "variant": "A",
+              "title": "What Happens When Your Brain Stops?",
+              "deployed_at": 1792092692.5002692,
+              "reason": "Initial A/B test deployment"
+            }
+          ],
+          "metrics": {
+            "views": 0,
+            "likes": 0,
+            "comments": 0,
+            "retention": 0.0,
+            "ctr": 0.0
+          }
+        },
+        "created_at": 1792092697.7477992
       }
     ],
     "published": [

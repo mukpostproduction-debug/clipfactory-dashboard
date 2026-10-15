@@ -1,6 +1,6 @@
 {
-  "timestamp": 1792023331.637862,
-  "sync_time_iso": "2026-10-15T00:15:31Z",
+  "timestamp": 1792023393.366482,
+  "sync_time_iso": "2026-10-15T00:16:33Z",
   "default_channel": "muk_podcast",
   "channels": {
     "muk_podcast": {
@@ -1375,14 +1375,14 @@
           "current_task": "Queue up to date. Waiting for next daily Ken upload.",
           "last_completed_task": "Ingested 5 recent Ken master videos into source pool",
           "recent_logs": [
-            "[20:06:43] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
-            "[20:06:55] Queue up to date. Waiting for next daily Ken upload.",
             "[20:08:55] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
             "[20:09:07] Queue up to date. Waiting for next daily Ken upload.",
             "[20:11:07] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
             "[20:11:21] Queue up to date. Waiting for next daily Ken upload.",
             "[20:13:21] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
-            "[20:13:33] Queue up to date. Waiting for next daily Ken upload."
+            "[20:13:33] Queue up to date. Waiting for next daily Ken upload.",
+            "[20:15:33] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
+            "[20:15:45] Queue up to date. Waiting for next daily Ken upload."
           ]
         },
         "STRATEGIST": {
@@ -1402,7 +1402,7 @@
         },
         "EDITOR": {
           "status": "working",
-          "current_task": "Rendering gaming_split Short with captions: the new barrel",
+          "current_task": "Rendering gaming_split Short with captions: least busted card",
           "last_completed_task": "Rendered 'hp buffed' rage highlight with kinetic pop captions & commentary",
           "recent_logs": [
             "[EDITOR] Transcribed 'hp buffed' via faster-whisper (310 words)",
@@ -1411,7 +1411,8 @@
             "[EDITOR] Transformative commentary synthesized (7.6s compliance layer)",
             "[EDITOR] Master cut rendered: ken_clip_01_rage_master.mp4 (1080x1920 30FPS)",
             "[12:07:37] Rendering gaming_split Short with captions: hp buffed",
-            "[17:19:19] Rendering gaming_split Short with captions: the new barrel"
+            "[17:19:19] Rendering gaming_split Short with captions: the new barrel",
+            "[20:15:45] Rendering gaming_split Short with captions: least busted card"
           ]
         },
         "COMMENTATOR": {
@@ -1477,7 +1478,7 @@
             "title": "least busted card",
             "url": "https://www.youtube.com/watch?v=LhS6RH2NmcU",
             "duration": 979,
-            "status": "QUEUED",
+            "status": "PROCESSING",
             "added_at": "2026-10-14T04:30:00Z"
           },
           {
@@ -1536,43 +1537,6 @@
       },
       "calendar": {
         "scheduled": [
-          {
-            "id": "ken_clip_03_toxic",
-            "source_video": "least busted card",
-            "creator": "Ken",
-            "title": "Ken Faced The Most Toxic Player Alive...",
-            "publish_at": "2026-10-15T00:15:00Z",
-            "status": "SCHEDULED",
-            "metadata": {
-              "creator": "Ken",
-              "topic": "Emote Spammer Karma",
-              "active_variant": "A",
-              "ab_variants": {
-                "A": {
-                  "title": "Ken Faced The Most Toxic Player Alive...",
-                  "hook_angle": "Drama / Toxic BM",
-                  "description": "Opponent spammed 40 laughing king emotes... then this happened.\n\nFeaturing: @kenforrest\n\nWhat is the most annoying emote in Clash Royale? Tell us below \ud83d\udc47\n\n#Shorts #ClashRoyale #Ken #GamingMemes"
-                },
-                "B": {
-                  "title": "Emote Spammer Gets Instantly Karma Checked",
-                  "hook_angle": "Instant Karma / Satisfaction",
-                  "description": "The sweetest victory in Clash Royale history.\n\nFeaturing: @kenforrest\n\nDid the opponent deserve this? Yes or No? \ud83d\udc47\n\n#Shorts #ClashRoyale #Karma #GamingShorts"
-                },
-                "C": {
-                  "title": "How To Counter The Most Busted Deck in 2026",
-                  "hook_angle": "Meta / Guide",
-                  "description": "The exact cycle and defense needed to stop this toxic deck.\n\nFeaturing: @kenforrest\n\nWhich deck gives you the hardest time right now? \ud83d\udc47\n\n#Shorts #ClashRoyale #KenClashRoyale #Gaming"
-                }
-              }
-            },
-            "youtube_video_id": "78_GRpovluw",
-            "youtube_url": "https://www.youtube.com/shorts/78_GRpovluw",
-            "uploaded": true,
-            "video_file": "ken_clip_03_toxic_master.mp4",
-            "duration": 29.3,
-            "rendered": true,
-            "reframed": "gaming_split"
-          },
           {
             "id": "ken_hp_buffed",
             "source_video": "hp buffed",
@@ -1707,6 +1671,43 @@
         ],
         "held": [],
         "published": [
+          {
+            "id": "ken_clip_03_toxic",
+            "source_video": "least busted card",
+            "creator": "Ken",
+            "title": "Ken Faced The Most Toxic Player Alive...",
+            "publish_at": "2026-10-15T00:15:00Z",
+            "status": "PUBLISHED",
+            "metadata": {
+              "creator": "Ken",
+              "topic": "Emote Spammer Karma",
+              "active_variant": "A",
+              "ab_variants": {
+                "A": {
+                  "title": "Ken Faced The Most Toxic Player Alive...",
+                  "hook_angle": "Drama / Toxic BM",
+                  "description": "Opponent spammed 40 laughing king emotes... then this happened.\n\nFeaturing: @kenforrest\n\nWhat is the most annoying emote in Clash Royale? Tell us below \ud83d\udc47\n\n#Shorts #ClashRoyale #Ken #GamingMemes"
+                },
+                "B": {
+                  "title": "Emote Spammer Gets Instantly Karma Checked",
+                  "hook_angle": "Instant Karma / Satisfaction",
+                  "description": "The sweetest victory in Clash Royale history.\n\nFeaturing: @kenforrest\n\nDid the opponent deserve this? Yes or No? \ud83d\udc47\n\n#Shorts #ClashRoyale #Karma #GamingShorts"
+                },
+                "C": {
+                  "title": "How To Counter The Most Busted Deck in 2026",
+                  "hook_angle": "Meta / Guide",
+                  "description": "The exact cycle and defense needed to stop this toxic deck.\n\nFeaturing: @kenforrest\n\nWhich deck gives you the hardest time right now? \ud83d\udc47\n\n#Shorts #ClashRoyale #KenClashRoyale #Gaming"
+                }
+              }
+            },
+            "youtube_video_id": "78_GRpovluw",
+            "youtube_url": "https://www.youtube.com/shorts/78_GRpovluw",
+            "uploaded": true,
+            "video_file": "ken_clip_03_toxic_master.mp4",
+            "duration": 29.3,
+            "rendered": true,
+            "reframed": "gaming_split"
+          },
           {
             "id": "ken_clip_02_barrel",
             "source_video": "the new barrel",
@@ -1939,14 +1940,14 @@
           "current_task": "Pop culture queue up to date. Monitoring for new episodes.",
           "last_completed_task": "Ingested 6 recent episodes across Trisha, Enya/Drew, and Benito",
           "recent_logs": [
-            "[20:07:02] Scanning Trisha Paytas, Emergency Intercom, and Benito Skinner feeds...",
-            "[20:07:13] Pop culture queue up to date. Monitoring for new episodes.",
             "[20:09:13] Scanning Trisha Paytas, Emergency Intercom, and Benito Skinner feeds...",
             "[20:09:23] Pop culture queue up to date. Monitoring for new episodes.",
             "[20:11:23] Scanning Trisha Paytas, Emergency Intercom, and Benito Skinner feeds...",
             "[20:11:35] Pop culture queue up to date. Monitoring for new episodes.",
             "[20:13:35] Scanning Trisha Paytas, Emergency Intercom, and Benito Skinner feeds...",
-            "[20:13:46] Pop culture queue up to date. Monitoring for new episodes."
+            "[20:13:46] Pop culture queue up to date. Monitoring for new episodes.",
+            "[20:15:46] Scanning Trisha Paytas, Emergency Intercom, and Benito Skinner feeds...",
+            "[20:15:58] Pop culture queue up to date. Monitoring for new episodes."
           ]
         },
         "STRATEGIST": {
@@ -1954,14 +1955,14 @@
           "current_task": "Buffer healthy: 3 scheduled Shorts staged.",
           "last_completed_task": "Calibrated 3 pop-culture hook angles: Shock Tea, Chaos Banter, Satirical Voice Mimicry",
           "recent_logs": [
-            "[19:58:30] Buffer healthy: 3 scheduled Shorts staged.",
             "[20:00:40] Buffer healthy: 3 scheduled Shorts staged.",
             "[20:02:51] Buffer healthy: 3 scheduled Shorts staged.",
             "[20:05:02] Buffer healthy: 3 scheduled Shorts staged.",
             "[20:07:13] Buffer healthy: 3 scheduled Shorts staged.",
             "[20:09:23] Buffer healthy: 3 scheduled Shorts staged.",
             "[20:11:35] Buffer healthy: 3 scheduled Shorts staged.",
-            "[20:13:46] Buffer healthy: 3 scheduled Shorts staged."
+            "[20:13:46] Buffer healthy: 3 scheduled Shorts staged.",
+            "[20:15:58] Buffer healthy: 3 scheduled Shorts staged."
           ]
         },
         "EDITOR": {
@@ -2008,14 +2009,14 @@
           "current_task": "Auditing velocity of active Pop Culture & Comedy Shorts...",
           "last_completed_task": "Calibrated benchmark: >25 views/hr in first 3 hours",
           "recent_logs": [
-            "[19:58:30] Auditing velocity of active Pop Culture & Comedy Shorts...",
             "[20:00:40] Auditing velocity of active Pop Culture & Comedy Shorts...",
             "[20:02:51] Auditing velocity of active Pop Culture & Comedy Shorts...",
             "[20:05:02] Auditing velocity of active Pop Culture & Comedy Shorts...",
             "[20:07:13] Auditing velocity of active Pop Culture & Comedy Shorts...",
             "[20:09:23] Auditing velocity of active Pop Culture & Comedy Shorts...",
             "[20:11:35] Auditing velocity of active Pop Culture & Comedy Shorts...",
-            "[20:13:46] Auditing velocity of active Pop Culture & Comedy Shorts..."
+            "[20:13:46] Auditing velocity of active Pop Culture & Comedy Shorts...",
+            "[20:15:58] Auditing velocity of active Pop Culture & Comedy Shorts..."
           ]
         },
         "WATCHDOG": {
@@ -2023,14 +2024,14 @@
           "current_task": "Verifying Fair Use compliance: 100% transformative commentary.",
           "last_completed_task": "Validated commentary & transformative overlay standards",
           "recent_logs": [
-            "[19:58:30] Verifying Fair Use compliance: 100% transformative commentary.",
             "[20:00:40] Verifying Fair Use compliance: 100% transformative commentary.",
             "[20:02:51] Verifying Fair Use compliance: 100% transformative commentary.",
             "[20:05:02] Verifying Fair Use compliance: 100% transformative commentary.",
             "[20:07:13] Verifying Fair Use compliance: 100% transformative commentary.",
             "[20:09:23] Verifying Fair Use compliance: 100% transformative commentary.",
             "[20:11:35] Verifying Fair Use compliance: 100% transformative commentary.",
-            "[20:13:46] Verifying Fair Use compliance: 100% transformative commentary."
+            "[20:13:46] Verifying Fair Use compliance: 100% transformative commentary.",
+            "[20:15:58] Verifying Fair Use compliance: 100% transformative commentary."
           ]
         }
       },

@@ -1,6 +1,6 @@
 {
-  "timestamp": 1792078186.089749,
-  "sync_time_iso": "2026-10-15T15:29:46Z",
+  "timestamp": 1792078247.582291,
+  "sync_time_iso": "2026-10-15T15:30:47Z",
   "default_channel": "muk_podcast",
   "channels": {
     "muk_podcast": {
@@ -74,7 +74,17 @@
       "agents": {},
       "queue": {
         "queue": [],
-        "processing": null,
+        "processing": {
+          "id": "clip_1792078215",
+          "source_id": "YdIJW8RTptU",
+          "title": "Essentials: Neuralink & Technologies to Enhance Human Brains | Dr. Matt MacDougall",
+          "creator": "Andrew Huberman",
+          "source_type": "youtube",
+          "local_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/downloads/clip_1792078215_Essentials\uff1a Neuralink & Technologies to Enhance Hu.mp4",
+          "status": "QUEUED",
+          "notes": "Auto-scouted from Andrew Huberman",
+          "queued_at": 1792078226.70851
+        },
         "completed": [
           {
             "clip_id": "huberman_food_1791864881",
@@ -333,73 +343,6 @@
       },
       "calendar": {
         "scheduled": [
-          {
-            "id": "KbAlC2n3W78",
-            "title": "This \"Space Tool\" Stops Overeating \ud83d\ude80",
-            "url": "https://www.youtube.com/shorts/KbAlC2n3W78",
-            "creator": "Andrew Huberman",
-            "video_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/clip_1791908245_master.mp4",
-            "publish_at": "2026-10-15T15:30:00Z",
-            "status": "SCHEDULED",
-            "metadata": {
-              "title": "This \"Space Tool\" Stops Overeating \ud83d\ude80",
-              "description": "Andrew Huberman and Dr. Scott Konoski reveal the hidden link between your brain's memory and your daily appetite. Learn how these 'space tools' change everything about weight regulation.\n\n\u2022 How memory triggers your hunger\n\u2022 The neurobiology of appetite\n\u2022 Managing body weight signals\n\nFeaturing: Andrew Huberman\n\nDo you eat because you're hungry, or just because your brain remembers it is mealtime?\n\n#shorts #andrewhuberman #health #science #neurobiology #weightloss",
-              "tags": [
-                "Andrew Huberman",
-                "Dr. Scott Konoski",
-                "hunger science",
-                "neurobiology",
-                "appetite control",
-                "weight loss tips",
-                "memory and hunger",
-                "science of eating",
-                "metabolism",
-                "health optimization"
-              ],
-              "pinned_comment": "Science shows that hunger is often a memory, not a physical need. Do you think you could 'unlearn' your cravings?",
-              "ab_variants": {
-                "A": {
-                  "angle": "Curiosity Gap",
-                  "title": "This \"Space Tool\" Stops Overeating \ud83d\ude80",
-                  "description": "Andrew Huberman and Dr. Scott Konoski reveal the hidden link between your brain's memory and your daily appetite. Learn how these 'space tools' change everything about weight regulation.\n\n\u2022 How memory triggers your hunger\n\u2022 The neurobiology of appetite\n\u2022 Managing body weight signals\n\nFeaturing: Andrew Huberman\n\nDo you eat because you're hungry, or just because your brain remembers it is mealtime?\n\n#shorts #andrewhuberman #health #science #neurobiology #weightloss"
-                },
-                "B": {
-                  "angle": "Contrarian Truth",
-                  "title": "Hunger Isn't In Your Stomach \ud83e\udde0",
-                  "description": "Stop blaming your stomach for your cravings. Dr. Scott Konoski explains why hunger is actually a function of memory and how your mind dictates your body weight.\n\n\u2022 Why your brain tricks you into hunger\n\u2022 The truth about weight regulation\n\u2022 How memory impacts appetite\n\nFeaturing: Andrew Huberman\n\nIs willpower a real thing, or are we just following our brain's internal programming?\n\n#shorts #mindset #health #hubermanlab #nutrition #biology"
-                },
-                "C": {
-                  "angle": "Actionable Protocol",
-                  "title": "How To Control Appetite Using Science \ud83e\uddea",
-                  "description": "Master your hunger with these neurobiology protocols. Andrew Huberman breaks down the science of how the mind and body impact your weight and cravings.\n\n\u2022 Understanding appetite signals\n\u2022 Scientific weight regulation\n\u2022 The mind-body hunger connection\n\nFeaturing: Andrew Huberman\n\nWhat is the hardest time of day for you to resist cravings? Let's discuss below.\n\n#shorts #productivity #healthtips #dietscience #neuroscience #huberman"
-                }
-              },
-              "active_variant": "A",
-              "test_status": "ACTIVE_TEST",
-              "variant_history": [
-                {
-                  "variant": "A",
-                  "title": "This \"Space Tool\" Stops Overeating \ud83d\ude80",
-                  "deployed_at": 1791951189.975484,
-                  "reason": "Initial A/B test deployment"
-                },
-                {
-                  "title": "This \"Space Tool\" Stops Overeating \ud83d\ude80",
-                  "updated_at": 1791951570.61165,
-                  "reason": "Live Metadata Sync",
-                  "live_updated": true
-                }
-              ],
-              "metrics": {
-                "views": 0,
-                "likes": 0,
-                "comments": 0,
-                "retention": 0.0,
-                "ctr": 0.0
-              }
-            },
-            "created_at": 1791914350.570484
-          },
           {
             "id": "fNRU3YVzRoE",
             "title": "Why Your Brain Remembers Hunger Differently",
@@ -718,6 +661,74 @@
           }
         ],
         "published": [
+          {
+            "id": "KbAlC2n3W78",
+            "title": "This \"Space Tool\" Stops Overeating \ud83d\ude80",
+            "url": "https://www.youtube.com/shorts/KbAlC2n3W78",
+            "creator": "Andrew Huberman",
+            "video_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/clip_1791908245_master.mp4",
+            "publish_at": "2026-10-15T15:30:00Z",
+            "status": "PUBLISHED",
+            "metadata": {
+              "title": "This \"Space Tool\" Stops Overeating \ud83d\ude80",
+              "description": "Andrew Huberman and Dr. Scott Konoski reveal the hidden link between your brain's memory and your daily appetite. Learn how these 'space tools' change everything about weight regulation.\n\n\u2022 How memory triggers your hunger\n\u2022 The neurobiology of appetite\n\u2022 Managing body weight signals\n\nFeaturing: Andrew Huberman\n\nDo you eat because you're hungry, or just because your brain remembers it is mealtime?\n\n#shorts #andrewhuberman #health #science #neurobiology #weightloss",
+              "tags": [
+                "Andrew Huberman",
+                "Dr. Scott Konoski",
+                "hunger science",
+                "neurobiology",
+                "appetite control",
+                "weight loss tips",
+                "memory and hunger",
+                "science of eating",
+                "metabolism",
+                "health optimization"
+              ],
+              "pinned_comment": "Science shows that hunger is often a memory, not a physical need. Do you think you could 'unlearn' your cravings?",
+              "ab_variants": {
+                "A": {
+                  "angle": "Curiosity Gap",
+                  "title": "This \"Space Tool\" Stops Overeating \ud83d\ude80",
+                  "description": "Andrew Huberman and Dr. Scott Konoski reveal the hidden link between your brain's memory and your daily appetite. Learn how these 'space tools' change everything about weight regulation.\n\n\u2022 How memory triggers your hunger\n\u2022 The neurobiology of appetite\n\u2022 Managing body weight signals\n\nFeaturing: Andrew Huberman\n\nDo you eat because you're hungry, or just because your brain remembers it is mealtime?\n\n#shorts #andrewhuberman #health #science #neurobiology #weightloss"
+                },
+                "B": {
+                  "angle": "Contrarian Truth",
+                  "title": "Hunger Isn't In Your Stomach \ud83e\udde0",
+                  "description": "Stop blaming your stomach for your cravings. Dr. Scott Konoski explains why hunger is actually a function of memory and how your mind dictates your body weight.\n\n\u2022 Why your brain tricks you into hunger\n\u2022 The truth about weight regulation\n\u2022 How memory impacts appetite\n\nFeaturing: Andrew Huberman\n\nIs willpower a real thing, or are we just following our brain's internal programming?\n\n#shorts #mindset #health #hubermanlab #nutrition #biology"
+                },
+                "C": {
+                  "angle": "Actionable Protocol",
+                  "title": "How To Control Appetite Using Science \ud83e\uddea",
+                  "description": "Master your hunger with these neurobiology protocols. Andrew Huberman breaks down the science of how the mind and body impact your weight and cravings.\n\n\u2022 Understanding appetite signals\n\u2022 Scientific weight regulation\n\u2022 The mind-body hunger connection\n\nFeaturing: Andrew Huberman\n\nWhat is the hardest time of day for you to resist cravings? Let's discuss below.\n\n#shorts #productivity #healthtips #dietscience #neuroscience #huberman"
+                }
+              },
+              "active_variant": "A",
+              "test_status": "ACTIVE_TEST",
+              "variant_history": [
+                {
+                  "variant": "A",
+                  "title": "This \"Space Tool\" Stops Overeating \ud83d\ude80",
+                  "deployed_at": 1791951189.975484,
+                  "reason": "Initial A/B test deployment"
+                },
+                {
+                  "title": "This \"Space Tool\" Stops Overeating \ud83d\ude80",
+                  "updated_at": 1791951570.61165,
+                  "reason": "Live Metadata Sync",
+                  "live_updated": true
+                }
+              ],
+              "metrics": {
+                "views": 0,
+                "likes": 0,
+                "comments": 0,
+                "retention": 0.0,
+                "ctr": 0.0
+              }
+            },
+            "created_at": 1791914350.570484,
+            "published_at": "2026-10-15T15:30:00Z"
+          },
           {
             "id": "ZX0nAY29yf4",
             "title": "The Danger of Having \"Nothing To Do\"",
@@ -3115,7 +3126,17 @@
   "agents": {},
   "queue": {
     "queue": [],
-    "processing": null,
+    "processing": {
+      "id": "clip_1792078215",
+      "source_id": "YdIJW8RTptU",
+      "title": "Essentials: Neuralink & Technologies to Enhance Human Brains | Dr. Matt MacDougall",
+      "creator": "Andrew Huberman",
+      "source_type": "youtube",
+      "local_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/downloads/clip_1792078215_Essentials\uff1a Neuralink & Technologies to Enhance Hu.mp4",
+      "status": "QUEUED",
+      "notes": "Auto-scouted from Andrew Huberman",
+      "queued_at": 1792078226.70851
+    },
     "completed": [
       {
         "clip_id": "huberman_food_1791864881",
@@ -3374,73 +3395,6 @@
   },
   "calendar": {
     "scheduled": [
-      {
-        "id": "KbAlC2n3W78",
-        "title": "This \"Space Tool\" Stops Overeating \ud83d\ude80",
-        "url": "https://www.youtube.com/shorts/KbAlC2n3W78",
-        "creator": "Andrew Huberman",
-        "video_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/clip_1791908245_master.mp4",
-        "publish_at": "2026-10-15T15:30:00Z",
-        "status": "SCHEDULED",
-        "metadata": {
-          "title": "This \"Space Tool\" Stops Overeating \ud83d\ude80",
-          "description": "Andrew Huberman and Dr. Scott Konoski reveal the hidden link between your brain's memory and your daily appetite. Learn how these 'space tools' change everything about weight regulation.\n\n\u2022 How memory triggers your hunger\n\u2022 The neurobiology of appetite\n\u2022 Managing body weight signals\n\nFeaturing: Andrew Huberman\n\nDo you eat because you're hungry, or just because your brain remembers it is mealtime?\n\n#shorts #andrewhuberman #health #science #neurobiology #weightloss",
-          "tags": [
-            "Andrew Huberman",
-            "Dr. Scott Konoski",
-            "hunger science",
-            "neurobiology",
-            "appetite control",
-            "weight loss tips",
-            "memory and hunger",
-            "science of eating",
-            "metabolism",
-            "health optimization"
-          ],
-          "pinned_comment": "Science shows that hunger is often a memory, not a physical need. Do you think you could 'unlearn' your cravings?",
-          "ab_variants": {
-            "A": {
-              "angle": "Curiosity Gap",
-              "title": "This \"Space Tool\" Stops Overeating \ud83d\ude80",
-              "description": "Andrew Huberman and Dr. Scott Konoski reveal the hidden link between your brain's memory and your daily appetite. Learn how these 'space tools' change everything about weight regulation.\n\n\u2022 How memory triggers your hunger\n\u2022 The neurobiology of appetite\n\u2022 Managing body weight signals\n\nFeaturing: Andrew Huberman\n\nDo you eat because you're hungry, or just because your brain remembers it is mealtime?\n\n#shorts #andrewhuberman #health #science #neurobiology #weightloss"
-            },
-            "B": {
-              "angle": "Contrarian Truth",
-              "title": "Hunger Isn't In Your Stomach \ud83e\udde0",
-              "description": "Stop blaming your stomach for your cravings. Dr. Scott Konoski explains why hunger is actually a function of memory and how your mind dictates your body weight.\n\n\u2022 Why your brain tricks you into hunger\n\u2022 The truth about weight regulation\n\u2022 How memory impacts appetite\n\nFeaturing: Andrew Huberman\n\nIs willpower a real thing, or are we just following our brain's internal programming?\n\n#shorts #mindset #health #hubermanlab #nutrition #biology"
-            },
-            "C": {
-              "angle": "Actionable Protocol",
-              "title": "How To Control Appetite Using Science \ud83e\uddea",
-              "description": "Master your hunger with these neurobiology protocols. Andrew Huberman breaks down the science of how the mind and body impact your weight and cravings.\n\n\u2022 Understanding appetite signals\n\u2022 Scientific weight regulation\n\u2022 The mind-body hunger connection\n\nFeaturing: Andrew Huberman\n\nWhat is the hardest time of day for you to resist cravings? Let's discuss below.\n\n#shorts #productivity #healthtips #dietscience #neuroscience #huberman"
-            }
-          },
-          "active_variant": "A",
-          "test_status": "ACTIVE_TEST",
-          "variant_history": [
-            {
-              "variant": "A",
-              "title": "This \"Space Tool\" Stops Overeating \ud83d\ude80",
-              "deployed_at": 1791951189.975484,
-              "reason": "Initial A/B test deployment"
-            },
-            {
-              "title": "This \"Space Tool\" Stops Overeating \ud83d\ude80",
-              "updated_at": 1791951570.61165,
-              "reason": "Live Metadata Sync",
-              "live_updated": true
-            }
-          ],
-          "metrics": {
-            "views": 0,
-            "likes": 0,
-            "comments": 0,
-            "retention": 0.0,
-            "ctr": 0.0
-          }
-        },
-        "created_at": 1791914350.570484
-      },
       {
         "id": "fNRU3YVzRoE",
         "title": "Why Your Brain Remembers Hunger Differently",
@@ -3759,6 +3713,74 @@
       }
     ],
     "published": [
+      {
+        "id": "KbAlC2n3W78",
+        "title": "This \"Space Tool\" Stops Overeating \ud83d\ude80",
+        "url": "https://www.youtube.com/shorts/KbAlC2n3W78",
+        "creator": "Andrew Huberman",
+        "video_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/clip_1791908245_master.mp4",
+        "publish_at": "2026-10-15T15:30:00Z",
+        "status": "PUBLISHED",
+        "metadata": {
+          "title": "This \"Space Tool\" Stops Overeating \ud83d\ude80",
+          "description": "Andrew Huberman and Dr. Scott Konoski reveal the hidden link between your brain's memory and your daily appetite. Learn how these 'space tools' change everything about weight regulation.\n\n\u2022 How memory triggers your hunger\n\u2022 The neurobiology of appetite\n\u2022 Managing body weight signals\n\nFeaturing: Andrew Huberman\n\nDo you eat because you're hungry, or just because your brain remembers it is mealtime?\n\n#shorts #andrewhuberman #health #science #neurobiology #weightloss",
+          "tags": [
+            "Andrew Huberman",
+            "Dr. Scott Konoski",
+            "hunger science",
+            "neurobiology",
+            "appetite control",
+            "weight loss tips",
+            "memory and hunger",
+            "science of eating",
+            "metabolism",
+            "health optimization"
+          ],
+          "pinned_comment": "Science shows that hunger is often a memory, not a physical need. Do you think you could 'unlearn' your cravings?",
+          "ab_variants": {
+            "A": {
+              "angle": "Curiosity Gap",
+              "title": "This \"Space Tool\" Stops Overeating \ud83d\ude80",
+              "description": "Andrew Huberman and Dr. Scott Konoski reveal the hidden link between your brain's memory and your daily appetite. Learn how these 'space tools' change everything about weight regulation.\n\n\u2022 How memory triggers your hunger\n\u2022 The neurobiology of appetite\n\u2022 Managing body weight signals\n\nFeaturing: Andrew Huberman\n\nDo you eat because you're hungry, or just because your brain remembers it is mealtime?\n\n#shorts #andrewhuberman #health #science #neurobiology #weightloss"
+            },
+            "B": {
+              "angle": "Contrarian Truth",
+              "title": "Hunger Isn't In Your Stomach \ud83e\udde0",
+              "description": "Stop blaming your stomach for your cravings. Dr. Scott Konoski explains why hunger is actually a function of memory and how your mind dictates your body weight.\n\n\u2022 Why your brain tricks you into hunger\n\u2022 The truth about weight regulation\n\u2022 How memory impacts appetite\n\nFeaturing: Andrew Huberman\n\nIs willpower a real thing, or are we just following our brain's internal programming?\n\n#shorts #mindset #health #hubermanlab #nutrition #biology"
+            },
+            "C": {
+              "angle": "Actionable Protocol",
+              "title": "How To Control Appetite Using Science \ud83e\uddea",
+              "description": "Master your hunger with these neurobiology protocols. Andrew Huberman breaks down the science of how the mind and body impact your weight and cravings.\n\n\u2022 Understanding appetite signals\n\u2022 Scientific weight regulation\n\u2022 The mind-body hunger connection\n\nFeaturing: Andrew Huberman\n\nWhat is the hardest time of day for you to resist cravings? Let's discuss below.\n\n#shorts #productivity #healthtips #dietscience #neuroscience #huberman"
+            }
+          },
+          "active_variant": "A",
+          "test_status": "ACTIVE_TEST",
+          "variant_history": [
+            {
+              "variant": "A",
+              "title": "This \"Space Tool\" Stops Overeating \ud83d\ude80",
+              "deployed_at": 1791951189.975484,
+              "reason": "Initial A/B test deployment"
+            },
+            {
+              "title": "This \"Space Tool\" Stops Overeating \ud83d\ude80",
+              "updated_at": 1791951570.61165,
+              "reason": "Live Metadata Sync",
+              "live_updated": true
+            }
+          ],
+          "metrics": {
+            "views": 0,
+            "likes": 0,
+            "comments": 0,
+            "retention": 0.0,
+            "ctr": 0.0
+          }
+        },
+        "created_at": 1791914350.570484,
+        "published_at": "2026-10-15T15:30:00Z"
+      },
       {
         "id": "ZX0nAY29yf4",
         "title": "The Danger of Having \"Nothing To Do\"",

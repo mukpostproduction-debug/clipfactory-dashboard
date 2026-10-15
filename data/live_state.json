@@ -1,6 +1,6 @@
 {
-  "timestamp": 1792029971.600577,
-  "sync_time_iso": "2026-10-15T02:06:11Z",
+  "timestamp": 1792030033.216495,
+  "sync_time_iso": "2026-10-15T02:07:13Z",
   "default_channel": "muk_podcast",
   "channels": {
     "muk_podcast": {
@@ -2145,14 +2145,14 @@
           "current_task": "Pop culture queue up to date. Monitoring for new episodes.",
           "last_completed_task": "Ingested 6 recent episodes across Trisha, Enya/Drew, and Benito",
           "recent_logs": [
-            "[21:53:48] Scanning Trisha Paytas, Emergency Intercom, and Benito Skinner feeds...",
-            "[21:53:58] Pop culture queue up to date. Monitoring for new episodes.",
             "[21:57:23] Scanning Trisha Paytas, Emergency Intercom, and Benito Skinner feeds...",
             "[21:57:34] Pop culture queue up to date. Monitoring for new episodes.",
             "[22:00:49] Scanning Trisha Paytas, Emergency Intercom, and Benito Skinner feeds...",
             "[22:01:03] Pop culture queue up to date. Monitoring for new episodes.",
             "[22:03:03] Scanning Trisha Paytas, Emergency Intercom, and Benito Skinner feeds...",
-            "[22:03:14] Pop culture queue up to date. Monitoring for new episodes."
+            "[22:03:14] Pop culture queue up to date. Monitoring for new episodes.",
+            "[22:06:30] Scanning Trisha Paytas, Emergency Intercom, and Benito Skinner feeds...",
+            "[22:06:40] Pop culture queue up to date. Monitoring for new episodes."
           ]
         },
         "STRATEGIST": {
@@ -2172,17 +2172,17 @@
         },
         "EDITOR": {
           "status": "idle",
-          "current_task": "Rendering 1080x1920 Short with pop captions: Ride Presents: Haunted HayRide",
+          "current_task": "Downloading highlight segment for: A DAY IN THE LIFE OF LANA DEL REY.....",
           "last_completed_task": "Rendered Trisha Paytas & Brittany Broski pop culture highlight with Neon Pink/Cyan pop captions",
           "recent_logs": [
-            "[21:50:37] Rendering 1080x1920 Short with pop captions: Emergency Intercom - Episode 2",
             "[21:53:58] Downloading highlight segment for: Boba Tea + Wearable Art...",
             "[21:54:09] Rendering 1080x1920 Short with pop captions: Boba Tea + Wearable Art",
             "[21:57:34] Downloading highlight segment for: Movies on a Plane + Not Overthinkin...",
             "[21:57:50] Rendering 1080x1920 Short with pop captions: Movies on a Plane + Not Overth",
             "[22:01:03] Downloading highlight segment for: OVERCOMPENSATING OFFICIAL TEASER...",
             "[22:03:14] Downloading highlight segment for: Ride Presents: Haunted HayRide SPOO...",
-            "[22:03:27] Rendering 1080x1920 Short with pop captions: Ride Presents: Haunted HayRide"
+            "[22:03:27] Rendering 1080x1920 Short with pop captions: Ride Presents: Haunted HayRide",
+            "[22:06:40] Downloading highlight segment for: A DAY IN THE LIFE OF LANA DEL REY....."
           ]
         },
         "COMMENTATOR": {
@@ -2214,14 +2214,14 @@
           "current_task": "Auditing velocity of active Pop Culture & Comedy Shorts...",
           "last_completed_task": "Calibrated benchmark: >25 views/hr in first 3 hours",
           "recent_logs": [
-            "[21:40:28] Auditing velocity of active Pop Culture & Comedy Shorts...",
             "[21:44:06] Auditing velocity of active Pop Culture & Comedy Shorts...",
             "[21:48:09] Auditing velocity of active Pop Culture & Comedy Shorts...",
             "[21:51:48] Auditing velocity of active Pop Culture & Comedy Shorts...",
             "[21:55:23] Auditing velocity of active Pop Culture & Comedy Shorts...",
             "[21:58:49] Auditing velocity of active Pop Culture & Comedy Shorts...",
             "[22:01:03] Auditing velocity of active Pop Culture & Comedy Shorts...",
-            "[22:04:30] Auditing velocity of active Pop Culture & Comedy Shorts..."
+            "[22:04:30] Auditing velocity of active Pop Culture & Comedy Shorts...",
+            "[22:06:40] Auditing velocity of active Pop Culture & Comedy Shorts..."
           ]
         },
         "WATCHDOG": {
@@ -2229,14 +2229,14 @@
           "current_task": "Verifying Fair Use compliance: 100% transformative commentary.",
           "last_completed_task": "Validated commentary & transformative overlay standards",
           "recent_logs": [
-            "[21:40:28] Verifying Fair Use compliance: 100% transformative commentary.",
             "[21:44:06] Verifying Fair Use compliance: 100% transformative commentary.",
             "[21:48:09] Verifying Fair Use compliance: 100% transformative commentary.",
             "[21:51:48] Verifying Fair Use compliance: 100% transformative commentary.",
             "[21:55:23] Verifying Fair Use compliance: 100% transformative commentary.",
             "[21:58:49] Verifying Fair Use compliance: 100% transformative commentary.",
             "[22:01:03] Verifying Fair Use compliance: 100% transformative commentary.",
-            "[22:04:30] Verifying Fair Use compliance: 100% transformative commentary."
+            "[22:04:30] Verifying Fair Use compliance: 100% transformative commentary.",
+            "[22:06:40] Verifying Fair Use compliance: 100% transformative commentary."
           ]
         }
       },
@@ -2324,7 +2324,7 @@
             "title": "A DAY IN THE LIFE OF LANA DEL REY...",
             "url": "Benito Skinner (2023)",
             "duration": 3600,
-            "status": "QUEUED",
+            "status": "FAILED_DOWNLOAD",
             "added_at": "2026-10-15T01:35:06Z"
           },
           {

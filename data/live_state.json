@@ -1,6 +1,6 @@
 {
-  "timestamp": 1792078247.582291,
-  "sync_time_iso": "2026-10-15T15:30:47Z",
+  "timestamp": 1792078310.3112278,
+  "sync_time_iso": "2026-10-15T15:31:50Z",
   "default_channel": "muk_podcast",
   "channels": {
     "muk_podcast": {
@@ -74,17 +74,7 @@
       "agents": {},
       "queue": {
         "queue": [],
-        "processing": {
-          "id": "clip_1792078215",
-          "source_id": "YdIJW8RTptU",
-          "title": "Essentials: Neuralink & Technologies to Enhance Human Brains | Dr. Matt MacDougall",
-          "creator": "Andrew Huberman",
-          "source_type": "youtube",
-          "local_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/downloads/clip_1792078215_Essentials\uff1a Neuralink & Technologies to Enhance Hu.mp4",
-          "status": "QUEUED",
-          "notes": "Auto-scouted from Andrew Huberman",
-          "queued_at": 1792078226.70851
-        },
+        "processing": null,
         "completed": [
           {
             "clip_id": "huberman_food_1791864881",
@@ -337,6 +327,25 @@
               "voiceover_audio": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/audio/clip_1792021508_commentary.mp3"
             },
             "timestamp": 1792021549.216515
+          },
+          {
+            "clip_id": "clip_1792078215",
+            "status": "COMPLETED",
+            "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/clip_1792078215_master.mp4",
+            "start_time": 7.44,
+            "end_time": 64.9,
+            "duration": 57.46,
+            "viral_score": 92,
+            "topic": "Brain Damage Impulse Control",
+            "hook_summary": "A surgeon recounts a startling patient encounter that perfectly illustrates the devastating loss of impulse control following frontal lobe injury.",
+            "opening_hook_quote": "And sometimes you see very interesting failure modes.",
+            "core_insight": "Frontal lobe damage strips away the biological barriers of impulse control, revealing that human behavior is physically dependent on brain structure.",
+            "commentary": {
+              "intro_hook": "When the frontal lobe fails, human behavior takes a dark turn.",
+              "outro_reaction": "Neurology defines personality. Should we judge people based on their brain biology?",
+              "voiceover_audio": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/audio/clip_1792078215_commentary.mp3"
+            },
+            "timestamp": 1792078256.0305312
           }
         ],
         "failed": []
@@ -658,6 +667,67 @@
               }
             },
             "created_at": 1792021563.250759
+          },
+          {
+            "id": "cRI42wcSUBM",
+            "title": "This Patient Lost Their \"Brakes\"",
+            "url": "https://www.youtube.com/shorts/cRI42wcSUBM",
+            "creator": "Andrew Huberman",
+            "video_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/clip_1792078215_master.mp4",
+            "publish_at": "2026-10-17T15:30:00Z",
+            "status": "SCHEDULED",
+            "metadata": {
+              "title": "This Patient Lost Their \"Brakes\"",
+              "description": "Discover what happens when the brain's filter is physically removed. Andrew Huberman shares a startling case study on how frontal lobe damage creates a 'failure mode' in human behavior.\n\n\u2022 Why your personality depends on your brain structure\n\u2022 The biological mechanism of the 'prefrontal brakes'\n\u2022 How injury reveals our hidden impulses\n\nFeaturing: Andrew Huberman\n\nIf you suddenly lost all impulse control, what is the first thing you think you'd do? Let us know in the comments.\n\n#shorts #andrewhuberman #neuroscience #psychology #brainhealth",
+              "tags": [
+                "Andrew Huberman",
+                "Neuroscience",
+                "Frontal Lobe",
+                "Impulse Control",
+                "Brain Health",
+                "Psychology",
+                "Behavioral Science",
+                "Neurology",
+                "Mental Performance",
+                "Cognitive Health"
+              ],
+              "pinned_comment": "If you lost your social filter tomorrow, what is the most honest thing you would say to your boss or best friend? \ud83d\udc47",
+              "ab_variants": {
+                "A": {
+                  "angle": "Curiosity Gap",
+                  "title": "This Patient Lost Their \"Brakes\"",
+                  "description": "Discover what happens when the brain's filter is physically removed. Andrew Huberman shares a startling case study on how frontal lobe damage creates a 'failure mode' in human behavior.\n\n\u2022 Why your personality depends on your brain structure\n\u2022 The biological mechanism of the 'prefrontal brakes'\n\u2022 How injury reveals our hidden impulses\n\nFeaturing: Andrew Huberman\n\nIf you suddenly lost all impulse control, what is the first thing you think you'd do? Let us know in the comments.\n\n#shorts #andrewhuberman #neuroscience #psychology #brainhealth"
+                },
+                "B": {
+                  "angle": "Contrarian Truth",
+                  "title": "Your Personality is Just Your Brain",
+                  "description": "Is 'free will' an illusion? Andrew Huberman discusses how a single physical change in the frontal lobe can instantly turn a polite person into a person without a filter.\n\n\u2022 The physical reality of human behavior\n\u2022 Why impulse control isn't just 'willpower'\n\u2022 The scary truth about brain-driven personality shifts\n\nFeaturing: Andrew Huberman\n\nDo you believe we have free will, or are we just slaves to our brain's physical structure? Debate below.\n\n#shorts #science #biology #mindset #philosophy #health"
+                },
+                "C": {
+                  "angle": "Actionable Protocol",
+                  "title": "The Science of Your Impulse Control",
+                  "description": "Master your behavior by understanding the hardware of your brain. Andrew Huberman explains the specific 'failure modes' that lead to a loss of discipline and self-restraint.\n\n\u2022 Identifying your brain's impulse failure modes\n\u2022 How the frontal lobe regulates daily decisions\n\u2022 Protecting the cognitive structures that drive discipline\n\nFeaturing: Andrew Huberman\n\nWhat is the hardest impulse for you to control on a daily basis? Share your struggle.\n\n#shorts #productivity #discipline #focus #mentalhealth #growth"
+                }
+              },
+              "active_variant": "A",
+              "test_status": "ACTIVE_TEST",
+              "variant_history": [
+                {
+                  "variant": "A",
+                  "title": "This Patient Lost Their \"Brakes\"",
+                  "deployed_at": 1792078263.881001,
+                  "reason": "Initial A/B test deployment"
+                }
+              ],
+              "metrics": {
+                "views": 0,
+                "likes": 0,
+                "comments": 0,
+                "retention": 0.0,
+                "ctr": 0.0
+              }
+            },
+            "created_at": 1792078268.64143
           }
         ],
         "published": [
@@ -1386,14 +1456,14 @@
           "current_task": "Queue up to date. Waiting for next daily Ken upload.",
           "last_completed_task": "Ingested 5 recent Ken master videos into source pool",
           "recent_logs": [
-            "[11:22:19] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
-            "[11:22:30] Queue up to date. Waiting for next daily Ken upload.",
             "[11:24:30] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
             "[11:24:41] Queue up to date. Waiting for next daily Ken upload.",
             "[11:26:41] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
             "[11:26:51] Queue up to date. Waiting for next daily Ken upload.",
             "[11:28:51] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
-            "[11:29:01] Queue up to date. Waiting for next daily Ken upload."
+            "[11:29:01] Queue up to date. Waiting for next daily Ken upload.",
+            "[11:31:01] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
+            "[11:31:13] Queue up to date. Waiting for next daily Ken upload."
           ]
         },
         "STRATEGIST": {
@@ -1401,14 +1471,14 @@
           "current_task": "Buffer healthy: 6/6 scheduled Ken Shorts staged.",
           "last_completed_task": "Mapped 3 distinct viral gaming hook angles for initial drops",
           "recent_logs": [
-            "[11:13:43] Buffer healthy: 6/6 scheduled Ken Shorts staged.",
             "[11:15:56] Buffer healthy: 6/6 scheduled Ken Shorts staged.",
             "[11:18:07] Buffer healthy: 6/6 scheduled Ken Shorts staged.",
             "[11:20:19] Buffer healthy: 6/6 scheduled Ken Shorts staged.",
             "[11:22:30] Buffer healthy: 6/6 scheduled Ken Shorts staged.",
             "[11:24:41] Buffer healthy: 6/6 scheduled Ken Shorts staged.",
             "[11:26:51] Buffer healthy: 6/6 scheduled Ken Shorts staged.",
-            "[11:29:01] Buffer healthy: 6/6 scheduled Ken Shorts staged."
+            "[11:29:01] Buffer healthy: 6/6 scheduled Ken Shorts staged.",
+            "[11:31:13] Buffer healthy: 6/6 scheduled Ken Shorts staged."
           ]
         },
         "EDITOR": {
@@ -1455,14 +1525,14 @@
           "current_task": "Auditing velocity of active Ken Clash Royale Shorts...",
           "last_completed_task": "Calibrated gaming threshold: >15 views/hr within 4h",
           "recent_logs": [
-            "[11:13:43] Auditing velocity of active Ken Clash Royale Shorts...",
             "[11:15:56] Auditing velocity of active Ken Clash Royale Shorts...",
             "[11:18:07] Auditing velocity of active Ken Clash Royale Shorts...",
             "[11:20:19] Auditing velocity of active Ken Clash Royale Shorts...",
             "[11:22:30] Auditing velocity of active Ken Clash Royale Shorts...",
             "[11:24:41] Auditing velocity of active Ken Clash Royale Shorts...",
             "[11:26:51] Auditing velocity of active Ken Clash Royale Shorts...",
-            "[11:29:01] Auditing velocity of active Ken Clash Royale Shorts..."
+            "[11:29:01] Auditing velocity of active Ken Clash Royale Shorts...",
+            "[11:31:13] Auditing velocity of active Ken Clash Royale Shorts..."
           ]
         },
         "WATCHDOG": {
@@ -1470,14 +1540,14 @@
           "current_task": "Verifying Supercell fan policy: 0 claims, 0 strikes.",
           "last_completed_task": "Audited source parameters: strictly <30s segment rule active",
           "recent_logs": [
-            "[11:13:43] Verifying Supercell fan policy: 0 claims, 0 strikes.",
             "[11:15:56] Verifying Supercell fan policy: 0 claims, 0 strikes.",
             "[11:18:07] Verifying Supercell fan policy: 0 claims, 0 strikes.",
             "[11:20:19] Verifying Supercell fan policy: 0 claims, 0 strikes.",
             "[11:22:30] Verifying Supercell fan policy: 0 claims, 0 strikes.",
             "[11:24:41] Verifying Supercell fan policy: 0 claims, 0 strikes.",
             "[11:26:51] Verifying Supercell fan policy: 0 claims, 0 strikes.",
-            "[11:29:01] Verifying Supercell fan policy: 0 claims, 0 strikes."
+            "[11:29:01] Verifying Supercell fan policy: 0 claims, 0 strikes.",
+            "[11:31:13] Verifying Supercell fan policy: 0 claims, 0 strikes."
           ]
         }
       },
@@ -2234,14 +2304,14 @@
           "current_task": "Pop culture queue up to date. Monitoring for new episodes.",
           "last_completed_task": "Ingested 6 recent episodes across Trisha, Enya/Drew, and Benito",
           "recent_logs": [
-            "[11:22:18] Scanning Trisha Paytas, Emergency Intercom, and Benito Skinner feeds...",
-            "[11:22:29] Pop culture queue up to date. Monitoring for new episodes.",
             "[11:24:29] Scanning Trisha Paytas, Emergency Intercom, and Benito Skinner feeds...",
             "[11:24:38] Pop culture queue up to date. Monitoring for new episodes.",
             "[11:26:38] Scanning Trisha Paytas, Emergency Intercom, and Benito Skinner feeds...",
             "[11:26:47] Pop culture queue up to date. Monitoring for new episodes.",
             "[11:28:47] Scanning Trisha Paytas, Emergency Intercom, and Benito Skinner feeds...",
-            "[11:28:57] Pop culture queue up to date. Monitoring for new episodes."
+            "[11:28:57] Pop culture queue up to date. Monitoring for new episodes.",
+            "[11:30:57] Scanning Trisha Paytas, Emergency Intercom, and Benito Skinner feeds...",
+            "[11:31:06] Pop culture queue up to date. Monitoring for new episodes."
           ]
         },
         "STRATEGIST": {
@@ -2249,14 +2319,14 @@
           "current_task": "No queued candidates ready. Waiting for SCOUT.",
           "last_completed_task": "Calibrated 3 pop-culture hook angles: Shock Tea, Chaos Banter, Satirical Voice Mimicry",
           "recent_logs": [
-            "[11:13:47] No queued candidates ready. Waiting for SCOUT.",
             "[11:15:57] No queued candidates ready. Waiting for SCOUT.",
             "[11:18:08] No queued candidates ready. Waiting for SCOUT.",
             "[11:20:18] No queued candidates ready. Waiting for SCOUT.",
             "[11:22:29] No queued candidates ready. Waiting for SCOUT.",
             "[11:24:38] No queued candidates ready. Waiting for SCOUT.",
             "[11:26:47] No queued candidates ready. Waiting for SCOUT.",
-            "[11:28:57] No queued candidates ready. Waiting for SCOUT."
+            "[11:28:57] No queued candidates ready. Waiting for SCOUT.",
+            "[11:31:06] No queued candidates ready. Waiting for SCOUT."
           ]
         },
         "EDITOR": {
@@ -2303,14 +2373,14 @@
           "current_task": "Auditing velocity of active Pop Culture & Comedy Shorts...",
           "last_completed_task": "Calibrated benchmark: >25 views/hr in first 3 hours",
           "recent_logs": [
-            "[11:13:47] Auditing velocity of active Pop Culture & Comedy Shorts...",
             "[11:15:57] Auditing velocity of active Pop Culture & Comedy Shorts...",
             "[11:18:08] Auditing velocity of active Pop Culture & Comedy Shorts...",
             "[11:20:18] Auditing velocity of active Pop Culture & Comedy Shorts...",
             "[11:22:29] Auditing velocity of active Pop Culture & Comedy Shorts...",
             "[11:24:38] Auditing velocity of active Pop Culture & Comedy Shorts...",
             "[11:26:47] Auditing velocity of active Pop Culture & Comedy Shorts...",
-            "[11:28:57] Auditing velocity of active Pop Culture & Comedy Shorts..."
+            "[11:28:57] Auditing velocity of active Pop Culture & Comedy Shorts...",
+            "[11:31:06] Auditing velocity of active Pop Culture & Comedy Shorts..."
           ]
         },
         "WATCHDOG": {
@@ -2318,14 +2388,14 @@
           "current_task": "Verifying Fair Use compliance: 100% transformative commentary.",
           "last_completed_task": "Validated commentary & transformative overlay standards",
           "recent_logs": [
-            "[11:13:47] Verifying Fair Use compliance: 100% transformative commentary.",
             "[11:15:57] Verifying Fair Use compliance: 100% transformative commentary.",
             "[11:18:08] Verifying Fair Use compliance: 100% transformative commentary.",
             "[11:20:18] Verifying Fair Use compliance: 100% transformative commentary.",
             "[11:22:29] Verifying Fair Use compliance: 100% transformative commentary.",
             "[11:24:38] Verifying Fair Use compliance: 100% transformative commentary.",
             "[11:26:47] Verifying Fair Use compliance: 100% transformative commentary.",
-            "[11:28:57] Verifying Fair Use compliance: 100% transformative commentary."
+            "[11:28:57] Verifying Fair Use compliance: 100% transformative commentary.",
+            "[11:31:06] Verifying Fair Use compliance: 100% transformative commentary."
           ]
         }
       },
@@ -3126,17 +3196,7 @@
   "agents": {},
   "queue": {
     "queue": [],
-    "processing": {
-      "id": "clip_1792078215",
-      "source_id": "YdIJW8RTptU",
-      "title": "Essentials: Neuralink & Technologies to Enhance Human Brains | Dr. Matt MacDougall",
-      "creator": "Andrew Huberman",
-      "source_type": "youtube",
-      "local_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/downloads/clip_1792078215_Essentials\uff1a Neuralink & Technologies to Enhance Hu.mp4",
-      "status": "QUEUED",
-      "notes": "Auto-scouted from Andrew Huberman",
-      "queued_at": 1792078226.70851
-    },
+    "processing": null,
     "completed": [
       {
         "clip_id": "huberman_food_1791864881",
@@ -3389,6 +3449,25 @@
           "voiceover_audio": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/audio/clip_1792021508_commentary.mp3"
         },
         "timestamp": 1792021549.216515
+      },
+      {
+        "clip_id": "clip_1792078215",
+        "status": "COMPLETED",
+        "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/clip_1792078215_master.mp4",
+        "start_time": 7.44,
+        "end_time": 64.9,
+        "duration": 57.46,
+        "viral_score": 92,
+        "topic": "Brain Damage Impulse Control",
+        "hook_summary": "A surgeon recounts a startling patient encounter that perfectly illustrates the devastating loss of impulse control following frontal lobe injury.",
+        "opening_hook_quote": "And sometimes you see very interesting failure modes.",
+        "core_insight": "Frontal lobe damage strips away the biological barriers of impulse control, revealing that human behavior is physically dependent on brain structure.",
+        "commentary": {
+          "intro_hook": "When the frontal lobe fails, human behavior takes a dark turn.",
+          "outro_reaction": "Neurology defines personality. Should we judge people based on their brain biology?",
+          "voiceover_audio": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/audio/clip_1792078215_commentary.mp3"
+        },
+        "timestamp": 1792078256.0305312
       }
     ],
     "failed": []
@@ -3710,6 +3789,67 @@
           }
         },
         "created_at": 1792021563.250759
+      },
+      {
+        "id": "cRI42wcSUBM",
+        "title": "This Patient Lost Their \"Brakes\"",
+        "url": "https://www.youtube.com/shorts/cRI42wcSUBM",
+        "creator": "Andrew Huberman",
+        "video_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/clip_1792078215_master.mp4",
+        "publish_at": "2026-10-17T15:30:00Z",
+        "status": "SCHEDULED",
+        "metadata": {
+          "title": "This Patient Lost Their \"Brakes\"",
+          "description": "Discover what happens when the brain's filter is physically removed. Andrew Huberman shares a startling case study on how frontal lobe damage creates a 'failure mode' in human behavior.\n\n\u2022 Why your personality depends on your brain structure\n\u2022 The biological mechanism of the 'prefrontal brakes'\n\u2022 How injury reveals our hidden impulses\n\nFeaturing: Andrew Huberman\n\nIf you suddenly lost all impulse control, what is the first thing you think you'd do? Let us know in the comments.\n\n#shorts #andrewhuberman #neuroscience #psychology #brainhealth",
+          "tags": [
+            "Andrew Huberman",
+            "Neuroscience",
+            "Frontal Lobe",
+            "Impulse Control",
+            "Brain Health",
+            "Psychology",
+            "Behavioral Science",
+            "Neurology",
+            "Mental Performance",
+            "Cognitive Health"
+          ],
+          "pinned_comment": "If you lost your social filter tomorrow, what is the most honest thing you would say to your boss or best friend? \ud83d\udc47",
+          "ab_variants": {
+            "A": {
+              "angle": "Curiosity Gap",
+              "title": "This Patient Lost Their \"Brakes\"",
+              "description": "Discover what happens when the brain's filter is physically removed. Andrew Huberman shares a startling case study on how frontal lobe damage creates a 'failure mode' in human behavior.\n\n\u2022 Why your personality depends on your brain structure\n\u2022 The biological mechanism of the 'prefrontal brakes'\n\u2022 How injury reveals our hidden impulses\n\nFeaturing: Andrew Huberman\n\nIf you suddenly lost all impulse control, what is the first thing you think you'd do? Let us know in the comments.\n\n#shorts #andrewhuberman #neuroscience #psychology #brainhealth"
+            },
+            "B": {
+              "angle": "Contrarian Truth",
+              "title": "Your Personality is Just Your Brain",
+              "description": "Is 'free will' an illusion? Andrew Huberman discusses how a single physical change in the frontal lobe can instantly turn a polite person into a person without a filter.\n\n\u2022 The physical reality of human behavior\n\u2022 Why impulse control isn't just 'willpower'\n\u2022 The scary truth about brain-driven personality shifts\n\nFeaturing: Andrew Huberman\n\nDo you believe we have free will, or are we just slaves to our brain's physical structure? Debate below.\n\n#shorts #science #biology #mindset #philosophy #health"
+            },
+            "C": {
+              "angle": "Actionable Protocol",
+              "title": "The Science of Your Impulse Control",
+              "description": "Master your behavior by understanding the hardware of your brain. Andrew Huberman explains the specific 'failure modes' that lead to a loss of discipline and self-restraint.\n\n\u2022 Identifying your brain's impulse failure modes\n\u2022 How the frontal lobe regulates daily decisions\n\u2022 Protecting the cognitive structures that drive discipline\n\nFeaturing: Andrew Huberman\n\nWhat is the hardest impulse for you to control on a daily basis? Share your struggle.\n\n#shorts #productivity #discipline #focus #mentalhealth #growth"
+            }
+          },
+          "active_variant": "A",
+          "test_status": "ACTIVE_TEST",
+          "variant_history": [
+            {
+              "variant": "A",
+              "title": "This Patient Lost Their \"Brakes\"",
+              "deployed_at": 1792078263.881001,
+              "reason": "Initial A/B test deployment"
+            }
+          ],
+          "metrics": {
+            "views": 0,
+            "likes": 0,
+            "comments": 0,
+            "retention": 0.0,
+            "ctr": 0.0
+          }
+        },
+        "created_at": 1792078268.64143
       }
     ],
     "published": [

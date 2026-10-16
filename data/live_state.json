@@ -1,6 +1,6 @@
 {
-  "timestamp": 1792163269.177228,
-  "sync_time_iso": "2026-10-16T15:07:49Z",
+  "timestamp": 1792163280.870631,
+  "sync_time_iso": "2026-10-16T15:08:00Z",
   "default_channel": "muk_podcast",
   "channels": {
     "muk_podcast": {
@@ -2477,17 +2477,17 @@
         },
         "PUBLISHER": {
           "status": "working",
-          "current_task": "Generating dynamic A/B metadata for slot: 05:00 PM ET (Sat, Oct 17)...",
+          "current_task": "Short SCHEDULED on YouTube: Hzi-fr-Odjs (05:00 PM ET (Sat, Oct 17))",
           "last_completed_task": "Uploaded all 3 initial pop-culture Shorts to YouTube (@abiclitsalot)",
           "recent_logs": [
-            "[22:19:28] Upload failed for abigail_1792028162_3; staged for automatic retry.",
-            "[11:01:43] Generating dynamic A/B metadata for slot: 09:00 PM ET (Fri, Oct 16)...",
             "[11:01:50] Deploying to YouTube (@abiclitsalot) for release 09:00 PM ET (Fri, Oct 16)...",
             "[11:01:55] Short SCHEDULED on YouTube: qQHrbZLPEOI (09:00 PM ET (Fri, Oct 16))",
             "[11:04:45] Generating dynamic A/B metadata for slot: 12:30 PM ET (Sat, Oct 17)...",
             "[11:04:52] Deploying to YouTube (@abiclitsalot) for release 12:30 PM ET (Sat, Oct 17)...",
             "[11:04:57] Short SCHEDULED on YouTube: KGeMWgJMi8U (12:30 PM ET (Sat, Oct 17))",
-            "[11:07:47] Generating dynamic A/B metadata for slot: 05:00 PM ET (Sat, Oct 17)..."
+            "[11:07:47] Generating dynamic A/B metadata for slot: 05:00 PM ET (Sat, Oct 17)...",
+            "[11:07:55] Deploying to YouTube (@abiclitsalot) for release 05:00 PM ET (Sat, Oct 17)...",
+            "[11:08:00] Short SCHEDULED on YouTube: Hzi-fr-Odjs (05:00 PM ET (Sat, Oct 17))"
           ]
         },
         "ANALYST": {
@@ -2655,15 +2655,6 @@
             "duration": 3600,
             "status": "FAILED_DOWNLOAD",
             "added_at": "2026-10-15T15:39:37Z"
-          },
-          {
-            "id": "abigail_1792162863_2",
-            "creator": "Benito Skinner",
-            "title": "FINALS SEASON | Benito Skinner (2019)",
-            "url": "https://www.youtube.com/watch?v=gBb32E4CZxQ",
-            "duration": 173,
-            "status": "PROCESSING",
-            "added_at": "2026-10-16T15:01:03Z"
           }
         ],
         "processing": null,
@@ -2744,6 +2735,17 @@
             "added_at": "2026-10-16T15:01:03Z",
             "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/abigail_1792162863_1_master.mp4",
             "youtube_video_id": "KGeMWgJMi8U"
+          },
+          {
+            "id": "abigail_1792162863_2",
+            "creator": "Benito Skinner",
+            "title": "FINALS SEASON | Benito Skinner (2019)",
+            "url": "https://www.youtube.com/watch?v=gBb32E4CZxQ",
+            "duration": 173,
+            "status": "COMPLETED",
+            "added_at": "2026-10-16T15:01:03Z",
+            "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/abigail_1792162863_2_master.mp4",
+            "youtube_video_id": "Hzi-fr-Odjs"
           }
         ]
       },
@@ -2998,6 +3000,72 @@
                   "variant": "A",
                   "title": "Benito Skinner\u2019s Season 20 Secret Revealed \ud83e\udd2b",
                   "deployed_at": 1792163092.897343,
+                  "reason": "Initial A/B test deployment"
+                }
+              ],
+              "metrics": {
+                "views": 0,
+                "likes": 0,
+                "comments": 0,
+                "retention": 0.0,
+                "ctr": 0.0
+              }
+            }
+          },
+          {
+            "id": "abigail_1792162863_2",
+            "source_video": "FINALS SEASON | Benito Skinner (2019)",
+            "creator": "Benito Skinner",
+            "title": "The moment Benito knew it was over...",
+            "publish_at": "2026-10-17T21:00:00Z",
+            "status": "SCHEDULED",
+            "uploaded": true,
+            "youtube_video_id": "Hzi-fr-Odjs",
+            "youtube_url": "https://www.youtube.com/shorts/Hzi-fr-Odjs",
+            "video_file": "abigail_1792162863_2_master.mp4",
+            "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/abigail_1792162863_2_master.mp4",
+            "duration": 32.0,
+            "hook_summary": "Essential discussion and core insight",
+            "metadata": {
+              "title": "The moment Benito knew it was over...",
+              "description": "Benito Skinner opens up about the exact moment he realized he had outgrown his current phase. This insight is a game-changer for anyone feeling stuck in their current routine.\n\n- How to recognize your own plateau\n- Why leaning into discomfort is a superpower\n- The mental shift required to finally \"graduate\"\n\nFeaturing: Benito Skinner\n\nIs it better to stay where you are comfortable or risk everything for the next level? \n\n#shorts #benitoskinner #mindset #growth #podcast",
+              "tags": [
+                "benito skinner",
+                "podcast clips",
+                "self improvement",
+                "mindset shift",
+                "comedy podcast",
+                "success tips",
+                "personal growth",
+                "benito skinner interview",
+                "motivation",
+                "career advice"
+              ],
+              "pinned_comment": "Is \"graduating\" from your current lifestyle a sign of growth or just running away from problems? \ud83c\udf93 Let's settle this below.",
+              "ab_variants": {
+                "A": {
+                  "angle": "Curiosity Gap",
+                  "title": "The moment Benito knew it was over...",
+                  "description": "Benito Skinner opens up about the exact moment he realized he had outgrown his current phase. This insight is a game-changer for anyone feeling stuck in their current routine.\n\n- How to recognize your own plateau\n- Why leaning into discomfort is a superpower\n- The mental shift required to finally \"graduate\"\n\nFeaturing: Benito Skinner\n\nIs it better to stay where you are comfortable or risk everything for the next level? \n\n#shorts #benitoskinner #mindset #growth #podcast"
+                },
+                "B": {
+                  "angle": "Contrarian Truth",
+                  "title": "Why you must \"graduate\" from your friends",
+                  "description": "Most people stay stuck because they are afraid to leave their comfort zone behind. Benito Skinner explains why the concept of \"graduating\" is the only way to truly evolve.\n\n- Why comfort is actually a trap\n- The truth about evolving past your surroundings\n- How to spot the signs of stagnation early\n\nFeaturing: Benito Skinner\n\nDo you think people actually change, or do they just get better at hiding their old habits? \n\n#shorts #success #productivity #benitoskinner #evolution"
+                },
+                "C": {
+                  "angle": "Actionable Protocol",
+                  "title": "Benito Skinner\u2019s framework for leveling up",
+                  "description": "Learn the specific framework Benito Skinner uses to audit his life and career for growth. It starts with one simple realization: you are ready to graduate.\n\n- The 3-step audit for personal progress\n- How to identify your next major milestone\n- The protocol for executing a clean transition\n\nFeaturing: Benito Skinner\n\nWhat is the one thing holding you back from your next big \"graduation\"? \n\n#shorts #growthmindset #advice #benitoskinner #motivation"
+                }
+              },
+              "active_variant": "A",
+              "test_status": "ACTIVE_TEST",
+              "variant_history": [
+                {
+                  "variant": "A",
+                  "title": "The moment Benito knew it was over...",
+                  "deployed_at": 1792163275.554791,
                   "reason": "Initial A/B test deployment"
                 }
               ],

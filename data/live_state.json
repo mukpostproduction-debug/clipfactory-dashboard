@@ -1,6 +1,6 @@
 {
-  "timestamp": 1792158157.366715,
-  "sync_time_iso": "2026-10-16T13:42:37Z",
+  "timestamp": 1792158218.97211,
+  "sync_time_iso": "2026-10-16T13:43:38Z",
   "default_channel": "muk_podcast",
   "channels": {
     "muk_podcast": {
@@ -1560,17 +1560,17 @@
       "agents": {
         "SCOUT": {
           "status": "working",
-          "current_task": "Error scanning Ken feed: Command '['/Users/jacksonmcmurdo/Desktop/Muk_Post/02_BUSINESS_&_OPERATIONS/muk_jarvis_env/bin/python3', '-m', 'yt_dlp', '--flat-playlist', '--print', '%(title)s;;;%(url)s;;;%(duration)s', 'https://www.youtube.com/@kenforrest/videos']' timed out after 30 seconds",
+          "current_task": "Ingested 1 fresh Ken video(s) into queue.",
           "last_completed_task": "Ingested 5 recent Ken master videos into source pool",
           "recent_logs": [
-            "[01:56:06] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
-            "[01:56:17] Queue up to date. Waiting for next daily Ken upload.",
             "[02:29:59] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
             "[02:47:55] Queue up to date. Waiting for next daily Ken upload.",
             "[06:01:18] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
             "[06:01:34] Queue up to date. Waiting for next daily Ken upload.",
             "[08:52:14] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
-            "[09:30:30] Error scanning Ken feed: Command '['/Users/jacksonmcmurdo/Desktop/Muk_Post/02_BUSINESS_&_OPERATIONS/muk_jarvis_env/bin/python3', '-m', 'yt_dlp', '--flat-playlist', '--print', '%(title)s;;;%(url)s;;;%(duration)s', 'https://www.youtube.com/@kenforrest/videos']' timed out after 30 seconds"
+            "[09:30:30] Error scanning Ken feed: Command '['/Users/jacksonmcmurdo/Desktop/Muk_Post/02_BUSINESS_&_OPERATIONS/muk_jarvis_env/bin/python3', '-m', 'yt_dlp', '--flat-playlist', '--print', '%(title)s;;;%(url)s;;;%(duration)s', 'https://www.youtube.com/@kenforrest/videos']' timed out after 30 seconds",
+            "[09:43:06] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
+            "[09:43:17] Ingested 1 fresh Ken video(s) into queue."
           ]
         },
         "STRATEGIST": {
@@ -1590,17 +1590,17 @@
         },
         "EDITOR": {
           "status": "working",
-          "current_task": "Rendering gaming_split Short with captions: they added gifs",
+          "current_task": "Rendering gaming_split Short with captions: weirdest buff ever",
           "last_completed_task": "Rendered 'hp buffed' rage highlight with kinetic pop captions & commentary",
           "recent_logs": [
-            "[21:36:03] Downloading highlight segment for: perfected my deck...",
-            "[21:36:23] Rendering gaming_split Short with captions: perfected my deck",
             "[21:40:28] Downloading highlight segment for: return of peak...",
             "[21:40:50] Rendering gaming_split Short with captions: return of peak",
             "[21:45:28] Downloading highlight segment for: 2.3 brainrot cycle...",
             "[21:45:40] Rendering gaming_split Short with captions: 2.3 brainrot cycle",
             "[06:06:59] Downloading highlight segment for: they added gifs...",
-            "[06:07:06] Rendering gaming_split Short with captions: they added gifs"
+            "[06:07:06] Rendering gaming_split Short with captions: they added gifs",
+            "[09:43:17] Downloading highlight segment for: weirdest buff ever...",
+            "[09:43:21] Rendering gaming_split Short with captions: weirdest buff ever"
           ]
         },
         "COMMENTATOR": {
@@ -1669,6 +1669,15 @@
             "status": "RETRY_UPLOAD",
             "added_at": "2026-10-14T10:01:07Z",
             "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1791972067_0_master.mp4"
+          },
+          {
+            "id": "ken_1792158197_0",
+            "creator": "Ken",
+            "title": "weirdest buff ever",
+            "url": "https://www.youtube.com/watch?v=Xzc-EWsNkcc",
+            "duration": 1730,
+            "status": "PROCESSING",
+            "added_at": "2026-10-16T13:43:17Z"
           }
         ],
         "processing": null,
@@ -2417,14 +2426,14 @@
           "current_task": "Pop culture queue up to date. Monitoring for new episodes.",
           "last_completed_task": "Ingested 6 recent episodes across Trisha, Enya/Drew, and Benito",
           "recent_logs": [
-            "[01:56:23] Scanning Trisha Paytas, Emergency Intercom, and Benito Skinner feeds...",
-            "[01:56:33] Pop culture queue up to date. Monitoring for new episodes.",
             "[02:30:40] Scanning Trisha Paytas, Emergency Intercom, and Benito Skinner feeds...",
             "[02:48:05] Pop culture queue up to date. Monitoring for new episodes.",
             "[06:01:29] Scanning Trisha Paytas, Emergency Intercom, and Benito Skinner feeds...",
             "[07:12:23] Pop culture queue up to date. Monitoring for new episodes.",
             "[09:30:29] Scanning Trisha Paytas, Emergency Intercom, and Benito Skinner feeds...",
-            "[09:30:42] Pop culture queue up to date. Monitoring for new episodes."
+            "[09:30:42] Pop culture queue up to date. Monitoring for new episodes.",
+            "[09:43:18] Scanning Trisha Paytas, Emergency Intercom, and Benito Skinner feeds...",
+            "[09:43:28] Pop culture queue up to date. Monitoring for new episodes."
           ]
         },
         "STRATEGIST": {
@@ -2432,14 +2441,14 @@
           "current_task": "No queued candidates ready. Waiting for SCOUT.",
           "last_completed_task": "Calibrated 3 pop-culture hook angles: Shock Tea, Chaos Banter, Satirical Voice Mimicry",
           "recent_logs": [
-            "[01:13:25] No queued candidates ready. Waiting for SCOUT.",
             "[01:15:35] No queued candidates ready. Waiting for SCOUT.",
             "[01:17:44] No queued candidates ready. Waiting for SCOUT.",
             "[01:19:54] No queued candidates ready. Waiting for SCOUT.",
             "[01:56:33] No queued candidates ready. Waiting for SCOUT.",
             "[02:48:05] No queued candidates ready. Waiting for SCOUT.",
             "[07:12:23] No queued candidates ready. Waiting for SCOUT.",
-            "[09:30:42] No queued candidates ready. Waiting for SCOUT."
+            "[09:30:42] No queued candidates ready. Waiting for SCOUT.",
+            "[09:43:28] No queued candidates ready. Waiting for SCOUT."
           ]
         },
         "EDITOR": {
@@ -2486,14 +2495,14 @@
           "current_task": "Auditing velocity of active Pop Culture & Comedy Shorts...",
           "last_completed_task": "Calibrated benchmark: >25 views/hr in first 3 hours",
           "recent_logs": [
-            "[01:13:25] Auditing velocity of active Pop Culture & Comedy Shorts...",
             "[01:15:35] Auditing velocity of active Pop Culture & Comedy Shorts...",
             "[01:17:44] Auditing velocity of active Pop Culture & Comedy Shorts...",
             "[01:19:54] Auditing velocity of active Pop Culture & Comedy Shorts...",
             "[01:56:33] Auditing velocity of active Pop Culture & Comedy Shorts...",
             "[02:48:05] Auditing velocity of active Pop Culture & Comedy Shorts...",
             "[07:12:23] Auditing velocity of active Pop Culture & Comedy Shorts...",
-            "[09:30:42] Auditing velocity of active Pop Culture & Comedy Shorts..."
+            "[09:30:42] Auditing velocity of active Pop Culture & Comedy Shorts...",
+            "[09:43:28] Auditing velocity of active Pop Culture & Comedy Shorts..."
           ]
         },
         "WATCHDOG": {
@@ -2501,14 +2510,14 @@
           "current_task": "Verifying Fair Use compliance: 100% transformative commentary.",
           "last_completed_task": "Validated commentary & transformative overlay standards",
           "recent_logs": [
-            "[01:13:25] Verifying Fair Use compliance: 100% transformative commentary.",
             "[01:15:35] Verifying Fair Use compliance: 100% transformative commentary.",
             "[01:17:44] Verifying Fair Use compliance: 100% transformative commentary.",
             "[01:19:54] Verifying Fair Use compliance: 100% transformative commentary.",
             "[01:56:33] Verifying Fair Use compliance: 100% transformative commentary.",
             "[02:48:05] Verifying Fair Use compliance: 100% transformative commentary.",
             "[07:12:23] Verifying Fair Use compliance: 100% transformative commentary.",
-            "[09:30:42] Verifying Fair Use compliance: 100% transformative commentary."
+            "[09:30:42] Verifying Fair Use compliance: 100% transformative commentary.",
+            "[09:43:28] Verifying Fair Use compliance: 100% transformative commentary."
           ]
         }
       },

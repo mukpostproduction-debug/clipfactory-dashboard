@@ -1,6 +1,6 @@
 {
-  "timestamp": 1792163084.199998,
-  "sync_time_iso": "2026-10-16T15:04:44Z",
+  "timestamp": 1792163097.990178,
+  "sync_time_iso": "2026-10-16T15:04:57Z",
   "default_channel": "muk_podcast",
   "channels": {
     "muk_podcast": {
@@ -2477,17 +2477,17 @@
         },
         "PUBLISHER": {
           "status": "working",
-          "current_task": "Short SCHEDULED on YouTube: qQHrbZLPEOI (09:00 PM ET (Fri, Oct 16))",
+          "current_task": "Short SCHEDULED on YouTube: KGeMWgJMi8U (12:30 PM ET (Sat, Oct 17))",
           "last_completed_task": "Uploaded all 3 initial pop-culture Shorts to YouTube (@abiclitsalot)",
           "recent_logs": [
-            "[22:14:34] Upload failed for abigail_1792028155_1; staged for automatic retry.",
-            "[22:19:16] Generating dynamic A/B metadata for slot: 09:00 PM ET (Fri, Oct 16)...",
-            "[22:19:27] Deploying to YouTube (@abiclitsalot) for release 09:00 PM ET (Fri, Oct 16)...",
             "[22:19:28] YouTube upload error: <HttpError 400 when requesting None returned \"The user has exceeded the number of videos they may upload.\". Details: \"[{'message': 'The user has exceeded the number of videos they may upload.', 'domain': 'youtube.video', 'reason': 'uploadLimitExceeded'}]\">",
             "[22:19:28] Upload failed for abigail_1792028162_3; staged for automatic retry.",
             "[11:01:43] Generating dynamic A/B metadata for slot: 09:00 PM ET (Fri, Oct 16)...",
             "[11:01:50] Deploying to YouTube (@abiclitsalot) for release 09:00 PM ET (Fri, Oct 16)...",
-            "[11:01:55] Short SCHEDULED on YouTube: qQHrbZLPEOI (09:00 PM ET (Fri, Oct 16))"
+            "[11:01:55] Short SCHEDULED on YouTube: qQHrbZLPEOI (09:00 PM ET (Fri, Oct 16))",
+            "[11:04:45] Generating dynamic A/B metadata for slot: 12:30 PM ET (Sat, Oct 17)...",
+            "[11:04:52] Deploying to YouTube (@abiclitsalot) for release 12:30 PM ET (Sat, Oct 17)...",
+            "[11:04:57] Short SCHEDULED on YouTube: KGeMWgJMi8U (12:30 PM ET (Sat, Oct 17))"
           ]
         },
         "ANALYST": {
@@ -2657,15 +2657,6 @@
             "added_at": "2026-10-15T15:39:37Z"
           },
           {
-            "id": "abigail_1792162863_1",
-            "creator": "Benito Skinner",
-            "title": "A KARDASHIAN KRISMAS Pt. 2 | Benito Skinner (2019)",
-            "url": "https://www.youtube.com/watch?v=4Edc-wnvMVo",
-            "duration": 165,
-            "status": "PROCESSING",
-            "added_at": "2026-10-16T15:01:03Z"
-          },
-          {
             "id": "abigail_1792162863_2",
             "creator": "Benito Skinner",
             "title": "FINALS SEASON | Benito Skinner (2019)",
@@ -2742,6 +2733,17 @@
             "added_at": "2026-10-16T15:01:03Z",
             "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/abigail_1792162863_0_master.mp4",
             "youtube_video_id": "qQHrbZLPEOI"
+          },
+          {
+            "id": "abigail_1792162863_1",
+            "creator": "Benito Skinner",
+            "title": "A KARDASHIAN KRISMAS Pt. 2 | Benito Skinner (2019)",
+            "url": "https://www.youtube.com/watch?v=4Edc-wnvMVo",
+            "duration": 165,
+            "status": "COMPLETED",
+            "added_at": "2026-10-16T15:01:03Z",
+            "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/abigail_1792162863_1_master.mp4",
+            "youtube_video_id": "KGeMWgJMi8U"
           }
         ]
       },
@@ -2930,6 +2932,72 @@
                   "variant": "A",
                   "title": "Benito Skinner\u2019s Secret to Instant Peace \ud83d\uded1",
                   "deployed_at": 1792162910.467066,
+                  "reason": "Initial A/B test deployment"
+                }
+              ],
+              "metrics": {
+                "views": 0,
+                "likes": 0,
+                "comments": 0,
+                "retention": 0.0,
+                "ctr": 0.0
+              }
+            }
+          },
+          {
+            "id": "abigail_1792162863_1",
+            "source_video": "A KARDASHIAN KRISMAS Pt. 2 | Benito Skinner (2019)",
+            "creator": "Benito Skinner",
+            "title": "Benito Skinner\u2019s Season 20 Secret Revealed \ud83e\udd2b",
+            "publish_at": "2026-10-17T16:30:00Z",
+            "status": "SCHEDULED",
+            "uploaded": true,
+            "youtube_video_id": "KGeMWgJMi8U",
+            "youtube_url": "https://www.youtube.com/shorts/KGeMWgJMi8U",
+            "video_file": "abigail_1792162863_1_master.mp4",
+            "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/abigail_1792162863_1_master.mp4",
+            "duration": 30.2,
+            "hook_summary": "Essential discussion and core insight",
+            "metadata": {
+              "title": "Benito Skinner\u2019s Season 20 Secret Revealed \ud83e\udd2b",
+              "description": "Benito Skinner finally reveals the truth about what happened behind the scenes at Noble. This is the moment that changed everything for Season 20.\n\n\u2022 The reality of filming at Noble\n\u2022 Why Season 20 felt different\n\u2022 The truth about the production process\n\nFeaturing: Benito Skinner\n\nDo you think reality TV scenes are mostly scripted or 100% authentic? \n\n#shorts #benitoskinner #kardashians #entertainment #popculture",
+              "tags": [
+                "Benito Skinner",
+                "Benny Drama",
+                "Season 20",
+                "Noble",
+                "The Kardashians",
+                "Reality TV Secrets",
+                "Podcast Highlights",
+                "Pop Culture Analysis",
+                "Entertainment Industry",
+                "Celebrity Interview"
+              ],
+              "pinned_comment": "Was Benito the best part of the season, or do you prefer the original cast? Drop a 'BENNY' or 'CAST' below! \ud83d\udc47",
+              "ab_variants": {
+                "A": {
+                  "angle": "Curiosity Gap",
+                  "title": "Benito Skinner\u2019s Season 20 Secret Revealed \ud83e\udd2b",
+                  "description": "Benito Skinner finally reveals the truth about what happened behind the scenes at Noble. This is the moment that changed everything for Season 20.\n\n\u2022 The reality of filming at Noble\n\u2022 Why Season 20 felt different\n\u2022 The truth about the production process\n\nFeaturing: Benito Skinner\n\nDo you think reality TV scenes are mostly scripted or 100% authentic? \n\n#shorts #benitoskinner #kardashians #entertainment #popculture"
+                },
+                "B": {
+                  "angle": "Contrarian Truth",
+                  "title": "Why Reality TV Filming is a Lie \ud83c\udfa5",
+                  "description": "Most people think reality TV is effortless, but Benito Skinner exposes the calculated chaos of the Season 20 set at Noble. It\u2019s not what you see on screen.\n\n\u2022 The pressure of the Season 20 spotlight\n\u2022 Why the Noble scene was a turning point\n\u2022 The difference between persona and reality\n\nFeaturing: Benito Skinner\n\nWould you ever let a camera crew follow you 24/7 for a million dollars? \n\n#shorts #benitoskinner #mindset #celebrity #realitytv #fame"
+                },
+                "C": {
+                  "angle": "Actionable Protocol",
+                  "title": "The Rule for Breaking Into Reality TV \ud83c\udf1f",
+                  "description": "Benito Skinner shares the essential framework for staying authentic while filming major productions like Season 20. Learn how to handle the high-stakes environment at Noble.\n\n\u2022 How to maintain your brand on a major set\n\u2022 The secret to a successful cameo performance\n\u2022 Navigating the Noble production protocol\n\nFeaturing: Benito Skinner\n\nIf you could guest star on any show in history, which one would you pick? \n\n#shorts #benitoskinner #career #success #media #hollywood"
+                }
+              },
+              "active_variant": "A",
+              "test_status": "ACTIVE_TEST",
+              "variant_history": [
+                {
+                  "variant": "A",
+                  "title": "Benito Skinner\u2019s Season 20 Secret Revealed \ud83e\udd2b",
+                  "deployed_at": 1792163092.897343,
                   "reason": "Initial A/B test deployment"
                 }
               ],

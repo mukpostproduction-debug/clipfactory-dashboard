@@ -1,6 +1,6 @@
 {
-  "timestamp": 1792162836.8770409,
-  "sync_time_iso": "2026-10-16T15:00:36Z",
+  "timestamp": 1792162898.5914419,
+  "sync_time_iso": "2026-10-16T15:01:38Z",
   "default_channel": "muk_podcast",
   "channels": {
     "muk_podcast": {
@@ -2423,17 +2423,17 @@
       "agents": {
         "SCOUT": {
           "status": "working",
-          "current_task": "Pop culture queue up to date. Monitoring for new episodes.",
+          "current_task": "Ingested 3 fresh pop-culture episode(s) into queue.",
           "last_completed_task": "Ingested 6 recent episodes across Trisha, Enya/Drew, and Benito",
           "recent_logs": [
-            "[10:52:09] Scanning Trisha Paytas, Emergency Intercom, and Benito Skinner feeds...",
-            "[10:52:20] Pop culture queue up to date. Monitoring for new episodes.",
             "[10:54:20] Scanning Trisha Paytas, Emergency Intercom, and Benito Skinner feeds...",
             "[10:54:31] Pop culture queue up to date. Monitoring for new episodes.",
             "[10:56:31] Scanning Trisha Paytas, Emergency Intercom, and Benito Skinner feeds...",
             "[10:56:41] Pop culture queue up to date. Monitoring for new episodes.",
             "[10:58:41] Scanning Trisha Paytas, Emergency Intercom, and Benito Skinner feeds...",
-            "[10:58:51] Pop culture queue up to date. Monitoring for new episodes."
+            "[10:58:51] Pop culture queue up to date. Monitoring for new episodes.",
+            "[11:00:51] Scanning Trisha Paytas, Emergency Intercom, and Benito Skinner feeds...",
+            "[11:01:03] Ingested 3 fresh pop-culture episode(s) into queue."
           ]
         },
         "STRATEGIST": {
@@ -2453,17 +2453,17 @@
         },
         "EDITOR": {
           "status": "idle",
-          "current_task": "Downloading highlight segment for: Trisha's Going Through It & Everyth...",
+          "current_task": "Rendering 1080x1920 Short with pop captions: KIM KARDASHIAN AS FIRST LADY |",
           "last_completed_task": "Rendered Trisha Paytas & Brittany Broski pop culture highlight with Neon Pink/Cyan pop captions",
           "recent_logs": [
-            "[22:08:53] Downloading highlight segment for: Brittany Broski CLOCKS Her Manipula...",
-            "[22:08:58] Rendering 1080x1920 Short with pop captions: Brittany Broski CLOCKS Her Man",
             "[22:12:43] Downloading highlight segment for: Mikayla Noguiera Comes Clean on Jay...",
             "[22:12:46] Rendering 1080x1920 Short with pop captions: Mikayla Noguiera Comes Clean o",
             "[22:16:48] Downloading highlight segment for: OVERCOMPENSATING OFFICIAL TEASER | ...",
             "[22:19:01] Downloading highlight segment for: A DAY IN THE LIFE OF LANA DEL REY.....",
             "[22:19:06] Rendering 1080x1920 Short with pop captions: A DAY IN THE LIFE OF LANA DEL ",
-            "[11:39:43] Downloading highlight segment for: Trisha's Going Through It & Everyth..."
+            "[11:39:43] Downloading highlight segment for: Trisha's Going Through It & Everyth...",
+            "[11:01:03] Downloading highlight segment for: KIM KARDASHIAN AS FIRST LADY | Beni...",
+            "[11:01:07] Rendering 1080x1920 Short with pop captions: KIM KARDASHIAN AS FIRST LADY |"
           ]
         },
         "COMMENTATOR": {
@@ -2655,6 +2655,33 @@
             "duration": 3600,
             "status": "FAILED_DOWNLOAD",
             "added_at": "2026-10-15T15:39:37Z"
+          },
+          {
+            "id": "abigail_1792162863_0",
+            "creator": "Benito Skinner",
+            "title": "KIM KARDASHIAN AS FIRST LADY | Benito Skinner (2020)",
+            "url": "https://www.youtube.com/watch?v=quPoP92eAmA",
+            "duration": 224,
+            "status": "PROCESSING",
+            "added_at": "2026-10-16T15:01:03Z"
+          },
+          {
+            "id": "abigail_1792162863_1",
+            "creator": "Benito Skinner",
+            "title": "A KARDASHIAN KRISMAS Pt. 2 | Benito Skinner (2019)",
+            "url": "https://www.youtube.com/watch?v=4Edc-wnvMVo",
+            "duration": 165,
+            "status": "QUEUED",
+            "added_at": "2026-10-16T15:01:03Z"
+          },
+          {
+            "id": "abigail_1792162863_2",
+            "creator": "Benito Skinner",
+            "title": "FINALS SEASON | Benito Skinner (2019)",
+            "url": "https://www.youtube.com/watch?v=gBb32E4CZxQ",
+            "duration": 173,
+            "status": "QUEUED",
+            "added_at": "2026-10-16T15:01:03Z"
           }
         ],
         "processing": null,

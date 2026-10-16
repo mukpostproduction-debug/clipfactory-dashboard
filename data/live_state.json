@@ -1,6 +1,6 @@
 {
-  "timestamp": 1792117795.500983,
-  "sync_time_iso": "2026-10-16T02:29:55Z",
+  "timestamp": 1792119937.565488,
+  "sync_time_iso": "2026-10-16T03:05:37Z",
   "default_channel": "muk_podcast",
   "channels": {
     "muk_podcast": {
@@ -62,11 +62,11 @@
         "dashboard": {
           "host": "127.0.0.1",
           "port": 8899,
-          "remote_tunnel_url": "https://endorsed-base-desktops-anybody.trycloudflare.com",
+          "remote_tunnel_url": "https://disco-arm-sub-parameter.trycloudflare.com",
           "tunnel_active": true
         },
         "buffer_target_shorts": 6,
-        "remote_tunnel_url": "https://endorsed-base-desktops-anybody.trycloudflare.com",
+        "remote_tunnel_url": "https://disco-arm-sub-parameter.trycloudflare.com",
         "channel_id": "UCKqBK1q6-0i735Mn_hiNIig",
         "channel_name": "Muks Breakdown Room",
         "oauth_connected": true
@@ -1553,7 +1553,7 @@
         "emergency_stop": false,
         "autopilot_engaged": true,
         "buffer_target_shorts": 6,
-        "remote_tunnel_url": "https://endorsed-base-desktops-anybody.trycloudflare.com",
+        "remote_tunnel_url": "https://disco-arm-sub-parameter.trycloudflare.com",
         "channel_id": "UCsBZAgHGlc5GU7r4E-8tUyA",
         "oauth_connected": true
       },
@@ -2407,24 +2407,24 @@
         "emergency_stop": false,
         "autopilot_engaged": true,
         "buffer_target_shorts": 6,
-        "remote_tunnel_url": "https://endorsed-base-desktops-anybody.trycloudflare.com",
+        "remote_tunnel_url": "https://disco-arm-sub-parameter.trycloudflare.com",
         "channel_id": "UCcNdnkFH4m9C3rUunbOEaSg",
         "oauth_connected": true
       },
       "agents": {
         "SCOUT": {
           "status": "working",
-          "current_task": "Scanning Trisha Paytas, Emergency Intercom, and Benito Skinner feeds...",
+          "current_task": "Pop culture queue up to date. Monitoring for new episodes.",
           "last_completed_task": "Ingested 6 recent episodes across Trisha, Enya/Drew, and Benito",
           "recent_logs": [
-            "[16:49:34] Pop culture queue up to date. Monitoring for new episodes.",
             "[16:51:34] Scanning Trisha Paytas, Emergency Intercom, and Benito Skinner feeds...",
             "[16:51:45] Pop culture queue up to date. Monitoring for new episodes.",
             "[17:10:00] Scanning Trisha Paytas, Emergency Intercom, and Benito Skinner feeds...",
             "[17:10:13] Pop culture queue up to date. Monitoring for new episodes.",
             "[18:47:01] Scanning Trisha Paytas, Emergency Intercom, and Benito Skinner feeds...",
             "[19:27:52] Pop culture queue up to date. Monitoring for new episodes.",
-            "[21:48:57] Scanning Trisha Paytas, Emergency Intercom, and Benito Skinner feeds..."
+            "[21:48:57] Scanning Trisha Paytas, Emergency Intercom, and Benito Skinner feeds...",
+            "[22:58:41] Pop culture queue up to date. Monitoring for new episodes."
           ]
         },
         "STRATEGIST": {
@@ -2432,14 +2432,14 @@
           "current_task": "No queued candidates ready. Waiting for SCOUT.",
           "last_completed_task": "Calibrated 3 pop-culture hook angles: Shock Tea, Chaos Banter, Satirical Voice Mimicry",
           "recent_logs": [
-            "[16:40:38] No queued candidates ready. Waiting for SCOUT.",
             "[16:42:50] No queued candidates ready. Waiting for SCOUT.",
             "[16:45:01] No queued candidates ready. Waiting for SCOUT.",
             "[16:47:11] No queued candidates ready. Waiting for SCOUT.",
             "[16:49:34] No queued candidates ready. Waiting for SCOUT.",
             "[16:51:45] No queued candidates ready. Waiting for SCOUT.",
             "[17:10:13] No queued candidates ready. Waiting for SCOUT.",
-            "[19:27:52] No queued candidates ready. Waiting for SCOUT."
+            "[19:27:52] No queued candidates ready. Waiting for SCOUT.",
+            "[22:58:41] No queued candidates ready. Waiting for SCOUT."
           ]
         },
         "EDITOR": {
@@ -2486,14 +2486,14 @@
           "current_task": "Auditing velocity of active Pop Culture & Comedy Shorts...",
           "last_completed_task": "Calibrated benchmark: >25 views/hr in first 3 hours",
           "recent_logs": [
-            "[16:40:38] Auditing velocity of active Pop Culture & Comedy Shorts...",
             "[16:42:50] Auditing velocity of active Pop Culture & Comedy Shorts...",
             "[16:45:01] Auditing velocity of active Pop Culture & Comedy Shorts...",
             "[16:47:11] Auditing velocity of active Pop Culture & Comedy Shorts...",
             "[16:49:34] Auditing velocity of active Pop Culture & Comedy Shorts...",
             "[16:51:45] Auditing velocity of active Pop Culture & Comedy Shorts...",
             "[17:10:13] Auditing velocity of active Pop Culture & Comedy Shorts...",
-            "[19:27:52] Auditing velocity of active Pop Culture & Comedy Shorts..."
+            "[19:27:52] Auditing velocity of active Pop Culture & Comedy Shorts...",
+            "[22:58:41] Auditing velocity of active Pop Culture & Comedy Shorts..."
           ]
         },
         "WATCHDOG": {
@@ -2501,14 +2501,14 @@
           "current_task": "Verifying Fair Use compliance: 100% transformative commentary.",
           "last_completed_task": "Validated commentary & transformative overlay standards",
           "recent_logs": [
-            "[16:40:38] Verifying Fair Use compliance: 100% transformative commentary.",
             "[16:42:50] Verifying Fair Use compliance: 100% transformative commentary.",
             "[16:45:01] Verifying Fair Use compliance: 100% transformative commentary.",
             "[16:47:11] Verifying Fair Use compliance: 100% transformative commentary.",
             "[16:49:34] Verifying Fair Use compliance: 100% transformative commentary.",
             "[16:51:45] Verifying Fair Use compliance: 100% transformative commentary.",
             "[17:10:13] Verifying Fair Use compliance: 100% transformative commentary.",
-            "[19:27:52] Verifying Fair Use compliance: 100% transformative commentary."
+            "[19:27:52] Verifying Fair Use compliance: 100% transformative commentary.",
+            "[22:58:41] Verifying Fair Use compliance: 100% transformative commentary."
           ]
         }
       },
@@ -2710,72 +2710,6 @@
       "calendar": {
         "scheduled": [
           {
-            "id": "abigail_1791961436_0",
-            "source_video": "Cow Print + Potatoes",
-            "creator": "Benito Skinner",
-            "title": "Sydney Sweeney\u2019s Bizarre AI Ad Explained",
-            "publish_at": "2026-10-16T01:00:00Z",
-            "status": "SCHEDULED",
-            "uploaded": true,
-            "youtube_video_id": "bFHhY8_nNxc",
-            "youtube_url": "https://www.youtube.com/shorts/bFHhY8_nNxc",
-            "video_file": "abigail_1791961436_0_master.mp4",
-            "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/abigail_1791961436_0_master.mp4",
-            "duration": 16.42,
-            "hook_summary": "The hosts discuss a bizarre AI-generated gambling ad featuring Sydney Sweeney that looks physically impossible.",
-            "metadata": {
-              "title": "Sydney Sweeney\u2019s Bizarre AI Ad Explained",
-              "description": "Have you seen the viral gambling ad featuring Sydney Sweeney that just doesn't look right? We\u2019re breaking down the uncanny valley nightmare that has everyone talking.\n\n* How AI technology is being misused to impersonate celebrities.\n* Why your eyes might be deceiving you when watching sponsored content.\n* The growing danger of deepfake marketing in the gambling industry.\n\nFeaturing: Benito Skinner\n\nDo you think AI ads should be legally required to carry a massive watermark, or is it already too late to stop them?\n\n#sydneysweeney #deepfake #ai #artificialintelligence #shorts #benitoskinner",
-              "tags": [
-                "Sydney Sweeney",
-                "AI generated",
-                "Deepfake",
-                "Benito Skinner",
-                "AI gambling ad",
-                "Artificial Intelligence",
-                "Fake Ads",
-                "Tech Trends",
-                "Internet Scams",
-                "Sydney Sweeney AI"
-              ],
-              "pinned_comment": "On a scale of 1-10, how creepy was that ad? \ud83d\udea9",
-              "ab_variants": {
-                "A": {
-                  "angle": "Curiosity Gap",
-                  "title": "Sydney Sweeney\u2019s Bizarre AI Ad Explained",
-                  "description": "Have you seen the viral gambling ad featuring Sydney Sweeney that just doesn't look right? We\u2019re breaking down the uncanny valley nightmare that has everyone talking.\n\n* How AI technology is being misused to impersonate celebrities.\n* Why your eyes might be deceiving you when watching sponsored content.\n* The growing danger of deepfake marketing in the gambling industry.\n\nFeaturing: Benito Skinner\n\nDo you think AI ads should be legally required to carry a massive watermark, or is it already too late to stop them?\n\n#sydneysweeney #deepfake #ai #artificialintelligence #shorts #benitoskinner"
-                },
-                "B": {
-                  "angle": "Contrarian Truth",
-                  "title": "Stop Trusting Ads With Your Favorite Stars",
-                  "description": "The Sydney Sweeney gambling ad isn't just a glitch\u2014it's a warning shot for everything you see on your feed. We\u2019re exposing why your favorite celebrity might be a total lie.\n\n* Why AI-generated celebrity endorsements are becoming impossible to spot.\n* The psychological tricks behind these bizarre deepfake campaigns.\n* What you need to look for before clicking any ad on social media.\n\nFeaturing: Benito Skinner\n\nIf we can't tell the difference between real and AI, should we ban celebrity digital likenesses entirely?\n\n#aiads #deepfakes #sydneysweeney #viral #tech #benitoskinner"
-                },
-                "C": {
-                  "angle": "Actionable Protocol",
-                  "title": "How to Spot Fake Sydney Sweeney AI Ads",
-                  "description": "The internet is flooded with fake celebrity gambling ads, and they're getting smarter. Learn the exact red flags to look for so you don't fall for these deceptive AI tactics.\n\n* Identify the common visual 'glitches' in AI-generated faces.\n* How to verify if a celebrity brand partnership is legitimate.\n* Protecting your data from predatory gambling schemes.\n\nFeaturing: Benito Skinner\n\nWhat is the biggest red flag you look for when you see an ad that seems too good to be true?\n\n#scamalert #ai #sydneysweeney #cybersecurity #techtips #benitoskinner"
-                }
-              },
-              "active_variant": "A",
-              "test_status": "ACTIVE_TEST",
-              "variant_history": [
-                {
-                  "variant": "A",
-                  "title": "Sydney Sweeney\u2019s Bizarre AI Ad Explained",
-                  "deployed_at": 1792026507.2211242,
-                  "reason": "Initial A/B test deployment"
-                }
-              ],
-              "metrics": {
-                "views": 0,
-                "likes": 0,
-                "comments": 0,
-                "retention": 0.0,
-                "ctr": 0.0
-              }
-            }
-          },
-          {
             "id": "abigail_1792028101_3",
             "source_video": "Emergency Intercom - Episode 255 (You are deserving)",
             "creator": "Emergency Intercom",
@@ -2907,6 +2841,72 @@
         ],
         "held": [],
         "published": [
+          {
+            "id": "abigail_1791961436_0",
+            "source_video": "Cow Print + Potatoes",
+            "creator": "Benito Skinner",
+            "title": "Sydney Sweeney\u2019s Bizarre AI Ad Explained",
+            "publish_at": "2026-10-16T01:00:00Z",
+            "status": "PUBLISHED",
+            "uploaded": true,
+            "youtube_video_id": "bFHhY8_nNxc",
+            "youtube_url": "https://www.youtube.com/shorts/bFHhY8_nNxc",
+            "video_file": "abigail_1791961436_0_master.mp4",
+            "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/abigail_1791961436_0_master.mp4",
+            "duration": 16.42,
+            "hook_summary": "The hosts discuss a bizarre AI-generated gambling ad featuring Sydney Sweeney that looks physically impossible.",
+            "metadata": {
+              "title": "Sydney Sweeney\u2019s Bizarre AI Ad Explained",
+              "description": "Have you seen the viral gambling ad featuring Sydney Sweeney that just doesn't look right? We\u2019re breaking down the uncanny valley nightmare that has everyone talking.\n\n* How AI technology is being misused to impersonate celebrities.\n* Why your eyes might be deceiving you when watching sponsored content.\n* The growing danger of deepfake marketing in the gambling industry.\n\nFeaturing: Benito Skinner\n\nDo you think AI ads should be legally required to carry a massive watermark, or is it already too late to stop them?\n\n#sydneysweeney #deepfake #ai #artificialintelligence #shorts #benitoskinner",
+              "tags": [
+                "Sydney Sweeney",
+                "AI generated",
+                "Deepfake",
+                "Benito Skinner",
+                "AI gambling ad",
+                "Artificial Intelligence",
+                "Fake Ads",
+                "Tech Trends",
+                "Internet Scams",
+                "Sydney Sweeney AI"
+              ],
+              "pinned_comment": "On a scale of 1-10, how creepy was that ad? \ud83d\udea9",
+              "ab_variants": {
+                "A": {
+                  "angle": "Curiosity Gap",
+                  "title": "Sydney Sweeney\u2019s Bizarre AI Ad Explained",
+                  "description": "Have you seen the viral gambling ad featuring Sydney Sweeney that just doesn't look right? We\u2019re breaking down the uncanny valley nightmare that has everyone talking.\n\n* How AI technology is being misused to impersonate celebrities.\n* Why your eyes might be deceiving you when watching sponsored content.\n* The growing danger of deepfake marketing in the gambling industry.\n\nFeaturing: Benito Skinner\n\nDo you think AI ads should be legally required to carry a massive watermark, or is it already too late to stop them?\n\n#sydneysweeney #deepfake #ai #artificialintelligence #shorts #benitoskinner"
+                },
+                "B": {
+                  "angle": "Contrarian Truth",
+                  "title": "Stop Trusting Ads With Your Favorite Stars",
+                  "description": "The Sydney Sweeney gambling ad isn't just a glitch\u2014it's a warning shot for everything you see on your feed. We\u2019re exposing why your favorite celebrity might be a total lie.\n\n* Why AI-generated celebrity endorsements are becoming impossible to spot.\n* The psychological tricks behind these bizarre deepfake campaigns.\n* What you need to look for before clicking any ad on social media.\n\nFeaturing: Benito Skinner\n\nIf we can't tell the difference between real and AI, should we ban celebrity digital likenesses entirely?\n\n#aiads #deepfakes #sydneysweeney #viral #tech #benitoskinner"
+                },
+                "C": {
+                  "angle": "Actionable Protocol",
+                  "title": "How to Spot Fake Sydney Sweeney AI Ads",
+                  "description": "The internet is flooded with fake celebrity gambling ads, and they're getting smarter. Learn the exact red flags to look for so you don't fall for these deceptive AI tactics.\n\n* Identify the common visual 'glitches' in AI-generated faces.\n* How to verify if a celebrity brand partnership is legitimate.\n* Protecting your data from predatory gambling schemes.\n\nFeaturing: Benito Skinner\n\nWhat is the biggest red flag you look for when you see an ad that seems too good to be true?\n\n#scamalert #ai #sydneysweeney #cybersecurity #techtips #benitoskinner"
+                }
+              },
+              "active_variant": "A",
+              "test_status": "ACTIVE_TEST",
+              "variant_history": [
+                {
+                  "variant": "A",
+                  "title": "Sydney Sweeney\u2019s Bizarre AI Ad Explained",
+                  "deployed_at": 1792026507.2211242,
+                  "reason": "Initial A/B test deployment"
+                }
+              ],
+              "metrics": {
+                "views": 0,
+                "likes": 0,
+                "comments": 0,
+                "retention": 0.0,
+                "ctr": 0.0
+              }
+            }
+          },
           {
             "id": "abigail_1791955834_5",
             "source_video": "Blind Boxes + Popstar Academy",
@@ -3306,11 +3306,11 @@
     "dashboard": {
       "host": "127.0.0.1",
       "port": 8899,
-      "remote_tunnel_url": "https://endorsed-base-desktops-anybody.trycloudflare.com",
+      "remote_tunnel_url": "https://disco-arm-sub-parameter.trycloudflare.com",
       "tunnel_active": true
     },
     "buffer_target_shorts": 6,
-    "remote_tunnel_url": "https://endorsed-base-desktops-anybody.trycloudflare.com",
+    "remote_tunnel_url": "https://disco-arm-sub-parameter.trycloudflare.com",
     "channel_id": "UCKqBK1q6-0i735Mn_hiNIig",
     "channel_name": "Muks Breakdown Room",
     "oauth_connected": true

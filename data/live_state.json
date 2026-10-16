@@ -1,6 +1,6 @@
 {
-  "timestamp": 1792155128.7468328,
-  "sync_time_iso": "2026-10-16T12:52:08Z",
+  "timestamp": 1792157457.669905,
+  "sync_time_iso": "2026-10-16T13:30:57Z",
   "default_channel": "muk_podcast",
   "channels": {
     "muk_podcast": {
@@ -62,11 +62,11 @@
         "dashboard": {
           "host": "127.0.0.1",
           "port": 8899,
-          "remote_tunnel_url": "https://viii-inspector-discount-content.trycloudflare.com",
+          "remote_tunnel_url": "https://ccd-superb-uni-blanket.trycloudflare.com",
           "tunnel_active": true
         },
         "buffer_target_shorts": 6,
-        "remote_tunnel_url": "https://viii-inspector-discount-content.trycloudflare.com",
+        "remote_tunnel_url": "https://ccd-superb-uni-blanket.trycloudflare.com",
         "channel_id": "UCKqBK1q6-0i735Mn_hiNIig",
         "channel_name": "Muks Breakdown Room",
         "oauth_connected": true
@@ -1553,24 +1553,24 @@
         "emergency_stop": false,
         "autopilot_engaged": true,
         "buffer_target_shorts": 6,
-        "remote_tunnel_url": "https://viii-inspector-discount-content.trycloudflare.com",
+        "remote_tunnel_url": "https://ccd-superb-uni-blanket.trycloudflare.com",
         "channel_id": "UCsBZAgHGlc5GU7r4E-8tUyA",
         "oauth_connected": true
       },
       "agents": {
         "SCOUT": {
           "status": "working",
-          "current_task": "Queue up to date. Waiting for next daily Ken upload.",
+          "current_task": "Error scanning Ken feed: Command '['/Users/jacksonmcmurdo/Desktop/Muk_Post/02_BUSINESS_&_OPERATIONS/muk_jarvis_env/bin/python3', '-m', 'yt_dlp', '--flat-playlist', '--print', '%(title)s;;;%(url)s;;;%(duration)s', 'https://www.youtube.com/@kenforrest/videos']' timed out after 30 seconds",
           "last_completed_task": "Ingested 5 recent Ken master videos into source pool",
           "recent_logs": [
-            "[01:19:26] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
-            "[01:19:37] Queue up to date. Waiting for next daily Ken upload.",
             "[01:56:06] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
             "[01:56:17] Queue up to date. Waiting for next daily Ken upload.",
             "[02:29:59] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
             "[02:47:55] Queue up to date. Waiting for next daily Ken upload.",
             "[06:01:18] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
-            "[06:01:34] Queue up to date. Waiting for next daily Ken upload."
+            "[06:01:34] Queue up to date. Waiting for next daily Ken upload.",
+            "[08:52:14] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
+            "[09:30:30] Error scanning Ken feed: Command '['/Users/jacksonmcmurdo/Desktop/Muk_Post/02_BUSINESS_&_OPERATIONS/muk_jarvis_env/bin/python3', '-m', 'yt_dlp', '--flat-playlist', '--print', '%(title)s;;;%(url)s;;;%(duration)s', 'https://www.youtube.com/@kenforrest/videos']' timed out after 30 seconds"
           ]
         },
         "STRATEGIST": {
@@ -1578,14 +1578,14 @@
           "current_task": "No queued Ken candidates ready. Waiting for SCOUT.",
           "last_completed_task": "Mapped 3 distinct viral gaming hook angles for initial drops",
           "recent_logs": [
-            "[01:10:53] No queued Ken candidates ready. Waiting for SCOUT.",
             "[01:13:04] No queued Ken candidates ready. Waiting for SCOUT.",
             "[01:15:15] No queued Ken candidates ready. Waiting for SCOUT.",
             "[01:17:26] No queued Ken candidates ready. Waiting for SCOUT.",
             "[01:19:37] No queued Ken candidates ready. Waiting for SCOUT.",
             "[01:56:17] No queued Ken candidates ready. Waiting for SCOUT.",
             "[02:47:55] No queued Ken candidates ready. Waiting for SCOUT.",
-            "[06:01:34] No queued Ken candidates ready. Waiting for SCOUT."
+            "[06:01:34] No queued Ken candidates ready. Waiting for SCOUT.",
+            "[09:30:30] No queued Ken candidates ready. Waiting for SCOUT."
           ]
         },
         "EDITOR": {
@@ -1632,14 +1632,14 @@
           "current_task": "Auditing velocity of active Ken Clash Royale Shorts...",
           "last_completed_task": "Calibrated gaming threshold: >15 views/hr within 4h",
           "recent_logs": [
-            "[01:10:53] Auditing velocity of active Ken Clash Royale Shorts...",
             "[01:13:04] Auditing velocity of active Ken Clash Royale Shorts...",
             "[01:15:15] Auditing velocity of active Ken Clash Royale Shorts...",
             "[01:17:26] Auditing velocity of active Ken Clash Royale Shorts...",
             "[01:19:37] Auditing velocity of active Ken Clash Royale Shorts...",
             "[01:56:17] Auditing velocity of active Ken Clash Royale Shorts...",
             "[02:47:55] Auditing velocity of active Ken Clash Royale Shorts...",
-            "[06:01:34] Auditing velocity of active Ken Clash Royale Shorts..."
+            "[06:01:34] Auditing velocity of active Ken Clash Royale Shorts...",
+            "[09:30:30] Auditing velocity of active Ken Clash Royale Shorts..."
           ]
         },
         "WATCHDOG": {
@@ -1647,14 +1647,14 @@
           "current_task": "Verifying Supercell fan policy: 0 claims, 0 strikes.",
           "last_completed_task": "Audited source parameters: strictly <30s segment rule active",
           "recent_logs": [
-            "[01:10:53] Verifying Supercell fan policy: 0 claims, 0 strikes.",
             "[01:13:04] Verifying Supercell fan policy: 0 claims, 0 strikes.",
             "[01:15:15] Verifying Supercell fan policy: 0 claims, 0 strikes.",
             "[01:17:26] Verifying Supercell fan policy: 0 claims, 0 strikes.",
             "[01:19:37] Verifying Supercell fan policy: 0 claims, 0 strikes.",
             "[01:56:17] Verifying Supercell fan policy: 0 claims, 0 strikes.",
             "[02:47:55] Verifying Supercell fan policy: 0 claims, 0 strikes.",
-            "[06:01:34] Verifying Supercell fan policy: 0 claims, 0 strikes."
+            "[06:01:34] Verifying Supercell fan policy: 0 claims, 0 strikes.",
+            "[09:30:30] Verifying Supercell fan policy: 0 claims, 0 strikes."
           ]
         }
       },
@@ -2407,7 +2407,7 @@
         "emergency_stop": false,
         "autopilot_engaged": true,
         "buffer_target_shorts": 6,
-        "remote_tunnel_url": "https://viii-inspector-discount-content.trycloudflare.com",
+        "remote_tunnel_url": "https://ccd-superb-uni-blanket.trycloudflare.com",
         "channel_id": "UCcNdnkFH4m9C3rUunbOEaSg",
         "oauth_connected": true
       },
@@ -2417,14 +2417,14 @@
           "current_task": "Pop culture queue up to date. Monitoring for new episodes.",
           "last_completed_task": "Ingested 6 recent episodes across Trisha, Enya/Drew, and Benito",
           "recent_logs": [
-            "[01:19:44] Scanning Trisha Paytas, Emergency Intercom, and Benito Skinner feeds...",
-            "[01:19:54] Pop culture queue up to date. Monitoring for new episodes.",
             "[01:56:23] Scanning Trisha Paytas, Emergency Intercom, and Benito Skinner feeds...",
             "[01:56:33] Pop culture queue up to date. Monitoring for new episodes.",
             "[02:30:40] Scanning Trisha Paytas, Emergency Intercom, and Benito Skinner feeds...",
             "[02:48:05] Pop culture queue up to date. Monitoring for new episodes.",
             "[06:01:29] Scanning Trisha Paytas, Emergency Intercom, and Benito Skinner feeds...",
-            "[07:12:23] Pop culture queue up to date. Monitoring for new episodes."
+            "[07:12:23] Pop culture queue up to date. Monitoring for new episodes.",
+            "[09:30:29] Scanning Trisha Paytas, Emergency Intercom, and Benito Skinner feeds...",
+            "[09:30:42] Pop culture queue up to date. Monitoring for new episodes."
           ]
         },
         "STRATEGIST": {
@@ -2432,14 +2432,14 @@
           "current_task": "No queued candidates ready. Waiting for SCOUT.",
           "last_completed_task": "Calibrated 3 pop-culture hook angles: Shock Tea, Chaos Banter, Satirical Voice Mimicry",
           "recent_logs": [
-            "[01:11:16] No queued candidates ready. Waiting for SCOUT.",
             "[01:13:25] No queued candidates ready. Waiting for SCOUT.",
             "[01:15:35] No queued candidates ready. Waiting for SCOUT.",
             "[01:17:44] No queued candidates ready. Waiting for SCOUT.",
             "[01:19:54] No queued candidates ready. Waiting for SCOUT.",
             "[01:56:33] No queued candidates ready. Waiting for SCOUT.",
             "[02:48:05] No queued candidates ready. Waiting for SCOUT.",
-            "[07:12:23] No queued candidates ready. Waiting for SCOUT."
+            "[07:12:23] No queued candidates ready. Waiting for SCOUT.",
+            "[09:30:42] No queued candidates ready. Waiting for SCOUT."
           ]
         },
         "EDITOR": {
@@ -2486,14 +2486,14 @@
           "current_task": "Auditing velocity of active Pop Culture & Comedy Shorts...",
           "last_completed_task": "Calibrated benchmark: >25 views/hr in first 3 hours",
           "recent_logs": [
-            "[01:11:16] Auditing velocity of active Pop Culture & Comedy Shorts...",
             "[01:13:25] Auditing velocity of active Pop Culture & Comedy Shorts...",
             "[01:15:35] Auditing velocity of active Pop Culture & Comedy Shorts...",
             "[01:17:44] Auditing velocity of active Pop Culture & Comedy Shorts...",
             "[01:19:54] Auditing velocity of active Pop Culture & Comedy Shorts...",
             "[01:56:33] Auditing velocity of active Pop Culture & Comedy Shorts...",
             "[02:48:05] Auditing velocity of active Pop Culture & Comedy Shorts...",
-            "[07:12:23] Auditing velocity of active Pop Culture & Comedy Shorts..."
+            "[07:12:23] Auditing velocity of active Pop Culture & Comedy Shorts...",
+            "[09:30:42] Auditing velocity of active Pop Culture & Comedy Shorts..."
           ]
         },
         "WATCHDOG": {
@@ -2501,14 +2501,14 @@
           "current_task": "Verifying Fair Use compliance: 100% transformative commentary.",
           "last_completed_task": "Validated commentary & transformative overlay standards",
           "recent_logs": [
-            "[01:11:16] Verifying Fair Use compliance: 100% transformative commentary.",
             "[01:13:25] Verifying Fair Use compliance: 100% transformative commentary.",
             "[01:15:35] Verifying Fair Use compliance: 100% transformative commentary.",
             "[01:17:44] Verifying Fair Use compliance: 100% transformative commentary.",
             "[01:19:54] Verifying Fair Use compliance: 100% transformative commentary.",
             "[01:56:33] Verifying Fair Use compliance: 100% transformative commentary.",
             "[02:48:05] Verifying Fair Use compliance: 100% transformative commentary.",
-            "[07:12:23] Verifying Fair Use compliance: 100% transformative commentary."
+            "[07:12:23] Verifying Fair Use compliance: 100% transformative commentary.",
+            "[09:30:42] Verifying Fair Use compliance: 100% transformative commentary."
           ]
         }
       },
@@ -3306,11 +3306,11 @@
     "dashboard": {
       "host": "127.0.0.1",
       "port": 8899,
-      "remote_tunnel_url": "https://viii-inspector-discount-content.trycloudflare.com",
+      "remote_tunnel_url": "https://ccd-superb-uni-blanket.trycloudflare.com",
       "tunnel_active": true
     },
     "buffer_target_shorts": 6,
-    "remote_tunnel_url": "https://viii-inspector-discount-content.trycloudflare.com",
+    "remote_tunnel_url": "https://ccd-superb-uni-blanket.trycloudflare.com",
     "channel_id": "UCKqBK1q6-0i735Mn_hiNIig",
     "channel_name": "Muks Breakdown Room",
     "oauth_connected": true

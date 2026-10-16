@@ -1,6 +1,6 @@
 {
-  "timestamp": 1792163207.544188,
-  "sync_time_iso": "2026-10-16T15:06:47Z",
+  "timestamp": 1792163269.177228,
+  "sync_time_iso": "2026-10-16T15:07:49Z",
   "default_channel": "muk_podcast",
   "channels": {
     "muk_podcast": {
@@ -2426,14 +2426,14 @@
           "current_task": "Pop culture queue up to date. Monitoring for new episodes.",
           "last_completed_task": "Ingested 6 recent episodes across Trisha, Enya/Drew, and Benito",
           "recent_logs": [
-            "[10:56:31] Scanning Trisha Paytas, Emergency Intercom, and Benito Skinner feeds...",
-            "[10:56:41] Pop culture queue up to date. Monitoring for new episodes.",
             "[10:58:41] Scanning Trisha Paytas, Emergency Intercom, and Benito Skinner feeds...",
             "[10:58:51] Pop culture queue up to date. Monitoring for new episodes.",
             "[11:00:51] Scanning Trisha Paytas, Emergency Intercom, and Benito Skinner feeds...",
             "[11:01:03] Ingested 3 fresh pop-culture episode(s) into queue.",
             "[11:03:57] Scanning Trisha Paytas, Emergency Intercom, and Benito Skinner feeds...",
-            "[11:04:08] Pop culture queue up to date. Monitoring for new episodes."
+            "[11:04:08] Pop culture queue up to date. Monitoring for new episodes.",
+            "[11:06:59] Scanning Trisha Paytas, Emergency Intercom, and Benito Skinner feeds...",
+            "[11:07:10] Pop culture queue up to date. Monitoring for new episodes."
           ]
         },
         "STRATEGIST": {
@@ -2453,17 +2453,17 @@
         },
         "EDITOR": {
           "status": "idle",
-          "current_task": "Rendering 1080x1920 Short with pop captions: A KARDASHIAN KRISMAS Pt. 2 | B",
+          "current_task": "Rendering 1080x1920 Short with pop captions: FINALS SEASON | Benito Skinner",
           "last_completed_task": "Rendered Trisha Paytas & Brittany Broski pop culture highlight with Neon Pink/Cyan pop captions",
           "recent_logs": [
-            "[22:16:48] Downloading highlight segment for: OVERCOMPENSATING OFFICIAL TEASER | ...",
-            "[22:19:01] Downloading highlight segment for: A DAY IN THE LIFE OF LANA DEL REY.....",
             "[22:19:06] Rendering 1080x1920 Short with pop captions: A DAY IN THE LIFE OF LANA DEL ",
             "[11:39:43] Downloading highlight segment for: Trisha's Going Through It & Everyth...",
             "[11:01:03] Downloading highlight segment for: KIM KARDASHIAN AS FIRST LADY | Beni...",
             "[11:01:07] Rendering 1080x1920 Short with pop captions: KIM KARDASHIAN AS FIRST LADY |",
             "[11:04:08] Downloading highlight segment for: A KARDASHIAN KRISMAS Pt. 2 | Benito...",
-            "[11:04:12] Rendering 1080x1920 Short with pop captions: A KARDASHIAN KRISMAS Pt. 2 | B"
+            "[11:04:12] Rendering 1080x1920 Short with pop captions: A KARDASHIAN KRISMAS Pt. 2 | B",
+            "[11:07:10] Downloading highlight segment for: FINALS SEASON | Benito Skinner (201...",
+            "[11:07:15] Rendering 1080x1920 Short with pop captions: FINALS SEASON | Benito Skinner"
           ]
         },
         "COMMENTATOR": {
@@ -2477,17 +2477,17 @@
         },
         "PUBLISHER": {
           "status": "working",
-          "current_task": "Short SCHEDULED on YouTube: KGeMWgJMi8U (12:30 PM ET (Sat, Oct 17))",
+          "current_task": "Generating dynamic A/B metadata for slot: 05:00 PM ET (Sat, Oct 17)...",
           "last_completed_task": "Uploaded all 3 initial pop-culture Shorts to YouTube (@abiclitsalot)",
           "recent_logs": [
-            "[22:19:28] YouTube upload error: <HttpError 400 when requesting None returned \"The user has exceeded the number of videos they may upload.\". Details: \"[{'message': 'The user has exceeded the number of videos they may upload.', 'domain': 'youtube.video', 'reason': 'uploadLimitExceeded'}]\">",
             "[22:19:28] Upload failed for abigail_1792028162_3; staged for automatic retry.",
             "[11:01:43] Generating dynamic A/B metadata for slot: 09:00 PM ET (Fri, Oct 16)...",
             "[11:01:50] Deploying to YouTube (@abiclitsalot) for release 09:00 PM ET (Fri, Oct 16)...",
             "[11:01:55] Short SCHEDULED on YouTube: qQHrbZLPEOI (09:00 PM ET (Fri, Oct 16))",
             "[11:04:45] Generating dynamic A/B metadata for slot: 12:30 PM ET (Sat, Oct 17)...",
             "[11:04:52] Deploying to YouTube (@abiclitsalot) for release 12:30 PM ET (Sat, Oct 17)...",
-            "[11:04:57] Short SCHEDULED on YouTube: KGeMWgJMi8U (12:30 PM ET (Sat, Oct 17))"
+            "[11:04:57] Short SCHEDULED on YouTube: KGeMWgJMi8U (12:30 PM ET (Sat, Oct 17))",
+            "[11:07:47] Generating dynamic A/B metadata for slot: 05:00 PM ET (Sat, Oct 17)..."
           ]
         },
         "ANALYST": {
@@ -2662,7 +2662,7 @@
             "title": "FINALS SEASON | Benito Skinner (2019)",
             "url": "https://www.youtube.com/watch?v=gBb32E4CZxQ",
             "duration": 173,
-            "status": "QUEUED",
+            "status": "PROCESSING",
             "added_at": "2026-10-16T15:01:03Z"
           }
         ],

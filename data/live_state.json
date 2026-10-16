@@ -1,6 +1,6 @@
 {
-  "timestamp": 1792177345.929271,
-  "sync_time_iso": "2026-10-16T19:02:25Z",
+  "timestamp": 1792177407.5949671,
+  "sync_time_iso": "2026-10-16T19:03:27Z",
   "default_channel": "muk_podcast",
   "channels": {
     "muk_podcast": {
@@ -2423,17 +2423,17 @@
       "agents": {
         "SCOUT": {
           "status": "working",
-          "current_task": "Pop culture queue up to date. Monitoring for new episodes.",
+          "current_task": "Ingested 1 fresh pop-culture episode(s) into queue.",
           "last_completed_task": "Ingested 6 recent episodes across Trisha, Enya/Drew, and Benito",
           "recent_logs": [
-            "[14:53:49] Scanning Trisha Paytas, Emergency Intercom, and Benito Skinner feeds...",
-            "[14:53:59] Pop culture queue up to date. Monitoring for new episodes.",
             "[14:56:00] Scanning Trisha Paytas, Emergency Intercom, and Benito Skinner feeds...",
             "[14:56:10] Pop culture queue up to date. Monitoring for new episodes.",
             "[14:58:10] Scanning Trisha Paytas, Emergency Intercom, and Benito Skinner feeds...",
             "[14:58:20] Pop culture queue up to date. Monitoring for new episodes.",
             "[15:00:20] Scanning Trisha Paytas, Emergency Intercom, and Benito Skinner feeds...",
-            "[15:00:30] Pop culture queue up to date. Monitoring for new episodes."
+            "[15:00:30] Pop culture queue up to date. Monitoring for new episodes.",
+            "[15:02:30] Scanning Trisha Paytas, Emergency Intercom, and Benito Skinner feeds...",
+            "[15:02:41] Ingested 1 fresh pop-culture episode(s) into queue."
           ]
         },
         "STRATEGIST": {
@@ -2453,17 +2453,17 @@
         },
         "EDITOR": {
           "status": "idle",
-          "current_task": "Rendering 1080x1920 Short with pop captions: FINALS SEASON | Benito Skinner",
+          "current_task": "Rendering 1080x1920 Short with pop captions: Emergency Intercom - Episode 2",
           "last_completed_task": "Rendered Trisha Paytas & Brittany Broski pop culture highlight with Neon Pink/Cyan pop captions",
           "recent_logs": [
-            "[22:19:06] Rendering 1080x1920 Short with pop captions: A DAY IN THE LIFE OF LANA DEL ",
-            "[11:39:43] Downloading highlight segment for: Trisha's Going Through It & Everyth...",
             "[11:01:03] Downloading highlight segment for: KIM KARDASHIAN AS FIRST LADY | Beni...",
             "[11:01:07] Rendering 1080x1920 Short with pop captions: KIM KARDASHIAN AS FIRST LADY |",
             "[11:04:08] Downloading highlight segment for: A KARDASHIAN KRISMAS Pt. 2 | Benito...",
             "[11:04:12] Rendering 1080x1920 Short with pop captions: A KARDASHIAN KRISMAS Pt. 2 | B",
             "[11:07:10] Downloading highlight segment for: FINALS SEASON | Benito Skinner (201...",
-            "[11:07:15] Rendering 1080x1920 Short with pop captions: FINALS SEASON | Benito Skinner"
+            "[11:07:15] Rendering 1080x1920 Short with pop captions: FINALS SEASON | Benito Skinner",
+            "[15:02:41] Downloading highlight segment for: Emergency Intercom - Episode 256 (W...",
+            "[15:02:46] Rendering 1080x1920 Short with pop captions: Emergency Intercom - Episode 2"
           ]
         },
         "COMMENTATOR": {
@@ -2655,6 +2655,15 @@
             "duration": 3600,
             "status": "FAILED_DOWNLOAD",
             "added_at": "2026-10-15T15:39:37Z"
+          },
+          {
+            "id": "abigail_1792177358_0",
+            "creator": "Emergency Intercom",
+            "title": "Emergency Intercom - Episode 256 (Why Enya lost 100k followers)",
+            "url": "https://www.youtube.com/watch?v=iMPpj5HNEzo",
+            "duration": 3493,
+            "status": "PROCESSING",
+            "added_at": "2026-10-16T19:02:38Z"
           }
         ],
         "processing": null,

@@ -1,6 +1,6 @@
 {
-  "timestamp": 1792112196.252641,
-  "sync_time_iso": "2026-10-16T00:56:36Z",
+  "timestamp": 1792117795.500983,
+  "sync_time_iso": "2026-10-16T02:29:55Z",
   "default_channel": "muk_podcast",
   "channels": {
     "muk_podcast": {
@@ -62,11 +62,11 @@
         "dashboard": {
           "host": "127.0.0.1",
           "port": 8899,
-          "remote_tunnel_url": "https://westminster-fighter-secondary-convertible.trycloudflare.com",
+          "remote_tunnel_url": "https://endorsed-base-desktops-anybody.trycloudflare.com",
           "tunnel_active": true
         },
         "buffer_target_shorts": 6,
-        "remote_tunnel_url": "https://westminster-fighter-secondary-convertible.trycloudflare.com",
+        "remote_tunnel_url": "https://endorsed-base-desktops-anybody.trycloudflare.com",
         "channel_id": "UCKqBK1q6-0i735Mn_hiNIig",
         "channel_name": "Muks Breakdown Room",
         "oauth_connected": true
@@ -1553,24 +1553,24 @@
         "emergency_stop": false,
         "autopilot_engaged": true,
         "buffer_target_shorts": 6,
-        "remote_tunnel_url": "https://westminster-fighter-secondary-convertible.trycloudflare.com",
+        "remote_tunnel_url": "https://endorsed-base-desktops-anybody.trycloudflare.com",
         "channel_id": "UCsBZAgHGlc5GU7r4E-8tUyA",
         "oauth_connected": true
       },
       "agents": {
         "SCOUT": {
           "status": "working",
-          "current_task": "Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
+          "current_task": "Error scanning Ken feed: Command '['/Users/jacksonmcmurdo/Desktop/Muk_Post/02_BUSINESS_&_OPERATIONS/muk_jarvis_env/bin/python3', '-m', 'yt_dlp', '--flat-playlist', '--print', '%(title)s;;;%(url)s;;;%(duration)s', 'https://www.youtube.com/@kenforrest/videos']' timed out after 30 seconds",
           "last_completed_task": "Ingested 5 recent Ken master videos into source pool",
           "recent_logs": [
-            "[16:48:57] Queue up to date. Waiting for next daily Ken upload.",
             "[16:50:57] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
             "[16:51:08] Queue up to date. Waiting for next daily Ken upload.",
             "[16:53:08] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
             "[16:53:20] Queue up to date. Waiting for next daily Ken upload.",
             "[18:12:46] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
             "[18:12:58] Queue up to date. Waiting for next daily Ken upload.",
-            "[20:43:05] Scanning @kenforrest YouTube feed for latest Clash Royale uploads..."
+            "[20:43:05] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
+            "[21:12:55] Error scanning Ken feed: Command '['/Users/jacksonmcmurdo/Desktop/Muk_Post/02_BUSINESS_&_OPERATIONS/muk_jarvis_env/bin/python3', '-m', 'yt_dlp', '--flat-playlist', '--print', '%(title)s;;;%(url)s;;;%(duration)s', 'https://www.youtube.com/@kenforrest/videos']' timed out after 30 seconds"
           ]
         },
         "STRATEGIST": {
@@ -1578,14 +1578,14 @@
           "current_task": "No queued Ken candidates ready. Waiting for SCOUT.",
           "last_completed_task": "Mapped 3 distinct viral gaming hook angles for initial drops",
           "recent_logs": [
-            "[16:40:08] No queued Ken candidates ready. Waiting for SCOUT.",
             "[16:42:19] No queued Ken candidates ready. Waiting for SCOUT.",
             "[16:44:32] No queued Ken candidates ready. Waiting for SCOUT.",
             "[16:46:43] No queued Ken candidates ready. Waiting for SCOUT.",
             "[16:48:57] No queued Ken candidates ready. Waiting for SCOUT.",
             "[16:51:08] No queued Ken candidates ready. Waiting for SCOUT.",
             "[16:53:20] No queued Ken candidates ready. Waiting for SCOUT.",
-            "[18:12:58] No queued Ken candidates ready. Waiting for SCOUT."
+            "[18:12:58] No queued Ken candidates ready. Waiting for SCOUT.",
+            "[21:12:55] No queued Ken candidates ready. Waiting for SCOUT."
           ]
         },
         "EDITOR": {
@@ -1632,14 +1632,14 @@
           "current_task": "Auditing velocity of active Ken Clash Royale Shorts...",
           "last_completed_task": "Calibrated gaming threshold: >15 views/hr within 4h",
           "recent_logs": [
-            "[16:40:08] Auditing velocity of active Ken Clash Royale Shorts...",
             "[16:42:19] Auditing velocity of active Ken Clash Royale Shorts...",
             "[16:44:32] Auditing velocity of active Ken Clash Royale Shorts...",
             "[16:46:43] Auditing velocity of active Ken Clash Royale Shorts...",
             "[16:48:57] Auditing velocity of active Ken Clash Royale Shorts...",
             "[16:51:08] Auditing velocity of active Ken Clash Royale Shorts...",
             "[16:53:20] Auditing velocity of active Ken Clash Royale Shorts...",
-            "[18:12:58] Auditing velocity of active Ken Clash Royale Shorts..."
+            "[18:12:58] Auditing velocity of active Ken Clash Royale Shorts...",
+            "[21:12:55] Auditing velocity of active Ken Clash Royale Shorts..."
           ]
         },
         "WATCHDOG": {
@@ -1647,14 +1647,14 @@
           "current_task": "Verifying Supercell fan policy: 0 claims, 0 strikes.",
           "last_completed_task": "Audited source parameters: strictly <30s segment rule active",
           "recent_logs": [
-            "[16:40:08] Verifying Supercell fan policy: 0 claims, 0 strikes.",
             "[16:42:19] Verifying Supercell fan policy: 0 claims, 0 strikes.",
             "[16:44:32] Verifying Supercell fan policy: 0 claims, 0 strikes.",
             "[16:46:43] Verifying Supercell fan policy: 0 claims, 0 strikes.",
             "[16:48:57] Verifying Supercell fan policy: 0 claims, 0 strikes.",
             "[16:51:08] Verifying Supercell fan policy: 0 claims, 0 strikes.",
             "[16:53:20] Verifying Supercell fan policy: 0 claims, 0 strikes.",
-            "[18:12:58] Verifying Supercell fan policy: 0 claims, 0 strikes."
+            "[18:12:58] Verifying Supercell fan policy: 0 claims, 0 strikes.",
+            "[21:12:55] Verifying Supercell fan policy: 0 claims, 0 strikes."
           ]
         }
       },
@@ -1743,72 +1743,6 @@
       },
       "calendar": {
         "scheduled": [
-          {
-            "id": "ken_least_busted",
-            "source_video": "least busted card",
-            "creator": "Ken",
-            "title": "Why This Troll Deck Is Unstoppable",
-            "publish_at": "2026-10-16T00:15:00Z",
-            "status": "SCHEDULED",
-            "uploaded": true,
-            "youtube_video_id": "-dn1oqE81NU",
-            "youtube_url": "https://www.youtube.com/shorts/-dn1oqE81NU",
-            "video_file": "ken_least_busted_master.mp4",
-            "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_least_busted_master.mp4",
-            "duration": 33.21,
-            "hook_summary": "The speaker reveals his 'miserable to defend' troll deck strategy and explains why it only takes one push to win.",
-            "metadata": {
-              "title": "Why This Troll Deck Is Unstoppable",
-              "description": "Most players lose because they don't understand the hidden mechanics of bridge spam. Discover the one-push strategy that makes defending against this deck a nightmare.\n\n* Master the art of the singular, game-ending push.\n* Learn why 'troll' decks often break competitive defense meta.\n* The exact timing window you need to secure the win.\n\nFeaturing: Ken\n\nIs this deck actually 'low skill' or just misunderstood genius? Sound off below.\n\n#clashroyale #gaming #strategy #tipsandtricks #shorts",
-              "tags": [
-                "clash royale",
-                "bridge spam",
-                "deck guide",
-                "gaming tips",
-                "mobile gaming",
-                "strategy guide",
-                "clash royale strategy",
-                "troll deck",
-                "gaming shorts"
-              ],
-              "pinned_comment": "Be honest: Is bridge spam a legitimate strategy or is it just 'cheating' your way to a win? Let's settle this in the replies.",
-              "ab_variants": {
-                "A": {
-                  "angle": "Curiosity Gap",
-                  "title": "Why This Troll Deck Is Unstoppable",
-                  "description": "Most players lose because they don't understand the hidden mechanics of bridge spam. Discover the one-push strategy that makes defending against this deck a nightmare.\n\n* Master the art of the singular, game-ending push.\n* Learn why 'troll' decks often break competitive defense meta.\n* The exact timing window you need to secure the win.\n\nFeaturing: Ken\n\nIs this deck actually 'low skill' or just misunderstood genius? Sound off below.\n\n#clashroyale #gaming #strategy #tipsandtricks #shorts"
-                },
-                "B": {
-                  "angle": "Contrarian Truth",
-                  "title": "Stop Defending Bridge Spam Wrong",
-                  "description": "You've been taught to defend bridge spam incorrectly, and that\u2019s why you\u2019re losing. This deck proves that pure aggression beats calculated defense every time.\n\n* Why defensive play is a trap against this specific build.\n* The secret to making your opponent panic with one push.\n* How to weaponize a 'troll' deck to climb the ladder.\n\nFeaturing: Ken\n\nIf you could ban one card from existence to stop bridge spam, what would it be?\n\n#gaming #clashroyale #deckguide #winrate #shorts"
-                },
-                "C": {
-                  "angle": "Actionable Protocol",
-                  "title": "The One-Push Bridge Spam Strategy",
-                  "description": "Stop struggling with long, drawn-out matches. Use this precise bridge spam protocol to overwhelm your opponent\u2019s defense in a single move.\n\n* The step-by-step setup for an unstoppable bridge spam push.\n* How to identify when your opponent has already lost the game.\n* Leveraging the 'troll' element for maximum psychological pressure.\n\nFeaturing: Ken\n\nWould you rather win with a 'skill' deck or a 'troll' deck? Tell us your preference.\n\n#gaming #protips #clashroyale #strategy #shorts"
-                }
-              },
-              "active_variant": "A",
-              "test_status": "ACTIVE_TEST",
-              "variant_history": [
-                {
-                  "variant": "A",
-                  "title": "Why This Troll Deck Is Unstoppable",
-                  "deployed_at": 1792023402.7638242,
-                  "reason": "Initial A/B test deployment"
-                }
-              ],
-              "metrics": {
-                "views": 0,
-                "likes": 0,
-                "comments": 0,
-                "retention": 0.0,
-                "ctr": 0.0
-              }
-            },
-            "reframed": "gaming_split"
-          },
           {
             "id": "ken_perfected_deck",
             "source_video": "perfected my deck",
@@ -2012,6 +1946,72 @@
         ],
         "held": [],
         "published": [
+          {
+            "id": "ken_least_busted",
+            "source_video": "least busted card",
+            "creator": "Ken",
+            "title": "Why This Troll Deck Is Unstoppable",
+            "publish_at": "2026-10-16T00:15:00Z",
+            "status": "PUBLISHED",
+            "uploaded": true,
+            "youtube_video_id": "-dn1oqE81NU",
+            "youtube_url": "https://www.youtube.com/shorts/-dn1oqE81NU",
+            "video_file": "ken_least_busted_master.mp4",
+            "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_least_busted_master.mp4",
+            "duration": 33.21,
+            "hook_summary": "The speaker reveals his 'miserable to defend' troll deck strategy and explains why it only takes one push to win.",
+            "metadata": {
+              "title": "Why This Troll Deck Is Unstoppable",
+              "description": "Most players lose because they don't understand the hidden mechanics of bridge spam. Discover the one-push strategy that makes defending against this deck a nightmare.\n\n* Master the art of the singular, game-ending push.\n* Learn why 'troll' decks often break competitive defense meta.\n* The exact timing window you need to secure the win.\n\nFeaturing: Ken\n\nIs this deck actually 'low skill' or just misunderstood genius? Sound off below.\n\n#clashroyale #gaming #strategy #tipsandtricks #shorts",
+              "tags": [
+                "clash royale",
+                "bridge spam",
+                "deck guide",
+                "gaming tips",
+                "mobile gaming",
+                "strategy guide",
+                "clash royale strategy",
+                "troll deck",
+                "gaming shorts"
+              ],
+              "pinned_comment": "Be honest: Is bridge spam a legitimate strategy or is it just 'cheating' your way to a win? Let's settle this in the replies.",
+              "ab_variants": {
+                "A": {
+                  "angle": "Curiosity Gap",
+                  "title": "Why This Troll Deck Is Unstoppable",
+                  "description": "Most players lose because they don't understand the hidden mechanics of bridge spam. Discover the one-push strategy that makes defending against this deck a nightmare.\n\n* Master the art of the singular, game-ending push.\n* Learn why 'troll' decks often break competitive defense meta.\n* The exact timing window you need to secure the win.\n\nFeaturing: Ken\n\nIs this deck actually 'low skill' or just misunderstood genius? Sound off below.\n\n#clashroyale #gaming #strategy #tipsandtricks #shorts"
+                },
+                "B": {
+                  "angle": "Contrarian Truth",
+                  "title": "Stop Defending Bridge Spam Wrong",
+                  "description": "You've been taught to defend bridge spam incorrectly, and that\u2019s why you\u2019re losing. This deck proves that pure aggression beats calculated defense every time.\n\n* Why defensive play is a trap against this specific build.\n* The secret to making your opponent panic with one push.\n* How to weaponize a 'troll' deck to climb the ladder.\n\nFeaturing: Ken\n\nIf you could ban one card from existence to stop bridge spam, what would it be?\n\n#gaming #clashroyale #deckguide #winrate #shorts"
+                },
+                "C": {
+                  "angle": "Actionable Protocol",
+                  "title": "The One-Push Bridge Spam Strategy",
+                  "description": "Stop struggling with long, drawn-out matches. Use this precise bridge spam protocol to overwhelm your opponent\u2019s defense in a single move.\n\n* The step-by-step setup for an unstoppable bridge spam push.\n* How to identify when your opponent has already lost the game.\n* Leveraging the 'troll' element for maximum psychological pressure.\n\nFeaturing: Ken\n\nWould you rather win with a 'skill' deck or a 'troll' deck? Tell us your preference.\n\n#gaming #protips #clashroyale #strategy #shorts"
+                }
+              },
+              "active_variant": "A",
+              "test_status": "ACTIVE_TEST",
+              "variant_history": [
+                {
+                  "variant": "A",
+                  "title": "Why This Troll Deck Is Unstoppable",
+                  "deployed_at": 1792023402.7638242,
+                  "reason": "Initial A/B test deployment"
+                }
+              ],
+              "metrics": {
+                "views": 0,
+                "likes": 0,
+                "comments": 0,
+                "retention": 0.0,
+                "ctr": 0.0
+              }
+            },
+            "reframed": "gaming_split"
+          },
           {
             "id": "ken_new_barrel",
             "source_video": "the new barrel",
@@ -2407,24 +2407,24 @@
         "emergency_stop": false,
         "autopilot_engaged": true,
         "buffer_target_shorts": 6,
-        "remote_tunnel_url": "https://westminster-fighter-secondary-convertible.trycloudflare.com",
+        "remote_tunnel_url": "https://endorsed-base-desktops-anybody.trycloudflare.com",
         "channel_id": "UCcNdnkFH4m9C3rUunbOEaSg",
         "oauth_connected": true
       },
       "agents": {
         "SCOUT": {
           "status": "working",
-          "current_task": "Pop culture queue up to date. Monitoring for new episodes.",
+          "current_task": "Scanning Trisha Paytas, Emergency Intercom, and Benito Skinner feeds...",
           "last_completed_task": "Ingested 6 recent episodes across Trisha, Enya/Drew, and Benito",
           "recent_logs": [
-            "[16:49:11] Scanning Trisha Paytas, Emergency Intercom, and Benito Skinner feeds...",
             "[16:49:34] Pop culture queue up to date. Monitoring for new episodes.",
             "[16:51:34] Scanning Trisha Paytas, Emergency Intercom, and Benito Skinner feeds...",
             "[16:51:45] Pop culture queue up to date. Monitoring for new episodes.",
             "[17:10:00] Scanning Trisha Paytas, Emergency Intercom, and Benito Skinner feeds...",
             "[17:10:13] Pop culture queue up to date. Monitoring for new episodes.",
             "[18:47:01] Scanning Trisha Paytas, Emergency Intercom, and Benito Skinner feeds...",
-            "[19:27:52] Pop culture queue up to date. Monitoring for new episodes."
+            "[19:27:52] Pop culture queue up to date. Monitoring for new episodes.",
+            "[21:48:57] Scanning Trisha Paytas, Emergency Intercom, and Benito Skinner feeds..."
           ]
         },
         "STRATEGIST": {
@@ -3306,11 +3306,11 @@
     "dashboard": {
       "host": "127.0.0.1",
       "port": 8899,
-      "remote_tunnel_url": "https://westminster-fighter-secondary-convertible.trycloudflare.com",
+      "remote_tunnel_url": "https://endorsed-base-desktops-anybody.trycloudflare.com",
       "tunnel_active": true
     },
     "buffer_target_shorts": 6,
-    "remote_tunnel_url": "https://westminster-fighter-secondary-convertible.trycloudflare.com",
+    "remote_tunnel_url": "https://endorsed-base-desktops-anybody.trycloudflare.com",
     "channel_id": "UCKqBK1q6-0i735Mn_hiNIig",
     "channel_name": "Muks Breakdown Room",
     "oauth_connected": true

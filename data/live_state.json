@@ -1,6 +1,6 @@
 {
-  "timestamp": 1792163022.075658,
-  "sync_time_iso": "2026-10-16T15:03:42Z",
+  "timestamp": 1792163084.199998,
+  "sync_time_iso": "2026-10-16T15:04:44Z",
   "default_channel": "muk_podcast",
   "channels": {
     "muk_podcast": {
@@ -2423,17 +2423,17 @@
       "agents": {
         "SCOUT": {
           "status": "working",
-          "current_task": "Ingested 3 fresh pop-culture episode(s) into queue.",
+          "current_task": "Pop culture queue up to date. Monitoring for new episodes.",
           "last_completed_task": "Ingested 6 recent episodes across Trisha, Enya/Drew, and Benito",
           "recent_logs": [
-            "[10:54:20] Scanning Trisha Paytas, Emergency Intercom, and Benito Skinner feeds...",
-            "[10:54:31] Pop culture queue up to date. Monitoring for new episodes.",
             "[10:56:31] Scanning Trisha Paytas, Emergency Intercom, and Benito Skinner feeds...",
             "[10:56:41] Pop culture queue up to date. Monitoring for new episodes.",
             "[10:58:41] Scanning Trisha Paytas, Emergency Intercom, and Benito Skinner feeds...",
             "[10:58:51] Pop culture queue up to date. Monitoring for new episodes.",
             "[11:00:51] Scanning Trisha Paytas, Emergency Intercom, and Benito Skinner feeds...",
-            "[11:01:03] Ingested 3 fresh pop-culture episode(s) into queue."
+            "[11:01:03] Ingested 3 fresh pop-culture episode(s) into queue.",
+            "[11:03:57] Scanning Trisha Paytas, Emergency Intercom, and Benito Skinner feeds...",
+            "[11:04:08] Pop culture queue up to date. Monitoring for new episodes."
           ]
         },
         "STRATEGIST": {
@@ -2453,17 +2453,17 @@
         },
         "EDITOR": {
           "status": "idle",
-          "current_task": "Rendering 1080x1920 Short with pop captions: KIM KARDASHIAN AS FIRST LADY |",
+          "current_task": "Rendering 1080x1920 Short with pop captions: A KARDASHIAN KRISMAS Pt. 2 | B",
           "last_completed_task": "Rendered Trisha Paytas & Brittany Broski pop culture highlight with Neon Pink/Cyan pop captions",
           "recent_logs": [
-            "[22:12:43] Downloading highlight segment for: Mikayla Noguiera Comes Clean on Jay...",
-            "[22:12:46] Rendering 1080x1920 Short with pop captions: Mikayla Noguiera Comes Clean o",
             "[22:16:48] Downloading highlight segment for: OVERCOMPENSATING OFFICIAL TEASER | ...",
             "[22:19:01] Downloading highlight segment for: A DAY IN THE LIFE OF LANA DEL REY.....",
             "[22:19:06] Rendering 1080x1920 Short with pop captions: A DAY IN THE LIFE OF LANA DEL ",
             "[11:39:43] Downloading highlight segment for: Trisha's Going Through It & Everyth...",
             "[11:01:03] Downloading highlight segment for: KIM KARDASHIAN AS FIRST LADY | Beni...",
-            "[11:01:07] Rendering 1080x1920 Short with pop captions: KIM KARDASHIAN AS FIRST LADY |"
+            "[11:01:07] Rendering 1080x1920 Short with pop captions: KIM KARDASHIAN AS FIRST LADY |",
+            "[11:04:08] Downloading highlight segment for: A KARDASHIAN KRISMAS Pt. 2 | Benito...",
+            "[11:04:12] Rendering 1080x1920 Short with pop captions: A KARDASHIAN KRISMAS Pt. 2 | B"
           ]
         },
         "COMMENTATOR": {
@@ -2662,7 +2662,7 @@
             "title": "A KARDASHIAN KRISMAS Pt. 2 | Benito Skinner (2019)",
             "url": "https://www.youtube.com/watch?v=4Edc-wnvMVo",
             "duration": 165,
-            "status": "QUEUED",
+            "status": "PROCESSING",
             "added_at": "2026-10-16T15:01:03Z"
           },
           {

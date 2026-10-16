@@ -1,6 +1,6 @@
 {
-  "timestamp": 1792177469.447732,
-  "sync_time_iso": "2026-10-16T19:04:29Z",
+  "timestamp": 1792177483.987402,
+  "sync_time_iso": "2026-10-16T19:04:43Z",
   "default_channel": "muk_podcast",
   "channels": {
     "muk_podcast": {
@@ -2477,17 +2477,17 @@
         },
         "PUBLISHER": {
           "status": "working",
-          "current_task": "Generating dynamic A/B metadata for slot: 09:00 PM ET (Sat, Oct 17)...",
+          "current_task": "Short SCHEDULED on YouTube: s9VjCartwDI (09:00 PM ET (Sat, Oct 17))",
           "last_completed_task": "Uploaded all 3 initial pop-culture Shorts to YouTube (@abiclitsalot)",
           "recent_logs": [
-            "[11:01:55] Short SCHEDULED on YouTube: qQHrbZLPEOI (09:00 PM ET (Fri, Oct 16))",
-            "[11:04:45] Generating dynamic A/B metadata for slot: 12:30 PM ET (Sat, Oct 17)...",
             "[11:04:52] Deploying to YouTube (@abiclitsalot) for release 12:30 PM ET (Sat, Oct 17)...",
             "[11:04:57] Short SCHEDULED on YouTube: KGeMWgJMi8U (12:30 PM ET (Sat, Oct 17))",
             "[11:07:47] Generating dynamic A/B metadata for slot: 05:00 PM ET (Sat, Oct 17)...",
             "[11:07:55] Deploying to YouTube (@abiclitsalot) for release 05:00 PM ET (Sat, Oct 17)...",
             "[11:08:00] Short SCHEDULED on YouTube: Hzi-fr-Odjs (05:00 PM ET (Sat, Oct 17))",
-            "[15:04:18] Generating dynamic A/B metadata for slot: 09:00 PM ET (Sat, Oct 17)..."
+            "[15:04:18] Generating dynamic A/B metadata for slot: 09:00 PM ET (Sat, Oct 17)...",
+            "[15:04:40] Deploying to YouTube (@abiclitsalot) for release 09:00 PM ET (Sat, Oct 17)...",
+            "[15:04:43] Short SCHEDULED on YouTube: s9VjCartwDI (09:00 PM ET (Sat, Oct 17))"
           ]
         },
         "ANALYST": {
@@ -2655,15 +2655,6 @@
             "duration": 3600,
             "status": "FAILED_DOWNLOAD",
             "added_at": "2026-10-15T15:39:37Z"
-          },
-          {
-            "id": "abigail_1792177358_0",
-            "creator": "Emergency Intercom",
-            "title": "Emergency Intercom - Episode 256 (Why Enya lost 100k followers)",
-            "url": "https://www.youtube.com/watch?v=iMPpj5HNEzo",
-            "duration": 3493,
-            "status": "PROCESSING",
-            "added_at": "2026-10-16T19:02:38Z"
           }
         ],
         "processing": null,
@@ -2755,6 +2746,17 @@
             "added_at": "2026-10-16T15:01:03Z",
             "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/abigail_1792162863_2_master.mp4",
             "youtube_video_id": "Hzi-fr-Odjs"
+          },
+          {
+            "id": "abigail_1792177358_0",
+            "creator": "Emergency Intercom",
+            "title": "Emergency Intercom - Episode 256 (Why Enya lost 100k followers)",
+            "url": "https://www.youtube.com/watch?v=iMPpj5HNEzo",
+            "duration": 3493,
+            "status": "COMPLETED",
+            "added_at": "2026-10-16T19:02:38Z",
+            "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/abigail_1792177358_0_master.mp4",
+            "youtube_video_id": "s9VjCartwDI"
           }
         ]
       },
@@ -3012,6 +3014,72 @@
                   "variant": "A",
                   "title": "The moment Benito knew it was over...",
                   "deployed_at": 1792163275.554791,
+                  "reason": "Initial A/B test deployment"
+                }
+              ],
+              "metrics": {
+                "views": 0,
+                "likes": 0,
+                "comments": 0,
+                "retention": 0.0,
+                "ctr": 0.0
+              }
+            }
+          },
+          {
+            "id": "abigail_1792177358_0",
+            "source_video": "Emergency Intercom - Episode 256 (Why Enya lost 100k followers)",
+            "creator": "Emergency Intercom",
+            "title": "Kim K\u2019s TikTok Live got hijacked by this...",
+            "publish_at": "2026-10-18T01:00:00Z",
+            "status": "SCHEDULED",
+            "uploaded": true,
+            "youtube_video_id": "s9VjCartwDI",
+            "youtube_url": "https://www.youtube.com/shorts/s9VjCartwDI",
+            "video_file": "abigail_1792177358_0_master.mp4",
+            "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/abigail_1792177358_0_master.mp4",
+            "duration": 32.0,
+            "hook_summary": "A deep dive into the surreal and hilarious moment when North West and Kim Kardashian's TikTok Live was hijacked by repetitive AI 'Charlie Kirk' song donations.",
+            "metadata": {
+              "title": "Kim K\u2019s TikTok Live got hijacked by this...",
+              "description": "The most surreal moment in internet history happened when North West went live and Kim had absolutely no idea what was happening. This is the peak of Gen Alpha chaos.\n\n- Why celebrities can't control AI spam bots\n- The funniest glitch in TikTok Live history\n- How North West is single-handedly breaking the internet\n\nFeaturing: Emergency Intercom\n\nIs North West doing this on purpose or is it just pure luck? \n\n#shorts #emergencyintercom #northwest #kimkardashian #tiktoklive #viral",
+              "tags": [
+                "emergency intercom",
+                "north west",
+                "kim kardashian",
+                "tiktok live",
+                "charlie kirk song",
+                "drew phillips",
+                "enya umanzor",
+                "viral tiktok",
+                "internet lore",
+                "gen alpha"
+              ],
+              "pinned_comment": "Did North West know exactly what she was doing with those AI donations? \ud83d\udc80",
+              "ab_variants": {
+                "A": {
+                  "angle": "Curiosity Gap",
+                  "title": "Kim K\u2019s TikTok Live got hijacked by this...",
+                  "description": "The most surreal moment in internet history happened when North West went live and Kim had absolutely no idea what was happening. This is the peak of Gen Alpha chaos.\n\n- Why celebrities can't control AI spam bots\n- The funniest glitch in TikTok Live history\n- How North West is single-handedly breaking the internet\n\nFeaturing: Emergency Intercom\n\nIs North West doing this on purpose or is it just pure luck? \n\n#shorts #emergencyintercom #northwest #kimkardashian #tiktoklive #viral"
+                },
+                "B": {
+                  "angle": "Contrarian Truth",
+                  "title": "Why Kim K\u2019s TikTok Live was a total nightmare",
+                  "description": "Everyone thought North West\u2019s livestream was cute until the repetitive AI donations started. Kim\u2019s reaction proves she is completely out of touch with current internet lore.\n\n- The breakdown of the 'Charlie Kirk' donation trend\n- Why TikTok\u2019s moderation failed in real-time\n- The absurdity of celebrity-child digital footprints\n\nFeaturing: Emergency Intercom\n\nShould Kim be letting North go live at all after this mess?\n\n#shorts #emergencyintercom #internetculture #kimk #northwest #memes"
+                },
+                "C": {
+                  "angle": "Actionable Protocol",
+                  "title": "The formula for North West\u2019s viral chaos",
+                  "description": "There is a specific reason why this livestream went viral, and it involves a bizarre AI feedback loop. Here is how internet trolls officially hijacked the Kardashian brand.\n\n- How AI spam disrupts high-tier influencer streams\n- The pattern of viral Gen Alpha humor\n- Why repetitive audio is the ultimate engagement hack\n\nFeaturing: Emergency Intercom\n\nWhich celebrity would have the funniest reaction to being hijacked by AI songs?\n\n#shorts #emergencyintercom #strategy #marketing #northwest #tiktok"
+                }
+              },
+              "active_variant": "A",
+              "test_status": "ACTIVE_TEST",
+              "variant_history": [
+                {
+                  "variant": "A",
+                  "title": "Kim K\u2019s TikTok Live got hijacked by this...",
+                  "deployed_at": 1792177480.791858,
                   "reason": "Initial A/B test deployment"
                 }
               ],

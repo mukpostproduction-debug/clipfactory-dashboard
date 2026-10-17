@@ -1,6 +1,6 @@
 {
-  "timestamp": 1792213569.417001,
-  "sync_time_iso": "2026-10-17T05:06:09Z",
+  "timestamp": 1792213619.489347,
+  "sync_time_iso": "2026-10-17T05:06:59Z",
   "default_channel": "ken_clips_burger",
   "channels": {
     "ken_clips_burger": {
@@ -147,17 +147,17 @@
         },
         "PUBLISHER": {
           "status": "working",
-          "current_task": "Short SCHEDULED on YouTube: L4nL6yoiTGw (01:00 PM ET (Sun, Oct 18))",
+          "current_task": "Short SCHEDULED on YouTube: tFDlYvCKgpE (04:30 PM ET (Sun, Oct 18))",
           "last_completed_task": "Uploaded all 3 initial Clash Royale gaming cuts to YouTube (kenclipsburger420)",
           "recent_logs": [
-            "[00:57:10] Deploying to YouTube (@kenclipsburger420) for release 10:15 PM ET (Sat, Oct 17)...",
-            "[00:57:14] Short SCHEDULED on YouTube: G-nzCxYYtYo (10:15 PM ET (Sat, Oct 17))",
-            "[01:00:17] Generating gaming A/B metadata for slot: 10:00 AM ET (Sun, Oct 18)...",
             "[01:00:26] Deploying to YouTube (@kenclipsburger420) for release 10:00 AM ET (Sun, Oct 18)...",
             "[01:00:34] Short SCHEDULED on YouTube: taMrNFxp-v0 (10:00 AM ET (Sun, Oct 18))",
             "[01:03:32] Generating gaming A/B metadata for slot: 01:00 PM ET (Sun, Oct 18)...",
             "[01:03:41] Deploying to YouTube (@kenclipsburger420) for release 01:00 PM ET (Sun, Oct 18)...",
-            "[01:03:47] Short SCHEDULED on YouTube: L4nL6yoiTGw (01:00 PM ET (Sun, Oct 18))"
+            "[01:03:47] Short SCHEDULED on YouTube: L4nL6yoiTGw (01:00 PM ET (Sun, Oct 18))",
+            "[01:06:50] Generating gaming A/B metadata for slot: 04:30 PM ET (Sun, Oct 18)...",
+            "[01:06:52] Deploying to YouTube (@kenclipsburger420) for release 04:30 PM ET (Sun, Oct 18)...",
+            "[01:06:59] Short SCHEDULED on YouTube: tFDlYvCKgpE (04:30 PM ET (Sun, Oct 18))"
           ]
         },
         "ANALYST": {
@@ -193,17 +193,6 @@
       },
       "queue": {
         "queue": [
-          {
-            "id": "ken_1792212492_4",
-            "creator": "Ken",
-            "title": "2.3 brainrot cycle [Clutch Moment]",
-            "source_title": "2.3 brainrot cycle",
-            "url": "https://www.youtube.com/watch?v=0mooFVMdD_8",
-            "section": "*300-480",
-            "duration": 893,
-            "status": "PROCESSING",
-            "added_at": "2026-10-17T04:48:12Z"
-          },
           {
             "id": "ken_1792212492_5",
             "creator": "Ken",
@@ -511,6 +500,19 @@
             "added_at": "2026-10-17T04:48:12Z",
             "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792212492_3_master.mp4",
             "youtube_video_id": "L4nL6yoiTGw"
+          },
+          {
+            "id": "ken_1792212492_4",
+            "creator": "Ken",
+            "title": "2.3 brainrot cycle [Clutch Moment]",
+            "source_title": "2.3 brainrot cycle",
+            "url": "https://www.youtube.com/watch?v=0mooFVMdD_8",
+            "section": "*300-480",
+            "duration": 893,
+            "status": "COMPLETED",
+            "added_at": "2026-10-17T04:48:12Z",
+            "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792212492_4_master.mp4",
+            "youtube_video_id": "tFDlYvCKgpE"
           }
         ]
       },
@@ -863,6 +865,72 @@
                   "variant": "A",
                   "title": "He Survived 5 Nights Doing THIS?",
                   "deployed_at": 1792213421.369306,
+                  "reason": "Initial A/B test deployment"
+                }
+              ],
+              "metrics": {
+                "views": 0,
+                "likes": 0,
+                "comments": 0,
+                "retention": 0.0,
+                "ctr": 0.0
+              }
+            },
+            "reframed": "gaming_split"
+          },
+          {
+            "id": "ken_1792212492_4",
+            "source_video": "2.3 brainrot cycle [Clutch Moment]",
+            "creator": "Ken",
+            "title": "How he won the worst matchup ever...",
+            "publish_at": "2026-10-18T20:30:00Z",
+            "status": "SCHEDULED",
+            "uploaded": true,
+            "youtube_video_id": "tFDlYvCKgpE",
+            "youtube_url": "https://www.youtube.com/shorts/tFDlYvCKgpE",
+            "video_file": "ken_1792212492_4_master.mp4",
+            "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792212492_4_master.mp4",
+            "duration": 30.99,
+            "hook_summary": "The creator reacts to winning the most outrageous matchup thanks to a genius starting hand strategy.",
+            "metadata": {
+              "title": "How he won the worst matchup ever...",
+              "description": "Facing the most outrageous matchup in Clash Royale history should mean an instant loss. But with one secret starting hand strategy, the entire game flips upside down.\n\n\u2022 Discover the exact starting hand trap that neutralizes hard counters instantly.\n\u2022 Learn how to manipulate your opponent's opening moves before they realize what's happening.\n\u2022 See why bad matchups are actually free wins if you play your cards right.\n\nFeaturing: Ken\n\nWould you have just closed the game in this starting position, or kept playing?\n\n#shorts #clashroyale #gaming #strategy #mobilegames #ken",
+              "tags": [
+                "Clash Royale",
+                "Clash Royale Gameplay",
+                "Ken Clash Royale",
+                "Clash Royale Strategy",
+                "Starting Hand Strategy",
+                "Clash Royale Funny",
+                "Mobile Gaming",
+                "Clash Royale Shorts",
+                "Clash Royale Wins"
+              ],
+              "pinned_comment": "Be honest: would you have rage-quit before the 30-second mark in this matchup? Drop your rank below!",
+              "ab_variants": {
+                "A": {
+                  "angle": "Curiosity Gap",
+                  "title": "How he won the worst matchup ever...",
+                  "description": "Facing the most outrageous matchup in Clash Royale history should mean an instant loss. But with one secret starting hand strategy, the entire game flips upside down.\n\n\u2022 Discover the exact starting hand trap that neutralizes hard counters instantly.\n\u2022 Learn how to manipulate your opponent's opening moves before they realize what's happening.\n\u2022 See why bad matchups are actually free wins if you play your cards right.\n\nFeaturing: Ken\n\nWould you have just closed the game in this starting position, or kept playing?\n\n#shorts #clashroyale #gaming #strategy #mobilegames #ken"
+                },
+                "B": {
+                  "angle": "Contrarian Truth",
+                  "title": "Bad matchups don't exist.",
+                  "description": "Everyone complains about getting hard-countered, but top players know that starting hands change the entire math of the game. Watch how an impossible matchup gets completely dismantled from move one.\n\n\u2022 Stop blaming bad RNG and start exploiting opening hand statistics.\n\u2022 The psychological trick to making your opponent panic during the first ten seconds.\n\u2022 Why playing aggressive into a counter is actually the safest play.\n\nFeaturing: Ken\n\nIs starting hand RNG ruining Clash Royale, or is it pure skill expression?\n\n#shorts #clashroyale #gaming #ranked #mobilegaming #ken"
+                },
+                "C": {
+                  "angle": "Actionable Protocol",
+                  "title": "The Ultimate Starting Hand Strategy",
+                  "description": "Want to win unwinnable matches? Here is the exact blueprint for turning a disastrous starting hand into a masterclass victory in Clash Royale.\n\n\u2022 Memorize the 3-second opening evaluation rule for every deck archetype.\n\u2022 Execute the counter-push trap to punish greedy first plays.\n\u2022 Take control of the elixir advantage before the single elixir phase even ends.\n\nFeaturing: Ken\n\nWhat is your go-to opening play when your starting hand is absolute trash?\n\n#shorts #clashroyale #protips #gaming #clashroyaletips #ken"
+                }
+              },
+              "active_variant": "A",
+              "test_status": "ACTIVE_TEST",
+              "variant_history": [
+                {
+                  "variant": "A",
+                  "title": "How he won the worst matchup ever...",
+                  "deployed_at": 1792213612.6975832,
                   "reason": "Initial A/B test deployment"
                 }
               ],
@@ -4322,17 +4390,17 @@
     },
     "PUBLISHER": {
       "status": "working",
-      "current_task": "Short SCHEDULED on YouTube: L4nL6yoiTGw (01:00 PM ET (Sun, Oct 18))",
+      "current_task": "Short SCHEDULED on YouTube: tFDlYvCKgpE (04:30 PM ET (Sun, Oct 18))",
       "last_completed_task": "Uploaded all 3 initial Clash Royale gaming cuts to YouTube (kenclipsburger420)",
       "recent_logs": [
-        "[00:57:10] Deploying to YouTube (@kenclipsburger420) for release 10:15 PM ET (Sat, Oct 17)...",
-        "[00:57:14] Short SCHEDULED on YouTube: G-nzCxYYtYo (10:15 PM ET (Sat, Oct 17))",
-        "[01:00:17] Generating gaming A/B metadata for slot: 10:00 AM ET (Sun, Oct 18)...",
         "[01:00:26] Deploying to YouTube (@kenclipsburger420) for release 10:00 AM ET (Sun, Oct 18)...",
         "[01:00:34] Short SCHEDULED on YouTube: taMrNFxp-v0 (10:00 AM ET (Sun, Oct 18))",
         "[01:03:32] Generating gaming A/B metadata for slot: 01:00 PM ET (Sun, Oct 18)...",
         "[01:03:41] Deploying to YouTube (@kenclipsburger420) for release 01:00 PM ET (Sun, Oct 18)...",
-        "[01:03:47] Short SCHEDULED on YouTube: L4nL6yoiTGw (01:00 PM ET (Sun, Oct 18))"
+        "[01:03:47] Short SCHEDULED on YouTube: L4nL6yoiTGw (01:00 PM ET (Sun, Oct 18))",
+        "[01:06:50] Generating gaming A/B metadata for slot: 04:30 PM ET (Sun, Oct 18)...",
+        "[01:06:52] Deploying to YouTube (@kenclipsburger420) for release 04:30 PM ET (Sun, Oct 18)...",
+        "[01:06:59] Short SCHEDULED on YouTube: tFDlYvCKgpE (04:30 PM ET (Sun, Oct 18))"
       ]
     },
     "ANALYST": {
@@ -4368,17 +4436,6 @@
   },
   "queue": {
     "queue": [
-      {
-        "id": "ken_1792212492_4",
-        "creator": "Ken",
-        "title": "2.3 brainrot cycle [Clutch Moment]",
-        "source_title": "2.3 brainrot cycle",
-        "url": "https://www.youtube.com/watch?v=0mooFVMdD_8",
-        "section": "*300-480",
-        "duration": 893,
-        "status": "PROCESSING",
-        "added_at": "2026-10-17T04:48:12Z"
-      },
       {
         "id": "ken_1792212492_5",
         "creator": "Ken",
@@ -4686,6 +4743,19 @@
         "added_at": "2026-10-17T04:48:12Z",
         "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792212492_3_master.mp4",
         "youtube_video_id": "L4nL6yoiTGw"
+      },
+      {
+        "id": "ken_1792212492_4",
+        "creator": "Ken",
+        "title": "2.3 brainrot cycle [Clutch Moment]",
+        "source_title": "2.3 brainrot cycle",
+        "url": "https://www.youtube.com/watch?v=0mooFVMdD_8",
+        "section": "*300-480",
+        "duration": 893,
+        "status": "COMPLETED",
+        "added_at": "2026-10-17T04:48:12Z",
+        "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792212492_4_master.mp4",
+        "youtube_video_id": "tFDlYvCKgpE"
       }
     ]
   },
@@ -5038,6 +5108,72 @@
               "variant": "A",
               "title": "He Survived 5 Nights Doing THIS?",
               "deployed_at": 1792213421.369306,
+              "reason": "Initial A/B test deployment"
+            }
+          ],
+          "metrics": {
+            "views": 0,
+            "likes": 0,
+            "comments": 0,
+            "retention": 0.0,
+            "ctr": 0.0
+          }
+        },
+        "reframed": "gaming_split"
+      },
+      {
+        "id": "ken_1792212492_4",
+        "source_video": "2.3 brainrot cycle [Clutch Moment]",
+        "creator": "Ken",
+        "title": "How he won the worst matchup ever...",
+        "publish_at": "2026-10-18T20:30:00Z",
+        "status": "SCHEDULED",
+        "uploaded": true,
+        "youtube_video_id": "tFDlYvCKgpE",
+        "youtube_url": "https://www.youtube.com/shorts/tFDlYvCKgpE",
+        "video_file": "ken_1792212492_4_master.mp4",
+        "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792212492_4_master.mp4",
+        "duration": 30.99,
+        "hook_summary": "The creator reacts to winning the most outrageous matchup thanks to a genius starting hand strategy.",
+        "metadata": {
+          "title": "How he won the worst matchup ever...",
+          "description": "Facing the most outrageous matchup in Clash Royale history should mean an instant loss. But with one secret starting hand strategy, the entire game flips upside down.\n\n\u2022 Discover the exact starting hand trap that neutralizes hard counters instantly.\n\u2022 Learn how to manipulate your opponent's opening moves before they realize what's happening.\n\u2022 See why bad matchups are actually free wins if you play your cards right.\n\nFeaturing: Ken\n\nWould you have just closed the game in this starting position, or kept playing?\n\n#shorts #clashroyale #gaming #strategy #mobilegames #ken",
+          "tags": [
+            "Clash Royale",
+            "Clash Royale Gameplay",
+            "Ken Clash Royale",
+            "Clash Royale Strategy",
+            "Starting Hand Strategy",
+            "Clash Royale Funny",
+            "Mobile Gaming",
+            "Clash Royale Shorts",
+            "Clash Royale Wins"
+          ],
+          "pinned_comment": "Be honest: would you have rage-quit before the 30-second mark in this matchup? Drop your rank below!",
+          "ab_variants": {
+            "A": {
+              "angle": "Curiosity Gap",
+              "title": "How he won the worst matchup ever...",
+              "description": "Facing the most outrageous matchup in Clash Royale history should mean an instant loss. But with one secret starting hand strategy, the entire game flips upside down.\n\n\u2022 Discover the exact starting hand trap that neutralizes hard counters instantly.\n\u2022 Learn how to manipulate your opponent's opening moves before they realize what's happening.\n\u2022 See why bad matchups are actually free wins if you play your cards right.\n\nFeaturing: Ken\n\nWould you have just closed the game in this starting position, or kept playing?\n\n#shorts #clashroyale #gaming #strategy #mobilegames #ken"
+            },
+            "B": {
+              "angle": "Contrarian Truth",
+              "title": "Bad matchups don't exist.",
+              "description": "Everyone complains about getting hard-countered, but top players know that starting hands change the entire math of the game. Watch how an impossible matchup gets completely dismantled from move one.\n\n\u2022 Stop blaming bad RNG and start exploiting opening hand statistics.\n\u2022 The psychological trick to making your opponent panic during the first ten seconds.\n\u2022 Why playing aggressive into a counter is actually the safest play.\n\nFeaturing: Ken\n\nIs starting hand RNG ruining Clash Royale, or is it pure skill expression?\n\n#shorts #clashroyale #gaming #ranked #mobilegaming #ken"
+            },
+            "C": {
+              "angle": "Actionable Protocol",
+              "title": "The Ultimate Starting Hand Strategy",
+              "description": "Want to win unwinnable matches? Here is the exact blueprint for turning a disastrous starting hand into a masterclass victory in Clash Royale.\n\n\u2022 Memorize the 3-second opening evaluation rule for every deck archetype.\n\u2022 Execute the counter-push trap to punish greedy first plays.\n\u2022 Take control of the elixir advantage before the single elixir phase even ends.\n\nFeaturing: Ken\n\nWhat is your go-to opening play when your starting hand is absolute trash?\n\n#shorts #clashroyale #protips #gaming #clashroyaletips #ken"
+            }
+          },
+          "active_variant": "A",
+          "test_status": "ACTIVE_TEST",
+          "variant_history": [
+            {
+              "variant": "A",
+              "title": "How he won the worst matchup ever...",
+              "deployed_at": 1792213612.6975832,
               "reason": "Initial A/B test deployment"
             }
           ],

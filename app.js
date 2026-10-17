@@ -18,7 +18,11 @@ let currentState = null;
 let activeBridgeUrl = localStorage.getItem("clipfactory_bridge_url") || "";
 let isBridgeConnected = false;
 let pollingInterval = null;
-let currentChannel = localStorage.getItem("clipfactory_selected_channel") || "muk_podcast";
+let currentChannel = localStorage.getItem("clipfactory_selected_channel");
+if (!currentChannel || currentChannel === "muk_podcast") {
+  currentChannel = "ken_clips_burger";
+  localStorage.setItem("clipfactory_selected_channel", "ken_clips_burger");
+}
 
 function changeActiveChannel(channelId) {
   currentChannel = channelId;

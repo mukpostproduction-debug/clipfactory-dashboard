@@ -1,6 +1,6 @@
 {
-  "timestamp": 1792213940.2273679,
-  "sync_time_iso": "2026-10-17T05:12:20Z",
+  "timestamp": 1792214002.747509,
+  "sync_time_iso": "2026-10-17T05:13:22Z",
   "default_channel": "ken_clips_burger",
   "channels": {
     "ken_clips_burger": {
@@ -93,17 +93,17 @@
       "agents": {
         "SCOUT": {
           "status": "working",
-          "current_task": "Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
+          "current_task": "Queue up to date. Waiting for next daily Ken upload.",
           "last_completed_task": "Ingested 5 recent Ken master videos into source pool",
           "recent_logs": [
-            "[00:59:28] Queue up to date. Waiting for next daily Ken upload.",
             "[01:02:36] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
             "[01:02:47] Queue up to date. Waiting for next daily Ken upload.",
             "[01:05:49] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
             "[01:06:00] Queue up to date. Waiting for next daily Ken upload.",
             "[01:09:01] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
             "[01:09:12] Queue up to date. Waiting for next daily Ken upload.",
-            "[01:12:18] Scanning @kenforrest YouTube feed for latest Clash Royale uploads..."
+            "[01:12:18] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
+            "[01:12:32] Queue up to date. Waiting for next daily Ken upload."
           ]
         },
         "STRATEGIST": {
@@ -123,17 +123,17 @@
         },
         "EDITOR": {
           "status": "working",
-          "current_task": "Rendering gaming_split Short with captions: hp buffed [Clutch Moment]",
+          "current_task": "Rendering gaming_split Short with captions: hp buffed [Overtime Battle]",
           "last_completed_task": "Rendered 'hp buffed' rage highlight with kinetic pop captions & commentary",
           "recent_logs": [
-            "[00:59:28] Downloading highlight segment (*300-480) for: they added gifs [Clutch Moment]...",
-            "[00:59:32] Rendering gaming_split Short with captions: they added gifs [Clutch Moment",
             "[01:02:47] Downloading highlight segment (*540-720) for: they added gifs [Overtime Battle]...",
             "[01:02:52] Rendering gaming_split Short with captions: they added gifs [Overtime Batt",
             "[01:06:00] Downloading highlight segment (*300-480) for: 2.3 brainrot cycle [Clutch Moment]...",
             "[01:06:05] Rendering gaming_split Short with captions: 2.3 brainrot cycle [Clutch Mom",
             "[01:09:12] Downloading highlight segment (*300-480) for: hp buffed [Clutch Moment]...",
-            "[01:09:17] Rendering gaming_split Short with captions: hp buffed [Clutch Moment]"
+            "[01:09:17] Rendering gaming_split Short with captions: hp buffed [Clutch Moment]",
+            "[01:12:32] Downloading highlight segment (*540-720) for: hp buffed [Overtime Battle]...",
+            "[01:12:37] Rendering gaming_split Short with captions: hp buffed [Overtime Battle]"
           ]
         },
         "COMMENTATOR": {
@@ -201,7 +201,7 @@
             "url": "https://www.youtube.com/watch?v=qXrrsHBJfz8",
             "section": "*540-720",
             "duration": 1354,
-            "status": "QUEUED",
+            "status": "PROCESSING",
             "added_at": "2026-10-17T04:48:12Z"
           },
           {
@@ -4404,17 +4404,17 @@
   "agents": {
     "SCOUT": {
       "status": "working",
-      "current_task": "Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
+      "current_task": "Queue up to date. Waiting for next daily Ken upload.",
       "last_completed_task": "Ingested 5 recent Ken master videos into source pool",
       "recent_logs": [
-        "[00:59:28] Queue up to date. Waiting for next daily Ken upload.",
         "[01:02:36] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
         "[01:02:47] Queue up to date. Waiting for next daily Ken upload.",
         "[01:05:49] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
         "[01:06:00] Queue up to date. Waiting for next daily Ken upload.",
         "[01:09:01] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
         "[01:09:12] Queue up to date. Waiting for next daily Ken upload.",
-        "[01:12:18] Scanning @kenforrest YouTube feed for latest Clash Royale uploads..."
+        "[01:12:18] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
+        "[01:12:32] Queue up to date. Waiting for next daily Ken upload."
       ]
     },
     "STRATEGIST": {
@@ -4434,17 +4434,17 @@
     },
     "EDITOR": {
       "status": "working",
-      "current_task": "Rendering gaming_split Short with captions: hp buffed [Clutch Moment]",
+      "current_task": "Rendering gaming_split Short with captions: hp buffed [Overtime Battle]",
       "last_completed_task": "Rendered 'hp buffed' rage highlight with kinetic pop captions & commentary",
       "recent_logs": [
-        "[00:59:28] Downloading highlight segment (*300-480) for: they added gifs [Clutch Moment]...",
-        "[00:59:32] Rendering gaming_split Short with captions: they added gifs [Clutch Moment",
         "[01:02:47] Downloading highlight segment (*540-720) for: they added gifs [Overtime Battle]...",
         "[01:02:52] Rendering gaming_split Short with captions: they added gifs [Overtime Batt",
         "[01:06:00] Downloading highlight segment (*300-480) for: 2.3 brainrot cycle [Clutch Moment]...",
         "[01:06:05] Rendering gaming_split Short with captions: 2.3 brainrot cycle [Clutch Mom",
         "[01:09:12] Downloading highlight segment (*300-480) for: hp buffed [Clutch Moment]...",
-        "[01:09:17] Rendering gaming_split Short with captions: hp buffed [Clutch Moment]"
+        "[01:09:17] Rendering gaming_split Short with captions: hp buffed [Clutch Moment]",
+        "[01:12:32] Downloading highlight segment (*540-720) for: hp buffed [Overtime Battle]...",
+        "[01:12:37] Rendering gaming_split Short with captions: hp buffed [Overtime Battle]"
       ]
     },
     "COMMENTATOR": {
@@ -4512,7 +4512,7 @@
         "url": "https://www.youtube.com/watch?v=qXrrsHBJfz8",
         "section": "*540-720",
         "duration": 1354,
-        "status": "QUEUED",
+        "status": "PROCESSING",
         "added_at": "2026-10-17T04:48:12Z"
       },
       {

@@ -1,6 +1,6 @@
 {
-  "timestamp": 1792213384.0567071,
-  "sync_time_iso": "2026-10-17T05:03:04Z",
+  "timestamp": 1792213427.798919,
+  "sync_time_iso": "2026-10-17T05:03:47Z",
   "default_channel": "ken_clips_burger",
   "channels": {
     "ken_clips_burger": {
@@ -147,17 +147,17 @@
         },
         "PUBLISHER": {
           "status": "working",
-          "current_task": "Short SCHEDULED on YouTube: taMrNFxp-v0 (10:00 AM ET (Sun, Oct 18))",
+          "current_task": "Short SCHEDULED on YouTube: L4nL6yoiTGw (01:00 PM ET (Sun, Oct 18))",
           "last_completed_task": "Uploaded all 3 initial Clash Royale gaming cuts to YouTube (kenclipsburger420)",
           "recent_logs": [
-            "[00:54:04] Deploying to YouTube (@kenclipsburger420) for release 07:30 PM ET (Sat, Oct 17)...",
-            "[00:54:11] Short SCHEDULED on YouTube: Eufly2coEvI (07:30 PM ET (Sat, Oct 17))",
-            "[00:57:06] Generating gaming A/B metadata for slot: 10:15 PM ET (Sat, Oct 17)...",
             "[00:57:10] Deploying to YouTube (@kenclipsburger420) for release 10:15 PM ET (Sat, Oct 17)...",
             "[00:57:14] Short SCHEDULED on YouTube: G-nzCxYYtYo (10:15 PM ET (Sat, Oct 17))",
             "[01:00:17] Generating gaming A/B metadata for slot: 10:00 AM ET (Sun, Oct 18)...",
             "[01:00:26] Deploying to YouTube (@kenclipsburger420) for release 10:00 AM ET (Sun, Oct 18)...",
-            "[01:00:34] Short SCHEDULED on YouTube: taMrNFxp-v0 (10:00 AM ET (Sun, Oct 18))"
+            "[01:00:34] Short SCHEDULED on YouTube: taMrNFxp-v0 (10:00 AM ET (Sun, Oct 18))",
+            "[01:03:32] Generating gaming A/B metadata for slot: 01:00 PM ET (Sun, Oct 18)...",
+            "[01:03:41] Deploying to YouTube (@kenclipsburger420) for release 01:00 PM ET (Sun, Oct 18)...",
+            "[01:03:47] Short SCHEDULED on YouTube: L4nL6yoiTGw (01:00 PM ET (Sun, Oct 18))"
           ]
         },
         "ANALYST": {
@@ -193,17 +193,6 @@
       },
       "queue": {
         "queue": [
-          {
-            "id": "ken_1792212492_3",
-            "creator": "Ken",
-            "title": "they added gifs [Overtime Battle]",
-            "source_title": "they added gifs",
-            "url": "https://www.youtube.com/watch?v=ibqwuwJ_6x0",
-            "section": "*540-720",
-            "duration": 975,
-            "status": "PROCESSING",
-            "added_at": "2026-10-17T04:48:12Z"
-          },
           {
             "id": "ken_1792212492_4",
             "creator": "Ken",
@@ -509,6 +498,19 @@
             "added_at": "2026-10-17T04:48:12Z",
             "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792212492_2_master.mp4",
             "youtube_video_id": "taMrNFxp-v0"
+          },
+          {
+            "id": "ken_1792212492_3",
+            "creator": "Ken",
+            "title": "they added gifs [Overtime Battle]",
+            "source_title": "they added gifs",
+            "url": "https://www.youtube.com/watch?v=ibqwuwJ_6x0",
+            "section": "*540-720",
+            "duration": 975,
+            "status": "COMPLETED",
+            "added_at": "2026-10-17T04:48:12Z",
+            "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792212492_3_master.mp4",
+            "youtube_video_id": "L4nL6yoiTGw"
           }
         ]
       },
@@ -795,6 +797,72 @@
                   "variant": "A",
                   "title": "I Accidentally Found the Deadliest Synergy...",
                   "deployed_at": 1792213226.9957519,
+                  "reason": "Initial A/B test deployment"
+                }
+              ],
+              "metrics": {
+                "views": 0,
+                "likes": 0,
+                "comments": 0,
+                "retention": 0.0,
+                "ctr": 0.0
+              }
+            },
+            "reframed": "gaming_split"
+          },
+          {
+            "id": "ken_1792212492_3",
+            "source_video": "they added gifs [Overtime Battle]",
+            "creator": "Ken",
+            "title": "He Survived 5 Nights Doing THIS?",
+            "publish_at": "2026-10-18T17:00:00Z",
+            "status": "SCHEDULED",
+            "uploaded": true,
+            "youtube_video_id": "L4nL6yoiTGw",
+            "youtube_url": "https://www.youtube.com/shorts/L4nL6yoiTGw",
+            "video_file": "ken_1792212492_3_master.mp4",
+            "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792212492_3_master.mp4",
+            "duration": 24.78,
+            "hook_summary": "The creator bluntly admits they have no idea what they are doing while managing a chaotic match.",
+            "metadata": {
+              "title": "He Survived 5 Nights Doing THIS?",
+              "description": "Ken makes it through absolute gameplay chaos using a method that definitely shouldn't work. Watch how pure panic turns into an accidental masterclass.\n\n\u2022 How blind confidence wins impossible matches\n\u2022 Why overthinking ruins your reaction speed\n\u2022 The exact moment luck takes over skill\n\nFeaturing: Ken\n\nWould you survive a match playing completely blind like this?\n\n#shorts #ken #gaming #gameplay #chaos #gamer",
+              "tags": [
+                "ken gameplay",
+                "clueless gaming",
+                "funny gaming moments",
+                "gaming fail or win",
+                "gaming chaos",
+                "ken clips",
+                "funny gameplay shorts",
+                "gamer panic moments",
+                "accidental pro gaming"
+              ],
+              "pinned_comment": "Be honest: Have you ever accidentally won a game while having ZERO clue what you were doing? \ud83d\udc47",
+              "ab_variants": {
+                "A": {
+                  "angle": "Curiosity Gap",
+                  "title": "He Survived 5 Nights Doing THIS?",
+                  "description": "Ken makes it through absolute gameplay chaos using a method that definitely shouldn't work. Watch how pure panic turns into an accidental masterclass.\n\n\u2022 How blind confidence wins impossible matches\n\u2022 Why overthinking ruins your reaction speed\n\u2022 The exact moment luck takes over skill\n\nFeaturing: Ken\n\nWould you survive a match playing completely blind like this?\n\n#shorts #ken #gaming #gameplay #chaos #gamer"
+                },
+                "B": {
+                  "angle": "Contrarian Truth",
+                  "title": "Skill Is Overrated In Gaming",
+                  "description": "Everyone thinks you need complex strategies to win, but Ken proves zero planning is actually superior. Watch total confusion outperform try-hard tactics.\n\n\u2022 Why strategic planning is holding you back\n\u2022 How embracing chaos creates unpredictable plays\n\u2022 The truth about fake game mastery\n\nFeaturing: Ken\n\nIs luck actually more important than skill in clutch moments?\n\n#shorts #ken #gamingfunny #clueless #gamingmemes #gameplay"
+                },
+                "C": {
+                  "angle": "Actionable Protocol",
+                  "title": "The Zero Idea Strategy To Win",
+                  "description": "Stop overthinking every move and apply the ultimate wing-it framework. Ken reveals what happens when you substitute pure vibes for actual tactical knowledge.\n\n\u2022 Rule 1: Always commit even when completely lost\n\u2022 Rule 2: Convert panic into instant aggressive action\n\u2022 Rule 3: Never admit defeat until the final screen\n\nFeaturing: Ken\n\nWhat's your go-to strategy when you have no idea what you're doing in a game?\n\n#shorts #ken #gamingskills #gamer #gamingtips #funnygaming"
+                }
+              },
+              "active_variant": "A",
+              "test_status": "ACTIVE_TEST",
+              "variant_history": [
+                {
+                  "variant": "A",
+                  "title": "He Survived 5 Nights Doing THIS?",
+                  "deployed_at": 1792213421.369306,
                   "reason": "Initial A/B test deployment"
                 }
               ],
@@ -4254,17 +4322,17 @@
     },
     "PUBLISHER": {
       "status": "working",
-      "current_task": "Short SCHEDULED on YouTube: taMrNFxp-v0 (10:00 AM ET (Sun, Oct 18))",
+      "current_task": "Short SCHEDULED on YouTube: L4nL6yoiTGw (01:00 PM ET (Sun, Oct 18))",
       "last_completed_task": "Uploaded all 3 initial Clash Royale gaming cuts to YouTube (kenclipsburger420)",
       "recent_logs": [
-        "[00:54:04] Deploying to YouTube (@kenclipsburger420) for release 07:30 PM ET (Sat, Oct 17)...",
-        "[00:54:11] Short SCHEDULED on YouTube: Eufly2coEvI (07:30 PM ET (Sat, Oct 17))",
-        "[00:57:06] Generating gaming A/B metadata for slot: 10:15 PM ET (Sat, Oct 17)...",
         "[00:57:10] Deploying to YouTube (@kenclipsburger420) for release 10:15 PM ET (Sat, Oct 17)...",
         "[00:57:14] Short SCHEDULED on YouTube: G-nzCxYYtYo (10:15 PM ET (Sat, Oct 17))",
         "[01:00:17] Generating gaming A/B metadata for slot: 10:00 AM ET (Sun, Oct 18)...",
         "[01:00:26] Deploying to YouTube (@kenclipsburger420) for release 10:00 AM ET (Sun, Oct 18)...",
-        "[01:00:34] Short SCHEDULED on YouTube: taMrNFxp-v0 (10:00 AM ET (Sun, Oct 18))"
+        "[01:00:34] Short SCHEDULED on YouTube: taMrNFxp-v0 (10:00 AM ET (Sun, Oct 18))",
+        "[01:03:32] Generating gaming A/B metadata for slot: 01:00 PM ET (Sun, Oct 18)...",
+        "[01:03:41] Deploying to YouTube (@kenclipsburger420) for release 01:00 PM ET (Sun, Oct 18)...",
+        "[01:03:47] Short SCHEDULED on YouTube: L4nL6yoiTGw (01:00 PM ET (Sun, Oct 18))"
       ]
     },
     "ANALYST": {
@@ -4300,17 +4368,6 @@
   },
   "queue": {
     "queue": [
-      {
-        "id": "ken_1792212492_3",
-        "creator": "Ken",
-        "title": "they added gifs [Overtime Battle]",
-        "source_title": "they added gifs",
-        "url": "https://www.youtube.com/watch?v=ibqwuwJ_6x0",
-        "section": "*540-720",
-        "duration": 975,
-        "status": "PROCESSING",
-        "added_at": "2026-10-17T04:48:12Z"
-      },
       {
         "id": "ken_1792212492_4",
         "creator": "Ken",
@@ -4616,6 +4673,19 @@
         "added_at": "2026-10-17T04:48:12Z",
         "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792212492_2_master.mp4",
         "youtube_video_id": "taMrNFxp-v0"
+      },
+      {
+        "id": "ken_1792212492_3",
+        "creator": "Ken",
+        "title": "they added gifs [Overtime Battle]",
+        "source_title": "they added gifs",
+        "url": "https://www.youtube.com/watch?v=ibqwuwJ_6x0",
+        "section": "*540-720",
+        "duration": 975,
+        "status": "COMPLETED",
+        "added_at": "2026-10-17T04:48:12Z",
+        "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792212492_3_master.mp4",
+        "youtube_video_id": "L4nL6yoiTGw"
       }
     ]
   },
@@ -4902,6 +4972,72 @@
               "variant": "A",
               "title": "I Accidentally Found the Deadliest Synergy...",
               "deployed_at": 1792213226.9957519,
+              "reason": "Initial A/B test deployment"
+            }
+          ],
+          "metrics": {
+            "views": 0,
+            "likes": 0,
+            "comments": 0,
+            "retention": 0.0,
+            "ctr": 0.0
+          }
+        },
+        "reframed": "gaming_split"
+      },
+      {
+        "id": "ken_1792212492_3",
+        "source_video": "they added gifs [Overtime Battle]",
+        "creator": "Ken",
+        "title": "He Survived 5 Nights Doing THIS?",
+        "publish_at": "2026-10-18T17:00:00Z",
+        "status": "SCHEDULED",
+        "uploaded": true,
+        "youtube_video_id": "L4nL6yoiTGw",
+        "youtube_url": "https://www.youtube.com/shorts/L4nL6yoiTGw",
+        "video_file": "ken_1792212492_3_master.mp4",
+        "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792212492_3_master.mp4",
+        "duration": 24.78,
+        "hook_summary": "The creator bluntly admits they have no idea what they are doing while managing a chaotic match.",
+        "metadata": {
+          "title": "He Survived 5 Nights Doing THIS?",
+          "description": "Ken makes it through absolute gameplay chaos using a method that definitely shouldn't work. Watch how pure panic turns into an accidental masterclass.\n\n\u2022 How blind confidence wins impossible matches\n\u2022 Why overthinking ruins your reaction speed\n\u2022 The exact moment luck takes over skill\n\nFeaturing: Ken\n\nWould you survive a match playing completely blind like this?\n\n#shorts #ken #gaming #gameplay #chaos #gamer",
+          "tags": [
+            "ken gameplay",
+            "clueless gaming",
+            "funny gaming moments",
+            "gaming fail or win",
+            "gaming chaos",
+            "ken clips",
+            "funny gameplay shorts",
+            "gamer panic moments",
+            "accidental pro gaming"
+          ],
+          "pinned_comment": "Be honest: Have you ever accidentally won a game while having ZERO clue what you were doing? \ud83d\udc47",
+          "ab_variants": {
+            "A": {
+              "angle": "Curiosity Gap",
+              "title": "He Survived 5 Nights Doing THIS?",
+              "description": "Ken makes it through absolute gameplay chaos using a method that definitely shouldn't work. Watch how pure panic turns into an accidental masterclass.\n\n\u2022 How blind confidence wins impossible matches\n\u2022 Why overthinking ruins your reaction speed\n\u2022 The exact moment luck takes over skill\n\nFeaturing: Ken\n\nWould you survive a match playing completely blind like this?\n\n#shorts #ken #gaming #gameplay #chaos #gamer"
+            },
+            "B": {
+              "angle": "Contrarian Truth",
+              "title": "Skill Is Overrated In Gaming",
+              "description": "Everyone thinks you need complex strategies to win, but Ken proves zero planning is actually superior. Watch total confusion outperform try-hard tactics.\n\n\u2022 Why strategic planning is holding you back\n\u2022 How embracing chaos creates unpredictable plays\n\u2022 The truth about fake game mastery\n\nFeaturing: Ken\n\nIs luck actually more important than skill in clutch moments?\n\n#shorts #ken #gamingfunny #clueless #gamingmemes #gameplay"
+            },
+            "C": {
+              "angle": "Actionable Protocol",
+              "title": "The Zero Idea Strategy To Win",
+              "description": "Stop overthinking every move and apply the ultimate wing-it framework. Ken reveals what happens when you substitute pure vibes for actual tactical knowledge.\n\n\u2022 Rule 1: Always commit even when completely lost\n\u2022 Rule 2: Convert panic into instant aggressive action\n\u2022 Rule 3: Never admit defeat until the final screen\n\nFeaturing: Ken\n\nWhat's your go-to strategy when you have no idea what you're doing in a game?\n\n#shorts #ken #gamingskills #gamer #gamingtips #funnygaming"
+            }
+          },
+          "active_variant": "A",
+          "test_status": "ACTIVE_TEST",
+          "variant_history": [
+            {
+              "variant": "A",
+              "title": "He Survived 5 Nights Doing THIS?",
+              "deployed_at": 1792213421.369306,
               "reason": "Initial A/B test deployment"
             }
           ],

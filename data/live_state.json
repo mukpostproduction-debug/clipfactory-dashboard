@@ -1,6 +1,6 @@
 {
-  "timestamp": 1792212950.227067,
-  "sync_time_iso": "2026-10-17T04:55:50Z",
+  "timestamp": 1792213012.1132429,
+  "sync_time_iso": "2026-10-17T04:56:52Z",
   "default_channel": "ken_clips_burger",
   "channels": {
     "ken_clips_burger": {
@@ -96,14 +96,14 @@
           "current_task": "Queue up to date. Waiting for next daily Ken upload.",
           "last_completed_task": "Ingested 5 recent Ken master videos into source pool",
           "recent_logs": [
-            "[09:43:06] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
-            "[09:43:17] Ingested 1 fresh Ken video(s) into queue.",
             "[00:48:01] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
             "[00:48:12] Ingested 20 fresh Ken clip candidate(s) into queue.",
             "[00:49:44] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
             "[00:49:56] Queue up to date. Waiting for next daily Ken upload.",
             "[00:52:45] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
-            "[00:52:57] Queue up to date. Waiting for next daily Ken upload."
+            "[00:52:57] Queue up to date. Waiting for next daily Ken upload.",
+            "[00:56:13] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
+            "[00:56:24] Queue up to date. Waiting for next daily Ken upload."
           ]
         },
         "STRATEGIST": {
@@ -123,17 +123,17 @@
         },
         "EDITOR": {
           "status": "working",
-          "current_task": "Rendering gaming_split Short with captions: weirdest buff ever [Clutch Mom",
+          "current_task": "Rendering gaming_split Short with captions: weirdest buff ever [Overtime B",
           "last_completed_task": "Rendered 'hp buffed' rage highlight with kinetic pop captions & commentary",
           "recent_logs": [
-            "[06:06:59] Downloading highlight segment for: they added gifs...",
-            "[06:07:06] Rendering gaming_split Short with captions: they added gifs",
             "[09:43:17] Downloading highlight segment for: weirdest buff ever...",
             "[09:43:21] Rendering gaming_split Short with captions: weirdest buff ever",
             "[00:48:13] Rendering gaming_split Short with captions: weirdest buff ever",
             "[00:49:57] Rendering gaming_split Short with captions: weirdest buff ever",
             "[00:52:57] Downloading highlight segment (*300-480) for: weirdest buff ever [Clutch Moment]...",
-            "[00:53:05] Rendering gaming_split Short with captions: weirdest buff ever [Clutch Mom"
+            "[00:53:05] Rendering gaming_split Short with captions: weirdest buff ever [Clutch Mom",
+            "[00:56:24] Downloading highlight segment (*540-720) for: weirdest buff ever [Overtime Battle...",
+            "[00:56:27] Rendering gaming_split Short with captions: weirdest buff ever [Overtime B"
           ]
         },
         "COMMENTATOR": {
@@ -201,7 +201,7 @@
             "url": "https://www.youtube.com/watch?v=Xzc-EWsNkcc",
             "section": "*540-720",
             "duration": 1730,
-            "status": "QUEUED",
+            "status": "PROCESSING",
             "added_at": "2026-10-17T04:48:12Z"
           },
           {
@@ -4067,14 +4067,14 @@
       "current_task": "Queue up to date. Waiting for next daily Ken upload.",
       "last_completed_task": "Ingested 5 recent Ken master videos into source pool",
       "recent_logs": [
-        "[09:43:06] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
-        "[09:43:17] Ingested 1 fresh Ken video(s) into queue.",
         "[00:48:01] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
         "[00:48:12] Ingested 20 fresh Ken clip candidate(s) into queue.",
         "[00:49:44] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
         "[00:49:56] Queue up to date. Waiting for next daily Ken upload.",
         "[00:52:45] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
-        "[00:52:57] Queue up to date. Waiting for next daily Ken upload."
+        "[00:52:57] Queue up to date. Waiting for next daily Ken upload.",
+        "[00:56:13] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
+        "[00:56:24] Queue up to date. Waiting for next daily Ken upload."
       ]
     },
     "STRATEGIST": {
@@ -4094,17 +4094,17 @@
     },
     "EDITOR": {
       "status": "working",
-      "current_task": "Rendering gaming_split Short with captions: weirdest buff ever [Clutch Mom",
+      "current_task": "Rendering gaming_split Short with captions: weirdest buff ever [Overtime B",
       "last_completed_task": "Rendered 'hp buffed' rage highlight with kinetic pop captions & commentary",
       "recent_logs": [
-        "[06:06:59] Downloading highlight segment for: they added gifs...",
-        "[06:07:06] Rendering gaming_split Short with captions: they added gifs",
         "[09:43:17] Downloading highlight segment for: weirdest buff ever...",
         "[09:43:21] Rendering gaming_split Short with captions: weirdest buff ever",
         "[00:48:13] Rendering gaming_split Short with captions: weirdest buff ever",
         "[00:49:57] Rendering gaming_split Short with captions: weirdest buff ever",
         "[00:52:57] Downloading highlight segment (*300-480) for: weirdest buff ever [Clutch Moment]...",
-        "[00:53:05] Rendering gaming_split Short with captions: weirdest buff ever [Clutch Mom"
+        "[00:53:05] Rendering gaming_split Short with captions: weirdest buff ever [Clutch Mom",
+        "[00:56:24] Downloading highlight segment (*540-720) for: weirdest buff ever [Overtime Battle...",
+        "[00:56:27] Rendering gaming_split Short with captions: weirdest buff ever [Overtime B"
       ]
     },
     "COMMENTATOR": {
@@ -4172,7 +4172,7 @@
         "url": "https://www.youtube.com/watch?v=Xzc-EWsNkcc",
         "section": "*540-720",
         "duration": 1730,
-        "status": "QUEUED",
+        "status": "PROCESSING",
         "added_at": "2026-10-17T04:48:12Z"
       },
       {

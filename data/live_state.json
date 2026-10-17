@@ -1,6 +1,6 @@
 {
-  "timestamp": 1792247110.5338821,
-  "sync_time_iso": "2026-10-17T14:25:10Z",
+  "timestamp": 1792247471.112731,
+  "sync_time_iso": "2026-10-17T14:31:11Z",
   "default_channel": "ken_clips_burger",
   "channels": {
     "ken_clips_burger": {
@@ -93,17 +93,17 @@
       "agents": {
         "SCOUT": {
           "status": "working",
-          "current_task": "Ingested 3 fresh Ken clip candidate(s) into queue.",
+          "current_task": "Queue up to date. Waiting for next daily Ken upload.",
           "last_completed_task": "Ingested 5 recent Ken master videos into source pool",
           "recent_logs": [
-            "[02:45:29] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
-            "[02:45:40] Queue up to date. Waiting for next daily Ken upload.",
             "[05:02:10] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
             "[05:02:23] Queue up to date. Waiting for next daily Ken upload.",
             "[08:05:43] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
             "[09:09:22] Error scanning Ken feed: Command '['/Users/jacksonmcmurdo/Desktop/Muk_Post/02_BUSINESS_&_OPERATIONS/muk_jarvis_env/bin/python3', '-m', 'yt_dlp', '--flat-playlist', '--print', '%(title)s;;;%(url)s;;;%(duration)s', 'https://www.youtube.com/@kenforrest/videos']' timed out after 60 seconds",
             "[10:17:01] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
-            "[10:23:15] Ingested 3 fresh Ken clip candidate(s) into queue."
+            "[10:23:15] Ingested 3 fresh Ken clip candidate(s) into queue.",
+            "[10:29:08] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
+            "[10:31:03] Queue up to date. Waiting for next daily Ken upload."
           ]
         },
         "STRATEGIST": {
@@ -147,17 +147,17 @@
         },
         "PUBLISHER": {
           "status": "working",
-          "current_task": "Upload staged for automatic retry: ken_1792212492_6",
+          "current_task": "Generating gaming A/B metadata for slot: 10:15 PM ET (Sun, Oct 18)...",
           "last_completed_task": "Uploaded all 3 initial Clash Royale gaming cuts to YouTube (kenclipsburger420)",
           "recent_logs": [
-            "[09:09:22] Generating gaming A/B metadata for slot: 10:15 PM ET (Sun, Oct 18)...",
             "[09:09:42] Deploying to YouTube (@kenclipsburger420) for release 10:15 PM ET (Sun, Oct 18)...",
             "[09:30:48] YouTube upload error: Remote end closed connection without response",
             "[09:30:48] Upload staged for automatic retry: ken_1792212492_6",
             "[10:23:15] Generating gaming A/B metadata for slot: 10:15 PM ET (Sun, Oct 18)...",
             "[10:23:23] Deploying to YouTube (@kenclipsburger420) for release 10:15 PM ET (Sun, Oct 18)...",
             "[10:23:42] \u26a0\ufe0f YouTube Daily Upload Limit reached for today. Staged for tomorrow's reset window.",
-            "[10:23:42] Upload staged for automatic retry: ken_1792212492_6"
+            "[10:23:42] Upload staged for automatic retry: ken_1792212492_6",
+            "[10:31:03] Generating gaming A/B metadata for slot: 10:15 PM ET (Sun, Oct 18)..."
           ]
         },
         "ANALYST": {
@@ -4438,17 +4438,17 @@
   "agents": {
     "SCOUT": {
       "status": "working",
-      "current_task": "Ingested 3 fresh Ken clip candidate(s) into queue.",
+      "current_task": "Queue up to date. Waiting for next daily Ken upload.",
       "last_completed_task": "Ingested 5 recent Ken master videos into source pool",
       "recent_logs": [
-        "[02:45:29] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
-        "[02:45:40] Queue up to date. Waiting for next daily Ken upload.",
         "[05:02:10] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
         "[05:02:23] Queue up to date. Waiting for next daily Ken upload.",
         "[08:05:43] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
         "[09:09:22] Error scanning Ken feed: Command '['/Users/jacksonmcmurdo/Desktop/Muk_Post/02_BUSINESS_&_OPERATIONS/muk_jarvis_env/bin/python3', '-m', 'yt_dlp', '--flat-playlist', '--print', '%(title)s;;;%(url)s;;;%(duration)s', 'https://www.youtube.com/@kenforrest/videos']' timed out after 60 seconds",
         "[10:17:01] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
-        "[10:23:15] Ingested 3 fresh Ken clip candidate(s) into queue."
+        "[10:23:15] Ingested 3 fresh Ken clip candidate(s) into queue.",
+        "[10:29:08] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
+        "[10:31:03] Queue up to date. Waiting for next daily Ken upload."
       ]
     },
     "STRATEGIST": {
@@ -4492,17 +4492,17 @@
     },
     "PUBLISHER": {
       "status": "working",
-      "current_task": "Upload staged for automatic retry: ken_1792212492_6",
+      "current_task": "Generating gaming A/B metadata for slot: 10:15 PM ET (Sun, Oct 18)...",
       "last_completed_task": "Uploaded all 3 initial Clash Royale gaming cuts to YouTube (kenclipsburger420)",
       "recent_logs": [
-        "[09:09:22] Generating gaming A/B metadata for slot: 10:15 PM ET (Sun, Oct 18)...",
         "[09:09:42] Deploying to YouTube (@kenclipsburger420) for release 10:15 PM ET (Sun, Oct 18)...",
         "[09:30:48] YouTube upload error: Remote end closed connection without response",
         "[09:30:48] Upload staged for automatic retry: ken_1792212492_6",
         "[10:23:15] Generating gaming A/B metadata for slot: 10:15 PM ET (Sun, Oct 18)...",
         "[10:23:23] Deploying to YouTube (@kenclipsburger420) for release 10:15 PM ET (Sun, Oct 18)...",
         "[10:23:42] \u26a0\ufe0f YouTube Daily Upload Limit reached for today. Staged for tomorrow's reset window.",
-        "[10:23:42] Upload staged for automatic retry: ken_1792212492_6"
+        "[10:23:42] Upload staged for automatic retry: ken_1792212492_6",
+        "[10:31:03] Generating gaming A/B metadata for slot: 10:15 PM ET (Sun, Oct 18)..."
       ]
     },
     "ANALYST": {

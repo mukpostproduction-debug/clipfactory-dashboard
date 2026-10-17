@@ -1,6 +1,6 @@
 {
-  "timestamp": 1792213197.23556,
-  "sync_time_iso": "2026-10-17T04:59:57Z",
+  "timestamp": 1792213234.351286,
+  "sync_time_iso": "2026-10-17T05:00:34Z",
   "default_channel": "ken_clips_burger",
   "channels": {
     "ken_clips_burger": {
@@ -147,17 +147,17 @@
         },
         "PUBLISHER": {
           "status": "working",
-          "current_task": "Short SCHEDULED on YouTube: G-nzCxYYtYo (10:15 PM ET (Sat, Oct 17))",
+          "current_task": "Short SCHEDULED on YouTube: taMrNFxp-v0 (10:00 AM ET (Sun, Oct 18))",
           "last_completed_task": "Uploaded all 3 initial Clash Royale gaming cuts to YouTube (kenclipsburger420)",
           "recent_logs": [
-            "[00:51:54] Deploying to YouTube (@kenclipsburger420) for release 01:00 PM ET (Sat, Oct 17)...",
-            "[00:51:59] Short SCHEDULED on YouTube: _7wZKnaN21Q (01:00 PM ET (Sat, Oct 17))",
-            "[00:53:52] Generating gaming A/B metadata for slot: 07:30 PM ET (Sat, Oct 17)...",
             "[00:54:04] Deploying to YouTube (@kenclipsburger420) for release 07:30 PM ET (Sat, Oct 17)...",
             "[00:54:11] Short SCHEDULED on YouTube: Eufly2coEvI (07:30 PM ET (Sat, Oct 17))",
             "[00:57:06] Generating gaming A/B metadata for slot: 10:15 PM ET (Sat, Oct 17)...",
             "[00:57:10] Deploying to YouTube (@kenclipsburger420) for release 10:15 PM ET (Sat, Oct 17)...",
-            "[00:57:14] Short SCHEDULED on YouTube: G-nzCxYYtYo (10:15 PM ET (Sat, Oct 17))"
+            "[00:57:14] Short SCHEDULED on YouTube: G-nzCxYYtYo (10:15 PM ET (Sat, Oct 17))",
+            "[01:00:17] Generating gaming A/B metadata for slot: 10:00 AM ET (Sun, Oct 18)...",
+            "[01:00:26] Deploying to YouTube (@kenclipsburger420) for release 10:00 AM ET (Sun, Oct 18)...",
+            "[01:00:34] Short SCHEDULED on YouTube: taMrNFxp-v0 (10:00 AM ET (Sun, Oct 18))"
           ]
         },
         "ANALYST": {
@@ -193,17 +193,6 @@
       },
       "queue": {
         "queue": [
-          {
-            "id": "ken_1792212492_2",
-            "creator": "Ken",
-            "title": "they added gifs [Clutch Moment]",
-            "source_title": "they added gifs",
-            "url": "https://www.youtube.com/watch?v=ibqwuwJ_6x0",
-            "section": "*300-480",
-            "duration": 975,
-            "status": "PROCESSING",
-            "added_at": "2026-10-17T04:48:12Z"
-          },
           {
             "id": "ken_1792212492_3",
             "creator": "Ken",
@@ -507,6 +496,19 @@
             "added_at": "2026-10-17T04:48:12Z",
             "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792212492_1_master.mp4",
             "youtube_video_id": "G-nzCxYYtYo"
+          },
+          {
+            "id": "ken_1792212492_2",
+            "creator": "Ken",
+            "title": "they added gifs [Clutch Moment]",
+            "source_title": "they added gifs",
+            "url": "https://www.youtube.com/watch?v=ibqwuwJ_6x0",
+            "section": "*300-480",
+            "duration": 975,
+            "status": "COMPLETED",
+            "added_at": "2026-10-17T04:48:12Z",
+            "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792212492_2_master.mp4",
+            "youtube_video_id": "taMrNFxp-v0"
           }
         ]
       },
@@ -727,6 +729,72 @@
                   "variant": "A",
                   "title": "Almost made this massive mistake...",
                   "deployed_at": 1792213030.4396229,
+                  "reason": "Initial A/B test deployment"
+                }
+              ],
+              "metrics": {
+                "views": 0,
+                "likes": 0,
+                "comments": 0,
+                "retention": 0.0,
+                "ctr": 0.0
+              }
+            },
+            "reframed": "gaming_split"
+          },
+          {
+            "id": "ken_1792212492_2",
+            "source_video": "they added gifs [Clutch Moment]",
+            "creator": "Ken",
+            "title": "I Accidentally Found the Deadliest Synergy...",
+            "publish_at": "2026-10-18T14:00:00Z",
+            "status": "SCHEDULED",
+            "uploaded": true,
+            "youtube_video_id": "taMrNFxp-v0",
+            "youtube_url": "https://www.youtube.com/shorts/taMrNFxp-v0",
+            "video_file": "ken_1792212492_2_master.mp4",
+            "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792212492_2_master.mp4",
+            "duration": 25.51,
+            "hook_summary": "The speaker has a sudden 'aha' moment, realizing he might have accidentally 'cooked' a powerful new strategy using Evo Minion Horde and Sparky.",
+            "metadata": {
+              "title": "I Accidentally Found the Deadliest Synergy...",
+              "description": "Ken has a sudden realization mid-match that combining Evo Minion Horde with Sparky creates an unstoppable push. Did he accidentally break the meta?\n\n\u2022 Why Sparky and Evo Minion Horde bait identical counters\n\u2022 How to turn accidental plays into massive trophy gains\n\u2022 Timing the combo to overwhelm enemy tower defenses\n\nFeaturing: Ken\n\nIs Evo Minion Horde actually top tier now, or did Ken just get lucky? Sound off in the comments!\n\n#shorts #clashroyale #sparky #ken #gaming",
+              "tags": [
+                "clash royale",
+                "ken clash royale",
+                "sparky deck",
+                "evo minion horde",
+                "clash royale strategy",
+                "clash royale best deck",
+                "sparky synergy",
+                "clash royale shorts",
+                "gaming"
+              ],
+              "pinned_comment": "Did Ken actually cook with this Sparky + Horde deck, or is it getting hard-countered in mid-ladder? Drop your honest take below \ud83d\udc47",
+              "ab_variants": {
+                "A": {
+                  "angle": "Curiosity Gap",
+                  "title": "I Accidentally Found the Deadliest Synergy...",
+                  "description": "Ken has a sudden realization mid-match that combining Evo Minion Horde with Sparky creates an unstoppable push. Did he accidentally break the meta?\n\n\u2022 Why Sparky and Evo Minion Horde bait identical counters\n\u2022 How to turn accidental plays into massive trophy gains\n\u2022 Timing the combo to overwhelm enemy tower defenses\n\nFeaturing: Ken\n\nIs Evo Minion Horde actually top tier now, or did Ken just get lucky? Sound off in the comments!\n\n#shorts #clashroyale #sparky #ken #gaming"
+                },
+                "B": {
+                  "angle": "Contrarian Truth",
+                  "title": "Stop Sleeping on Evo Minion Horde...",
+                  "description": "Everyone claims Minion Horde is useless, but pairing it with Sparky changes everything. Ken proves why the traditional meta strategy is wrong.\n\n\u2022 Why hard counters fail against this specific dual threat\n\u2022 The surprising mechanics breaking current ladder play\n\u2022 Forcing panic spell drops from your opponent\n\nFeaturing: Ken\n\nWould you ever run Sparky and Minion Horde together, or is this deck completely overrated?\n\n#shorts #clashroyale #gaming #sparky #clashroyaledecks"
+                },
+                "C": {
+                  "angle": "Actionable Protocol",
+                  "title": "How to Instant-Win with Sparky + Horde",
+                  "description": "Want to melt heavy pushes in seconds? Here is the exact strategic blueprint Ken used to unleash the Sparky and Evo Minion Horde synergy.\n\n\u2022 Force out low-cost spells before dropping your Horde\n\u2022 Protect Sparky using high-DPS swarm distractions\n\u2022 Capitalize instantly on heavy elixir commitments\n\nFeaturing: Ken\n\nWhat is the single best counter card to stop this push cold? Drop your strategy below!\n\n#shorts #clashroyale #gamingtips #sparky #ken"
+                }
+              },
+              "active_variant": "A",
+              "test_status": "ACTIVE_TEST",
+              "variant_history": [
+                {
+                  "variant": "A",
+                  "title": "I Accidentally Found the Deadliest Synergy...",
+                  "deployed_at": 1792213226.9957519,
                   "reason": "Initial A/B test deployment"
                 }
               ],
@@ -4186,17 +4254,17 @@
     },
     "PUBLISHER": {
       "status": "working",
-      "current_task": "Short SCHEDULED on YouTube: G-nzCxYYtYo (10:15 PM ET (Sat, Oct 17))",
+      "current_task": "Short SCHEDULED on YouTube: taMrNFxp-v0 (10:00 AM ET (Sun, Oct 18))",
       "last_completed_task": "Uploaded all 3 initial Clash Royale gaming cuts to YouTube (kenclipsburger420)",
       "recent_logs": [
-        "[00:51:54] Deploying to YouTube (@kenclipsburger420) for release 01:00 PM ET (Sat, Oct 17)...",
-        "[00:51:59] Short SCHEDULED on YouTube: _7wZKnaN21Q (01:00 PM ET (Sat, Oct 17))",
-        "[00:53:52] Generating gaming A/B metadata for slot: 07:30 PM ET (Sat, Oct 17)...",
         "[00:54:04] Deploying to YouTube (@kenclipsburger420) for release 07:30 PM ET (Sat, Oct 17)...",
         "[00:54:11] Short SCHEDULED on YouTube: Eufly2coEvI (07:30 PM ET (Sat, Oct 17))",
         "[00:57:06] Generating gaming A/B metadata for slot: 10:15 PM ET (Sat, Oct 17)...",
         "[00:57:10] Deploying to YouTube (@kenclipsburger420) for release 10:15 PM ET (Sat, Oct 17)...",
-        "[00:57:14] Short SCHEDULED on YouTube: G-nzCxYYtYo (10:15 PM ET (Sat, Oct 17))"
+        "[00:57:14] Short SCHEDULED on YouTube: G-nzCxYYtYo (10:15 PM ET (Sat, Oct 17))",
+        "[01:00:17] Generating gaming A/B metadata for slot: 10:00 AM ET (Sun, Oct 18)...",
+        "[01:00:26] Deploying to YouTube (@kenclipsburger420) for release 10:00 AM ET (Sun, Oct 18)...",
+        "[01:00:34] Short SCHEDULED on YouTube: taMrNFxp-v0 (10:00 AM ET (Sun, Oct 18))"
       ]
     },
     "ANALYST": {
@@ -4232,17 +4300,6 @@
   },
   "queue": {
     "queue": [
-      {
-        "id": "ken_1792212492_2",
-        "creator": "Ken",
-        "title": "they added gifs [Clutch Moment]",
-        "source_title": "they added gifs",
-        "url": "https://www.youtube.com/watch?v=ibqwuwJ_6x0",
-        "section": "*300-480",
-        "duration": 975,
-        "status": "PROCESSING",
-        "added_at": "2026-10-17T04:48:12Z"
-      },
       {
         "id": "ken_1792212492_3",
         "creator": "Ken",
@@ -4546,6 +4603,19 @@
         "added_at": "2026-10-17T04:48:12Z",
         "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792212492_1_master.mp4",
         "youtube_video_id": "G-nzCxYYtYo"
+      },
+      {
+        "id": "ken_1792212492_2",
+        "creator": "Ken",
+        "title": "they added gifs [Clutch Moment]",
+        "source_title": "they added gifs",
+        "url": "https://www.youtube.com/watch?v=ibqwuwJ_6x0",
+        "section": "*300-480",
+        "duration": 975,
+        "status": "COMPLETED",
+        "added_at": "2026-10-17T04:48:12Z",
+        "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792212492_2_master.mp4",
+        "youtube_video_id": "taMrNFxp-v0"
       }
     ]
   },
@@ -4766,6 +4836,72 @@
               "variant": "A",
               "title": "Almost made this massive mistake...",
               "deployed_at": 1792213030.4396229,
+              "reason": "Initial A/B test deployment"
+            }
+          ],
+          "metrics": {
+            "views": 0,
+            "likes": 0,
+            "comments": 0,
+            "retention": 0.0,
+            "ctr": 0.0
+          }
+        },
+        "reframed": "gaming_split"
+      },
+      {
+        "id": "ken_1792212492_2",
+        "source_video": "they added gifs [Clutch Moment]",
+        "creator": "Ken",
+        "title": "I Accidentally Found the Deadliest Synergy...",
+        "publish_at": "2026-10-18T14:00:00Z",
+        "status": "SCHEDULED",
+        "uploaded": true,
+        "youtube_video_id": "taMrNFxp-v0",
+        "youtube_url": "https://www.youtube.com/shorts/taMrNFxp-v0",
+        "video_file": "ken_1792212492_2_master.mp4",
+        "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792212492_2_master.mp4",
+        "duration": 25.51,
+        "hook_summary": "The speaker has a sudden 'aha' moment, realizing he might have accidentally 'cooked' a powerful new strategy using Evo Minion Horde and Sparky.",
+        "metadata": {
+          "title": "I Accidentally Found the Deadliest Synergy...",
+          "description": "Ken has a sudden realization mid-match that combining Evo Minion Horde with Sparky creates an unstoppable push. Did he accidentally break the meta?\n\n\u2022 Why Sparky and Evo Minion Horde bait identical counters\n\u2022 How to turn accidental plays into massive trophy gains\n\u2022 Timing the combo to overwhelm enemy tower defenses\n\nFeaturing: Ken\n\nIs Evo Minion Horde actually top tier now, or did Ken just get lucky? Sound off in the comments!\n\n#shorts #clashroyale #sparky #ken #gaming",
+          "tags": [
+            "clash royale",
+            "ken clash royale",
+            "sparky deck",
+            "evo minion horde",
+            "clash royale strategy",
+            "clash royale best deck",
+            "sparky synergy",
+            "clash royale shorts",
+            "gaming"
+          ],
+          "pinned_comment": "Did Ken actually cook with this Sparky + Horde deck, or is it getting hard-countered in mid-ladder? Drop your honest take below \ud83d\udc47",
+          "ab_variants": {
+            "A": {
+              "angle": "Curiosity Gap",
+              "title": "I Accidentally Found the Deadliest Synergy...",
+              "description": "Ken has a sudden realization mid-match that combining Evo Minion Horde with Sparky creates an unstoppable push. Did he accidentally break the meta?\n\n\u2022 Why Sparky and Evo Minion Horde bait identical counters\n\u2022 How to turn accidental plays into massive trophy gains\n\u2022 Timing the combo to overwhelm enemy tower defenses\n\nFeaturing: Ken\n\nIs Evo Minion Horde actually top tier now, or did Ken just get lucky? Sound off in the comments!\n\n#shorts #clashroyale #sparky #ken #gaming"
+            },
+            "B": {
+              "angle": "Contrarian Truth",
+              "title": "Stop Sleeping on Evo Minion Horde...",
+              "description": "Everyone claims Minion Horde is useless, but pairing it with Sparky changes everything. Ken proves why the traditional meta strategy is wrong.\n\n\u2022 Why hard counters fail against this specific dual threat\n\u2022 The surprising mechanics breaking current ladder play\n\u2022 Forcing panic spell drops from your opponent\n\nFeaturing: Ken\n\nWould you ever run Sparky and Minion Horde together, or is this deck completely overrated?\n\n#shorts #clashroyale #gaming #sparky #clashroyaledecks"
+            },
+            "C": {
+              "angle": "Actionable Protocol",
+              "title": "How to Instant-Win with Sparky + Horde",
+              "description": "Want to melt heavy pushes in seconds? Here is the exact strategic blueprint Ken used to unleash the Sparky and Evo Minion Horde synergy.\n\n\u2022 Force out low-cost spells before dropping your Horde\n\u2022 Protect Sparky using high-DPS swarm distractions\n\u2022 Capitalize instantly on heavy elixir commitments\n\nFeaturing: Ken\n\nWhat is the single best counter card to stop this push cold? Drop your strategy below!\n\n#shorts #clashroyale #gamingtips #sparky #ken"
+            }
+          },
+          "active_variant": "A",
+          "test_status": "ACTIVE_TEST",
+          "variant_history": [
+            {
+              "variant": "A",
+              "title": "I Accidentally Found the Deadliest Synergy...",
+              "deployed_at": 1792213226.9957519,
               "reason": "Initial A/B test deployment"
             }
           ],

@@ -1,6 +1,6 @@
 {
-  "timestamp": 1792212213.983694,
-  "sync_time_iso": "2026-10-17T04:43:33Z",
+  "timestamp": 1792212275.617166,
+  "sync_time_iso": "2026-10-17T04:44:35Z",
   "default_channel": "muk_podcast",
   "channels": {
     "muk_podcast": {
@@ -1661,16 +1661,6 @@
       "queue": {
         "queue": [
           {
-            "id": "ken_1791972067_0",
-            "creator": "Ken",
-            "title": "2.3 brainrot cycle",
-            "url": "https://www.youtube.com/watch?v=0mooFVMdD_8",
-            "duration": 893,
-            "status": "RETRY_UPLOAD",
-            "added_at": "2026-10-14T10:01:07Z",
-            "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1791972067_0_master.mp4"
-          },
-          {
             "id": "ken_1792158197_0",
             "creator": "Ken",
             "title": "weirdest buff ever",
@@ -1747,6 +1737,17 @@
             "added_at": "2026-10-15T10:06:59Z",
             "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792058819_0_master.mp4",
             "youtube_video_id": "1u2ahpIHnZE"
+          },
+          {
+            "id": "ken_1791972067_0",
+            "creator": "Ken",
+            "title": "2.3 brainrot cycle",
+            "url": "https://www.youtube.com/watch?v=0mooFVMdD_8",
+            "duration": 893,
+            "status": "COMPLETED",
+            "added_at": "2026-10-14T10:01:07Z",
+            "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1791972067_0_master.mp4",
+            "youtube_video_id": "XhemIzPiJdg"
           }
         ]
       },
@@ -1950,6 +1951,22 @@
                 "ctr": 0.0
               }
             },
+            "reframed": "gaming_split"
+          },
+          {
+            "id": "ken_1791972067_0",
+            "source_video": "2.3 brainrot cycle",
+            "creator": "Ken",
+            "title": "KEN BROKE CLASH ROYALE WITH THIS DECK #Shorts",
+            "publish_at": "2026-10-17T14:00:00Z",
+            "status": "SCHEDULED",
+            "uploaded": true,
+            "youtube_video_id": "XhemIzPiJdg",
+            "youtube_url": "https://www.youtube.com/shorts/XhemIzPiJdg",
+            "video_file": "ken_1791972067_0_master.mp4",
+            "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1791972067_0_master.mp4",
+            "duration": 28.0,
+            "hook_summary": "Ken shows off the hilarious and chaotic 2.3 brainrot cycle deck.",
             "reframed": "gaming_split"
           }
         ],
@@ -2426,14 +2443,14 @@
           "current_task": "Pop culture queue up to date. Monitoring for new episodes.",
           "last_completed_task": "Ingested 6 recent episodes across Trisha, Enya/Drew, and Benito",
           "recent_logs": [
-            "[00:35:34] Scanning Trisha Paytas, Emergency Intercom, and Benito Skinner feeds...",
-            "[00:35:44] Pop culture queue up to date. Monitoring for new episodes.",
             "[00:37:44] Scanning Trisha Paytas, Emergency Intercom, and Benito Skinner feeds...",
             "[00:37:55] Pop culture queue up to date. Monitoring for new episodes.",
             "[00:39:55] Scanning Trisha Paytas, Emergency Intercom, and Benito Skinner feeds...",
             "[00:40:06] Pop culture queue up to date. Monitoring for new episodes.",
             "[00:42:06] Scanning Trisha Paytas, Emergency Intercom, and Benito Skinner feeds...",
-            "[00:42:15] Pop culture queue up to date. Monitoring for new episodes."
+            "[00:42:15] Pop culture queue up to date. Monitoring for new episodes.",
+            "[00:44:15] Scanning Trisha Paytas, Emergency Intercom, and Benito Skinner feeds...",
+            "[00:44:25] Pop culture queue up to date. Monitoring for new episodes."
           ]
         },
         "STRATEGIST": {
@@ -2441,14 +2458,14 @@
           "current_task": "No queued candidates ready. Waiting for SCOUT.",
           "last_completed_task": "Calibrated 3 pop-culture hook angles: Shock Tea, Chaos Banter, Satirical Voice Mimicry",
           "recent_logs": [
-            "[00:27:06] No queued candidates ready. Waiting for SCOUT.",
             "[00:29:16] No queued candidates ready. Waiting for SCOUT.",
             "[00:31:25] No queued candidates ready. Waiting for SCOUT.",
             "[00:33:34] No queued candidates ready. Waiting for SCOUT.",
             "[00:35:44] No queued candidates ready. Waiting for SCOUT.",
             "[00:37:55] No queued candidates ready. Waiting for SCOUT.",
             "[00:40:06] No queued candidates ready. Waiting for SCOUT.",
-            "[00:42:15] No queued candidates ready. Waiting for SCOUT."
+            "[00:42:15] No queued candidates ready. Waiting for SCOUT.",
+            "[00:44:25] No queued candidates ready. Waiting for SCOUT."
           ]
         },
         "EDITOR": {
@@ -2495,14 +2512,14 @@
           "current_task": "Auditing velocity of active Pop Culture & Comedy Shorts...",
           "last_completed_task": "Calibrated benchmark: >25 views/hr in first 3 hours",
           "recent_logs": [
-            "[00:27:06] Auditing velocity of active Pop Culture & Comedy Shorts...",
             "[00:29:16] Auditing velocity of active Pop Culture & Comedy Shorts...",
             "[00:31:25] Auditing velocity of active Pop Culture & Comedy Shorts...",
             "[00:33:34] Auditing velocity of active Pop Culture & Comedy Shorts...",
             "[00:35:44] Auditing velocity of active Pop Culture & Comedy Shorts...",
             "[00:37:55] Auditing velocity of active Pop Culture & Comedy Shorts...",
             "[00:40:06] Auditing velocity of active Pop Culture & Comedy Shorts...",
-            "[00:42:15] Auditing velocity of active Pop Culture & Comedy Shorts..."
+            "[00:42:15] Auditing velocity of active Pop Culture & Comedy Shorts...",
+            "[00:44:25] Auditing velocity of active Pop Culture & Comedy Shorts..."
           ]
         },
         "WATCHDOG": {
@@ -2510,14 +2527,14 @@
           "current_task": "Verifying Fair Use compliance: 100% transformative commentary.",
           "last_completed_task": "Validated commentary & transformative overlay standards",
           "recent_logs": [
-            "[00:27:06] Verifying Fair Use compliance: 100% transformative commentary.",
             "[00:29:16] Verifying Fair Use compliance: 100% transformative commentary.",
             "[00:31:25] Verifying Fair Use compliance: 100% transformative commentary.",
             "[00:33:34] Verifying Fair Use compliance: 100% transformative commentary.",
             "[00:35:44] Verifying Fair Use compliance: 100% transformative commentary.",
             "[00:37:55] Verifying Fair Use compliance: 100% transformative commentary.",
             "[00:40:06] Verifying Fair Use compliance: 100% transformative commentary.",
-            "[00:42:15] Verifying Fair Use compliance: 100% transformative commentary."
+            "[00:42:15] Verifying Fair Use compliance: 100% transformative commentary.",
+            "[00:44:25] Verifying Fair Use compliance: 100% transformative commentary."
           ]
         }
       },

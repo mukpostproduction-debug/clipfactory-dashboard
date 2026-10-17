@@ -1,6 +1,6 @@
 {
-  "timestamp": 1792262070.1050298,
-  "sync_time_iso": "2026-10-17T18:34:30Z",
+  "timestamp": 1792262131.764996,
+  "sync_time_iso": "2026-10-17T18:35:31Z",
   "default_channel": "ken_clips_burger",
   "channels": {
     "ken_clips_burger": {
@@ -96,14 +96,14 @@
           "current_task": "Queue up to date. Waiting for next daily Ken upload.",
           "last_completed_task": "Ingested 5 recent Ken master videos into source pool",
           "recent_logs": [
-            "[14:24:20] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
-            "[14:24:33] Queue up to date. Waiting for next daily Ken upload.",
             "[14:26:55] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
             "[14:27:08] Queue up to date. Waiting for next daily Ken upload.",
             "[14:29:30] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
             "[14:29:41] Queue up to date. Waiting for next daily Ken upload.",
             "[14:32:06] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
-            "[14:32:20] Queue up to date. Waiting for next daily Ken upload."
+            "[14:32:20] Queue up to date. Waiting for next daily Ken upload.",
+            "[14:34:40] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
+            "[14:34:54] Queue up to date. Waiting for next daily Ken upload."
           ]
         },
         "STRATEGIST": {
@@ -150,14 +150,14 @@
           "current_task": "Upload staged for automatic retry: ken_1792212492_6",
           "last_completed_task": "Uploaded all 3 initial Clash Royale gaming cuts to YouTube (kenclipsburger420)",
           "recent_logs": [
-            "[14:29:41] Generating gaming A/B metadata for slot: 10:15 PM ET (Sun, Oct 18)...",
-            "[14:29:49] Deploying to YouTube (@kenclipsburger420) for release 10:15 PM ET (Sun, Oct 18)...",
-            "[14:30:06] YouTube upload error: <HttpError 429 when requesting None returned \"Quota exceeded for quota metric 'Video Uploads' and limit 'Video Uploads per day' of service 'youtube.googleapis.com' for consumer 'project_number:644580298656'.\". Details: \"[{'message': \"Quota exceeded for quota metric 'Video Uploads' and limit 'Video Uploads per day' of service 'youtube.googleapis.com' for consumer 'project_number:644580298656'.\", 'domain': 'global', 'reason': 'rateLimitExceeded'}]\">",
-            "[14:30:06] Upload staged for automatic retry: ken_1792212492_6",
             "[14:32:20] Generating gaming A/B metadata for slot: 10:15 PM ET (Sun, Oct 18)...",
             "[14:32:24] Deploying to YouTube (@kenclipsburger420) for release 10:15 PM ET (Sun, Oct 18)...",
             "[14:32:40] YouTube upload error: <HttpError 429 when requesting None returned \"Quota exceeded for quota metric 'Video Uploads' and limit 'Video Uploads per day' of service 'youtube.googleapis.com' for consumer 'project_number:644580298656'.\". Details: \"[{'message': \"Quota exceeded for quota metric 'Video Uploads' and limit 'Video Uploads per day' of service 'youtube.googleapis.com' for consumer 'project_number:644580298656'.\", 'domain': 'global', 'reason': 'rateLimitExceeded'}]\">",
-            "[14:32:40] Upload staged for automatic retry: ken_1792212492_6"
+            "[14:32:40] Upload staged for automatic retry: ken_1792212492_6",
+            "[14:34:54] Generating gaming A/B metadata for slot: 10:15 PM ET (Sun, Oct 18)...",
+            "[14:35:02] Deploying to YouTube (@kenclipsburger420) for release 10:15 PM ET (Sun, Oct 18)...",
+            "[14:35:19] YouTube upload error: <HttpError 429 when requesting None returned \"Quota exceeded for quota metric 'Video Uploads' and limit 'Video Uploads per day' of service 'youtube.googleapis.com' for consumer 'project_number:644580298656'.\". Details: \"[{'message': \"Quota exceeded for quota metric 'Video Uploads' and limit 'Video Uploads per day' of service 'youtube.googleapis.com' for consumer 'project_number:644580298656'.\", 'domain': 'global', 'reason': 'rateLimitExceeded'}]\">",
+            "[14:35:19] Upload staged for automatic retry: ken_1792212492_6"
           ]
         },
         "ANALYST": {
@@ -165,14 +165,14 @@
           "current_task": "Auditing velocity of active Ken Clash Royale Shorts...",
           "last_completed_task": "Calibrated gaming threshold: >15 views/hr within 4h",
           "recent_logs": [
-            "[14:14:46] Auditing velocity of active Ken Clash Royale Shorts...",
             "[14:17:17] Auditing velocity of active Ken Clash Royale Shorts...",
             "[14:19:48] Auditing velocity of active Ken Clash Royale Shorts...",
             "[14:22:20] Auditing velocity of active Ken Clash Royale Shorts...",
             "[14:24:55] Auditing velocity of active Ken Clash Royale Shorts...",
             "[14:27:30] Auditing velocity of active Ken Clash Royale Shorts...",
             "[14:30:06] Auditing velocity of active Ken Clash Royale Shorts...",
-            "[14:32:40] Auditing velocity of active Ken Clash Royale Shorts..."
+            "[14:32:40] Auditing velocity of active Ken Clash Royale Shorts...",
+            "[14:35:19] Auditing velocity of active Ken Clash Royale Shorts..."
           ]
         },
         "WATCHDOG": {
@@ -180,14 +180,14 @@
           "current_task": "Verifying Supercell fan policy: 0 claims, 0 strikes.",
           "last_completed_task": "Audited source parameters: strictly <30s segment rule active",
           "recent_logs": [
-            "[14:14:46] Verifying Supercell fan policy: 0 claims, 0 strikes.",
             "[14:17:17] Verifying Supercell fan policy: 0 claims, 0 strikes.",
             "[14:19:48] Verifying Supercell fan policy: 0 claims, 0 strikes.",
             "[14:22:20] Verifying Supercell fan policy: 0 claims, 0 strikes.",
             "[14:24:55] Verifying Supercell fan policy: 0 claims, 0 strikes.",
             "[14:27:30] Verifying Supercell fan policy: 0 claims, 0 strikes.",
             "[14:30:06] Verifying Supercell fan policy: 0 claims, 0 strikes.",
-            "[14:32:40] Verifying Supercell fan policy: 0 claims, 0 strikes."
+            "[14:32:40] Verifying Supercell fan policy: 0 claims, 0 strikes.",
+            "[14:35:19] Verifying Supercell fan policy: 0 claims, 0 strikes."
           ]
         }
       },
@@ -4441,14 +4441,14 @@
       "current_task": "Queue up to date. Waiting for next daily Ken upload.",
       "last_completed_task": "Ingested 5 recent Ken master videos into source pool",
       "recent_logs": [
-        "[14:24:20] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
-        "[14:24:33] Queue up to date. Waiting for next daily Ken upload.",
         "[14:26:55] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
         "[14:27:08] Queue up to date. Waiting for next daily Ken upload.",
         "[14:29:30] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
         "[14:29:41] Queue up to date. Waiting for next daily Ken upload.",
         "[14:32:06] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
-        "[14:32:20] Queue up to date. Waiting for next daily Ken upload."
+        "[14:32:20] Queue up to date. Waiting for next daily Ken upload.",
+        "[14:34:40] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
+        "[14:34:54] Queue up to date. Waiting for next daily Ken upload."
       ]
     },
     "STRATEGIST": {
@@ -4495,14 +4495,14 @@
       "current_task": "Upload staged for automatic retry: ken_1792212492_6",
       "last_completed_task": "Uploaded all 3 initial Clash Royale gaming cuts to YouTube (kenclipsburger420)",
       "recent_logs": [
-        "[14:29:41] Generating gaming A/B metadata for slot: 10:15 PM ET (Sun, Oct 18)...",
-        "[14:29:49] Deploying to YouTube (@kenclipsburger420) for release 10:15 PM ET (Sun, Oct 18)...",
-        "[14:30:06] YouTube upload error: <HttpError 429 when requesting None returned \"Quota exceeded for quota metric 'Video Uploads' and limit 'Video Uploads per day' of service 'youtube.googleapis.com' for consumer 'project_number:644580298656'.\". Details: \"[{'message': \"Quota exceeded for quota metric 'Video Uploads' and limit 'Video Uploads per day' of service 'youtube.googleapis.com' for consumer 'project_number:644580298656'.\", 'domain': 'global', 'reason': 'rateLimitExceeded'}]\">",
-        "[14:30:06] Upload staged for automatic retry: ken_1792212492_6",
         "[14:32:20] Generating gaming A/B metadata for slot: 10:15 PM ET (Sun, Oct 18)...",
         "[14:32:24] Deploying to YouTube (@kenclipsburger420) for release 10:15 PM ET (Sun, Oct 18)...",
         "[14:32:40] YouTube upload error: <HttpError 429 when requesting None returned \"Quota exceeded for quota metric 'Video Uploads' and limit 'Video Uploads per day' of service 'youtube.googleapis.com' for consumer 'project_number:644580298656'.\". Details: \"[{'message': \"Quota exceeded for quota metric 'Video Uploads' and limit 'Video Uploads per day' of service 'youtube.googleapis.com' for consumer 'project_number:644580298656'.\", 'domain': 'global', 'reason': 'rateLimitExceeded'}]\">",
-        "[14:32:40] Upload staged for automatic retry: ken_1792212492_6"
+        "[14:32:40] Upload staged for automatic retry: ken_1792212492_6",
+        "[14:34:54] Generating gaming A/B metadata for slot: 10:15 PM ET (Sun, Oct 18)...",
+        "[14:35:02] Deploying to YouTube (@kenclipsburger420) for release 10:15 PM ET (Sun, Oct 18)...",
+        "[14:35:19] YouTube upload error: <HttpError 429 when requesting None returned \"Quota exceeded for quota metric 'Video Uploads' and limit 'Video Uploads per day' of service 'youtube.googleapis.com' for consumer 'project_number:644580298656'.\". Details: \"[{'message': \"Quota exceeded for quota metric 'Video Uploads' and limit 'Video Uploads per day' of service 'youtube.googleapis.com' for consumer 'project_number:644580298656'.\", 'domain': 'global', 'reason': 'rateLimitExceeded'}]\">",
+        "[14:35:19] Upload staged for automatic retry: ken_1792212492_6"
       ]
     },
     "ANALYST": {
@@ -4510,14 +4510,14 @@
       "current_task": "Auditing velocity of active Ken Clash Royale Shorts...",
       "last_completed_task": "Calibrated gaming threshold: >15 views/hr within 4h",
       "recent_logs": [
-        "[14:14:46] Auditing velocity of active Ken Clash Royale Shorts...",
         "[14:17:17] Auditing velocity of active Ken Clash Royale Shorts...",
         "[14:19:48] Auditing velocity of active Ken Clash Royale Shorts...",
         "[14:22:20] Auditing velocity of active Ken Clash Royale Shorts...",
         "[14:24:55] Auditing velocity of active Ken Clash Royale Shorts...",
         "[14:27:30] Auditing velocity of active Ken Clash Royale Shorts...",
         "[14:30:06] Auditing velocity of active Ken Clash Royale Shorts...",
-        "[14:32:40] Auditing velocity of active Ken Clash Royale Shorts..."
+        "[14:32:40] Auditing velocity of active Ken Clash Royale Shorts...",
+        "[14:35:19] Auditing velocity of active Ken Clash Royale Shorts..."
       ]
     },
     "WATCHDOG": {
@@ -4525,14 +4525,14 @@
       "current_task": "Verifying Supercell fan policy: 0 claims, 0 strikes.",
       "last_completed_task": "Audited source parameters: strictly <30s segment rule active",
       "recent_logs": [
-        "[14:14:46] Verifying Supercell fan policy: 0 claims, 0 strikes.",
         "[14:17:17] Verifying Supercell fan policy: 0 claims, 0 strikes.",
         "[14:19:48] Verifying Supercell fan policy: 0 claims, 0 strikes.",
         "[14:22:20] Verifying Supercell fan policy: 0 claims, 0 strikes.",
         "[14:24:55] Verifying Supercell fan policy: 0 claims, 0 strikes.",
         "[14:27:30] Verifying Supercell fan policy: 0 claims, 0 strikes.",
         "[14:30:06] Verifying Supercell fan policy: 0 claims, 0 strikes.",
-        "[14:32:40] Verifying Supercell fan policy: 0 claims, 0 strikes."
+        "[14:32:40] Verifying Supercell fan policy: 0 claims, 0 strikes.",
+        "[14:35:19] Verifying Supercell fan policy: 0 claims, 0 strikes."
       ]
     }
   },

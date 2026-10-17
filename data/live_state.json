@@ -1,6 +1,6 @@
 {
-  "timestamp": 1792256105.027126,
-  "sync_time_iso": "2026-10-17T16:55:05Z",
+  "timestamp": 1792256998.148566,
+  "sync_time_iso": "2026-10-17T17:09:58Z",
   "default_channel": "ken_clips_burger",
   "channels": {
     "ken_clips_burger": {
@@ -86,7 +86,7 @@
         "autopilot_engaged": true,
         "buffer_target_shorts": 10,
         "daily_target": 5,
-        "remote_tunnel_url": "https://complex-jake-sides-trial.trycloudflare.com",
+        "remote_tunnel_url": "https://medium-thinks-controlling-rebel.trycloudflare.com",
         "channel_id": "UCsBZAgHGlc5GU7r4E-8tUyA",
         "oauth_connected": true
       },
@@ -96,14 +96,14 @@
           "current_task": "Queue up to date. Waiting for next daily Ken upload.",
           "last_completed_task": "Ingested 5 recent Ken master videos into source pool",
           "recent_logs": [
-            "[12:34:06] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
-            "[12:34:20] Queue up to date. Waiting for next daily Ken upload.",
             "[12:36:40] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
             "[12:36:50] Queue up to date. Waiting for next daily Ken upload.",
             "[12:39:10] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
             "[12:39:21] Queue up to date. Waiting for next daily Ken upload.",
             "[12:42:38] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
-            "[12:48:25] Queue up to date. Waiting for next daily Ken upload."
+            "[12:48:25] Queue up to date. Waiting for next daily Ken upload.",
+            "[12:59:47] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
+            "[13:00:02] Queue up to date. Waiting for next daily Ken upload."
           ]
         },
         "STRATEGIST": {
@@ -150,14 +150,14 @@
           "current_task": "Upload staged for automatic retry: ken_1792212492_6",
           "last_completed_task": "Uploaded all 3 initial Clash Royale gaming cuts to YouTube (kenclipsburger420)",
           "recent_logs": [
-            "[12:39:21] Generating gaming A/B metadata for slot: 10:15 PM ET (Sun, Oct 18)...",
-            "[12:39:23] Deploying to YouTube (@kenclipsburger420) for release 10:15 PM ET (Sun, Oct 18)...",
-            "[12:39:40] YouTube upload error: <HttpError 429 when requesting None returned \"Quota exceeded for quota metric 'Video Uploads' and limit 'Video Uploads per day' of service 'youtube.googleapis.com' for consumer 'project_number:644580298656'.\". Details: \"[{'message': \"Quota exceeded for quota metric 'Video Uploads' and limit 'Video Uploads per day' of service 'youtube.googleapis.com' for consumer 'project_number:644580298656'.\", 'domain': 'global', 'reason': 'rateLimitExceeded'}]\">",
-            "[12:39:40] Upload staged for automatic retry: ken_1792212492_6",
             "[12:48:25] Generating gaming A/B metadata for slot: 10:15 PM ET (Sun, Oct 18)...",
             "[12:48:28] Deploying to YouTube (@kenclipsburger420) for release 10:15 PM ET (Sun, Oct 18)...",
             "[12:48:47] YouTube upload error: <HttpError 429 when requesting None returned \"Quota exceeded for quota metric 'Video Uploads' and limit 'Video Uploads per day' of service 'youtube.googleapis.com' for consumer 'project_number:644580298656'.\". Details: \"[{'message': \"Quota exceeded for quota metric 'Video Uploads' and limit 'Video Uploads per day' of service 'youtube.googleapis.com' for consumer 'project_number:644580298656'.\", 'domain': 'global', 'reason': 'rateLimitExceeded'}]\">",
-            "[12:48:47] Upload staged for automatic retry: ken_1792212492_6"
+            "[12:48:47] Upload staged for automatic retry: ken_1792212492_6",
+            "[13:00:02] Generating gaming A/B metadata for slot: 10:15 PM ET (Sun, Oct 18)...",
+            "[13:00:05] Deploying to YouTube (@kenclipsburger420) for release 10:15 PM ET (Sun, Oct 18)...",
+            "[13:08:45] YouTube upload error: <HttpError 429 when requesting None returned \"Quota exceeded for quota metric 'Video Uploads' and limit 'Video Uploads per day' of service 'youtube.googleapis.com' for consumer 'project_number:644580298656'.\". Details: \"[{'message': \"Quota exceeded for quota metric 'Video Uploads' and limit 'Video Uploads per day' of service 'youtube.googleapis.com' for consumer 'project_number:644580298656'.\", 'domain': 'global', 'reason': 'rateLimitExceeded'}]\">",
+            "[13:08:45] Upload staged for automatic retry: ken_1792212492_6"
           ]
         },
         "ANALYST": {
@@ -165,14 +165,14 @@
           "current_task": "Auditing velocity of active Ken Clash Royale Shorts...",
           "last_completed_task": "Calibrated gaming threshold: >15 views/hr within 4h",
           "recent_logs": [
-            "[12:24:31] Auditing velocity of active Ken Clash Royale Shorts...",
             "[12:27:01] Auditing velocity of active Ken Clash Royale Shorts...",
             "[12:29:33] Auditing velocity of active Ken Clash Royale Shorts...",
             "[12:32:06] Auditing velocity of active Ken Clash Royale Shorts...",
             "[12:34:39] Auditing velocity of active Ken Clash Royale Shorts...",
             "[12:37:10] Auditing velocity of active Ken Clash Royale Shorts...",
             "[12:39:40] Auditing velocity of active Ken Clash Royale Shorts...",
-            "[12:48:47] Auditing velocity of active Ken Clash Royale Shorts..."
+            "[12:48:47] Auditing velocity of active Ken Clash Royale Shorts...",
+            "[13:08:45] Auditing velocity of active Ken Clash Royale Shorts..."
           ]
         },
         "WATCHDOG": {
@@ -180,14 +180,14 @@
           "current_task": "Verifying Supercell fan policy: 0 claims, 0 strikes.",
           "last_completed_task": "Audited source parameters: strictly <30s segment rule active",
           "recent_logs": [
-            "[12:24:31] Verifying Supercell fan policy: 0 claims, 0 strikes.",
             "[12:27:01] Verifying Supercell fan policy: 0 claims, 0 strikes.",
             "[12:29:33] Verifying Supercell fan policy: 0 claims, 0 strikes.",
             "[12:32:06] Verifying Supercell fan policy: 0 claims, 0 strikes.",
             "[12:34:39] Verifying Supercell fan policy: 0 claims, 0 strikes.",
             "[12:37:10] Verifying Supercell fan policy: 0 claims, 0 strikes.",
             "[12:39:40] Verifying Supercell fan policy: 0 claims, 0 strikes.",
-            "[12:48:47] Verifying Supercell fan policy: 0 claims, 0 strikes."
+            "[12:48:47] Verifying Supercell fan policy: 0 claims, 0 strikes.",
+            "[13:08:45] Verifying Supercell fan policy: 0 claims, 0 strikes."
           ]
         }
       },
@@ -554,70 +554,6 @@
       },
       "calendar": {
         "scheduled": [
-          {
-            "id": "ken_1792158197_0",
-            "source_video": "weirdest buff ever",
-            "creator": "Ken",
-            "title": "The Real Secret Behind Lava-hound Clone Strat #Shorts",
-            "publish_at": "2026-10-17T17:00:00Z",
-            "status": "SCHEDULED",
-            "uploaded": true,
-            "youtube_video_id": "_7wZKnaN21Q",
-            "youtube_url": "https://www.youtube.com/shorts/_7wZKnaN21Q",
-            "video_file": "ken_1792158197_0_master.mp4",
-            "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792158197_0_master.mp4",
-            "duration": 24.89,
-            "hook_summary": "The creator executes a high-stakes, aggressive Lava-hound and clone play while baiting the opponent's defensive spells to secure massive value.",
-            "metadata": {
-              "title": "The Real Secret Behind Lava-hound Clone Strat #Shorts",
-              "description": "The creator executes a high-stakes, aggressive Lava-hound and clone play while baiting the opponent's defensive spells to secure massive value.\n\nKey Takeaways:\n\u2022 Understand the core habit\n\u2022 Avoid the daily trap\n\u2022 Optimize for long-term clarity\n\nFeaturing Ken.\n\nWhat's your perspective on this? Comment below! \ud83d\udc47\n\n#Shorts #Podcast #Mindset",
-              "tags": [
-                "Shorts",
-                "Ken",
-                "Podcast Clips",
-                "Viral",
-                "Mindset",
-                "Productivity",
-                "Motivation"
-              ],
-              "pinned_comment": "What's your biggest takeaway from this? Drop your thoughts below! \ud83d\udc47",
-              "ab_variants": {
-                "A": {
-                  "angle": "Curiosity Gap",
-                  "title": "The Real Secret Behind Lava-hound Clone Strat #Shorts",
-                  "description": "The creator executes a high-stakes, aggressive Lava-hound and clone play while baiting the opponent's defensive spells to secure massive value.\n\nKey Takeaways:\n\u2022 Understand the core habit\n\u2022 Avoid the daily trap\n\u2022 Optimize for long-term clarity\n\nFeaturing Ken.\n\nWhat's your perspective on this? Comment below! \ud83d\udc47\n\n#Shorts #Podcast #Mindset"
-                },
-                "B": {
-                  "angle": "Contrarian Truth",
-                  "title": "Ken: Stop Making This Mistake #Shorts",
-                  "description": "The creator executes a high-stakes, aggressive Lava-hound and clone play while baiting the opponent's defensive spells to secure massive value.\n\nKey Takeaways:\n\u2022 Why the common approach fails\n\u2022 The shift high performers make\n\u2022 Practical daily application\n\nFeaturing Ken.\n\nDo you agree with this? Let us know below! \ud83d\udc47\n\n#Shorts #Discipline #Growth"
-                },
-                "C": {
-                  "angle": "Actionable Protocol",
-                  "title": "How Ken Masters Daily Execution #Shorts",
-                  "description": "The creator executes a high-stakes, aggressive Lava-hound and clone play while baiting the opponent's defensive spells to secure massive value.\n\nKey Takeaways:\n\u2022 Step 1: Lock in your standard\n\u2022 Step 2: Eliminate distractions\n\u2022 Step 3: Execute without emotion\n\nFeaturing Ken.\n\nWill you implement this today? Tell us below! \ud83d\udc47\n\n#Shorts #Performance #DailyHabits"
-                }
-              },
-              "active_variant": "A",
-              "test_status": "ACTIVE_TEST",
-              "variant_history": [
-                {
-                  "variant": "A",
-                  "title": "The Real Secret Behind Lava-hound Clone Strat #Shorts",
-                  "deployed_at": 1792212714.782079,
-                  "reason": "Initial A/B test deployment"
-                }
-              ],
-              "metrics": {
-                "views": 0,
-                "likes": 0,
-                "comments": 0,
-                "retention": 0.0,
-                "ctr": 0.0
-              }
-            },
-            "reframed": "gaming_split"
-          },
           {
             "id": "ken_1792158197_0",
             "source_video": "weirdest buff ever",
@@ -1033,6 +969,70 @@
         ],
         "held": [],
         "published": [
+          {
+            "id": "ken_1792158197_0",
+            "source_video": "weirdest buff ever",
+            "creator": "Ken",
+            "title": "The Real Secret Behind Lava-hound Clone Strat #Shorts",
+            "publish_at": "2026-10-17T17:00:00Z",
+            "status": "PUBLISHED",
+            "uploaded": true,
+            "youtube_video_id": "_7wZKnaN21Q",
+            "youtube_url": "https://www.youtube.com/shorts/_7wZKnaN21Q",
+            "video_file": "ken_1792158197_0_master.mp4",
+            "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792158197_0_master.mp4",
+            "duration": 24.89,
+            "hook_summary": "The creator executes a high-stakes, aggressive Lava-hound and clone play while baiting the opponent's defensive spells to secure massive value.",
+            "metadata": {
+              "title": "The Real Secret Behind Lava-hound Clone Strat #Shorts",
+              "description": "The creator executes a high-stakes, aggressive Lava-hound and clone play while baiting the opponent's defensive spells to secure massive value.\n\nKey Takeaways:\n\u2022 Understand the core habit\n\u2022 Avoid the daily trap\n\u2022 Optimize for long-term clarity\n\nFeaturing Ken.\n\nWhat's your perspective on this? Comment below! \ud83d\udc47\n\n#Shorts #Podcast #Mindset",
+              "tags": [
+                "Shorts",
+                "Ken",
+                "Podcast Clips",
+                "Viral",
+                "Mindset",
+                "Productivity",
+                "Motivation"
+              ],
+              "pinned_comment": "What's your biggest takeaway from this? Drop your thoughts below! \ud83d\udc47",
+              "ab_variants": {
+                "A": {
+                  "angle": "Curiosity Gap",
+                  "title": "The Real Secret Behind Lava-hound Clone Strat #Shorts",
+                  "description": "The creator executes a high-stakes, aggressive Lava-hound and clone play while baiting the opponent's defensive spells to secure massive value.\n\nKey Takeaways:\n\u2022 Understand the core habit\n\u2022 Avoid the daily trap\n\u2022 Optimize for long-term clarity\n\nFeaturing Ken.\n\nWhat's your perspective on this? Comment below! \ud83d\udc47\n\n#Shorts #Podcast #Mindset"
+                },
+                "B": {
+                  "angle": "Contrarian Truth",
+                  "title": "Ken: Stop Making This Mistake #Shorts",
+                  "description": "The creator executes a high-stakes, aggressive Lava-hound and clone play while baiting the opponent's defensive spells to secure massive value.\n\nKey Takeaways:\n\u2022 Why the common approach fails\n\u2022 The shift high performers make\n\u2022 Practical daily application\n\nFeaturing Ken.\n\nDo you agree with this? Let us know below! \ud83d\udc47\n\n#Shorts #Discipline #Growth"
+                },
+                "C": {
+                  "angle": "Actionable Protocol",
+                  "title": "How Ken Masters Daily Execution #Shorts",
+                  "description": "The creator executes a high-stakes, aggressive Lava-hound and clone play while baiting the opponent's defensive spells to secure massive value.\n\nKey Takeaways:\n\u2022 Step 1: Lock in your standard\n\u2022 Step 2: Eliminate distractions\n\u2022 Step 3: Execute without emotion\n\nFeaturing Ken.\n\nWill you implement this today? Tell us below! \ud83d\udc47\n\n#Shorts #Performance #DailyHabits"
+                }
+              },
+              "active_variant": "A",
+              "test_status": "ACTIVE_TEST",
+              "variant_history": [
+                {
+                  "variant": "A",
+                  "title": "The Real Secret Behind Lava-hound Clone Strat #Shorts",
+                  "deployed_at": 1792212714.782079,
+                  "reason": "Initial A/B test deployment"
+                }
+              ],
+              "metrics": {
+                "views": 0,
+                "likes": 0,
+                "comments": 0,
+                "retention": 0.0,
+                "ctr": 0.0
+              }
+            },
+            "reframed": "gaming_split"
+          },
           {
             "id": "ken_1791972067_0",
             "source_video": "2.3 brainrot cycle",
@@ -1682,12 +1682,12 @@
         "dashboard": {
           "host": "127.0.0.1",
           "port": 8899,
-          "remote_tunnel_url": "https://complex-jake-sides-trial.trycloudflare.com",
+          "remote_tunnel_url": "https://medium-thinks-controlling-rebel.trycloudflare.com",
           "tunnel_active": true
         },
         "status": "PAUSED",
         "buffer_target_shorts": 6,
-        "remote_tunnel_url": "https://complex-jake-sides-trial.trycloudflare.com",
+        "remote_tunnel_url": "https://medium-thinks-controlling-rebel.trycloudflare.com",
         "channel_id": "UCKqBK1q6-0i735Mn_hiNIig",
         "channel_name": "Muks Breakdown Room",
         "oauth_connected": true
@@ -3201,7 +3201,7 @@
         "emergency_stop": false,
         "autopilot_engaged": false,
         "buffer_target_shorts": 6,
-        "remote_tunnel_url": "https://complex-jake-sides-trial.trycloudflare.com",
+        "remote_tunnel_url": "https://medium-thinks-controlling-rebel.trycloudflare.com",
         "channel_id": "UCcNdnkFH4m9C3rUunbOEaSg",
         "oauth_connected": true
       },
@@ -4431,7 +4431,7 @@
     "autopilot_engaged": true,
     "buffer_target_shorts": 10,
     "daily_target": 5,
-    "remote_tunnel_url": "https://complex-jake-sides-trial.trycloudflare.com",
+    "remote_tunnel_url": "https://medium-thinks-controlling-rebel.trycloudflare.com",
     "channel_id": "UCsBZAgHGlc5GU7r4E-8tUyA",
     "oauth_connected": true
   },
@@ -4441,14 +4441,14 @@
       "current_task": "Queue up to date. Waiting for next daily Ken upload.",
       "last_completed_task": "Ingested 5 recent Ken master videos into source pool",
       "recent_logs": [
-        "[12:34:06] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
-        "[12:34:20] Queue up to date. Waiting for next daily Ken upload.",
         "[12:36:40] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
         "[12:36:50] Queue up to date. Waiting for next daily Ken upload.",
         "[12:39:10] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
         "[12:39:21] Queue up to date. Waiting for next daily Ken upload.",
         "[12:42:38] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
-        "[12:48:25] Queue up to date. Waiting for next daily Ken upload."
+        "[12:48:25] Queue up to date. Waiting for next daily Ken upload.",
+        "[12:59:47] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
+        "[13:00:02] Queue up to date. Waiting for next daily Ken upload."
       ]
     },
     "STRATEGIST": {
@@ -4495,14 +4495,14 @@
       "current_task": "Upload staged for automatic retry: ken_1792212492_6",
       "last_completed_task": "Uploaded all 3 initial Clash Royale gaming cuts to YouTube (kenclipsburger420)",
       "recent_logs": [
-        "[12:39:21] Generating gaming A/B metadata for slot: 10:15 PM ET (Sun, Oct 18)...",
-        "[12:39:23] Deploying to YouTube (@kenclipsburger420) for release 10:15 PM ET (Sun, Oct 18)...",
-        "[12:39:40] YouTube upload error: <HttpError 429 when requesting None returned \"Quota exceeded for quota metric 'Video Uploads' and limit 'Video Uploads per day' of service 'youtube.googleapis.com' for consumer 'project_number:644580298656'.\". Details: \"[{'message': \"Quota exceeded for quota metric 'Video Uploads' and limit 'Video Uploads per day' of service 'youtube.googleapis.com' for consumer 'project_number:644580298656'.\", 'domain': 'global', 'reason': 'rateLimitExceeded'}]\">",
-        "[12:39:40] Upload staged for automatic retry: ken_1792212492_6",
         "[12:48:25] Generating gaming A/B metadata for slot: 10:15 PM ET (Sun, Oct 18)...",
         "[12:48:28] Deploying to YouTube (@kenclipsburger420) for release 10:15 PM ET (Sun, Oct 18)...",
         "[12:48:47] YouTube upload error: <HttpError 429 when requesting None returned \"Quota exceeded for quota metric 'Video Uploads' and limit 'Video Uploads per day' of service 'youtube.googleapis.com' for consumer 'project_number:644580298656'.\". Details: \"[{'message': \"Quota exceeded for quota metric 'Video Uploads' and limit 'Video Uploads per day' of service 'youtube.googleapis.com' for consumer 'project_number:644580298656'.\", 'domain': 'global', 'reason': 'rateLimitExceeded'}]\">",
-        "[12:48:47] Upload staged for automatic retry: ken_1792212492_6"
+        "[12:48:47] Upload staged for automatic retry: ken_1792212492_6",
+        "[13:00:02] Generating gaming A/B metadata for slot: 10:15 PM ET (Sun, Oct 18)...",
+        "[13:00:05] Deploying to YouTube (@kenclipsburger420) for release 10:15 PM ET (Sun, Oct 18)...",
+        "[13:08:45] YouTube upload error: <HttpError 429 when requesting None returned \"Quota exceeded for quota metric 'Video Uploads' and limit 'Video Uploads per day' of service 'youtube.googleapis.com' for consumer 'project_number:644580298656'.\". Details: \"[{'message': \"Quota exceeded for quota metric 'Video Uploads' and limit 'Video Uploads per day' of service 'youtube.googleapis.com' for consumer 'project_number:644580298656'.\", 'domain': 'global', 'reason': 'rateLimitExceeded'}]\">",
+        "[13:08:45] Upload staged for automatic retry: ken_1792212492_6"
       ]
     },
     "ANALYST": {
@@ -4510,14 +4510,14 @@
       "current_task": "Auditing velocity of active Ken Clash Royale Shorts...",
       "last_completed_task": "Calibrated gaming threshold: >15 views/hr within 4h",
       "recent_logs": [
-        "[12:24:31] Auditing velocity of active Ken Clash Royale Shorts...",
         "[12:27:01] Auditing velocity of active Ken Clash Royale Shorts...",
         "[12:29:33] Auditing velocity of active Ken Clash Royale Shorts...",
         "[12:32:06] Auditing velocity of active Ken Clash Royale Shorts...",
         "[12:34:39] Auditing velocity of active Ken Clash Royale Shorts...",
         "[12:37:10] Auditing velocity of active Ken Clash Royale Shorts...",
         "[12:39:40] Auditing velocity of active Ken Clash Royale Shorts...",
-        "[12:48:47] Auditing velocity of active Ken Clash Royale Shorts..."
+        "[12:48:47] Auditing velocity of active Ken Clash Royale Shorts...",
+        "[13:08:45] Auditing velocity of active Ken Clash Royale Shorts..."
       ]
     },
     "WATCHDOG": {
@@ -4525,14 +4525,14 @@
       "current_task": "Verifying Supercell fan policy: 0 claims, 0 strikes.",
       "last_completed_task": "Audited source parameters: strictly <30s segment rule active",
       "recent_logs": [
-        "[12:24:31] Verifying Supercell fan policy: 0 claims, 0 strikes.",
         "[12:27:01] Verifying Supercell fan policy: 0 claims, 0 strikes.",
         "[12:29:33] Verifying Supercell fan policy: 0 claims, 0 strikes.",
         "[12:32:06] Verifying Supercell fan policy: 0 claims, 0 strikes.",
         "[12:34:39] Verifying Supercell fan policy: 0 claims, 0 strikes.",
         "[12:37:10] Verifying Supercell fan policy: 0 claims, 0 strikes.",
         "[12:39:40] Verifying Supercell fan policy: 0 claims, 0 strikes.",
-        "[12:48:47] Verifying Supercell fan policy: 0 claims, 0 strikes."
+        "[12:48:47] Verifying Supercell fan policy: 0 claims, 0 strikes.",
+        "[13:08:45] Verifying Supercell fan policy: 0 claims, 0 strikes."
       ]
     }
   },
@@ -4899,70 +4899,6 @@
   },
   "calendar": {
     "scheduled": [
-      {
-        "id": "ken_1792158197_0",
-        "source_video": "weirdest buff ever",
-        "creator": "Ken",
-        "title": "The Real Secret Behind Lava-hound Clone Strat #Shorts",
-        "publish_at": "2026-10-17T17:00:00Z",
-        "status": "SCHEDULED",
-        "uploaded": true,
-        "youtube_video_id": "_7wZKnaN21Q",
-        "youtube_url": "https://www.youtube.com/shorts/_7wZKnaN21Q",
-        "video_file": "ken_1792158197_0_master.mp4",
-        "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792158197_0_master.mp4",
-        "duration": 24.89,
-        "hook_summary": "The creator executes a high-stakes, aggressive Lava-hound and clone play while baiting the opponent's defensive spells to secure massive value.",
-        "metadata": {
-          "title": "The Real Secret Behind Lava-hound Clone Strat #Shorts",
-          "description": "The creator executes a high-stakes, aggressive Lava-hound and clone play while baiting the opponent's defensive spells to secure massive value.\n\nKey Takeaways:\n\u2022 Understand the core habit\n\u2022 Avoid the daily trap\n\u2022 Optimize for long-term clarity\n\nFeaturing Ken.\n\nWhat's your perspective on this? Comment below! \ud83d\udc47\n\n#Shorts #Podcast #Mindset",
-          "tags": [
-            "Shorts",
-            "Ken",
-            "Podcast Clips",
-            "Viral",
-            "Mindset",
-            "Productivity",
-            "Motivation"
-          ],
-          "pinned_comment": "What's your biggest takeaway from this? Drop your thoughts below! \ud83d\udc47",
-          "ab_variants": {
-            "A": {
-              "angle": "Curiosity Gap",
-              "title": "The Real Secret Behind Lava-hound Clone Strat #Shorts",
-              "description": "The creator executes a high-stakes, aggressive Lava-hound and clone play while baiting the opponent's defensive spells to secure massive value.\n\nKey Takeaways:\n\u2022 Understand the core habit\n\u2022 Avoid the daily trap\n\u2022 Optimize for long-term clarity\n\nFeaturing Ken.\n\nWhat's your perspective on this? Comment below! \ud83d\udc47\n\n#Shorts #Podcast #Mindset"
-            },
-            "B": {
-              "angle": "Contrarian Truth",
-              "title": "Ken: Stop Making This Mistake #Shorts",
-              "description": "The creator executes a high-stakes, aggressive Lava-hound and clone play while baiting the opponent's defensive spells to secure massive value.\n\nKey Takeaways:\n\u2022 Why the common approach fails\n\u2022 The shift high performers make\n\u2022 Practical daily application\n\nFeaturing Ken.\n\nDo you agree with this? Let us know below! \ud83d\udc47\n\n#Shorts #Discipline #Growth"
-            },
-            "C": {
-              "angle": "Actionable Protocol",
-              "title": "How Ken Masters Daily Execution #Shorts",
-              "description": "The creator executes a high-stakes, aggressive Lava-hound and clone play while baiting the opponent's defensive spells to secure massive value.\n\nKey Takeaways:\n\u2022 Step 1: Lock in your standard\n\u2022 Step 2: Eliminate distractions\n\u2022 Step 3: Execute without emotion\n\nFeaturing Ken.\n\nWill you implement this today? Tell us below! \ud83d\udc47\n\n#Shorts #Performance #DailyHabits"
-            }
-          },
-          "active_variant": "A",
-          "test_status": "ACTIVE_TEST",
-          "variant_history": [
-            {
-              "variant": "A",
-              "title": "The Real Secret Behind Lava-hound Clone Strat #Shorts",
-              "deployed_at": 1792212714.782079,
-              "reason": "Initial A/B test deployment"
-            }
-          ],
-          "metrics": {
-            "views": 0,
-            "likes": 0,
-            "comments": 0,
-            "retention": 0.0,
-            "ctr": 0.0
-          }
-        },
-        "reframed": "gaming_split"
-      },
       {
         "id": "ken_1792158197_0",
         "source_video": "weirdest buff ever",
@@ -5378,6 +5314,70 @@
     ],
     "held": [],
     "published": [
+      {
+        "id": "ken_1792158197_0",
+        "source_video": "weirdest buff ever",
+        "creator": "Ken",
+        "title": "The Real Secret Behind Lava-hound Clone Strat #Shorts",
+        "publish_at": "2026-10-17T17:00:00Z",
+        "status": "PUBLISHED",
+        "uploaded": true,
+        "youtube_video_id": "_7wZKnaN21Q",
+        "youtube_url": "https://www.youtube.com/shorts/_7wZKnaN21Q",
+        "video_file": "ken_1792158197_0_master.mp4",
+        "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792158197_0_master.mp4",
+        "duration": 24.89,
+        "hook_summary": "The creator executes a high-stakes, aggressive Lava-hound and clone play while baiting the opponent's defensive spells to secure massive value.",
+        "metadata": {
+          "title": "The Real Secret Behind Lava-hound Clone Strat #Shorts",
+          "description": "The creator executes a high-stakes, aggressive Lava-hound and clone play while baiting the opponent's defensive spells to secure massive value.\n\nKey Takeaways:\n\u2022 Understand the core habit\n\u2022 Avoid the daily trap\n\u2022 Optimize for long-term clarity\n\nFeaturing Ken.\n\nWhat's your perspective on this? Comment below! \ud83d\udc47\n\n#Shorts #Podcast #Mindset",
+          "tags": [
+            "Shorts",
+            "Ken",
+            "Podcast Clips",
+            "Viral",
+            "Mindset",
+            "Productivity",
+            "Motivation"
+          ],
+          "pinned_comment": "What's your biggest takeaway from this? Drop your thoughts below! \ud83d\udc47",
+          "ab_variants": {
+            "A": {
+              "angle": "Curiosity Gap",
+              "title": "The Real Secret Behind Lava-hound Clone Strat #Shorts",
+              "description": "The creator executes a high-stakes, aggressive Lava-hound and clone play while baiting the opponent's defensive spells to secure massive value.\n\nKey Takeaways:\n\u2022 Understand the core habit\n\u2022 Avoid the daily trap\n\u2022 Optimize for long-term clarity\n\nFeaturing Ken.\n\nWhat's your perspective on this? Comment below! \ud83d\udc47\n\n#Shorts #Podcast #Mindset"
+            },
+            "B": {
+              "angle": "Contrarian Truth",
+              "title": "Ken: Stop Making This Mistake #Shorts",
+              "description": "The creator executes a high-stakes, aggressive Lava-hound and clone play while baiting the opponent's defensive spells to secure massive value.\n\nKey Takeaways:\n\u2022 Why the common approach fails\n\u2022 The shift high performers make\n\u2022 Practical daily application\n\nFeaturing Ken.\n\nDo you agree with this? Let us know below! \ud83d\udc47\n\n#Shorts #Discipline #Growth"
+            },
+            "C": {
+              "angle": "Actionable Protocol",
+              "title": "How Ken Masters Daily Execution #Shorts",
+              "description": "The creator executes a high-stakes, aggressive Lava-hound and clone play while baiting the opponent's defensive spells to secure massive value.\n\nKey Takeaways:\n\u2022 Step 1: Lock in your standard\n\u2022 Step 2: Eliminate distractions\n\u2022 Step 3: Execute without emotion\n\nFeaturing Ken.\n\nWill you implement this today? Tell us below! \ud83d\udc47\n\n#Shorts #Performance #DailyHabits"
+            }
+          },
+          "active_variant": "A",
+          "test_status": "ACTIVE_TEST",
+          "variant_history": [
+            {
+              "variant": "A",
+              "title": "The Real Secret Behind Lava-hound Clone Strat #Shorts",
+              "deployed_at": 1792212714.782079,
+              "reason": "Initial A/B test deployment"
+            }
+          ],
+          "metrics": {
+            "views": 0,
+            "likes": 0,
+            "comments": 0,
+            "retention": 0.0,
+            "ctr": 0.0
+          }
+        },
+        "reframed": "gaming_split"
+      },
       {
         "id": "ken_1791972067_0",
         "source_video": "2.3 brainrot cycle",

@@ -1,6 +1,6 @@
 {
-  "timestamp": 1792269100.394183,
-  "sync_time_iso": "2026-10-17T20:31:40Z",
+  "timestamp": 1792269162.1951091,
+  "sync_time_iso": "2026-10-17T20:32:42Z",
   "default_channel": "ken_clips_burger",
   "channels": {
     "ken_clips_burger": {
@@ -96,14 +96,14 @@
           "current_task": "Queue up to date. Waiting for next daily Ken upload.",
           "last_completed_task": "Ingested 5 recent Ken master videos into source pool",
           "recent_logs": [
-            "[16:22:10] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
-            "[16:22:21] Queue up to date. Waiting for next daily Ken upload.",
             "[16:24:40] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
             "[16:24:51] Queue up to date. Waiting for next daily Ken upload.",
             "[16:27:11] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
             "[16:27:24] Queue up to date. Waiting for next daily Ken upload.",
             "[16:29:44] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
-            "[16:29:57] Queue up to date. Waiting for next daily Ken upload."
+            "[16:29:57] Queue up to date. Waiting for next daily Ken upload.",
+            "[16:32:17] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
+            "[16:32:29] Queue up to date. Waiting for next daily Ken upload."
           ]
         },
         "STRATEGIST": {
@@ -147,17 +147,17 @@
         },
         "PUBLISHER": {
           "status": "working",
-          "current_task": "Upload staged for automatic retry: ken_1792212492_6",
+          "current_task": "Deploying to YouTube (@kenclipsburger420) for release 10:15 PM ET (Sun, Oct 18)...",
           "last_completed_task": "Uploaded all 3 initial Clash Royale gaming cuts to YouTube (kenclipsburger420)",
           "recent_logs": [
-            "[16:27:24] Generating gaming A/B metadata for slot: 10:15 PM ET (Sun, Oct 18)...",
-            "[16:27:27] Deploying to YouTube (@kenclipsburger420) for release 10:15 PM ET (Sun, Oct 18)...",
             "[16:27:44] YouTube upload error: <HttpError 429 when requesting None returned \"Quota exceeded for quota metric 'Video Uploads' and limit 'Video Uploads per day' of service 'youtube.googleapis.com' for consumer 'project_number:644580298656'.\". Details: \"[{'message': \"Quota exceeded for quota metric 'Video Uploads' and limit 'Video Uploads per day' of service 'youtube.googleapis.com' for consumer 'project_number:644580298656'.\", 'domain': 'global', 'reason': 'rateLimitExceeded'}]\">",
             "[16:27:44] Upload staged for automatic retry: ken_1792212492_6",
             "[16:29:57] Generating gaming A/B metadata for slot: 10:15 PM ET (Sun, Oct 18)...",
             "[16:30:01] Deploying to YouTube (@kenclipsburger420) for release 10:15 PM ET (Sun, Oct 18)...",
             "[16:30:17] YouTube upload error: <HttpError 429 when requesting None returned \"Quota exceeded for quota metric 'Video Uploads' and limit 'Video Uploads per day' of service 'youtube.googleapis.com' for consumer 'project_number:644580298656'.\". Details: \"[{'message': \"Quota exceeded for quota metric 'Video Uploads' and limit 'Video Uploads per day' of service 'youtube.googleapis.com' for consumer 'project_number:644580298656'.\", 'domain': 'global', 'reason': 'rateLimitExceeded'}]\">",
-            "[16:30:17] Upload staged for automatic retry: ken_1792212492_6"
+            "[16:30:17] Upload staged for automatic retry: ken_1792212492_6",
+            "[16:32:29] Generating gaming A/B metadata for slot: 10:15 PM ET (Sun, Oct 18)...",
+            "[16:32:31] Deploying to YouTube (@kenclipsburger420) for release 10:15 PM ET (Sun, Oct 18)..."
           ]
         },
         "ANALYST": {
@@ -554,22 +554,6 @@
       },
       "calendar": {
         "scheduled": [
-          {
-            "id": "ken_1792158197_0",
-            "source_video": "weirdest buff ever",
-            "creator": "Ken",
-            "title": "Clash Royale Just Broke This Card... #Shorts",
-            "publish_at": "2026-10-17T20:30:00Z",
-            "status": "SCHEDULED",
-            "uploaded": true,
-            "youtube_video_id": "CFdP--K5DVg",
-            "youtube_url": "https://www.youtube.com/shorts/CFdP--K5DVg",
-            "video_file": "ken_1792158197_0_master.mp4",
-            "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792158197_0_master.mp4",
-            "duration": 27.4,
-            "hook_summary": "Ken reacts to the single weirdest card buff in Clash Royale history.",
-            "reframed": "gaming_split"
-          },
           {
             "id": "ken_1792212492_0",
             "source_video": "weirdest buff ever [Clutch Moment]",
@@ -969,6 +953,22 @@
         ],
         "held": [],
         "published": [
+          {
+            "id": "ken_1792158197_0",
+            "source_video": "weirdest buff ever",
+            "creator": "Ken",
+            "title": "Clash Royale Just Broke This Card... #Shorts",
+            "publish_at": "2026-10-17T20:30:00Z",
+            "status": "PUBLISHED",
+            "uploaded": true,
+            "youtube_video_id": "CFdP--K5DVg",
+            "youtube_url": "https://www.youtube.com/shorts/CFdP--K5DVg",
+            "video_file": "ken_1792158197_0_master.mp4",
+            "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792158197_0_master.mp4",
+            "duration": 27.4,
+            "hook_summary": "Ken reacts to the single weirdest card buff in Clash Royale history.",
+            "reframed": "gaming_split"
+          },
           {
             "id": "ken_1792158197_0",
             "source_video": "weirdest buff ever",
@@ -4441,14 +4441,14 @@
       "current_task": "Queue up to date. Waiting for next daily Ken upload.",
       "last_completed_task": "Ingested 5 recent Ken master videos into source pool",
       "recent_logs": [
-        "[16:22:10] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
-        "[16:22:21] Queue up to date. Waiting for next daily Ken upload.",
         "[16:24:40] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
         "[16:24:51] Queue up to date. Waiting for next daily Ken upload.",
         "[16:27:11] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
         "[16:27:24] Queue up to date. Waiting for next daily Ken upload.",
         "[16:29:44] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
-        "[16:29:57] Queue up to date. Waiting for next daily Ken upload."
+        "[16:29:57] Queue up to date. Waiting for next daily Ken upload.",
+        "[16:32:17] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
+        "[16:32:29] Queue up to date. Waiting for next daily Ken upload."
       ]
     },
     "STRATEGIST": {
@@ -4492,17 +4492,17 @@
     },
     "PUBLISHER": {
       "status": "working",
-      "current_task": "Upload staged for automatic retry: ken_1792212492_6",
+      "current_task": "Deploying to YouTube (@kenclipsburger420) for release 10:15 PM ET (Sun, Oct 18)...",
       "last_completed_task": "Uploaded all 3 initial Clash Royale gaming cuts to YouTube (kenclipsburger420)",
       "recent_logs": [
-        "[16:27:24] Generating gaming A/B metadata for slot: 10:15 PM ET (Sun, Oct 18)...",
-        "[16:27:27] Deploying to YouTube (@kenclipsburger420) for release 10:15 PM ET (Sun, Oct 18)...",
         "[16:27:44] YouTube upload error: <HttpError 429 when requesting None returned \"Quota exceeded for quota metric 'Video Uploads' and limit 'Video Uploads per day' of service 'youtube.googleapis.com' for consumer 'project_number:644580298656'.\". Details: \"[{'message': \"Quota exceeded for quota metric 'Video Uploads' and limit 'Video Uploads per day' of service 'youtube.googleapis.com' for consumer 'project_number:644580298656'.\", 'domain': 'global', 'reason': 'rateLimitExceeded'}]\">",
         "[16:27:44] Upload staged for automatic retry: ken_1792212492_6",
         "[16:29:57] Generating gaming A/B metadata for slot: 10:15 PM ET (Sun, Oct 18)...",
         "[16:30:01] Deploying to YouTube (@kenclipsburger420) for release 10:15 PM ET (Sun, Oct 18)...",
         "[16:30:17] YouTube upload error: <HttpError 429 when requesting None returned \"Quota exceeded for quota metric 'Video Uploads' and limit 'Video Uploads per day' of service 'youtube.googleapis.com' for consumer 'project_number:644580298656'.\". Details: \"[{'message': \"Quota exceeded for quota metric 'Video Uploads' and limit 'Video Uploads per day' of service 'youtube.googleapis.com' for consumer 'project_number:644580298656'.\", 'domain': 'global', 'reason': 'rateLimitExceeded'}]\">",
-        "[16:30:17] Upload staged for automatic retry: ken_1792212492_6"
+        "[16:30:17] Upload staged for automatic retry: ken_1792212492_6",
+        "[16:32:29] Generating gaming A/B metadata for slot: 10:15 PM ET (Sun, Oct 18)...",
+        "[16:32:31] Deploying to YouTube (@kenclipsburger420) for release 10:15 PM ET (Sun, Oct 18)..."
       ]
     },
     "ANALYST": {
@@ -4899,22 +4899,6 @@
   },
   "calendar": {
     "scheduled": [
-      {
-        "id": "ken_1792158197_0",
-        "source_video": "weirdest buff ever",
-        "creator": "Ken",
-        "title": "Clash Royale Just Broke This Card... #Shorts",
-        "publish_at": "2026-10-17T20:30:00Z",
-        "status": "SCHEDULED",
-        "uploaded": true,
-        "youtube_video_id": "CFdP--K5DVg",
-        "youtube_url": "https://www.youtube.com/shorts/CFdP--K5DVg",
-        "video_file": "ken_1792158197_0_master.mp4",
-        "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792158197_0_master.mp4",
-        "duration": 27.4,
-        "hook_summary": "Ken reacts to the single weirdest card buff in Clash Royale history.",
-        "reframed": "gaming_split"
-      },
       {
         "id": "ken_1792212492_0",
         "source_video": "weirdest buff ever [Clutch Moment]",
@@ -5314,6 +5298,22 @@
     ],
     "held": [],
     "published": [
+      {
+        "id": "ken_1792158197_0",
+        "source_video": "weirdest buff ever",
+        "creator": "Ken",
+        "title": "Clash Royale Just Broke This Card... #Shorts",
+        "publish_at": "2026-10-17T20:30:00Z",
+        "status": "PUBLISHED",
+        "uploaded": true,
+        "youtube_video_id": "CFdP--K5DVg",
+        "youtube_url": "https://www.youtube.com/shorts/CFdP--K5DVg",
+        "video_file": "ken_1792158197_0_master.mp4",
+        "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792158197_0_master.mp4",
+        "duration": 27.4,
+        "hook_summary": "Ken reacts to the single weirdest card buff in Clash Royale history.",
+        "reframed": "gaming_split"
+      },
       {
         "id": "ken_1792158197_0",
         "source_video": "weirdest buff ever",

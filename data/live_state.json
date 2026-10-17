@@ -1,6 +1,6 @@
 {
-  "timestamp": 1792213320.7760372,
-  "sync_time_iso": "2026-10-17T05:02:00Z",
+  "timestamp": 1792213384.0567071,
+  "sync_time_iso": "2026-10-17T05:03:04Z",
   "default_channel": "ken_clips_burger",
   "channels": {
     "ken_clips_burger": {
@@ -96,14 +96,14 @@
           "current_task": "Queue up to date. Waiting for next daily Ken upload.",
           "last_completed_task": "Ingested 5 recent Ken master videos into source pool",
           "recent_logs": [
-            "[00:49:44] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
-            "[00:49:56] Queue up to date. Waiting for next daily Ken upload.",
             "[00:52:45] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
             "[00:52:57] Queue up to date. Waiting for next daily Ken upload.",
             "[00:56:13] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
             "[00:56:24] Queue up to date. Waiting for next daily Ken upload.",
             "[00:59:17] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
-            "[00:59:28] Queue up to date. Waiting for next daily Ken upload."
+            "[00:59:28] Queue up to date. Waiting for next daily Ken upload.",
+            "[01:02:36] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
+            "[01:02:47] Queue up to date. Waiting for next daily Ken upload."
           ]
         },
         "STRATEGIST": {
@@ -123,17 +123,17 @@
         },
         "EDITOR": {
           "status": "working",
-          "current_task": "Rendering gaming_split Short with captions: they added gifs [Clutch Moment",
+          "current_task": "Rendering gaming_split Short with captions: they added gifs [Overtime Batt",
           "last_completed_task": "Rendered 'hp buffed' rage highlight with kinetic pop captions & commentary",
           "recent_logs": [
-            "[00:48:13] Rendering gaming_split Short with captions: weirdest buff ever",
-            "[00:49:57] Rendering gaming_split Short with captions: weirdest buff ever",
             "[00:52:57] Downloading highlight segment (*300-480) for: weirdest buff ever [Clutch Moment]...",
             "[00:53:05] Rendering gaming_split Short with captions: weirdest buff ever [Clutch Mom",
             "[00:56:24] Downloading highlight segment (*540-720) for: weirdest buff ever [Overtime Battle...",
             "[00:56:27] Rendering gaming_split Short with captions: weirdest buff ever [Overtime B",
             "[00:59:28] Downloading highlight segment (*300-480) for: they added gifs [Clutch Moment]...",
-            "[00:59:32] Rendering gaming_split Short with captions: they added gifs [Clutch Moment"
+            "[00:59:32] Rendering gaming_split Short with captions: they added gifs [Clutch Moment",
+            "[01:02:47] Downloading highlight segment (*540-720) for: they added gifs [Overtime Battle]...",
+            "[01:02:52] Rendering gaming_split Short with captions: they added gifs [Overtime Batt"
           ]
         },
         "COMMENTATOR": {
@@ -201,7 +201,7 @@
             "url": "https://www.youtube.com/watch?v=ibqwuwJ_6x0",
             "section": "*540-720",
             "duration": 975,
-            "status": "QUEUED",
+            "status": "PROCESSING",
             "added_at": "2026-10-17T04:48:12Z"
           },
           {
@@ -4203,14 +4203,14 @@
       "current_task": "Queue up to date. Waiting for next daily Ken upload.",
       "last_completed_task": "Ingested 5 recent Ken master videos into source pool",
       "recent_logs": [
-        "[00:49:44] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
-        "[00:49:56] Queue up to date. Waiting for next daily Ken upload.",
         "[00:52:45] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
         "[00:52:57] Queue up to date. Waiting for next daily Ken upload.",
         "[00:56:13] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
         "[00:56:24] Queue up to date. Waiting for next daily Ken upload.",
         "[00:59:17] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
-        "[00:59:28] Queue up to date. Waiting for next daily Ken upload."
+        "[00:59:28] Queue up to date. Waiting for next daily Ken upload.",
+        "[01:02:36] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
+        "[01:02:47] Queue up to date. Waiting for next daily Ken upload."
       ]
     },
     "STRATEGIST": {
@@ -4230,17 +4230,17 @@
     },
     "EDITOR": {
       "status": "working",
-      "current_task": "Rendering gaming_split Short with captions: they added gifs [Clutch Moment",
+      "current_task": "Rendering gaming_split Short with captions: they added gifs [Overtime Batt",
       "last_completed_task": "Rendered 'hp buffed' rage highlight with kinetic pop captions & commentary",
       "recent_logs": [
-        "[00:48:13] Rendering gaming_split Short with captions: weirdest buff ever",
-        "[00:49:57] Rendering gaming_split Short with captions: weirdest buff ever",
         "[00:52:57] Downloading highlight segment (*300-480) for: weirdest buff ever [Clutch Moment]...",
         "[00:53:05] Rendering gaming_split Short with captions: weirdest buff ever [Clutch Mom",
         "[00:56:24] Downloading highlight segment (*540-720) for: weirdest buff ever [Overtime Battle...",
         "[00:56:27] Rendering gaming_split Short with captions: weirdest buff ever [Overtime B",
         "[00:59:28] Downloading highlight segment (*300-480) for: they added gifs [Clutch Moment]...",
-        "[00:59:32] Rendering gaming_split Short with captions: they added gifs [Clutch Moment"
+        "[00:59:32] Rendering gaming_split Short with captions: they added gifs [Clutch Moment",
+        "[01:02:47] Downloading highlight segment (*540-720) for: they added gifs [Overtime Battle]...",
+        "[01:02:52] Rendering gaming_split Short with captions: they added gifs [Overtime Batt"
       ]
     },
     "COMMENTATOR": {
@@ -4308,7 +4308,7 @@
         "url": "https://www.youtube.com/watch?v=ibqwuwJ_6x0",
         "section": "*540-720",
         "duration": 975,
-        "status": "QUEUED",
+        "status": "PROCESSING",
         "added_at": "2026-10-17T04:48:12Z"
       },
       {

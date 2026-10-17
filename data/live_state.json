@@ -1,6 +1,6 @@
 {
-  "timestamp": 1792212275.617166,
-  "sync_time_iso": "2026-10-17T04:44:35Z",
+  "timestamp": 1792212337.269784,
+  "sync_time_iso": "2026-10-17T04:45:37Z",
   "default_channel": "muk_podcast",
   "channels": {
     "muk_podcast": {
@@ -18,12 +18,14 @@
         "gemini_model": "gemini-3-flash-preview",
         "whisper_model": "tiny",
         "emergency_stop": false,
-        "autopilot_engaged": true,
+        "autopilot_engaged": false,
+        "paused": true,
+        "pause_reason": "Paused by studio direction to focus 100% of compute, quota, and uploads on KenClipsBurger420",
         "demo_approved": true,
         "publishing": {
-          "enabled": true,
+          "enabled": false,
           "daily_target": 3,
-          "current_cadence": 3,
+          "current_cadence": 0,
           "scheduled_times": [
             "11:30",
             "15:30",
@@ -1502,13 +1504,15 @@
         },
         "publishing": {
           "enabled": true,
-          "daily_target": 3,
+          "daily_target": 5,
           "channel_id": "UCsBZAgHGlc5GU7r4E-8tUyA",
           "channel_name": "kenclipsburger420",
           "scheduled_times": [
-            "12:00",
+            "10:00",
+            "13:00",
             "16:30",
-            "20:15"
+            "19:30",
+            "22:15"
           ],
           "privacy_status": "private",
           "daily_quota_limit": 10000,
@@ -1519,9 +1523,19 @@
             "KenClashRoyale",
             "Gaming",
             "ClashRoyaleMemes",
-            "GamingShorts"
+            "GamingShorts",
+            "Supercell"
           ],
           "oauth_connected": true
+        },
+        "ypp_monetization_goals": {
+          "target_subscribers": 500,
+          "current_subscribers": 2,
+          "target_shorts_views_90d": 3000000,
+          "target_watch_hours_365d": 3000,
+          "daily_shorts_cadence": 5,
+          "two_step_verification_status": "ACTION_REQUIRED_IN_GOOGLE_ACCOUNT",
+          "upload_limit_status": "UNLOCK_VIA_YOUTUBE_STUDIO_FEATURE_ELIGIBILITY"
         },
         "editor": {
           "layout_mode": "gaming_split",
@@ -2379,9 +2393,12 @@
             "target_weight_pct": 15
           }
         ],
+        "paused": true,
+        "pause_reason": "Paused by studio direction to focus 100% of compute, quota, and uploads on KenClipsBurger420",
         "publishing": {
-          "enabled": true,
+          "enabled": false,
           "daily_target": 3,
+          "current_cadence": 0,
           "channel_id": "UCcNdnkFH4m9C3rUunbOEaSg",
           "channel_name": "abiclitsalot",
           "scheduled_times": [
@@ -3596,12 +3613,14 @@
     "gemini_model": "gemini-3-flash-preview",
     "whisper_model": "tiny",
     "emergency_stop": false,
-    "autopilot_engaged": true,
+    "autopilot_engaged": false,
+    "paused": true,
+    "pause_reason": "Paused by studio direction to focus 100% of compute, quota, and uploads on KenClipsBurger420",
     "demo_approved": true,
     "publishing": {
-      "enabled": true,
+      "enabled": false,
       "daily_target": 3,
-      "current_cadence": 3,
+      "current_cadence": 0,
       "scheduled_times": [
         "11:30",
         "15:30",

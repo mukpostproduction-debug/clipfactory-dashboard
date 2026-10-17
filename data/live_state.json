@@ -1,6 +1,6 @@
 {
-  "timestamp": 1792256998.148566,
-  "sync_time_iso": "2026-10-17T17:09:58Z",
+  "timestamp": 1792257059.933737,
+  "sync_time_iso": "2026-10-17T17:10:59Z",
   "default_channel": "ken_clips_burger",
   "channels": {
     "ken_clips_burger": {
@@ -96,14 +96,14 @@
           "current_task": "Queue up to date. Waiting for next daily Ken upload.",
           "last_completed_task": "Ingested 5 recent Ken master videos into source pool",
           "recent_logs": [
-            "[12:36:40] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
-            "[12:36:50] Queue up to date. Waiting for next daily Ken upload.",
             "[12:39:10] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
             "[12:39:21] Queue up to date. Waiting for next daily Ken upload.",
             "[12:42:38] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
             "[12:48:25] Queue up to date. Waiting for next daily Ken upload.",
             "[12:59:47] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
-            "[13:00:02] Queue up to date. Waiting for next daily Ken upload."
+            "[13:00:02] Queue up to date. Waiting for next daily Ken upload.",
+            "[13:10:45] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
+            "[13:10:56] Queue up to date. Waiting for next daily Ken upload."
           ]
         },
         "STRATEGIST": {
@@ -147,17 +147,17 @@
         },
         "PUBLISHER": {
           "status": "working",
-          "current_task": "Upload staged for automatic retry: ken_1792212492_6",
+          "current_task": "Deploying to YouTube (@kenclipsburger420) for release 10:15 PM ET (Sun, Oct 18)...",
           "last_completed_task": "Uploaded all 3 initial Clash Royale gaming cuts to YouTube (kenclipsburger420)",
           "recent_logs": [
-            "[12:48:25] Generating gaming A/B metadata for slot: 10:15 PM ET (Sun, Oct 18)...",
-            "[12:48:28] Deploying to YouTube (@kenclipsburger420) for release 10:15 PM ET (Sun, Oct 18)...",
             "[12:48:47] YouTube upload error: <HttpError 429 when requesting None returned \"Quota exceeded for quota metric 'Video Uploads' and limit 'Video Uploads per day' of service 'youtube.googleapis.com' for consumer 'project_number:644580298656'.\". Details: \"[{'message': \"Quota exceeded for quota metric 'Video Uploads' and limit 'Video Uploads per day' of service 'youtube.googleapis.com' for consumer 'project_number:644580298656'.\", 'domain': 'global', 'reason': 'rateLimitExceeded'}]\">",
             "[12:48:47] Upload staged for automatic retry: ken_1792212492_6",
             "[13:00:02] Generating gaming A/B metadata for slot: 10:15 PM ET (Sun, Oct 18)...",
             "[13:00:05] Deploying to YouTube (@kenclipsburger420) for release 10:15 PM ET (Sun, Oct 18)...",
             "[13:08:45] YouTube upload error: <HttpError 429 when requesting None returned \"Quota exceeded for quota metric 'Video Uploads' and limit 'Video Uploads per day' of service 'youtube.googleapis.com' for consumer 'project_number:644580298656'.\". Details: \"[{'message': \"Quota exceeded for quota metric 'Video Uploads' and limit 'Video Uploads per day' of service 'youtube.googleapis.com' for consumer 'project_number:644580298656'.\", 'domain': 'global', 'reason': 'rateLimitExceeded'}]\">",
-            "[13:08:45] Upload staged for automatic retry: ken_1792212492_6"
+            "[13:08:45] Upload staged for automatic retry: ken_1792212492_6",
+            "[13:10:56] Generating gaming A/B metadata for slot: 10:15 PM ET (Sun, Oct 18)...",
+            "[13:10:59] Deploying to YouTube (@kenclipsburger420) for release 10:15 PM ET (Sun, Oct 18)..."
           ]
         },
         "ANALYST": {
@@ -4441,14 +4441,14 @@
       "current_task": "Queue up to date. Waiting for next daily Ken upload.",
       "last_completed_task": "Ingested 5 recent Ken master videos into source pool",
       "recent_logs": [
-        "[12:36:40] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
-        "[12:36:50] Queue up to date. Waiting for next daily Ken upload.",
         "[12:39:10] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
         "[12:39:21] Queue up to date. Waiting for next daily Ken upload.",
         "[12:42:38] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
         "[12:48:25] Queue up to date. Waiting for next daily Ken upload.",
         "[12:59:47] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
-        "[13:00:02] Queue up to date. Waiting for next daily Ken upload."
+        "[13:00:02] Queue up to date. Waiting for next daily Ken upload.",
+        "[13:10:45] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
+        "[13:10:56] Queue up to date. Waiting for next daily Ken upload."
       ]
     },
     "STRATEGIST": {
@@ -4492,17 +4492,17 @@
     },
     "PUBLISHER": {
       "status": "working",
-      "current_task": "Upload staged for automatic retry: ken_1792212492_6",
+      "current_task": "Deploying to YouTube (@kenclipsburger420) for release 10:15 PM ET (Sun, Oct 18)...",
       "last_completed_task": "Uploaded all 3 initial Clash Royale gaming cuts to YouTube (kenclipsburger420)",
       "recent_logs": [
-        "[12:48:25] Generating gaming A/B metadata for slot: 10:15 PM ET (Sun, Oct 18)...",
-        "[12:48:28] Deploying to YouTube (@kenclipsburger420) for release 10:15 PM ET (Sun, Oct 18)...",
         "[12:48:47] YouTube upload error: <HttpError 429 when requesting None returned \"Quota exceeded for quota metric 'Video Uploads' and limit 'Video Uploads per day' of service 'youtube.googleapis.com' for consumer 'project_number:644580298656'.\". Details: \"[{'message': \"Quota exceeded for quota metric 'Video Uploads' and limit 'Video Uploads per day' of service 'youtube.googleapis.com' for consumer 'project_number:644580298656'.\", 'domain': 'global', 'reason': 'rateLimitExceeded'}]\">",
         "[12:48:47] Upload staged for automatic retry: ken_1792212492_6",
         "[13:00:02] Generating gaming A/B metadata for slot: 10:15 PM ET (Sun, Oct 18)...",
         "[13:00:05] Deploying to YouTube (@kenclipsburger420) for release 10:15 PM ET (Sun, Oct 18)...",
         "[13:08:45] YouTube upload error: <HttpError 429 when requesting None returned \"Quota exceeded for quota metric 'Video Uploads' and limit 'Video Uploads per day' of service 'youtube.googleapis.com' for consumer 'project_number:644580298656'.\". Details: \"[{'message': \"Quota exceeded for quota metric 'Video Uploads' and limit 'Video Uploads per day' of service 'youtube.googleapis.com' for consumer 'project_number:644580298656'.\", 'domain': 'global', 'reason': 'rateLimitExceeded'}]\">",
-        "[13:08:45] Upload staged for automatic retry: ken_1792212492_6"
+        "[13:08:45] Upload staged for automatic retry: ken_1792212492_6",
+        "[13:10:56] Generating gaming A/B metadata for slot: 10:15 PM ET (Sun, Oct 18)...",
+        "[13:10:59] Deploying to YouTube (@kenclipsburger420) for release 10:15 PM ET (Sun, Oct 18)..."
       ]
     },
     "ANALYST": {

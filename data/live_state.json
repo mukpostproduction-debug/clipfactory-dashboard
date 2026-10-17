@@ -1,6 +1,6 @@
 {
-  "timestamp": 1792279515.399284,
-  "sync_time_iso": "2026-10-17T23:25:15Z",
+  "timestamp": 1792279880.615894,
+  "sync_time_iso": "2026-10-17T23:31:20Z",
   "default_channel": "ken_clips_burger",
   "channels": {
     "ken_clips_burger": {
@@ -96,14 +96,14 @@
           "current_task": "Queue up to date. Waiting for next daily Ken upload.",
           "last_completed_task": "Ingested 5 recent Ken master videos into source pool",
           "recent_logs": [
-            "[18:50:12] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
-            "[18:50:22] Queue up to date. Waiting for next daily Ken upload.",
             "[18:55:17] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
             "[18:55:29] Queue up to date. Waiting for next daily Ken upload.",
             "[18:59:43] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
             "[18:59:56] Queue up to date. Waiting for next daily Ken upload.",
             "[19:21:00] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
-            "[19:21:12] Queue up to date. Waiting for next daily Ken upload."
+            "[19:21:12] Queue up to date. Waiting for next daily Ken upload.",
+            "[19:25:27] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
+            "[19:30:59] Queue up to date. Waiting for next daily Ken upload."
           ]
         },
         "STRATEGIST": {
@@ -150,14 +150,14 @@
           "current_task": "Upload staged for automatic retry: ken_1792212492_6",
           "last_completed_task": "Uploaded all 3 initial Clash Royale gaming cuts to YouTube (kenclipsburger420)",
           "recent_logs": [
-            "[18:59:56] Generating gaming A/B metadata for slot: 10:15 PM ET (Sun, Oct 18)...",
-            "[19:15:24] Deploying to YouTube (@kenclipsburger420) for release 10:15 PM ET (Sun, Oct 18)...",
-            "[19:15:41] YouTube upload error: <HttpError 429 when requesting None returned \"Quota exceeded for quota metric 'Video Uploads' and limit 'Video Uploads per day' of service 'youtube.googleapis.com' for consumer 'project_number:644580298656'.\". Details: \"[{'message': \"Quota exceeded for quota metric 'Video Uploads' and limit 'Video Uploads per day' of service 'youtube.googleapis.com' for consumer 'project_number:644580298656'.\", 'domain': 'global', 'reason': 'rateLimitExceeded'}]\">",
-            "[19:15:41] Upload staged for automatic retry: ken_1792212492_6",
             "[19:21:12] Generating gaming A/B metadata for slot: 10:15 PM ET (Sun, Oct 18)...",
             "[19:21:23] Deploying to YouTube (@kenclipsburger420) for release 10:15 PM ET (Sun, Oct 18)...",
             "[19:21:40] YouTube upload error: <HttpError 429 when requesting None returned \"Quota exceeded for quota metric 'Video Uploads' and limit 'Video Uploads per day' of service 'youtube.googleapis.com' for consumer 'project_number:644580298656'.\". Details: \"[{'message': \"Quota exceeded for quota metric 'Video Uploads' and limit 'Video Uploads per day' of service 'youtube.googleapis.com' for consumer 'project_number:644580298656'.\", 'domain': 'global', 'reason': 'rateLimitExceeded'}]\">",
-            "[19:21:40] Upload staged for automatic retry: ken_1792212492_6"
+            "[19:21:40] Upload staged for automatic retry: ken_1792212492_6",
+            "[19:30:59] Generating gaming A/B metadata for slot: 10:15 PM ET (Sun, Oct 18)...",
+            "[19:31:02] Deploying to YouTube (@kenclipsburger420) for release 10:15 PM ET (Sun, Oct 18)...",
+            "[19:31:19] YouTube upload error: <HttpError 429 when requesting None returned \"Quota exceeded for quota metric 'Video Uploads' and limit 'Video Uploads per day' of service 'youtube.googleapis.com' for consumer 'project_number:644580298656'.\". Details: \"[{'message': \"Quota exceeded for quota metric 'Video Uploads' and limit 'Video Uploads per day' of service 'youtube.googleapis.com' for consumer 'project_number:644580298656'.\", 'domain': 'global', 'reason': 'rateLimitExceeded'}]\">",
+            "[19:31:19] Upload staged for automatic retry: ken_1792212492_6"
           ]
         },
         "ANALYST": {
@@ -165,14 +165,14 @@
           "current_task": "Auditing velocity of active Ken Clash Royale Shorts...",
           "last_completed_task": "Calibrated gaming threshold: >15 views/hr within 4h",
           "recent_logs": [
-            "[18:11:24] Auditing velocity of active Ken Clash Royale Shorts...",
             "[18:18:47] Auditing velocity of active Ken Clash Royale Shorts...",
             "[18:45:41] Auditing velocity of active Ken Clash Royale Shorts...",
             "[18:48:11] Auditing velocity of active Ken Clash Royale Shorts...",
             "[18:50:42] Auditing velocity of active Ken Clash Royale Shorts...",
             "[18:56:18] Auditing velocity of active Ken Clash Royale Shorts...",
             "[19:15:41] Auditing velocity of active Ken Clash Royale Shorts...",
-            "[19:21:40] Auditing velocity of active Ken Clash Royale Shorts..."
+            "[19:21:40] Auditing velocity of active Ken Clash Royale Shorts...",
+            "[19:31:19] Auditing velocity of active Ken Clash Royale Shorts..."
           ]
         },
         "WATCHDOG": {
@@ -180,14 +180,14 @@
           "current_task": "Verifying Supercell fan policy: 0 claims, 0 strikes.",
           "last_completed_task": "Audited source parameters: strictly <30s segment rule active",
           "recent_logs": [
-            "[18:11:24] Verifying Supercell fan policy: 0 claims, 0 strikes.",
             "[18:18:47] Verifying Supercell fan policy: 0 claims, 0 strikes.",
             "[18:45:41] Verifying Supercell fan policy: 0 claims, 0 strikes.",
             "[18:48:11] Verifying Supercell fan policy: 0 claims, 0 strikes.",
             "[18:50:42] Verifying Supercell fan policy: 0 claims, 0 strikes.",
             "[18:56:18] Verifying Supercell fan policy: 0 claims, 0 strikes.",
             "[19:15:41] Verifying Supercell fan policy: 0 claims, 0 strikes.",
-            "[19:21:40] Verifying Supercell fan policy: 0 claims, 0 strikes."
+            "[19:21:40] Verifying Supercell fan policy: 0 claims, 0 strikes.",
+            "[19:31:19] Verifying Supercell fan policy: 0 claims, 0 strikes."
           ]
         }
       },
@@ -555,72 +555,6 @@
       "calendar": {
         "scheduled": [
           {
-            "id": "ken_1792212492_0",
-            "source_video": "weirdest buff ever [Clutch Moment]",
-            "creator": "Ken",
-            "title": "Why this banned Clone combo is illegal...",
-            "publish_at": "2026-10-17T23:30:00Z",
-            "status": "SCHEDULED",
-            "uploaded": true,
-            "youtube_video_id": "Eufly2coEvI",
-            "youtube_url": "https://www.youtube.com/shorts/Eufly2coEvI",
-            "video_file": "ken_1792212492_0_master.mp4",
-            "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792212492_0_master.mp4",
-            "duration": 24.69,
-            "hook_summary": "The player highlights how surprisingly overpowered the Clone card can be when paired with fast-hitting troops, catching opponents completely off guard.",
-            "metadata": {
-              "title": "Why this banned Clone combo is illegal...",
-              "description": "Most players think the Clone card is just a useless gimmick, until you pair it with this one specific troop. Watch how an entire push vanishes and instantly respawns to decimate the enemy tower before they even realize what happened.\n\n\u2022 Discover the exact troop synergy that makes Clone overpowered\n\u2022 See how to bait out opponent spells before dropping the spell\n\u2022 Master the timing to catch defenders completely off guard\n\nFeaturing: Ken\n\nHave you ever actually won a match using only cloned troops, or is this just a one-in-a-million fluke?\n\n#shorts #clashroyale #gaming #clonestrategy #ken #mobilegaming",
-              "tags": [
-                "Clash Royale",
-                "Clone Card",
-                "Ken Clash Royale",
-                "Clash Royale Shorts",
-                "Overpowered Combo",
-                "Clash Royale Strategy",
-                "Best Deck",
-                "Mobile Gaming",
-                "Clone Trick"
-              ],
-              "pinned_comment": "Be honest: have you ever actually lost to a Clone deck and rage-quit instantly? Let me know below! \ud83d\udc47",
-              "ab_variants": {
-                "A": {
-                  "angle": "Curiosity Gap",
-                  "title": "Why this banned Clone combo is illegal...",
-                  "description": "Most players think the Clone card is just a useless gimmick, until you pair it with this one specific troop. Watch how an entire push vanishes and instantly respawns to decimate the enemy tower before they even realize what happened.\n\n\u2022 Discover the exact troop synergy that makes Clone overpowered\n\u2022 See how to bait out opponent spells before dropping the spell\n\u2022 Master the timing to catch defenders completely off guard\n\nFeaturing: Ken\n\nHave you ever actually won a match using only cloned troops, or is this just a one-in-a-million fluke?\n\n#shorts #clashroyale #gaming #clonestrategy #ken #mobilegaming"
-                },
-                "B": {
-                  "angle": "Contrarian Truth",
-                  "title": "Stop sleeping on the worst card in the game",
-                  "description": "Everyone says Clone is a troll card that only works in low-ladder matches. They are completely wrong, and this clip proves why ignoring this strategy is costing you hundreds of trophies.\n\n\u2022 Debunking the myth that Clone has no competitive viability\n\u2022 The secret math behind double-damage fast-hitting units\n\u2022 Why top ladder players fear this specific interaction\n\nFeaturing: Ken\n\nIs Clone actually skill-less spam, or does it take a genius to pull this off consistently?\n\n#shorts #clashroyale #gaming #strategy #ken #viral"
-                },
-                "C": {
-                  "angle": "Actionable Protocol",
-                  "title": "How to use Clone like a top 10 global player",
-                  "description": "Stop wasting your elixir on random clone drops. Follow this step-by-step engagement rule to turn a single counter-attack into an unstoppable three-crown victory.\n\n\u2022 The 3-step sequence for executing the ultimate clone push\n\u2022 Exact placement guide to avoid area-damage spells\n\u2022 How to cycle your deck to get Clone back in hand instantly\n\nFeaturing: Ken\n\nWhat is your go-to card to pair with Clone in your main deck?\n\n#shorts #clashroyale #protips #gaming #ken #clonetricks"
-                }
-              },
-              "active_variant": "A",
-              "test_status": "ACTIVE_TEST",
-              "variant_history": [
-                {
-                  "variant": "A",
-                  "title": "Why this banned Clone combo is illegal...",
-                  "deployed_at": 1792212844.607857,
-                  "reason": "Initial A/B test deployment"
-                }
-              ],
-              "metrics": {
-                "views": 0,
-                "likes": 0,
-                "comments": 0,
-                "retention": 0.0,
-                "ctr": 0.0
-              }
-            },
-            "reframed": "gaming_split"
-          },
-          {
             "id": "ken_1792212492_1",
             "source_video": "weirdest buff ever [Overtime Battle]",
             "creator": "Ken",
@@ -953,6 +887,72 @@
         ],
         "held": [],
         "published": [
+          {
+            "id": "ken_1792212492_0",
+            "source_video": "weirdest buff ever [Clutch Moment]",
+            "creator": "Ken",
+            "title": "Why this banned Clone combo is illegal...",
+            "publish_at": "2026-10-17T23:30:00Z",
+            "status": "PUBLISHED",
+            "uploaded": true,
+            "youtube_video_id": "Eufly2coEvI",
+            "youtube_url": "https://www.youtube.com/shorts/Eufly2coEvI",
+            "video_file": "ken_1792212492_0_master.mp4",
+            "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792212492_0_master.mp4",
+            "duration": 24.69,
+            "hook_summary": "The player highlights how surprisingly overpowered the Clone card can be when paired with fast-hitting troops, catching opponents completely off guard.",
+            "metadata": {
+              "title": "Why this banned Clone combo is illegal...",
+              "description": "Most players think the Clone card is just a useless gimmick, until you pair it with this one specific troop. Watch how an entire push vanishes and instantly respawns to decimate the enemy tower before they even realize what happened.\n\n\u2022 Discover the exact troop synergy that makes Clone overpowered\n\u2022 See how to bait out opponent spells before dropping the spell\n\u2022 Master the timing to catch defenders completely off guard\n\nFeaturing: Ken\n\nHave you ever actually won a match using only cloned troops, or is this just a one-in-a-million fluke?\n\n#shorts #clashroyale #gaming #clonestrategy #ken #mobilegaming",
+              "tags": [
+                "Clash Royale",
+                "Clone Card",
+                "Ken Clash Royale",
+                "Clash Royale Shorts",
+                "Overpowered Combo",
+                "Clash Royale Strategy",
+                "Best Deck",
+                "Mobile Gaming",
+                "Clone Trick"
+              ],
+              "pinned_comment": "Be honest: have you ever actually lost to a Clone deck and rage-quit instantly? Let me know below! \ud83d\udc47",
+              "ab_variants": {
+                "A": {
+                  "angle": "Curiosity Gap",
+                  "title": "Why this banned Clone combo is illegal...",
+                  "description": "Most players think the Clone card is just a useless gimmick, until you pair it with this one specific troop. Watch how an entire push vanishes and instantly respawns to decimate the enemy tower before they even realize what happened.\n\n\u2022 Discover the exact troop synergy that makes Clone overpowered\n\u2022 See how to bait out opponent spells before dropping the spell\n\u2022 Master the timing to catch defenders completely off guard\n\nFeaturing: Ken\n\nHave you ever actually won a match using only cloned troops, or is this just a one-in-a-million fluke?\n\n#shorts #clashroyale #gaming #clonestrategy #ken #mobilegaming"
+                },
+                "B": {
+                  "angle": "Contrarian Truth",
+                  "title": "Stop sleeping on the worst card in the game",
+                  "description": "Everyone says Clone is a troll card that only works in low-ladder matches. They are completely wrong, and this clip proves why ignoring this strategy is costing you hundreds of trophies.\n\n\u2022 Debunking the myth that Clone has no competitive viability\n\u2022 The secret math behind double-damage fast-hitting units\n\u2022 Why top ladder players fear this specific interaction\n\nFeaturing: Ken\n\nIs Clone actually skill-less spam, or does it take a genius to pull this off consistently?\n\n#shorts #clashroyale #gaming #strategy #ken #viral"
+                },
+                "C": {
+                  "angle": "Actionable Protocol",
+                  "title": "How to use Clone like a top 10 global player",
+                  "description": "Stop wasting your elixir on random clone drops. Follow this step-by-step engagement rule to turn a single counter-attack into an unstoppable three-crown victory.\n\n\u2022 The 3-step sequence for executing the ultimate clone push\n\u2022 Exact placement guide to avoid area-damage spells\n\u2022 How to cycle your deck to get Clone back in hand instantly\n\nFeaturing: Ken\n\nWhat is your go-to card to pair with Clone in your main deck?\n\n#shorts #clashroyale #protips #gaming #ken #clonetricks"
+                }
+              },
+              "active_variant": "A",
+              "test_status": "ACTIVE_TEST",
+              "variant_history": [
+                {
+                  "variant": "A",
+                  "title": "Why this banned Clone combo is illegal...",
+                  "deployed_at": 1792212844.607857,
+                  "reason": "Initial A/B test deployment"
+                }
+              ],
+              "metrics": {
+                "views": 0,
+                "likes": 0,
+                "comments": 0,
+                "retention": 0.0,
+                "ctr": 0.0
+              }
+            },
+            "reframed": "gaming_split"
+          },
           {
             "id": "ken_1792158197_0",
             "source_video": "weirdest buff ever",
@@ -4441,14 +4441,14 @@
       "current_task": "Queue up to date. Waiting for next daily Ken upload.",
       "last_completed_task": "Ingested 5 recent Ken master videos into source pool",
       "recent_logs": [
-        "[18:50:12] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
-        "[18:50:22] Queue up to date. Waiting for next daily Ken upload.",
         "[18:55:17] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
         "[18:55:29] Queue up to date. Waiting for next daily Ken upload.",
         "[18:59:43] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
         "[18:59:56] Queue up to date. Waiting for next daily Ken upload.",
         "[19:21:00] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
-        "[19:21:12] Queue up to date. Waiting for next daily Ken upload."
+        "[19:21:12] Queue up to date. Waiting for next daily Ken upload.",
+        "[19:25:27] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
+        "[19:30:59] Queue up to date. Waiting for next daily Ken upload."
       ]
     },
     "STRATEGIST": {
@@ -4495,14 +4495,14 @@
       "current_task": "Upload staged for automatic retry: ken_1792212492_6",
       "last_completed_task": "Uploaded all 3 initial Clash Royale gaming cuts to YouTube (kenclipsburger420)",
       "recent_logs": [
-        "[18:59:56] Generating gaming A/B metadata for slot: 10:15 PM ET (Sun, Oct 18)...",
-        "[19:15:24] Deploying to YouTube (@kenclipsburger420) for release 10:15 PM ET (Sun, Oct 18)...",
-        "[19:15:41] YouTube upload error: <HttpError 429 when requesting None returned \"Quota exceeded for quota metric 'Video Uploads' and limit 'Video Uploads per day' of service 'youtube.googleapis.com' for consumer 'project_number:644580298656'.\". Details: \"[{'message': \"Quota exceeded for quota metric 'Video Uploads' and limit 'Video Uploads per day' of service 'youtube.googleapis.com' for consumer 'project_number:644580298656'.\", 'domain': 'global', 'reason': 'rateLimitExceeded'}]\">",
-        "[19:15:41] Upload staged for automatic retry: ken_1792212492_6",
         "[19:21:12] Generating gaming A/B metadata for slot: 10:15 PM ET (Sun, Oct 18)...",
         "[19:21:23] Deploying to YouTube (@kenclipsburger420) for release 10:15 PM ET (Sun, Oct 18)...",
         "[19:21:40] YouTube upload error: <HttpError 429 when requesting None returned \"Quota exceeded for quota metric 'Video Uploads' and limit 'Video Uploads per day' of service 'youtube.googleapis.com' for consumer 'project_number:644580298656'.\". Details: \"[{'message': \"Quota exceeded for quota metric 'Video Uploads' and limit 'Video Uploads per day' of service 'youtube.googleapis.com' for consumer 'project_number:644580298656'.\", 'domain': 'global', 'reason': 'rateLimitExceeded'}]\">",
-        "[19:21:40] Upload staged for automatic retry: ken_1792212492_6"
+        "[19:21:40] Upload staged for automatic retry: ken_1792212492_6",
+        "[19:30:59] Generating gaming A/B metadata for slot: 10:15 PM ET (Sun, Oct 18)...",
+        "[19:31:02] Deploying to YouTube (@kenclipsburger420) for release 10:15 PM ET (Sun, Oct 18)...",
+        "[19:31:19] YouTube upload error: <HttpError 429 when requesting None returned \"Quota exceeded for quota metric 'Video Uploads' and limit 'Video Uploads per day' of service 'youtube.googleapis.com' for consumer 'project_number:644580298656'.\". Details: \"[{'message': \"Quota exceeded for quota metric 'Video Uploads' and limit 'Video Uploads per day' of service 'youtube.googleapis.com' for consumer 'project_number:644580298656'.\", 'domain': 'global', 'reason': 'rateLimitExceeded'}]\">",
+        "[19:31:19] Upload staged for automatic retry: ken_1792212492_6"
       ]
     },
     "ANALYST": {
@@ -4510,14 +4510,14 @@
       "current_task": "Auditing velocity of active Ken Clash Royale Shorts...",
       "last_completed_task": "Calibrated gaming threshold: >15 views/hr within 4h",
       "recent_logs": [
-        "[18:11:24] Auditing velocity of active Ken Clash Royale Shorts...",
         "[18:18:47] Auditing velocity of active Ken Clash Royale Shorts...",
         "[18:45:41] Auditing velocity of active Ken Clash Royale Shorts...",
         "[18:48:11] Auditing velocity of active Ken Clash Royale Shorts...",
         "[18:50:42] Auditing velocity of active Ken Clash Royale Shorts...",
         "[18:56:18] Auditing velocity of active Ken Clash Royale Shorts...",
         "[19:15:41] Auditing velocity of active Ken Clash Royale Shorts...",
-        "[19:21:40] Auditing velocity of active Ken Clash Royale Shorts..."
+        "[19:21:40] Auditing velocity of active Ken Clash Royale Shorts...",
+        "[19:31:19] Auditing velocity of active Ken Clash Royale Shorts..."
       ]
     },
     "WATCHDOG": {
@@ -4525,14 +4525,14 @@
       "current_task": "Verifying Supercell fan policy: 0 claims, 0 strikes.",
       "last_completed_task": "Audited source parameters: strictly <30s segment rule active",
       "recent_logs": [
-        "[18:11:24] Verifying Supercell fan policy: 0 claims, 0 strikes.",
         "[18:18:47] Verifying Supercell fan policy: 0 claims, 0 strikes.",
         "[18:45:41] Verifying Supercell fan policy: 0 claims, 0 strikes.",
         "[18:48:11] Verifying Supercell fan policy: 0 claims, 0 strikes.",
         "[18:50:42] Verifying Supercell fan policy: 0 claims, 0 strikes.",
         "[18:56:18] Verifying Supercell fan policy: 0 claims, 0 strikes.",
         "[19:15:41] Verifying Supercell fan policy: 0 claims, 0 strikes.",
-        "[19:21:40] Verifying Supercell fan policy: 0 claims, 0 strikes."
+        "[19:21:40] Verifying Supercell fan policy: 0 claims, 0 strikes.",
+        "[19:31:19] Verifying Supercell fan policy: 0 claims, 0 strikes."
       ]
     }
   },
@@ -4900,72 +4900,6 @@
   "calendar": {
     "scheduled": [
       {
-        "id": "ken_1792212492_0",
-        "source_video": "weirdest buff ever [Clutch Moment]",
-        "creator": "Ken",
-        "title": "Why this banned Clone combo is illegal...",
-        "publish_at": "2026-10-17T23:30:00Z",
-        "status": "SCHEDULED",
-        "uploaded": true,
-        "youtube_video_id": "Eufly2coEvI",
-        "youtube_url": "https://www.youtube.com/shorts/Eufly2coEvI",
-        "video_file": "ken_1792212492_0_master.mp4",
-        "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792212492_0_master.mp4",
-        "duration": 24.69,
-        "hook_summary": "The player highlights how surprisingly overpowered the Clone card can be when paired with fast-hitting troops, catching opponents completely off guard.",
-        "metadata": {
-          "title": "Why this banned Clone combo is illegal...",
-          "description": "Most players think the Clone card is just a useless gimmick, until you pair it with this one specific troop. Watch how an entire push vanishes and instantly respawns to decimate the enemy tower before they even realize what happened.\n\n\u2022 Discover the exact troop synergy that makes Clone overpowered\n\u2022 See how to bait out opponent spells before dropping the spell\n\u2022 Master the timing to catch defenders completely off guard\n\nFeaturing: Ken\n\nHave you ever actually won a match using only cloned troops, or is this just a one-in-a-million fluke?\n\n#shorts #clashroyale #gaming #clonestrategy #ken #mobilegaming",
-          "tags": [
-            "Clash Royale",
-            "Clone Card",
-            "Ken Clash Royale",
-            "Clash Royale Shorts",
-            "Overpowered Combo",
-            "Clash Royale Strategy",
-            "Best Deck",
-            "Mobile Gaming",
-            "Clone Trick"
-          ],
-          "pinned_comment": "Be honest: have you ever actually lost to a Clone deck and rage-quit instantly? Let me know below! \ud83d\udc47",
-          "ab_variants": {
-            "A": {
-              "angle": "Curiosity Gap",
-              "title": "Why this banned Clone combo is illegal...",
-              "description": "Most players think the Clone card is just a useless gimmick, until you pair it with this one specific troop. Watch how an entire push vanishes and instantly respawns to decimate the enemy tower before they even realize what happened.\n\n\u2022 Discover the exact troop synergy that makes Clone overpowered\n\u2022 See how to bait out opponent spells before dropping the spell\n\u2022 Master the timing to catch defenders completely off guard\n\nFeaturing: Ken\n\nHave you ever actually won a match using only cloned troops, or is this just a one-in-a-million fluke?\n\n#shorts #clashroyale #gaming #clonestrategy #ken #mobilegaming"
-            },
-            "B": {
-              "angle": "Contrarian Truth",
-              "title": "Stop sleeping on the worst card in the game",
-              "description": "Everyone says Clone is a troll card that only works in low-ladder matches. They are completely wrong, and this clip proves why ignoring this strategy is costing you hundreds of trophies.\n\n\u2022 Debunking the myth that Clone has no competitive viability\n\u2022 The secret math behind double-damage fast-hitting units\n\u2022 Why top ladder players fear this specific interaction\n\nFeaturing: Ken\n\nIs Clone actually skill-less spam, or does it take a genius to pull this off consistently?\n\n#shorts #clashroyale #gaming #strategy #ken #viral"
-            },
-            "C": {
-              "angle": "Actionable Protocol",
-              "title": "How to use Clone like a top 10 global player",
-              "description": "Stop wasting your elixir on random clone drops. Follow this step-by-step engagement rule to turn a single counter-attack into an unstoppable three-crown victory.\n\n\u2022 The 3-step sequence for executing the ultimate clone push\n\u2022 Exact placement guide to avoid area-damage spells\n\u2022 How to cycle your deck to get Clone back in hand instantly\n\nFeaturing: Ken\n\nWhat is your go-to card to pair with Clone in your main deck?\n\n#shorts #clashroyale #protips #gaming #ken #clonetricks"
-            }
-          },
-          "active_variant": "A",
-          "test_status": "ACTIVE_TEST",
-          "variant_history": [
-            {
-              "variant": "A",
-              "title": "Why this banned Clone combo is illegal...",
-              "deployed_at": 1792212844.607857,
-              "reason": "Initial A/B test deployment"
-            }
-          ],
-          "metrics": {
-            "views": 0,
-            "likes": 0,
-            "comments": 0,
-            "retention": 0.0,
-            "ctr": 0.0
-          }
-        },
-        "reframed": "gaming_split"
-      },
-      {
         "id": "ken_1792212492_1",
         "source_video": "weirdest buff ever [Overtime Battle]",
         "creator": "Ken",
@@ -5298,6 +5232,72 @@
     ],
     "held": [],
     "published": [
+      {
+        "id": "ken_1792212492_0",
+        "source_video": "weirdest buff ever [Clutch Moment]",
+        "creator": "Ken",
+        "title": "Why this banned Clone combo is illegal...",
+        "publish_at": "2026-10-17T23:30:00Z",
+        "status": "PUBLISHED",
+        "uploaded": true,
+        "youtube_video_id": "Eufly2coEvI",
+        "youtube_url": "https://www.youtube.com/shorts/Eufly2coEvI",
+        "video_file": "ken_1792212492_0_master.mp4",
+        "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792212492_0_master.mp4",
+        "duration": 24.69,
+        "hook_summary": "The player highlights how surprisingly overpowered the Clone card can be when paired with fast-hitting troops, catching opponents completely off guard.",
+        "metadata": {
+          "title": "Why this banned Clone combo is illegal...",
+          "description": "Most players think the Clone card is just a useless gimmick, until you pair it with this one specific troop. Watch how an entire push vanishes and instantly respawns to decimate the enemy tower before they even realize what happened.\n\n\u2022 Discover the exact troop synergy that makes Clone overpowered\n\u2022 See how to bait out opponent spells before dropping the spell\n\u2022 Master the timing to catch defenders completely off guard\n\nFeaturing: Ken\n\nHave you ever actually won a match using only cloned troops, or is this just a one-in-a-million fluke?\n\n#shorts #clashroyale #gaming #clonestrategy #ken #mobilegaming",
+          "tags": [
+            "Clash Royale",
+            "Clone Card",
+            "Ken Clash Royale",
+            "Clash Royale Shorts",
+            "Overpowered Combo",
+            "Clash Royale Strategy",
+            "Best Deck",
+            "Mobile Gaming",
+            "Clone Trick"
+          ],
+          "pinned_comment": "Be honest: have you ever actually lost to a Clone deck and rage-quit instantly? Let me know below! \ud83d\udc47",
+          "ab_variants": {
+            "A": {
+              "angle": "Curiosity Gap",
+              "title": "Why this banned Clone combo is illegal...",
+              "description": "Most players think the Clone card is just a useless gimmick, until you pair it with this one specific troop. Watch how an entire push vanishes and instantly respawns to decimate the enemy tower before they even realize what happened.\n\n\u2022 Discover the exact troop synergy that makes Clone overpowered\n\u2022 See how to bait out opponent spells before dropping the spell\n\u2022 Master the timing to catch defenders completely off guard\n\nFeaturing: Ken\n\nHave you ever actually won a match using only cloned troops, or is this just a one-in-a-million fluke?\n\n#shorts #clashroyale #gaming #clonestrategy #ken #mobilegaming"
+            },
+            "B": {
+              "angle": "Contrarian Truth",
+              "title": "Stop sleeping on the worst card in the game",
+              "description": "Everyone says Clone is a troll card that only works in low-ladder matches. They are completely wrong, and this clip proves why ignoring this strategy is costing you hundreds of trophies.\n\n\u2022 Debunking the myth that Clone has no competitive viability\n\u2022 The secret math behind double-damage fast-hitting units\n\u2022 Why top ladder players fear this specific interaction\n\nFeaturing: Ken\n\nIs Clone actually skill-less spam, or does it take a genius to pull this off consistently?\n\n#shorts #clashroyale #gaming #strategy #ken #viral"
+            },
+            "C": {
+              "angle": "Actionable Protocol",
+              "title": "How to use Clone like a top 10 global player",
+              "description": "Stop wasting your elixir on random clone drops. Follow this step-by-step engagement rule to turn a single counter-attack into an unstoppable three-crown victory.\n\n\u2022 The 3-step sequence for executing the ultimate clone push\n\u2022 Exact placement guide to avoid area-damage spells\n\u2022 How to cycle your deck to get Clone back in hand instantly\n\nFeaturing: Ken\n\nWhat is your go-to card to pair with Clone in your main deck?\n\n#shorts #clashroyale #protips #gaming #ken #clonetricks"
+            }
+          },
+          "active_variant": "A",
+          "test_status": "ACTIVE_TEST",
+          "variant_history": [
+            {
+              "variant": "A",
+              "title": "Why this banned Clone combo is illegal...",
+              "deployed_at": 1792212844.607857,
+              "reason": "Initial A/B test deployment"
+            }
+          ],
+          "metrics": {
+            "views": 0,
+            "likes": 0,
+            "comments": 0,
+            "retention": 0.0,
+            "ctr": 0.0
+          }
+        },
+        "reframed": "gaming_split"
+      },
       {
         "id": "ken_1792158197_0",
         "source_video": "weirdest buff ever",

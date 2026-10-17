@@ -1,6 +1,6 @@
 {
-  "timestamp": 1792246625.801758,
-  "sync_time_iso": "2026-10-17T14:17:05Z",
+  "timestamp": 1792247046.992329,
+  "sync_time_iso": "2026-10-17T14:24:06Z",
   "default_channel": "ken_clips_burger",
   "channels": {
     "ken_clips_burger": {
@@ -93,17 +93,17 @@
       "agents": {
         "SCOUT": {
           "status": "working",
-          "current_task": "Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
+          "current_task": "Ingested 3 fresh Ken clip candidate(s) into queue.",
           "last_completed_task": "Ingested 5 recent Ken master videos into source pool",
           "recent_logs": [
-            "[02:27:39] Queue up to date. Waiting for next daily Ken upload.",
             "[02:45:29] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
             "[02:45:40] Queue up to date. Waiting for next daily Ken upload.",
             "[05:02:10] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
             "[05:02:23] Queue up to date. Waiting for next daily Ken upload.",
             "[08:05:43] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
             "[09:09:22] Error scanning Ken feed: Command '['/Users/jacksonmcmurdo/Desktop/Muk_Post/02_BUSINESS_&_OPERATIONS/muk_jarvis_env/bin/python3', '-m', 'yt_dlp', '--flat-playlist', '--print', '%(title)s;;;%(url)s;;;%(duration)s', 'https://www.youtube.com/@kenforrest/videos']' timed out after 60 seconds",
-            "[10:17:01] Scanning @kenforrest YouTube feed for latest Clash Royale uploads..."
+            "[10:17:01] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
+            "[10:23:15] Ingested 3 fresh Ken clip candidate(s) into queue."
           ]
         },
         "STRATEGIST": {
@@ -150,14 +150,14 @@
           "current_task": "Upload staged for automatic retry: ken_1792212492_6",
           "last_completed_task": "Uploaded all 3 initial Clash Royale gaming cuts to YouTube (kenclipsburger420)",
           "recent_logs": [
-            "[05:02:23] Generating gaming A/B metadata for slot: 10:15 PM ET (Sun, Oct 18)...",
-            "[05:31:41] Deploying to YouTube (@kenclipsburger420) for release 10:15 PM ET (Sun, Oct 18)...",
-            "[06:06:47] \u26a0\ufe0f YouTube Daily Upload Limit reached for today. Staged for tomorrow's reset window.",
-            "[06:06:47] Upload staged for automatic retry: ken_1792212492_6",
             "[09:09:22] Generating gaming A/B metadata for slot: 10:15 PM ET (Sun, Oct 18)...",
             "[09:09:42] Deploying to YouTube (@kenclipsburger420) for release 10:15 PM ET (Sun, Oct 18)...",
             "[09:30:48] YouTube upload error: Remote end closed connection without response",
-            "[09:30:48] Upload staged for automatic retry: ken_1792212492_6"
+            "[09:30:48] Upload staged for automatic retry: ken_1792212492_6",
+            "[10:23:15] Generating gaming A/B metadata for slot: 10:15 PM ET (Sun, Oct 18)...",
+            "[10:23:23] Deploying to YouTube (@kenclipsburger420) for release 10:15 PM ET (Sun, Oct 18)...",
+            "[10:23:42] \u26a0\ufe0f YouTube Daily Upload Limit reached for today. Staged for tomorrow's reset window.",
+            "[10:23:42] Upload staged for automatic retry: ken_1792212492_6"
           ]
         },
         "ANALYST": {
@@ -165,14 +165,14 @@
           "current_task": "Auditing velocity of active Ken Clash Royale Shorts...",
           "last_completed_task": "Calibrated gaming threshold: >15 views/hr within 4h",
           "recent_logs": [
-            "[02:17:53] Auditing velocity of active Ken Clash Royale Shorts...",
             "[02:20:25] Auditing velocity of active Ken Clash Royale Shorts...",
             "[02:22:56] Auditing velocity of active Ken Clash Royale Shorts...",
             "[02:25:27] Auditing velocity of active Ken Clash Royale Shorts...",
             "[02:27:59] Auditing velocity of active Ken Clash Royale Shorts...",
             "[03:18:51] Auditing velocity of active Ken Clash Royale Shorts...",
             "[06:06:48] Auditing velocity of active Ken Clash Royale Shorts...",
-            "[09:30:48] Auditing velocity of active Ken Clash Royale Shorts..."
+            "[09:30:48] Auditing velocity of active Ken Clash Royale Shorts...",
+            "[10:23:42] Auditing velocity of active Ken Clash Royale Shorts..."
           ]
         },
         "WATCHDOG": {
@@ -180,14 +180,14 @@
           "current_task": "Verifying Supercell fan policy: 0 claims, 0 strikes.",
           "last_completed_task": "Audited source parameters: strictly <30s segment rule active",
           "recent_logs": [
-            "[02:17:53] Verifying Supercell fan policy: 0 claims, 0 strikes.",
             "[02:20:25] Verifying Supercell fan policy: 0 claims, 0 strikes.",
             "[02:22:56] Verifying Supercell fan policy: 0 claims, 0 strikes.",
             "[02:25:27] Verifying Supercell fan policy: 0 claims, 0 strikes.",
             "[02:27:59] Verifying Supercell fan policy: 0 claims, 0 strikes.",
             "[03:18:51] Verifying Supercell fan policy: 0 claims, 0 strikes.",
             "[06:06:48] Verifying Supercell fan policy: 0 claims, 0 strikes.",
-            "[09:30:48] Verifying Supercell fan policy: 0 claims, 0 strikes."
+            "[09:30:48] Verifying Supercell fan policy: 0 claims, 0 strikes.",
+            "[10:23:42] Verifying Supercell fan policy: 0 claims, 0 strikes."
           ]
         }
       },
@@ -347,6 +347,39 @@
             "duration": 885,
             "status": "QUEUED",
             "added_at": "2026-10-17T04:48:12Z"
+          },
+          {
+            "id": "ken_1792246995_0",
+            "creator": "Ken",
+            "title": "1.9 aggression cycle [Highlight]",
+            "source_title": "1.9 aggression cycle",
+            "url": "https://www.youtube.com/watch?v=1tKJ4BnHC2A",
+            "section": "*60-240",
+            "duration": 2181,
+            "status": "QUEUED",
+            "added_at": "2026-10-17T14:23:15Z"
+          },
+          {
+            "id": "ken_1792246995_1",
+            "creator": "Ken",
+            "title": "1.9 aggression cycle [Clutch Moment]",
+            "source_title": "1.9 aggression cycle",
+            "url": "https://www.youtube.com/watch?v=1tKJ4BnHC2A",
+            "section": "*300-480",
+            "duration": 2181,
+            "status": "QUEUED",
+            "added_at": "2026-10-17T14:23:15Z"
+          },
+          {
+            "id": "ken_1792246995_2",
+            "creator": "Ken",
+            "title": "1.9 aggression cycle [Overtime Battle]",
+            "source_title": "1.9 aggression cycle",
+            "url": "https://www.youtube.com/watch?v=1tKJ4BnHC2A",
+            "section": "*540-720",
+            "duration": 2181,
+            "status": "QUEUED",
+            "added_at": "2026-10-17T14:23:15Z"
           }
         ],
         "processing": null,
@@ -521,22 +554,6 @@
       },
       "calendar": {
         "scheduled": [
-          {
-            "id": "ken_1791972067_0",
-            "source_video": "2.3 brainrot cycle",
-            "creator": "Ken",
-            "title": "KEN BROKE CLASH ROYALE WITH THIS DECK #Shorts",
-            "publish_at": "2026-10-17T14:00:00Z",
-            "status": "SCHEDULED",
-            "uploaded": true,
-            "youtube_video_id": "XhemIzPiJdg",
-            "youtube_url": "https://www.youtube.com/shorts/XhemIzPiJdg",
-            "video_file": "ken_1791972067_0_master.mp4",
-            "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1791972067_0_master.mp4",
-            "duration": 28.0,
-            "hook_summary": "Ken shows off the hilarious and chaotic 2.3 brainrot cycle deck.",
-            "reframed": "gaming_split"
-          },
           {
             "id": "ken_1792158197_0",
             "source_video": "weirdest buff ever",
@@ -1016,6 +1033,22 @@
         ],
         "held": [],
         "published": [
+          {
+            "id": "ken_1791972067_0",
+            "source_video": "2.3 brainrot cycle",
+            "creator": "Ken",
+            "title": "KEN BROKE CLASH ROYALE WITH THIS DECK #Shorts",
+            "publish_at": "2026-10-17T14:00:00Z",
+            "status": "PUBLISHED",
+            "uploaded": true,
+            "youtube_video_id": "XhemIzPiJdg",
+            "youtube_url": "https://www.youtube.com/shorts/XhemIzPiJdg",
+            "video_file": "ken_1791972067_0_master.mp4",
+            "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1791972067_0_master.mp4",
+            "duration": 28.0,
+            "hook_summary": "Ken shows off the hilarious and chaotic 2.3 brainrot cycle deck.",
+            "reframed": "gaming_split"
+          },
           {
             "id": "ken_1792058819_0",
             "source_video": "they added gifs",
@@ -4405,17 +4438,17 @@
   "agents": {
     "SCOUT": {
       "status": "working",
-      "current_task": "Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
+      "current_task": "Ingested 3 fresh Ken clip candidate(s) into queue.",
       "last_completed_task": "Ingested 5 recent Ken master videos into source pool",
       "recent_logs": [
-        "[02:27:39] Queue up to date. Waiting for next daily Ken upload.",
         "[02:45:29] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
         "[02:45:40] Queue up to date. Waiting for next daily Ken upload.",
         "[05:02:10] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
         "[05:02:23] Queue up to date. Waiting for next daily Ken upload.",
         "[08:05:43] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
         "[09:09:22] Error scanning Ken feed: Command '['/Users/jacksonmcmurdo/Desktop/Muk_Post/02_BUSINESS_&_OPERATIONS/muk_jarvis_env/bin/python3', '-m', 'yt_dlp', '--flat-playlist', '--print', '%(title)s;;;%(url)s;;;%(duration)s', 'https://www.youtube.com/@kenforrest/videos']' timed out after 60 seconds",
-        "[10:17:01] Scanning @kenforrest YouTube feed for latest Clash Royale uploads..."
+        "[10:17:01] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
+        "[10:23:15] Ingested 3 fresh Ken clip candidate(s) into queue."
       ]
     },
     "STRATEGIST": {
@@ -4462,14 +4495,14 @@
       "current_task": "Upload staged for automatic retry: ken_1792212492_6",
       "last_completed_task": "Uploaded all 3 initial Clash Royale gaming cuts to YouTube (kenclipsburger420)",
       "recent_logs": [
-        "[05:02:23] Generating gaming A/B metadata for slot: 10:15 PM ET (Sun, Oct 18)...",
-        "[05:31:41] Deploying to YouTube (@kenclipsburger420) for release 10:15 PM ET (Sun, Oct 18)...",
-        "[06:06:47] \u26a0\ufe0f YouTube Daily Upload Limit reached for today. Staged for tomorrow's reset window.",
-        "[06:06:47] Upload staged for automatic retry: ken_1792212492_6",
         "[09:09:22] Generating gaming A/B metadata for slot: 10:15 PM ET (Sun, Oct 18)...",
         "[09:09:42] Deploying to YouTube (@kenclipsburger420) for release 10:15 PM ET (Sun, Oct 18)...",
         "[09:30:48] YouTube upload error: Remote end closed connection without response",
-        "[09:30:48] Upload staged for automatic retry: ken_1792212492_6"
+        "[09:30:48] Upload staged for automatic retry: ken_1792212492_6",
+        "[10:23:15] Generating gaming A/B metadata for slot: 10:15 PM ET (Sun, Oct 18)...",
+        "[10:23:23] Deploying to YouTube (@kenclipsburger420) for release 10:15 PM ET (Sun, Oct 18)...",
+        "[10:23:42] \u26a0\ufe0f YouTube Daily Upload Limit reached for today. Staged for tomorrow's reset window.",
+        "[10:23:42] Upload staged for automatic retry: ken_1792212492_6"
       ]
     },
     "ANALYST": {
@@ -4477,14 +4510,14 @@
       "current_task": "Auditing velocity of active Ken Clash Royale Shorts...",
       "last_completed_task": "Calibrated gaming threshold: >15 views/hr within 4h",
       "recent_logs": [
-        "[02:17:53] Auditing velocity of active Ken Clash Royale Shorts...",
         "[02:20:25] Auditing velocity of active Ken Clash Royale Shorts...",
         "[02:22:56] Auditing velocity of active Ken Clash Royale Shorts...",
         "[02:25:27] Auditing velocity of active Ken Clash Royale Shorts...",
         "[02:27:59] Auditing velocity of active Ken Clash Royale Shorts...",
         "[03:18:51] Auditing velocity of active Ken Clash Royale Shorts...",
         "[06:06:48] Auditing velocity of active Ken Clash Royale Shorts...",
-        "[09:30:48] Auditing velocity of active Ken Clash Royale Shorts..."
+        "[09:30:48] Auditing velocity of active Ken Clash Royale Shorts...",
+        "[10:23:42] Auditing velocity of active Ken Clash Royale Shorts..."
       ]
     },
     "WATCHDOG": {
@@ -4492,14 +4525,14 @@
       "current_task": "Verifying Supercell fan policy: 0 claims, 0 strikes.",
       "last_completed_task": "Audited source parameters: strictly <30s segment rule active",
       "recent_logs": [
-        "[02:17:53] Verifying Supercell fan policy: 0 claims, 0 strikes.",
         "[02:20:25] Verifying Supercell fan policy: 0 claims, 0 strikes.",
         "[02:22:56] Verifying Supercell fan policy: 0 claims, 0 strikes.",
         "[02:25:27] Verifying Supercell fan policy: 0 claims, 0 strikes.",
         "[02:27:59] Verifying Supercell fan policy: 0 claims, 0 strikes.",
         "[03:18:51] Verifying Supercell fan policy: 0 claims, 0 strikes.",
         "[06:06:48] Verifying Supercell fan policy: 0 claims, 0 strikes.",
-        "[09:30:48] Verifying Supercell fan policy: 0 claims, 0 strikes."
+        "[09:30:48] Verifying Supercell fan policy: 0 claims, 0 strikes.",
+        "[10:23:42] Verifying Supercell fan policy: 0 claims, 0 strikes."
       ]
     }
   },
@@ -4659,6 +4692,39 @@
         "duration": 885,
         "status": "QUEUED",
         "added_at": "2026-10-17T04:48:12Z"
+      },
+      {
+        "id": "ken_1792246995_0",
+        "creator": "Ken",
+        "title": "1.9 aggression cycle [Highlight]",
+        "source_title": "1.9 aggression cycle",
+        "url": "https://www.youtube.com/watch?v=1tKJ4BnHC2A",
+        "section": "*60-240",
+        "duration": 2181,
+        "status": "QUEUED",
+        "added_at": "2026-10-17T14:23:15Z"
+      },
+      {
+        "id": "ken_1792246995_1",
+        "creator": "Ken",
+        "title": "1.9 aggression cycle [Clutch Moment]",
+        "source_title": "1.9 aggression cycle",
+        "url": "https://www.youtube.com/watch?v=1tKJ4BnHC2A",
+        "section": "*300-480",
+        "duration": 2181,
+        "status": "QUEUED",
+        "added_at": "2026-10-17T14:23:15Z"
+      },
+      {
+        "id": "ken_1792246995_2",
+        "creator": "Ken",
+        "title": "1.9 aggression cycle [Overtime Battle]",
+        "source_title": "1.9 aggression cycle",
+        "url": "https://www.youtube.com/watch?v=1tKJ4BnHC2A",
+        "section": "*540-720",
+        "duration": 2181,
+        "status": "QUEUED",
+        "added_at": "2026-10-17T14:23:15Z"
       }
     ],
     "processing": null,
@@ -4833,22 +4899,6 @@
   },
   "calendar": {
     "scheduled": [
-      {
-        "id": "ken_1791972067_0",
-        "source_video": "2.3 brainrot cycle",
-        "creator": "Ken",
-        "title": "KEN BROKE CLASH ROYALE WITH THIS DECK #Shorts",
-        "publish_at": "2026-10-17T14:00:00Z",
-        "status": "SCHEDULED",
-        "uploaded": true,
-        "youtube_video_id": "XhemIzPiJdg",
-        "youtube_url": "https://www.youtube.com/shorts/XhemIzPiJdg",
-        "video_file": "ken_1791972067_0_master.mp4",
-        "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1791972067_0_master.mp4",
-        "duration": 28.0,
-        "hook_summary": "Ken shows off the hilarious and chaotic 2.3 brainrot cycle deck.",
-        "reframed": "gaming_split"
-      },
       {
         "id": "ken_1792158197_0",
         "source_video": "weirdest buff ever",
@@ -5328,6 +5378,22 @@
     ],
     "held": [],
     "published": [
+      {
+        "id": "ken_1791972067_0",
+        "source_video": "2.3 brainrot cycle",
+        "creator": "Ken",
+        "title": "KEN BROKE CLASH ROYALE WITH THIS DECK #Shorts",
+        "publish_at": "2026-10-17T14:00:00Z",
+        "status": "PUBLISHED",
+        "uploaded": true,
+        "youtube_video_id": "XhemIzPiJdg",
+        "youtube_url": "https://www.youtube.com/shorts/XhemIzPiJdg",
+        "video_file": "ken_1791972067_0_master.mp4",
+        "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1791972067_0_master.mp4",
+        "duration": 28.0,
+        "hook_summary": "Ken shows off the hilarious and chaotic 2.3 brainrot cycle deck.",
+        "reframed": "gaming_split"
+      },
       {
         "id": "ken_1792058819_0",
         "source_video": "they added gifs",

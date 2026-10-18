@@ -1,6 +1,6 @@
 {
-  "timestamp": 1792357621.89033,
-  "sync_time_iso": "2026-10-18T21:07:01Z",
+  "timestamp": 1792357683.614061,
+  "sync_time_iso": "2026-10-18T21:08:03Z",
   "default_channel": "ken_clips_burger",
   "channels": {
     "ken_clips_burger": {
@@ -96,14 +96,14 @@
           "current_task": "Queue up to date. Waiting for next daily Ken upload.",
           "last_completed_task": "Ingested 5 recent Ken master videos into source pool",
           "recent_logs": [
-            "[13:29:39] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
-            "[13:29:40] Queue up to date. Waiting for next daily Ken upload.",
             "[15:31:14] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
             "[15:31:15] Queue up to date. Waiting for next daily Ken upload.",
             "[16:37:57] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
             "[16:38:13] Queue up to date. Waiting for next daily Ken upload.",
             "[17:01:38] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
-            "[17:01:50] Queue up to date. Waiting for next daily Ken upload."
+            "[17:01:50] Queue up to date. Waiting for next daily Ken upload.",
+            "[17:07:11] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
+            "[17:07:24] Queue up to date. Waiting for next daily Ken upload."
           ]
         },
         "STRATEGIST": {
@@ -123,17 +123,17 @@
         },
         "EDITOR": {
           "status": "working",
-          "current_task": "Rendering gaming_split Short with captions: level down trolling [Highlight",
+          "current_task": "Rendering gaming_split Short with captions: level down trolling [Clutch Mo",
           "last_completed_task": "Rendered 'hp buffed' rage highlight with kinetic pop captions & commentary",
           "recent_logs": [
-            "[10:09:51] Downloading highlight segment (*300-480) for: return of peak [Clutch Moment]...",
-            "[11:25:13] Downloading highlight segment (*540-720) for: return of peak [Overtime Battle]...",
             "[13:29:40] Downloading highlight segment (*60-240) for: 25% buff abuse [Highlight]...",
             "[15:31:15] Downloading highlight segment (*300-480) for: 25% buff abuse [Clutch Moment]...",
             "[16:38:13] Downloading highlight segment (*540-720) for: 25% buff abuse [Overtime Battle]...",
             "[16:38:19] Rendering gaming_split Short with captions: 25% buff abuse [Overtime Battl",
             "[17:01:50] Downloading highlight segment (*60-240) for: level down trolling [Highlight]...",
-            "[17:01:54] Rendering gaming_split Short with captions: level down trolling [Highlight"
+            "[17:01:54] Rendering gaming_split Short with captions: level down trolling [Highlight",
+            "[17:07:24] Downloading highlight segment (*300-480) for: level down trolling [Clutch Moment]...",
+            "[17:07:31] Rendering gaming_split Short with captions: level down trolling [Clutch Mo"
           ]
         },
         "COMMENTATOR": {
@@ -256,7 +256,7 @@
             "url": "https://www.youtube.com/watch?v=fWcnSGfpehA",
             "section": "*300-480",
             "duration": 885,
-            "status": "QUEUED",
+            "status": "PROCESSING",
             "added_at": "2026-10-17T04:48:12Z"
           },
           {
@@ -5018,14 +5018,14 @@
       "current_task": "Queue up to date. Waiting for next daily Ken upload.",
       "last_completed_task": "Ingested 5 recent Ken master videos into source pool",
       "recent_logs": [
-        "[13:29:39] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
-        "[13:29:40] Queue up to date. Waiting for next daily Ken upload.",
         "[15:31:14] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
         "[15:31:15] Queue up to date. Waiting for next daily Ken upload.",
         "[16:37:57] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
         "[16:38:13] Queue up to date. Waiting for next daily Ken upload.",
         "[17:01:38] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
-        "[17:01:50] Queue up to date. Waiting for next daily Ken upload."
+        "[17:01:50] Queue up to date. Waiting for next daily Ken upload.",
+        "[17:07:11] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
+        "[17:07:24] Queue up to date. Waiting for next daily Ken upload."
       ]
     },
     "STRATEGIST": {
@@ -5045,17 +5045,17 @@
     },
     "EDITOR": {
       "status": "working",
-      "current_task": "Rendering gaming_split Short with captions: level down trolling [Highlight",
+      "current_task": "Rendering gaming_split Short with captions: level down trolling [Clutch Mo",
       "last_completed_task": "Rendered 'hp buffed' rage highlight with kinetic pop captions & commentary",
       "recent_logs": [
-        "[10:09:51] Downloading highlight segment (*300-480) for: return of peak [Clutch Moment]...",
-        "[11:25:13] Downloading highlight segment (*540-720) for: return of peak [Overtime Battle]...",
         "[13:29:40] Downloading highlight segment (*60-240) for: 25% buff abuse [Highlight]...",
         "[15:31:15] Downloading highlight segment (*300-480) for: 25% buff abuse [Clutch Moment]...",
         "[16:38:13] Downloading highlight segment (*540-720) for: 25% buff abuse [Overtime Battle]...",
         "[16:38:19] Rendering gaming_split Short with captions: 25% buff abuse [Overtime Battl",
         "[17:01:50] Downloading highlight segment (*60-240) for: level down trolling [Highlight]...",
-        "[17:01:54] Rendering gaming_split Short with captions: level down trolling [Highlight"
+        "[17:01:54] Rendering gaming_split Short with captions: level down trolling [Highlight",
+        "[17:07:24] Downloading highlight segment (*300-480) for: level down trolling [Clutch Moment]...",
+        "[17:07:31] Rendering gaming_split Short with captions: level down trolling [Clutch Mo"
       ]
     },
     "COMMENTATOR": {
@@ -5178,7 +5178,7 @@
         "url": "https://www.youtube.com/watch?v=fWcnSGfpehA",
         "section": "*300-480",
         "duration": 885,
-        "status": "QUEUED",
+        "status": "PROCESSING",
         "added_at": "2026-10-17T04:48:12Z"
       },
       {

@@ -1,6 +1,6 @@
 {
-  "timestamp": 1792366542.945623,
-  "sync_time_iso": "2026-10-18T23:35:42Z",
+  "timestamp": 1792366604.722548,
+  "sync_time_iso": "2026-10-18T23:36:44Z",
   "default_channel": "ken_clips_burger",
   "channels": {
     "ken_clips_burger": {
@@ -96,14 +96,14 @@
           "current_task": "Queue up to date. Waiting for next daily Ken upload.",
           "last_completed_task": "Ingested 5 recent Ken master videos into source pool",
           "recent_logs": [
-            "[19:18:56] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
-            "[19:19:09] Queue up to date. Waiting for next daily Ken upload.",
             "[19:21:09] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
             "[19:21:22] Queue up to date. Waiting for next daily Ken upload.",
             "[19:23:22] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
             "[19:23:34] Queue up to date. Waiting for next daily Ken upload.",
             "[19:25:34] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
-            "[19:25:46] Queue up to date. Waiting for next daily Ken upload."
+            "[19:25:46] Queue up to date. Waiting for next daily Ken upload.",
+            "[19:36:23] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
+            "[19:36:37] Queue up to date. Waiting for next daily Ken upload."
           ]
         },
         "STRATEGIST": {
@@ -123,17 +123,17 @@
         },
         "EDITOR": {
           "status": "working",
-          "current_task": "Rendering gaming_split Short with captions: level down trolling [Clutch Mo",
+          "current_task": "Rendering gaming_split Short with captions: 1.9 aggression cycle [Highligh",
           "last_completed_task": "Rendered 'hp buffed' rage highlight with kinetic pop captions & commentary",
           "recent_logs": [
-            "[13:29:40] Downloading highlight segment (*60-240) for: 25% buff abuse [Highlight]...",
-            "[15:31:15] Downloading highlight segment (*300-480) for: 25% buff abuse [Clutch Moment]...",
             "[16:38:13] Downloading highlight segment (*540-720) for: 25% buff abuse [Overtime Battle]...",
             "[16:38:19] Rendering gaming_split Short with captions: 25% buff abuse [Overtime Battl",
             "[17:01:50] Downloading highlight segment (*60-240) for: level down trolling [Highlight]...",
             "[17:01:54] Rendering gaming_split Short with captions: level down trolling [Highlight",
             "[17:07:24] Downloading highlight segment (*300-480) for: level down trolling [Clutch Moment]...",
-            "[17:07:31] Rendering gaming_split Short with captions: level down trolling [Clutch Mo"
+            "[17:07:31] Rendering gaming_split Short with captions: level down trolling [Clutch Mo",
+            "[19:36:37] Downloading highlight segment (*60-240) for: 1.9 aggression cycle [Highlight]...",
+            "[19:36:42] Rendering gaming_split Short with captions: 1.9 aggression cycle [Highligh"
           ]
         },
         "COMMENTATOR": {
@@ -256,7 +256,7 @@
             "url": "https://www.youtube.com/watch?v=1tKJ4BnHC2A",
             "section": "*60-240",
             "duration": 2181,
-            "status": "QUEUED",
+            "status": "PROCESSING",
             "added_at": "2026-10-17T14:23:15Z"
           },
           {
@@ -604,72 +604,6 @@
       },
       "calendar": {
         "scheduled": [
-          {
-            "id": "ken_1792212492_5",
-            "source_video": "hp buffed [Clutch Moment]",
-            "creator": "Ken",
-            "title": "How did he survive this impossible final second?",
-            "publish_at": "2026-10-18T23:30:00Z",
-            "status": "SCHEDULED",
-            "uploaded": true,
-            "youtube_video_id": "35p9wG9PwKQ",
-            "youtube_url": "https://www.youtube.com/shorts/35p9wG9PwKQ",
-            "video_file": "ken_1792212492_5_master.mp4",
-            "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792212492_5_master.mp4",
-            "duration": 27.93,
-            "hook_summary": "The creator faces the final seconds of a tense match, desperately praying for the opponent's barrel not to do enough damage before securing the game-winning victory.",
-            "metadata": {
-              "title": "How did he survive this impossible final second?",
-              "description": "Everything came down to a single agonizing frame in this high-stakes match. With absolute zero margin for error, Ken had to trust his defense and pray the opponent's barrel wouldn't ruin the game-winning play.\n\n- Witness a masterclass in high-pressure defensive positioning.\n- Learn how to stay calm when the clock is completely against you.\n- See the exact moment panic turns into a clutch victory.\n\nFeaturing: Ken\n\nWould you have gone for the defensive block or risked everything on a counter-attack?\n\n#shorts #gaming #clutch #gamingmoments #strategy #ken",
-              "tags": [
-                "clutch gaming",
-                "game winning defense",
-                "gaming moments",
-                "epic plays",
-                "gaming strategy",
-                "last second win",
-                "ken gaming",
-                "pro gamer moves",
-                "high pressure gaming"
-              ],
-              "pinned_comment": "Be honest: would your hands have been shaking too much to pull this off, or was this pure luck? Let's settle it in the replies.",
-              "ab_variants": {
-                "A": {
-                  "angle": "Curiosity Gap",
-                  "title": "How did he survive this impossible final second?",
-                  "description": "Everything came down to a single agonizing frame in this high-stakes match. With absolute zero margin for error, Ken had to trust his defense and pray the opponent's barrel wouldn't ruin the game-winning play.\n\n- Witness a masterclass in high-pressure defensive positioning.\n- Learn how to stay calm when the clock is completely against you.\n- See the exact moment panic turns into a clutch victory.\n\nFeaturing: Ken\n\nWould you have gone for the defensive block or risked everything on a counter-attack?\n\n#shorts #gaming #clutch #gamingmoments #strategy #ken"
-                },
-                "B": {
-                  "angle": "Contrarian Truth",
-                  "title": "Stop playing safe when the timer hits zero.",
-                  "description": "Most players panic and throw the game away in the final seconds, but Ken proves that calculated risk beats pure defense every single time. Watch how he stares defeat in the face and steals the win at the very last millisecond.\n\n- Why playing conservatively in overtime is a guaranteed loss.\n- The psychology of making split-second decisions under extreme pressure.\n- How to force your opponent into making a fatal endgame mistake.\n\nFeaturing: Ken\n\nAre last-second plays based purely on luck or pure skill?\n\n#shorts #gaming #proplayer #mindset #gamingcommunity #ken"
-                },
-                "C": {
-                  "angle": "Actionable Protocol",
-                  "title": "The 3-step rule for winning impossible matches.",
-                  "description": "When the game is on the line and you have zero time left on the clock, you need a strict mental protocol to survive. Ken breaks down the exact mindset required to execute a game-winning defensive stop when failure means instant defeat.\n\n- Identify the single variable that matters most in the final seconds.\n- Eliminate panic by focusing entirely on your immediate execution.\n- Master the art of converting a defensive block into a definitive win.\n\nFeaturing: Ken\n\nWhat is your go-to strategy when you're one hit away from losing?\n\n#shorts #gamingtips #strategy #gamer #skills #ken"
-                }
-              },
-              "active_variant": "A",
-              "test_status": "ACTIVE_TEST",
-              "variant_history": [
-                {
-                  "variant": "A",
-                  "title": "How did he survive this impossible final second?",
-                  "deployed_at": 1792213808.4222238,
-                  "reason": "Initial A/B test deployment"
-                }
-              ],
-              "metrics": {
-                "views": 0,
-                "likes": 0,
-                "comments": 0,
-                "retention": 0.0,
-                "ctr": 0.0
-              }
-            },
-            "reframed": "gaming_split"
-          },
           {
             "id": "ken_1792212492_6",
             "source_video": "hp buffed [Overtime Battle]",
@@ -1268,6 +1202,72 @@
         ],
         "held": [],
         "published": [
+          {
+            "id": "ken_1792212492_5",
+            "source_video": "hp buffed [Clutch Moment]",
+            "creator": "Ken",
+            "title": "How did he survive this impossible final second?",
+            "publish_at": "2026-10-18T23:30:00Z",
+            "status": "PUBLISHED",
+            "uploaded": true,
+            "youtube_video_id": "35p9wG9PwKQ",
+            "youtube_url": "https://www.youtube.com/shorts/35p9wG9PwKQ",
+            "video_file": "ken_1792212492_5_master.mp4",
+            "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792212492_5_master.mp4",
+            "duration": 27.93,
+            "hook_summary": "The creator faces the final seconds of a tense match, desperately praying for the opponent's barrel not to do enough damage before securing the game-winning victory.",
+            "metadata": {
+              "title": "How did he survive this impossible final second?",
+              "description": "Everything came down to a single agonizing frame in this high-stakes match. With absolute zero margin for error, Ken had to trust his defense and pray the opponent's barrel wouldn't ruin the game-winning play.\n\n- Witness a masterclass in high-pressure defensive positioning.\n- Learn how to stay calm when the clock is completely against you.\n- See the exact moment panic turns into a clutch victory.\n\nFeaturing: Ken\n\nWould you have gone for the defensive block or risked everything on a counter-attack?\n\n#shorts #gaming #clutch #gamingmoments #strategy #ken",
+              "tags": [
+                "clutch gaming",
+                "game winning defense",
+                "gaming moments",
+                "epic plays",
+                "gaming strategy",
+                "last second win",
+                "ken gaming",
+                "pro gamer moves",
+                "high pressure gaming"
+              ],
+              "pinned_comment": "Be honest: would your hands have been shaking too much to pull this off, or was this pure luck? Let's settle it in the replies.",
+              "ab_variants": {
+                "A": {
+                  "angle": "Curiosity Gap",
+                  "title": "How did he survive this impossible final second?",
+                  "description": "Everything came down to a single agonizing frame in this high-stakes match. With absolute zero margin for error, Ken had to trust his defense and pray the opponent's barrel wouldn't ruin the game-winning play.\n\n- Witness a masterclass in high-pressure defensive positioning.\n- Learn how to stay calm when the clock is completely against you.\n- See the exact moment panic turns into a clutch victory.\n\nFeaturing: Ken\n\nWould you have gone for the defensive block or risked everything on a counter-attack?\n\n#shorts #gaming #clutch #gamingmoments #strategy #ken"
+                },
+                "B": {
+                  "angle": "Contrarian Truth",
+                  "title": "Stop playing safe when the timer hits zero.",
+                  "description": "Most players panic and throw the game away in the final seconds, but Ken proves that calculated risk beats pure defense every single time. Watch how he stares defeat in the face and steals the win at the very last millisecond.\n\n- Why playing conservatively in overtime is a guaranteed loss.\n- The psychology of making split-second decisions under extreme pressure.\n- How to force your opponent into making a fatal endgame mistake.\n\nFeaturing: Ken\n\nAre last-second plays based purely on luck or pure skill?\n\n#shorts #gaming #proplayer #mindset #gamingcommunity #ken"
+                },
+                "C": {
+                  "angle": "Actionable Protocol",
+                  "title": "The 3-step rule for winning impossible matches.",
+                  "description": "When the game is on the line and you have zero time left on the clock, you need a strict mental protocol to survive. Ken breaks down the exact mindset required to execute a game-winning defensive stop when failure means instant defeat.\n\n- Identify the single variable that matters most in the final seconds.\n- Eliminate panic by focusing entirely on your immediate execution.\n- Master the art of converting a defensive block into a definitive win.\n\nFeaturing: Ken\n\nWhat is your go-to strategy when you're one hit away from losing?\n\n#shorts #gamingtips #strategy #gamer #skills #ken"
+                }
+              },
+              "active_variant": "A",
+              "test_status": "ACTIVE_TEST",
+              "variant_history": [
+                {
+                  "variant": "A",
+                  "title": "How did he survive this impossible final second?",
+                  "deployed_at": 1792213808.4222238,
+                  "reason": "Initial A/B test deployment"
+                }
+              ],
+              "metrics": {
+                "views": 0,
+                "likes": 0,
+                "comments": 0,
+                "retention": 0.0,
+                "ctr": 0.0
+              }
+            },
+            "reframed": "gaming_split"
+          },
           {
             "id": "ken_1792212492_4",
             "source_video": "2.3 brainrot cycle [Clutch Moment]",
@@ -5086,14 +5086,14 @@
       "current_task": "Queue up to date. Waiting for next daily Ken upload.",
       "last_completed_task": "Ingested 5 recent Ken master videos into source pool",
       "recent_logs": [
-        "[19:18:56] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
-        "[19:19:09] Queue up to date. Waiting for next daily Ken upload.",
         "[19:21:09] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
         "[19:21:22] Queue up to date. Waiting for next daily Ken upload.",
         "[19:23:22] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
         "[19:23:34] Queue up to date. Waiting for next daily Ken upload.",
         "[19:25:34] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
-        "[19:25:46] Queue up to date. Waiting for next daily Ken upload."
+        "[19:25:46] Queue up to date. Waiting for next daily Ken upload.",
+        "[19:36:23] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
+        "[19:36:37] Queue up to date. Waiting for next daily Ken upload."
       ]
     },
     "STRATEGIST": {
@@ -5113,17 +5113,17 @@
     },
     "EDITOR": {
       "status": "working",
-      "current_task": "Rendering gaming_split Short with captions: level down trolling [Clutch Mo",
+      "current_task": "Rendering gaming_split Short with captions: 1.9 aggression cycle [Highligh",
       "last_completed_task": "Rendered 'hp buffed' rage highlight with kinetic pop captions & commentary",
       "recent_logs": [
-        "[13:29:40] Downloading highlight segment (*60-240) for: 25% buff abuse [Highlight]...",
-        "[15:31:15] Downloading highlight segment (*300-480) for: 25% buff abuse [Clutch Moment]...",
         "[16:38:13] Downloading highlight segment (*540-720) for: 25% buff abuse [Overtime Battle]...",
         "[16:38:19] Rendering gaming_split Short with captions: 25% buff abuse [Overtime Battl",
         "[17:01:50] Downloading highlight segment (*60-240) for: level down trolling [Highlight]...",
         "[17:01:54] Rendering gaming_split Short with captions: level down trolling [Highlight",
         "[17:07:24] Downloading highlight segment (*300-480) for: level down trolling [Clutch Moment]...",
-        "[17:07:31] Rendering gaming_split Short with captions: level down trolling [Clutch Mo"
+        "[17:07:31] Rendering gaming_split Short with captions: level down trolling [Clutch Mo",
+        "[19:36:37] Downloading highlight segment (*60-240) for: 1.9 aggression cycle [Highlight]...",
+        "[19:36:42] Rendering gaming_split Short with captions: 1.9 aggression cycle [Highligh"
       ]
     },
     "COMMENTATOR": {
@@ -5246,7 +5246,7 @@
         "url": "https://www.youtube.com/watch?v=1tKJ4BnHC2A",
         "section": "*60-240",
         "duration": 2181,
-        "status": "QUEUED",
+        "status": "PROCESSING",
         "added_at": "2026-10-17T14:23:15Z"
       },
       {
@@ -5594,72 +5594,6 @@
   },
   "calendar": {
     "scheduled": [
-      {
-        "id": "ken_1792212492_5",
-        "source_video": "hp buffed [Clutch Moment]",
-        "creator": "Ken",
-        "title": "How did he survive this impossible final second?",
-        "publish_at": "2026-10-18T23:30:00Z",
-        "status": "SCHEDULED",
-        "uploaded": true,
-        "youtube_video_id": "35p9wG9PwKQ",
-        "youtube_url": "https://www.youtube.com/shorts/35p9wG9PwKQ",
-        "video_file": "ken_1792212492_5_master.mp4",
-        "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792212492_5_master.mp4",
-        "duration": 27.93,
-        "hook_summary": "The creator faces the final seconds of a tense match, desperately praying for the opponent's barrel not to do enough damage before securing the game-winning victory.",
-        "metadata": {
-          "title": "How did he survive this impossible final second?",
-          "description": "Everything came down to a single agonizing frame in this high-stakes match. With absolute zero margin for error, Ken had to trust his defense and pray the opponent's barrel wouldn't ruin the game-winning play.\n\n- Witness a masterclass in high-pressure defensive positioning.\n- Learn how to stay calm when the clock is completely against you.\n- See the exact moment panic turns into a clutch victory.\n\nFeaturing: Ken\n\nWould you have gone for the defensive block or risked everything on a counter-attack?\n\n#shorts #gaming #clutch #gamingmoments #strategy #ken",
-          "tags": [
-            "clutch gaming",
-            "game winning defense",
-            "gaming moments",
-            "epic plays",
-            "gaming strategy",
-            "last second win",
-            "ken gaming",
-            "pro gamer moves",
-            "high pressure gaming"
-          ],
-          "pinned_comment": "Be honest: would your hands have been shaking too much to pull this off, or was this pure luck? Let's settle it in the replies.",
-          "ab_variants": {
-            "A": {
-              "angle": "Curiosity Gap",
-              "title": "How did he survive this impossible final second?",
-              "description": "Everything came down to a single agonizing frame in this high-stakes match. With absolute zero margin for error, Ken had to trust his defense and pray the opponent's barrel wouldn't ruin the game-winning play.\n\n- Witness a masterclass in high-pressure defensive positioning.\n- Learn how to stay calm when the clock is completely against you.\n- See the exact moment panic turns into a clutch victory.\n\nFeaturing: Ken\n\nWould you have gone for the defensive block or risked everything on a counter-attack?\n\n#shorts #gaming #clutch #gamingmoments #strategy #ken"
-            },
-            "B": {
-              "angle": "Contrarian Truth",
-              "title": "Stop playing safe when the timer hits zero.",
-              "description": "Most players panic and throw the game away in the final seconds, but Ken proves that calculated risk beats pure defense every single time. Watch how he stares defeat in the face and steals the win at the very last millisecond.\n\n- Why playing conservatively in overtime is a guaranteed loss.\n- The psychology of making split-second decisions under extreme pressure.\n- How to force your opponent into making a fatal endgame mistake.\n\nFeaturing: Ken\n\nAre last-second plays based purely on luck or pure skill?\n\n#shorts #gaming #proplayer #mindset #gamingcommunity #ken"
-            },
-            "C": {
-              "angle": "Actionable Protocol",
-              "title": "The 3-step rule for winning impossible matches.",
-              "description": "When the game is on the line and you have zero time left on the clock, you need a strict mental protocol to survive. Ken breaks down the exact mindset required to execute a game-winning defensive stop when failure means instant defeat.\n\n- Identify the single variable that matters most in the final seconds.\n- Eliminate panic by focusing entirely on your immediate execution.\n- Master the art of converting a defensive block into a definitive win.\n\nFeaturing: Ken\n\nWhat is your go-to strategy when you're one hit away from losing?\n\n#shorts #gamingtips #strategy #gamer #skills #ken"
-            }
-          },
-          "active_variant": "A",
-          "test_status": "ACTIVE_TEST",
-          "variant_history": [
-            {
-              "variant": "A",
-              "title": "How did he survive this impossible final second?",
-              "deployed_at": 1792213808.4222238,
-              "reason": "Initial A/B test deployment"
-            }
-          ],
-          "metrics": {
-            "views": 0,
-            "likes": 0,
-            "comments": 0,
-            "retention": 0.0,
-            "ctr": 0.0
-          }
-        },
-        "reframed": "gaming_split"
-      },
       {
         "id": "ken_1792212492_6",
         "source_video": "hp buffed [Overtime Battle]",
@@ -6258,6 +6192,72 @@
     ],
     "held": [],
     "published": [
+      {
+        "id": "ken_1792212492_5",
+        "source_video": "hp buffed [Clutch Moment]",
+        "creator": "Ken",
+        "title": "How did he survive this impossible final second?",
+        "publish_at": "2026-10-18T23:30:00Z",
+        "status": "PUBLISHED",
+        "uploaded": true,
+        "youtube_video_id": "35p9wG9PwKQ",
+        "youtube_url": "https://www.youtube.com/shorts/35p9wG9PwKQ",
+        "video_file": "ken_1792212492_5_master.mp4",
+        "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792212492_5_master.mp4",
+        "duration": 27.93,
+        "hook_summary": "The creator faces the final seconds of a tense match, desperately praying for the opponent's barrel not to do enough damage before securing the game-winning victory.",
+        "metadata": {
+          "title": "How did he survive this impossible final second?",
+          "description": "Everything came down to a single agonizing frame in this high-stakes match. With absolute zero margin for error, Ken had to trust his defense and pray the opponent's barrel wouldn't ruin the game-winning play.\n\n- Witness a masterclass in high-pressure defensive positioning.\n- Learn how to stay calm when the clock is completely against you.\n- See the exact moment panic turns into a clutch victory.\n\nFeaturing: Ken\n\nWould you have gone for the defensive block or risked everything on a counter-attack?\n\n#shorts #gaming #clutch #gamingmoments #strategy #ken",
+          "tags": [
+            "clutch gaming",
+            "game winning defense",
+            "gaming moments",
+            "epic plays",
+            "gaming strategy",
+            "last second win",
+            "ken gaming",
+            "pro gamer moves",
+            "high pressure gaming"
+          ],
+          "pinned_comment": "Be honest: would your hands have been shaking too much to pull this off, or was this pure luck? Let's settle it in the replies.",
+          "ab_variants": {
+            "A": {
+              "angle": "Curiosity Gap",
+              "title": "How did he survive this impossible final second?",
+              "description": "Everything came down to a single agonizing frame in this high-stakes match. With absolute zero margin for error, Ken had to trust his defense and pray the opponent's barrel wouldn't ruin the game-winning play.\n\n- Witness a masterclass in high-pressure defensive positioning.\n- Learn how to stay calm when the clock is completely against you.\n- See the exact moment panic turns into a clutch victory.\n\nFeaturing: Ken\n\nWould you have gone for the defensive block or risked everything on a counter-attack?\n\n#shorts #gaming #clutch #gamingmoments #strategy #ken"
+            },
+            "B": {
+              "angle": "Contrarian Truth",
+              "title": "Stop playing safe when the timer hits zero.",
+              "description": "Most players panic and throw the game away in the final seconds, but Ken proves that calculated risk beats pure defense every single time. Watch how he stares defeat in the face and steals the win at the very last millisecond.\n\n- Why playing conservatively in overtime is a guaranteed loss.\n- The psychology of making split-second decisions under extreme pressure.\n- How to force your opponent into making a fatal endgame mistake.\n\nFeaturing: Ken\n\nAre last-second plays based purely on luck or pure skill?\n\n#shorts #gaming #proplayer #mindset #gamingcommunity #ken"
+            },
+            "C": {
+              "angle": "Actionable Protocol",
+              "title": "The 3-step rule for winning impossible matches.",
+              "description": "When the game is on the line and you have zero time left on the clock, you need a strict mental protocol to survive. Ken breaks down the exact mindset required to execute a game-winning defensive stop when failure means instant defeat.\n\n- Identify the single variable that matters most in the final seconds.\n- Eliminate panic by focusing entirely on your immediate execution.\n- Master the art of converting a defensive block into a definitive win.\n\nFeaturing: Ken\n\nWhat is your go-to strategy when you're one hit away from losing?\n\n#shorts #gamingtips #strategy #gamer #skills #ken"
+            }
+          },
+          "active_variant": "A",
+          "test_status": "ACTIVE_TEST",
+          "variant_history": [
+            {
+              "variant": "A",
+              "title": "How did he survive this impossible final second?",
+              "deployed_at": 1792213808.4222238,
+              "reason": "Initial A/B test deployment"
+            }
+          ],
+          "metrics": {
+            "views": 0,
+            "likes": 0,
+            "comments": 0,
+            "retention": 0.0,
+            "ctr": 0.0
+          }
+        },
+        "reframed": "gaming_split"
+      },
       {
         "id": "ken_1792212492_4",
         "source_video": "2.3 brainrot cycle [Clutch Moment]",

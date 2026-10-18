@@ -1,6 +1,6 @@
 {
-  "timestamp": 1792331018.548054,
-  "sync_time_iso": "2026-10-18T13:43:38Z",
+  "timestamp": 1792334591.475202,
+  "sync_time_iso": "2026-10-18T14:43:11Z",
   "default_channel": "ken_clips_burger",
   "channels": {
     "ken_clips_burger": {
@@ -86,7 +86,7 @@
         "autopilot_engaged": true,
         "buffer_target_shorts": 10,
         "daily_target": 5,
-        "remote_tunnel_url": "https://warrior-complimentary-people-measurement.trycloudflare.com",
+        "remote_tunnel_url": "https://api.trycloudflare.com",
         "channel_id": "UCsBZAgHGlc5GU7r4E-8tUyA",
         "oauth_connected": true
       },
@@ -96,14 +96,14 @@
           "current_task": "Queue up to date. Waiting for next daily Ken upload.",
           "last_completed_task": "Ingested 5 recent Ken master videos into source pool",
           "recent_logs": [
-            "[09:07:31] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
-            "[09:07:42] Queue up to date. Waiting for next daily Ken upload.",
             "[09:09:42] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
             "[09:09:52] Queue up to date. Waiting for next daily Ken upload.",
             "[09:11:52] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
             "[09:12:04] Queue up to date. Waiting for next daily Ken upload.",
             "[09:14:04] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
-            "[09:14:14] Queue up to date. Waiting for next daily Ken upload."
+            "[09:14:14] Queue up to date. Waiting for next daily Ken upload.",
+            "[10:09:50] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
+            "[10:09:51] Queue up to date. Waiting for next daily Ken upload."
           ]
         },
         "STRATEGIST": {
@@ -123,17 +123,17 @@
         },
         "EDITOR": {
           "status": "working",
-          "current_task": "Rendering gaming_split Short with captions: perfected my deck [Overtime Ba",
+          "current_task": "Downloading highlight segment (*300-480) for: return of peak [Clutch Moment]...",
           "last_completed_task": "Rendered 'hp buffed' rage highlight with kinetic pop captions & commentary",
           "recent_logs": [
-            "[04:29:01] Downloading highlight segment (*300-480) for: least busted card [Clutch Moment]...",
             "[04:29:06] Rendering gaming_split Short with captions: least busted card [Clutch Mome",
             "[04:48:02] Downloading highlight segment (*540-720) for: least busted card [Overtime Battle]...",
             "[04:48:06] Rendering gaming_split Short with captions: least busted card [Overtime Ba",
             "[05:07:54] Downloading highlight segment (*300-480) for: perfected my deck [Clutch Moment]...",
             "[05:07:58] Rendering gaming_split Short with captions: perfected my deck [Clutch Mome",
             "[05:17:28] Downloading highlight segment (*540-720) for: perfected my deck [Overtime Battle]...",
-            "[05:17:32] Rendering gaming_split Short with captions: perfected my deck [Overtime Ba"
+            "[05:17:32] Rendering gaming_split Short with captions: perfected my deck [Overtime Ba",
+            "[10:09:51] Downloading highlight segment (*300-480) for: return of peak [Clutch Moment]..."
           ]
         },
         "COMMENTATOR": {
@@ -165,14 +165,14 @@
           "current_task": "Auditing velocity of active Ken Clash Royale Shorts...",
           "last_completed_task": "Calibrated gaming threshold: >15 views/hr within 4h",
           "recent_logs": [
-            "[08:00:40] Auditing velocity of active Ken Clash Royale Shorts...",
             "[08:16:43] Auditing velocity of active Ken Clash Royale Shorts...",
             "[08:19:14] Auditing velocity of active Ken Clash Royale Shorts...",
             "[08:51:45] Auditing velocity of active Ken Clash Royale Shorts...",
             "[09:07:42] Auditing velocity of active Ken Clash Royale Shorts...",
             "[09:09:52] Auditing velocity of active Ken Clash Royale Shorts...",
             "[09:12:04] Auditing velocity of active Ken Clash Royale Shorts...",
-            "[09:14:14] Auditing velocity of active Ken Clash Royale Shorts..."
+            "[09:14:14] Auditing velocity of active Ken Clash Royale Shorts...",
+            "[10:09:51] Auditing velocity of active Ken Clash Royale Shorts..."
           ]
         },
         "WATCHDOG": {
@@ -180,14 +180,14 @@
           "current_task": "Verifying Supercell fan policy: 0 claims, 0 strikes.",
           "last_completed_task": "Audited source parameters: strictly <30s segment rule active",
           "recent_logs": [
-            "[08:00:40] Verifying Supercell fan policy: 0 claims, 0 strikes.",
             "[08:16:43] Verifying Supercell fan policy: 0 claims, 0 strikes.",
             "[08:19:14] Verifying Supercell fan policy: 0 claims, 0 strikes.",
             "[08:51:45] Verifying Supercell fan policy: 0 claims, 0 strikes.",
             "[09:07:42] Verifying Supercell fan policy: 0 claims, 0 strikes.",
             "[09:09:52] Verifying Supercell fan policy: 0 claims, 0 strikes.",
             "[09:12:04] Verifying Supercell fan policy: 0 claims, 0 strikes.",
-            "[09:14:14] Verifying Supercell fan policy: 0 claims, 0 strikes."
+            "[09:14:14] Verifying Supercell fan policy: 0 claims, 0 strikes.",
+            "[10:09:51] Verifying Supercell fan policy: 0 claims, 0 strikes."
           ]
         }
       },
@@ -212,7 +212,7 @@
             "url": "https://www.youtube.com/watch?v=vUkNMTvNzZ8",
             "section": "*300-480",
             "duration": 1501,
-            "status": "QUEUED",
+            "status": "FAILED_DOWNLOAD",
             "added_at": "2026-10-17T04:48:12Z"
           },
           {
@@ -598,72 +598,6 @@
       },
       "calendar": {
         "scheduled": [
-          {
-            "id": "ken_1792212492_2",
-            "source_video": "they added gifs [Clutch Moment]",
-            "creator": "Ken",
-            "title": "I Accidentally Found the Deadliest Synergy...",
-            "publish_at": "2026-10-18T14:00:00Z",
-            "status": "SCHEDULED",
-            "uploaded": true,
-            "youtube_video_id": "taMrNFxp-v0",
-            "youtube_url": "https://www.youtube.com/shorts/taMrNFxp-v0",
-            "video_file": "ken_1792212492_2_master.mp4",
-            "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792212492_2_master.mp4",
-            "duration": 25.51,
-            "hook_summary": "The speaker has a sudden 'aha' moment, realizing he might have accidentally 'cooked' a powerful new strategy using Evo Minion Horde and Sparky.",
-            "metadata": {
-              "title": "I Accidentally Found the Deadliest Synergy...",
-              "description": "Ken has a sudden realization mid-match that combining Evo Minion Horde with Sparky creates an unstoppable push. Did he accidentally break the meta?\n\n\u2022 Why Sparky and Evo Minion Horde bait identical counters\n\u2022 How to turn accidental plays into massive trophy gains\n\u2022 Timing the combo to overwhelm enemy tower defenses\n\nFeaturing: Ken\n\nIs Evo Minion Horde actually top tier now, or did Ken just get lucky? Sound off in the comments!\n\n#shorts #clashroyale #sparky #ken #gaming",
-              "tags": [
-                "clash royale",
-                "ken clash royale",
-                "sparky deck",
-                "evo minion horde",
-                "clash royale strategy",
-                "clash royale best deck",
-                "sparky synergy",
-                "clash royale shorts",
-                "gaming"
-              ],
-              "pinned_comment": "Did Ken actually cook with this Sparky + Horde deck, or is it getting hard-countered in mid-ladder? Drop your honest take below \ud83d\udc47",
-              "ab_variants": {
-                "A": {
-                  "angle": "Curiosity Gap",
-                  "title": "I Accidentally Found the Deadliest Synergy...",
-                  "description": "Ken has a sudden realization mid-match that combining Evo Minion Horde with Sparky creates an unstoppable push. Did he accidentally break the meta?\n\n\u2022 Why Sparky and Evo Minion Horde bait identical counters\n\u2022 How to turn accidental plays into massive trophy gains\n\u2022 Timing the combo to overwhelm enemy tower defenses\n\nFeaturing: Ken\n\nIs Evo Minion Horde actually top tier now, or did Ken just get lucky? Sound off in the comments!\n\n#shorts #clashroyale #sparky #ken #gaming"
-                },
-                "B": {
-                  "angle": "Contrarian Truth",
-                  "title": "Stop Sleeping on Evo Minion Horde...",
-                  "description": "Everyone claims Minion Horde is useless, but pairing it with Sparky changes everything. Ken proves why the traditional meta strategy is wrong.\n\n\u2022 Why hard counters fail against this specific dual threat\n\u2022 The surprising mechanics breaking current ladder play\n\u2022 Forcing panic spell drops from your opponent\n\nFeaturing: Ken\n\nWould you ever run Sparky and Minion Horde together, or is this deck completely overrated?\n\n#shorts #clashroyale #gaming #sparky #clashroyaledecks"
-                },
-                "C": {
-                  "angle": "Actionable Protocol",
-                  "title": "How to Instant-Win with Sparky + Horde",
-                  "description": "Want to melt heavy pushes in seconds? Here is the exact strategic blueprint Ken used to unleash the Sparky and Evo Minion Horde synergy.\n\n\u2022 Force out low-cost spells before dropping your Horde\n\u2022 Protect Sparky using high-DPS swarm distractions\n\u2022 Capitalize instantly on heavy elixir commitments\n\nFeaturing: Ken\n\nWhat is the single best counter card to stop this push cold? Drop your strategy below!\n\n#shorts #clashroyale #gamingtips #sparky #ken"
-                }
-              },
-              "active_variant": "A",
-              "test_status": "ACTIVE_TEST",
-              "variant_history": [
-                {
-                  "variant": "A",
-                  "title": "I Accidentally Found the Deadliest Synergy...",
-                  "deployed_at": 1792213226.9957519,
-                  "reason": "Initial A/B test deployment"
-                }
-              ],
-              "metrics": {
-                "views": 0,
-                "likes": 0,
-                "comments": 0,
-                "retention": 0.0,
-                "ctr": 0.0
-              }
-            },
-            "reframed": "gaming_split"
-          },
           {
             "id": "ken_1792212492_3",
             "source_video": "they added gifs [Overtime Battle]",
@@ -1262,6 +1196,72 @@
         ],
         "held": [],
         "published": [
+          {
+            "id": "ken_1792212492_2",
+            "source_video": "they added gifs [Clutch Moment]",
+            "creator": "Ken",
+            "title": "I Accidentally Found the Deadliest Synergy...",
+            "publish_at": "2026-10-18T14:00:00Z",
+            "status": "PUBLISHED",
+            "uploaded": true,
+            "youtube_video_id": "taMrNFxp-v0",
+            "youtube_url": "https://www.youtube.com/shorts/taMrNFxp-v0",
+            "video_file": "ken_1792212492_2_master.mp4",
+            "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792212492_2_master.mp4",
+            "duration": 25.51,
+            "hook_summary": "The speaker has a sudden 'aha' moment, realizing he might have accidentally 'cooked' a powerful new strategy using Evo Minion Horde and Sparky.",
+            "metadata": {
+              "title": "I Accidentally Found the Deadliest Synergy...",
+              "description": "Ken has a sudden realization mid-match that combining Evo Minion Horde with Sparky creates an unstoppable push. Did he accidentally break the meta?\n\n\u2022 Why Sparky and Evo Minion Horde bait identical counters\n\u2022 How to turn accidental plays into massive trophy gains\n\u2022 Timing the combo to overwhelm enemy tower defenses\n\nFeaturing: Ken\n\nIs Evo Minion Horde actually top tier now, or did Ken just get lucky? Sound off in the comments!\n\n#shorts #clashroyale #sparky #ken #gaming",
+              "tags": [
+                "clash royale",
+                "ken clash royale",
+                "sparky deck",
+                "evo minion horde",
+                "clash royale strategy",
+                "clash royale best deck",
+                "sparky synergy",
+                "clash royale shorts",
+                "gaming"
+              ],
+              "pinned_comment": "Did Ken actually cook with this Sparky + Horde deck, or is it getting hard-countered in mid-ladder? Drop your honest take below \ud83d\udc47",
+              "ab_variants": {
+                "A": {
+                  "angle": "Curiosity Gap",
+                  "title": "I Accidentally Found the Deadliest Synergy...",
+                  "description": "Ken has a sudden realization mid-match that combining Evo Minion Horde with Sparky creates an unstoppable push. Did he accidentally break the meta?\n\n\u2022 Why Sparky and Evo Minion Horde bait identical counters\n\u2022 How to turn accidental plays into massive trophy gains\n\u2022 Timing the combo to overwhelm enemy tower defenses\n\nFeaturing: Ken\n\nIs Evo Minion Horde actually top tier now, or did Ken just get lucky? Sound off in the comments!\n\n#shorts #clashroyale #sparky #ken #gaming"
+                },
+                "B": {
+                  "angle": "Contrarian Truth",
+                  "title": "Stop Sleeping on Evo Minion Horde...",
+                  "description": "Everyone claims Minion Horde is useless, but pairing it with Sparky changes everything. Ken proves why the traditional meta strategy is wrong.\n\n\u2022 Why hard counters fail against this specific dual threat\n\u2022 The surprising mechanics breaking current ladder play\n\u2022 Forcing panic spell drops from your opponent\n\nFeaturing: Ken\n\nWould you ever run Sparky and Minion Horde together, or is this deck completely overrated?\n\n#shorts #clashroyale #gaming #sparky #clashroyaledecks"
+                },
+                "C": {
+                  "angle": "Actionable Protocol",
+                  "title": "How to Instant-Win with Sparky + Horde",
+                  "description": "Want to melt heavy pushes in seconds? Here is the exact strategic blueprint Ken used to unleash the Sparky and Evo Minion Horde synergy.\n\n\u2022 Force out low-cost spells before dropping your Horde\n\u2022 Protect Sparky using high-DPS swarm distractions\n\u2022 Capitalize instantly on heavy elixir commitments\n\nFeaturing: Ken\n\nWhat is the single best counter card to stop this push cold? Drop your strategy below!\n\n#shorts #clashroyale #gamingtips #sparky #ken"
+                }
+              },
+              "active_variant": "A",
+              "test_status": "ACTIVE_TEST",
+              "variant_history": [
+                {
+                  "variant": "A",
+                  "title": "I Accidentally Found the Deadliest Synergy...",
+                  "deployed_at": 1792213226.9957519,
+                  "reason": "Initial A/B test deployment"
+                }
+              ],
+              "metrics": {
+                "views": 0,
+                "likes": 0,
+                "comments": 0,
+                "retention": 0.0,
+                "ctr": 0.0
+              }
+            },
+            "reframed": "gaming_split"
+          },
           {
             "id": "ken_1792212492_1",
             "source_video": "weirdest buff ever [Overtime Battle]",
@@ -2123,12 +2123,12 @@
         "dashboard": {
           "host": "127.0.0.1",
           "port": 8899,
-          "remote_tunnel_url": "https://warrior-complimentary-people-measurement.trycloudflare.com",
+          "remote_tunnel_url": "https://api.trycloudflare.com",
           "tunnel_active": true
         },
         "status": "PAUSED",
         "buffer_target_shorts": 6,
-        "remote_tunnel_url": "https://warrior-complimentary-people-measurement.trycloudflare.com",
+        "remote_tunnel_url": "https://api.trycloudflare.com",
         "channel_id": "UCKqBK1q6-0i735Mn_hiNIig",
         "channel_name": "Muks Breakdown Room",
         "oauth_connected": true
@@ -3642,7 +3642,7 @@
         "emergency_stop": false,
         "autopilot_engaged": false,
         "buffer_target_shorts": 6,
-        "remote_tunnel_url": "https://warrior-complimentary-people-measurement.trycloudflare.com",
+        "remote_tunnel_url": "https://api.trycloudflare.com",
         "channel_id": "UCcNdnkFH4m9C3rUunbOEaSg",
         "oauth_connected": true
       },
@@ -4872,7 +4872,7 @@
     "autopilot_engaged": true,
     "buffer_target_shorts": 10,
     "daily_target": 5,
-    "remote_tunnel_url": "https://warrior-complimentary-people-measurement.trycloudflare.com",
+    "remote_tunnel_url": "https://api.trycloudflare.com",
     "channel_id": "UCsBZAgHGlc5GU7r4E-8tUyA",
     "oauth_connected": true
   },
@@ -4882,14 +4882,14 @@
       "current_task": "Queue up to date. Waiting for next daily Ken upload.",
       "last_completed_task": "Ingested 5 recent Ken master videos into source pool",
       "recent_logs": [
-        "[09:07:31] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
-        "[09:07:42] Queue up to date. Waiting for next daily Ken upload.",
         "[09:09:42] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
         "[09:09:52] Queue up to date. Waiting for next daily Ken upload.",
         "[09:11:52] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
         "[09:12:04] Queue up to date. Waiting for next daily Ken upload.",
         "[09:14:04] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
-        "[09:14:14] Queue up to date. Waiting for next daily Ken upload."
+        "[09:14:14] Queue up to date. Waiting for next daily Ken upload.",
+        "[10:09:50] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
+        "[10:09:51] Queue up to date. Waiting for next daily Ken upload."
       ]
     },
     "STRATEGIST": {
@@ -4909,17 +4909,17 @@
     },
     "EDITOR": {
       "status": "working",
-      "current_task": "Rendering gaming_split Short with captions: perfected my deck [Overtime Ba",
+      "current_task": "Downloading highlight segment (*300-480) for: return of peak [Clutch Moment]...",
       "last_completed_task": "Rendered 'hp buffed' rage highlight with kinetic pop captions & commentary",
       "recent_logs": [
-        "[04:29:01] Downloading highlight segment (*300-480) for: least busted card [Clutch Moment]...",
         "[04:29:06] Rendering gaming_split Short with captions: least busted card [Clutch Mome",
         "[04:48:02] Downloading highlight segment (*540-720) for: least busted card [Overtime Battle]...",
         "[04:48:06] Rendering gaming_split Short with captions: least busted card [Overtime Ba",
         "[05:07:54] Downloading highlight segment (*300-480) for: perfected my deck [Clutch Moment]...",
         "[05:07:58] Rendering gaming_split Short with captions: perfected my deck [Clutch Mome",
         "[05:17:28] Downloading highlight segment (*540-720) for: perfected my deck [Overtime Battle]...",
-        "[05:17:32] Rendering gaming_split Short with captions: perfected my deck [Overtime Ba"
+        "[05:17:32] Rendering gaming_split Short with captions: perfected my deck [Overtime Ba",
+        "[10:09:51] Downloading highlight segment (*300-480) for: return of peak [Clutch Moment]..."
       ]
     },
     "COMMENTATOR": {
@@ -4951,14 +4951,14 @@
       "current_task": "Auditing velocity of active Ken Clash Royale Shorts...",
       "last_completed_task": "Calibrated gaming threshold: >15 views/hr within 4h",
       "recent_logs": [
-        "[08:00:40] Auditing velocity of active Ken Clash Royale Shorts...",
         "[08:16:43] Auditing velocity of active Ken Clash Royale Shorts...",
         "[08:19:14] Auditing velocity of active Ken Clash Royale Shorts...",
         "[08:51:45] Auditing velocity of active Ken Clash Royale Shorts...",
         "[09:07:42] Auditing velocity of active Ken Clash Royale Shorts...",
         "[09:09:52] Auditing velocity of active Ken Clash Royale Shorts...",
         "[09:12:04] Auditing velocity of active Ken Clash Royale Shorts...",
-        "[09:14:14] Auditing velocity of active Ken Clash Royale Shorts..."
+        "[09:14:14] Auditing velocity of active Ken Clash Royale Shorts...",
+        "[10:09:51] Auditing velocity of active Ken Clash Royale Shorts..."
       ]
     },
     "WATCHDOG": {
@@ -4966,14 +4966,14 @@
       "current_task": "Verifying Supercell fan policy: 0 claims, 0 strikes.",
       "last_completed_task": "Audited source parameters: strictly <30s segment rule active",
       "recent_logs": [
-        "[08:00:40] Verifying Supercell fan policy: 0 claims, 0 strikes.",
         "[08:16:43] Verifying Supercell fan policy: 0 claims, 0 strikes.",
         "[08:19:14] Verifying Supercell fan policy: 0 claims, 0 strikes.",
         "[08:51:45] Verifying Supercell fan policy: 0 claims, 0 strikes.",
         "[09:07:42] Verifying Supercell fan policy: 0 claims, 0 strikes.",
         "[09:09:52] Verifying Supercell fan policy: 0 claims, 0 strikes.",
         "[09:12:04] Verifying Supercell fan policy: 0 claims, 0 strikes.",
-        "[09:14:14] Verifying Supercell fan policy: 0 claims, 0 strikes."
+        "[09:14:14] Verifying Supercell fan policy: 0 claims, 0 strikes.",
+        "[10:09:51] Verifying Supercell fan policy: 0 claims, 0 strikes."
       ]
     }
   },
@@ -4998,7 +4998,7 @@
         "url": "https://www.youtube.com/watch?v=vUkNMTvNzZ8",
         "section": "*300-480",
         "duration": 1501,
-        "status": "QUEUED",
+        "status": "FAILED_DOWNLOAD",
         "added_at": "2026-10-17T04:48:12Z"
       },
       {
@@ -5384,72 +5384,6 @@
   },
   "calendar": {
     "scheduled": [
-      {
-        "id": "ken_1792212492_2",
-        "source_video": "they added gifs [Clutch Moment]",
-        "creator": "Ken",
-        "title": "I Accidentally Found the Deadliest Synergy...",
-        "publish_at": "2026-10-18T14:00:00Z",
-        "status": "SCHEDULED",
-        "uploaded": true,
-        "youtube_video_id": "taMrNFxp-v0",
-        "youtube_url": "https://www.youtube.com/shorts/taMrNFxp-v0",
-        "video_file": "ken_1792212492_2_master.mp4",
-        "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792212492_2_master.mp4",
-        "duration": 25.51,
-        "hook_summary": "The speaker has a sudden 'aha' moment, realizing he might have accidentally 'cooked' a powerful new strategy using Evo Minion Horde and Sparky.",
-        "metadata": {
-          "title": "I Accidentally Found the Deadliest Synergy...",
-          "description": "Ken has a sudden realization mid-match that combining Evo Minion Horde with Sparky creates an unstoppable push. Did he accidentally break the meta?\n\n\u2022 Why Sparky and Evo Minion Horde bait identical counters\n\u2022 How to turn accidental plays into massive trophy gains\n\u2022 Timing the combo to overwhelm enemy tower defenses\n\nFeaturing: Ken\n\nIs Evo Minion Horde actually top tier now, or did Ken just get lucky? Sound off in the comments!\n\n#shorts #clashroyale #sparky #ken #gaming",
-          "tags": [
-            "clash royale",
-            "ken clash royale",
-            "sparky deck",
-            "evo minion horde",
-            "clash royale strategy",
-            "clash royale best deck",
-            "sparky synergy",
-            "clash royale shorts",
-            "gaming"
-          ],
-          "pinned_comment": "Did Ken actually cook with this Sparky + Horde deck, or is it getting hard-countered in mid-ladder? Drop your honest take below \ud83d\udc47",
-          "ab_variants": {
-            "A": {
-              "angle": "Curiosity Gap",
-              "title": "I Accidentally Found the Deadliest Synergy...",
-              "description": "Ken has a sudden realization mid-match that combining Evo Minion Horde with Sparky creates an unstoppable push. Did he accidentally break the meta?\n\n\u2022 Why Sparky and Evo Minion Horde bait identical counters\n\u2022 How to turn accidental plays into massive trophy gains\n\u2022 Timing the combo to overwhelm enemy tower defenses\n\nFeaturing: Ken\n\nIs Evo Minion Horde actually top tier now, or did Ken just get lucky? Sound off in the comments!\n\n#shorts #clashroyale #sparky #ken #gaming"
-            },
-            "B": {
-              "angle": "Contrarian Truth",
-              "title": "Stop Sleeping on Evo Minion Horde...",
-              "description": "Everyone claims Minion Horde is useless, but pairing it with Sparky changes everything. Ken proves why the traditional meta strategy is wrong.\n\n\u2022 Why hard counters fail against this specific dual threat\n\u2022 The surprising mechanics breaking current ladder play\n\u2022 Forcing panic spell drops from your opponent\n\nFeaturing: Ken\n\nWould you ever run Sparky and Minion Horde together, or is this deck completely overrated?\n\n#shorts #clashroyale #gaming #sparky #clashroyaledecks"
-            },
-            "C": {
-              "angle": "Actionable Protocol",
-              "title": "How to Instant-Win with Sparky + Horde",
-              "description": "Want to melt heavy pushes in seconds? Here is the exact strategic blueprint Ken used to unleash the Sparky and Evo Minion Horde synergy.\n\n\u2022 Force out low-cost spells before dropping your Horde\n\u2022 Protect Sparky using high-DPS swarm distractions\n\u2022 Capitalize instantly on heavy elixir commitments\n\nFeaturing: Ken\n\nWhat is the single best counter card to stop this push cold? Drop your strategy below!\n\n#shorts #clashroyale #gamingtips #sparky #ken"
-            }
-          },
-          "active_variant": "A",
-          "test_status": "ACTIVE_TEST",
-          "variant_history": [
-            {
-              "variant": "A",
-              "title": "I Accidentally Found the Deadliest Synergy...",
-              "deployed_at": 1792213226.9957519,
-              "reason": "Initial A/B test deployment"
-            }
-          ],
-          "metrics": {
-            "views": 0,
-            "likes": 0,
-            "comments": 0,
-            "retention": 0.0,
-            "ctr": 0.0
-          }
-        },
-        "reframed": "gaming_split"
-      },
       {
         "id": "ken_1792212492_3",
         "source_video": "they added gifs [Overtime Battle]",
@@ -6048,6 +5982,72 @@
     ],
     "held": [],
     "published": [
+      {
+        "id": "ken_1792212492_2",
+        "source_video": "they added gifs [Clutch Moment]",
+        "creator": "Ken",
+        "title": "I Accidentally Found the Deadliest Synergy...",
+        "publish_at": "2026-10-18T14:00:00Z",
+        "status": "PUBLISHED",
+        "uploaded": true,
+        "youtube_video_id": "taMrNFxp-v0",
+        "youtube_url": "https://www.youtube.com/shorts/taMrNFxp-v0",
+        "video_file": "ken_1792212492_2_master.mp4",
+        "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792212492_2_master.mp4",
+        "duration": 25.51,
+        "hook_summary": "The speaker has a sudden 'aha' moment, realizing he might have accidentally 'cooked' a powerful new strategy using Evo Minion Horde and Sparky.",
+        "metadata": {
+          "title": "I Accidentally Found the Deadliest Synergy...",
+          "description": "Ken has a sudden realization mid-match that combining Evo Minion Horde with Sparky creates an unstoppable push. Did he accidentally break the meta?\n\n\u2022 Why Sparky and Evo Minion Horde bait identical counters\n\u2022 How to turn accidental plays into massive trophy gains\n\u2022 Timing the combo to overwhelm enemy tower defenses\n\nFeaturing: Ken\n\nIs Evo Minion Horde actually top tier now, or did Ken just get lucky? Sound off in the comments!\n\n#shorts #clashroyale #sparky #ken #gaming",
+          "tags": [
+            "clash royale",
+            "ken clash royale",
+            "sparky deck",
+            "evo minion horde",
+            "clash royale strategy",
+            "clash royale best deck",
+            "sparky synergy",
+            "clash royale shorts",
+            "gaming"
+          ],
+          "pinned_comment": "Did Ken actually cook with this Sparky + Horde deck, or is it getting hard-countered in mid-ladder? Drop your honest take below \ud83d\udc47",
+          "ab_variants": {
+            "A": {
+              "angle": "Curiosity Gap",
+              "title": "I Accidentally Found the Deadliest Synergy...",
+              "description": "Ken has a sudden realization mid-match that combining Evo Minion Horde with Sparky creates an unstoppable push. Did he accidentally break the meta?\n\n\u2022 Why Sparky and Evo Minion Horde bait identical counters\n\u2022 How to turn accidental plays into massive trophy gains\n\u2022 Timing the combo to overwhelm enemy tower defenses\n\nFeaturing: Ken\n\nIs Evo Minion Horde actually top tier now, or did Ken just get lucky? Sound off in the comments!\n\n#shorts #clashroyale #sparky #ken #gaming"
+            },
+            "B": {
+              "angle": "Contrarian Truth",
+              "title": "Stop Sleeping on Evo Minion Horde...",
+              "description": "Everyone claims Minion Horde is useless, but pairing it with Sparky changes everything. Ken proves why the traditional meta strategy is wrong.\n\n\u2022 Why hard counters fail against this specific dual threat\n\u2022 The surprising mechanics breaking current ladder play\n\u2022 Forcing panic spell drops from your opponent\n\nFeaturing: Ken\n\nWould you ever run Sparky and Minion Horde together, or is this deck completely overrated?\n\n#shorts #clashroyale #gaming #sparky #clashroyaledecks"
+            },
+            "C": {
+              "angle": "Actionable Protocol",
+              "title": "How to Instant-Win with Sparky + Horde",
+              "description": "Want to melt heavy pushes in seconds? Here is the exact strategic blueprint Ken used to unleash the Sparky and Evo Minion Horde synergy.\n\n\u2022 Force out low-cost spells before dropping your Horde\n\u2022 Protect Sparky using high-DPS swarm distractions\n\u2022 Capitalize instantly on heavy elixir commitments\n\nFeaturing: Ken\n\nWhat is the single best counter card to stop this push cold? Drop your strategy below!\n\n#shorts #clashroyale #gamingtips #sparky #ken"
+            }
+          },
+          "active_variant": "A",
+          "test_status": "ACTIVE_TEST",
+          "variant_history": [
+            {
+              "variant": "A",
+              "title": "I Accidentally Found the Deadliest Synergy...",
+              "deployed_at": 1792213226.9957519,
+              "reason": "Initial A/B test deployment"
+            }
+          ],
+          "metrics": {
+            "views": 0,
+            "likes": 0,
+            "comments": 0,
+            "retention": 0.0,
+            "ctr": 0.0
+          }
+        },
+        "reframed": "gaming_split"
+      },
       {
         "id": "ken_1792212492_1",
         "source_video": "weirdest buff ever [Overtime Battle]",

@@ -1,6 +1,6 @@
 {
-  "timestamp": 1792355869.830088,
-  "sync_time_iso": "2026-10-18T20:37:49Z",
+  "timestamp": 1792355933.3519008,
+  "sync_time_iso": "2026-10-18T20:38:53Z",
   "default_channel": "ken_clips_burger",
   "channels": {
     "ken_clips_burger": {
@@ -96,14 +96,14 @@
           "current_task": "Queue up to date. Waiting for next daily Ken upload.",
           "last_completed_task": "Ingested 5 recent Ken master videos into source pool",
           "recent_logs": [
-            "[10:09:50] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
-            "[10:09:51] Queue up to date. Waiting for next daily Ken upload.",
             "[11:25:12] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
             "[11:25:13] Queue up to date. Waiting for next daily Ken upload.",
             "[13:29:39] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
             "[13:29:40] Queue up to date. Waiting for next daily Ken upload.",
             "[15:31:14] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
-            "[15:31:15] Queue up to date. Waiting for next daily Ken upload."
+            "[15:31:15] Queue up to date. Waiting for next daily Ken upload.",
+            "[16:37:57] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
+            "[16:38:13] Queue up to date. Waiting for next daily Ken upload."
           ]
         },
         "STRATEGIST": {
@@ -123,17 +123,17 @@
         },
         "EDITOR": {
           "status": "working",
-          "current_task": "Downloading highlight segment (*300-480) for: 25% buff abuse [Clutch Moment]...",
+          "current_task": "Rendering gaming_split Short with captions: 25% buff abuse [Overtime Battl",
           "last_completed_task": "Rendered 'hp buffed' rage highlight with kinetic pop captions & commentary",
           "recent_logs": [
-            "[05:07:54] Downloading highlight segment (*300-480) for: perfected my deck [Clutch Moment]...",
-            "[05:07:58] Rendering gaming_split Short with captions: perfected my deck [Clutch Mome",
             "[05:17:28] Downloading highlight segment (*540-720) for: perfected my deck [Overtime Battle]...",
             "[05:17:32] Rendering gaming_split Short with captions: perfected my deck [Overtime Ba",
             "[10:09:51] Downloading highlight segment (*300-480) for: return of peak [Clutch Moment]...",
             "[11:25:13] Downloading highlight segment (*540-720) for: return of peak [Overtime Battle]...",
             "[13:29:40] Downloading highlight segment (*60-240) for: 25% buff abuse [Highlight]...",
-            "[15:31:15] Downloading highlight segment (*300-480) for: 25% buff abuse [Clutch Moment]..."
+            "[15:31:15] Downloading highlight segment (*300-480) for: 25% buff abuse [Clutch Moment]...",
+            "[16:38:13] Downloading highlight segment (*540-720) for: 25% buff abuse [Overtime Battle]...",
+            "[16:38:19] Rendering gaming_split Short with captions: 25% buff abuse [Overtime Battl"
           ]
         },
         "COMMENTATOR": {
@@ -256,7 +256,7 @@
             "url": "https://www.youtube.com/watch?v=KMWFnfWe08E",
             "section": "*540-720",
             "duration": 1113,
-            "status": "QUEUED",
+            "status": "PROCESSING",
             "added_at": "2026-10-17T04:48:12Z"
           },
           {
@@ -598,72 +598,6 @@
       },
       "calendar": {
         "scheduled": [
-          {
-            "id": "ken_1792212492_4",
-            "source_video": "2.3 brainrot cycle [Clutch Moment]",
-            "creator": "Ken",
-            "title": "How he won the worst matchup ever...",
-            "publish_at": "2026-10-18T20:30:00Z",
-            "status": "SCHEDULED",
-            "uploaded": true,
-            "youtube_video_id": "tFDlYvCKgpE",
-            "youtube_url": "https://www.youtube.com/shorts/tFDlYvCKgpE",
-            "video_file": "ken_1792212492_4_master.mp4",
-            "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792212492_4_master.mp4",
-            "duration": 30.99,
-            "hook_summary": "The creator reacts to winning the most outrageous matchup thanks to a genius starting hand strategy.",
-            "metadata": {
-              "title": "How he won the worst matchup ever...",
-              "description": "Facing the most outrageous matchup in Clash Royale history should mean an instant loss. But with one secret starting hand strategy, the entire game flips upside down.\n\n\u2022 Discover the exact starting hand trap that neutralizes hard counters instantly.\n\u2022 Learn how to manipulate your opponent's opening moves before they realize what's happening.\n\u2022 See why bad matchups are actually free wins if you play your cards right.\n\nFeaturing: Ken\n\nWould you have just closed the game in this starting position, or kept playing?\n\n#shorts #clashroyale #gaming #strategy #mobilegames #ken",
-              "tags": [
-                "Clash Royale",
-                "Clash Royale Gameplay",
-                "Ken Clash Royale",
-                "Clash Royale Strategy",
-                "Starting Hand Strategy",
-                "Clash Royale Funny",
-                "Mobile Gaming",
-                "Clash Royale Shorts",
-                "Clash Royale Wins"
-              ],
-              "pinned_comment": "Be honest: would you have rage-quit before the 30-second mark in this matchup? Drop your rank below!",
-              "ab_variants": {
-                "A": {
-                  "angle": "Curiosity Gap",
-                  "title": "How he won the worst matchup ever...",
-                  "description": "Facing the most outrageous matchup in Clash Royale history should mean an instant loss. But with one secret starting hand strategy, the entire game flips upside down.\n\n\u2022 Discover the exact starting hand trap that neutralizes hard counters instantly.\n\u2022 Learn how to manipulate your opponent's opening moves before they realize what's happening.\n\u2022 See why bad matchups are actually free wins if you play your cards right.\n\nFeaturing: Ken\n\nWould you have just closed the game in this starting position, or kept playing?\n\n#shorts #clashroyale #gaming #strategy #mobilegames #ken"
-                },
-                "B": {
-                  "angle": "Contrarian Truth",
-                  "title": "Bad matchups don't exist.",
-                  "description": "Everyone complains about getting hard-countered, but top players know that starting hands change the entire math of the game. Watch how an impossible matchup gets completely dismantled from move one.\n\n\u2022 Stop blaming bad RNG and start exploiting opening hand statistics.\n\u2022 The psychological trick to making your opponent panic during the first ten seconds.\n\u2022 Why playing aggressive into a counter is actually the safest play.\n\nFeaturing: Ken\n\nIs starting hand RNG ruining Clash Royale, or is it pure skill expression?\n\n#shorts #clashroyale #gaming #ranked #mobilegaming #ken"
-                },
-                "C": {
-                  "angle": "Actionable Protocol",
-                  "title": "The Ultimate Starting Hand Strategy",
-                  "description": "Want to win unwinnable matches? Here is the exact blueprint for turning a disastrous starting hand into a masterclass victory in Clash Royale.\n\n\u2022 Memorize the 3-second opening evaluation rule for every deck archetype.\n\u2022 Execute the counter-push trap to punish greedy first plays.\n\u2022 Take control of the elixir advantage before the single elixir phase even ends.\n\nFeaturing: Ken\n\nWhat is your go-to opening play when your starting hand is absolute trash?\n\n#shorts #clashroyale #protips #gaming #clashroyaletips #ken"
-                }
-              },
-              "active_variant": "A",
-              "test_status": "ACTIVE_TEST",
-              "variant_history": [
-                {
-                  "variant": "A",
-                  "title": "How he won the worst matchup ever...",
-                  "deployed_at": 1792213612.6975832,
-                  "reason": "Initial A/B test deployment"
-                }
-              ],
-              "metrics": {
-                "views": 0,
-                "likes": 0,
-                "comments": 0,
-                "retention": 0.0,
-                "ctr": 0.0
-              }
-            },
-            "reframed": "gaming_split"
-          },
           {
             "id": "ken_1792212492_5",
             "source_video": "hp buffed [Clutch Moment]",
@@ -1130,6 +1064,72 @@
         ],
         "held": [],
         "published": [
+          {
+            "id": "ken_1792212492_4",
+            "source_video": "2.3 brainrot cycle [Clutch Moment]",
+            "creator": "Ken",
+            "title": "How he won the worst matchup ever...",
+            "publish_at": "2026-10-18T20:30:00Z",
+            "status": "PUBLISHED",
+            "uploaded": true,
+            "youtube_video_id": "tFDlYvCKgpE",
+            "youtube_url": "https://www.youtube.com/shorts/tFDlYvCKgpE",
+            "video_file": "ken_1792212492_4_master.mp4",
+            "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792212492_4_master.mp4",
+            "duration": 30.99,
+            "hook_summary": "The creator reacts to winning the most outrageous matchup thanks to a genius starting hand strategy.",
+            "metadata": {
+              "title": "How he won the worst matchup ever...",
+              "description": "Facing the most outrageous matchup in Clash Royale history should mean an instant loss. But with one secret starting hand strategy, the entire game flips upside down.\n\n\u2022 Discover the exact starting hand trap that neutralizes hard counters instantly.\n\u2022 Learn how to manipulate your opponent's opening moves before they realize what's happening.\n\u2022 See why bad matchups are actually free wins if you play your cards right.\n\nFeaturing: Ken\n\nWould you have just closed the game in this starting position, or kept playing?\n\n#shorts #clashroyale #gaming #strategy #mobilegames #ken",
+              "tags": [
+                "Clash Royale",
+                "Clash Royale Gameplay",
+                "Ken Clash Royale",
+                "Clash Royale Strategy",
+                "Starting Hand Strategy",
+                "Clash Royale Funny",
+                "Mobile Gaming",
+                "Clash Royale Shorts",
+                "Clash Royale Wins"
+              ],
+              "pinned_comment": "Be honest: would you have rage-quit before the 30-second mark in this matchup? Drop your rank below!",
+              "ab_variants": {
+                "A": {
+                  "angle": "Curiosity Gap",
+                  "title": "How he won the worst matchup ever...",
+                  "description": "Facing the most outrageous matchup in Clash Royale history should mean an instant loss. But with one secret starting hand strategy, the entire game flips upside down.\n\n\u2022 Discover the exact starting hand trap that neutralizes hard counters instantly.\n\u2022 Learn how to manipulate your opponent's opening moves before they realize what's happening.\n\u2022 See why bad matchups are actually free wins if you play your cards right.\n\nFeaturing: Ken\n\nWould you have just closed the game in this starting position, or kept playing?\n\n#shorts #clashroyale #gaming #strategy #mobilegames #ken"
+                },
+                "B": {
+                  "angle": "Contrarian Truth",
+                  "title": "Bad matchups don't exist.",
+                  "description": "Everyone complains about getting hard-countered, but top players know that starting hands change the entire math of the game. Watch how an impossible matchup gets completely dismantled from move one.\n\n\u2022 Stop blaming bad RNG and start exploiting opening hand statistics.\n\u2022 The psychological trick to making your opponent panic during the first ten seconds.\n\u2022 Why playing aggressive into a counter is actually the safest play.\n\nFeaturing: Ken\n\nIs starting hand RNG ruining Clash Royale, or is it pure skill expression?\n\n#shorts #clashroyale #gaming #ranked #mobilegaming #ken"
+                },
+                "C": {
+                  "angle": "Actionable Protocol",
+                  "title": "The Ultimate Starting Hand Strategy",
+                  "description": "Want to win unwinnable matches? Here is the exact blueprint for turning a disastrous starting hand into a masterclass victory in Clash Royale.\n\n\u2022 Memorize the 3-second opening evaluation rule for every deck archetype.\n\u2022 Execute the counter-push trap to punish greedy first plays.\n\u2022 Take control of the elixir advantage before the single elixir phase even ends.\n\nFeaturing: Ken\n\nWhat is your go-to opening play when your starting hand is absolute trash?\n\n#shorts #clashroyale #protips #gaming #clashroyaletips #ken"
+                }
+              },
+              "active_variant": "A",
+              "test_status": "ACTIVE_TEST",
+              "variant_history": [
+                {
+                  "variant": "A",
+                  "title": "How he won the worst matchup ever...",
+                  "deployed_at": 1792213612.6975832,
+                  "reason": "Initial A/B test deployment"
+                }
+              ],
+              "metrics": {
+                "views": 0,
+                "likes": 0,
+                "comments": 0,
+                "retention": 0.0,
+                "ctr": 0.0
+              }
+            },
+            "reframed": "gaming_split"
+          },
           {
             "id": "ken_1792212492_3",
             "source_video": "they added gifs [Overtime Battle]",
@@ -4882,14 +4882,14 @@
       "current_task": "Queue up to date. Waiting for next daily Ken upload.",
       "last_completed_task": "Ingested 5 recent Ken master videos into source pool",
       "recent_logs": [
-        "[10:09:50] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
-        "[10:09:51] Queue up to date. Waiting for next daily Ken upload.",
         "[11:25:12] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
         "[11:25:13] Queue up to date. Waiting for next daily Ken upload.",
         "[13:29:39] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
         "[13:29:40] Queue up to date. Waiting for next daily Ken upload.",
         "[15:31:14] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
-        "[15:31:15] Queue up to date. Waiting for next daily Ken upload."
+        "[15:31:15] Queue up to date. Waiting for next daily Ken upload.",
+        "[16:37:57] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
+        "[16:38:13] Queue up to date. Waiting for next daily Ken upload."
       ]
     },
     "STRATEGIST": {
@@ -4909,17 +4909,17 @@
     },
     "EDITOR": {
       "status": "working",
-      "current_task": "Downloading highlight segment (*300-480) for: 25% buff abuse [Clutch Moment]...",
+      "current_task": "Rendering gaming_split Short with captions: 25% buff abuse [Overtime Battl",
       "last_completed_task": "Rendered 'hp buffed' rage highlight with kinetic pop captions & commentary",
       "recent_logs": [
-        "[05:07:54] Downloading highlight segment (*300-480) for: perfected my deck [Clutch Moment]...",
-        "[05:07:58] Rendering gaming_split Short with captions: perfected my deck [Clutch Mome",
         "[05:17:28] Downloading highlight segment (*540-720) for: perfected my deck [Overtime Battle]...",
         "[05:17:32] Rendering gaming_split Short with captions: perfected my deck [Overtime Ba",
         "[10:09:51] Downloading highlight segment (*300-480) for: return of peak [Clutch Moment]...",
         "[11:25:13] Downloading highlight segment (*540-720) for: return of peak [Overtime Battle]...",
         "[13:29:40] Downloading highlight segment (*60-240) for: 25% buff abuse [Highlight]...",
-        "[15:31:15] Downloading highlight segment (*300-480) for: 25% buff abuse [Clutch Moment]..."
+        "[15:31:15] Downloading highlight segment (*300-480) for: 25% buff abuse [Clutch Moment]...",
+        "[16:38:13] Downloading highlight segment (*540-720) for: 25% buff abuse [Overtime Battle]...",
+        "[16:38:19] Rendering gaming_split Short with captions: 25% buff abuse [Overtime Battl"
       ]
     },
     "COMMENTATOR": {
@@ -5042,7 +5042,7 @@
         "url": "https://www.youtube.com/watch?v=KMWFnfWe08E",
         "section": "*540-720",
         "duration": 1113,
-        "status": "QUEUED",
+        "status": "PROCESSING",
         "added_at": "2026-10-17T04:48:12Z"
       },
       {
@@ -5384,72 +5384,6 @@
   },
   "calendar": {
     "scheduled": [
-      {
-        "id": "ken_1792212492_4",
-        "source_video": "2.3 brainrot cycle [Clutch Moment]",
-        "creator": "Ken",
-        "title": "How he won the worst matchup ever...",
-        "publish_at": "2026-10-18T20:30:00Z",
-        "status": "SCHEDULED",
-        "uploaded": true,
-        "youtube_video_id": "tFDlYvCKgpE",
-        "youtube_url": "https://www.youtube.com/shorts/tFDlYvCKgpE",
-        "video_file": "ken_1792212492_4_master.mp4",
-        "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792212492_4_master.mp4",
-        "duration": 30.99,
-        "hook_summary": "The creator reacts to winning the most outrageous matchup thanks to a genius starting hand strategy.",
-        "metadata": {
-          "title": "How he won the worst matchup ever...",
-          "description": "Facing the most outrageous matchup in Clash Royale history should mean an instant loss. But with one secret starting hand strategy, the entire game flips upside down.\n\n\u2022 Discover the exact starting hand trap that neutralizes hard counters instantly.\n\u2022 Learn how to manipulate your opponent's opening moves before they realize what's happening.\n\u2022 See why bad matchups are actually free wins if you play your cards right.\n\nFeaturing: Ken\n\nWould you have just closed the game in this starting position, or kept playing?\n\n#shorts #clashroyale #gaming #strategy #mobilegames #ken",
-          "tags": [
-            "Clash Royale",
-            "Clash Royale Gameplay",
-            "Ken Clash Royale",
-            "Clash Royale Strategy",
-            "Starting Hand Strategy",
-            "Clash Royale Funny",
-            "Mobile Gaming",
-            "Clash Royale Shorts",
-            "Clash Royale Wins"
-          ],
-          "pinned_comment": "Be honest: would you have rage-quit before the 30-second mark in this matchup? Drop your rank below!",
-          "ab_variants": {
-            "A": {
-              "angle": "Curiosity Gap",
-              "title": "How he won the worst matchup ever...",
-              "description": "Facing the most outrageous matchup in Clash Royale history should mean an instant loss. But with one secret starting hand strategy, the entire game flips upside down.\n\n\u2022 Discover the exact starting hand trap that neutralizes hard counters instantly.\n\u2022 Learn how to manipulate your opponent's opening moves before they realize what's happening.\n\u2022 See why bad matchups are actually free wins if you play your cards right.\n\nFeaturing: Ken\n\nWould you have just closed the game in this starting position, or kept playing?\n\n#shorts #clashroyale #gaming #strategy #mobilegames #ken"
-            },
-            "B": {
-              "angle": "Contrarian Truth",
-              "title": "Bad matchups don't exist.",
-              "description": "Everyone complains about getting hard-countered, but top players know that starting hands change the entire math of the game. Watch how an impossible matchup gets completely dismantled from move one.\n\n\u2022 Stop blaming bad RNG and start exploiting opening hand statistics.\n\u2022 The psychological trick to making your opponent panic during the first ten seconds.\n\u2022 Why playing aggressive into a counter is actually the safest play.\n\nFeaturing: Ken\n\nIs starting hand RNG ruining Clash Royale, or is it pure skill expression?\n\n#shorts #clashroyale #gaming #ranked #mobilegaming #ken"
-            },
-            "C": {
-              "angle": "Actionable Protocol",
-              "title": "The Ultimate Starting Hand Strategy",
-              "description": "Want to win unwinnable matches? Here is the exact blueprint for turning a disastrous starting hand into a masterclass victory in Clash Royale.\n\n\u2022 Memorize the 3-second opening evaluation rule for every deck archetype.\n\u2022 Execute the counter-push trap to punish greedy first plays.\n\u2022 Take control of the elixir advantage before the single elixir phase even ends.\n\nFeaturing: Ken\n\nWhat is your go-to opening play when your starting hand is absolute trash?\n\n#shorts #clashroyale #protips #gaming #clashroyaletips #ken"
-            }
-          },
-          "active_variant": "A",
-          "test_status": "ACTIVE_TEST",
-          "variant_history": [
-            {
-              "variant": "A",
-              "title": "How he won the worst matchup ever...",
-              "deployed_at": 1792213612.6975832,
-              "reason": "Initial A/B test deployment"
-            }
-          ],
-          "metrics": {
-            "views": 0,
-            "likes": 0,
-            "comments": 0,
-            "retention": 0.0,
-            "ctr": 0.0
-          }
-        },
-        "reframed": "gaming_split"
-      },
       {
         "id": "ken_1792212492_5",
         "source_video": "hp buffed [Clutch Moment]",
@@ -5916,6 +5850,72 @@
     ],
     "held": [],
     "published": [
+      {
+        "id": "ken_1792212492_4",
+        "source_video": "2.3 brainrot cycle [Clutch Moment]",
+        "creator": "Ken",
+        "title": "How he won the worst matchup ever...",
+        "publish_at": "2026-10-18T20:30:00Z",
+        "status": "PUBLISHED",
+        "uploaded": true,
+        "youtube_video_id": "tFDlYvCKgpE",
+        "youtube_url": "https://www.youtube.com/shorts/tFDlYvCKgpE",
+        "video_file": "ken_1792212492_4_master.mp4",
+        "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792212492_4_master.mp4",
+        "duration": 30.99,
+        "hook_summary": "The creator reacts to winning the most outrageous matchup thanks to a genius starting hand strategy.",
+        "metadata": {
+          "title": "How he won the worst matchup ever...",
+          "description": "Facing the most outrageous matchup in Clash Royale history should mean an instant loss. But with one secret starting hand strategy, the entire game flips upside down.\n\n\u2022 Discover the exact starting hand trap that neutralizes hard counters instantly.\n\u2022 Learn how to manipulate your opponent's opening moves before they realize what's happening.\n\u2022 See why bad matchups are actually free wins if you play your cards right.\n\nFeaturing: Ken\n\nWould you have just closed the game in this starting position, or kept playing?\n\n#shorts #clashroyale #gaming #strategy #mobilegames #ken",
+          "tags": [
+            "Clash Royale",
+            "Clash Royale Gameplay",
+            "Ken Clash Royale",
+            "Clash Royale Strategy",
+            "Starting Hand Strategy",
+            "Clash Royale Funny",
+            "Mobile Gaming",
+            "Clash Royale Shorts",
+            "Clash Royale Wins"
+          ],
+          "pinned_comment": "Be honest: would you have rage-quit before the 30-second mark in this matchup? Drop your rank below!",
+          "ab_variants": {
+            "A": {
+              "angle": "Curiosity Gap",
+              "title": "How he won the worst matchup ever...",
+              "description": "Facing the most outrageous matchup in Clash Royale history should mean an instant loss. But with one secret starting hand strategy, the entire game flips upside down.\n\n\u2022 Discover the exact starting hand trap that neutralizes hard counters instantly.\n\u2022 Learn how to manipulate your opponent's opening moves before they realize what's happening.\n\u2022 See why bad matchups are actually free wins if you play your cards right.\n\nFeaturing: Ken\n\nWould you have just closed the game in this starting position, or kept playing?\n\n#shorts #clashroyale #gaming #strategy #mobilegames #ken"
+            },
+            "B": {
+              "angle": "Contrarian Truth",
+              "title": "Bad matchups don't exist.",
+              "description": "Everyone complains about getting hard-countered, but top players know that starting hands change the entire math of the game. Watch how an impossible matchup gets completely dismantled from move one.\n\n\u2022 Stop blaming bad RNG and start exploiting opening hand statistics.\n\u2022 The psychological trick to making your opponent panic during the first ten seconds.\n\u2022 Why playing aggressive into a counter is actually the safest play.\n\nFeaturing: Ken\n\nIs starting hand RNG ruining Clash Royale, or is it pure skill expression?\n\n#shorts #clashroyale #gaming #ranked #mobilegaming #ken"
+            },
+            "C": {
+              "angle": "Actionable Protocol",
+              "title": "The Ultimate Starting Hand Strategy",
+              "description": "Want to win unwinnable matches? Here is the exact blueprint for turning a disastrous starting hand into a masterclass victory in Clash Royale.\n\n\u2022 Memorize the 3-second opening evaluation rule for every deck archetype.\n\u2022 Execute the counter-push trap to punish greedy first plays.\n\u2022 Take control of the elixir advantage before the single elixir phase even ends.\n\nFeaturing: Ken\n\nWhat is your go-to opening play when your starting hand is absolute trash?\n\n#shorts #clashroyale #protips #gaming #clashroyaletips #ken"
+            }
+          },
+          "active_variant": "A",
+          "test_status": "ACTIVE_TEST",
+          "variant_history": [
+            {
+              "variant": "A",
+              "title": "How he won the worst matchup ever...",
+              "deployed_at": 1792213612.6975832,
+              "reason": "Initial A/B test deployment"
+            }
+          ],
+          "metrics": {
+            "views": 0,
+            "likes": 0,
+            "comments": 0,
+            "retention": 0.0,
+            "ctr": 0.0
+          }
+        },
+        "reframed": "gaming_split"
+      },
       {
         "id": "ken_1792212492_3",
         "source_video": "they added gifs [Overtime Battle]",

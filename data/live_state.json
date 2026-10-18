@@ -1,6 +1,6 @@
 {
-  "timestamp": 1792357072.442514,
-  "sync_time_iso": "2026-10-18T20:57:52Z",
+  "timestamp": 1792357093.992876,
+  "sync_time_iso": "2026-10-18T20:58:13Z",
   "default_channel": "ken_clips_burger",
   "channels": {
     "ken_clips_burger": {
@@ -86,7 +86,7 @@
         "autopilot_engaged": true,
         "buffer_target_shorts": 10,
         "daily_target": 5,
-        "remote_tunnel_url": "https://cant-crimes-breeding-alumni.trycloudflare.com",
+        "remote_tunnel_url": "https://ireland-invention-insight-ecommerce.trycloudflare.com",
         "channel_id": "UCsBZAgHGlc5GU7r4E-8tUyA",
         "oauth_connected": true
       },
@@ -147,17 +147,17 @@
         },
         "PUBLISHER": {
           "status": "working",
-          "current_task": "Short SCHEDULED on YouTube: xeqWQK8Aznk (10:15 PM ET (Mon, Oct 19))",
+          "current_task": "Short SCHEDULED on YouTube: LL4CAHLlMUA (10:00 AM ET (Tue, Oct 20))",
           "last_completed_task": "Uploaded all 3 initial Clash Royale gaming cuts to YouTube (kenclipsburger420)",
           "recent_logs": [
-            "[04:49:05] Deploying to YouTube (@kenclipsburger420) for release 04:30 PM ET (Mon, Oct 19)...",
-            "[04:49:11] Short SCHEDULED on YouTube: aPSSy4f9k14 (04:30 PM ET (Mon, Oct 19))",
-            "[05:08:55] Generating gaming A/B metadata for slot: 07:30 PM ET (Mon, Oct 19)...",
             "[05:09:01] Deploying to YouTube (@kenclipsburger420) for release 07:30 PM ET (Mon, Oct 19)...",
             "[05:09:07] Short SCHEDULED on YouTube: qW_tbL02ijs (07:30 PM ET (Mon, Oct 19))",
             "[05:34:13] Generating gaming A/B metadata for slot: 10:15 PM ET (Mon, Oct 19)...",
             "[05:34:24] Deploying to YouTube (@kenclipsburger420) for release 10:15 PM ET (Mon, Oct 19)...",
-            "[05:34:29] Short SCHEDULED on YouTube: xeqWQK8Aznk (10:15 PM ET (Mon, Oct 19))"
+            "[05:34:29] Short SCHEDULED on YouTube: xeqWQK8Aznk (10:15 PM ET (Mon, Oct 19))",
+            "[16:57:55] Generating gaming A/B metadata for slot: 10:00 AM ET (Tue, Oct 20)...",
+            "[16:58:07] Deploying to YouTube (@kenclipsburger420) for release 10:00 AM ET (Tue, Oct 20)...",
+            "[16:58:13] Short SCHEDULED on YouTube: LL4CAHLlMUA (10:00 AM ET (Tue, Oct 20))"
           ]
         },
         "ANALYST": {
@@ -246,17 +246,6 @@
             "section": "*300-480",
             "duration": 1113,
             "status": "FAILED_DOWNLOAD",
-            "added_at": "2026-10-17T04:48:12Z"
-          },
-          {
-            "id": "ken_1792212492_17",
-            "creator": "Ken",
-            "title": "25% buff abuse [Overtime Battle]",
-            "source_title": "25% buff abuse",
-            "url": "https://www.youtube.com/watch?v=KMWFnfWe08E",
-            "section": "*540-720",
-            "duration": 1113,
-            "status": "PROCESSING",
             "added_at": "2026-10-17T04:48:12Z"
           },
           {
@@ -593,6 +582,19 @@
             "added_at": "2026-10-17T04:48:12Z",
             "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792212492_12_master.mp4",
             "youtube_video_id": "xeqWQK8Aznk"
+          },
+          {
+            "id": "ken_1792212492_17",
+            "creator": "Ken",
+            "title": "25% buff abuse [Overtime Battle]",
+            "source_title": "25% buff abuse",
+            "url": "https://www.youtube.com/watch?v=KMWFnfWe08E",
+            "section": "*540-720",
+            "duration": 1113,
+            "status": "COMPLETED",
+            "added_at": "2026-10-17T04:48:12Z",
+            "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792212492_17_master.mp4",
+            "youtube_video_id": "LL4CAHLlMUA"
           }
         ]
       },
@@ -1048,6 +1050,72 @@
                   "variant": "A",
                   "title": "He actually said this in the lobby... \ud83d\udc80",
                   "deployed_at": 1792316064.641025,
+                  "reason": "Initial A/B test deployment"
+                }
+              ],
+              "metrics": {
+                "views": 0,
+                "likes": 0,
+                "comments": 0,
+                "retention": 0.0,
+                "ctr": 0.0
+              }
+            },
+            "reframed": "gaming_split"
+          },
+          {
+            "id": "ken_1792212492_17",
+            "source_video": "25% buff abuse [Overtime Battle]",
+            "creator": "Ken",
+            "title": "Why Amin's childhood explains every loss",
+            "publish_at": "2026-10-20T14:00:00Z",
+            "status": "SCHEDULED",
+            "uploaded": true,
+            "youtube_video_id": "LL4CAHLlMUA",
+            "youtube_url": "https://www.youtube.com/shorts/LL4CAHLlMUA",
+            "video_file": "ken_1792212492_17_master.mp4",
+            "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792212492_17_master.mp4",
+            "duration": 25.41,
+            "hook_summary": "After a frustrating gameplay loss, the creator delivers an unhinged and hilariously dark self-deprecating rant about his upbringing.",
+            "metadata": {
+              "title": "Why Amin's childhood explains every loss",
+              "description": "After a brutal gaming loss, Amin drops a shocking revelation about his childhood that turns a simple rage quit into a psychological mystery. You won't see this coming.\n\n\u2022 Discover the unexpected root cause of ultimate gamer rage\n\u2022 Learn how early life experiences shape modern gaming toxicity\n\u2022 See why unfiltered honesty makes the best comedy\n\nFeaturing: Ken\n\nDid Amin take a joke too far, or is this peak comedy? Drop your take below.\n\n#shorts #gaming #darkhumor #funny #ragequit #storytime",
+              "tags": [
+                "Amin",
+                "gaming rage",
+                "dark humor",
+                "rage quit",
+                "funny shorts",
+                "storytime",
+                "self deprecating humor",
+                "comedy skit",
+                "gaming moments"
+              ],
+              "pinned_comment": "On a scale of 1 to unhinged, how would you rate Amin's coping mechanism? Wrong answers only.",
+              "ab_variants": {
+                "A": {
+                  "angle": "Curiosity Gap",
+                  "title": "Why Amin's childhood explains every loss",
+                  "description": "After a brutal gaming loss, Amin drops a shocking revelation about his childhood that turns a simple rage quit into a psychological mystery. You won't see this coming.\n\n\u2022 Discover the unexpected root cause of ultimate gamer rage\n\u2022 Learn how early life experiences shape modern gaming toxicity\n\u2022 See why unfiltered honesty makes the best comedy\n\nFeaturing: Ken\n\nDid Amin take a joke too far, or is this peak comedy? Drop your take below.\n\n#shorts #gaming #darkhumor #funny #ragequit #storytime"
+                },
+                "B": {
+                  "angle": "Contrarian Truth",
+                  "title": "Gaming rage isn't about the game at all.",
+                  "description": "Everyone thinks raging at a video game is just about losing, but Amin exposes the deeper, darker truth behind why we really snap under pressure. Sometimes, it's just about the lack of hugs.\n\n\u2022 Uncover the hidden psychology behind aggressive gaming behavior\n\u2022 Why self-deprecating humor is the ultimate defense mechanism\n\u2022 The boundary-pushing truth about how we deal with trauma\n\nFeaturing: Ken\n\nDo you channel your childhood issues into your hobbies? Let us know in the comments.\n\n#shorts #psychology #gaminglife #darkcomedy #mindset #reality"
+                },
+                "C": {
+                  "angle": "Actionable Protocol",
+                  "title": "How to turn a massive L into pure comedy",
+                  "description": "Taking a devastating loss? Follow Amin's exact playbook for weaponizing your own tragic backstory into an unforgettable punchline instantly.\n\n\u2022 Step 1: Accept the L with zero hesitation\n\u2022 Step 2: Channel your deepest childhood grievances into the mic\n\u2022 Step 3: Pivot instantly to maximize comedic shock value\n\nFeaturing: Ken\n\nWhat is your go-to coping mechanism when you completely fail? Tell us below.\n\n#shorts #comedy #gaming #humor #strategy #viral"
+                }
+              },
+              "active_variant": "A",
+              "test_status": "ACTIVE_TEST",
+              "variant_history": [
+                {
+                  "variant": "A",
+                  "title": "Why Amin's childhood explains every loss",
+                  "deployed_at": 1792357087.4545422,
                   "reason": "Initial A/B test deployment"
                 }
               ],
@@ -2123,12 +2191,12 @@
         "dashboard": {
           "host": "127.0.0.1",
           "port": 8899,
-          "remote_tunnel_url": "https://cant-crimes-breeding-alumni.trycloudflare.com",
+          "remote_tunnel_url": "https://ireland-invention-insight-ecommerce.trycloudflare.com",
           "tunnel_active": true
         },
         "status": "PAUSED",
         "buffer_target_shorts": 6,
-        "remote_tunnel_url": "https://cant-crimes-breeding-alumni.trycloudflare.com",
+        "remote_tunnel_url": "https://ireland-invention-insight-ecommerce.trycloudflare.com",
         "channel_id": "UCKqBK1q6-0i735Mn_hiNIig",
         "channel_name": "Muks Breakdown Room",
         "oauth_connected": true
@@ -3642,7 +3710,7 @@
         "emergency_stop": false,
         "autopilot_engaged": false,
         "buffer_target_shorts": 6,
-        "remote_tunnel_url": "https://cant-crimes-breeding-alumni.trycloudflare.com",
+        "remote_tunnel_url": "https://ireland-invention-insight-ecommerce.trycloudflare.com",
         "channel_id": "UCcNdnkFH4m9C3rUunbOEaSg",
         "oauth_connected": true
       },
@@ -4872,7 +4940,7 @@
     "autopilot_engaged": true,
     "buffer_target_shorts": 10,
     "daily_target": 5,
-    "remote_tunnel_url": "https://cant-crimes-breeding-alumni.trycloudflare.com",
+    "remote_tunnel_url": "https://ireland-invention-insight-ecommerce.trycloudflare.com",
     "channel_id": "UCsBZAgHGlc5GU7r4E-8tUyA",
     "oauth_connected": true
   },
@@ -4933,17 +5001,17 @@
     },
     "PUBLISHER": {
       "status": "working",
-      "current_task": "Short SCHEDULED on YouTube: xeqWQK8Aznk (10:15 PM ET (Mon, Oct 19))",
+      "current_task": "Short SCHEDULED on YouTube: LL4CAHLlMUA (10:00 AM ET (Tue, Oct 20))",
       "last_completed_task": "Uploaded all 3 initial Clash Royale gaming cuts to YouTube (kenclipsburger420)",
       "recent_logs": [
-        "[04:49:05] Deploying to YouTube (@kenclipsburger420) for release 04:30 PM ET (Mon, Oct 19)...",
-        "[04:49:11] Short SCHEDULED on YouTube: aPSSy4f9k14 (04:30 PM ET (Mon, Oct 19))",
-        "[05:08:55] Generating gaming A/B metadata for slot: 07:30 PM ET (Mon, Oct 19)...",
         "[05:09:01] Deploying to YouTube (@kenclipsburger420) for release 07:30 PM ET (Mon, Oct 19)...",
         "[05:09:07] Short SCHEDULED on YouTube: qW_tbL02ijs (07:30 PM ET (Mon, Oct 19))",
         "[05:34:13] Generating gaming A/B metadata for slot: 10:15 PM ET (Mon, Oct 19)...",
         "[05:34:24] Deploying to YouTube (@kenclipsburger420) for release 10:15 PM ET (Mon, Oct 19)...",
-        "[05:34:29] Short SCHEDULED on YouTube: xeqWQK8Aznk (10:15 PM ET (Mon, Oct 19))"
+        "[05:34:29] Short SCHEDULED on YouTube: xeqWQK8Aznk (10:15 PM ET (Mon, Oct 19))",
+        "[16:57:55] Generating gaming A/B metadata for slot: 10:00 AM ET (Tue, Oct 20)...",
+        "[16:58:07] Deploying to YouTube (@kenclipsburger420) for release 10:00 AM ET (Tue, Oct 20)...",
+        "[16:58:13] Short SCHEDULED on YouTube: LL4CAHLlMUA (10:00 AM ET (Tue, Oct 20))"
       ]
     },
     "ANALYST": {
@@ -5032,17 +5100,6 @@
         "section": "*300-480",
         "duration": 1113,
         "status": "FAILED_DOWNLOAD",
-        "added_at": "2026-10-17T04:48:12Z"
-      },
-      {
-        "id": "ken_1792212492_17",
-        "creator": "Ken",
-        "title": "25% buff abuse [Overtime Battle]",
-        "source_title": "25% buff abuse",
-        "url": "https://www.youtube.com/watch?v=KMWFnfWe08E",
-        "section": "*540-720",
-        "duration": 1113,
-        "status": "PROCESSING",
         "added_at": "2026-10-17T04:48:12Z"
       },
       {
@@ -5379,6 +5436,19 @@
         "added_at": "2026-10-17T04:48:12Z",
         "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792212492_12_master.mp4",
         "youtube_video_id": "xeqWQK8Aznk"
+      },
+      {
+        "id": "ken_1792212492_17",
+        "creator": "Ken",
+        "title": "25% buff abuse [Overtime Battle]",
+        "source_title": "25% buff abuse",
+        "url": "https://www.youtube.com/watch?v=KMWFnfWe08E",
+        "section": "*540-720",
+        "duration": 1113,
+        "status": "COMPLETED",
+        "added_at": "2026-10-17T04:48:12Z",
+        "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792212492_17_master.mp4",
+        "youtube_video_id": "LL4CAHLlMUA"
       }
     ]
   },
@@ -5834,6 +5904,72 @@
               "variant": "A",
               "title": "He actually said this in the lobby... \ud83d\udc80",
               "deployed_at": 1792316064.641025,
+              "reason": "Initial A/B test deployment"
+            }
+          ],
+          "metrics": {
+            "views": 0,
+            "likes": 0,
+            "comments": 0,
+            "retention": 0.0,
+            "ctr": 0.0
+          }
+        },
+        "reframed": "gaming_split"
+      },
+      {
+        "id": "ken_1792212492_17",
+        "source_video": "25% buff abuse [Overtime Battle]",
+        "creator": "Ken",
+        "title": "Why Amin's childhood explains every loss",
+        "publish_at": "2026-10-20T14:00:00Z",
+        "status": "SCHEDULED",
+        "uploaded": true,
+        "youtube_video_id": "LL4CAHLlMUA",
+        "youtube_url": "https://www.youtube.com/shorts/LL4CAHLlMUA",
+        "video_file": "ken_1792212492_17_master.mp4",
+        "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792212492_17_master.mp4",
+        "duration": 25.41,
+        "hook_summary": "After a frustrating gameplay loss, the creator delivers an unhinged and hilariously dark self-deprecating rant about his upbringing.",
+        "metadata": {
+          "title": "Why Amin's childhood explains every loss",
+          "description": "After a brutal gaming loss, Amin drops a shocking revelation about his childhood that turns a simple rage quit into a psychological mystery. You won't see this coming.\n\n\u2022 Discover the unexpected root cause of ultimate gamer rage\n\u2022 Learn how early life experiences shape modern gaming toxicity\n\u2022 See why unfiltered honesty makes the best comedy\n\nFeaturing: Ken\n\nDid Amin take a joke too far, or is this peak comedy? Drop your take below.\n\n#shorts #gaming #darkhumor #funny #ragequit #storytime",
+          "tags": [
+            "Amin",
+            "gaming rage",
+            "dark humor",
+            "rage quit",
+            "funny shorts",
+            "storytime",
+            "self deprecating humor",
+            "comedy skit",
+            "gaming moments"
+          ],
+          "pinned_comment": "On a scale of 1 to unhinged, how would you rate Amin's coping mechanism? Wrong answers only.",
+          "ab_variants": {
+            "A": {
+              "angle": "Curiosity Gap",
+              "title": "Why Amin's childhood explains every loss",
+              "description": "After a brutal gaming loss, Amin drops a shocking revelation about his childhood that turns a simple rage quit into a psychological mystery. You won't see this coming.\n\n\u2022 Discover the unexpected root cause of ultimate gamer rage\n\u2022 Learn how early life experiences shape modern gaming toxicity\n\u2022 See why unfiltered honesty makes the best comedy\n\nFeaturing: Ken\n\nDid Amin take a joke too far, or is this peak comedy? Drop your take below.\n\n#shorts #gaming #darkhumor #funny #ragequit #storytime"
+            },
+            "B": {
+              "angle": "Contrarian Truth",
+              "title": "Gaming rage isn't about the game at all.",
+              "description": "Everyone thinks raging at a video game is just about losing, but Amin exposes the deeper, darker truth behind why we really snap under pressure. Sometimes, it's just about the lack of hugs.\n\n\u2022 Uncover the hidden psychology behind aggressive gaming behavior\n\u2022 Why self-deprecating humor is the ultimate defense mechanism\n\u2022 The boundary-pushing truth about how we deal with trauma\n\nFeaturing: Ken\n\nDo you channel your childhood issues into your hobbies? Let us know in the comments.\n\n#shorts #psychology #gaminglife #darkcomedy #mindset #reality"
+            },
+            "C": {
+              "angle": "Actionable Protocol",
+              "title": "How to turn a massive L into pure comedy",
+              "description": "Taking a devastating loss? Follow Amin's exact playbook for weaponizing your own tragic backstory into an unforgettable punchline instantly.\n\n\u2022 Step 1: Accept the L with zero hesitation\n\u2022 Step 2: Channel your deepest childhood grievances into the mic\n\u2022 Step 3: Pivot instantly to maximize comedic shock value\n\nFeaturing: Ken\n\nWhat is your go-to coping mechanism when you completely fail? Tell us below.\n\n#shorts #comedy #gaming #humor #strategy #viral"
+            }
+          },
+          "active_variant": "A",
+          "test_status": "ACTIVE_TEST",
+          "variant_history": [
+            {
+              "variant": "A",
+              "title": "Why Amin's childhood explains every loss",
+              "deployed_at": 1792357087.4545422,
               "reason": "Initial A/B test deployment"
             }
           ],

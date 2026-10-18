@@ -1,6 +1,6 @@
 {
-  "timestamp": 1792337105.645657,
-  "sync_time_iso": "2026-10-18T15:25:05Z",
+  "timestamp": 1792339282.260006,
+  "sync_time_iso": "2026-10-18T16:01:22Z",
   "default_channel": "ken_clips_burger",
   "channels": {
     "ken_clips_burger": {
@@ -96,14 +96,14 @@
           "current_task": "Queue up to date. Waiting for next daily Ken upload.",
           "last_completed_task": "Ingested 5 recent Ken master videos into source pool",
           "recent_logs": [
-            "[09:09:42] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
-            "[09:09:52] Queue up to date. Waiting for next daily Ken upload.",
             "[09:11:52] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
             "[09:12:04] Queue up to date. Waiting for next daily Ken upload.",
             "[09:14:04] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
             "[09:14:14] Queue up to date. Waiting for next daily Ken upload.",
             "[10:09:50] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
-            "[10:09:51] Queue up to date. Waiting for next daily Ken upload."
+            "[10:09:51] Queue up to date. Waiting for next daily Ken upload.",
+            "[11:25:12] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
+            "[11:25:13] Queue up to date. Waiting for next daily Ken upload."
           ]
         },
         "STRATEGIST": {
@@ -123,17 +123,17 @@
         },
         "EDITOR": {
           "status": "working",
-          "current_task": "Downloading highlight segment (*300-480) for: return of peak [Clutch Moment]...",
+          "current_task": "Downloading highlight segment (*540-720) for: return of peak [Overtime Battle]...",
           "last_completed_task": "Rendered 'hp buffed' rage highlight with kinetic pop captions & commentary",
           "recent_logs": [
-            "[04:29:06] Rendering gaming_split Short with captions: least busted card [Clutch Mome",
             "[04:48:02] Downloading highlight segment (*540-720) for: least busted card [Overtime Battle]...",
             "[04:48:06] Rendering gaming_split Short with captions: least busted card [Overtime Ba",
             "[05:07:54] Downloading highlight segment (*300-480) for: perfected my deck [Clutch Moment]...",
             "[05:07:58] Rendering gaming_split Short with captions: perfected my deck [Clutch Mome",
             "[05:17:28] Downloading highlight segment (*540-720) for: perfected my deck [Overtime Battle]...",
             "[05:17:32] Rendering gaming_split Short with captions: perfected my deck [Overtime Ba",
-            "[10:09:51] Downloading highlight segment (*300-480) for: return of peak [Clutch Moment]..."
+            "[10:09:51] Downloading highlight segment (*300-480) for: return of peak [Clutch Moment]...",
+            "[11:25:13] Downloading highlight segment (*540-720) for: return of peak [Overtime Battle]..."
           ]
         },
         "COMMENTATOR": {
@@ -165,14 +165,14 @@
           "current_task": "Auditing velocity of active Ken Clash Royale Shorts...",
           "last_completed_task": "Calibrated gaming threshold: >15 views/hr within 4h",
           "recent_logs": [
-            "[08:16:43] Auditing velocity of active Ken Clash Royale Shorts...",
             "[08:19:14] Auditing velocity of active Ken Clash Royale Shorts...",
             "[08:51:45] Auditing velocity of active Ken Clash Royale Shorts...",
             "[09:07:42] Auditing velocity of active Ken Clash Royale Shorts...",
             "[09:09:52] Auditing velocity of active Ken Clash Royale Shorts...",
             "[09:12:04] Auditing velocity of active Ken Clash Royale Shorts...",
             "[09:14:14] Auditing velocity of active Ken Clash Royale Shorts...",
-            "[10:09:51] Auditing velocity of active Ken Clash Royale Shorts..."
+            "[10:09:51] Auditing velocity of active Ken Clash Royale Shorts...",
+            "[11:25:13] Auditing velocity of active Ken Clash Royale Shorts..."
           ]
         },
         "WATCHDOG": {
@@ -180,14 +180,14 @@
           "current_task": "Verifying Supercell fan policy: 0 claims, 0 strikes.",
           "last_completed_task": "Audited source parameters: strictly <30s segment rule active",
           "recent_logs": [
-            "[08:16:43] Verifying Supercell fan policy: 0 claims, 0 strikes.",
             "[08:19:14] Verifying Supercell fan policy: 0 claims, 0 strikes.",
             "[08:51:45] Verifying Supercell fan policy: 0 claims, 0 strikes.",
             "[09:07:42] Verifying Supercell fan policy: 0 claims, 0 strikes.",
             "[09:09:52] Verifying Supercell fan policy: 0 claims, 0 strikes.",
             "[09:12:04] Verifying Supercell fan policy: 0 claims, 0 strikes.",
             "[09:14:14] Verifying Supercell fan policy: 0 claims, 0 strikes.",
-            "[10:09:51] Verifying Supercell fan policy: 0 claims, 0 strikes."
+            "[10:09:51] Verifying Supercell fan policy: 0 claims, 0 strikes.",
+            "[11:25:13] Verifying Supercell fan policy: 0 claims, 0 strikes."
           ]
         }
       },
@@ -223,7 +223,7 @@
             "url": "https://www.youtube.com/watch?v=vUkNMTvNzZ8",
             "section": "*540-720",
             "duration": 1501,
-            "status": "QUEUED",
+            "status": "FAILED_DOWNLOAD",
             "added_at": "2026-10-17T04:48:12Z"
           },
           {
@@ -4882,14 +4882,14 @@
       "current_task": "Queue up to date. Waiting for next daily Ken upload.",
       "last_completed_task": "Ingested 5 recent Ken master videos into source pool",
       "recent_logs": [
-        "[09:09:42] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
-        "[09:09:52] Queue up to date. Waiting for next daily Ken upload.",
         "[09:11:52] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
         "[09:12:04] Queue up to date. Waiting for next daily Ken upload.",
         "[09:14:04] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
         "[09:14:14] Queue up to date. Waiting for next daily Ken upload.",
         "[10:09:50] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
-        "[10:09:51] Queue up to date. Waiting for next daily Ken upload."
+        "[10:09:51] Queue up to date. Waiting for next daily Ken upload.",
+        "[11:25:12] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
+        "[11:25:13] Queue up to date. Waiting for next daily Ken upload."
       ]
     },
     "STRATEGIST": {
@@ -4909,17 +4909,17 @@
     },
     "EDITOR": {
       "status": "working",
-      "current_task": "Downloading highlight segment (*300-480) for: return of peak [Clutch Moment]...",
+      "current_task": "Downloading highlight segment (*540-720) for: return of peak [Overtime Battle]...",
       "last_completed_task": "Rendered 'hp buffed' rage highlight with kinetic pop captions & commentary",
       "recent_logs": [
-        "[04:29:06] Rendering gaming_split Short with captions: least busted card [Clutch Mome",
         "[04:48:02] Downloading highlight segment (*540-720) for: least busted card [Overtime Battle]...",
         "[04:48:06] Rendering gaming_split Short with captions: least busted card [Overtime Ba",
         "[05:07:54] Downloading highlight segment (*300-480) for: perfected my deck [Clutch Moment]...",
         "[05:07:58] Rendering gaming_split Short with captions: perfected my deck [Clutch Mome",
         "[05:17:28] Downloading highlight segment (*540-720) for: perfected my deck [Overtime Battle]...",
         "[05:17:32] Rendering gaming_split Short with captions: perfected my deck [Overtime Ba",
-        "[10:09:51] Downloading highlight segment (*300-480) for: return of peak [Clutch Moment]..."
+        "[10:09:51] Downloading highlight segment (*300-480) for: return of peak [Clutch Moment]...",
+        "[11:25:13] Downloading highlight segment (*540-720) for: return of peak [Overtime Battle]..."
       ]
     },
     "COMMENTATOR": {
@@ -4951,14 +4951,14 @@
       "current_task": "Auditing velocity of active Ken Clash Royale Shorts...",
       "last_completed_task": "Calibrated gaming threshold: >15 views/hr within 4h",
       "recent_logs": [
-        "[08:16:43] Auditing velocity of active Ken Clash Royale Shorts...",
         "[08:19:14] Auditing velocity of active Ken Clash Royale Shorts...",
         "[08:51:45] Auditing velocity of active Ken Clash Royale Shorts...",
         "[09:07:42] Auditing velocity of active Ken Clash Royale Shorts...",
         "[09:09:52] Auditing velocity of active Ken Clash Royale Shorts...",
         "[09:12:04] Auditing velocity of active Ken Clash Royale Shorts...",
         "[09:14:14] Auditing velocity of active Ken Clash Royale Shorts...",
-        "[10:09:51] Auditing velocity of active Ken Clash Royale Shorts..."
+        "[10:09:51] Auditing velocity of active Ken Clash Royale Shorts...",
+        "[11:25:13] Auditing velocity of active Ken Clash Royale Shorts..."
       ]
     },
     "WATCHDOG": {
@@ -4966,14 +4966,14 @@
       "current_task": "Verifying Supercell fan policy: 0 claims, 0 strikes.",
       "last_completed_task": "Audited source parameters: strictly <30s segment rule active",
       "recent_logs": [
-        "[08:16:43] Verifying Supercell fan policy: 0 claims, 0 strikes.",
         "[08:19:14] Verifying Supercell fan policy: 0 claims, 0 strikes.",
         "[08:51:45] Verifying Supercell fan policy: 0 claims, 0 strikes.",
         "[09:07:42] Verifying Supercell fan policy: 0 claims, 0 strikes.",
         "[09:09:52] Verifying Supercell fan policy: 0 claims, 0 strikes.",
         "[09:12:04] Verifying Supercell fan policy: 0 claims, 0 strikes.",
         "[09:14:14] Verifying Supercell fan policy: 0 claims, 0 strikes.",
-        "[10:09:51] Verifying Supercell fan policy: 0 claims, 0 strikes."
+        "[10:09:51] Verifying Supercell fan policy: 0 claims, 0 strikes.",
+        "[11:25:13] Verifying Supercell fan policy: 0 claims, 0 strikes."
       ]
     }
   },
@@ -5009,7 +5009,7 @@
         "url": "https://www.youtube.com/watch?v=vUkNMTvNzZ8",
         "section": "*540-720",
         "duration": 1501,
-        "status": "QUEUED",
+        "status": "FAILED_DOWNLOAD",
         "added_at": "2026-10-17T04:48:12Z"
       },
       {

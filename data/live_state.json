@@ -1,6 +1,6 @@
 {
-  "timestamp": 1792313278.792199,
-  "sync_time_iso": "2026-10-18T08:47:58Z",
+  "timestamp": 1792313340.357592,
+  "sync_time_iso": "2026-10-18T08:49:00Z",
   "default_channel": "ken_clips_burger",
   "channels": {
     "ken_clips_burger": {
@@ -86,24 +86,24 @@
         "autopilot_engaged": true,
         "buffer_target_shorts": 10,
         "daily_target": 5,
-        "remote_tunnel_url": "https://dialog-centered-partnerships-executives.trycloudflare.com",
+        "remote_tunnel_url": "https://reliability-desperate-counties-teacher.trycloudflare.com",
         "channel_id": "UCsBZAgHGlc5GU7r4E-8tUyA",
         "oauth_connected": true
       },
       "agents": {
         "SCOUT": {
           "status": "working",
-          "current_task": "Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
+          "current_task": "Queue up to date. Waiting for next daily Ken upload.",
           "last_completed_task": "Ingested 5 recent Ken master videos into source pool",
           "recent_logs": [
-            "[03:33:27] Queue up to date. Waiting for next daily Ken upload.",
             "[04:07:13] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
             "[04:07:23] Queue up to date. Waiting for next daily Ken upload.",
             "[04:26:20] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
             "[04:26:31] Queue up to date. Waiting for next daily Ken upload.",
             "[04:28:51] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
             "[04:29:01] Queue up to date. Waiting for next daily Ken upload.",
-            "[04:47:49] Scanning @kenforrest YouTube feed for latest Clash Royale uploads..."
+            "[04:47:49] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
+            "[04:48:02] Queue up to date. Waiting for next daily Ken upload."
           ]
         },
         "STRATEGIST": {
@@ -123,17 +123,17 @@
         },
         "EDITOR": {
           "status": "working",
-          "current_task": "Rendering gaming_split Short with captions: least busted card [Clutch Mome",
+          "current_task": "Rendering gaming_split Short with captions: least busted card [Overtime Ba",
           "last_completed_task": "Rendered 'hp buffed' rage highlight with kinetic pop captions & commentary",
           "recent_logs": [
-            "[01:12:37] Rendering gaming_split Short with captions: hp buffed [Overtime Battle]",
-            "[04:07:23] Downloading highlight segment (*300-480) for: the new barrel [Clutch Moment]...",
             "[04:07:28] Rendering gaming_split Short with captions: the new barrel [Clutch Moment]",
             "[04:26:31] Downloading highlight segment (*540-720) for: the new barrel [Overtime Battle]...",
             "[04:26:35] Rendering gaming_split Short with captions: the new barrel [Overtime Battl",
             "[04:26:51] Render error: list indices must be integers or slices, not str",
             "[04:29:01] Downloading highlight segment (*300-480) for: least busted card [Clutch Moment]...",
-            "[04:29:06] Rendering gaming_split Short with captions: least busted card [Clutch Mome"
+            "[04:29:06] Rendering gaming_split Short with captions: least busted card [Clutch Mome",
+            "[04:48:02] Downloading highlight segment (*540-720) for: least busted card [Overtime Battle]...",
+            "[04:48:06] Rendering gaming_split Short with captions: least busted card [Overtime Ba"
           ]
         },
         "COMMENTATOR": {
@@ -147,17 +147,17 @@
         },
         "PUBLISHER": {
           "status": "working",
-          "current_task": "Short SCHEDULED on YouTube: ntVg4CCLgzM (01:00 PM ET (Mon, Oct 19))",
+          "current_task": "Generating gaming A/B metadata for slot: 04:30 PM ET (Mon, Oct 19)...",
           "last_completed_task": "Uploaded all 3 initial Clash Royale gaming cuts to YouTube (kenclipsburger420)",
           "recent_logs": [
-            "[03:33:36] Deploying to YouTube (@kenclipsburger420) for release 10:15 PM ET (Sun, Oct 18)...",
             "[03:33:41] Short SCHEDULED on YouTube: CE6DP7D5TFM (10:15 PM ET (Sun, Oct 18))",
             "[04:24:01] Generating gaming A/B metadata for slot: 10:00 AM ET (Mon, Oct 19)...",
             "[04:24:13] Deploying to YouTube (@kenclipsburger420) for release 10:00 AM ET (Mon, Oct 19)...",
             "[04:24:19] Short SCHEDULED on YouTube: nih90sNVBT8 (10:00 AM ET (Mon, Oct 19))",
             "[04:29:52] Generating gaming A/B metadata for slot: 01:00 PM ET (Mon, Oct 19)...",
             "[04:30:04] Deploying to YouTube (@kenclipsburger420) for release 01:00 PM ET (Mon, Oct 19)...",
-            "[04:30:10] Short SCHEDULED on YouTube: ntVg4CCLgzM (01:00 PM ET (Mon, Oct 19))"
+            "[04:30:10] Short SCHEDULED on YouTube: ntVg4CCLgzM (01:00 PM ET (Mon, Oct 19))",
+            "[04:48:52] Generating gaming A/B metadata for slot: 04:30 PM ET (Mon, Oct 19)..."
           ]
         },
         "ANALYST": {
@@ -212,7 +212,7 @@
             "url": "https://www.youtube.com/watch?v=LhS6RH2NmcU",
             "section": "*540-720",
             "duration": 979,
-            "status": "QUEUED",
+            "status": "PROCESSING",
             "added_at": "2026-10-17T04:48:12Z"
           },
           {
@@ -1885,12 +1885,12 @@
         "dashboard": {
           "host": "127.0.0.1",
           "port": 8899,
-          "remote_tunnel_url": "https://dialog-centered-partnerships-executives.trycloudflare.com",
+          "remote_tunnel_url": "https://reliability-desperate-counties-teacher.trycloudflare.com",
           "tunnel_active": true
         },
         "status": "PAUSED",
         "buffer_target_shorts": 6,
-        "remote_tunnel_url": "https://dialog-centered-partnerships-executives.trycloudflare.com",
+        "remote_tunnel_url": "https://reliability-desperate-counties-teacher.trycloudflare.com",
         "channel_id": "UCKqBK1q6-0i735Mn_hiNIig",
         "channel_name": "Muks Breakdown Room",
         "oauth_connected": true
@@ -3404,7 +3404,7 @@
         "emergency_stop": false,
         "autopilot_engaged": false,
         "buffer_target_shorts": 6,
-        "remote_tunnel_url": "https://dialog-centered-partnerships-executives.trycloudflare.com",
+        "remote_tunnel_url": "https://reliability-desperate-counties-teacher.trycloudflare.com",
         "channel_id": "UCcNdnkFH4m9C3rUunbOEaSg",
         "oauth_connected": true
       },
@@ -4634,24 +4634,24 @@
     "autopilot_engaged": true,
     "buffer_target_shorts": 10,
     "daily_target": 5,
-    "remote_tunnel_url": "https://dialog-centered-partnerships-executives.trycloudflare.com",
+    "remote_tunnel_url": "https://reliability-desperate-counties-teacher.trycloudflare.com",
     "channel_id": "UCsBZAgHGlc5GU7r4E-8tUyA",
     "oauth_connected": true
   },
   "agents": {
     "SCOUT": {
       "status": "working",
-      "current_task": "Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
+      "current_task": "Queue up to date. Waiting for next daily Ken upload.",
       "last_completed_task": "Ingested 5 recent Ken master videos into source pool",
       "recent_logs": [
-        "[03:33:27] Queue up to date. Waiting for next daily Ken upload.",
         "[04:07:13] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
         "[04:07:23] Queue up to date. Waiting for next daily Ken upload.",
         "[04:26:20] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
         "[04:26:31] Queue up to date. Waiting for next daily Ken upload.",
         "[04:28:51] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
         "[04:29:01] Queue up to date. Waiting for next daily Ken upload.",
-        "[04:47:49] Scanning @kenforrest YouTube feed for latest Clash Royale uploads..."
+        "[04:47:49] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
+        "[04:48:02] Queue up to date. Waiting for next daily Ken upload."
       ]
     },
     "STRATEGIST": {
@@ -4671,17 +4671,17 @@
     },
     "EDITOR": {
       "status": "working",
-      "current_task": "Rendering gaming_split Short with captions: least busted card [Clutch Mome",
+      "current_task": "Rendering gaming_split Short with captions: least busted card [Overtime Ba",
       "last_completed_task": "Rendered 'hp buffed' rage highlight with kinetic pop captions & commentary",
       "recent_logs": [
-        "[01:12:37] Rendering gaming_split Short with captions: hp buffed [Overtime Battle]",
-        "[04:07:23] Downloading highlight segment (*300-480) for: the new barrel [Clutch Moment]...",
         "[04:07:28] Rendering gaming_split Short with captions: the new barrel [Clutch Moment]",
         "[04:26:31] Downloading highlight segment (*540-720) for: the new barrel [Overtime Battle]...",
         "[04:26:35] Rendering gaming_split Short with captions: the new barrel [Overtime Battl",
         "[04:26:51] Render error: list indices must be integers or slices, not str",
         "[04:29:01] Downloading highlight segment (*300-480) for: least busted card [Clutch Moment]...",
-        "[04:29:06] Rendering gaming_split Short with captions: least busted card [Clutch Mome"
+        "[04:29:06] Rendering gaming_split Short with captions: least busted card [Clutch Mome",
+        "[04:48:02] Downloading highlight segment (*540-720) for: least busted card [Overtime Battle]...",
+        "[04:48:06] Rendering gaming_split Short with captions: least busted card [Overtime Ba"
       ]
     },
     "COMMENTATOR": {
@@ -4695,17 +4695,17 @@
     },
     "PUBLISHER": {
       "status": "working",
-      "current_task": "Short SCHEDULED on YouTube: ntVg4CCLgzM (01:00 PM ET (Mon, Oct 19))",
+      "current_task": "Generating gaming A/B metadata for slot: 04:30 PM ET (Mon, Oct 19)...",
       "last_completed_task": "Uploaded all 3 initial Clash Royale gaming cuts to YouTube (kenclipsburger420)",
       "recent_logs": [
-        "[03:33:36] Deploying to YouTube (@kenclipsburger420) for release 10:15 PM ET (Sun, Oct 18)...",
         "[03:33:41] Short SCHEDULED on YouTube: CE6DP7D5TFM (10:15 PM ET (Sun, Oct 18))",
         "[04:24:01] Generating gaming A/B metadata for slot: 10:00 AM ET (Mon, Oct 19)...",
         "[04:24:13] Deploying to YouTube (@kenclipsburger420) for release 10:00 AM ET (Mon, Oct 19)...",
         "[04:24:19] Short SCHEDULED on YouTube: nih90sNVBT8 (10:00 AM ET (Mon, Oct 19))",
         "[04:29:52] Generating gaming A/B metadata for slot: 01:00 PM ET (Mon, Oct 19)...",
         "[04:30:04] Deploying to YouTube (@kenclipsburger420) for release 01:00 PM ET (Mon, Oct 19)...",
-        "[04:30:10] Short SCHEDULED on YouTube: ntVg4CCLgzM (01:00 PM ET (Mon, Oct 19))"
+        "[04:30:10] Short SCHEDULED on YouTube: ntVg4CCLgzM (01:00 PM ET (Mon, Oct 19))",
+        "[04:48:52] Generating gaming A/B metadata for slot: 04:30 PM ET (Mon, Oct 19)..."
       ]
     },
     "ANALYST": {
@@ -4760,7 +4760,7 @@
         "url": "https://www.youtube.com/watch?v=LhS6RH2NmcU",
         "section": "*540-720",
         "duration": 979,
-        "status": "QUEUED",
+        "status": "PROCESSING",
         "added_at": "2026-10-17T04:48:12Z"
       },
       {

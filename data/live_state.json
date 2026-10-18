@@ -1,6 +1,6 @@
 {
-  "timestamp": 1792316029.056434,
-  "sync_time_iso": "2026-10-18T09:33:49Z",
+  "timestamp": 1792316069.762913,
+  "sync_time_iso": "2026-10-18T09:34:29Z",
   "default_channel": "ken_clips_burger",
   "channels": {
     "ken_clips_burger": {
@@ -86,7 +86,7 @@
         "autopilot_engaged": true,
         "buffer_target_shorts": 10,
         "daily_target": 5,
-        "remote_tunnel_url": "https://cases-remain-numerical-convention.trycloudflare.com",
+        "remote_tunnel_url": "https://reported-balloon-cellular-single.trycloudflare.com",
         "channel_id": "UCsBZAgHGlc5GU7r4E-8tUyA",
         "oauth_connected": true
       },
@@ -147,17 +147,17 @@
         },
         "PUBLISHER": {
           "status": "working",
-          "current_task": "Short SCHEDULED on YouTube: qW_tbL02ijs (07:30 PM ET (Mon, Oct 19))",
+          "current_task": "Short SCHEDULED on YouTube: xeqWQK8Aznk (10:15 PM ET (Mon, Oct 19))",
           "last_completed_task": "Uploaded all 3 initial Clash Royale gaming cuts to YouTube (kenclipsburger420)",
           "recent_logs": [
-            "[04:30:04] Deploying to YouTube (@kenclipsburger420) for release 01:00 PM ET (Mon, Oct 19)...",
-            "[04:30:10] Short SCHEDULED on YouTube: ntVg4CCLgzM (01:00 PM ET (Mon, Oct 19))",
-            "[04:48:52] Generating gaming A/B metadata for slot: 04:30 PM ET (Mon, Oct 19)...",
             "[04:49:05] Deploying to YouTube (@kenclipsburger420) for release 04:30 PM ET (Mon, Oct 19)...",
             "[04:49:11] Short SCHEDULED on YouTube: aPSSy4f9k14 (04:30 PM ET (Mon, Oct 19))",
             "[05:08:55] Generating gaming A/B metadata for slot: 07:30 PM ET (Mon, Oct 19)...",
             "[05:09:01] Deploying to YouTube (@kenclipsburger420) for release 07:30 PM ET (Mon, Oct 19)...",
-            "[05:09:07] Short SCHEDULED on YouTube: qW_tbL02ijs (07:30 PM ET (Mon, Oct 19))"
+            "[05:09:07] Short SCHEDULED on YouTube: qW_tbL02ijs (07:30 PM ET (Mon, Oct 19))",
+            "[05:34:13] Generating gaming A/B metadata for slot: 10:15 PM ET (Mon, Oct 19)...",
+            "[05:34:24] Deploying to YouTube (@kenclipsburger420) for release 10:15 PM ET (Mon, Oct 19)...",
+            "[05:34:29] Short SCHEDULED on YouTube: xeqWQK8Aznk (10:15 PM ET (Mon, Oct 19))"
           ]
         },
         "ANALYST": {
@@ -202,17 +202,6 @@
             "section": "*540-720",
             "duration": 1346,
             "status": "FAILED_RENDER",
-            "added_at": "2026-10-17T04:48:12Z"
-          },
-          {
-            "id": "ken_1792212492_12",
-            "creator": "Ken",
-            "title": "perfected my deck [Overtime Battle]",
-            "source_title": "perfected my deck",
-            "url": "https://www.youtube.com/watch?v=jx3uURON3MY",
-            "section": "*540-720",
-            "duration": 1279,
-            "status": "PROCESSING",
             "added_at": "2026-10-17T04:48:12Z"
           },
           {
@@ -558,6 +547,19 @@
             "added_at": "2026-10-17T04:48:12Z",
             "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792212492_11_master.mp4",
             "youtube_video_id": "qW_tbL02ijs"
+          },
+          {
+            "id": "ken_1792212492_12",
+            "creator": "Ken",
+            "title": "perfected my deck [Overtime Battle]",
+            "source_title": "perfected my deck",
+            "url": "https://www.youtube.com/watch?v=jx3uURON3MY",
+            "section": "*540-720",
+            "duration": 1279,
+            "status": "COMPLETED",
+            "added_at": "2026-10-17T04:48:12Z",
+            "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792212492_12_master.mp4",
+            "youtube_video_id": "xeqWQK8Aznk"
           }
         ]
       },
@@ -1144,6 +1146,73 @@
                   "variant": "A",
                   "title": "The illegal Evo Hunter trick nobody is using",
                   "deployed_at": 1792314541.88932,
+                  "reason": "Initial A/B test deployment"
+                }
+              ],
+              "metrics": {
+                "views": 0,
+                "likes": 0,
+                "comments": 0,
+                "retention": 0.0,
+                "ctr": 0.0
+              }
+            },
+            "reframed": "gaming_split"
+          },
+          {
+            "id": "ken_1792212492_12",
+            "source_video": "perfected my deck [Overtime Battle]",
+            "creator": "Ken",
+            "title": "He actually said this in the lobby... \ud83d\udc80",
+            "publish_at": "2026-10-20T02:15:00Z",
+            "status": "SCHEDULED",
+            "uploaded": true,
+            "youtube_video_id": "xeqWQK8Aznk",
+            "youtube_url": "https://www.youtube.com/shorts/xeqWQK8Aznk",
+            "video_file": "ken_1792212492_12_master.mp4",
+            "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792212492_12_master.mp4",
+            "duration": 21.23,
+            "hook_summary": "The creator ruthlessly tells his opponent to go back to the lobby and hug their mother, roasting them for how much time they spend playing the game.",
+            "metadata": {
+              "title": "He actually said this in the lobby... \ud83d\udc80",
+              "description": "Some roasts go too far, but this one crossed the line into absolute psychological destruction. You won't believe how the opponent reacted to this brutal reality check.\n\n\u2022 The exact mental trigger to completely tilt your opponent\n\u2022 How to deliver a verbal knockout in under 10 seconds\n\u2022 Understanding the psychology of high-stakes trash talk\n\nFeaturing: Ken\n\nHave you ever heard a worse lobby mic than this one?\n\n#shorts #gaming #trashtalk #gamer #cod #streamer",
+              "tags": [
+                "gaming trash talk",
+                "funny gaming moments",
+                "lobby chat",
+                "gamer rage",
+                "ken gaming",
+                "epic roasts",
+                "gaming shorts",
+                "toxic lobbies",
+                "cod lobby",
+                "gamer humor"
+              ],
+              "pinned_comment": "Be honest: would you have uninstalled the game immediately if someone said this to you?",
+              "ab_variants": {
+                "A": {
+                  "angle": "Curiosity Gap",
+                  "title": "He actually said this in the lobby... \ud83d\udc80",
+                  "description": "Some roasts go too far, but this one crossed the line into absolute psychological destruction. You won't believe how the opponent reacted to this brutal reality check.\n\n\u2022 The exact mental trigger to completely tilt your opponent\n\u2022 How to deliver a verbal knockout in under 10 seconds\n\u2022 Understanding the psychology of high-stakes trash talk\n\nFeaturing: Ken\n\nHave you ever heard a worse lobby mic than this one?\n\n#shorts #gaming #trashtalk #gamer #cod #streamer"
+                },
+                "B": {
+                  "angle": "Contrarian Truth",
+                  "title": "Stop being nice to toxic gamers.",
+                  "description": "Kindness doesn't work on the sticks. Sometimes you have to put your opponent back in their place and remind them of the real world outside their bedroom.\n\n\u2022 Why polite gaming is holding your competitive edge back\n\u2022 The art of the absolute psychological shutdown\n\u2022 When to stop playing and touch grass\n\nFeaturing: Ken\n\nIs trash talk a healthy part of gaming or toxic waste?\n\n#shorts #gaming #rage #gamerlife #podcast #mindset"
+                },
+                "C": {
+                  "angle": "Actionable Protocol",
+                  "title": "How to verbally destroy any lobby instantly.",
+                  "description": "Master the ultimate blueprint for silencing loud opponents and sending them packing without even firing a single bullet.\n\n\u2022 Step 1: Identify the opponent's emotional weak spot\n\u2022 Step 2: Deliver the lobby exit notice\n\u2022 Step 3: Watch them rage quit in real-time\n\nFeaturing: Ken\n\nWhat is the single best lobby roast you have ever heard?\n\n#shorts #gamingcommunity #gamer #funny #clips #gamingmoments"
+                }
+              },
+              "active_variant": "A",
+              "test_status": "ACTIVE_TEST",
+              "variant_history": [
+                {
+                  "variant": "A",
+                  "title": "He actually said this in the lobby... \ud83d\udc80",
+                  "deployed_at": 1792316064.641025,
                   "reason": "Initial A/B test deployment"
                 }
               ],
@@ -2021,12 +2090,12 @@
         "dashboard": {
           "host": "127.0.0.1",
           "port": 8899,
-          "remote_tunnel_url": "https://cases-remain-numerical-convention.trycloudflare.com",
+          "remote_tunnel_url": "https://reported-balloon-cellular-single.trycloudflare.com",
           "tunnel_active": true
         },
         "status": "PAUSED",
         "buffer_target_shorts": 6,
-        "remote_tunnel_url": "https://cases-remain-numerical-convention.trycloudflare.com",
+        "remote_tunnel_url": "https://reported-balloon-cellular-single.trycloudflare.com",
         "channel_id": "UCKqBK1q6-0i735Mn_hiNIig",
         "channel_name": "Muks Breakdown Room",
         "oauth_connected": true
@@ -3540,7 +3609,7 @@
         "emergency_stop": false,
         "autopilot_engaged": false,
         "buffer_target_shorts": 6,
-        "remote_tunnel_url": "https://cases-remain-numerical-convention.trycloudflare.com",
+        "remote_tunnel_url": "https://reported-balloon-cellular-single.trycloudflare.com",
         "channel_id": "UCcNdnkFH4m9C3rUunbOEaSg",
         "oauth_connected": true
       },
@@ -4770,7 +4839,7 @@
     "autopilot_engaged": true,
     "buffer_target_shorts": 10,
     "daily_target": 5,
-    "remote_tunnel_url": "https://cases-remain-numerical-convention.trycloudflare.com",
+    "remote_tunnel_url": "https://reported-balloon-cellular-single.trycloudflare.com",
     "channel_id": "UCsBZAgHGlc5GU7r4E-8tUyA",
     "oauth_connected": true
   },
@@ -4831,17 +4900,17 @@
     },
     "PUBLISHER": {
       "status": "working",
-      "current_task": "Short SCHEDULED on YouTube: qW_tbL02ijs (07:30 PM ET (Mon, Oct 19))",
+      "current_task": "Short SCHEDULED on YouTube: xeqWQK8Aznk (10:15 PM ET (Mon, Oct 19))",
       "last_completed_task": "Uploaded all 3 initial Clash Royale gaming cuts to YouTube (kenclipsburger420)",
       "recent_logs": [
-        "[04:30:04] Deploying to YouTube (@kenclipsburger420) for release 01:00 PM ET (Mon, Oct 19)...",
-        "[04:30:10] Short SCHEDULED on YouTube: ntVg4CCLgzM (01:00 PM ET (Mon, Oct 19))",
-        "[04:48:52] Generating gaming A/B metadata for slot: 04:30 PM ET (Mon, Oct 19)...",
         "[04:49:05] Deploying to YouTube (@kenclipsburger420) for release 04:30 PM ET (Mon, Oct 19)...",
         "[04:49:11] Short SCHEDULED on YouTube: aPSSy4f9k14 (04:30 PM ET (Mon, Oct 19))",
         "[05:08:55] Generating gaming A/B metadata for slot: 07:30 PM ET (Mon, Oct 19)...",
         "[05:09:01] Deploying to YouTube (@kenclipsburger420) for release 07:30 PM ET (Mon, Oct 19)...",
-        "[05:09:07] Short SCHEDULED on YouTube: qW_tbL02ijs (07:30 PM ET (Mon, Oct 19))"
+        "[05:09:07] Short SCHEDULED on YouTube: qW_tbL02ijs (07:30 PM ET (Mon, Oct 19))",
+        "[05:34:13] Generating gaming A/B metadata for slot: 10:15 PM ET (Mon, Oct 19)...",
+        "[05:34:24] Deploying to YouTube (@kenclipsburger420) for release 10:15 PM ET (Mon, Oct 19)...",
+        "[05:34:29] Short SCHEDULED on YouTube: xeqWQK8Aznk (10:15 PM ET (Mon, Oct 19))"
       ]
     },
     "ANALYST": {
@@ -4886,17 +4955,6 @@
         "section": "*540-720",
         "duration": 1346,
         "status": "FAILED_RENDER",
-        "added_at": "2026-10-17T04:48:12Z"
-      },
-      {
-        "id": "ken_1792212492_12",
-        "creator": "Ken",
-        "title": "perfected my deck [Overtime Battle]",
-        "source_title": "perfected my deck",
-        "url": "https://www.youtube.com/watch?v=jx3uURON3MY",
-        "section": "*540-720",
-        "duration": 1279,
-        "status": "PROCESSING",
         "added_at": "2026-10-17T04:48:12Z"
       },
       {
@@ -5242,6 +5300,19 @@
         "added_at": "2026-10-17T04:48:12Z",
         "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792212492_11_master.mp4",
         "youtube_video_id": "qW_tbL02ijs"
+      },
+      {
+        "id": "ken_1792212492_12",
+        "creator": "Ken",
+        "title": "perfected my deck [Overtime Battle]",
+        "source_title": "perfected my deck",
+        "url": "https://www.youtube.com/watch?v=jx3uURON3MY",
+        "section": "*540-720",
+        "duration": 1279,
+        "status": "COMPLETED",
+        "added_at": "2026-10-17T04:48:12Z",
+        "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792212492_12_master.mp4",
+        "youtube_video_id": "xeqWQK8Aznk"
       }
     ]
   },
@@ -5828,6 +5899,73 @@
               "variant": "A",
               "title": "The illegal Evo Hunter trick nobody is using",
               "deployed_at": 1792314541.88932,
+              "reason": "Initial A/B test deployment"
+            }
+          ],
+          "metrics": {
+            "views": 0,
+            "likes": 0,
+            "comments": 0,
+            "retention": 0.0,
+            "ctr": 0.0
+          }
+        },
+        "reframed": "gaming_split"
+      },
+      {
+        "id": "ken_1792212492_12",
+        "source_video": "perfected my deck [Overtime Battle]",
+        "creator": "Ken",
+        "title": "He actually said this in the lobby... \ud83d\udc80",
+        "publish_at": "2026-10-20T02:15:00Z",
+        "status": "SCHEDULED",
+        "uploaded": true,
+        "youtube_video_id": "xeqWQK8Aznk",
+        "youtube_url": "https://www.youtube.com/shorts/xeqWQK8Aznk",
+        "video_file": "ken_1792212492_12_master.mp4",
+        "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792212492_12_master.mp4",
+        "duration": 21.23,
+        "hook_summary": "The creator ruthlessly tells his opponent to go back to the lobby and hug their mother, roasting them for how much time they spend playing the game.",
+        "metadata": {
+          "title": "He actually said this in the lobby... \ud83d\udc80",
+          "description": "Some roasts go too far, but this one crossed the line into absolute psychological destruction. You won't believe how the opponent reacted to this brutal reality check.\n\n\u2022 The exact mental trigger to completely tilt your opponent\n\u2022 How to deliver a verbal knockout in under 10 seconds\n\u2022 Understanding the psychology of high-stakes trash talk\n\nFeaturing: Ken\n\nHave you ever heard a worse lobby mic than this one?\n\n#shorts #gaming #trashtalk #gamer #cod #streamer",
+          "tags": [
+            "gaming trash talk",
+            "funny gaming moments",
+            "lobby chat",
+            "gamer rage",
+            "ken gaming",
+            "epic roasts",
+            "gaming shorts",
+            "toxic lobbies",
+            "cod lobby",
+            "gamer humor"
+          ],
+          "pinned_comment": "Be honest: would you have uninstalled the game immediately if someone said this to you?",
+          "ab_variants": {
+            "A": {
+              "angle": "Curiosity Gap",
+              "title": "He actually said this in the lobby... \ud83d\udc80",
+              "description": "Some roasts go too far, but this one crossed the line into absolute psychological destruction. You won't believe how the opponent reacted to this brutal reality check.\n\n\u2022 The exact mental trigger to completely tilt your opponent\n\u2022 How to deliver a verbal knockout in under 10 seconds\n\u2022 Understanding the psychology of high-stakes trash talk\n\nFeaturing: Ken\n\nHave you ever heard a worse lobby mic than this one?\n\n#shorts #gaming #trashtalk #gamer #cod #streamer"
+            },
+            "B": {
+              "angle": "Contrarian Truth",
+              "title": "Stop being nice to toxic gamers.",
+              "description": "Kindness doesn't work on the sticks. Sometimes you have to put your opponent back in their place and remind them of the real world outside their bedroom.\n\n\u2022 Why polite gaming is holding your competitive edge back\n\u2022 The art of the absolute psychological shutdown\n\u2022 When to stop playing and touch grass\n\nFeaturing: Ken\n\nIs trash talk a healthy part of gaming or toxic waste?\n\n#shorts #gaming #rage #gamerlife #podcast #mindset"
+            },
+            "C": {
+              "angle": "Actionable Protocol",
+              "title": "How to verbally destroy any lobby instantly.",
+              "description": "Master the ultimate blueprint for silencing loud opponents and sending them packing without even firing a single bullet.\n\n\u2022 Step 1: Identify the opponent's emotional weak spot\n\u2022 Step 2: Deliver the lobby exit notice\n\u2022 Step 3: Watch them rage quit in real-time\n\nFeaturing: Ken\n\nWhat is the single best lobby roast you have ever heard?\n\n#shorts #gamingcommunity #gamer #funny #clips #gamingmoments"
+            }
+          },
+          "active_variant": "A",
+          "test_status": "ACTIVE_TEST",
+          "variant_history": [
+            {
+              "variant": "A",
+              "title": "He actually said this in the lobby... \ud83d\udc80",
+              "deployed_at": 1792316064.641025,
               "reason": "Initial A/B test deployment"
             }
           ],

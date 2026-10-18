@@ -1,6 +1,6 @@
 {
-  "timestamp": 1792311970.849835,
-  "sync_time_iso": "2026-10-18T08:26:10Z",
+  "timestamp": 1792312032.401299,
+  "sync_time_iso": "2026-10-18T08:27:12Z",
   "default_channel": "ken_clips_burger",
   "channels": {
     "ken_clips_burger": {
@@ -96,14 +96,14 @@
           "current_task": "Queue up to date. Waiting for next daily Ken upload.",
           "last_completed_task": "Ingested 5 recent Ken master videos into source pool",
           "recent_logs": [
-            "[02:38:31] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
-            "[02:38:41] Queue up to date. Waiting for next daily Ken upload.",
             "[02:56:14] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
             "[02:56:24] Queue up to date. Waiting for next daily Ken upload.",
             "[03:17:37] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
             "[03:33:27] Queue up to date. Waiting for next daily Ken upload.",
             "[04:07:13] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
-            "[04:07:23] Queue up to date. Waiting for next daily Ken upload."
+            "[04:07:23] Queue up to date. Waiting for next daily Ken upload.",
+            "[04:26:20] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
+            "[04:26:31] Queue up to date. Waiting for next daily Ken upload."
           ]
         },
         "STRATEGIST": {
@@ -123,17 +123,17 @@
         },
         "EDITOR": {
           "status": "working",
-          "current_task": "Rendering gaming_split Short with captions: the new barrel [Clutch Moment]",
+          "current_task": "Render error: list indices must be integers or slices, not str",
           "last_completed_task": "Rendered 'hp buffed' rage highlight with kinetic pop captions & commentary",
           "recent_logs": [
-            "[01:06:00] Downloading highlight segment (*300-480) for: 2.3 brainrot cycle [Clutch Moment]...",
-            "[01:06:05] Rendering gaming_split Short with captions: 2.3 brainrot cycle [Clutch Mom",
-            "[01:09:12] Downloading highlight segment (*300-480) for: hp buffed [Clutch Moment]...",
             "[01:09:17] Rendering gaming_split Short with captions: hp buffed [Clutch Moment]",
             "[01:12:32] Downloading highlight segment (*540-720) for: hp buffed [Overtime Battle]...",
             "[01:12:37] Rendering gaming_split Short with captions: hp buffed [Overtime Battle]",
             "[04:07:23] Downloading highlight segment (*300-480) for: the new barrel [Clutch Moment]...",
-            "[04:07:28] Rendering gaming_split Short with captions: the new barrel [Clutch Moment]"
+            "[04:07:28] Rendering gaming_split Short with captions: the new barrel [Clutch Moment]",
+            "[04:26:31] Downloading highlight segment (*540-720) for: the new barrel [Overtime Battle]...",
+            "[04:26:35] Rendering gaming_split Short with captions: the new barrel [Overtime Battl",
+            "[04:26:51] Render error: list indices must be integers or slices, not str"
           ]
         },
         "COMMENTATOR": {
@@ -165,14 +165,14 @@
           "current_task": "Auditing velocity of active Ken Clash Royale Shorts...",
           "last_completed_task": "Calibrated gaming threshold: >15 views/hr within 4h",
           "recent_logs": [
-            "[01:16:38] Auditing velocity of active Ken Clash Royale Shorts...",
             "[01:36:31] Auditing velocity of active Ken Clash Royale Shorts...",
             "[01:41:31] Auditing velocity of active Ken Clash Royale Shorts...",
             "[02:18:34] Auditing velocity of active Ken Clash Royale Shorts...",
             "[02:54:14] Auditing velocity of active Ken Clash Royale Shorts...",
             "[02:56:43] Auditing velocity of active Ken Clash Royale Shorts...",
             "[03:33:43] Auditing velocity of active Ken Clash Royale Shorts...",
-            "[04:24:20] Auditing velocity of active Ken Clash Royale Shorts..."
+            "[04:24:20] Auditing velocity of active Ken Clash Royale Shorts...",
+            "[04:26:51] Auditing velocity of active Ken Clash Royale Shorts..."
           ]
         },
         "WATCHDOG": {
@@ -180,14 +180,14 @@
           "current_task": "Verifying Supercell fan policy: 0 claims, 0 strikes.",
           "last_completed_task": "Audited source parameters: strictly <30s segment rule active",
           "recent_logs": [
-            "[01:16:38] Verifying Supercell fan policy: 0 claims, 0 strikes.",
             "[01:36:31] Verifying Supercell fan policy: 0 claims, 0 strikes.",
             "[01:41:31] Verifying Supercell fan policy: 0 claims, 0 strikes.",
             "[02:18:34] Verifying Supercell fan policy: 0 claims, 0 strikes.",
             "[02:54:14] Verifying Supercell fan policy: 0 claims, 0 strikes.",
             "[02:56:43] Verifying Supercell fan policy: 0 claims, 0 strikes.",
             "[03:33:43] Verifying Supercell fan policy: 0 claims, 0 strikes.",
-            "[04:24:20] Verifying Supercell fan policy: 0 claims, 0 strikes."
+            "[04:24:20] Verifying Supercell fan policy: 0 claims, 0 strikes.",
+            "[04:26:51] Verifying Supercell fan policy: 0 claims, 0 strikes."
           ]
         }
       },
@@ -201,7 +201,7 @@
             "url": "https://www.youtube.com/watch?v=ES4IzI-aevk",
             "section": "*540-720",
             "duration": 1346,
-            "status": "QUEUED",
+            "status": "FAILED_RENDER",
             "added_at": "2026-10-17T04:48:12Z"
           },
           {
@@ -4576,14 +4576,14 @@
       "current_task": "Queue up to date. Waiting for next daily Ken upload.",
       "last_completed_task": "Ingested 5 recent Ken master videos into source pool",
       "recent_logs": [
-        "[02:38:31] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
-        "[02:38:41] Queue up to date. Waiting for next daily Ken upload.",
         "[02:56:14] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
         "[02:56:24] Queue up to date. Waiting for next daily Ken upload.",
         "[03:17:37] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
         "[03:33:27] Queue up to date. Waiting for next daily Ken upload.",
         "[04:07:13] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
-        "[04:07:23] Queue up to date. Waiting for next daily Ken upload."
+        "[04:07:23] Queue up to date. Waiting for next daily Ken upload.",
+        "[04:26:20] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
+        "[04:26:31] Queue up to date. Waiting for next daily Ken upload."
       ]
     },
     "STRATEGIST": {
@@ -4603,17 +4603,17 @@
     },
     "EDITOR": {
       "status": "working",
-      "current_task": "Rendering gaming_split Short with captions: the new barrel [Clutch Moment]",
+      "current_task": "Render error: list indices must be integers or slices, not str",
       "last_completed_task": "Rendered 'hp buffed' rage highlight with kinetic pop captions & commentary",
       "recent_logs": [
-        "[01:06:00] Downloading highlight segment (*300-480) for: 2.3 brainrot cycle [Clutch Moment]...",
-        "[01:06:05] Rendering gaming_split Short with captions: 2.3 brainrot cycle [Clutch Mom",
-        "[01:09:12] Downloading highlight segment (*300-480) for: hp buffed [Clutch Moment]...",
         "[01:09:17] Rendering gaming_split Short with captions: hp buffed [Clutch Moment]",
         "[01:12:32] Downloading highlight segment (*540-720) for: hp buffed [Overtime Battle]...",
         "[01:12:37] Rendering gaming_split Short with captions: hp buffed [Overtime Battle]",
         "[04:07:23] Downloading highlight segment (*300-480) for: the new barrel [Clutch Moment]...",
-        "[04:07:28] Rendering gaming_split Short with captions: the new barrel [Clutch Moment]"
+        "[04:07:28] Rendering gaming_split Short with captions: the new barrel [Clutch Moment]",
+        "[04:26:31] Downloading highlight segment (*540-720) for: the new barrel [Overtime Battle]...",
+        "[04:26:35] Rendering gaming_split Short with captions: the new barrel [Overtime Battl",
+        "[04:26:51] Render error: list indices must be integers or slices, not str"
       ]
     },
     "COMMENTATOR": {
@@ -4645,14 +4645,14 @@
       "current_task": "Auditing velocity of active Ken Clash Royale Shorts...",
       "last_completed_task": "Calibrated gaming threshold: >15 views/hr within 4h",
       "recent_logs": [
-        "[01:16:38] Auditing velocity of active Ken Clash Royale Shorts...",
         "[01:36:31] Auditing velocity of active Ken Clash Royale Shorts...",
         "[01:41:31] Auditing velocity of active Ken Clash Royale Shorts...",
         "[02:18:34] Auditing velocity of active Ken Clash Royale Shorts...",
         "[02:54:14] Auditing velocity of active Ken Clash Royale Shorts...",
         "[02:56:43] Auditing velocity of active Ken Clash Royale Shorts...",
         "[03:33:43] Auditing velocity of active Ken Clash Royale Shorts...",
-        "[04:24:20] Auditing velocity of active Ken Clash Royale Shorts..."
+        "[04:24:20] Auditing velocity of active Ken Clash Royale Shorts...",
+        "[04:26:51] Auditing velocity of active Ken Clash Royale Shorts..."
       ]
     },
     "WATCHDOG": {
@@ -4660,14 +4660,14 @@
       "current_task": "Verifying Supercell fan policy: 0 claims, 0 strikes.",
       "last_completed_task": "Audited source parameters: strictly <30s segment rule active",
       "recent_logs": [
-        "[01:16:38] Verifying Supercell fan policy: 0 claims, 0 strikes.",
         "[01:36:31] Verifying Supercell fan policy: 0 claims, 0 strikes.",
         "[01:41:31] Verifying Supercell fan policy: 0 claims, 0 strikes.",
         "[02:18:34] Verifying Supercell fan policy: 0 claims, 0 strikes.",
         "[02:54:14] Verifying Supercell fan policy: 0 claims, 0 strikes.",
         "[02:56:43] Verifying Supercell fan policy: 0 claims, 0 strikes.",
         "[03:33:43] Verifying Supercell fan policy: 0 claims, 0 strikes.",
-        "[04:24:20] Verifying Supercell fan policy: 0 claims, 0 strikes."
+        "[04:24:20] Verifying Supercell fan policy: 0 claims, 0 strikes.",
+        "[04:26:51] Verifying Supercell fan policy: 0 claims, 0 strikes."
       ]
     }
   },
@@ -4681,7 +4681,7 @@
         "url": "https://www.youtube.com/watch?v=ES4IzI-aevk",
         "section": "*540-720",
         "duration": 1346,
-        "status": "QUEUED",
+        "status": "FAILED_RENDER",
         "added_at": "2026-10-17T04:48:12Z"
       },
       {

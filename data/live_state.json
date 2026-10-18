@@ -1,6 +1,6 @@
 {
-  "timestamp": 1792318217.66255,
-  "sync_time_iso": "2026-10-18T10:10:17Z",
+  "timestamp": 1792318279.5148191,
+  "sync_time_iso": "2026-10-18T10:11:19Z",
   "default_channel": "ken_clips_burger",
   "channels": {
     "ken_clips_burger": {
@@ -93,17 +93,17 @@
       "agents": {
         "SCOUT": {
           "status": "working",
-          "current_task": "Queue up to date. Waiting for next daily Ken upload.",
+          "current_task": "Ingested 3 fresh Ken clip candidate(s) into queue.",
           "last_completed_task": "Ingested 5 recent Ken master videos into source pool",
           "recent_logs": [
-            "[04:47:49] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
-            "[04:48:02] Queue up to date. Waiting for next daily Ken upload.",
             "[05:07:43] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
             "[05:07:54] Queue up to date. Waiting for next daily Ken upload.",
             "[05:17:18] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
             "[05:17:28] Queue up to date. Waiting for next daily Ken upload.",
             "[05:53:32] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
-            "[05:53:42] Queue up to date. Waiting for next daily Ken upload."
+            "[05:53:42] Queue up to date. Waiting for next daily Ken upload.",
+            "[06:11:07] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
+            "[06:11:18] Ingested 3 fresh Ken clip candidate(s) into queue."
           ]
         },
         "STRATEGIST": {
@@ -111,14 +111,14 @@
           "current_task": "Buffer healthy: 10/10 scheduled Ken Shorts staged.",
           "last_completed_task": "Mapped 3 distinct viral gaming hook angles for initial drops",
           "recent_logs": [
-            "[01:15:15] No queued Ken candidates ready. Waiting for SCOUT.",
             "[01:17:26] No queued Ken candidates ready. Waiting for SCOUT.",
             "[01:19:37] No queued Ken candidates ready. Waiting for SCOUT.",
             "[01:56:17] No queued Ken candidates ready. Waiting for SCOUT.",
             "[02:47:55] No queued Ken candidates ready. Waiting for SCOUT.",
             "[06:01:34] No queued Ken candidates ready. Waiting for SCOUT.",
             "[09:30:30] No queued Ken candidates ready. Waiting for SCOUT.",
-            "[05:53:42] Buffer healthy: 10/10 scheduled Ken Shorts staged."
+            "[05:53:42] Buffer healthy: 10/10 scheduled Ken Shorts staged.",
+            "[06:11:18] Buffer healthy: 10/10 scheduled Ken Shorts staged."
           ]
         },
         "EDITOR": {
@@ -165,14 +165,14 @@
           "current_task": "Auditing velocity of active Ken Clash Royale Shorts...",
           "last_completed_task": "Calibrated gaming threshold: >15 views/hr within 4h",
           "recent_logs": [
-            "[03:33:43] Auditing velocity of active Ken Clash Royale Shorts...",
             "[04:24:20] Auditing velocity of active Ken Clash Royale Shorts...",
             "[04:26:51] Auditing velocity of active Ken Clash Royale Shorts...",
             "[04:30:11] Auditing velocity of active Ken Clash Royale Shorts...",
             "[04:49:12] Auditing velocity of active Ken Clash Royale Shorts...",
             "[05:09:09] Auditing velocity of active Ken Clash Royale Shorts...",
             "[05:34:35] Auditing velocity of active Ken Clash Royale Shorts...",
-            "[05:53:42] Auditing velocity of active Ken Clash Royale Shorts..."
+            "[05:53:42] Auditing velocity of active Ken Clash Royale Shorts...",
+            "[06:11:18] Auditing velocity of active Ken Clash Royale Shorts..."
           ]
         },
         "WATCHDOG": {
@@ -180,14 +180,14 @@
           "current_task": "Verifying Supercell fan policy: 0 claims, 0 strikes.",
           "last_completed_task": "Audited source parameters: strictly <30s segment rule active",
           "recent_logs": [
-            "[03:33:43] Verifying Supercell fan policy: 0 claims, 0 strikes.",
             "[04:24:20] Verifying Supercell fan policy: 0 claims, 0 strikes.",
             "[04:26:51] Verifying Supercell fan policy: 0 claims, 0 strikes.",
             "[04:30:11] Verifying Supercell fan policy: 0 claims, 0 strikes.",
             "[04:49:12] Verifying Supercell fan policy: 0 claims, 0 strikes.",
             "[05:09:09] Verifying Supercell fan policy: 0 claims, 0 strikes.",
             "[05:34:35] Verifying Supercell fan policy: 0 claims, 0 strikes.",
-            "[05:53:42] Verifying Supercell fan policy: 0 claims, 0 strikes."
+            "[05:53:42] Verifying Supercell fan policy: 0 claims, 0 strikes.",
+            "[06:11:18] Verifying Supercell fan policy: 0 claims, 0 strikes."
           ]
         }
       },
@@ -313,6 +313,39 @@
             "duration": 2181,
             "status": "QUEUED",
             "added_at": "2026-10-17T14:23:15Z"
+          },
+          {
+            "id": "ken_1792318278_0",
+            "creator": "Ken",
+            "title": "2.5 cancer cycle [Highlight]",
+            "source_title": "2.5 cancer cycle",
+            "url": "https://www.youtube.com/watch?v=Lt-aEAtFys0",
+            "section": "*60-240",
+            "duration": 1436,
+            "status": "QUEUED",
+            "added_at": "2026-10-18T10:11:18Z"
+          },
+          {
+            "id": "ken_1792318278_1",
+            "creator": "Ken",
+            "title": "2.5 cancer cycle [Clutch Moment]",
+            "source_title": "2.5 cancer cycle",
+            "url": "https://www.youtube.com/watch?v=Lt-aEAtFys0",
+            "section": "*300-480",
+            "duration": 1436,
+            "status": "QUEUED",
+            "added_at": "2026-10-18T10:11:18Z"
+          },
+          {
+            "id": "ken_1792318278_2",
+            "creator": "Ken",
+            "title": "2.5 cancer cycle [Overtime Battle]",
+            "source_title": "2.5 cancer cycle",
+            "url": "https://www.youtube.com/watch?v=Lt-aEAtFys0",
+            "section": "*540-720",
+            "duration": 1436,
+            "status": "QUEUED",
+            "added_at": "2026-10-18T10:11:18Z"
           }
         ],
         "processing": null,
@@ -4846,17 +4879,17 @@
   "agents": {
     "SCOUT": {
       "status": "working",
-      "current_task": "Queue up to date. Waiting for next daily Ken upload.",
+      "current_task": "Ingested 3 fresh Ken clip candidate(s) into queue.",
       "last_completed_task": "Ingested 5 recent Ken master videos into source pool",
       "recent_logs": [
-        "[04:47:49] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
-        "[04:48:02] Queue up to date. Waiting for next daily Ken upload.",
         "[05:07:43] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
         "[05:07:54] Queue up to date. Waiting for next daily Ken upload.",
         "[05:17:18] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
         "[05:17:28] Queue up to date. Waiting for next daily Ken upload.",
         "[05:53:32] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
-        "[05:53:42] Queue up to date. Waiting for next daily Ken upload."
+        "[05:53:42] Queue up to date. Waiting for next daily Ken upload.",
+        "[06:11:07] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
+        "[06:11:18] Ingested 3 fresh Ken clip candidate(s) into queue."
       ]
     },
     "STRATEGIST": {
@@ -4864,14 +4897,14 @@
       "current_task": "Buffer healthy: 10/10 scheduled Ken Shorts staged.",
       "last_completed_task": "Mapped 3 distinct viral gaming hook angles for initial drops",
       "recent_logs": [
-        "[01:15:15] No queued Ken candidates ready. Waiting for SCOUT.",
         "[01:17:26] No queued Ken candidates ready. Waiting for SCOUT.",
         "[01:19:37] No queued Ken candidates ready. Waiting for SCOUT.",
         "[01:56:17] No queued Ken candidates ready. Waiting for SCOUT.",
         "[02:47:55] No queued Ken candidates ready. Waiting for SCOUT.",
         "[06:01:34] No queued Ken candidates ready. Waiting for SCOUT.",
         "[09:30:30] No queued Ken candidates ready. Waiting for SCOUT.",
-        "[05:53:42] Buffer healthy: 10/10 scheduled Ken Shorts staged."
+        "[05:53:42] Buffer healthy: 10/10 scheduled Ken Shorts staged.",
+        "[06:11:18] Buffer healthy: 10/10 scheduled Ken Shorts staged."
       ]
     },
     "EDITOR": {
@@ -4918,14 +4951,14 @@
       "current_task": "Auditing velocity of active Ken Clash Royale Shorts...",
       "last_completed_task": "Calibrated gaming threshold: >15 views/hr within 4h",
       "recent_logs": [
-        "[03:33:43] Auditing velocity of active Ken Clash Royale Shorts...",
         "[04:24:20] Auditing velocity of active Ken Clash Royale Shorts...",
         "[04:26:51] Auditing velocity of active Ken Clash Royale Shorts...",
         "[04:30:11] Auditing velocity of active Ken Clash Royale Shorts...",
         "[04:49:12] Auditing velocity of active Ken Clash Royale Shorts...",
         "[05:09:09] Auditing velocity of active Ken Clash Royale Shorts...",
         "[05:34:35] Auditing velocity of active Ken Clash Royale Shorts...",
-        "[05:53:42] Auditing velocity of active Ken Clash Royale Shorts..."
+        "[05:53:42] Auditing velocity of active Ken Clash Royale Shorts...",
+        "[06:11:18] Auditing velocity of active Ken Clash Royale Shorts..."
       ]
     },
     "WATCHDOG": {
@@ -4933,14 +4966,14 @@
       "current_task": "Verifying Supercell fan policy: 0 claims, 0 strikes.",
       "last_completed_task": "Audited source parameters: strictly <30s segment rule active",
       "recent_logs": [
-        "[03:33:43] Verifying Supercell fan policy: 0 claims, 0 strikes.",
         "[04:24:20] Verifying Supercell fan policy: 0 claims, 0 strikes.",
         "[04:26:51] Verifying Supercell fan policy: 0 claims, 0 strikes.",
         "[04:30:11] Verifying Supercell fan policy: 0 claims, 0 strikes.",
         "[04:49:12] Verifying Supercell fan policy: 0 claims, 0 strikes.",
         "[05:09:09] Verifying Supercell fan policy: 0 claims, 0 strikes.",
         "[05:34:35] Verifying Supercell fan policy: 0 claims, 0 strikes.",
-        "[05:53:42] Verifying Supercell fan policy: 0 claims, 0 strikes."
+        "[05:53:42] Verifying Supercell fan policy: 0 claims, 0 strikes.",
+        "[06:11:18] Verifying Supercell fan policy: 0 claims, 0 strikes."
       ]
     }
   },
@@ -5066,6 +5099,39 @@
         "duration": 2181,
         "status": "QUEUED",
         "added_at": "2026-10-17T14:23:15Z"
+      },
+      {
+        "id": "ken_1792318278_0",
+        "creator": "Ken",
+        "title": "2.5 cancer cycle [Highlight]",
+        "source_title": "2.5 cancer cycle",
+        "url": "https://www.youtube.com/watch?v=Lt-aEAtFys0",
+        "section": "*60-240",
+        "duration": 1436,
+        "status": "QUEUED",
+        "added_at": "2026-10-18T10:11:18Z"
+      },
+      {
+        "id": "ken_1792318278_1",
+        "creator": "Ken",
+        "title": "2.5 cancer cycle [Clutch Moment]",
+        "source_title": "2.5 cancer cycle",
+        "url": "https://www.youtube.com/watch?v=Lt-aEAtFys0",
+        "section": "*300-480",
+        "duration": 1436,
+        "status": "QUEUED",
+        "added_at": "2026-10-18T10:11:18Z"
+      },
+      {
+        "id": "ken_1792318278_2",
+        "creator": "Ken",
+        "title": "2.5 cancer cycle [Overtime Battle]",
+        "source_title": "2.5 cancer cycle",
+        "url": "https://www.youtube.com/watch?v=Lt-aEAtFys0",
+        "section": "*540-720",
+        "duration": 1436,
+        "status": "QUEUED",
+        "added_at": "2026-10-18T10:11:18Z"
       }
     ],
     "processing": null,

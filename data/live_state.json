@@ -1,6 +1,6 @@
 {
-  "timestamp": 1792366604.722548,
-  "sync_time_iso": "2026-10-18T23:36:44Z",
+  "timestamp": 1792366655.2431948,
+  "sync_time_iso": "2026-10-18T23:37:35Z",
   "default_channel": "ken_clips_burger",
   "channels": {
     "ken_clips_burger": {
@@ -147,17 +147,17 @@
         },
         "PUBLISHER": {
           "status": "working",
-          "current_task": "Short SCHEDULED on YouTube: 0WNit8ylt38 (04:30 PM ET (Tue, Oct 20))",
+          "current_task": "Short SCHEDULED on YouTube: 8G5U74OB-qo (07:30 PM ET (Tue, Oct 20))",
           "last_completed_task": "Uploaded all 3 initial Clash Royale gaming cuts to YouTube (kenclipsburger420)",
           "recent_logs": [
-            "[16:58:07] Deploying to YouTube (@kenclipsburger420) for release 10:00 AM ET (Tue, Oct 20)...",
-            "[16:58:13] Short SCHEDULED on YouTube: LL4CAHLlMUA (10:00 AM ET (Tue, Oct 20))",
-            "[17:04:55] Generating gaming A/B metadata for slot: 01:00 PM ET (Tue, Oct 20)...",
             "[17:05:03] Deploying to YouTube (@kenclipsburger420) for release 01:00 PM ET (Tue, Oct 20)...",
             "[17:05:09] Short SCHEDULED on YouTube: zWix_onyzgM (01:00 PM ET (Tue, Oct 20))",
             "[17:08:39] Generating gaming A/B metadata for slot: 04:30 PM ET (Tue, Oct 20)...",
             "[17:08:49] Deploying to YouTube (@kenclipsburger420) for release 04:30 PM ET (Tue, Oct 20)...",
-            "[17:08:55] Short SCHEDULED on YouTube: 0WNit8ylt38 (04:30 PM ET (Tue, Oct 20))"
+            "[17:08:55] Short SCHEDULED on YouTube: 0WNit8ylt38 (04:30 PM ET (Tue, Oct 20))",
+            "[19:37:24] Generating gaming A/B metadata for slot: 07:30 PM ET (Tue, Oct 20)...",
+            "[19:37:30] Deploying to YouTube (@kenclipsburger420) for release 07:30 PM ET (Tue, Oct 20)...",
+            "[19:37:35] Short SCHEDULED on YouTube: 8G5U74OB-qo (07:30 PM ET (Tue, Oct 20))"
           ]
         },
         "ANALYST": {
@@ -247,17 +247,6 @@
             "duration": 1113,
             "status": "FAILED_DOWNLOAD",
             "added_at": "2026-10-17T04:48:12Z"
-          },
-          {
-            "id": "ken_1792246995_0",
-            "creator": "Ken",
-            "title": "1.9 aggression cycle [Highlight]",
-            "source_title": "1.9 aggression cycle",
-            "url": "https://www.youtube.com/watch?v=1tKJ4BnHC2A",
-            "section": "*60-240",
-            "duration": 2181,
-            "status": "PROCESSING",
-            "added_at": "2026-10-17T14:23:15Z"
           },
           {
             "id": "ken_1792246995_1",
@@ -599,6 +588,19 @@
             "added_at": "2026-10-17T04:48:12Z",
             "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792212492_19_master.mp4",
             "youtube_video_id": "0WNit8ylt38"
+          },
+          {
+            "id": "ken_1792246995_0",
+            "creator": "Ken",
+            "title": "1.9 aggression cycle [Highlight]",
+            "source_title": "1.9 aggression cycle",
+            "url": "https://www.youtube.com/watch?v=1tKJ4BnHC2A",
+            "section": "*60-240",
+            "duration": 2181,
+            "status": "COMPLETED",
+            "added_at": "2026-10-17T14:23:15Z",
+            "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792246995_0_master.mp4",
+            "youtube_video_id": "8G5U74OB-qo"
           }
         ]
       },
@@ -1186,6 +1188,72 @@
                   "variant": "A",
                   "title": "Supercell needs to fix this Evo E-Giant...",
                   "deployed_at": 1792357729.189023,
+                  "reason": "Initial A/B test deployment"
+                }
+              ],
+              "metrics": {
+                "views": 0,
+                "likes": 0,
+                "comments": 0,
+                "retention": 0.0,
+                "ctr": 0.0
+              }
+            },
+            "reframed": "gaming_split"
+          },
+          {
+            "id": "ken_1792246995_0",
+            "source_video": "1.9 aggression cycle [Highlight]",
+            "creator": "Ken",
+            "title": "He tried getting deep mid-match... BIG mistake.",
+            "publish_at": "2026-10-20T23:30:00Z",
+            "status": "SCHEDULED",
+            "uploaded": true,
+            "youtube_video_id": "8G5U74OB-qo",
+            "youtube_url": "https://www.youtube.com/shorts/8G5U74OB-qo",
+            "video_file": "ken_1792246995_0_master.mp4",
+            "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792246995_0_master.mp4",
+            "duration": 21.39,
+            "hook_summary": "The creator attempts to introduce a deep, personal topic while intensely playing a high-stakes match, immediately questioning his ability to multitask.",
+            "metadata": {
+              "title": "He tried getting deep mid-match... BIG mistake.",
+              "description": "Ken attempts to drop a massive truth bomb while locked in a high-stakes match, only to instantly realize human brains are wired for failure when multitasking. Watch how quickly the deep conversation derails.\n\n\u2022 Discover why trying to process complex emotions while distracted never works.\n\u2022 Learn the hidden cost of divided focus on genuine connection.\n\u2022 See the exact moment the attempt completely falls apart.\n\nFeaturing: Ken\n\nCan humans actually multitask meaningful conversations, or is it a complete myth? Drop your thoughts below!\n\n#shorts #ken #multitasking #deepthoughts #focus #mindset",
+              "tags": [
+                "multitasking myth",
+                "deep thoughts",
+                "focus and concentration",
+                "conversation tips",
+                "mindset shift",
+                "productivity traps",
+                "divided attention",
+                "communication skills",
+                "ken shorts"
+              ],
+              "pinned_comment": "Be honest: do you actually think you can multitask, or are you just lying to yourself? Let's settle this in the replies.",
+              "ab_variants": {
+                "A": {
+                  "angle": "Curiosity Gap",
+                  "title": "He tried getting deep mid-match... BIG mistake.",
+                  "description": "Ken attempts to drop a massive truth bomb while locked in a high-stakes match, only to instantly realize human brains are wired for failure when multitasking. Watch how quickly the deep conversation derails.\n\n\u2022 Discover why trying to process complex emotions while distracted never works.\n\u2022 Learn the hidden cost of divided focus on genuine connection.\n\u2022 See the exact moment the attempt completely falls apart.\n\nFeaturing: Ken\n\nCan humans actually multitask meaningful conversations, or is it a complete myth? Drop your thoughts below!\n\n#shorts #ken #multitasking #deepthoughts #focus #mindset"
+                },
+                "B": {
+                  "angle": "Contrarian Truth",
+                  "title": "The lie we've been told about multitasking.",
+                  "description": "Everyone thinks they can juggle deep personal talks and high-focus tasks at the same time. Ken puts that dangerous assumption to the ultimate test and exposes the harsh reality live.\n\n\u2022 Shatter the illusion that you can split your brain 50/50.\n\u2022 Understand why deep thoughts require 100% of your bandwidth.\n\u2022 Realize why trying to do both ruins the conversation.\n\nFeaturing: Ken\n\nHave you ever tried to have a serious talk while doing something else? Did it fail instantly?\n\n#shorts #ken #productivity #psychology #truth #focus"
+                },
+                "C": {
+                  "angle": "Actionable Protocol",
+                  "title": "The 1-Rule fix for ruined conversations.",
+                  "description": "If you keep messing up important talks because you're distracted, you need this rule immediately. Ken demonstrates the exact failure mode so you can fix your communication habits today.\n\n\u2022 Apply the single-focus rule to every important conversation.\n\u2022 Eliminate invisible distractions that ruin your emotional depth.\n\u2022 Master the art of being fully present when it matters.\n\nFeaturing: Ken\n\nWhat is your go-to strategy for eliminating distractions during deep talks?\n\n#shorts #ken #communication #selfimprovement #focus #mindset"
+                }
+              },
+              "active_variant": "A",
+              "test_status": "ACTIVE_TEST",
+              "variant_history": [
+                {
+                  "variant": "A",
+                  "title": "He tried getting deep mid-match... BIG mistake.",
+                  "deployed_at": 1792366650.134219,
                   "reason": "Initial A/B test deployment"
                 }
               ],
@@ -5137,17 +5205,17 @@
     },
     "PUBLISHER": {
       "status": "working",
-      "current_task": "Short SCHEDULED on YouTube: 0WNit8ylt38 (04:30 PM ET (Tue, Oct 20))",
+      "current_task": "Short SCHEDULED on YouTube: 8G5U74OB-qo (07:30 PM ET (Tue, Oct 20))",
       "last_completed_task": "Uploaded all 3 initial Clash Royale gaming cuts to YouTube (kenclipsburger420)",
       "recent_logs": [
-        "[16:58:07] Deploying to YouTube (@kenclipsburger420) for release 10:00 AM ET (Tue, Oct 20)...",
-        "[16:58:13] Short SCHEDULED on YouTube: LL4CAHLlMUA (10:00 AM ET (Tue, Oct 20))",
-        "[17:04:55] Generating gaming A/B metadata for slot: 01:00 PM ET (Tue, Oct 20)...",
         "[17:05:03] Deploying to YouTube (@kenclipsburger420) for release 01:00 PM ET (Tue, Oct 20)...",
         "[17:05:09] Short SCHEDULED on YouTube: zWix_onyzgM (01:00 PM ET (Tue, Oct 20))",
         "[17:08:39] Generating gaming A/B metadata for slot: 04:30 PM ET (Tue, Oct 20)...",
         "[17:08:49] Deploying to YouTube (@kenclipsburger420) for release 04:30 PM ET (Tue, Oct 20)...",
-        "[17:08:55] Short SCHEDULED on YouTube: 0WNit8ylt38 (04:30 PM ET (Tue, Oct 20))"
+        "[17:08:55] Short SCHEDULED on YouTube: 0WNit8ylt38 (04:30 PM ET (Tue, Oct 20))",
+        "[19:37:24] Generating gaming A/B metadata for slot: 07:30 PM ET (Tue, Oct 20)...",
+        "[19:37:30] Deploying to YouTube (@kenclipsburger420) for release 07:30 PM ET (Tue, Oct 20)...",
+        "[19:37:35] Short SCHEDULED on YouTube: 8G5U74OB-qo (07:30 PM ET (Tue, Oct 20))"
       ]
     },
     "ANALYST": {
@@ -5237,17 +5305,6 @@
         "duration": 1113,
         "status": "FAILED_DOWNLOAD",
         "added_at": "2026-10-17T04:48:12Z"
-      },
-      {
-        "id": "ken_1792246995_0",
-        "creator": "Ken",
-        "title": "1.9 aggression cycle [Highlight]",
-        "source_title": "1.9 aggression cycle",
-        "url": "https://www.youtube.com/watch?v=1tKJ4BnHC2A",
-        "section": "*60-240",
-        "duration": 2181,
-        "status": "PROCESSING",
-        "added_at": "2026-10-17T14:23:15Z"
       },
       {
         "id": "ken_1792246995_1",
@@ -5589,6 +5646,19 @@
         "added_at": "2026-10-17T04:48:12Z",
         "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792212492_19_master.mp4",
         "youtube_video_id": "0WNit8ylt38"
+      },
+      {
+        "id": "ken_1792246995_0",
+        "creator": "Ken",
+        "title": "1.9 aggression cycle [Highlight]",
+        "source_title": "1.9 aggression cycle",
+        "url": "https://www.youtube.com/watch?v=1tKJ4BnHC2A",
+        "section": "*60-240",
+        "duration": 2181,
+        "status": "COMPLETED",
+        "added_at": "2026-10-17T14:23:15Z",
+        "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792246995_0_master.mp4",
+        "youtube_video_id": "8G5U74OB-qo"
       }
     ]
   },
@@ -6176,6 +6246,72 @@
               "variant": "A",
               "title": "Supercell needs to fix this Evo E-Giant...",
               "deployed_at": 1792357729.189023,
+              "reason": "Initial A/B test deployment"
+            }
+          ],
+          "metrics": {
+            "views": 0,
+            "likes": 0,
+            "comments": 0,
+            "retention": 0.0,
+            "ctr": 0.0
+          }
+        },
+        "reframed": "gaming_split"
+      },
+      {
+        "id": "ken_1792246995_0",
+        "source_video": "1.9 aggression cycle [Highlight]",
+        "creator": "Ken",
+        "title": "He tried getting deep mid-match... BIG mistake.",
+        "publish_at": "2026-10-20T23:30:00Z",
+        "status": "SCHEDULED",
+        "uploaded": true,
+        "youtube_video_id": "8G5U74OB-qo",
+        "youtube_url": "https://www.youtube.com/shorts/8G5U74OB-qo",
+        "video_file": "ken_1792246995_0_master.mp4",
+        "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792246995_0_master.mp4",
+        "duration": 21.39,
+        "hook_summary": "The creator attempts to introduce a deep, personal topic while intensely playing a high-stakes match, immediately questioning his ability to multitask.",
+        "metadata": {
+          "title": "He tried getting deep mid-match... BIG mistake.",
+          "description": "Ken attempts to drop a massive truth bomb while locked in a high-stakes match, only to instantly realize human brains are wired for failure when multitasking. Watch how quickly the deep conversation derails.\n\n\u2022 Discover why trying to process complex emotions while distracted never works.\n\u2022 Learn the hidden cost of divided focus on genuine connection.\n\u2022 See the exact moment the attempt completely falls apart.\n\nFeaturing: Ken\n\nCan humans actually multitask meaningful conversations, or is it a complete myth? Drop your thoughts below!\n\n#shorts #ken #multitasking #deepthoughts #focus #mindset",
+          "tags": [
+            "multitasking myth",
+            "deep thoughts",
+            "focus and concentration",
+            "conversation tips",
+            "mindset shift",
+            "productivity traps",
+            "divided attention",
+            "communication skills",
+            "ken shorts"
+          ],
+          "pinned_comment": "Be honest: do you actually think you can multitask, or are you just lying to yourself? Let's settle this in the replies.",
+          "ab_variants": {
+            "A": {
+              "angle": "Curiosity Gap",
+              "title": "He tried getting deep mid-match... BIG mistake.",
+              "description": "Ken attempts to drop a massive truth bomb while locked in a high-stakes match, only to instantly realize human brains are wired for failure when multitasking. Watch how quickly the deep conversation derails.\n\n\u2022 Discover why trying to process complex emotions while distracted never works.\n\u2022 Learn the hidden cost of divided focus on genuine connection.\n\u2022 See the exact moment the attempt completely falls apart.\n\nFeaturing: Ken\n\nCan humans actually multitask meaningful conversations, or is it a complete myth? Drop your thoughts below!\n\n#shorts #ken #multitasking #deepthoughts #focus #mindset"
+            },
+            "B": {
+              "angle": "Contrarian Truth",
+              "title": "The lie we've been told about multitasking.",
+              "description": "Everyone thinks they can juggle deep personal talks and high-focus tasks at the same time. Ken puts that dangerous assumption to the ultimate test and exposes the harsh reality live.\n\n\u2022 Shatter the illusion that you can split your brain 50/50.\n\u2022 Understand why deep thoughts require 100% of your bandwidth.\n\u2022 Realize why trying to do both ruins the conversation.\n\nFeaturing: Ken\n\nHave you ever tried to have a serious talk while doing something else? Did it fail instantly?\n\n#shorts #ken #productivity #psychology #truth #focus"
+            },
+            "C": {
+              "angle": "Actionable Protocol",
+              "title": "The 1-Rule fix for ruined conversations.",
+              "description": "If you keep messing up important talks because you're distracted, you need this rule immediately. Ken demonstrates the exact failure mode so you can fix your communication habits today.\n\n\u2022 Apply the single-focus rule to every important conversation.\n\u2022 Eliminate invisible distractions that ruin your emotional depth.\n\u2022 Master the art of being fully present when it matters.\n\nFeaturing: Ken\n\nWhat is your go-to strategy for eliminating distractions during deep talks?\n\n#shorts #ken #communication #selfimprovement #focus #mindset"
+            }
+          },
+          "active_variant": "A",
+          "test_status": "ACTIVE_TEST",
+          "variant_history": [
+            {
+              "variant": "A",
+              "title": "He tried getting deep mid-match... BIG mistake.",
+              "deployed_at": 1792366650.134219,
               "reason": "Initial A/B test deployment"
             }
           ],

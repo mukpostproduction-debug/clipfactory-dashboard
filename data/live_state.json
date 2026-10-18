@@ -1,6 +1,6 @@
 {
-  "timestamp": 1792313340.357592,
-  "sync_time_iso": "2026-10-18T08:49:00Z",
+  "timestamp": 1792313351.289099,
+  "sync_time_iso": "2026-10-18T08:49:11Z",
   "default_channel": "ken_clips_burger",
   "channels": {
     "ken_clips_burger": {
@@ -147,17 +147,17 @@
         },
         "PUBLISHER": {
           "status": "working",
-          "current_task": "Generating gaming A/B metadata for slot: 04:30 PM ET (Mon, Oct 19)...",
+          "current_task": "Short SCHEDULED on YouTube: aPSSy4f9k14 (04:30 PM ET (Mon, Oct 19))",
           "last_completed_task": "Uploaded all 3 initial Clash Royale gaming cuts to YouTube (kenclipsburger420)",
           "recent_logs": [
-            "[03:33:41] Short SCHEDULED on YouTube: CE6DP7D5TFM (10:15 PM ET (Sun, Oct 18))",
-            "[04:24:01] Generating gaming A/B metadata for slot: 10:00 AM ET (Mon, Oct 19)...",
             "[04:24:13] Deploying to YouTube (@kenclipsburger420) for release 10:00 AM ET (Mon, Oct 19)...",
             "[04:24:19] Short SCHEDULED on YouTube: nih90sNVBT8 (10:00 AM ET (Mon, Oct 19))",
             "[04:29:52] Generating gaming A/B metadata for slot: 01:00 PM ET (Mon, Oct 19)...",
             "[04:30:04] Deploying to YouTube (@kenclipsburger420) for release 01:00 PM ET (Mon, Oct 19)...",
             "[04:30:10] Short SCHEDULED on YouTube: ntVg4CCLgzM (01:00 PM ET (Mon, Oct 19))",
-            "[04:48:52] Generating gaming A/B metadata for slot: 04:30 PM ET (Mon, Oct 19)..."
+            "[04:48:52] Generating gaming A/B metadata for slot: 04:30 PM ET (Mon, Oct 19)...",
+            "[04:49:05] Deploying to YouTube (@kenclipsburger420) for release 04:30 PM ET (Mon, Oct 19)...",
+            "[04:49:11] Short SCHEDULED on YouTube: aPSSy4f9k14 (04:30 PM ET (Mon, Oct 19))"
           ]
         },
         "ANALYST": {
@@ -202,17 +202,6 @@
             "section": "*540-720",
             "duration": 1346,
             "status": "FAILED_RENDER",
-            "added_at": "2026-10-17T04:48:12Z"
-          },
-          {
-            "id": "ken_1792212492_10",
-            "creator": "Ken",
-            "title": "least busted card [Overtime Battle]",
-            "source_title": "least busted card",
-            "url": "https://www.youtube.com/watch?v=LhS6RH2NmcU",
-            "section": "*540-720",
-            "duration": 979,
-            "status": "PROCESSING",
             "added_at": "2026-10-17T04:48:12Z"
           },
           {
@@ -554,6 +543,19 @@
             "added_at": "2026-10-17T04:48:12Z",
             "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792212492_9_master.mp4",
             "youtube_video_id": "ntVg4CCLgzM"
+          },
+          {
+            "id": "ken_1792212492_10",
+            "creator": "Ken",
+            "title": "least busted card [Overtime Battle]",
+            "source_title": "least busted card",
+            "url": "https://www.youtube.com/watch?v=LhS6RH2NmcU",
+            "section": "*540-720",
+            "duration": 979,
+            "status": "COMPLETED",
+            "added_at": "2026-10-17T04:48:12Z",
+            "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792212492_10_master.mp4",
+            "youtube_video_id": "aPSSy4f9k14"
           }
         ]
       },
@@ -1008,6 +1010,72 @@
                   "variant": "A",
                   "title": "Why Chip Cycling Just Lost Its Power",
                   "deployed_at": 1792312204.0918121,
+                  "reason": "Initial A/B test deployment"
+                }
+              ],
+              "metrics": {
+                "views": 0,
+                "likes": 0,
+                "comments": 0,
+                "retention": 0.0,
+                "ctr": 0.0
+              }
+            },
+            "reframed": "gaming_split"
+          },
+          {
+            "id": "ken_1792212492_10",
+            "source_video": "least busted card [Overtime Battle]",
+            "creator": "Ken",
+            "title": "The comment section feature that ruins every video",
+            "publish_at": "2026-10-19T20:30:00Z",
+            "status": "SCHEDULED",
+            "uploaded": true,
+            "youtube_video_id": "aPSSy4f9k14",
+            "youtube_url": "https://www.youtube.com/shorts/aPSSy4f9k14",
+            "video_file": "ken_1792212492_10_master.mp4",
+            "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792212492_10_master.mp4",
+            "duration": 21.05,
+            "hook_summary": "The creator rants about viewers putting timestamps in the comment section for event openings, explaining why it's the worst feature and how it ruins the video's irony.",
+            "metadata": {
+              "title": "The comment section feature that ruins every video",
+              "description": "Stop doing this in the comment section immediately. Ken exposes the absolute worst YouTube feature that completely ruins the joke and kills the entire vibe of the video. If you've ever used this, you need to hear this.\n\n\u2022 Discover why certain comment timestamps actively destroy video irony\n\u2022 Understand the psychological impact of ruining the punchline early\n\u2022 Learn how to properly engage with content without spoiling the experience\n\nFeaturing: Ken\n\nAre timestamps actually helpful, or are they just pure laziness that ruins the creator's vision?\n\n#shorts #ken #youtube #comments #contentcreator #rant",
+              "tags": [
+                "youtube comments",
+                "timestamps",
+                "youtube shorts rant",
+                "ken shorts",
+                "content creation tips",
+                "internet culture",
+                "comment section",
+                "video pacing",
+                "youtube features"
+              ],
+              "pinned_comment": "Be honest: do you drop timestamps in the comments, or do you hate them as much as Ken does? Drop your guilty confessions below.",
+              "ab_variants": {
+                "A": {
+                  "angle": "Curiosity Gap",
+                  "title": "The comment section feature that ruins every video",
+                  "description": "Stop doing this in the comment section immediately. Ken exposes the absolute worst YouTube feature that completely ruins the joke and kills the entire vibe of the video. If you've ever used this, you need to hear this.\n\n\u2022 Discover why certain comment timestamps actively destroy video irony\n\u2022 Understand the psychological impact of ruining the punchline early\n\u2022 Learn how to properly engage with content without spoiling the experience\n\nFeaturing: Ken\n\nAre timestamps actually helpful, or are they just pure laziness that ruins the creator's vision?\n\n#shorts #ken #youtube #comments #contentcreator #rant"
+                },
+                "B": {
+                  "angle": "Contrarian Truth",
+                  "title": "Timestamp commenters are destroying the internet",
+                  "description": "Unpopular opinion: the people who leave timestamps in the comments are public enemy number one. Ken goes off on a rant about why this supposed 'helpful' feature is actually the worst thing to ever happen to video pacing.\n\n\u2022 The hidden downside of hyper-convenient video navigation\n\u2022 Why cinematic irony dies the second a timestamp appears\n\u2022 The brutal truth about how people consume content today\n\nFeaturing: Ken\n\nWould you rather have total convenience or preserve the surprise of the video?\n\n#shorts #ken #unpopularopinion #internetculture #youtube #rant"
+                },
+                "C": {
+                  "angle": "Actionable Protocol",
+                  "title": "The Golden Rule of YouTube Comments",
+                  "description": "Want to know the ultimate rule of comment section etiquette? Ken breaks down why you need to stop putting event timestamps in the comments once and for all and how it completely ruins the viewing experience.\n\n\u2022 The exact moment when helpfulness becomes annoying interference\n\u2022 A simple rule for engaging with video chapters properly\n\u2022 How to protect the comedic timing of your favorite creators\n\nFeaturing: Ken\n\nDo you skip straight to the timestamps, or do you watch the whole video like a purist?\n\n#shorts #ken #protip #socialmedia #creators #youtube"
+                }
+              },
+              "active_variant": "A",
+              "test_status": "ACTIVE_TEST",
+              "variant_history": [
+                {
+                  "variant": "A",
+                  "title": "The comment section feature that ruins every video",
+                  "deployed_at": 1792313345.256832,
                   "reason": "Initial A/B test deployment"
                 }
               ],
@@ -4695,17 +4763,17 @@
     },
     "PUBLISHER": {
       "status": "working",
-      "current_task": "Generating gaming A/B metadata for slot: 04:30 PM ET (Mon, Oct 19)...",
+      "current_task": "Short SCHEDULED on YouTube: aPSSy4f9k14 (04:30 PM ET (Mon, Oct 19))",
       "last_completed_task": "Uploaded all 3 initial Clash Royale gaming cuts to YouTube (kenclipsburger420)",
       "recent_logs": [
-        "[03:33:41] Short SCHEDULED on YouTube: CE6DP7D5TFM (10:15 PM ET (Sun, Oct 18))",
-        "[04:24:01] Generating gaming A/B metadata for slot: 10:00 AM ET (Mon, Oct 19)...",
         "[04:24:13] Deploying to YouTube (@kenclipsburger420) for release 10:00 AM ET (Mon, Oct 19)...",
         "[04:24:19] Short SCHEDULED on YouTube: nih90sNVBT8 (10:00 AM ET (Mon, Oct 19))",
         "[04:29:52] Generating gaming A/B metadata for slot: 01:00 PM ET (Mon, Oct 19)...",
         "[04:30:04] Deploying to YouTube (@kenclipsburger420) for release 01:00 PM ET (Mon, Oct 19)...",
         "[04:30:10] Short SCHEDULED on YouTube: ntVg4CCLgzM (01:00 PM ET (Mon, Oct 19))",
-        "[04:48:52] Generating gaming A/B metadata for slot: 04:30 PM ET (Mon, Oct 19)..."
+        "[04:48:52] Generating gaming A/B metadata for slot: 04:30 PM ET (Mon, Oct 19)...",
+        "[04:49:05] Deploying to YouTube (@kenclipsburger420) for release 04:30 PM ET (Mon, Oct 19)...",
+        "[04:49:11] Short SCHEDULED on YouTube: aPSSy4f9k14 (04:30 PM ET (Mon, Oct 19))"
       ]
     },
     "ANALYST": {
@@ -4750,17 +4818,6 @@
         "section": "*540-720",
         "duration": 1346,
         "status": "FAILED_RENDER",
-        "added_at": "2026-10-17T04:48:12Z"
-      },
-      {
-        "id": "ken_1792212492_10",
-        "creator": "Ken",
-        "title": "least busted card [Overtime Battle]",
-        "source_title": "least busted card",
-        "url": "https://www.youtube.com/watch?v=LhS6RH2NmcU",
-        "section": "*540-720",
-        "duration": 979,
-        "status": "PROCESSING",
         "added_at": "2026-10-17T04:48:12Z"
       },
       {
@@ -5102,6 +5159,19 @@
         "added_at": "2026-10-17T04:48:12Z",
         "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792212492_9_master.mp4",
         "youtube_video_id": "ntVg4CCLgzM"
+      },
+      {
+        "id": "ken_1792212492_10",
+        "creator": "Ken",
+        "title": "least busted card [Overtime Battle]",
+        "source_title": "least busted card",
+        "url": "https://www.youtube.com/watch?v=LhS6RH2NmcU",
+        "section": "*540-720",
+        "duration": 979,
+        "status": "COMPLETED",
+        "added_at": "2026-10-17T04:48:12Z",
+        "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792212492_10_master.mp4",
+        "youtube_video_id": "aPSSy4f9k14"
       }
     ]
   },
@@ -5556,6 +5626,72 @@
               "variant": "A",
               "title": "Why Chip Cycling Just Lost Its Power",
               "deployed_at": 1792312204.0918121,
+              "reason": "Initial A/B test deployment"
+            }
+          ],
+          "metrics": {
+            "views": 0,
+            "likes": 0,
+            "comments": 0,
+            "retention": 0.0,
+            "ctr": 0.0
+          }
+        },
+        "reframed": "gaming_split"
+      },
+      {
+        "id": "ken_1792212492_10",
+        "source_video": "least busted card [Overtime Battle]",
+        "creator": "Ken",
+        "title": "The comment section feature that ruins every video",
+        "publish_at": "2026-10-19T20:30:00Z",
+        "status": "SCHEDULED",
+        "uploaded": true,
+        "youtube_video_id": "aPSSy4f9k14",
+        "youtube_url": "https://www.youtube.com/shorts/aPSSy4f9k14",
+        "video_file": "ken_1792212492_10_master.mp4",
+        "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792212492_10_master.mp4",
+        "duration": 21.05,
+        "hook_summary": "The creator rants about viewers putting timestamps in the comment section for event openings, explaining why it's the worst feature and how it ruins the video's irony.",
+        "metadata": {
+          "title": "The comment section feature that ruins every video",
+          "description": "Stop doing this in the comment section immediately. Ken exposes the absolute worst YouTube feature that completely ruins the joke and kills the entire vibe of the video. If you've ever used this, you need to hear this.\n\n\u2022 Discover why certain comment timestamps actively destroy video irony\n\u2022 Understand the psychological impact of ruining the punchline early\n\u2022 Learn how to properly engage with content without spoiling the experience\n\nFeaturing: Ken\n\nAre timestamps actually helpful, or are they just pure laziness that ruins the creator's vision?\n\n#shorts #ken #youtube #comments #contentcreator #rant",
+          "tags": [
+            "youtube comments",
+            "timestamps",
+            "youtube shorts rant",
+            "ken shorts",
+            "content creation tips",
+            "internet culture",
+            "comment section",
+            "video pacing",
+            "youtube features"
+          ],
+          "pinned_comment": "Be honest: do you drop timestamps in the comments, or do you hate them as much as Ken does? Drop your guilty confessions below.",
+          "ab_variants": {
+            "A": {
+              "angle": "Curiosity Gap",
+              "title": "The comment section feature that ruins every video",
+              "description": "Stop doing this in the comment section immediately. Ken exposes the absolute worst YouTube feature that completely ruins the joke and kills the entire vibe of the video. If you've ever used this, you need to hear this.\n\n\u2022 Discover why certain comment timestamps actively destroy video irony\n\u2022 Understand the psychological impact of ruining the punchline early\n\u2022 Learn how to properly engage with content without spoiling the experience\n\nFeaturing: Ken\n\nAre timestamps actually helpful, or are they just pure laziness that ruins the creator's vision?\n\n#shorts #ken #youtube #comments #contentcreator #rant"
+            },
+            "B": {
+              "angle": "Contrarian Truth",
+              "title": "Timestamp commenters are destroying the internet",
+              "description": "Unpopular opinion: the people who leave timestamps in the comments are public enemy number one. Ken goes off on a rant about why this supposed 'helpful' feature is actually the worst thing to ever happen to video pacing.\n\n\u2022 The hidden downside of hyper-convenient video navigation\n\u2022 Why cinematic irony dies the second a timestamp appears\n\u2022 The brutal truth about how people consume content today\n\nFeaturing: Ken\n\nWould you rather have total convenience or preserve the surprise of the video?\n\n#shorts #ken #unpopularopinion #internetculture #youtube #rant"
+            },
+            "C": {
+              "angle": "Actionable Protocol",
+              "title": "The Golden Rule of YouTube Comments",
+              "description": "Want to know the ultimate rule of comment section etiquette? Ken breaks down why you need to stop putting event timestamps in the comments once and for all and how it completely ruins the viewing experience.\n\n\u2022 The exact moment when helpfulness becomes annoying interference\n\u2022 A simple rule for engaging with video chapters properly\n\u2022 How to protect the comedic timing of your favorite creators\n\nFeaturing: Ken\n\nDo you skip straight to the timestamps, or do you watch the whole video like a purist?\n\n#shorts #ken #protip #socialmedia #creators #youtube"
+            }
+          },
+          "active_variant": "A",
+          "test_status": "ACTIVE_TEST",
+          "variant_history": [
+            {
+              "variant": "A",
+              "title": "The comment section feature that ruins every video",
+              "deployed_at": 1792313345.256832,
               "reason": "Initial A/B test deployment"
             }
           ],

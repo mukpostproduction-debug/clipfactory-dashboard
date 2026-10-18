@@ -1,6 +1,6 @@
 {
-  "timestamp": 1792314516.154229,
-  "sync_time_iso": "2026-10-18T09:08:36Z",
+  "timestamp": 1792314547.695912,
+  "sync_time_iso": "2026-10-18T09:09:07Z",
   "default_channel": "ken_clips_burger",
   "channels": {
     "ken_clips_burger": {
@@ -147,17 +147,17 @@
         },
         "PUBLISHER": {
           "status": "working",
-          "current_task": "Short SCHEDULED on YouTube: aPSSy4f9k14 (04:30 PM ET (Mon, Oct 19))",
+          "current_task": "Short SCHEDULED on YouTube: qW_tbL02ijs (07:30 PM ET (Mon, Oct 19))",
           "last_completed_task": "Uploaded all 3 initial Clash Royale gaming cuts to YouTube (kenclipsburger420)",
           "recent_logs": [
-            "[04:24:13] Deploying to YouTube (@kenclipsburger420) for release 10:00 AM ET (Mon, Oct 19)...",
-            "[04:24:19] Short SCHEDULED on YouTube: nih90sNVBT8 (10:00 AM ET (Mon, Oct 19))",
-            "[04:29:52] Generating gaming A/B metadata for slot: 01:00 PM ET (Mon, Oct 19)...",
             "[04:30:04] Deploying to YouTube (@kenclipsburger420) for release 01:00 PM ET (Mon, Oct 19)...",
             "[04:30:10] Short SCHEDULED on YouTube: ntVg4CCLgzM (01:00 PM ET (Mon, Oct 19))",
             "[04:48:52] Generating gaming A/B metadata for slot: 04:30 PM ET (Mon, Oct 19)...",
             "[04:49:05] Deploying to YouTube (@kenclipsburger420) for release 04:30 PM ET (Mon, Oct 19)...",
-            "[04:49:11] Short SCHEDULED on YouTube: aPSSy4f9k14 (04:30 PM ET (Mon, Oct 19))"
+            "[04:49:11] Short SCHEDULED on YouTube: aPSSy4f9k14 (04:30 PM ET (Mon, Oct 19))",
+            "[05:08:55] Generating gaming A/B metadata for slot: 07:30 PM ET (Mon, Oct 19)...",
+            "[05:09:01] Deploying to YouTube (@kenclipsburger420) for release 07:30 PM ET (Mon, Oct 19)...",
+            "[05:09:07] Short SCHEDULED on YouTube: qW_tbL02ijs (07:30 PM ET (Mon, Oct 19))"
           ]
         },
         "ANALYST": {
@@ -202,17 +202,6 @@
             "section": "*540-720",
             "duration": 1346,
             "status": "FAILED_RENDER",
-            "added_at": "2026-10-17T04:48:12Z"
-          },
-          {
-            "id": "ken_1792212492_11",
-            "creator": "Ken",
-            "title": "perfected my deck [Clutch Moment]",
-            "source_title": "perfected my deck",
-            "url": "https://www.youtube.com/watch?v=jx3uURON3MY",
-            "section": "*300-480",
-            "duration": 1279,
-            "status": "PROCESSING",
             "added_at": "2026-10-17T04:48:12Z"
           },
           {
@@ -556,6 +545,19 @@
             "added_at": "2026-10-17T04:48:12Z",
             "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792212492_10_master.mp4",
             "youtube_video_id": "aPSSy4f9k14"
+          },
+          {
+            "id": "ken_1792212492_11",
+            "creator": "Ken",
+            "title": "perfected my deck [Clutch Moment]",
+            "source_title": "perfected my deck",
+            "url": "https://www.youtube.com/watch?v=jx3uURON3MY",
+            "section": "*300-480",
+            "duration": 1279,
+            "status": "COMPLETED",
+            "added_at": "2026-10-17T04:48:12Z",
+            "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792212492_11_master.mp4",
+            "youtube_video_id": "qW_tbL02ijs"
           }
         ]
       },
@@ -1076,6 +1078,72 @@
                   "variant": "A",
                   "title": "The comment section feature that ruins every video",
                   "deployed_at": 1792313345.256832,
+                  "reason": "Initial A/B test deployment"
+                }
+              ],
+              "metrics": {
+                "views": 0,
+                "likes": 0,
+                "comments": 0,
+                "retention": 0.0,
+                "ctr": 0.0
+              }
+            },
+            "reframed": "gaming_split"
+          },
+          {
+            "id": "ken_1792212492_11",
+            "source_video": "perfected my deck [Clutch Moment]",
+            "creator": "Ken",
+            "title": "The illegal Evo Hunter trick nobody is using",
+            "publish_at": "2026-10-19T23:30:00Z",
+            "status": "SCHEDULED",
+            "uploaded": true,
+            "youtube_video_id": "qW_tbL02ijs",
+            "youtube_url": "https://www.youtube.com/shorts/qW_tbL02ijs",
+            "video_file": "ken_1792212492_11_master.mp4",
+            "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792212492_11_master.mp4",
+            "duration": 26.18,
+            "hook_summary": "The player showcases the chaotic, highly technical 'hogling strategy' with Evo Hunter that locks down opponents in ridiculous ways.",
+            "metadata": {
+              "title": "The illegal Evo Hunter trick nobody is using",
+              "description": "Discover the hidden mechanics behind the chaotic hogling strategy that completely locks down opponents. Ken breaks down the exact gimmicks that make this playstyle nearly impossible to predict.\n\n\u2022 Master the hidden gimmicks of the hogling strategy\n\u2022 Learn how to trap and lock down opponents instantly\n\u2022 Outsmart high-level players with unexpected setups\n\nFeaturing: Ken\n\nAre these weird gimmicks actually overpowered, or just a waste of time? Drop your thoughts below!\n\n#shorts #ken #gaming #strategy #evo #gamingclips",
+              "tags": [
+                "Evo Hunter",
+                "Hogling Strategy",
+                "Ken gaming",
+                "Gaming shorts",
+                "Evo strategy",
+                "Pro gaming tips",
+                "Game meta",
+                "Viral gaming clips",
+                "Strategy breakdown"
+              ],
+              "pinned_comment": "Are these chaotic gimmicks actually genius, or is this just pure luck? Be honest in the replies!",
+              "ab_variants": {
+                "A": {
+                  "angle": "Curiosity Gap",
+                  "title": "The illegal Evo Hunter trick nobody is using",
+                  "description": "Discover the hidden mechanics behind the chaotic hogling strategy that completely locks down opponents. Ken breaks down the exact gimmicks that make this playstyle nearly impossible to predict.\n\n\u2022 Master the hidden gimmicks of the hogling strategy\n\u2022 Learn how to trap and lock down opponents instantly\n\u2022 Outsmart high-level players with unexpected setups\n\nFeaturing: Ken\n\nAre these weird gimmicks actually overpowered, or just a waste of time? Drop your thoughts below!\n\n#shorts #ken #gaming #strategy #evo #gamingclips"
+                },
+                "B": {
+                  "angle": "Contrarian Truth",
+                  "title": "Stop playing Evo Hunter the normal way",
+                  "description": "Forget standard gameplay meta\u2014the hogling strategy relies on chaotic gimmicks that actually break how opponents defend against you. Ken reveals why standard tactics are holding you back.\n\n\u2022 Why conventional playstyles fail against modern setups\n\u2022 Embrace chaotic mechanics to overwhelm your enemy\n\u2022 The truth about high-risk, high-reward strategies\n\nFeaturing: Ken\n\nWould you ever risk a troll strategy in a serious match, or do you play it safe? Let us know!\n\n#shorts #ken #evo #gamingmeta #strategy #playstation"
+                },
+                "C": {
+                  "angle": "Actionable Protocol",
+                  "title": "How to lock down opponents with Evo Hunter",
+                  "description": "Ready to master the ultimate control playstyle? Ken walks you through the core steps of executing the hogling strategy to trap enemies in ridiculous lockdown loops.\n\n\u2022 Step-by-step breakdown of the hogling lockdown\n\u2022 How to exploit enemy panic using pure chaos\n\u2022 Tactical positioning for maximum control\n\nFeaturing: Ken\n\nWhat is your go-to strategy when a match gets completely chaotic? Tell us in the comments!\n\n#shorts #ken #gamingtips #evo #strategy #progaming"
+                }
+              },
+              "active_variant": "A",
+              "test_status": "ACTIVE_TEST",
+              "variant_history": [
+                {
+                  "variant": "A",
+                  "title": "The illegal Evo Hunter trick nobody is using",
+                  "deployed_at": 1792314541.88932,
                   "reason": "Initial A/B test deployment"
                 }
               ],
@@ -4763,17 +4831,17 @@
     },
     "PUBLISHER": {
       "status": "working",
-      "current_task": "Short SCHEDULED on YouTube: aPSSy4f9k14 (04:30 PM ET (Mon, Oct 19))",
+      "current_task": "Short SCHEDULED on YouTube: qW_tbL02ijs (07:30 PM ET (Mon, Oct 19))",
       "last_completed_task": "Uploaded all 3 initial Clash Royale gaming cuts to YouTube (kenclipsburger420)",
       "recent_logs": [
-        "[04:24:13] Deploying to YouTube (@kenclipsburger420) for release 10:00 AM ET (Mon, Oct 19)...",
-        "[04:24:19] Short SCHEDULED on YouTube: nih90sNVBT8 (10:00 AM ET (Mon, Oct 19))",
-        "[04:29:52] Generating gaming A/B metadata for slot: 01:00 PM ET (Mon, Oct 19)...",
         "[04:30:04] Deploying to YouTube (@kenclipsburger420) for release 01:00 PM ET (Mon, Oct 19)...",
         "[04:30:10] Short SCHEDULED on YouTube: ntVg4CCLgzM (01:00 PM ET (Mon, Oct 19))",
         "[04:48:52] Generating gaming A/B metadata for slot: 04:30 PM ET (Mon, Oct 19)...",
         "[04:49:05] Deploying to YouTube (@kenclipsburger420) for release 04:30 PM ET (Mon, Oct 19)...",
-        "[04:49:11] Short SCHEDULED on YouTube: aPSSy4f9k14 (04:30 PM ET (Mon, Oct 19))"
+        "[04:49:11] Short SCHEDULED on YouTube: aPSSy4f9k14 (04:30 PM ET (Mon, Oct 19))",
+        "[05:08:55] Generating gaming A/B metadata for slot: 07:30 PM ET (Mon, Oct 19)...",
+        "[05:09:01] Deploying to YouTube (@kenclipsburger420) for release 07:30 PM ET (Mon, Oct 19)...",
+        "[05:09:07] Short SCHEDULED on YouTube: qW_tbL02ijs (07:30 PM ET (Mon, Oct 19))"
       ]
     },
     "ANALYST": {
@@ -4818,17 +4886,6 @@
         "section": "*540-720",
         "duration": 1346,
         "status": "FAILED_RENDER",
-        "added_at": "2026-10-17T04:48:12Z"
-      },
-      {
-        "id": "ken_1792212492_11",
-        "creator": "Ken",
-        "title": "perfected my deck [Clutch Moment]",
-        "source_title": "perfected my deck",
-        "url": "https://www.youtube.com/watch?v=jx3uURON3MY",
-        "section": "*300-480",
-        "duration": 1279,
-        "status": "PROCESSING",
         "added_at": "2026-10-17T04:48:12Z"
       },
       {
@@ -5172,6 +5229,19 @@
         "added_at": "2026-10-17T04:48:12Z",
         "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792212492_10_master.mp4",
         "youtube_video_id": "aPSSy4f9k14"
+      },
+      {
+        "id": "ken_1792212492_11",
+        "creator": "Ken",
+        "title": "perfected my deck [Clutch Moment]",
+        "source_title": "perfected my deck",
+        "url": "https://www.youtube.com/watch?v=jx3uURON3MY",
+        "section": "*300-480",
+        "duration": 1279,
+        "status": "COMPLETED",
+        "added_at": "2026-10-17T04:48:12Z",
+        "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792212492_11_master.mp4",
+        "youtube_video_id": "qW_tbL02ijs"
       }
     ]
   },
@@ -5692,6 +5762,72 @@
               "variant": "A",
               "title": "The comment section feature that ruins every video",
               "deployed_at": 1792313345.256832,
+              "reason": "Initial A/B test deployment"
+            }
+          ],
+          "metrics": {
+            "views": 0,
+            "likes": 0,
+            "comments": 0,
+            "retention": 0.0,
+            "ctr": 0.0
+          }
+        },
+        "reframed": "gaming_split"
+      },
+      {
+        "id": "ken_1792212492_11",
+        "source_video": "perfected my deck [Clutch Moment]",
+        "creator": "Ken",
+        "title": "The illegal Evo Hunter trick nobody is using",
+        "publish_at": "2026-10-19T23:30:00Z",
+        "status": "SCHEDULED",
+        "uploaded": true,
+        "youtube_video_id": "qW_tbL02ijs",
+        "youtube_url": "https://www.youtube.com/shorts/qW_tbL02ijs",
+        "video_file": "ken_1792212492_11_master.mp4",
+        "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792212492_11_master.mp4",
+        "duration": 26.18,
+        "hook_summary": "The player showcases the chaotic, highly technical 'hogling strategy' with Evo Hunter that locks down opponents in ridiculous ways.",
+        "metadata": {
+          "title": "The illegal Evo Hunter trick nobody is using",
+          "description": "Discover the hidden mechanics behind the chaotic hogling strategy that completely locks down opponents. Ken breaks down the exact gimmicks that make this playstyle nearly impossible to predict.\n\n\u2022 Master the hidden gimmicks of the hogling strategy\n\u2022 Learn how to trap and lock down opponents instantly\n\u2022 Outsmart high-level players with unexpected setups\n\nFeaturing: Ken\n\nAre these weird gimmicks actually overpowered, or just a waste of time? Drop your thoughts below!\n\n#shorts #ken #gaming #strategy #evo #gamingclips",
+          "tags": [
+            "Evo Hunter",
+            "Hogling Strategy",
+            "Ken gaming",
+            "Gaming shorts",
+            "Evo strategy",
+            "Pro gaming tips",
+            "Game meta",
+            "Viral gaming clips",
+            "Strategy breakdown"
+          ],
+          "pinned_comment": "Are these chaotic gimmicks actually genius, or is this just pure luck? Be honest in the replies!",
+          "ab_variants": {
+            "A": {
+              "angle": "Curiosity Gap",
+              "title": "The illegal Evo Hunter trick nobody is using",
+              "description": "Discover the hidden mechanics behind the chaotic hogling strategy that completely locks down opponents. Ken breaks down the exact gimmicks that make this playstyle nearly impossible to predict.\n\n\u2022 Master the hidden gimmicks of the hogling strategy\n\u2022 Learn how to trap and lock down opponents instantly\n\u2022 Outsmart high-level players with unexpected setups\n\nFeaturing: Ken\n\nAre these weird gimmicks actually overpowered, or just a waste of time? Drop your thoughts below!\n\n#shorts #ken #gaming #strategy #evo #gamingclips"
+            },
+            "B": {
+              "angle": "Contrarian Truth",
+              "title": "Stop playing Evo Hunter the normal way",
+              "description": "Forget standard gameplay meta\u2014the hogling strategy relies on chaotic gimmicks that actually break how opponents defend against you. Ken reveals why standard tactics are holding you back.\n\n\u2022 Why conventional playstyles fail against modern setups\n\u2022 Embrace chaotic mechanics to overwhelm your enemy\n\u2022 The truth about high-risk, high-reward strategies\n\nFeaturing: Ken\n\nWould you ever risk a troll strategy in a serious match, or do you play it safe? Let us know!\n\n#shorts #ken #evo #gamingmeta #strategy #playstation"
+            },
+            "C": {
+              "angle": "Actionable Protocol",
+              "title": "How to lock down opponents with Evo Hunter",
+              "description": "Ready to master the ultimate control playstyle? Ken walks you through the core steps of executing the hogling strategy to trap enemies in ridiculous lockdown loops.\n\n\u2022 Step-by-step breakdown of the hogling lockdown\n\u2022 How to exploit enemy panic using pure chaos\n\u2022 Tactical positioning for maximum control\n\nFeaturing: Ken\n\nWhat is your go-to strategy when a match gets completely chaotic? Tell us in the comments!\n\n#shorts #ken #gamingtips #evo #strategy #progaming"
+            }
+          },
+          "active_variant": "A",
+          "test_status": "ACTIVE_TEST",
+          "variant_history": [
+            {
+              "variant": "A",
+              "title": "The illegal Evo Hunter trick nobody is using",
+              "deployed_at": 1792314541.88932,
               "reason": "Initial A/B test deployment"
             }
           ],

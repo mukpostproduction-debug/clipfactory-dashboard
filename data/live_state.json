@@ -1,6 +1,6 @@
 {
-  "timestamp": 1792357683.614061,
-  "sync_time_iso": "2026-10-18T21:08:03Z",
+  "timestamp": 1792357735.4227998,
+  "sync_time_iso": "2026-10-18T21:08:55Z",
   "default_channel": "ken_clips_burger",
   "channels": {
     "ken_clips_burger": {
@@ -147,17 +147,17 @@
         },
         "PUBLISHER": {
           "status": "working",
-          "current_task": "Short SCHEDULED on YouTube: zWix_onyzgM (01:00 PM ET (Tue, Oct 20))",
+          "current_task": "Short SCHEDULED on YouTube: 0WNit8ylt38 (04:30 PM ET (Tue, Oct 20))",
           "last_completed_task": "Uploaded all 3 initial Clash Royale gaming cuts to YouTube (kenclipsburger420)",
           "recent_logs": [
-            "[05:34:24] Deploying to YouTube (@kenclipsburger420) for release 10:15 PM ET (Mon, Oct 19)...",
-            "[05:34:29] Short SCHEDULED on YouTube: xeqWQK8Aznk (10:15 PM ET (Mon, Oct 19))",
-            "[16:57:55] Generating gaming A/B metadata for slot: 10:00 AM ET (Tue, Oct 20)...",
             "[16:58:07] Deploying to YouTube (@kenclipsburger420) for release 10:00 AM ET (Tue, Oct 20)...",
             "[16:58:13] Short SCHEDULED on YouTube: LL4CAHLlMUA (10:00 AM ET (Tue, Oct 20))",
             "[17:04:55] Generating gaming A/B metadata for slot: 01:00 PM ET (Tue, Oct 20)...",
             "[17:05:03] Deploying to YouTube (@kenclipsburger420) for release 01:00 PM ET (Tue, Oct 20)...",
-            "[17:05:09] Short SCHEDULED on YouTube: zWix_onyzgM (01:00 PM ET (Tue, Oct 20))"
+            "[17:05:09] Short SCHEDULED on YouTube: zWix_onyzgM (01:00 PM ET (Tue, Oct 20))",
+            "[17:08:39] Generating gaming A/B metadata for slot: 04:30 PM ET (Tue, Oct 20)...",
+            "[17:08:49] Deploying to YouTube (@kenclipsburger420) for release 04:30 PM ET (Tue, Oct 20)...",
+            "[17:08:55] Short SCHEDULED on YouTube: 0WNit8ylt38 (04:30 PM ET (Tue, Oct 20))"
           ]
         },
         "ANALYST": {
@@ -246,17 +246,6 @@
             "section": "*300-480",
             "duration": 1113,
             "status": "FAILED_DOWNLOAD",
-            "added_at": "2026-10-17T04:48:12Z"
-          },
-          {
-            "id": "ken_1792212492_19",
-            "creator": "Ken",
-            "title": "level down trolling [Clutch Moment]",
-            "source_title": "level down trolling",
-            "url": "https://www.youtube.com/watch?v=fWcnSGfpehA",
-            "section": "*300-480",
-            "duration": 885,
-            "status": "PROCESSING",
             "added_at": "2026-10-17T04:48:12Z"
           },
           {
@@ -597,6 +586,19 @@
             "added_at": "2026-10-17T04:48:12Z",
             "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792212492_18_master.mp4",
             "youtube_video_id": "zWix_onyzgM"
+          },
+          {
+            "id": "ken_1792212492_19",
+            "creator": "Ken",
+            "title": "level down trolling [Clutch Moment]",
+            "source_title": "level down trolling",
+            "url": "https://www.youtube.com/watch?v=fWcnSGfpehA",
+            "section": "*300-480",
+            "duration": 885,
+            "status": "COMPLETED",
+            "added_at": "2026-10-17T04:48:12Z",
+            "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792212492_19_master.mp4",
+            "youtube_video_id": "0WNit8ylt38"
           }
         ]
       },
@@ -1184,6 +1186,72 @@
                   "variant": "A",
                   "title": "This 1 Card Makes eGiant Unstoppable...",
                   "deployed_at": 1792357503.967607,
+                  "reason": "Initial A/B test deployment"
+                }
+              ],
+              "metrics": {
+                "views": 0,
+                "likes": 0,
+                "comments": 0,
+                "retention": 0.0,
+                "ctr": 0.0
+              }
+            },
+            "reframed": "gaming_split"
+          },
+          {
+            "id": "ken_1792212492_19",
+            "source_video": "level down trolling [Clutch Moment]",
+            "creator": "Ken",
+            "title": "Supercell needs to fix this Evo E-Giant...",
+            "publish_at": "2026-10-20T20:30:00Z",
+            "status": "SCHEDULED",
+            "uploaded": true,
+            "youtube_video_id": "0WNit8ylt38",
+            "youtube_url": "https://www.youtube.com/shorts/0WNit8ylt38",
+            "video_file": "ken_1792212492_19_master.mp4",
+            "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792212492_19_master.mp4",
+            "duration": 27.03,
+            "hook_summary": "The creator explains why the Evo Electro Giant is completely broken and suggests a potential nerf.",
+            "metadata": {
+              "title": "Supercell needs to fix this Evo E-Giant...",
+              "description": "How did this Evo Electro Giant manage to snipe a golem from across the entire map? This interaction makes zero sense and proves just how broken the current meta is.\n\n\u2022 Discover the exact glitchy interaction making the Evo E-Giant unstoppable\n\u2022 See why current defensive positioning fails against this card\n\u2022 Learn what needs to change before the next balance update\n\nFeaturing: Ken\n\nIs this genuinely the most broken evolution release in Clash Royale history, or are people just overreacting? Drop your take below!\n\n#shorts #ken #clashroyale #supercell #gaming #mobilegames",
+              "tags": [
+                "Clash Royale",
+                "Evo E-Giant",
+                "Electro Giant Evolution",
+                "Ken Clash Royale",
+                "Clash Royale Shorts",
+                "Supercell",
+                "Clash Royale Meta",
+                "Evo Electro Giant Nerf",
+                "Clash Royale Gameplay"
+              ],
+              "pinned_comment": "Hot take: If you use the Evo E-Giant right now, you are officially win-trading. Change my mind in the replies. \ud83d\udc47",
+              "ab_variants": {
+                "A": {
+                  "angle": "Curiosity Gap",
+                  "title": "Supercell needs to fix this Evo E-Giant...",
+                  "description": "How did this Evo Electro Giant manage to snipe a golem from across the entire map? This interaction makes zero sense and proves just how broken the current meta is.\n\n\u2022 Discover the exact glitchy interaction making the Evo E-Giant unstoppable\n\u2022 See why current defensive positioning fails against this card\n\u2022 Learn what needs to change before the next balance update\n\nFeaturing: Ken\n\nIs this genuinely the most broken evolution release in Clash Royale history, or are people just overreacting? Drop your take below!\n\n#shorts #ken #clashroyale #supercell #gaming #mobilegames"
+                },
+                "B": {
+                  "angle": "Contrarian Truth",
+                  "title": "The Evo E-Giant is actually unplayable (bad)",
+                  "description": "Everyone is crying that the Evo Electro Giant is overpowered, but the reality of how it interacts with cross-lane targets exposes a massive flaw in game design.\n\u2022 The hidden range mechanics that break standard lane logic\n\u2022 Why traditional counters completely fail in sudden death\n\u2022 The harsh truth about current card evolution balance\n\nFeaturing: Ken\n\nShould Supercell emergency nerf this immediately or let players figure it out? Let's argue in the comments.\n\n#shorts #ken #clashroyale #gaming #strategy #mobilegaming"
+                },
+                "C": {
+                  "angle": "Actionable Protocol",
+                  "title": "How to counter the broken Evo E-Giant",
+                  "description": "Stop losing trophies to the Evo Electro Giant cross-lane snipe. Here is the exact mental framework and placement strategy you need to survive it.\n\n\u2022 The 3-step defensive rule for cross-lane threats\n\u2022 Optimal placement timing to waste the evolution ability\n\u2022 The counter-push strategy that punishes the E-Giant user\n\nFeaturing: Ken\n\nWhat is your go-to card for shutting down the E-Giant right now? Let me know below!\n\n#shorts #ken #clashroyale #gaming #tips #clash"
+                }
+              },
+              "active_variant": "A",
+              "test_status": "ACTIVE_TEST",
+              "variant_history": [
+                {
+                  "variant": "A",
+                  "title": "Supercell needs to fix this Evo E-Giant...",
+                  "deployed_at": 1792357729.189023,
                   "reason": "Initial A/B test deployment"
                 }
               ],
@@ -5069,17 +5137,17 @@
     },
     "PUBLISHER": {
       "status": "working",
-      "current_task": "Short SCHEDULED on YouTube: zWix_onyzgM (01:00 PM ET (Tue, Oct 20))",
+      "current_task": "Short SCHEDULED on YouTube: 0WNit8ylt38 (04:30 PM ET (Tue, Oct 20))",
       "last_completed_task": "Uploaded all 3 initial Clash Royale gaming cuts to YouTube (kenclipsburger420)",
       "recent_logs": [
-        "[05:34:24] Deploying to YouTube (@kenclipsburger420) for release 10:15 PM ET (Mon, Oct 19)...",
-        "[05:34:29] Short SCHEDULED on YouTube: xeqWQK8Aznk (10:15 PM ET (Mon, Oct 19))",
-        "[16:57:55] Generating gaming A/B metadata for slot: 10:00 AM ET (Tue, Oct 20)...",
         "[16:58:07] Deploying to YouTube (@kenclipsburger420) for release 10:00 AM ET (Tue, Oct 20)...",
         "[16:58:13] Short SCHEDULED on YouTube: LL4CAHLlMUA (10:00 AM ET (Tue, Oct 20))",
         "[17:04:55] Generating gaming A/B metadata for slot: 01:00 PM ET (Tue, Oct 20)...",
         "[17:05:03] Deploying to YouTube (@kenclipsburger420) for release 01:00 PM ET (Tue, Oct 20)...",
-        "[17:05:09] Short SCHEDULED on YouTube: zWix_onyzgM (01:00 PM ET (Tue, Oct 20))"
+        "[17:05:09] Short SCHEDULED on YouTube: zWix_onyzgM (01:00 PM ET (Tue, Oct 20))",
+        "[17:08:39] Generating gaming A/B metadata for slot: 04:30 PM ET (Tue, Oct 20)...",
+        "[17:08:49] Deploying to YouTube (@kenclipsburger420) for release 04:30 PM ET (Tue, Oct 20)...",
+        "[17:08:55] Short SCHEDULED on YouTube: 0WNit8ylt38 (04:30 PM ET (Tue, Oct 20))"
       ]
     },
     "ANALYST": {
@@ -5168,17 +5236,6 @@
         "section": "*300-480",
         "duration": 1113,
         "status": "FAILED_DOWNLOAD",
-        "added_at": "2026-10-17T04:48:12Z"
-      },
-      {
-        "id": "ken_1792212492_19",
-        "creator": "Ken",
-        "title": "level down trolling [Clutch Moment]",
-        "source_title": "level down trolling",
-        "url": "https://www.youtube.com/watch?v=fWcnSGfpehA",
-        "section": "*300-480",
-        "duration": 885,
-        "status": "PROCESSING",
         "added_at": "2026-10-17T04:48:12Z"
       },
       {
@@ -5519,6 +5576,19 @@
         "added_at": "2026-10-17T04:48:12Z",
         "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792212492_18_master.mp4",
         "youtube_video_id": "zWix_onyzgM"
+      },
+      {
+        "id": "ken_1792212492_19",
+        "creator": "Ken",
+        "title": "level down trolling [Clutch Moment]",
+        "source_title": "level down trolling",
+        "url": "https://www.youtube.com/watch?v=fWcnSGfpehA",
+        "section": "*300-480",
+        "duration": 885,
+        "status": "COMPLETED",
+        "added_at": "2026-10-17T04:48:12Z",
+        "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792212492_19_master.mp4",
+        "youtube_video_id": "0WNit8ylt38"
       }
     ]
   },
@@ -6106,6 +6176,72 @@
               "variant": "A",
               "title": "This 1 Card Makes eGiant Unstoppable...",
               "deployed_at": 1792357503.967607,
+              "reason": "Initial A/B test deployment"
+            }
+          ],
+          "metrics": {
+            "views": 0,
+            "likes": 0,
+            "comments": 0,
+            "retention": 0.0,
+            "ctr": 0.0
+          }
+        },
+        "reframed": "gaming_split"
+      },
+      {
+        "id": "ken_1792212492_19",
+        "source_video": "level down trolling [Clutch Moment]",
+        "creator": "Ken",
+        "title": "Supercell needs to fix this Evo E-Giant...",
+        "publish_at": "2026-10-20T20:30:00Z",
+        "status": "SCHEDULED",
+        "uploaded": true,
+        "youtube_video_id": "0WNit8ylt38",
+        "youtube_url": "https://www.youtube.com/shorts/0WNit8ylt38",
+        "video_file": "ken_1792212492_19_master.mp4",
+        "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792212492_19_master.mp4",
+        "duration": 27.03,
+        "hook_summary": "The creator explains why the Evo Electro Giant is completely broken and suggests a potential nerf.",
+        "metadata": {
+          "title": "Supercell needs to fix this Evo E-Giant...",
+          "description": "How did this Evo Electro Giant manage to snipe a golem from across the entire map? This interaction makes zero sense and proves just how broken the current meta is.\n\n\u2022 Discover the exact glitchy interaction making the Evo E-Giant unstoppable\n\u2022 See why current defensive positioning fails against this card\n\u2022 Learn what needs to change before the next balance update\n\nFeaturing: Ken\n\nIs this genuinely the most broken evolution release in Clash Royale history, or are people just overreacting? Drop your take below!\n\n#shorts #ken #clashroyale #supercell #gaming #mobilegames",
+          "tags": [
+            "Clash Royale",
+            "Evo E-Giant",
+            "Electro Giant Evolution",
+            "Ken Clash Royale",
+            "Clash Royale Shorts",
+            "Supercell",
+            "Clash Royale Meta",
+            "Evo Electro Giant Nerf",
+            "Clash Royale Gameplay"
+          ],
+          "pinned_comment": "Hot take: If you use the Evo E-Giant right now, you are officially win-trading. Change my mind in the replies. \ud83d\udc47",
+          "ab_variants": {
+            "A": {
+              "angle": "Curiosity Gap",
+              "title": "Supercell needs to fix this Evo E-Giant...",
+              "description": "How did this Evo Electro Giant manage to snipe a golem from across the entire map? This interaction makes zero sense and proves just how broken the current meta is.\n\n\u2022 Discover the exact glitchy interaction making the Evo E-Giant unstoppable\n\u2022 See why current defensive positioning fails against this card\n\u2022 Learn what needs to change before the next balance update\n\nFeaturing: Ken\n\nIs this genuinely the most broken evolution release in Clash Royale history, or are people just overreacting? Drop your take below!\n\n#shorts #ken #clashroyale #supercell #gaming #mobilegames"
+            },
+            "B": {
+              "angle": "Contrarian Truth",
+              "title": "The Evo E-Giant is actually unplayable (bad)",
+              "description": "Everyone is crying that the Evo Electro Giant is overpowered, but the reality of how it interacts with cross-lane targets exposes a massive flaw in game design.\n\u2022 The hidden range mechanics that break standard lane logic\n\u2022 Why traditional counters completely fail in sudden death\n\u2022 The harsh truth about current card evolution balance\n\nFeaturing: Ken\n\nShould Supercell emergency nerf this immediately or let players figure it out? Let's argue in the comments.\n\n#shorts #ken #clashroyale #gaming #strategy #mobilegaming"
+            },
+            "C": {
+              "angle": "Actionable Protocol",
+              "title": "How to counter the broken Evo E-Giant",
+              "description": "Stop losing trophies to the Evo Electro Giant cross-lane snipe. Here is the exact mental framework and placement strategy you need to survive it.\n\n\u2022 The 3-step defensive rule for cross-lane threats\n\u2022 Optimal placement timing to waste the evolution ability\n\u2022 The counter-push strategy that punishes the E-Giant user\n\nFeaturing: Ken\n\nWhat is your go-to card for shutting down the E-Giant right now? Let me know below!\n\n#shorts #ken #clashroyale #gaming #tips #clash"
+            }
+          },
+          "active_variant": "A",
+          "test_status": "ACTIVE_TEST",
+          "variant_history": [
+            {
+              "variant": "A",
+              "title": "Supercell needs to fix this Evo E-Giant...",
+              "deployed_at": 1792357729.189023,
               "reason": "Initial A/B test deployment"
             }
           ],

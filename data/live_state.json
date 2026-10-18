@@ -1,6 +1,6 @@
 {
-  "timestamp": 1792308816.605563,
-  "sync_time_iso": "2026-10-18T07:33:36Z",
+  "timestamp": 1792308821.720178,
+  "sync_time_iso": "2026-10-18T07:33:41Z",
   "default_channel": "ken_clips_burger",
   "channels": {
     "ken_clips_burger": {
@@ -147,17 +147,17 @@
         },
         "PUBLISHER": {
           "status": "working",
-          "current_task": "Deploying to YouTube (@kenclipsburger420) for release 10:15 PM ET (Sun, Oct 18)...",
+          "current_task": "Short SCHEDULED on YouTube: CE6DP7D5TFM (10:15 PM ET (Sun, Oct 18))",
           "last_completed_task": "Uploaded all 3 initial Clash Royale gaming cuts to YouTube (kenclipsburger420)",
           "recent_logs": [
-            "[02:54:14] YouTube upload error: <HttpError 429 when requesting None returned \"Quota exceeded for quota metric 'Video Uploads' and limit 'Video Uploads per day' of service 'youtube.googleapis.com' for consumer 'project_number:644580298656'.\". Details: \"[{'message': \"Quota exceeded for quota metric 'Video Uploads' and limit 'Video Uploads per day' of service 'youtube.googleapis.com' for consumer 'project_number:644580298656'.\", 'domain': 'global', 'reason': 'rateLimitExceeded'}]\">",
             "[02:54:14] Upload staged for automatic retry: ken_1792212492_6",
             "[02:56:24] Generating gaming A/B metadata for slot: 10:15 PM ET (Sun, Oct 18)...",
             "[02:56:26] Deploying to YouTube (@kenclipsburger420) for release 10:15 PM ET (Sun, Oct 18)...",
             "[02:56:43] YouTube upload error: <HttpError 429 when requesting None returned \"Quota exceeded for quota metric 'Video Uploads' and limit 'Video Uploads per day' of service 'youtube.googleapis.com' for consumer 'project_number:644580298656'.\". Details: \"[{'message': \"Quota exceeded for quota metric 'Video Uploads' and limit 'Video Uploads per day' of service 'youtube.googleapis.com' for consumer 'project_number:644580298656'.\", 'domain': 'global', 'reason': 'rateLimitExceeded'}]\">",
             "[02:56:43] Upload staged for automatic retry: ken_1792212492_6",
             "[03:33:27] Generating gaming A/B metadata for slot: 10:15 PM ET (Sun, Oct 18)...",
-            "[03:33:36] Deploying to YouTube (@kenclipsburger420) for release 10:15 PM ET (Sun, Oct 18)..."
+            "[03:33:36] Deploying to YouTube (@kenclipsburger420) for release 10:15 PM ET (Sun, Oct 18)...",
+            "[03:33:41] Short SCHEDULED on YouTube: CE6DP7D5TFM (10:15 PM ET (Sun, Oct 18))"
           ]
         },
         "ANALYST": {
@@ -193,18 +193,6 @@
       },
       "queue": {
         "queue": [
-          {
-            "id": "ken_1792212492_6",
-            "creator": "Ken",
-            "title": "hp buffed [Overtime Battle]",
-            "source_title": "hp buffed",
-            "url": "https://www.youtube.com/watch?v=qXrrsHBJfz8",
-            "section": "*540-720",
-            "duration": 1354,
-            "status": "RETRY_UPLOAD",
-            "added_at": "2026-10-17T04:48:12Z",
-            "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792212492_6_master.mp4"
-          },
           {
             "id": "ken_1792212492_7",
             "creator": "Ken",
@@ -549,6 +537,19 @@
             "added_at": "2026-10-17T04:48:12Z",
             "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792212492_5_master.mp4",
             "youtube_video_id": "35p9wG9PwKQ"
+          },
+          {
+            "id": "ken_1792212492_6",
+            "creator": "Ken",
+            "title": "hp buffed [Overtime Battle]",
+            "source_title": "hp buffed",
+            "url": "https://www.youtube.com/watch?v=qXrrsHBJfz8",
+            "section": "*540-720",
+            "duration": 1354,
+            "status": "COMPLETED",
+            "added_at": "2026-10-17T04:48:12Z",
+            "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792212492_6_master.mp4",
+            "youtube_video_id": "CE6DP7D5TFM"
           }
         ]
       },
@@ -805,6 +806,72 @@
                   "variant": "A",
                   "title": "How did he survive this impossible final second?",
                   "deployed_at": 1792213808.4222238,
+                  "reason": "Initial A/B test deployment"
+                }
+              ],
+              "metrics": {
+                "views": 0,
+                "likes": 0,
+                "comments": 0,
+                "retention": 0.0,
+                "ctr": 0.0
+              }
+            },
+            "reframed": "gaming_split"
+          },
+          {
+            "id": "ken_1792212492_6",
+            "source_video": "hp buffed [Overtime Battle]",
+            "creator": "Ken",
+            "title": "This HP Buff Changed Overtime Forever...",
+            "publish_at": "2026-10-19T02:15:00Z",
+            "status": "SCHEDULED",
+            "uploaded": true,
+            "youtube_video_id": "CE6DP7D5TFM",
+            "youtube_url": "https://www.youtube.com/shorts/CE6DP7D5TFM",
+            "video_file": "ken_1792212492_6_master.mp4",
+            "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792212492_6_master.mp4",
+            "duration": 28.0,
+            "hook_summary": "hp buffed [Overtime Battle]",
+            "metadata": {
+              "title": "This HP Buff Changed Overtime Forever...",
+              "description": "Ken reveals how a hidden HP buff completely alters overtime strategy in Clash Royale. Watch how a single stat tweak flips losing games into instant wins.\n\n\u2022 How the HP buff impacts overtime tower trades\n\u2022 Micro-interactions that decide clutch tiebreakers\n\u2022 Knowing exactly when to spell cycle vs push\n\nFeaturing: Ken\n\nIs this HP buff good for Clash Royale, or did Supercell ruin overtime?\n\n#clashroyale #clashroyalestrategy #ken #shorts #gaming #overtime",
+              "tags": [
+                "clash royale",
+                "clash royale strategy",
+                "ken clash royale",
+                "clash royale overtime",
+                "hp buff clash royale",
+                "clash royale tips",
+                "supercell",
+                "clash royale gameplay",
+                "mobile gaming"
+              ],
+              "pinned_comment": "Does this HP buff ruin overtime strategy, or is it the best update Supercell has dropped recently? Drop your take below! \ud83d\udc47",
+              "ab_variants": {
+                "A": {
+                  "angle": "Curiosity Gap",
+                  "title": "This HP Buff Changed Overtime Forever...",
+                  "description": "Ken reveals how a hidden HP buff completely alters overtime strategy in Clash Royale. Watch how a single stat tweak flips losing games into instant wins.\n\n\u2022 How the HP buff impacts overtime tower trades\n\u2022 Micro-interactions that decide clutch tiebreakers\n\u2022 Knowing exactly when to spell cycle vs push\n\nFeaturing: Ken\n\nIs this HP buff good for Clash Royale, or did Supercell ruin overtime?\n\n#clashroyale #clashroyalestrategy #ken #shorts #gaming #overtime"
+                },
+                "B": {
+                  "angle": "Contrarian Truth",
+                  "title": "Stop Ignoring This HP Buff in Overtime!",
+                  "description": "Most Clash Royale players treat overtime the same, but Ken proves why the latest HP buff makes standard defense completely useless.\n\n\u2022 Why traditional defense fails after the HP change\n\u2022 Exploiting over-commitments during double elixir\n\u2022 The new secret rule for clutch overtime wins\n\nFeaturing: Ken\n\nDid Supercell make overtime too easy or more skill-based?\n\n#clashroyale #gaming #ken #shorts #clashroyaletips #mobilegaming"
+                },
+                "C": {
+                  "angle": "Actionable Protocol",
+                  "title": "How to Win Every Overtime Battle Now",
+                  "description": "Master the HP buff meta with Ken's exact breakdown for clutching high-stakes overtime battles in Clash Royale.\n\n\u2022 The 3-second rule for overtime placement\n\u2022 How to leverage HP buffed troops on defense\n\u2022 Precise spell-cycling timing for maximum DPS\n\nFeaturing: Ken\n\nWhat's your go-to win condition when overtime hits?\n\n#clashroyale #clashroyaletips #ken #shorts #gamingtips #strategy"
+                }
+              },
+              "active_variant": "A",
+              "test_status": "ACTIVE_TEST",
+              "variant_history": [
+                {
+                  "variant": "A",
+                  "title": "This HP Buff Changed Overtime Forever...",
+                  "deployed_at": 1792308816.497587,
                   "reason": "Initial A/B test deployment"
                 }
               ],
@@ -4492,17 +4559,17 @@
     },
     "PUBLISHER": {
       "status": "working",
-      "current_task": "Deploying to YouTube (@kenclipsburger420) for release 10:15 PM ET (Sun, Oct 18)...",
+      "current_task": "Short SCHEDULED on YouTube: CE6DP7D5TFM (10:15 PM ET (Sun, Oct 18))",
       "last_completed_task": "Uploaded all 3 initial Clash Royale gaming cuts to YouTube (kenclipsburger420)",
       "recent_logs": [
-        "[02:54:14] YouTube upload error: <HttpError 429 when requesting None returned \"Quota exceeded for quota metric 'Video Uploads' and limit 'Video Uploads per day' of service 'youtube.googleapis.com' for consumer 'project_number:644580298656'.\". Details: \"[{'message': \"Quota exceeded for quota metric 'Video Uploads' and limit 'Video Uploads per day' of service 'youtube.googleapis.com' for consumer 'project_number:644580298656'.\", 'domain': 'global', 'reason': 'rateLimitExceeded'}]\">",
         "[02:54:14] Upload staged for automatic retry: ken_1792212492_6",
         "[02:56:24] Generating gaming A/B metadata for slot: 10:15 PM ET (Sun, Oct 18)...",
         "[02:56:26] Deploying to YouTube (@kenclipsburger420) for release 10:15 PM ET (Sun, Oct 18)...",
         "[02:56:43] YouTube upload error: <HttpError 429 when requesting None returned \"Quota exceeded for quota metric 'Video Uploads' and limit 'Video Uploads per day' of service 'youtube.googleapis.com' for consumer 'project_number:644580298656'.\". Details: \"[{'message': \"Quota exceeded for quota metric 'Video Uploads' and limit 'Video Uploads per day' of service 'youtube.googleapis.com' for consumer 'project_number:644580298656'.\", 'domain': 'global', 'reason': 'rateLimitExceeded'}]\">",
         "[02:56:43] Upload staged for automatic retry: ken_1792212492_6",
         "[03:33:27] Generating gaming A/B metadata for slot: 10:15 PM ET (Sun, Oct 18)...",
-        "[03:33:36] Deploying to YouTube (@kenclipsburger420) for release 10:15 PM ET (Sun, Oct 18)..."
+        "[03:33:36] Deploying to YouTube (@kenclipsburger420) for release 10:15 PM ET (Sun, Oct 18)...",
+        "[03:33:41] Short SCHEDULED on YouTube: CE6DP7D5TFM (10:15 PM ET (Sun, Oct 18))"
       ]
     },
     "ANALYST": {
@@ -4538,18 +4605,6 @@
   },
   "queue": {
     "queue": [
-      {
-        "id": "ken_1792212492_6",
-        "creator": "Ken",
-        "title": "hp buffed [Overtime Battle]",
-        "source_title": "hp buffed",
-        "url": "https://www.youtube.com/watch?v=qXrrsHBJfz8",
-        "section": "*540-720",
-        "duration": 1354,
-        "status": "RETRY_UPLOAD",
-        "added_at": "2026-10-17T04:48:12Z",
-        "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792212492_6_master.mp4"
-      },
       {
         "id": "ken_1792212492_7",
         "creator": "Ken",
@@ -4894,6 +4949,19 @@
         "added_at": "2026-10-17T04:48:12Z",
         "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792212492_5_master.mp4",
         "youtube_video_id": "35p9wG9PwKQ"
+      },
+      {
+        "id": "ken_1792212492_6",
+        "creator": "Ken",
+        "title": "hp buffed [Overtime Battle]",
+        "source_title": "hp buffed",
+        "url": "https://www.youtube.com/watch?v=qXrrsHBJfz8",
+        "section": "*540-720",
+        "duration": 1354,
+        "status": "COMPLETED",
+        "added_at": "2026-10-17T04:48:12Z",
+        "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792212492_6_master.mp4",
+        "youtube_video_id": "CE6DP7D5TFM"
       }
     ]
   },
@@ -5150,6 +5218,72 @@
               "variant": "A",
               "title": "How did he survive this impossible final second?",
               "deployed_at": 1792213808.4222238,
+              "reason": "Initial A/B test deployment"
+            }
+          ],
+          "metrics": {
+            "views": 0,
+            "likes": 0,
+            "comments": 0,
+            "retention": 0.0,
+            "ctr": 0.0
+          }
+        },
+        "reframed": "gaming_split"
+      },
+      {
+        "id": "ken_1792212492_6",
+        "source_video": "hp buffed [Overtime Battle]",
+        "creator": "Ken",
+        "title": "This HP Buff Changed Overtime Forever...",
+        "publish_at": "2026-10-19T02:15:00Z",
+        "status": "SCHEDULED",
+        "uploaded": true,
+        "youtube_video_id": "CE6DP7D5TFM",
+        "youtube_url": "https://www.youtube.com/shorts/CE6DP7D5TFM",
+        "video_file": "ken_1792212492_6_master.mp4",
+        "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792212492_6_master.mp4",
+        "duration": 28.0,
+        "hook_summary": "hp buffed [Overtime Battle]",
+        "metadata": {
+          "title": "This HP Buff Changed Overtime Forever...",
+          "description": "Ken reveals how a hidden HP buff completely alters overtime strategy in Clash Royale. Watch how a single stat tweak flips losing games into instant wins.\n\n\u2022 How the HP buff impacts overtime tower trades\n\u2022 Micro-interactions that decide clutch tiebreakers\n\u2022 Knowing exactly when to spell cycle vs push\n\nFeaturing: Ken\n\nIs this HP buff good for Clash Royale, or did Supercell ruin overtime?\n\n#clashroyale #clashroyalestrategy #ken #shorts #gaming #overtime",
+          "tags": [
+            "clash royale",
+            "clash royale strategy",
+            "ken clash royale",
+            "clash royale overtime",
+            "hp buff clash royale",
+            "clash royale tips",
+            "supercell",
+            "clash royale gameplay",
+            "mobile gaming"
+          ],
+          "pinned_comment": "Does this HP buff ruin overtime strategy, or is it the best update Supercell has dropped recently? Drop your take below! \ud83d\udc47",
+          "ab_variants": {
+            "A": {
+              "angle": "Curiosity Gap",
+              "title": "This HP Buff Changed Overtime Forever...",
+              "description": "Ken reveals how a hidden HP buff completely alters overtime strategy in Clash Royale. Watch how a single stat tweak flips losing games into instant wins.\n\n\u2022 How the HP buff impacts overtime tower trades\n\u2022 Micro-interactions that decide clutch tiebreakers\n\u2022 Knowing exactly when to spell cycle vs push\n\nFeaturing: Ken\n\nIs this HP buff good for Clash Royale, or did Supercell ruin overtime?\n\n#clashroyale #clashroyalestrategy #ken #shorts #gaming #overtime"
+            },
+            "B": {
+              "angle": "Contrarian Truth",
+              "title": "Stop Ignoring This HP Buff in Overtime!",
+              "description": "Most Clash Royale players treat overtime the same, but Ken proves why the latest HP buff makes standard defense completely useless.\n\n\u2022 Why traditional defense fails after the HP change\n\u2022 Exploiting over-commitments during double elixir\n\u2022 The new secret rule for clutch overtime wins\n\nFeaturing: Ken\n\nDid Supercell make overtime too easy or more skill-based?\n\n#clashroyale #gaming #ken #shorts #clashroyaletips #mobilegaming"
+            },
+            "C": {
+              "angle": "Actionable Protocol",
+              "title": "How to Win Every Overtime Battle Now",
+              "description": "Master the HP buff meta with Ken's exact breakdown for clutching high-stakes overtime battles in Clash Royale.\n\n\u2022 The 3-second rule for overtime placement\n\u2022 How to leverage HP buffed troops on defense\n\u2022 Precise spell-cycling timing for maximum DPS\n\nFeaturing: Ken\n\nWhat's your go-to win condition when overtime hits?\n\n#clashroyale #clashroyaletips #ken #shorts #gamingtips #strategy"
+            }
+          },
+          "active_variant": "A",
+          "test_status": "ACTIVE_TEST",
+          "variant_history": [
+            {
+              "variant": "A",
+              "title": "This HP Buff Changed Overtime Forever...",
+              "deployed_at": 1792308816.497587,
               "reason": "Initial A/B test deployment"
             }
           ],

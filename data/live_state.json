@@ -1,6 +1,6 @@
 {
-  "timestamp": 1792312155.9383569,
-  "sync_time_iso": "2026-10-18T08:29:15Z",
+  "timestamp": 1792312210.135026,
+  "sync_time_iso": "2026-10-18T08:30:10Z",
   "default_channel": "ken_clips_burger",
   "channels": {
     "ken_clips_burger": {
@@ -147,17 +147,17 @@
         },
         "PUBLISHER": {
           "status": "working",
-          "current_task": "Short SCHEDULED on YouTube: nih90sNVBT8 (10:00 AM ET (Mon, Oct 19))",
+          "current_task": "Short SCHEDULED on YouTube: ntVg4CCLgzM (01:00 PM ET (Mon, Oct 19))",
           "last_completed_task": "Uploaded all 3 initial Clash Royale gaming cuts to YouTube (kenclipsburger420)",
           "recent_logs": [
-            "[02:56:43] YouTube upload error: <HttpError 429 when requesting None returned \"Quota exceeded for quota metric 'Video Uploads' and limit 'Video Uploads per day' of service 'youtube.googleapis.com' for consumer 'project_number:644580298656'.\". Details: \"[{'message': \"Quota exceeded for quota metric 'Video Uploads' and limit 'Video Uploads per day' of service 'youtube.googleapis.com' for consumer 'project_number:644580298656'.\", 'domain': 'global', 'reason': 'rateLimitExceeded'}]\">",
-            "[02:56:43] Upload staged for automatic retry: ken_1792212492_6",
-            "[03:33:27] Generating gaming A/B metadata for slot: 10:15 PM ET (Sun, Oct 18)...",
             "[03:33:36] Deploying to YouTube (@kenclipsburger420) for release 10:15 PM ET (Sun, Oct 18)...",
             "[03:33:41] Short SCHEDULED on YouTube: CE6DP7D5TFM (10:15 PM ET (Sun, Oct 18))",
             "[04:24:01] Generating gaming A/B metadata for slot: 10:00 AM ET (Mon, Oct 19)...",
             "[04:24:13] Deploying to YouTube (@kenclipsburger420) for release 10:00 AM ET (Mon, Oct 19)...",
-            "[04:24:19] Short SCHEDULED on YouTube: nih90sNVBT8 (10:00 AM ET (Mon, Oct 19))"
+            "[04:24:19] Short SCHEDULED on YouTube: nih90sNVBT8 (10:00 AM ET (Mon, Oct 19))",
+            "[04:29:52] Generating gaming A/B metadata for slot: 01:00 PM ET (Mon, Oct 19)...",
+            "[04:30:04] Deploying to YouTube (@kenclipsburger420) for release 01:00 PM ET (Mon, Oct 19)...",
+            "[04:30:10] Short SCHEDULED on YouTube: ntVg4CCLgzM (01:00 PM ET (Mon, Oct 19))"
           ]
         },
         "ANALYST": {
@@ -202,17 +202,6 @@
             "section": "*540-720",
             "duration": 1346,
             "status": "FAILED_RENDER",
-            "added_at": "2026-10-17T04:48:12Z"
-          },
-          {
-            "id": "ken_1792212492_9",
-            "creator": "Ken",
-            "title": "least busted card [Clutch Moment]",
-            "source_title": "least busted card",
-            "url": "https://www.youtube.com/watch?v=LhS6RH2NmcU",
-            "section": "*300-480",
-            "duration": 979,
-            "status": "PROCESSING",
             "added_at": "2026-10-17T04:48:12Z"
           },
           {
@@ -552,6 +541,19 @@
             "added_at": "2026-10-17T04:48:12Z",
             "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792212492_7_master.mp4",
             "youtube_video_id": "nih90sNVBT8"
+          },
+          {
+            "id": "ken_1792212492_9",
+            "creator": "Ken",
+            "title": "least busted card [Clutch Moment]",
+            "source_title": "least busted card",
+            "url": "https://www.youtube.com/watch?v=LhS6RH2NmcU",
+            "section": "*300-480",
+            "duration": 979,
+            "status": "COMPLETED",
+            "added_at": "2026-10-17T04:48:12Z",
+            "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792212492_9_master.mp4",
+            "youtube_video_id": "ntVg4CCLgzM"
           }
         ]
       },
@@ -940,6 +942,72 @@
                   "variant": "A",
                   "title": "Why the best deck ruins the game",
                   "deployed_at": 1792311853.32834,
+                  "reason": "Initial A/B test deployment"
+                }
+              ],
+              "metrics": {
+                "views": 0,
+                "likes": 0,
+                "comments": 0,
+                "retention": 0.0,
+                "ctr": 0.0
+              }
+            },
+            "reframed": "gaming_split"
+          },
+          {
+            "id": "ken_1792212492_9",
+            "source_video": "least busted card [Clutch Moment]",
+            "creator": "Ken",
+            "title": "Why Chip Cycling Just Lost Its Power",
+            "publish_at": "2026-10-19T17:00:00Z",
+            "status": "SCHEDULED",
+            "uploaded": true,
+            "youtube_video_id": "ntVg4CCLgzM",
+            "youtube_url": "https://www.youtube.com/shorts/ntVg4CCLgzM",
+            "video_file": "ken_1792212492_9_master.mp4",
+            "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792212492_9_master.mp4",
+            "duration": 27.73,
+            "hook_summary": "The creator makes a bold claim about why traditional chip cycle strategies are officially dead in the current meta.",
+            "metadata": {
+              "title": "Why Chip Cycling Just Lost Its Power",
+              "description": "Most players are still wasting elixir on a strategy that the current meta has completely broken. Ken breaks down the exact reason why chipping the tower is a losing battle now.\n\n\u2022 Discover why traditional chip damage no longer wins games\n\u2022 The hidden shift in defensive meta you missed\n\u2022 How to adapt your strategy before your rank drops\n\nFeaturing: Ken\n\nAre you still trying to chip towers, or have you adapted to the new meta?\n\n#shorts #ken #clashroyale #gaming #strategy #metashift",
+              "tags": [
+                "chip cycle",
+                "bridge spam",
+                "clash royale meta",
+                "ken clash royale",
+                "tower chip damage",
+                "elixir management",
+                "clash royale tips",
+                "gaming strategy",
+                "shorts gaming"
+              ],
+              "pinned_comment": "Be honest: are you dropping the chip cycle strategy after seeing this, or are you still stubbornly trying to make it work?",
+              "ab_variants": {
+                "A": {
+                  "angle": "Curiosity Gap",
+                  "title": "Why Chip Cycling Just Lost Its Power",
+                  "description": "Most players are still wasting elixir on a strategy that the current meta has completely broken. Ken breaks down the exact reason why chipping the tower is a losing battle now.\n\n\u2022 Discover why traditional chip damage no longer wins games\n\u2022 The hidden shift in defensive meta you missed\n\u2022 How to adapt your strategy before your rank drops\n\nFeaturing: Ken\n\nAre you still trying to chip towers, or have you adapted to the new meta?\n\n#shorts #ken #clashroyale #gaming #strategy #metashift"
+                },
+                "B": {
+                  "angle": "Contrarian Truth",
+                  "title": "Chip Cycling Is Officially Dead",
+                  "description": "Forget everything you know about standard tower pressure because chip cycle is officially dead. Ken exposes why minor chip damage is a complete waste of your resources.\n\n\u2022 The brutal truth about current tower defense scaling\n\u2022 Why bridge spam punishes old-school tactics instantly\n\u2022 The exact moment you should stop chipping and start saving\n\nFeaturing: Ken\n\nIs bridge spam actually unbeatable right now, or is there a counter?\n\n#shorts #ken #gamingtips #meta #clashroyale #strategy"
+                },
+                "C": {
+                  "angle": "Actionable Protocol",
+                  "title": "Stop Doing This With Your Elixir",
+                  "description": "If you are still relying on minor tower chips to win, you are playing the game wrong. Ken shares the exact rule you need to follow to stop bleeding elixir in today's meta.\n\n\u2022 The new golden rule for elixir management\n\u2022 How to pivot away from outdated chip strategies\n\u2022 Building a push that actually overwhelms modern defenses\n\nFeaturing: Ken\n\nWhat is your go-to win condition if not chip damage?\n\n#shorts #ken #gaming #protips #clashroyale #elixir"
+                }
+              },
+              "active_variant": "A",
+              "test_status": "ACTIVE_TEST",
+              "variant_history": [
+                {
+                  "variant": "A",
+                  "title": "Why Chip Cycling Just Lost Its Power",
+                  "deployed_at": 1792312204.0918121,
                   "reason": "Initial A/B test deployment"
                 }
               ],
@@ -4627,17 +4695,17 @@
     },
     "PUBLISHER": {
       "status": "working",
-      "current_task": "Short SCHEDULED on YouTube: nih90sNVBT8 (10:00 AM ET (Mon, Oct 19))",
+      "current_task": "Short SCHEDULED on YouTube: ntVg4CCLgzM (01:00 PM ET (Mon, Oct 19))",
       "last_completed_task": "Uploaded all 3 initial Clash Royale gaming cuts to YouTube (kenclipsburger420)",
       "recent_logs": [
-        "[02:56:43] YouTube upload error: <HttpError 429 when requesting None returned \"Quota exceeded for quota metric 'Video Uploads' and limit 'Video Uploads per day' of service 'youtube.googleapis.com' for consumer 'project_number:644580298656'.\". Details: \"[{'message': \"Quota exceeded for quota metric 'Video Uploads' and limit 'Video Uploads per day' of service 'youtube.googleapis.com' for consumer 'project_number:644580298656'.\", 'domain': 'global', 'reason': 'rateLimitExceeded'}]\">",
-        "[02:56:43] Upload staged for automatic retry: ken_1792212492_6",
-        "[03:33:27] Generating gaming A/B metadata for slot: 10:15 PM ET (Sun, Oct 18)...",
         "[03:33:36] Deploying to YouTube (@kenclipsburger420) for release 10:15 PM ET (Sun, Oct 18)...",
         "[03:33:41] Short SCHEDULED on YouTube: CE6DP7D5TFM (10:15 PM ET (Sun, Oct 18))",
         "[04:24:01] Generating gaming A/B metadata for slot: 10:00 AM ET (Mon, Oct 19)...",
         "[04:24:13] Deploying to YouTube (@kenclipsburger420) for release 10:00 AM ET (Mon, Oct 19)...",
-        "[04:24:19] Short SCHEDULED on YouTube: nih90sNVBT8 (10:00 AM ET (Mon, Oct 19))"
+        "[04:24:19] Short SCHEDULED on YouTube: nih90sNVBT8 (10:00 AM ET (Mon, Oct 19))",
+        "[04:29:52] Generating gaming A/B metadata for slot: 01:00 PM ET (Mon, Oct 19)...",
+        "[04:30:04] Deploying to YouTube (@kenclipsburger420) for release 01:00 PM ET (Mon, Oct 19)...",
+        "[04:30:10] Short SCHEDULED on YouTube: ntVg4CCLgzM (01:00 PM ET (Mon, Oct 19))"
       ]
     },
     "ANALYST": {
@@ -4682,17 +4750,6 @@
         "section": "*540-720",
         "duration": 1346,
         "status": "FAILED_RENDER",
-        "added_at": "2026-10-17T04:48:12Z"
-      },
-      {
-        "id": "ken_1792212492_9",
-        "creator": "Ken",
-        "title": "least busted card [Clutch Moment]",
-        "source_title": "least busted card",
-        "url": "https://www.youtube.com/watch?v=LhS6RH2NmcU",
-        "section": "*300-480",
-        "duration": 979,
-        "status": "PROCESSING",
         "added_at": "2026-10-17T04:48:12Z"
       },
       {
@@ -5032,6 +5089,19 @@
         "added_at": "2026-10-17T04:48:12Z",
         "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792212492_7_master.mp4",
         "youtube_video_id": "nih90sNVBT8"
+      },
+      {
+        "id": "ken_1792212492_9",
+        "creator": "Ken",
+        "title": "least busted card [Clutch Moment]",
+        "source_title": "least busted card",
+        "url": "https://www.youtube.com/watch?v=LhS6RH2NmcU",
+        "section": "*300-480",
+        "duration": 979,
+        "status": "COMPLETED",
+        "added_at": "2026-10-17T04:48:12Z",
+        "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792212492_9_master.mp4",
+        "youtube_video_id": "ntVg4CCLgzM"
       }
     ]
   },
@@ -5420,6 +5490,72 @@
               "variant": "A",
               "title": "Why the best deck ruins the game",
               "deployed_at": 1792311853.32834,
+              "reason": "Initial A/B test deployment"
+            }
+          ],
+          "metrics": {
+            "views": 0,
+            "likes": 0,
+            "comments": 0,
+            "retention": 0.0,
+            "ctr": 0.0
+          }
+        },
+        "reframed": "gaming_split"
+      },
+      {
+        "id": "ken_1792212492_9",
+        "source_video": "least busted card [Clutch Moment]",
+        "creator": "Ken",
+        "title": "Why Chip Cycling Just Lost Its Power",
+        "publish_at": "2026-10-19T17:00:00Z",
+        "status": "SCHEDULED",
+        "uploaded": true,
+        "youtube_video_id": "ntVg4CCLgzM",
+        "youtube_url": "https://www.youtube.com/shorts/ntVg4CCLgzM",
+        "video_file": "ken_1792212492_9_master.mp4",
+        "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792212492_9_master.mp4",
+        "duration": 27.73,
+        "hook_summary": "The creator makes a bold claim about why traditional chip cycle strategies are officially dead in the current meta.",
+        "metadata": {
+          "title": "Why Chip Cycling Just Lost Its Power",
+          "description": "Most players are still wasting elixir on a strategy that the current meta has completely broken. Ken breaks down the exact reason why chipping the tower is a losing battle now.\n\n\u2022 Discover why traditional chip damage no longer wins games\n\u2022 The hidden shift in defensive meta you missed\n\u2022 How to adapt your strategy before your rank drops\n\nFeaturing: Ken\n\nAre you still trying to chip towers, or have you adapted to the new meta?\n\n#shorts #ken #clashroyale #gaming #strategy #metashift",
+          "tags": [
+            "chip cycle",
+            "bridge spam",
+            "clash royale meta",
+            "ken clash royale",
+            "tower chip damage",
+            "elixir management",
+            "clash royale tips",
+            "gaming strategy",
+            "shorts gaming"
+          ],
+          "pinned_comment": "Be honest: are you dropping the chip cycle strategy after seeing this, or are you still stubbornly trying to make it work?",
+          "ab_variants": {
+            "A": {
+              "angle": "Curiosity Gap",
+              "title": "Why Chip Cycling Just Lost Its Power",
+              "description": "Most players are still wasting elixir on a strategy that the current meta has completely broken. Ken breaks down the exact reason why chipping the tower is a losing battle now.\n\n\u2022 Discover why traditional chip damage no longer wins games\n\u2022 The hidden shift in defensive meta you missed\n\u2022 How to adapt your strategy before your rank drops\n\nFeaturing: Ken\n\nAre you still trying to chip towers, or have you adapted to the new meta?\n\n#shorts #ken #clashroyale #gaming #strategy #metashift"
+            },
+            "B": {
+              "angle": "Contrarian Truth",
+              "title": "Chip Cycling Is Officially Dead",
+              "description": "Forget everything you know about standard tower pressure because chip cycle is officially dead. Ken exposes why minor chip damage is a complete waste of your resources.\n\n\u2022 The brutal truth about current tower defense scaling\n\u2022 Why bridge spam punishes old-school tactics instantly\n\u2022 The exact moment you should stop chipping and start saving\n\nFeaturing: Ken\n\nIs bridge spam actually unbeatable right now, or is there a counter?\n\n#shorts #ken #gamingtips #meta #clashroyale #strategy"
+            },
+            "C": {
+              "angle": "Actionable Protocol",
+              "title": "Stop Doing This With Your Elixir",
+              "description": "If you are still relying on minor tower chips to win, you are playing the game wrong. Ken shares the exact rule you need to follow to stop bleeding elixir in today's meta.\n\n\u2022 The new golden rule for elixir management\n\u2022 How to pivot away from outdated chip strategies\n\u2022 Building a push that actually overwhelms modern defenses\n\nFeaturing: Ken\n\nWhat is your go-to win condition if not chip damage?\n\n#shorts #ken #gaming #protips #clashroyale #elixir"
+            }
+          },
+          "active_variant": "A",
+          "test_status": "ACTIVE_TEST",
+          "variant_history": [
+            {
+              "variant": "A",
+              "title": "Why Chip Cycling Just Lost Its Power",
+              "deployed_at": 1792312204.0918121,
               "reason": "Initial A/B test deployment"
             }
           ],

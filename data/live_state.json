@@ -1,6 +1,6 @@
 {
-  "timestamp": 1792312094.126261,
-  "sync_time_iso": "2026-10-18T08:28:14Z",
+  "timestamp": 1792312155.9383569,
+  "sync_time_iso": "2026-10-18T08:29:15Z",
   "default_channel": "ken_clips_burger",
   "channels": {
     "ken_clips_burger": {
@@ -96,14 +96,14 @@
           "current_task": "Queue up to date. Waiting for next daily Ken upload.",
           "last_completed_task": "Ingested 5 recent Ken master videos into source pool",
           "recent_logs": [
-            "[02:56:14] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
-            "[02:56:24] Queue up to date. Waiting for next daily Ken upload.",
             "[03:17:37] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
             "[03:33:27] Queue up to date. Waiting for next daily Ken upload.",
             "[04:07:13] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
             "[04:07:23] Queue up to date. Waiting for next daily Ken upload.",
             "[04:26:20] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
-            "[04:26:31] Queue up to date. Waiting for next daily Ken upload."
+            "[04:26:31] Queue up to date. Waiting for next daily Ken upload.",
+            "[04:28:51] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
+            "[04:29:01] Queue up to date. Waiting for next daily Ken upload."
           ]
         },
         "STRATEGIST": {
@@ -123,17 +123,17 @@
         },
         "EDITOR": {
           "status": "working",
-          "current_task": "Render error: list indices must be integers or slices, not str",
+          "current_task": "Rendering gaming_split Short with captions: least busted card [Clutch Mome",
           "last_completed_task": "Rendered 'hp buffed' rage highlight with kinetic pop captions & commentary",
           "recent_logs": [
-            "[01:09:17] Rendering gaming_split Short with captions: hp buffed [Clutch Moment]",
-            "[01:12:32] Downloading highlight segment (*540-720) for: hp buffed [Overtime Battle]...",
             "[01:12:37] Rendering gaming_split Short with captions: hp buffed [Overtime Battle]",
             "[04:07:23] Downloading highlight segment (*300-480) for: the new barrel [Clutch Moment]...",
             "[04:07:28] Rendering gaming_split Short with captions: the new barrel [Clutch Moment]",
             "[04:26:31] Downloading highlight segment (*540-720) for: the new barrel [Overtime Battle]...",
             "[04:26:35] Rendering gaming_split Short with captions: the new barrel [Overtime Battl",
-            "[04:26:51] Render error: list indices must be integers or slices, not str"
+            "[04:26:51] Render error: list indices must be integers or slices, not str",
+            "[04:29:01] Downloading highlight segment (*300-480) for: least busted card [Clutch Moment]...",
+            "[04:29:06] Rendering gaming_split Short with captions: least busted card [Clutch Mome"
           ]
         },
         "COMMENTATOR": {
@@ -212,7 +212,7 @@
             "url": "https://www.youtube.com/watch?v=LhS6RH2NmcU",
             "section": "*300-480",
             "duration": 979,
-            "status": "QUEUED",
+            "status": "PROCESSING",
             "added_at": "2026-10-17T04:48:12Z"
           },
           {
@@ -4576,14 +4576,14 @@
       "current_task": "Queue up to date. Waiting for next daily Ken upload.",
       "last_completed_task": "Ingested 5 recent Ken master videos into source pool",
       "recent_logs": [
-        "[02:56:14] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
-        "[02:56:24] Queue up to date. Waiting for next daily Ken upload.",
         "[03:17:37] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
         "[03:33:27] Queue up to date. Waiting for next daily Ken upload.",
         "[04:07:13] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
         "[04:07:23] Queue up to date. Waiting for next daily Ken upload.",
         "[04:26:20] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
-        "[04:26:31] Queue up to date. Waiting for next daily Ken upload."
+        "[04:26:31] Queue up to date. Waiting for next daily Ken upload.",
+        "[04:28:51] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
+        "[04:29:01] Queue up to date. Waiting for next daily Ken upload."
       ]
     },
     "STRATEGIST": {
@@ -4603,17 +4603,17 @@
     },
     "EDITOR": {
       "status": "working",
-      "current_task": "Render error: list indices must be integers or slices, not str",
+      "current_task": "Rendering gaming_split Short with captions: least busted card [Clutch Mome",
       "last_completed_task": "Rendered 'hp buffed' rage highlight with kinetic pop captions & commentary",
       "recent_logs": [
-        "[01:09:17] Rendering gaming_split Short with captions: hp buffed [Clutch Moment]",
-        "[01:12:32] Downloading highlight segment (*540-720) for: hp buffed [Overtime Battle]...",
         "[01:12:37] Rendering gaming_split Short with captions: hp buffed [Overtime Battle]",
         "[04:07:23] Downloading highlight segment (*300-480) for: the new barrel [Clutch Moment]...",
         "[04:07:28] Rendering gaming_split Short with captions: the new barrel [Clutch Moment]",
         "[04:26:31] Downloading highlight segment (*540-720) for: the new barrel [Overtime Battle]...",
         "[04:26:35] Rendering gaming_split Short with captions: the new barrel [Overtime Battl",
-        "[04:26:51] Render error: list indices must be integers or slices, not str"
+        "[04:26:51] Render error: list indices must be integers or slices, not str",
+        "[04:29:01] Downloading highlight segment (*300-480) for: least busted card [Clutch Moment]...",
+        "[04:29:06] Rendering gaming_split Short with captions: least busted card [Clutch Mome"
       ]
     },
     "COMMENTATOR": {
@@ -4692,7 +4692,7 @@
         "url": "https://www.youtube.com/watch?v=LhS6RH2NmcU",
         "section": "*300-480",
         "duration": 979,
-        "status": "QUEUED",
+        "status": "PROCESSING",
         "added_at": "2026-10-17T04:48:12Z"
       },
       {

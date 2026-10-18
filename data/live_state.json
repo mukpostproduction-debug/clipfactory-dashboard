@@ -1,6 +1,6 @@
 {
-  "timestamp": 1792315014.5011468,
-  "sync_time_iso": "2026-10-18T09:16:54Z",
+  "timestamp": 1792316029.056434,
+  "sync_time_iso": "2026-10-18T09:33:49Z",
   "default_channel": "ken_clips_burger",
   "channels": {
     "ken_clips_burger": {
@@ -96,14 +96,14 @@
           "current_task": "Queue up to date. Waiting for next daily Ken upload.",
           "last_completed_task": "Ingested 5 recent Ken master videos into source pool",
           "recent_logs": [
-            "[04:26:20] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
-            "[04:26:31] Queue up to date. Waiting for next daily Ken upload.",
             "[04:28:51] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
             "[04:29:01] Queue up to date. Waiting for next daily Ken upload.",
             "[04:47:49] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
             "[04:48:02] Queue up to date. Waiting for next daily Ken upload.",
             "[05:07:43] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
-            "[05:07:54] Queue up to date. Waiting for next daily Ken upload."
+            "[05:07:54] Queue up to date. Waiting for next daily Ken upload.",
+            "[05:17:18] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
+            "[05:17:28] Queue up to date. Waiting for next daily Ken upload."
           ]
         },
         "STRATEGIST": {
@@ -123,17 +123,17 @@
         },
         "EDITOR": {
           "status": "working",
-          "current_task": "Rendering gaming_split Short with captions: perfected my deck [Clutch Mome",
+          "current_task": "Rendering gaming_split Short with captions: perfected my deck [Overtime Ba",
           "last_completed_task": "Rendered 'hp buffed' rage highlight with kinetic pop captions & commentary",
           "recent_logs": [
-            "[04:26:35] Rendering gaming_split Short with captions: the new barrel [Overtime Battl",
-            "[04:26:51] Render error: list indices must be integers or slices, not str",
             "[04:29:01] Downloading highlight segment (*300-480) for: least busted card [Clutch Moment]...",
             "[04:29:06] Rendering gaming_split Short with captions: least busted card [Clutch Mome",
             "[04:48:02] Downloading highlight segment (*540-720) for: least busted card [Overtime Battle]...",
             "[04:48:06] Rendering gaming_split Short with captions: least busted card [Overtime Ba",
             "[05:07:54] Downloading highlight segment (*300-480) for: perfected my deck [Clutch Moment]...",
-            "[05:07:58] Rendering gaming_split Short with captions: perfected my deck [Clutch Mome"
+            "[05:07:58] Rendering gaming_split Short with captions: perfected my deck [Clutch Mome",
+            "[05:17:28] Downloading highlight segment (*540-720) for: perfected my deck [Overtime Battle]...",
+            "[05:17:32] Rendering gaming_split Short with captions: perfected my deck [Overtime Ba"
           ]
         },
         "COMMENTATOR": {
@@ -212,7 +212,7 @@
             "url": "https://www.youtube.com/watch?v=jx3uURON3MY",
             "section": "*540-720",
             "duration": 1279,
-            "status": "QUEUED",
+            "status": "PROCESSING",
             "added_at": "2026-10-17T04:48:12Z"
           },
           {
@@ -4780,14 +4780,14 @@
       "current_task": "Queue up to date. Waiting for next daily Ken upload.",
       "last_completed_task": "Ingested 5 recent Ken master videos into source pool",
       "recent_logs": [
-        "[04:26:20] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
-        "[04:26:31] Queue up to date. Waiting for next daily Ken upload.",
         "[04:28:51] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
         "[04:29:01] Queue up to date. Waiting for next daily Ken upload.",
         "[04:47:49] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
         "[04:48:02] Queue up to date. Waiting for next daily Ken upload.",
         "[05:07:43] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
-        "[05:07:54] Queue up to date. Waiting for next daily Ken upload."
+        "[05:07:54] Queue up to date. Waiting for next daily Ken upload.",
+        "[05:17:18] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
+        "[05:17:28] Queue up to date. Waiting for next daily Ken upload."
       ]
     },
     "STRATEGIST": {
@@ -4807,17 +4807,17 @@
     },
     "EDITOR": {
       "status": "working",
-      "current_task": "Rendering gaming_split Short with captions: perfected my deck [Clutch Mome",
+      "current_task": "Rendering gaming_split Short with captions: perfected my deck [Overtime Ba",
       "last_completed_task": "Rendered 'hp buffed' rage highlight with kinetic pop captions & commentary",
       "recent_logs": [
-        "[04:26:35] Rendering gaming_split Short with captions: the new barrel [Overtime Battl",
-        "[04:26:51] Render error: list indices must be integers or slices, not str",
         "[04:29:01] Downloading highlight segment (*300-480) for: least busted card [Clutch Moment]...",
         "[04:29:06] Rendering gaming_split Short with captions: least busted card [Clutch Mome",
         "[04:48:02] Downloading highlight segment (*540-720) for: least busted card [Overtime Battle]...",
         "[04:48:06] Rendering gaming_split Short with captions: least busted card [Overtime Ba",
         "[05:07:54] Downloading highlight segment (*300-480) for: perfected my deck [Clutch Moment]...",
-        "[05:07:58] Rendering gaming_split Short with captions: perfected my deck [Clutch Mome"
+        "[05:07:58] Rendering gaming_split Short with captions: perfected my deck [Clutch Mome",
+        "[05:17:28] Downloading highlight segment (*540-720) for: perfected my deck [Overtime Battle]...",
+        "[05:17:32] Rendering gaming_split Short with captions: perfected my deck [Overtime Ba"
       ]
     },
     "COMMENTATOR": {
@@ -4896,7 +4896,7 @@
         "url": "https://www.youtube.com/watch?v=jx3uURON3MY",
         "section": "*540-720",
         "duration": 1279,
-        "status": "QUEUED",
+        "status": "PROCESSING",
         "added_at": "2026-10-17T04:48:12Z"
       },
       {

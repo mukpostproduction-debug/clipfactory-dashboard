@@ -1,6 +1,6 @@
 {
-  "timestamp": 1792357497.067359,
-  "sync_time_iso": "2026-10-18T21:04:57Z",
+  "timestamp": 1792357509.548992,
+  "sync_time_iso": "2026-10-18T21:05:09Z",
   "default_channel": "ken_clips_burger",
   "channels": {
     "ken_clips_burger": {
@@ -147,17 +147,17 @@
         },
         "PUBLISHER": {
           "status": "working",
-          "current_task": "Generating gaming A/B metadata for slot: 01:00 PM ET (Tue, Oct 20)...",
+          "current_task": "Short SCHEDULED on YouTube: zWix_onyzgM (01:00 PM ET (Tue, Oct 20))",
           "last_completed_task": "Uploaded all 3 initial Clash Royale gaming cuts to YouTube (kenclipsburger420)",
           "recent_logs": [
-            "[05:09:07] Short SCHEDULED on YouTube: qW_tbL02ijs (07:30 PM ET (Mon, Oct 19))",
-            "[05:34:13] Generating gaming A/B metadata for slot: 10:15 PM ET (Mon, Oct 19)...",
             "[05:34:24] Deploying to YouTube (@kenclipsburger420) for release 10:15 PM ET (Mon, Oct 19)...",
             "[05:34:29] Short SCHEDULED on YouTube: xeqWQK8Aznk (10:15 PM ET (Mon, Oct 19))",
             "[16:57:55] Generating gaming A/B metadata for slot: 10:00 AM ET (Tue, Oct 20)...",
             "[16:58:07] Deploying to YouTube (@kenclipsburger420) for release 10:00 AM ET (Tue, Oct 20)...",
             "[16:58:13] Short SCHEDULED on YouTube: LL4CAHLlMUA (10:00 AM ET (Tue, Oct 20))",
-            "[17:04:55] Generating gaming A/B metadata for slot: 01:00 PM ET (Tue, Oct 20)..."
+            "[17:04:55] Generating gaming A/B metadata for slot: 01:00 PM ET (Tue, Oct 20)...",
+            "[17:05:03] Deploying to YouTube (@kenclipsburger420) for release 01:00 PM ET (Tue, Oct 20)...",
+            "[17:05:09] Short SCHEDULED on YouTube: zWix_onyzgM (01:00 PM ET (Tue, Oct 20))"
           ]
         },
         "ANALYST": {
@@ -246,17 +246,6 @@
             "section": "*300-480",
             "duration": 1113,
             "status": "FAILED_DOWNLOAD",
-            "added_at": "2026-10-17T04:48:12Z"
-          },
-          {
-            "id": "ken_1792212492_18",
-            "creator": "Ken",
-            "title": "level down trolling [Highlight]",
-            "source_title": "level down trolling",
-            "url": "https://www.youtube.com/watch?v=fWcnSGfpehA",
-            "section": "*60-240",
-            "duration": 885,
-            "status": "PROCESSING",
             "added_at": "2026-10-17T04:48:12Z"
           },
           {
@@ -595,6 +584,19 @@
             "added_at": "2026-10-17T04:48:12Z",
             "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792212492_17_master.mp4",
             "youtube_video_id": "LL4CAHLlMUA"
+          },
+          {
+            "id": "ken_1792212492_18",
+            "creator": "Ken",
+            "title": "level down trolling [Highlight]",
+            "source_title": "level down trolling",
+            "url": "https://www.youtube.com/watch?v=fWcnSGfpehA",
+            "section": "*60-240",
+            "duration": 885,
+            "status": "COMPLETED",
+            "added_at": "2026-10-17T04:48:12Z",
+            "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792212492_18_master.mp4",
+            "youtube_video_id": "zWix_onyzgM"
           }
         ]
       },
@@ -1116,6 +1118,72 @@
                   "variant": "A",
                   "title": "Why Amin's childhood explains every loss",
                   "deployed_at": 1792357087.4545422,
+                  "reason": "Initial A/B test deployment"
+                }
+              ],
+              "metrics": {
+                "views": 0,
+                "likes": 0,
+                "comments": 0,
+                "retention": 0.0,
+                "ctr": 0.0
+              }
+            },
+            "reframed": "gaming_split"
+          },
+          {
+            "id": "ken_1792212492_18",
+            "source_video": "level down trolling [Highlight]",
+            "creator": "Ken",
+            "title": "This 1 Card Makes eGiant Unstoppable...",
+            "publish_at": "2026-10-20T17:00:00Z",
+            "status": "SCHEDULED",
+            "uploaded": true,
+            "youtube_video_id": "zWix_onyzgM",
+            "youtube_url": "https://www.youtube.com/shorts/zWix_onyzgM",
+            "video_file": "ken_1792212492_18_master.mp4",
+            "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792212492_18_master.mp4",
+            "duration": 23.19,
+            "hook_summary": "The player explains how Electro Giant functions defensively and theorycrafts an unstoppable Monk synergy to cover its ranged weakness.",
+            "metadata": {
+              "title": "This 1 Card Makes eGiant Unstoppable...",
+              "description": "Using a defensive Electro Giant is great, but its ranged weakness usually ruins the push. Ken reveals the secret card synergy that completely fixes eGiant's biggest flaw.\n\n\u2022 Defensive eGiant mechanics explained\n\u2022 Overcoming the ranged unit counter\n\u2022 The ultimate 2-card synergy setup\n\nFeaturing: Ken\n\nIs this the most broken synergy in the game right now?\n\n#clashroyale #egiant #monk #gaming #shorts #clashroyaleshorts",
+              "tags": [
+                "clash royale",
+                "electro giant",
+                "egiant clash royale",
+                "monk clash royale",
+                "ken clash royale",
+                "egiant synergy",
+                "clash royale tips",
+                "clash royale combo",
+                "egiant deck"
+              ],
+              "pinned_comment": "Would you run this eGiant + Monk combo in a Grand Challenge, or is it too expensive? Let me know below! \ud83d\udc47",
+              "ab_variants": {
+                "A": {
+                  "angle": "Curiosity Gap",
+                  "title": "This 1 Card Makes eGiant Unstoppable...",
+                  "description": "Using a defensive Electro Giant is great, but its ranged weakness usually ruins the push. Ken reveals the secret card synergy that completely fixes eGiant's biggest flaw.\n\n\u2022 Defensive eGiant mechanics explained\n\u2022 Overcoming the ranged unit counter\n\u2022 The ultimate 2-card synergy setup\n\nFeaturing: Ken\n\nIs this the most broken synergy in the game right now?\n\n#clashroyale #egiant #monk #gaming #shorts #clashroyaleshorts"
+                },
+                "B": {
+                  "angle": "Contrarian Truth",
+                  "title": "Defensive eGiant Is Actually Broken?",
+                  "description": "Most players think Electro Giant is purely an aggressive win condition, but dropping it defensively changes everything. Ken breaks down why playing eGiant defensively creates an unbeatable counter-push.\n\n\u2022 Why defensive eGiant value zaps work\n\u2022 Turning defense into aggressive pressure\n\u2022 Combining Monk to reflect ranged projectiles\n\nFeaturing: Ken\n\nIs defensive eGiant actually better than offensive eGiant?\n\n#clashroyale #egiant #clashroyaledeck #gaming #shorts #clash"
+                },
+                "C": {
+                  "angle": "Actionable Protocol",
+                  "title": "How to Instantly Fix eGiant's Weakness",
+                  "description": "Stop letting ranged units shred your Electro Giant. Follow Ken's simple positioning setup to reflect all incoming ranged damage and build an unstoppable attack.\n\n\u2022 Place eGiant defensively for value zaps\n\u2022 Time Monk's ability to reflect ranged attacks\n\u2022 Overwhelm opponent on the counter-push\n\nFeaturing: Ken\n\nWhat is the absolute best hard counter to this setup?\n\n#clashroyale #egiantstrategy #clashroyaledecks #gaming #shorts #monk"
+                }
+              },
+              "active_variant": "A",
+              "test_status": "ACTIVE_TEST",
+              "variant_history": [
+                {
+                  "variant": "A",
+                  "title": "This 1 Card Makes eGiant Unstoppable...",
+                  "deployed_at": 1792357503.967607,
                   "reason": "Initial A/B test deployment"
                 }
               ],
@@ -5001,17 +5069,17 @@
     },
     "PUBLISHER": {
       "status": "working",
-      "current_task": "Generating gaming A/B metadata for slot: 01:00 PM ET (Tue, Oct 20)...",
+      "current_task": "Short SCHEDULED on YouTube: zWix_onyzgM (01:00 PM ET (Tue, Oct 20))",
       "last_completed_task": "Uploaded all 3 initial Clash Royale gaming cuts to YouTube (kenclipsburger420)",
       "recent_logs": [
-        "[05:09:07] Short SCHEDULED on YouTube: qW_tbL02ijs (07:30 PM ET (Mon, Oct 19))",
-        "[05:34:13] Generating gaming A/B metadata for slot: 10:15 PM ET (Mon, Oct 19)...",
         "[05:34:24] Deploying to YouTube (@kenclipsburger420) for release 10:15 PM ET (Mon, Oct 19)...",
         "[05:34:29] Short SCHEDULED on YouTube: xeqWQK8Aznk (10:15 PM ET (Mon, Oct 19))",
         "[16:57:55] Generating gaming A/B metadata for slot: 10:00 AM ET (Tue, Oct 20)...",
         "[16:58:07] Deploying to YouTube (@kenclipsburger420) for release 10:00 AM ET (Tue, Oct 20)...",
         "[16:58:13] Short SCHEDULED on YouTube: LL4CAHLlMUA (10:00 AM ET (Tue, Oct 20))",
-        "[17:04:55] Generating gaming A/B metadata for slot: 01:00 PM ET (Tue, Oct 20)..."
+        "[17:04:55] Generating gaming A/B metadata for slot: 01:00 PM ET (Tue, Oct 20)...",
+        "[17:05:03] Deploying to YouTube (@kenclipsburger420) for release 01:00 PM ET (Tue, Oct 20)...",
+        "[17:05:09] Short SCHEDULED on YouTube: zWix_onyzgM (01:00 PM ET (Tue, Oct 20))"
       ]
     },
     "ANALYST": {
@@ -5100,17 +5168,6 @@
         "section": "*300-480",
         "duration": 1113,
         "status": "FAILED_DOWNLOAD",
-        "added_at": "2026-10-17T04:48:12Z"
-      },
-      {
-        "id": "ken_1792212492_18",
-        "creator": "Ken",
-        "title": "level down trolling [Highlight]",
-        "source_title": "level down trolling",
-        "url": "https://www.youtube.com/watch?v=fWcnSGfpehA",
-        "section": "*60-240",
-        "duration": 885,
-        "status": "PROCESSING",
         "added_at": "2026-10-17T04:48:12Z"
       },
       {
@@ -5449,6 +5506,19 @@
         "added_at": "2026-10-17T04:48:12Z",
         "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792212492_17_master.mp4",
         "youtube_video_id": "LL4CAHLlMUA"
+      },
+      {
+        "id": "ken_1792212492_18",
+        "creator": "Ken",
+        "title": "level down trolling [Highlight]",
+        "source_title": "level down trolling",
+        "url": "https://www.youtube.com/watch?v=fWcnSGfpehA",
+        "section": "*60-240",
+        "duration": 885,
+        "status": "COMPLETED",
+        "added_at": "2026-10-17T04:48:12Z",
+        "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792212492_18_master.mp4",
+        "youtube_video_id": "zWix_onyzgM"
       }
     ]
   },
@@ -5970,6 +6040,72 @@
               "variant": "A",
               "title": "Why Amin's childhood explains every loss",
               "deployed_at": 1792357087.4545422,
+              "reason": "Initial A/B test deployment"
+            }
+          ],
+          "metrics": {
+            "views": 0,
+            "likes": 0,
+            "comments": 0,
+            "retention": 0.0,
+            "ctr": 0.0
+          }
+        },
+        "reframed": "gaming_split"
+      },
+      {
+        "id": "ken_1792212492_18",
+        "source_video": "level down trolling [Highlight]",
+        "creator": "Ken",
+        "title": "This 1 Card Makes eGiant Unstoppable...",
+        "publish_at": "2026-10-20T17:00:00Z",
+        "status": "SCHEDULED",
+        "uploaded": true,
+        "youtube_video_id": "zWix_onyzgM",
+        "youtube_url": "https://www.youtube.com/shorts/zWix_onyzgM",
+        "video_file": "ken_1792212492_18_master.mp4",
+        "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792212492_18_master.mp4",
+        "duration": 23.19,
+        "hook_summary": "The player explains how Electro Giant functions defensively and theorycrafts an unstoppable Monk synergy to cover its ranged weakness.",
+        "metadata": {
+          "title": "This 1 Card Makes eGiant Unstoppable...",
+          "description": "Using a defensive Electro Giant is great, but its ranged weakness usually ruins the push. Ken reveals the secret card synergy that completely fixes eGiant's biggest flaw.\n\n\u2022 Defensive eGiant mechanics explained\n\u2022 Overcoming the ranged unit counter\n\u2022 The ultimate 2-card synergy setup\n\nFeaturing: Ken\n\nIs this the most broken synergy in the game right now?\n\n#clashroyale #egiant #monk #gaming #shorts #clashroyaleshorts",
+          "tags": [
+            "clash royale",
+            "electro giant",
+            "egiant clash royale",
+            "monk clash royale",
+            "ken clash royale",
+            "egiant synergy",
+            "clash royale tips",
+            "clash royale combo",
+            "egiant deck"
+          ],
+          "pinned_comment": "Would you run this eGiant + Monk combo in a Grand Challenge, or is it too expensive? Let me know below! \ud83d\udc47",
+          "ab_variants": {
+            "A": {
+              "angle": "Curiosity Gap",
+              "title": "This 1 Card Makes eGiant Unstoppable...",
+              "description": "Using a defensive Electro Giant is great, but its ranged weakness usually ruins the push. Ken reveals the secret card synergy that completely fixes eGiant's biggest flaw.\n\n\u2022 Defensive eGiant mechanics explained\n\u2022 Overcoming the ranged unit counter\n\u2022 The ultimate 2-card synergy setup\n\nFeaturing: Ken\n\nIs this the most broken synergy in the game right now?\n\n#clashroyale #egiant #monk #gaming #shorts #clashroyaleshorts"
+            },
+            "B": {
+              "angle": "Contrarian Truth",
+              "title": "Defensive eGiant Is Actually Broken?",
+              "description": "Most players think Electro Giant is purely an aggressive win condition, but dropping it defensively changes everything. Ken breaks down why playing eGiant defensively creates an unbeatable counter-push.\n\n\u2022 Why defensive eGiant value zaps work\n\u2022 Turning defense into aggressive pressure\n\u2022 Combining Monk to reflect ranged projectiles\n\nFeaturing: Ken\n\nIs defensive eGiant actually better than offensive eGiant?\n\n#clashroyale #egiant #clashroyaledeck #gaming #shorts #clash"
+            },
+            "C": {
+              "angle": "Actionable Protocol",
+              "title": "How to Instantly Fix eGiant's Weakness",
+              "description": "Stop letting ranged units shred your Electro Giant. Follow Ken's simple positioning setup to reflect all incoming ranged damage and build an unstoppable attack.\n\n\u2022 Place eGiant defensively for value zaps\n\u2022 Time Monk's ability to reflect ranged attacks\n\u2022 Overwhelm opponent on the counter-push\n\nFeaturing: Ken\n\nWhat is the absolute best hard counter to this setup?\n\n#clashroyale #egiantstrategy #clashroyaledecks #gaming #shorts #monk"
+            }
+          },
+          "active_variant": "A",
+          "test_status": "ACTIVE_TEST",
+          "variant_history": [
+            {
+              "variant": "A",
+              "title": "This 1 Card Makes eGiant Unstoppable...",
+              "deployed_at": 1792357503.967607,
               "reason": "Initial A/B test deployment"
             }
           ],

@@ -1,6 +1,6 @@
 {
-  "timestamp": 1792369757.514266,
-  "sync_time_iso": "2026-10-19T00:29:17Z",
+  "timestamp": 1792369819.524802,
+  "sync_time_iso": "2026-10-19T00:30:19Z",
   "default_channel": "ken_clips_burger",
   "channels": {
     "ken_clips_burger": {
@@ -96,14 +96,14 @@
           "current_task": "Queue up to date. Waiting for next daily Ken upload.",
           "last_completed_task": "Ingested 5 recent Ken master videos into source pool",
           "recent_logs": [
-            "[20:20:41] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
-            "[20:21:01] Queue up to date. Waiting for next daily Ken upload.",
             "[20:23:03] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
             "[20:23:15] Queue up to date. Waiting for next daily Ken upload.",
             "[20:25:18] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
             "[20:25:31] Queue up to date. Waiting for next daily Ken upload.",
             "[20:27:34] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
-            "[20:27:49] Queue up to date. Waiting for next daily Ken upload."
+            "[20:27:49] Queue up to date. Waiting for next daily Ken upload.",
+            "[20:29:51] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
+            "[20:30:05] Queue up to date. Waiting for next daily Ken upload."
           ]
         },
         "STRATEGIST": {
@@ -111,14 +111,14 @@
           "current_task": "Buffer healthy: 10/9 scheduled Ken Shorts staged.",
           "last_completed_task": "Mapped 3 distinct viral gaming hook angles for initial drops",
           "recent_logs": [
-            "[20:11:53] Buffer healthy: 10/9 scheduled Ken Shorts staged.",
             "[20:14:08] Buffer healthy: 10/9 scheduled Ken Shorts staged.",
             "[20:16:23] Buffer healthy: 10/9 scheduled Ken Shorts staged.",
             "[20:18:39] Buffer healthy: 10/9 scheduled Ken Shorts staged.",
             "[20:21:01] Buffer healthy: 10/9 scheduled Ken Shorts staged.",
             "[20:23:15] Buffer healthy: 10/9 scheduled Ken Shorts staged.",
             "[20:25:31] Buffer healthy: 10/9 scheduled Ken Shorts staged.",
-            "[20:27:49] Buffer healthy: 10/9 scheduled Ken Shorts staged."
+            "[20:27:49] Buffer healthy: 10/9 scheduled Ken Shorts staged.",
+            "[20:30:05] Buffer healthy: 10/9 scheduled Ken Shorts staged."
           ]
         },
         "EDITOR": {
@@ -162,17 +162,17 @@
         },
         "ANALYST": {
           "status": "working",
-          "current_task": "Telemetry Audit: 13,076 views (18 shorts). Auto-pivoted 1 stalled title(s).",
+          "current_task": "Telemetry Audit: 13,102 views (18 shorts). Auto-pivoted 1 stalled title(s).",
           "last_completed_task": "Calibrated gaming threshold: >15 views/hr within 4h",
           "recent_logs": [
-            "[20:11:55] Telemetry Audit: 13,062 views (18 shorts). Auto-pivoted 1 stalled title(s).",
             "[20:14:10] Telemetry Audit: 13,069 views (18 shorts). Auto-pivoted 1 stalled title(s).",
             "[20:16:25] Telemetry Audit: 13,061 views (18 shorts). Auto-pivoted 1 stalled title(s).",
             "[20:18:41] Telemetry Audit: 13,072 views (18 shorts). Auto-pivoted 1 stalled title(s).",
             "[20:21:03] Telemetry Audit: 13,072 views (18 shorts). Auto-pivoted 1 stalled title(s).",
             "[20:23:18] Telemetry Audit: 13,072 views (18 shorts). Auto-pivoted 1 stalled title(s).",
             "[20:25:34] Telemetry Audit: 13,076 views (18 shorts). Auto-pivoted 1 stalled title(s).",
-            "[20:27:51] Telemetry Audit: 13,076 views (18 shorts). Auto-pivoted 1 stalled title(s)."
+            "[20:27:51] Telemetry Audit: 13,076 views (18 shorts). Auto-pivoted 1 stalled title(s).",
+            "[20:30:07] Telemetry Audit: 13,102 views (18 shorts). Auto-pivoted 1 stalled title(s)."
           ]
         },
         "WATCHDOG": {
@@ -180,14 +180,14 @@
           "current_task": "Verifying Supercell fan policy: 0 claims, 0 strikes.",
           "last_completed_task": "Audited source parameters: strictly <30s segment rule active",
           "recent_logs": [
-            "[20:11:55] Verifying Supercell fan policy: 0 claims, 0 strikes.",
             "[20:14:10] Verifying Supercell fan policy: 0 claims, 0 strikes.",
             "[20:16:25] Verifying Supercell fan policy: 0 claims, 0 strikes.",
             "[20:18:41] Verifying Supercell fan policy: 0 claims, 0 strikes.",
             "[20:21:03] Verifying Supercell fan policy: 0 claims, 0 strikes.",
             "[20:23:18] Verifying Supercell fan policy: 0 claims, 0 strikes.",
             "[20:25:34] Verifying Supercell fan policy: 0 claims, 0 strikes.",
-            "[20:27:51] Verifying Supercell fan policy: 0 claims, 0 strikes."
+            "[20:27:51] Verifying Supercell fan policy: 0 claims, 0 strikes.",
+            "[20:30:07] Verifying Supercell fan policy: 0 claims, 0 strikes."
           ]
         }
       },
@@ -1463,13 +1463,13 @@
                 }
               ],
               "metrics": {
-                "views": 61,
+                "views": 85,
                 "likes": 1,
                 "comments": 0,
                 "retention": 0.0,
                 "ctr": 0.0,
-                "velocity_vph": 8.18,
-                "engagement_pct": 1.64
+                "velocity_vph": 11.34,
+                "engagement_pct": 1.18
               }
             },
             "reframed": "gaming_split"
@@ -1531,12 +1531,12 @@
                 }
               ],
               "metrics": {
-                "views": 888,
+                "views": 890,
                 "likes": 11,
                 "comments": 0,
                 "retention": 0.0,
                 "ctr": 0.0,
-                "velocity_vph": 84.95,
+                "velocity_vph": 84.83,
                 "engagement_pct": 1.24
               }
             },
@@ -1604,7 +1604,7 @@
                 "comments": 0,
                 "retention": 0.0,
                 "ctr": 0.0,
-                "velocity_vph": 20.71,
+                "velocity_vph": 20.68,
                 "engagement_pct": 1.09
               }
             },
@@ -1614,7 +1614,7 @@
             "id": "ken_1792212492_0",
             "source_video": "weirdest buff ever [Clutch Moment]",
             "creator": "Ken",
-            "title": "How to use Clone like a top 10 global player",
+            "title": "Why this banned Clone combo is illegal...",
             "publish_at": "2026-10-17T23:30:00Z",
             "status": "PUBLISHED",
             "uploaded": true,
@@ -1625,8 +1625,8 @@
             "duration": 24.69,
             "hook_summary": "The player highlights how surprisingly overpowered the Clone card can be when paired with fast-hitting troops, catching opponents completely off guard.",
             "metadata": {
-              "title": "How to use Clone like a top 10 global player",
-              "description": "Stop wasting your elixir on random clone drops. Follow this step-by-step engagement rule to turn a single counter-attack into an unstoppable three-crown victory.\n\n\u2022 The 3-step sequence for executing the ultimate clone push\n\u2022 Exact placement guide to avoid area-damage spells\n\u2022 How to cycle your deck to get Clone back in hand instantly\n\nFeaturing: Ken\n\nWhat is your go-to card to pair with Clone in your main deck?\n\n#shorts #clashroyale #protips #gaming #ken #clonetricks",
+              "title": "Why this banned Clone combo is illegal...",
+              "description": "Most players think the Clone card is just a useless gimmick, until you pair it with this one specific troop. Watch how an entire push vanishes and instantly respawns to decimate the enemy tower before they even realize what happened.\n\n\u2022 Discover the exact troop synergy that makes Clone overpowered\n\u2022 See how to bait out opponent spells before dropping the spell\n\u2022 Master the timing to catch defenders completely off guard\n\nFeaturing: Ken\n\nHave you ever actually won a match using only cloned troops, or is this just a one-in-a-million fluke?\n\n#shorts #clashroyale #gaming #clonestrategy #ken #mobilegaming",
               "tags": [
                 "Clash Royale",
                 "Clone Spell",
@@ -1656,7 +1656,7 @@
                   "description": "Stop wasting your elixir on random clone drops. Follow this step-by-step engagement rule to turn a single counter-attack into an unstoppable three-crown victory.\n\n\u2022 The 3-step sequence for executing the ultimate clone push\n\u2022 Exact placement guide to avoid area-damage spells\n\u2022 How to cycle your deck to get Clone back in hand instantly\n\nFeaturing: Ken\n\nWhat is your go-to card to pair with Clone in your main deck?\n\n#shorts #clashroyale #protips #gaming #ken #clonetricks"
                 }
               },
-              "active_variant": "C",
+              "active_variant": "A",
               "test_status": "ACTIVE_TEST",
               "variant_history": [
                 {
@@ -1778,7 +1778,7 @@
                 "comments": 0,
                 "retention": 0.0,
                 "ctr": 0.0,
-                "velocity_vph": 36.81,
+                "velocity_vph": 36.77,
                 "engagement_pct": 1.9
               }
             },
@@ -1804,7 +1804,7 @@
                 "views": 1346,
                 "likes": 19,
                 "comments": 0,
-                "velocity_vph": 39.06,
+                "velocity_vph": 39.01,
                 "engagement_pct": 1.41
               },
               "test_status": "WINNER_LOCKED"
@@ -1873,7 +1873,7 @@
                 "comments": 1,
                 "retention": 0.0,
                 "ctr": 0.0,
-                "velocity_vph": 26.06,
+                "velocity_vph": 26.04,
                 "engagement_pct": 1.51
               }
             },
@@ -1942,7 +1942,7 @@
                 "comments": 1,
                 "retention": 0.0,
                 "ctr": 0.0,
-                "velocity_vph": 25.04,
+                "velocity_vph": 25.02,
                 "engagement_pct": 0.92
               }
             },
@@ -2010,7 +2010,7 @@
                 "comments": 1,
                 "retention": 0.0,
                 "ctr": 0.0,
-                "velocity_vph": 15.18,
+                "velocity_vph": 15.17,
                 "engagement_pct": 1.98
               }
             },
@@ -2078,7 +2078,7 @@
                 "comments": 2,
                 "retention": 0.0,
                 "ctr": 0.0,
-                "velocity_vph": 16.94,
+                "velocity_vph": 16.93,
                 "engagement_pct": 0.9
               }
             },
@@ -2143,7 +2143,7 @@
                 "comments": 3,
                 "retention": 0.0,
                 "ctr": 0.0,
-                "velocity_vph": 16.77,
+                "velocity_vph": 16.76,
                 "engagement_pct": 1.49
               }
             },
@@ -2212,7 +2212,7 @@
                 "comments": 1,
                 "retention": 0.0,
                 "ctr": 0.0,
-                "velocity_vph": 15.13,
+                "velocity_vph": 15.12,
                 "engagement_pct": 0.82
               }
             },
@@ -2359,7 +2359,7 @@
       },
       "analytics": {
         "summary": {
-          "total_views": 13076,
+          "total_views": 13102,
           "shorts_published": 0,
           "total_likes": 160,
           "avg_retention_pct": 82.5,
@@ -2368,77 +2368,77 @@
           "estimated_revenue_usd": 0.0,
           "health_grade": "A+",
           "total_shorts_published": 18,
-          "last_audit": 1792369671.2928572
+          "last_audit": 1792369807.449047
         },
         "top_shorts": [
           {
             "title": "Stop Sleeping on Evo Minion Horde...",
             "creator": "Ken",
-            "views": 888,
-            "velocity": 84.95,
+            "views": 890,
+            "velocity": 84.83,
             "angle": "Contrarian Truth"
           },
           {
             "title": "Don't play Minecraft for views.",
             "creator": "Ken",
             "views": 460,
-            "velocity": 20.71,
+            "velocity": 20.68,
             "angle": "Contrarian Truth"
           },
           {
             "title": "Ken: Stop Making This Mistake #Shorts",
             "creator": "Ken",
             "views": 1158,
-            "velocity": 36.81,
+            "velocity": 36.77,
             "angle": "Contrarian Truth"
           },
           {
             "title": "KEN BROKE CLASH ROYALE WITH THIS DECK #Shorts",
             "creator": "Ken",
             "views": 1346,
-            "velocity": 39.06,
+            "velocity": 39.01,
             "angle": "High Velocity"
           },
           {
             "title": "Why Sparky is Actually UNSTOPPABLE \u26a1",
             "creator": "Ken",
             "views": 1256,
-            "velocity": 26.06,
+            "velocity": 26.04,
             "angle": "Contrarian Truth"
           },
           {
             "title": "Why I played games in the hospital",
             "creator": "Ken",
             "views": 1301,
-            "velocity": 25.04,
+            "velocity": 25.02,
             "angle": "Contrarian Truth"
           },
           {
             "title": "Cannon Users Are Doing It Wrong",
             "creator": "Ken",
             "views": 857,
-            "velocity": 15.18,
+            "velocity": 15.17,
             "angle": "Contrarian Truth"
           },
           {
             "title": "Stop Defending Bridge Spam Wrong",
             "creator": "Ken",
             "views": 1223,
-            "velocity": 16.94,
+            "velocity": 16.93,
             "angle": "Contrarian Truth"
           },
           {
             "title": "Ken: Stop Making This Mistake #Shorts",
             "creator": "Ken",
             "views": 1274,
-            "velocity": 16.77,
+            "velocity": 16.76,
             "angle": "Contrarian Truth"
           },
           {
             "title": "Why Winning Requires Bad Cards",
             "creator": "Ken",
             "views": 1217,
-            "velocity": 15.13,
+            "velocity": 15.12,
             "angle": "Contrarian Truth"
           }
         ],
@@ -5324,14 +5324,14 @@
       "current_task": "Queue up to date. Waiting for next daily Ken upload.",
       "last_completed_task": "Ingested 5 recent Ken master videos into source pool",
       "recent_logs": [
-        "[20:20:41] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
-        "[20:21:01] Queue up to date. Waiting for next daily Ken upload.",
         "[20:23:03] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
         "[20:23:15] Queue up to date. Waiting for next daily Ken upload.",
         "[20:25:18] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
         "[20:25:31] Queue up to date. Waiting for next daily Ken upload.",
         "[20:27:34] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
-        "[20:27:49] Queue up to date. Waiting for next daily Ken upload."
+        "[20:27:49] Queue up to date. Waiting for next daily Ken upload.",
+        "[20:29:51] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
+        "[20:30:05] Queue up to date. Waiting for next daily Ken upload."
       ]
     },
     "STRATEGIST": {
@@ -5339,14 +5339,14 @@
       "current_task": "Buffer healthy: 10/9 scheduled Ken Shorts staged.",
       "last_completed_task": "Mapped 3 distinct viral gaming hook angles for initial drops",
       "recent_logs": [
-        "[20:11:53] Buffer healthy: 10/9 scheduled Ken Shorts staged.",
         "[20:14:08] Buffer healthy: 10/9 scheduled Ken Shorts staged.",
         "[20:16:23] Buffer healthy: 10/9 scheduled Ken Shorts staged.",
         "[20:18:39] Buffer healthy: 10/9 scheduled Ken Shorts staged.",
         "[20:21:01] Buffer healthy: 10/9 scheduled Ken Shorts staged.",
         "[20:23:15] Buffer healthy: 10/9 scheduled Ken Shorts staged.",
         "[20:25:31] Buffer healthy: 10/9 scheduled Ken Shorts staged.",
-        "[20:27:49] Buffer healthy: 10/9 scheduled Ken Shorts staged."
+        "[20:27:49] Buffer healthy: 10/9 scheduled Ken Shorts staged.",
+        "[20:30:05] Buffer healthy: 10/9 scheduled Ken Shorts staged."
       ]
     },
     "EDITOR": {
@@ -5390,17 +5390,17 @@
     },
     "ANALYST": {
       "status": "working",
-      "current_task": "Telemetry Audit: 13,076 views (18 shorts). Auto-pivoted 1 stalled title(s).",
+      "current_task": "Telemetry Audit: 13,102 views (18 shorts). Auto-pivoted 1 stalled title(s).",
       "last_completed_task": "Calibrated gaming threshold: >15 views/hr within 4h",
       "recent_logs": [
-        "[20:11:55] Telemetry Audit: 13,062 views (18 shorts). Auto-pivoted 1 stalled title(s).",
         "[20:14:10] Telemetry Audit: 13,069 views (18 shorts). Auto-pivoted 1 stalled title(s).",
         "[20:16:25] Telemetry Audit: 13,061 views (18 shorts). Auto-pivoted 1 stalled title(s).",
         "[20:18:41] Telemetry Audit: 13,072 views (18 shorts). Auto-pivoted 1 stalled title(s).",
         "[20:21:03] Telemetry Audit: 13,072 views (18 shorts). Auto-pivoted 1 stalled title(s).",
         "[20:23:18] Telemetry Audit: 13,072 views (18 shorts). Auto-pivoted 1 stalled title(s).",
         "[20:25:34] Telemetry Audit: 13,076 views (18 shorts). Auto-pivoted 1 stalled title(s).",
-        "[20:27:51] Telemetry Audit: 13,076 views (18 shorts). Auto-pivoted 1 stalled title(s)."
+        "[20:27:51] Telemetry Audit: 13,076 views (18 shorts). Auto-pivoted 1 stalled title(s).",
+        "[20:30:07] Telemetry Audit: 13,102 views (18 shorts). Auto-pivoted 1 stalled title(s)."
       ]
     },
     "WATCHDOG": {
@@ -5408,14 +5408,14 @@
       "current_task": "Verifying Supercell fan policy: 0 claims, 0 strikes.",
       "last_completed_task": "Audited source parameters: strictly <30s segment rule active",
       "recent_logs": [
-        "[20:11:55] Verifying Supercell fan policy: 0 claims, 0 strikes.",
         "[20:14:10] Verifying Supercell fan policy: 0 claims, 0 strikes.",
         "[20:16:25] Verifying Supercell fan policy: 0 claims, 0 strikes.",
         "[20:18:41] Verifying Supercell fan policy: 0 claims, 0 strikes.",
         "[20:21:03] Verifying Supercell fan policy: 0 claims, 0 strikes.",
         "[20:23:18] Verifying Supercell fan policy: 0 claims, 0 strikes.",
         "[20:25:34] Verifying Supercell fan policy: 0 claims, 0 strikes.",
-        "[20:27:51] Verifying Supercell fan policy: 0 claims, 0 strikes."
+        "[20:27:51] Verifying Supercell fan policy: 0 claims, 0 strikes.",
+        "[20:30:07] Verifying Supercell fan policy: 0 claims, 0 strikes."
       ]
     }
   },
@@ -6691,13 +6691,13 @@
             }
           ],
           "metrics": {
-            "views": 61,
+            "views": 85,
             "likes": 1,
             "comments": 0,
             "retention": 0.0,
             "ctr": 0.0,
-            "velocity_vph": 8.18,
-            "engagement_pct": 1.64
+            "velocity_vph": 11.34,
+            "engagement_pct": 1.18
           }
         },
         "reframed": "gaming_split"
@@ -6759,12 +6759,12 @@
             }
           ],
           "metrics": {
-            "views": 888,
+            "views": 890,
             "likes": 11,
             "comments": 0,
             "retention": 0.0,
             "ctr": 0.0,
-            "velocity_vph": 84.95,
+            "velocity_vph": 84.83,
             "engagement_pct": 1.24
           }
         },
@@ -6832,7 +6832,7 @@
             "comments": 0,
             "retention": 0.0,
             "ctr": 0.0,
-            "velocity_vph": 20.71,
+            "velocity_vph": 20.68,
             "engagement_pct": 1.09
           }
         },
@@ -6842,7 +6842,7 @@
         "id": "ken_1792212492_0",
         "source_video": "weirdest buff ever [Clutch Moment]",
         "creator": "Ken",
-        "title": "How to use Clone like a top 10 global player",
+        "title": "Why this banned Clone combo is illegal...",
         "publish_at": "2026-10-17T23:30:00Z",
         "status": "PUBLISHED",
         "uploaded": true,
@@ -6853,8 +6853,8 @@
         "duration": 24.69,
         "hook_summary": "The player highlights how surprisingly overpowered the Clone card can be when paired with fast-hitting troops, catching opponents completely off guard.",
         "metadata": {
-          "title": "How to use Clone like a top 10 global player",
-          "description": "Stop wasting your elixir on random clone drops. Follow this step-by-step engagement rule to turn a single counter-attack into an unstoppable three-crown victory.\n\n\u2022 The 3-step sequence for executing the ultimate clone push\n\u2022 Exact placement guide to avoid area-damage spells\n\u2022 How to cycle your deck to get Clone back in hand instantly\n\nFeaturing: Ken\n\nWhat is your go-to card to pair with Clone in your main deck?\n\n#shorts #clashroyale #protips #gaming #ken #clonetricks",
+          "title": "Why this banned Clone combo is illegal...",
+          "description": "Most players think the Clone card is just a useless gimmick, until you pair it with this one specific troop. Watch how an entire push vanishes and instantly respawns to decimate the enemy tower before they even realize what happened.\n\n\u2022 Discover the exact troop synergy that makes Clone overpowered\n\u2022 See how to bait out opponent spells before dropping the spell\n\u2022 Master the timing to catch defenders completely off guard\n\nFeaturing: Ken\n\nHave you ever actually won a match using only cloned troops, or is this just a one-in-a-million fluke?\n\n#shorts #clashroyale #gaming #clonestrategy #ken #mobilegaming",
           "tags": [
             "Clash Royale",
             "Clone Spell",
@@ -6884,7 +6884,7 @@
               "description": "Stop wasting your elixir on random clone drops. Follow this step-by-step engagement rule to turn a single counter-attack into an unstoppable three-crown victory.\n\n\u2022 The 3-step sequence for executing the ultimate clone push\n\u2022 Exact placement guide to avoid area-damage spells\n\u2022 How to cycle your deck to get Clone back in hand instantly\n\nFeaturing: Ken\n\nWhat is your go-to card to pair with Clone in your main deck?\n\n#shorts #clashroyale #protips #gaming #ken #clonetricks"
             }
           },
-          "active_variant": "C",
+          "active_variant": "A",
           "test_status": "ACTIVE_TEST",
           "variant_history": [
             {
@@ -7006,7 +7006,7 @@
             "comments": 0,
             "retention": 0.0,
             "ctr": 0.0,
-            "velocity_vph": 36.81,
+            "velocity_vph": 36.77,
             "engagement_pct": 1.9
           }
         },
@@ -7032,7 +7032,7 @@
             "views": 1346,
             "likes": 19,
             "comments": 0,
-            "velocity_vph": 39.06,
+            "velocity_vph": 39.01,
             "engagement_pct": 1.41
           },
           "test_status": "WINNER_LOCKED"
@@ -7101,7 +7101,7 @@
             "comments": 1,
             "retention": 0.0,
             "ctr": 0.0,
-            "velocity_vph": 26.06,
+            "velocity_vph": 26.04,
             "engagement_pct": 1.51
           }
         },
@@ -7170,7 +7170,7 @@
             "comments": 1,
             "retention": 0.0,
             "ctr": 0.0,
-            "velocity_vph": 25.04,
+            "velocity_vph": 25.02,
             "engagement_pct": 0.92
           }
         },
@@ -7238,7 +7238,7 @@
             "comments": 1,
             "retention": 0.0,
             "ctr": 0.0,
-            "velocity_vph": 15.18,
+            "velocity_vph": 15.17,
             "engagement_pct": 1.98
           }
         },
@@ -7306,7 +7306,7 @@
             "comments": 2,
             "retention": 0.0,
             "ctr": 0.0,
-            "velocity_vph": 16.94,
+            "velocity_vph": 16.93,
             "engagement_pct": 0.9
           }
         },
@@ -7371,7 +7371,7 @@
             "comments": 3,
             "retention": 0.0,
             "ctr": 0.0,
-            "velocity_vph": 16.77,
+            "velocity_vph": 16.76,
             "engagement_pct": 1.49
           }
         },
@@ -7440,7 +7440,7 @@
             "comments": 1,
             "retention": 0.0,
             "ctr": 0.0,
-            "velocity_vph": 15.13,
+            "velocity_vph": 15.12,
             "engagement_pct": 0.82
           }
         },
@@ -7587,7 +7587,7 @@
   },
   "analytics": {
     "summary": {
-      "total_views": 13076,
+      "total_views": 13102,
       "shorts_published": 0,
       "total_likes": 160,
       "avg_retention_pct": 82.5,
@@ -7596,77 +7596,77 @@
       "estimated_revenue_usd": 0.0,
       "health_grade": "A+",
       "total_shorts_published": 18,
-      "last_audit": 1792369671.2928572
+      "last_audit": 1792369807.449047
     },
     "top_shorts": [
       {
         "title": "Stop Sleeping on Evo Minion Horde...",
         "creator": "Ken",
-        "views": 888,
-        "velocity": 84.95,
+        "views": 890,
+        "velocity": 84.83,
         "angle": "Contrarian Truth"
       },
       {
         "title": "Don't play Minecraft for views.",
         "creator": "Ken",
         "views": 460,
-        "velocity": 20.71,
+        "velocity": 20.68,
         "angle": "Contrarian Truth"
       },
       {
         "title": "Ken: Stop Making This Mistake #Shorts",
         "creator": "Ken",
         "views": 1158,
-        "velocity": 36.81,
+        "velocity": 36.77,
         "angle": "Contrarian Truth"
       },
       {
         "title": "KEN BROKE CLASH ROYALE WITH THIS DECK #Shorts",
         "creator": "Ken",
         "views": 1346,
-        "velocity": 39.06,
+        "velocity": 39.01,
         "angle": "High Velocity"
       },
       {
         "title": "Why Sparky is Actually UNSTOPPABLE \u26a1",
         "creator": "Ken",
         "views": 1256,
-        "velocity": 26.06,
+        "velocity": 26.04,
         "angle": "Contrarian Truth"
       },
       {
         "title": "Why I played games in the hospital",
         "creator": "Ken",
         "views": 1301,
-        "velocity": 25.04,
+        "velocity": 25.02,
         "angle": "Contrarian Truth"
       },
       {
         "title": "Cannon Users Are Doing It Wrong",
         "creator": "Ken",
         "views": 857,
-        "velocity": 15.18,
+        "velocity": 15.17,
         "angle": "Contrarian Truth"
       },
       {
         "title": "Stop Defending Bridge Spam Wrong",
         "creator": "Ken",
         "views": 1223,
-        "velocity": 16.94,
+        "velocity": 16.93,
         "angle": "Contrarian Truth"
       },
       {
         "title": "Ken: Stop Making This Mistake #Shorts",
         "creator": "Ken",
         "views": 1274,
-        "velocity": 16.77,
+        "velocity": 16.76,
         "angle": "Contrarian Truth"
       },
       {
         "title": "Why Winning Requires Bad Cards",
         "creator": "Ken",
         "views": 1217,
-        "velocity": 15.13,
+        "velocity": 15.12,
         "angle": "Contrarian Truth"
       }
     ],

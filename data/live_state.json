@@ -1,6 +1,6 @@
 {
-  "timestamp": 1792368211.789241,
-  "sync_time_iso": "2026-10-19T00:03:31Z",
+  "timestamp": 1792368273.372842,
+  "sync_time_iso": "2026-10-19T00:04:33Z",
   "default_channel": "ken_clips_burger",
   "channels": {
     "ken_clips_burger": {
@@ -96,14 +96,14 @@
           "current_task": "Queue up to date. Waiting for next daily Ken upload.",
           "last_completed_task": "Ingested 5 recent Ken master videos into source pool",
           "recent_logs": [
-            "[19:55:05] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
-            "[19:55:19] Queue up to date. Waiting for next daily Ken upload.",
             "[19:57:19] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
             "[19:57:32] Queue up to date. Waiting for next daily Ken upload.",
             "[19:59:32] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
             "[19:59:45] Queue up to date. Waiting for next daily Ken upload.",
             "[20:01:45] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
-            "[20:01:59] Queue up to date. Waiting for next daily Ken upload."
+            "[20:01:59] Queue up to date. Waiting for next daily Ken upload.",
+            "[20:03:59] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
+            "[20:04:12] Queue up to date. Waiting for next daily Ken upload."
           ]
         },
         "STRATEGIST": {
@@ -111,14 +111,14 @@
           "current_task": "Buffer healthy: 10/10 scheduled Ken Shorts staged.",
           "last_completed_task": "Mapped 3 distinct viral gaming hook angles for initial drops",
           "recent_logs": [
-            "[19:46:27] Buffer healthy: 10/10 scheduled Ken Shorts staged.",
             "[19:48:39] Buffer healthy: 10/10 scheduled Ken Shorts staged.",
             "[19:50:52] Buffer healthy: 10/10 scheduled Ken Shorts staged.",
             "[19:53:05] Buffer healthy: 10/10 scheduled Ken Shorts staged.",
             "[19:55:19] Buffer healthy: 10/10 scheduled Ken Shorts staged.",
             "[19:57:32] Buffer healthy: 10/10 scheduled Ken Shorts staged.",
             "[19:59:45] Buffer healthy: 10/10 scheduled Ken Shorts staged.",
-            "[20:01:59] Buffer healthy: 10/10 scheduled Ken Shorts staged."
+            "[20:01:59] Buffer healthy: 10/10 scheduled Ken Shorts staged.",
+            "[20:04:12] Buffer healthy: 10/10 scheduled Ken Shorts staged."
           ]
         },
         "EDITOR": {
@@ -162,17 +162,17 @@
         },
         "ANALYST": {
           "status": "working",
-          "current_task": "Auditing velocity of active Ken Clash Royale Shorts...",
+          "current_task": "Telemetry Audit: 13,055 views (18 shorts). Auto-pivoted 1 stalled title(s).",
           "last_completed_task": "Calibrated gaming threshold: >15 views/hr within 4h",
           "recent_logs": [
-            "[19:46:27] Auditing velocity of active Ken Clash Royale Shorts...",
-            "[19:48:39] Auditing velocity of active Ken Clash Royale Shorts...",
-            "[19:50:52] Auditing velocity of active Ken Clash Royale Shorts...",
-            "[19:53:05] Auditing velocity of active Ken Clash Royale Shorts...",
             "[19:55:19] Auditing velocity of active Ken Clash Royale Shorts...",
             "[19:57:32] Auditing velocity of active Ken Clash Royale Shorts...",
             "[19:59:45] Auditing velocity of active Ken Clash Royale Shorts...",
-            "[20:01:59] Auditing velocity of active Ken Clash Royale Shorts..."
+            "[20:01:59] Auditing velocity of active Ken Clash Royale Shorts...",
+            "[20:03:35] Telemetry Audit: 0 views (18 shorts). Auto-pivoted 13 stalled title(s).",
+            "[20:04:10] Auditing velocity of active Ken Clash Royale Shorts: name 'vid' is not defined",
+            "[20:04:12] Auditing velocity of active Ken Clash Royale Shorts...",
+            "[20:04:31] Telemetry Audit: 13,055 views (18 shorts). Auto-pivoted 1 stalled title(s)."
           ]
         },
         "WATCHDOG": {
@@ -180,14 +180,14 @@
           "current_task": "Verifying Supercell fan policy: 0 claims, 0 strikes.",
           "last_completed_task": "Audited source parameters: strictly <30s segment rule active",
           "recent_logs": [
-            "[19:46:27] Verifying Supercell fan policy: 0 claims, 0 strikes.",
             "[19:48:39] Verifying Supercell fan policy: 0 claims, 0 strikes.",
             "[19:50:52] Verifying Supercell fan policy: 0 claims, 0 strikes.",
             "[19:53:05] Verifying Supercell fan policy: 0 claims, 0 strikes.",
             "[19:55:19] Verifying Supercell fan policy: 0 claims, 0 strikes.",
             "[19:57:32] Verifying Supercell fan policy: 0 claims, 0 strikes.",
             "[19:59:45] Verifying Supercell fan policy: 0 claims, 0 strikes.",
-            "[20:01:59] Verifying Supercell fan policy: 0 claims, 0 strikes."
+            "[20:01:59] Verifying Supercell fan policy: 0 claims, 0 strikes.",
+            "[20:04:12] Verifying Supercell fan policy: 0 claims, 0 strikes."
           ]
         }
       },
@@ -1316,7 +1316,7 @@
                   "description": "When the game is on the line and you have zero time left on the clock, you need a strict mental protocol to survive. Ken breaks down the exact mindset required to execute a game-winning defensive stop when failure means instant defeat.\n\n- Identify the single variable that matters most in the final seconds.\n- Eliminate panic by focusing entirely on your immediate execution.\n- Master the art of converting a defensive block into a definitive win.\n\nFeaturing: Ken\n\nWhat is your go-to strategy when you're one hit away from losing?\n\n#shorts #gamingtips #strategy #gamer #skills #ken"
                 }
               },
-              "active_variant": "A",
+              "active_variant": "B",
               "test_status": "ACTIVE_TEST",
               "variant_history": [
                 {
@@ -1324,12 +1324,6 @@
                   "title": "How did he survive this impossible final second?",
                   "deployed_at": 1792213808.4222238,
                   "reason": "Initial A/B test deployment"
-                },
-                {
-                  "title": "Stop playing safe when the timer hits zero.",
-                  "updated_at": 1792368209.999697,
-                  "reason": "A/B Optimization: Variant A underperformed (0.0 VPH)",
-                  "live_updated": false
                 }
               ],
               "metrics": {
@@ -1337,7 +1331,9 @@
                 "likes": 0,
                 "comments": 0,
                 "retention": 0.0,
-                "ctr": 0.0
+                "ctr": 0.0,
+                "velocity_vph": 0.0,
+                "engagement_pct": 0.0
               }
             },
             "reframed": "gaming_split"
@@ -1388,7 +1384,7 @@
                   "description": "Want to win unwinnable matches? Here is the exact blueprint for turning a disastrous starting hand into a masterclass victory in Clash Royale.\n\n\u2022 Memorize the 3-second opening evaluation rule for every deck archetype.\n\u2022 Execute the counter-push trap to punish greedy first plays.\n\u2022 Take control of the elixir advantage before the single elixir phase even ends.\n\nFeaturing: Ken\n\nWhat is your go-to opening play when your starting hand is absolute trash?\n\n#shorts #clashroyale #protips #gaming #clashroyaletips #ken"
                 }
               },
-              "active_variant": "A",
+              "active_variant": "B",
               "test_status": "ACTIVE_TEST",
               "variant_history": [
                 {
@@ -1396,12 +1392,6 @@
                   "title": "How he won the worst matchup ever...",
                   "deployed_at": 1792213612.6975832,
                   "reason": "Initial A/B test deployment"
-                },
-                {
-                  "title": "Bad matchups don't exist.",
-                  "updated_at": 1792368210.577614,
-                  "reason": "A/B Optimization: Variant A underperformed (0.0 VPH)",
-                  "live_updated": false
                 }
               ],
               "metrics": {
@@ -1409,7 +1399,9 @@
                 "likes": 0,
                 "comments": 0,
                 "retention": 0.0,
-                "ctr": 0.0
+                "ctr": 0.0,
+                "velocity_vph": 0.0,
+                "engagement_pct": 0.0
               }
             },
             "reframed": "gaming_split"
@@ -1460,7 +1452,7 @@
                   "description": "Stop overthinking every move and apply the ultimate wing-it framework. Ken reveals what happens when you substitute pure vibes for actual tactical knowledge.\n\n\u2022 Rule 1: Always commit even when completely lost\n\u2022 Rule 2: Convert panic into instant aggressive action\n\u2022 Rule 3: Never admit defeat until the final screen\n\nFeaturing: Ken\n\nWhat's your go-to strategy when you have no idea what you're doing in a game?\n\n#shorts #ken #gamingskills #gamer #gamingtips #funnygaming"
                 }
               },
-              "active_variant": "A",
+              "active_variant": "B",
               "test_status": "ACTIVE_TEST",
               "variant_history": [
                 {
@@ -1468,20 +1460,16 @@
                   "title": "He Survived 5 Nights Doing THIS?",
                   "deployed_at": 1792213421.369306,
                   "reason": "Initial A/B test deployment"
-                },
-                {
-                  "title": "Skill Is Overrated In Gaming",
-                  "updated_at": 1792368211.068882,
-                  "reason": "A/B Optimization: Variant A underperformed (0.0 VPH)",
-                  "live_updated": false
                 }
               ],
               "metrics": {
-                "views": 0,
-                "likes": 0,
+                "views": 61,
+                "likes": 1,
                 "comments": 0,
                 "retention": 0.0,
-                "ctr": 0.0
+                "ctr": 0.0,
+                "velocity_vph": 8.63,
+                "engagement_pct": 1.64
               }
             },
             "reframed": "gaming_split"
@@ -1532,28 +1520,24 @@
                   "description": "Want to melt heavy pushes in seconds? Here is the exact strategic blueprint Ken used to unleash the Sparky and Evo Minion Horde synergy.\n\n\u2022 Force out low-cost spells before dropping your Horde\n\u2022 Protect Sparky using high-DPS swarm distractions\n\u2022 Capitalize instantly on heavy elixir commitments\n\nFeaturing: Ken\n\nWhat is the single best counter card to stop this push cold? Drop your strategy below!\n\n#shorts #clashroyale #gamingtips #sparky #ken"
                 }
               },
-              "active_variant": "A",
-              "test_status": "ACTIVE_TEST",
+              "active_variant": "B",
+              "test_status": "WINNER_LOCKED",
               "variant_history": [
                 {
                   "variant": "A",
                   "title": "I Accidentally Found the Deadliest Synergy...",
                   "deployed_at": 1792213226.9957519,
                   "reason": "Initial A/B test deployment"
-                },
-                {
-                  "title": "Stop Sleeping on Evo Minion Horde...",
-                  "updated_at": 1792368211.524812,
-                  "reason": "A/B Optimization: Variant A underperformed (0.0 VPH)",
-                  "live_updated": false
                 }
               ],
               "metrics": {
-                "views": 0,
-                "likes": 0,
+                "views": 859,
+                "likes": 11,
                 "comments": 0,
                 "retention": 0.0,
-                "ctr": 0.0
+                "ctr": 0.0,
+                "velocity_vph": 85.35,
+                "engagement_pct": 1.28
               }
             },
             "reframed": "gaming_split"
@@ -1562,7 +1546,7 @@
             "id": "ken_1792212492_1",
             "source_video": "weirdest buff ever [Overtime Battle]",
             "creator": "Ken",
-            "title": "Almost made this massive mistake...",
+            "title": "Don't play Minecraft for views.",
             "publish_at": "2026-10-18T02:15:00Z",
             "status": "PUBLISHED",
             "uploaded": true,
@@ -1573,8 +1557,8 @@
             "duration": 21.83,
             "hook_summary": "The speaker shares a close call with making a Minecraft video, deciding it would be a mistake for themselves and their audience.",
             "metadata": {
-              "title": "Almost made this massive mistake...",
-              "description": "Ken almost hit record on a video that could have changed everything\u2014until he realized the hidden trap. In this short, he shares the exact moment he pulled the plug on an idea that seemed great on the surface. Find out why some content is better left unmade.\n\n\u2022 The temptation of chasing trending topics vs. protecting your brand\n\u2022 Recognizing the subtle red flags of a bad content idea\n\u2022 Why sometimes the best video is the one you never publish\n\nFeaturing: Ken\n\nWould you have posted it anyway for the views, or did he make the right call?\n\n#shorts #ken #minecraft #contentcreator #gaming #decisionmaking",
+              "title": "Don't play Minecraft for views.",
+              "description": "Everyone says jump on the biggest gaming trends to grow your channel, but Ken reveals why doing a Minecraft video last night almost ruined his entire strategy. Chasing easy algorithms can silently kill your long-term connection with your audience.\n\n\u2022 The hidden danger of pivoting just for algorithm spikes\n\u2022 How one wrong video can confuse your core community\n\u2022 Prioritizing creative integrity over quick view counts\n\nFeaturing: Ken\n\nIs chasing trends a smart strategy or a fast track to burning out?\n\n#shorts #ken #minecraft #gamingnews #youtubetips #strategy",
               "tags": [
                 "minecraft video regrets",
                 "ken shorts",
@@ -1604,8 +1588,8 @@
                   "description": "Ken shares his personal filtering system for deciding whether a video idea is actually worth the upload. Learn the exact boundary-check he used last night to stop a potential mistake before it even made it to the editing timeline.\n\n\u2022 The 24-hour reality check for impulse content creation\n\u2022 Evaluating the true cost of 'easy' viral content\n\u2022 A simple framework to protect your audience's trust\n\nFeaturing: Ken\n\nWhat is your personal rule for scrapping a piece of content you worked hard on?\n\n#shorts #ken #minecraft #creatoreconomy #workflow #productivity"
                 }
               },
-              "active_variant": "A",
-              "test_status": "ACTIVE_TEST",
+              "active_variant": "B",
+              "test_status": "WINNER_LOCKED",
               "variant_history": [
                 {
                   "variant": "A",
@@ -1615,11 +1599,13 @@
                 }
               ],
               "metrics": {
-                "views": 0,
-                "likes": 0,
+                "views": 460,
+                "likes": 5,
                 "comments": 0,
                 "retention": 0.0,
-                "ctr": 0.0
+                "ctr": 0.0,
+                "velocity_vph": 21.08,
+                "engagement_pct": 1.09
               }
             },
             "reframed": "gaming_split"
@@ -1628,7 +1614,7 @@
             "id": "ken_1792212492_0",
             "source_video": "weirdest buff ever [Clutch Moment]",
             "creator": "Ken",
-            "title": "The Most DISGUSTING Clone Combo in Clash Royale \ud83d\udc80 #Shorts",
+            "title": "Why this banned Clone combo is illegal...",
             "publish_at": "2026-10-17T23:30:00Z",
             "status": "PUBLISHED",
             "uploaded": true,
@@ -1639,8 +1625,8 @@
             "duration": 24.69,
             "hook_summary": "The player highlights how surprisingly overpowered the Clone card can be when paired with fast-hitting troops, catching opponents completely off guard.",
             "metadata": {
-              "title": "The Most DISGUSTING Clone Combo in Clash Royale \ud83d\udc80 #Shorts",
-              "description": "Everyone calls the Clone spell a useless troll card until this happens. Watch an entire push vanish and instantly respawn to vaporize the enemy crown tower.\n\n\u2022 The clone synergy that catches every defender off guard\n\u2022 How to bait spell counters before dropping the push\n\u2022 Why top ladder players secretly fear this interaction\n\nFeaturing: Ken\n\nHave you ever lost to a clone deck like this? Let me know below! \ud83d\udc47\n\n#Shorts #ClashRoyale #Ken #Gaming #CloneSpell #Supercell #MobileGaming #ClashRoyaleStrategy",
+              "title": "Why this banned Clone combo is illegal...",
+              "description": "Most players think the Clone card is just a useless gimmick, until you pair it with this one specific troop. Watch how an entire push vanishes and instantly respawns to decimate the enemy tower before they even realize what happened.\n\n\u2022 Discover the exact troop synergy that makes Clone overpowered\n\u2022 See how to bait out opponent spells before dropping the spell\n\u2022 Master the timing to catch defenders completely off guard\n\nFeaturing: Ken\n\nHave you ever actually won a match using only cloned troops, or is this just a one-in-a-million fluke?\n\n#shorts #clashroyale #gaming #clonestrategy #ken #mobilegaming",
               "tags": [
                 "Clash Royale",
                 "Clone Spell",
@@ -1670,7 +1656,7 @@
                   "description": "Stop wasting your elixir on random clone drops. Follow this step-by-step engagement rule to turn a single counter-attack into an unstoppable three-crown victory.\n\n\u2022 The 3-step sequence for executing the ultimate clone push\n\u2022 Exact placement guide to avoid area-damage spells\n\u2022 How to cycle your deck to get Clone back in hand instantly\n\nFeaturing: Ken\n\nWhat is your go-to card to pair with Clone in your main deck?\n\n#shorts #clashroyale #protips #gaming #ken #clonetricks"
                 }
               },
-              "active_variant": "B",
+              "active_variant": "A",
               "test_status": "ACTIVE_TEST",
               "variant_history": [
                 {
@@ -1681,11 +1667,13 @@
                 }
               ],
               "metrics": {
-                "views": 0,
+                "views": 9,
                 "likes": 0,
                 "comments": 0,
                 "retention": 0.0,
-                "ctr": 0.0
+                "ctr": 0.0,
+                "velocity_vph": 0.37,
+                "engagement_pct": 0.0
               }
             },
             "reframed": "gaming_split"
@@ -1719,14 +1707,21 @@
                 "Broken Deck",
                 "Evo"
               ],
-              "active_variant": "B"
+              "active_variant": "B",
+              "metrics": {
+                "views": 6,
+                "likes": 0,
+                "comments": 0,
+                "velocity_vph": 0.22,
+                "engagement_pct": 0.0
+              }
             }
           },
           {
             "id": "ken_1792158197_0",
             "source_video": "weirdest buff ever",
             "creator": "Ken",
-            "title": "The Real Secret Behind Lava-hound Clone Strat \ud83d\udc80 #Shorts",
+            "title": "Ken: Stop Making This Mistake #Shorts",
             "publish_at": "2026-10-17T17:00:00Z",
             "status": "PUBLISHED",
             "uploaded": true,
@@ -1737,8 +1732,8 @@
             "duration": 24.89,
             "hook_summary": "The creator executes a high-stakes, aggressive Lava-hound and clone play while baiting the opponent's defensive spells to secure massive value.",
             "metadata": {
-              "title": "The Real Secret Behind Lava-hound Clone Strat \ud83d\udc80 #Shorts",
-              "description": "Ken executes an aggressive Lava-hound and Clone play while baiting the opponent's defensive spells to secure massive value.\n\n\u2022 The Lava-hound timing that forces early spells\n\u2022 How to double clone pups for instant tower melt\n\u2022 Why this deck punishes heavy beatdown players\n\nFeaturing: Ken\n\nIs Lava Clone pure cheese or actual skill? Drop your take below! \ud83d\udc47\n\n#Shorts #ClashRoyale #Ken #Gaming #Supercell #MobileGaming #ClashRoyaleStrategy",
+              "title": "Ken: Stop Making This Mistake #Shorts",
+              "description": "The creator executes a high-stakes, aggressive Lava-hound and clone play while baiting the opponent's defensive spells to secure massive value.\n\nKey Takeaways:\n\u2022 Why the common approach fails\n\u2022 The shift high performers make\n\u2022 Practical daily application\n\nFeaturing Ken.\n\nDo you agree with this? Let us know below! \ud83d\udc47\n\n#Shorts #Discipline #Growth",
               "tags": [
                 "Clash Royale",
                 "Lava Hound",
@@ -1767,8 +1762,8 @@
                   "description": "The creator executes a high-stakes, aggressive Lava-hound and clone play while baiting the opponent's defensive spells to secure massive value.\n\nKey Takeaways:\n\u2022 Step 1: Lock in your standard\n\u2022 Step 2: Eliminate distractions\n\u2022 Step 3: Execute without emotion\n\nFeaturing Ken.\n\nWill you implement this today? Tell us below! \ud83d\udc47\n\n#Shorts #Performance #DailyHabits"
                 }
               },
-              "active_variant": "A",
-              "test_status": "ACTIVE_TEST",
+              "active_variant": "B",
+              "test_status": "WINNER_LOCKED",
               "variant_history": [
                 {
                   "variant": "A",
@@ -1778,11 +1773,13 @@
                 }
               ],
               "metrics": {
-                "views": 0,
-                "likes": 0,
+                "views": 1158,
+                "likes": 22,
                 "comments": 0,
                 "retention": 0.0,
-                "ctr": 0.0
+                "ctr": 0.0,
+                "velocity_vph": 37.28,
+                "engagement_pct": 1.9
               }
             },
             "reframed": "gaming_split"
@@ -1801,13 +1798,23 @@
             "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1791972067_0_master.mp4",
             "duration": 28.0,
             "hook_summary": "Ken shows off the hilarious and chaotic 2.3 brainrot cycle deck.",
-            "reframed": "gaming_split"
+            "reframed": "gaming_split",
+            "metadata": {
+              "metrics": {
+                "views": 1346,
+                "likes": 19,
+                "comments": 0,
+                "velocity_vph": 39.5,
+                "engagement_pct": 1.41
+              },
+              "test_status": "WINNER_LOCKED"
+            }
           },
           {
             "id": "ken_1792058819_0",
             "source_video": "they added gifs",
             "creator": "Ken",
-            "title": "The 1HP Skeleton That Saved Everything \ud83d\udc80",
+            "title": "Why Sparky is Actually UNSTOPPABLE \u26a1",
             "publish_at": "2026-10-17T00:15:00Z",
             "status": "PUBLISHED",
             "uploaded": true,
@@ -1818,8 +1825,8 @@
             "duration": 20.41,
             "hook_summary": "The creator reacts with disbelief to a narrow escape during a intense match, then explains the overpowered synergy between Sparky and Minion Horde.",
             "metadata": {
-              "title": "The 1HP Skeleton That Saved Everything \ud83d\udc80",
-              "description": "Ken witnesses one of the luckiest saves in gaming history before revealing a hidden synergy that breaks the meta.\n\n\u2022 How a single unit creates the ultimate path for Sparky\n\u2022 The psychological pressure of high-cost combos\n\u2022 Perfect timing for the Synergy Strategy\n\nFeaturing: Ken\n\nWas this pure skill or just the luckiest skeleton placement ever? Let us know in the comments.\n\n#shorts #ken #clashroyale #gaming #luck #sparky",
+              "title": "Why Sparky is Actually UNSTOPPABLE \u26a1",
+              "description": "Most players think Sparky is a liability, but Ken proves why this specific duo makes opponents rage-quit instantly.\n\n\u2022 Why Minion Horde is the perfect Sparky shield\n\u2022 Exploiting opponent spell cycles for massive damage\n\u2022 The synergy secret top players aren't telling you\n\nFeaturing: Ken\n\nIs Sparky the most toxic card in the game right now, or is it just misunderstood? \n\n#shorts #ken #clashroyale #gaming #strategy #broken",
               "tags": [
                 "Sparky",
                 "Clash Royale",
@@ -1850,8 +1857,8 @@
                   "description": "Master the Sparky Synergy Strategy with Ken\u2019s breakdown of the ultimate offensive push for high-ladder wins.\n\n\u2022 Setup requirements for the Minion Horde bridge spam\n\u2022 How to bait out heavy spells like Rocket or Lightning\n\u2022 Managing elixir for the perfect counter-push\n\nFeaturing: Ken\n\nWhat is your absolute favorite counter for a Sparky push? \n\n#shorts #ken #clashroyale #strategy #gamingtips #sparky"
                 }
               },
-              "active_variant": "A",
-              "test_status": "ACTIVE_TEST",
+              "active_variant": "B",
+              "test_status": "WINNER_LOCKED",
               "variant_history": [
                 {
                   "variant": "A",
@@ -1861,11 +1868,13 @@
                 }
               ],
               "metrics": {
-                "views": 0,
-                "likes": 0,
-                "comments": 0,
+                "views": 1256,
+                "likes": 18,
+                "comments": 1,
                 "retention": 0.0,
-                "ctr": 0.0
+                "ctr": 0.0,
+                "velocity_vph": 26.27,
+                "engagement_pct": 1.51
               }
             },
             "reframed": "gaming_split"
@@ -1874,7 +1883,7 @@
             "id": "ken_return_of_peak",
             "source_video": "return of peak",
             "creator": "Ken",
-            "title": "I spent 10,000 hours in a hospital...",
+            "title": "Why I played games in the hospital",
             "publish_at": "2026-10-16T20:30:00Z",
             "status": "PUBLISHED",
             "uploaded": true,
@@ -1885,8 +1894,8 @@
             "duration": 21.99,
             "hook_summary": "The creator explains how 10,000 hours spent waiting in a hospital led to him randomly building deck variations for Clash Royale.",
             "metadata": {
-              "title": "I spent 10,000 hours in a hospital...",
-              "description": "How do you survive thousands of hours in a hospital waiting room? Ken reveals the obsession that kept him sane during the hardest times of his life.\n\n* Turning extreme boredom into a creative outlet.\n* Why this specific game became his mental escape.\n* The power of deep-focus distractions during long waits.\n\nFeaturing: Ken\n\nWhat is the one game or hobby you would choose if you were stuck in a hospital for months? Let us know below.\n\n#shorts #ken #hospital #gaming #storytime #clashroyale",
+              "title": "Why I played games in the hospital",
+              "description": "Most people judge hospital patients for 'wasting time' on screens, but this obsession actually saved his mental health.\n\n* Why screen time isn't always the enemy.\n* The hidden benefits of complex deck building.\n* How repetition can provide stability in chaotic environments.\n\nFeaturing: Ken\n\nIs gaming a legitimate way to cope with trauma, or just a mindless distraction? Drop your take in the comments.\n\n#shorts #ken #mentalhealth #clashroyale #gaminglife #perspective",
               "tags": [
                 "Clash Royale",
                 "hospital story",
@@ -1917,8 +1926,8 @@
                   "description": "Ken breaks down the exact method he used to master his craft during 10,000 hours of forced downtime in a hospital.\n\n* How to gamify your environment to boost skill acquisition.\n* Finding focus when the world around you is falling apart.\n* The strategy of turning 'waiting' into 'training'.\n\nFeaturing: Ken\n\nWhat is one skill you think you could master if you had 10,000 hours of uninterrupted time? Share your thoughts below!\n\n#shorts #ken #productivity #learning #clashroyale #focus"
                 }
               },
-              "active_variant": "A",
-              "test_status": "ACTIVE_TEST",
+              "active_variant": "B",
+              "test_status": "WINNER_LOCKED",
               "variant_history": [
                 {
                   "variant": "A",
@@ -1928,11 +1937,13 @@
                 }
               ],
               "metrics": {
-                "views": 0,
-                "likes": 0,
-                "comments": 0,
+                "views": 1301,
+                "likes": 11,
+                "comments": 1,
                 "retention": 0.0,
-                "ctr": 0.0
+                "ctr": 0.0,
+                "velocity_vph": 25.23,
+                "engagement_pct": 0.92
               }
             },
             "reframed": "gaming_split"
@@ -1941,7 +1952,7 @@
             "id": "ken_perfected_deck",
             "source_video": "perfected my deck",
             "creator": "Ken",
-            "title": "Why Pro Players Dropped The Cannon",
+            "title": "Cannon Users Are Doing It Wrong",
             "publish_at": "2026-10-16T16:00:00Z",
             "status": "PUBLISHED",
             "uploaded": true,
@@ -1952,8 +1963,8 @@
             "duration": 57.19,
             "hook_summary": "The creator passionately debates why the Evolution Hunter outperforms the Cannon in competitive play, breaking down the mechanics of a high-tier counter-push strategy.",
             "metadata": {
-              "title": "Why Pro Players Dropped The Cannon",
-              "description": "Stop relying on the Cannon and start winning more high-tier matches. Discover the hidden mechanic that makes the Evo Hunter a superior choice for your deck.\n\n* The secret mechanics behind the Evo Hunter.\n* Why your defensive strategy is currently failing.\n* How to master the high-tier counter-push.\n\nFeaturing: Ken\n\nIs the Cannon officially dead in the current meta? Let us know your thoughts below.\n\n#clashroyale #gaming #strategy #evolutions #ken",
+              "title": "Cannon Users Are Doing It Wrong",
+              "description": "I love the Cannon, but it is holding you back. It is time to face the truth about why the Evo Hunter is the only logical upgrade for competitive play.\n\n* Challenging the defensive meta.\n* Why sentimental value ruins your win rate.\n* The specific scenarios where the Cannon fails.\n\nFeaturing: Ken\n\nDo you prioritize loyalty to a card over winning matches? Tell us why in the comments.\n\n#clashroyale #gamingtips #meta #evolutions #mobilegaming",
               "tags": [
                 "Clash Royale",
                 "Evo Hunter",
@@ -1983,8 +1994,8 @@
                   "description": "Want to rank up faster? Use this exact breakdown to determine when to swap your defensive structure for the Evo Hunter's offensive firepower.\n\n* Step-by-step counter-push guide.\n* Comparing raw value per elixir spent.\n* How to optimize your defensive rotations.\n\nFeaturing: Ken\n\nWould you take an Evo Hunter over a maxed-out Cannon in a tournament setting? Sound off!\n\n#clashroyale #prometa #gaming #strategies #evolutions"
                 }
               },
-              "active_variant": "A",
-              "test_status": "ACTIVE_TEST",
+              "active_variant": "B",
+              "test_status": "WINNER_LOCKED",
               "variant_history": [
                 {
                   "variant": "A",
@@ -1994,11 +2005,13 @@
                 }
               ],
               "metrics": {
-                "views": 0,
-                "likes": 0,
-                "comments": 0,
+                "views": 857,
+                "likes": 16,
+                "comments": 1,
                 "retention": 0.0,
-                "ctr": 0.0
+                "ctr": 0.0,
+                "velocity_vph": 15.28,
+                "engagement_pct": 1.98
               }
             },
             "reframed": "gaming_split"
@@ -2007,7 +2020,7 @@
             "id": "ken_least_busted",
             "source_video": "least busted card",
             "creator": "Ken",
-            "title": "Why This Troll Deck Is Unstoppable",
+            "title": "Stop Defending Bridge Spam Wrong",
             "publish_at": "2026-10-16T00:15:00Z",
             "status": "PUBLISHED",
             "uploaded": true,
@@ -2018,8 +2031,8 @@
             "duration": 33.21,
             "hook_summary": "The speaker reveals his 'miserable to defend' troll deck strategy and explains why it only takes one push to win.",
             "metadata": {
-              "title": "Why This Troll Deck Is Unstoppable",
-              "description": "Most players lose because they don't understand the hidden mechanics of bridge spam. Discover the one-push strategy that makes defending against this deck a nightmare.\n\n* Master the art of the singular, game-ending push.\n* Learn why 'troll' decks often break competitive defense meta.\n* The exact timing window you need to secure the win.\n\nFeaturing: Ken\n\nIs this deck actually 'low skill' or just misunderstood genius? Sound off below.\n\n#clashroyale #gaming #strategy #tipsandtricks #shorts",
+              "title": "Stop Defending Bridge Spam Wrong",
+              "description": "You've been taught to defend bridge spam incorrectly, and that\u2019s why you\u2019re losing. This deck proves that pure aggression beats calculated defense every time.\n\n* Why defensive play is a trap against this specific build.\n* The secret to making your opponent panic with one push.\n* How to weaponize a 'troll' deck to climb the ladder.\n\nFeaturing: Ken\n\nIf you could ban one card from existence to stop bridge spam, what would it be?\n\n#gaming #clashroyale #deckguide #winrate #shorts",
               "tags": [
                 "clash royale",
                 "bridge spam",
@@ -2049,8 +2062,8 @@
                   "description": "Stop struggling with long, drawn-out matches. Use this precise bridge spam protocol to overwhelm your opponent\u2019s defense in a single move.\n\n* The step-by-step setup for an unstoppable bridge spam push.\n* How to identify when your opponent has already lost the game.\n* Leveraging the 'troll' element for maximum psychological pressure.\n\nFeaturing: Ken\n\nWould you rather win with a 'skill' deck or a 'troll' deck? Tell us your preference.\n\n#gaming #protips #clashroyale #strategy #shorts"
                 }
               },
-              "active_variant": "A",
-              "test_status": "ACTIVE_TEST",
+              "active_variant": "B",
+              "test_status": "WINNER_LOCKED",
               "variant_history": [
                 {
                   "variant": "A",
@@ -2060,11 +2073,13 @@
                 }
               ],
               "metrics": {
-                "views": 0,
-                "likes": 0,
-                "comments": 0,
+                "views": 1231,
+                "likes": 9,
+                "comments": 2,
                 "retention": 0.0,
-                "ctr": 0.0
+                "ctr": 0.0,
+                "velocity_vph": 17.14,
+                "engagement_pct": 0.89
               }
             },
             "reframed": "gaming_split"
@@ -2073,7 +2088,7 @@
             "id": "ken_new_barrel",
             "source_video": "the new barrel",
             "creator": "Ken",
-            "title": "The Dirtiest Goblin Barrel Placement in History #Shorts",
+            "title": "Ken: Stop Making This Mistake #Shorts",
             "publish_at": "2026-10-15T20:30:00Z",
             "status": "PUBLISHED",
             "uploaded": true,
@@ -2084,8 +2099,8 @@
             "duration": 58.0,
             "hook_summary": "Essential discussion and core insight",
             "metadata": {
-              "title": "The Dirtiest Goblin Barrel Placement in History #Shorts",
-              "description": "Opponent never saw this sneaky goblin barrel coming...\n\nFeaturing: @kenforrest\n\nDid he predict the log or get lucky? Drop a comment \ud83d\udc47\n\n#Shorts #ClashRoyale #Ken #GamingMemes #ClashRoyaleMemes",
+              "title": "Ken: Stop Making This Mistake #Shorts",
+              "description": "Essential discussion and core insight\n\nKey Takeaways:\n\u2022 Why the common approach fails\n\u2022 The shift high performers make\n\u2022 Practical daily application\n\nFeaturing Ken.\n\nDo you agree with this? Let us know below! \ud83d\udc47\n\n#Shorts #Discipline #Growth",
               "tags": [
                 "Shorts",
                 "ClashRoyale",
@@ -2112,8 +2127,8 @@
                   "description": "Essential discussion and core insight\n\nKey Takeaways:\n\u2022 Step 1: Lock in your standard\n\u2022 Step 2: Eliminate distractions\n\u2022 Step 3: Execute without emotion\n\nFeaturing Ken.\n\nWill you implement this today? Tell us below! \ud83d\udc47\n\n#Shorts #Performance #DailyHabits"
                 }
               },
-              "active_variant": "A",
-              "test_status": "ACTIVE_TEST",
+              "active_variant": "B",
+              "test_status": "WINNER_LOCKED",
               "variant_history": [
                 {
                   "variant": "A",
@@ -2123,11 +2138,13 @@
                 }
               ],
               "metrics": {
-                "views": 0,
-                "likes": 0,
-                "comments": 0,
+                "views": 1274,
+                "likes": 16,
+                "comments": 3,
                 "retention": 0.0,
-                "ctr": 0.0
+                "ctr": 0.0,
+                "velocity_vph": 16.86,
+                "engagement_pct": 1.49
               }
             },
             "reframed": "gaming_split"
@@ -2136,7 +2153,7 @@
             "id": "ken_hp_buffed",
             "source_video": "hp buffed",
             "creator": "Ken",
-            "title": "The One Card Everyone Fears...",
+            "title": "Why Winning Requires Bad Cards",
             "publish_at": "2026-10-15T16:00:00Z",
             "status": "PUBLISHED",
             "uploaded": true,
@@ -2147,8 +2164,8 @@
             "duration": 57.04,
             "hook_summary": "Essential discussion and core insight",
             "metadata": {
-              "title": "The One Card Everyone Fears...",
-              "description": "Ken explains why the one card you hate seeing is actually your biggest test of character. Most people fold the moment things look bad, but here is how you play it to win.\n\n\u2022 Identify hidden opportunities in setbacks\n\u2022 Master emotional control during high stakes\n\u2022 Why your 'bad hand' is your best teacher\n\nFeaturing: Ken\n\nIf you were dealt a losing hand today, would you walk away or double down? Let's settle this in the comments.\n\n#shorts #ken #mindset #strategy #success #growth",
+              "title": "Why Winning Requires Bad Cards",
+              "description": "Most people think you need luck to win, but Ken argues that the 'worst' cards are where the real skill is shown. Stop waiting for the perfect setup and start using the hand you have.\n\n\u2022 Why comfort is a trap in competition\n\u2022 Turning a disadvantage into a surprise attack\n\u2022 The mindset shift that beats luck every time\n\nFeaturing: Ken\n\nIs it better to have a perfect hand or a perfect strategy? Sound off below.\n\n#shorts #ken #psychology #competition #winning #mindset",
               "tags": [
                 "ken",
                 "strategy",
@@ -2179,8 +2196,8 @@
                   "description": "Ken breaks down the exact protocol for handling a bad hand and still coming out on top. This is the framework for high-level resilience and tactical pivoting.\n\n\u2022 Step-by-step strategy for pivoting mid-game\n\u2022 How to mask your weakness from opponents\n\u2022 The 'Win Anyway' mental framework\n\nFeaturing: Ken\n\nWhat is your go-to move when things don't go according to plan? Share your protocol.\n\n#shorts #ken #productivity #resilience #strategy #advice"
                 }
               },
-              "active_variant": "A",
-              "test_status": "ACTIVE_TEST",
+              "active_variant": "B",
+              "test_status": "WINNER_LOCKED",
               "variant_history": [
                 {
                   "variant": "A",
@@ -2190,11 +2207,13 @@
                 }
               ],
               "metrics": {
-                "views": 0,
-                "likes": 0,
-                "comments": 0,
+                "views": 1217,
+                "likes": 9,
+                "comments": 1,
                 "retention": 0.0,
-                "ctr": 0.0
+                "ctr": 0.0,
+                "velocity_vph": 15.2,
+                "engagement_pct": 0.82
               }
             },
             "reframed": "gaming_split"
@@ -2226,7 +2245,15 @@
                   "hook_angle": "Meta / Guide",
                   "description": "The exact cycle and defense needed to stop this toxic deck.\n\nFeaturing: @kenforrest\n\nWhich deck gives you the hardest time right now? \ud83d\udc47\n\n#Shorts #ClashRoyale #KenClashRoyale #Gaming"
                 }
-              }
+              },
+              "metrics": {
+                "views": 812,
+                "likes": 12,
+                "comments": 0,
+                "velocity_vph": 8.47,
+                "engagement_pct": 1.48
+              },
+              "test_status": "WINNER_LOCKED"
             },
             "youtube_video_id": "78_GRpovluw",
             "youtube_url": "https://www.youtube.com/shorts/78_GRpovluw",
@@ -2263,7 +2290,15 @@
                   "hook_angle": "Strategy / Masterclass",
                   "description": "Full breakdown of how the barrel timing lets you bypass the tower.\n\nFeaturing: @kenforrest\n\nHave you tried this tech on ladder yet? \ud83d\udc47\n\n#Shorts #ClashRoyale #Ken #ShortsFeed"
                 }
-              }
+              },
+              "metrics": {
+                "views": 898,
+                "likes": 7,
+                "comments": 1,
+                "velocity_vph": 9.02,
+                "engagement_pct": 0.89
+              },
+              "test_status": "WINNER_LOCKED"
             },
             "youtube_video_id": "wio8IxcOaXM",
             "youtube_url": "https://www.youtube.com/shorts/wio8IxcOaXM",
@@ -2308,7 +2343,15 @@
                   "hook_angle": "Meta / High-IQ Breakdown",
                   "description": "The exact reason this interaction is completely ruining top ladder right now.\n\nFeaturing: @kenforrest\n\nWould you use this card in Grand Challenges? Let us know below \ud83d\udc47\n\n#Shorts #ClashRoyale #Ken #GamingShorts"
                 }
-              }
+              },
+              "metrics": {
+                "views": 310,
+                "likes": 4,
+                "comments": 2,
+                "velocity_vph": 2.98,
+                "engagement_pct": 1.94
+              },
+              "test_status": "WINNER_LOCKED"
             },
             "reframed": "gaming_split"
           }
@@ -2316,16 +2359,89 @@
       },
       "analytics": {
         "summary": {
-          "total_views": 0,
+          "total_views": 13055,
           "shorts_published": 0,
-          "total_likes": 0,
+          "total_likes": 160,
           "avg_retention_pct": 82.5,
           "avg_ctr_pct": 14.8,
           "total_subscribers_gained": 0,
           "estimated_revenue_usd": 0.0,
-          "health_grade": "A+"
+          "health_grade": "A+",
+          "total_shorts_published": 18,
+          "last_audit": 1792368271.3492138
         },
-        "top_shorts": [],
+        "top_shorts": [
+          {
+            "title": "Stop Sleeping on Evo Minion Horde...",
+            "creator": "Ken",
+            "views": 859,
+            "velocity": 85.35,
+            "angle": "Contrarian Truth"
+          },
+          {
+            "title": "Don't play Minecraft for views.",
+            "creator": "Ken",
+            "views": 460,
+            "velocity": 21.08,
+            "angle": "Contrarian Truth"
+          },
+          {
+            "title": "Ken: Stop Making This Mistake #Shorts",
+            "creator": "Ken",
+            "views": 1158,
+            "velocity": 37.28,
+            "angle": "Contrarian Truth"
+          },
+          {
+            "title": "KEN BROKE CLASH ROYALE WITH THIS DECK #Shorts",
+            "creator": "Ken",
+            "views": 1346,
+            "velocity": 39.5,
+            "angle": "High Velocity"
+          },
+          {
+            "title": "Why Sparky is Actually UNSTOPPABLE \u26a1",
+            "creator": "Ken",
+            "views": 1256,
+            "velocity": 26.27,
+            "angle": "Contrarian Truth"
+          },
+          {
+            "title": "Why I played games in the hospital",
+            "creator": "Ken",
+            "views": 1301,
+            "velocity": 25.23,
+            "angle": "Contrarian Truth"
+          },
+          {
+            "title": "Cannon Users Are Doing It Wrong",
+            "creator": "Ken",
+            "views": 857,
+            "velocity": 15.28,
+            "angle": "Contrarian Truth"
+          },
+          {
+            "title": "Stop Defending Bridge Spam Wrong",
+            "creator": "Ken",
+            "views": 1231,
+            "velocity": 17.14,
+            "angle": "Contrarian Truth"
+          },
+          {
+            "title": "Ken: Stop Making This Mistake #Shorts",
+            "creator": "Ken",
+            "views": 1274,
+            "velocity": 16.86,
+            "angle": "Contrarian Truth"
+          },
+          {
+            "title": "Why Winning Requires Bad Cards",
+            "creator": "Ken",
+            "views": 1217,
+            "velocity": 15.2,
+            "angle": "Contrarian Truth"
+          }
+        ],
         "ab_test_learnings": [
           "Gaming benchmark established: High-volume rage/disaster hooks typically yield +34% higher initial retention than neutral titles.",
           "Toxic BM / Karma angles convert to comments at 2.4x standard rate in Clash Royale niche."
@@ -5195,14 +5311,14 @@
       "current_task": "Queue up to date. Waiting for next daily Ken upload.",
       "last_completed_task": "Ingested 5 recent Ken master videos into source pool",
       "recent_logs": [
-        "[19:55:05] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
-        "[19:55:19] Queue up to date. Waiting for next daily Ken upload.",
         "[19:57:19] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
         "[19:57:32] Queue up to date. Waiting for next daily Ken upload.",
         "[19:59:32] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
         "[19:59:45] Queue up to date. Waiting for next daily Ken upload.",
         "[20:01:45] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
-        "[20:01:59] Queue up to date. Waiting for next daily Ken upload."
+        "[20:01:59] Queue up to date. Waiting for next daily Ken upload.",
+        "[20:03:59] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
+        "[20:04:12] Queue up to date. Waiting for next daily Ken upload."
       ]
     },
     "STRATEGIST": {
@@ -5210,14 +5326,14 @@
       "current_task": "Buffer healthy: 10/10 scheduled Ken Shorts staged.",
       "last_completed_task": "Mapped 3 distinct viral gaming hook angles for initial drops",
       "recent_logs": [
-        "[19:46:27] Buffer healthy: 10/10 scheduled Ken Shorts staged.",
         "[19:48:39] Buffer healthy: 10/10 scheduled Ken Shorts staged.",
         "[19:50:52] Buffer healthy: 10/10 scheduled Ken Shorts staged.",
         "[19:53:05] Buffer healthy: 10/10 scheduled Ken Shorts staged.",
         "[19:55:19] Buffer healthy: 10/10 scheduled Ken Shorts staged.",
         "[19:57:32] Buffer healthy: 10/10 scheduled Ken Shorts staged.",
         "[19:59:45] Buffer healthy: 10/10 scheduled Ken Shorts staged.",
-        "[20:01:59] Buffer healthy: 10/10 scheduled Ken Shorts staged."
+        "[20:01:59] Buffer healthy: 10/10 scheduled Ken Shorts staged.",
+        "[20:04:12] Buffer healthy: 10/10 scheduled Ken Shorts staged."
       ]
     },
     "EDITOR": {
@@ -5261,17 +5377,17 @@
     },
     "ANALYST": {
       "status": "working",
-      "current_task": "Auditing velocity of active Ken Clash Royale Shorts...",
+      "current_task": "Telemetry Audit: 13,055 views (18 shorts). Auto-pivoted 1 stalled title(s).",
       "last_completed_task": "Calibrated gaming threshold: >15 views/hr within 4h",
       "recent_logs": [
-        "[19:46:27] Auditing velocity of active Ken Clash Royale Shorts...",
-        "[19:48:39] Auditing velocity of active Ken Clash Royale Shorts...",
-        "[19:50:52] Auditing velocity of active Ken Clash Royale Shorts...",
-        "[19:53:05] Auditing velocity of active Ken Clash Royale Shorts...",
         "[19:55:19] Auditing velocity of active Ken Clash Royale Shorts...",
         "[19:57:32] Auditing velocity of active Ken Clash Royale Shorts...",
         "[19:59:45] Auditing velocity of active Ken Clash Royale Shorts...",
-        "[20:01:59] Auditing velocity of active Ken Clash Royale Shorts..."
+        "[20:01:59] Auditing velocity of active Ken Clash Royale Shorts...",
+        "[20:03:35] Telemetry Audit: 0 views (18 shorts). Auto-pivoted 13 stalled title(s).",
+        "[20:04:10] Auditing velocity of active Ken Clash Royale Shorts: name 'vid' is not defined",
+        "[20:04:12] Auditing velocity of active Ken Clash Royale Shorts...",
+        "[20:04:31] Telemetry Audit: 13,055 views (18 shorts). Auto-pivoted 1 stalled title(s)."
       ]
     },
     "WATCHDOG": {
@@ -5279,14 +5395,14 @@
       "current_task": "Verifying Supercell fan policy: 0 claims, 0 strikes.",
       "last_completed_task": "Audited source parameters: strictly <30s segment rule active",
       "recent_logs": [
-        "[19:46:27] Verifying Supercell fan policy: 0 claims, 0 strikes.",
         "[19:48:39] Verifying Supercell fan policy: 0 claims, 0 strikes.",
         "[19:50:52] Verifying Supercell fan policy: 0 claims, 0 strikes.",
         "[19:53:05] Verifying Supercell fan policy: 0 claims, 0 strikes.",
         "[19:55:19] Verifying Supercell fan policy: 0 claims, 0 strikes.",
         "[19:57:32] Verifying Supercell fan policy: 0 claims, 0 strikes.",
         "[19:59:45] Verifying Supercell fan policy: 0 claims, 0 strikes.",
-        "[20:01:59] Verifying Supercell fan policy: 0 claims, 0 strikes."
+        "[20:01:59] Verifying Supercell fan policy: 0 claims, 0 strikes.",
+        "[20:04:12] Verifying Supercell fan policy: 0 claims, 0 strikes."
       ]
     }
   },
@@ -6415,7 +6531,7 @@
               "description": "When the game is on the line and you have zero time left on the clock, you need a strict mental protocol to survive. Ken breaks down the exact mindset required to execute a game-winning defensive stop when failure means instant defeat.\n\n- Identify the single variable that matters most in the final seconds.\n- Eliminate panic by focusing entirely on your immediate execution.\n- Master the art of converting a defensive block into a definitive win.\n\nFeaturing: Ken\n\nWhat is your go-to strategy when you're one hit away from losing?\n\n#shorts #gamingtips #strategy #gamer #skills #ken"
             }
           },
-          "active_variant": "A",
+          "active_variant": "B",
           "test_status": "ACTIVE_TEST",
           "variant_history": [
             {
@@ -6423,12 +6539,6 @@
               "title": "How did he survive this impossible final second?",
               "deployed_at": 1792213808.4222238,
               "reason": "Initial A/B test deployment"
-            },
-            {
-              "title": "Stop playing safe when the timer hits zero.",
-              "updated_at": 1792368209.999697,
-              "reason": "A/B Optimization: Variant A underperformed (0.0 VPH)",
-              "live_updated": false
             }
           ],
           "metrics": {
@@ -6436,7 +6546,9 @@
             "likes": 0,
             "comments": 0,
             "retention": 0.0,
-            "ctr": 0.0
+            "ctr": 0.0,
+            "velocity_vph": 0.0,
+            "engagement_pct": 0.0
           }
         },
         "reframed": "gaming_split"
@@ -6487,7 +6599,7 @@
               "description": "Want to win unwinnable matches? Here is the exact blueprint for turning a disastrous starting hand into a masterclass victory in Clash Royale.\n\n\u2022 Memorize the 3-second opening evaluation rule for every deck archetype.\n\u2022 Execute the counter-push trap to punish greedy first plays.\n\u2022 Take control of the elixir advantage before the single elixir phase even ends.\n\nFeaturing: Ken\n\nWhat is your go-to opening play when your starting hand is absolute trash?\n\n#shorts #clashroyale #protips #gaming #clashroyaletips #ken"
             }
           },
-          "active_variant": "A",
+          "active_variant": "B",
           "test_status": "ACTIVE_TEST",
           "variant_history": [
             {
@@ -6495,12 +6607,6 @@
               "title": "How he won the worst matchup ever...",
               "deployed_at": 1792213612.6975832,
               "reason": "Initial A/B test deployment"
-            },
-            {
-              "title": "Bad matchups don't exist.",
-              "updated_at": 1792368210.577614,
-              "reason": "A/B Optimization: Variant A underperformed (0.0 VPH)",
-              "live_updated": false
             }
           ],
           "metrics": {
@@ -6508,7 +6614,9 @@
             "likes": 0,
             "comments": 0,
             "retention": 0.0,
-            "ctr": 0.0
+            "ctr": 0.0,
+            "velocity_vph": 0.0,
+            "engagement_pct": 0.0
           }
         },
         "reframed": "gaming_split"
@@ -6559,7 +6667,7 @@
               "description": "Stop overthinking every move and apply the ultimate wing-it framework. Ken reveals what happens when you substitute pure vibes for actual tactical knowledge.\n\n\u2022 Rule 1: Always commit even when completely lost\n\u2022 Rule 2: Convert panic into instant aggressive action\n\u2022 Rule 3: Never admit defeat until the final screen\n\nFeaturing: Ken\n\nWhat's your go-to strategy when you have no idea what you're doing in a game?\n\n#shorts #ken #gamingskills #gamer #gamingtips #funnygaming"
             }
           },
-          "active_variant": "A",
+          "active_variant": "B",
           "test_status": "ACTIVE_TEST",
           "variant_history": [
             {
@@ -6567,20 +6675,16 @@
               "title": "He Survived 5 Nights Doing THIS?",
               "deployed_at": 1792213421.369306,
               "reason": "Initial A/B test deployment"
-            },
-            {
-              "title": "Skill Is Overrated In Gaming",
-              "updated_at": 1792368211.068882,
-              "reason": "A/B Optimization: Variant A underperformed (0.0 VPH)",
-              "live_updated": false
             }
           ],
           "metrics": {
-            "views": 0,
-            "likes": 0,
+            "views": 61,
+            "likes": 1,
             "comments": 0,
             "retention": 0.0,
-            "ctr": 0.0
+            "ctr": 0.0,
+            "velocity_vph": 8.63,
+            "engagement_pct": 1.64
           }
         },
         "reframed": "gaming_split"
@@ -6631,28 +6735,24 @@
               "description": "Want to melt heavy pushes in seconds? Here is the exact strategic blueprint Ken used to unleash the Sparky and Evo Minion Horde synergy.\n\n\u2022 Force out low-cost spells before dropping your Horde\n\u2022 Protect Sparky using high-DPS swarm distractions\n\u2022 Capitalize instantly on heavy elixir commitments\n\nFeaturing: Ken\n\nWhat is the single best counter card to stop this push cold? Drop your strategy below!\n\n#shorts #clashroyale #gamingtips #sparky #ken"
             }
           },
-          "active_variant": "A",
-          "test_status": "ACTIVE_TEST",
+          "active_variant": "B",
+          "test_status": "WINNER_LOCKED",
           "variant_history": [
             {
               "variant": "A",
               "title": "I Accidentally Found the Deadliest Synergy...",
               "deployed_at": 1792213226.9957519,
               "reason": "Initial A/B test deployment"
-            },
-            {
-              "title": "Stop Sleeping on Evo Minion Horde...",
-              "updated_at": 1792368211.524812,
-              "reason": "A/B Optimization: Variant A underperformed (0.0 VPH)",
-              "live_updated": false
             }
           ],
           "metrics": {
-            "views": 0,
-            "likes": 0,
+            "views": 859,
+            "likes": 11,
             "comments": 0,
             "retention": 0.0,
-            "ctr": 0.0
+            "ctr": 0.0,
+            "velocity_vph": 85.35,
+            "engagement_pct": 1.28
           }
         },
         "reframed": "gaming_split"
@@ -6661,7 +6761,7 @@
         "id": "ken_1792212492_1",
         "source_video": "weirdest buff ever [Overtime Battle]",
         "creator": "Ken",
-        "title": "Almost made this massive mistake...",
+        "title": "Don't play Minecraft for views.",
         "publish_at": "2026-10-18T02:15:00Z",
         "status": "PUBLISHED",
         "uploaded": true,
@@ -6672,8 +6772,8 @@
         "duration": 21.83,
         "hook_summary": "The speaker shares a close call with making a Minecraft video, deciding it would be a mistake for themselves and their audience.",
         "metadata": {
-          "title": "Almost made this massive mistake...",
-          "description": "Ken almost hit record on a video that could have changed everything\u2014until he realized the hidden trap. In this short, he shares the exact moment he pulled the plug on an idea that seemed great on the surface. Find out why some content is better left unmade.\n\n\u2022 The temptation of chasing trending topics vs. protecting your brand\n\u2022 Recognizing the subtle red flags of a bad content idea\n\u2022 Why sometimes the best video is the one you never publish\n\nFeaturing: Ken\n\nWould you have posted it anyway for the views, or did he make the right call?\n\n#shorts #ken #minecraft #contentcreator #gaming #decisionmaking",
+          "title": "Don't play Minecraft for views.",
+          "description": "Everyone says jump on the biggest gaming trends to grow your channel, but Ken reveals why doing a Minecraft video last night almost ruined his entire strategy. Chasing easy algorithms can silently kill your long-term connection with your audience.\n\n\u2022 The hidden danger of pivoting just for algorithm spikes\n\u2022 How one wrong video can confuse your core community\n\u2022 Prioritizing creative integrity over quick view counts\n\nFeaturing: Ken\n\nIs chasing trends a smart strategy or a fast track to burning out?\n\n#shorts #ken #minecraft #gamingnews #youtubetips #strategy",
           "tags": [
             "minecraft video regrets",
             "ken shorts",
@@ -6703,8 +6803,8 @@
               "description": "Ken shares his personal filtering system for deciding whether a video idea is actually worth the upload. Learn the exact boundary-check he used last night to stop a potential mistake before it even made it to the editing timeline.\n\n\u2022 The 24-hour reality check for impulse content creation\n\u2022 Evaluating the true cost of 'easy' viral content\n\u2022 A simple framework to protect your audience's trust\n\nFeaturing: Ken\n\nWhat is your personal rule for scrapping a piece of content you worked hard on?\n\n#shorts #ken #minecraft #creatoreconomy #workflow #productivity"
             }
           },
-          "active_variant": "A",
-          "test_status": "ACTIVE_TEST",
+          "active_variant": "B",
+          "test_status": "WINNER_LOCKED",
           "variant_history": [
             {
               "variant": "A",
@@ -6714,11 +6814,13 @@
             }
           ],
           "metrics": {
-            "views": 0,
-            "likes": 0,
+            "views": 460,
+            "likes": 5,
             "comments": 0,
             "retention": 0.0,
-            "ctr": 0.0
+            "ctr": 0.0,
+            "velocity_vph": 21.08,
+            "engagement_pct": 1.09
           }
         },
         "reframed": "gaming_split"
@@ -6727,7 +6829,7 @@
         "id": "ken_1792212492_0",
         "source_video": "weirdest buff ever [Clutch Moment]",
         "creator": "Ken",
-        "title": "The Most DISGUSTING Clone Combo in Clash Royale \ud83d\udc80 #Shorts",
+        "title": "Why this banned Clone combo is illegal...",
         "publish_at": "2026-10-17T23:30:00Z",
         "status": "PUBLISHED",
         "uploaded": true,
@@ -6738,8 +6840,8 @@
         "duration": 24.69,
         "hook_summary": "The player highlights how surprisingly overpowered the Clone card can be when paired with fast-hitting troops, catching opponents completely off guard.",
         "metadata": {
-          "title": "The Most DISGUSTING Clone Combo in Clash Royale \ud83d\udc80 #Shorts",
-          "description": "Everyone calls the Clone spell a useless troll card until this happens. Watch an entire push vanish and instantly respawn to vaporize the enemy crown tower.\n\n\u2022 The clone synergy that catches every defender off guard\n\u2022 How to bait spell counters before dropping the push\n\u2022 Why top ladder players secretly fear this interaction\n\nFeaturing: Ken\n\nHave you ever lost to a clone deck like this? Let me know below! \ud83d\udc47\n\n#Shorts #ClashRoyale #Ken #Gaming #CloneSpell #Supercell #MobileGaming #ClashRoyaleStrategy",
+          "title": "Why this banned Clone combo is illegal...",
+          "description": "Most players think the Clone card is just a useless gimmick, until you pair it with this one specific troop. Watch how an entire push vanishes and instantly respawns to decimate the enemy tower before they even realize what happened.\n\n\u2022 Discover the exact troop synergy that makes Clone overpowered\n\u2022 See how to bait out opponent spells before dropping the spell\n\u2022 Master the timing to catch defenders completely off guard\n\nFeaturing: Ken\n\nHave you ever actually won a match using only cloned troops, or is this just a one-in-a-million fluke?\n\n#shorts #clashroyale #gaming #clonestrategy #ken #mobilegaming",
           "tags": [
             "Clash Royale",
             "Clone Spell",
@@ -6769,7 +6871,7 @@
               "description": "Stop wasting your elixir on random clone drops. Follow this step-by-step engagement rule to turn a single counter-attack into an unstoppable three-crown victory.\n\n\u2022 The 3-step sequence for executing the ultimate clone push\n\u2022 Exact placement guide to avoid area-damage spells\n\u2022 How to cycle your deck to get Clone back in hand instantly\n\nFeaturing: Ken\n\nWhat is your go-to card to pair with Clone in your main deck?\n\n#shorts #clashroyale #protips #gaming #ken #clonetricks"
             }
           },
-          "active_variant": "B",
+          "active_variant": "A",
           "test_status": "ACTIVE_TEST",
           "variant_history": [
             {
@@ -6780,11 +6882,13 @@
             }
           ],
           "metrics": {
-            "views": 0,
+            "views": 9,
             "likes": 0,
             "comments": 0,
             "retention": 0.0,
-            "ctr": 0.0
+            "ctr": 0.0,
+            "velocity_vph": 0.37,
+            "engagement_pct": 0.0
           }
         },
         "reframed": "gaming_split"
@@ -6818,14 +6922,21 @@
             "Broken Deck",
             "Evo"
           ],
-          "active_variant": "B"
+          "active_variant": "B",
+          "metrics": {
+            "views": 6,
+            "likes": 0,
+            "comments": 0,
+            "velocity_vph": 0.22,
+            "engagement_pct": 0.0
+          }
         }
       },
       {
         "id": "ken_1792158197_0",
         "source_video": "weirdest buff ever",
         "creator": "Ken",
-        "title": "The Real Secret Behind Lava-hound Clone Strat \ud83d\udc80 #Shorts",
+        "title": "Ken: Stop Making This Mistake #Shorts",
         "publish_at": "2026-10-17T17:00:00Z",
         "status": "PUBLISHED",
         "uploaded": true,
@@ -6836,8 +6947,8 @@
         "duration": 24.89,
         "hook_summary": "The creator executes a high-stakes, aggressive Lava-hound and clone play while baiting the opponent's defensive spells to secure massive value.",
         "metadata": {
-          "title": "The Real Secret Behind Lava-hound Clone Strat \ud83d\udc80 #Shorts",
-          "description": "Ken executes an aggressive Lava-hound and Clone play while baiting the opponent's defensive spells to secure massive value.\n\n\u2022 The Lava-hound timing that forces early spells\n\u2022 How to double clone pups for instant tower melt\n\u2022 Why this deck punishes heavy beatdown players\n\nFeaturing: Ken\n\nIs Lava Clone pure cheese or actual skill? Drop your take below! \ud83d\udc47\n\n#Shorts #ClashRoyale #Ken #Gaming #Supercell #MobileGaming #ClashRoyaleStrategy",
+          "title": "Ken: Stop Making This Mistake #Shorts",
+          "description": "The creator executes a high-stakes, aggressive Lava-hound and clone play while baiting the opponent's defensive spells to secure massive value.\n\nKey Takeaways:\n\u2022 Why the common approach fails\n\u2022 The shift high performers make\n\u2022 Practical daily application\n\nFeaturing Ken.\n\nDo you agree with this? Let us know below! \ud83d\udc47\n\n#Shorts #Discipline #Growth",
           "tags": [
             "Clash Royale",
             "Lava Hound",
@@ -6866,8 +6977,8 @@
               "description": "The creator executes a high-stakes, aggressive Lava-hound and clone play while baiting the opponent's defensive spells to secure massive value.\n\nKey Takeaways:\n\u2022 Step 1: Lock in your standard\n\u2022 Step 2: Eliminate distractions\n\u2022 Step 3: Execute without emotion\n\nFeaturing Ken.\n\nWill you implement this today? Tell us below! \ud83d\udc47\n\n#Shorts #Performance #DailyHabits"
             }
           },
-          "active_variant": "A",
-          "test_status": "ACTIVE_TEST",
+          "active_variant": "B",
+          "test_status": "WINNER_LOCKED",
           "variant_history": [
             {
               "variant": "A",
@@ -6877,11 +6988,13 @@
             }
           ],
           "metrics": {
-            "views": 0,
-            "likes": 0,
+            "views": 1158,
+            "likes": 22,
             "comments": 0,
             "retention": 0.0,
-            "ctr": 0.0
+            "ctr": 0.0,
+            "velocity_vph": 37.28,
+            "engagement_pct": 1.9
           }
         },
         "reframed": "gaming_split"
@@ -6900,13 +7013,23 @@
         "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1791972067_0_master.mp4",
         "duration": 28.0,
         "hook_summary": "Ken shows off the hilarious and chaotic 2.3 brainrot cycle deck.",
-        "reframed": "gaming_split"
+        "reframed": "gaming_split",
+        "metadata": {
+          "metrics": {
+            "views": 1346,
+            "likes": 19,
+            "comments": 0,
+            "velocity_vph": 39.5,
+            "engagement_pct": 1.41
+          },
+          "test_status": "WINNER_LOCKED"
+        }
       },
       {
         "id": "ken_1792058819_0",
         "source_video": "they added gifs",
         "creator": "Ken",
-        "title": "The 1HP Skeleton That Saved Everything \ud83d\udc80",
+        "title": "Why Sparky is Actually UNSTOPPABLE \u26a1",
         "publish_at": "2026-10-17T00:15:00Z",
         "status": "PUBLISHED",
         "uploaded": true,
@@ -6917,8 +7040,8 @@
         "duration": 20.41,
         "hook_summary": "The creator reacts with disbelief to a narrow escape during a intense match, then explains the overpowered synergy between Sparky and Minion Horde.",
         "metadata": {
-          "title": "The 1HP Skeleton That Saved Everything \ud83d\udc80",
-          "description": "Ken witnesses one of the luckiest saves in gaming history before revealing a hidden synergy that breaks the meta.\n\n\u2022 How a single unit creates the ultimate path for Sparky\n\u2022 The psychological pressure of high-cost combos\n\u2022 Perfect timing for the Synergy Strategy\n\nFeaturing: Ken\n\nWas this pure skill or just the luckiest skeleton placement ever? Let us know in the comments.\n\n#shorts #ken #clashroyale #gaming #luck #sparky",
+          "title": "Why Sparky is Actually UNSTOPPABLE \u26a1",
+          "description": "Most players think Sparky is a liability, but Ken proves why this specific duo makes opponents rage-quit instantly.\n\n\u2022 Why Minion Horde is the perfect Sparky shield\n\u2022 Exploiting opponent spell cycles for massive damage\n\u2022 The synergy secret top players aren't telling you\n\nFeaturing: Ken\n\nIs Sparky the most toxic card in the game right now, or is it just misunderstood? \n\n#shorts #ken #clashroyale #gaming #strategy #broken",
           "tags": [
             "Sparky",
             "Clash Royale",
@@ -6949,8 +7072,8 @@
               "description": "Master the Sparky Synergy Strategy with Ken\u2019s breakdown of the ultimate offensive push for high-ladder wins.\n\n\u2022 Setup requirements for the Minion Horde bridge spam\n\u2022 How to bait out heavy spells like Rocket or Lightning\n\u2022 Managing elixir for the perfect counter-push\n\nFeaturing: Ken\n\nWhat is your absolute favorite counter for a Sparky push? \n\n#shorts #ken #clashroyale #strategy #gamingtips #sparky"
             }
           },
-          "active_variant": "A",
-          "test_status": "ACTIVE_TEST",
+          "active_variant": "B",
+          "test_status": "WINNER_LOCKED",
           "variant_history": [
             {
               "variant": "A",
@@ -6960,11 +7083,13 @@
             }
           ],
           "metrics": {
-            "views": 0,
-            "likes": 0,
-            "comments": 0,
+            "views": 1256,
+            "likes": 18,
+            "comments": 1,
             "retention": 0.0,
-            "ctr": 0.0
+            "ctr": 0.0,
+            "velocity_vph": 26.27,
+            "engagement_pct": 1.51
           }
         },
         "reframed": "gaming_split"
@@ -6973,7 +7098,7 @@
         "id": "ken_return_of_peak",
         "source_video": "return of peak",
         "creator": "Ken",
-        "title": "I spent 10,000 hours in a hospital...",
+        "title": "Why I played games in the hospital",
         "publish_at": "2026-10-16T20:30:00Z",
         "status": "PUBLISHED",
         "uploaded": true,
@@ -6984,8 +7109,8 @@
         "duration": 21.99,
         "hook_summary": "The creator explains how 10,000 hours spent waiting in a hospital led to him randomly building deck variations for Clash Royale.",
         "metadata": {
-          "title": "I spent 10,000 hours in a hospital...",
-          "description": "How do you survive thousands of hours in a hospital waiting room? Ken reveals the obsession that kept him sane during the hardest times of his life.\n\n* Turning extreme boredom into a creative outlet.\n* Why this specific game became his mental escape.\n* The power of deep-focus distractions during long waits.\n\nFeaturing: Ken\n\nWhat is the one game or hobby you would choose if you were stuck in a hospital for months? Let us know below.\n\n#shorts #ken #hospital #gaming #storytime #clashroyale",
+          "title": "Why I played games in the hospital",
+          "description": "Most people judge hospital patients for 'wasting time' on screens, but this obsession actually saved his mental health.\n\n* Why screen time isn't always the enemy.\n* The hidden benefits of complex deck building.\n* How repetition can provide stability in chaotic environments.\n\nFeaturing: Ken\n\nIs gaming a legitimate way to cope with trauma, or just a mindless distraction? Drop your take in the comments.\n\n#shorts #ken #mentalhealth #clashroyale #gaminglife #perspective",
           "tags": [
             "Clash Royale",
             "hospital story",
@@ -7016,8 +7141,8 @@
               "description": "Ken breaks down the exact method he used to master his craft during 10,000 hours of forced downtime in a hospital.\n\n* How to gamify your environment to boost skill acquisition.\n* Finding focus when the world around you is falling apart.\n* The strategy of turning 'waiting' into 'training'.\n\nFeaturing: Ken\n\nWhat is one skill you think you could master if you had 10,000 hours of uninterrupted time? Share your thoughts below!\n\n#shorts #ken #productivity #learning #clashroyale #focus"
             }
           },
-          "active_variant": "A",
-          "test_status": "ACTIVE_TEST",
+          "active_variant": "B",
+          "test_status": "WINNER_LOCKED",
           "variant_history": [
             {
               "variant": "A",
@@ -7027,11 +7152,13 @@
             }
           ],
           "metrics": {
-            "views": 0,
-            "likes": 0,
-            "comments": 0,
+            "views": 1301,
+            "likes": 11,
+            "comments": 1,
             "retention": 0.0,
-            "ctr": 0.0
+            "ctr": 0.0,
+            "velocity_vph": 25.23,
+            "engagement_pct": 0.92
           }
         },
         "reframed": "gaming_split"
@@ -7040,7 +7167,7 @@
         "id": "ken_perfected_deck",
         "source_video": "perfected my deck",
         "creator": "Ken",
-        "title": "Why Pro Players Dropped The Cannon",
+        "title": "Cannon Users Are Doing It Wrong",
         "publish_at": "2026-10-16T16:00:00Z",
         "status": "PUBLISHED",
         "uploaded": true,
@@ -7051,8 +7178,8 @@
         "duration": 57.19,
         "hook_summary": "The creator passionately debates why the Evolution Hunter outperforms the Cannon in competitive play, breaking down the mechanics of a high-tier counter-push strategy.",
         "metadata": {
-          "title": "Why Pro Players Dropped The Cannon",
-          "description": "Stop relying on the Cannon and start winning more high-tier matches. Discover the hidden mechanic that makes the Evo Hunter a superior choice for your deck.\n\n* The secret mechanics behind the Evo Hunter.\n* Why your defensive strategy is currently failing.\n* How to master the high-tier counter-push.\n\nFeaturing: Ken\n\nIs the Cannon officially dead in the current meta? Let us know your thoughts below.\n\n#clashroyale #gaming #strategy #evolutions #ken",
+          "title": "Cannon Users Are Doing It Wrong",
+          "description": "I love the Cannon, but it is holding you back. It is time to face the truth about why the Evo Hunter is the only logical upgrade for competitive play.\n\n* Challenging the defensive meta.\n* Why sentimental value ruins your win rate.\n* The specific scenarios where the Cannon fails.\n\nFeaturing: Ken\n\nDo you prioritize loyalty to a card over winning matches? Tell us why in the comments.\n\n#clashroyale #gamingtips #meta #evolutions #mobilegaming",
           "tags": [
             "Clash Royale",
             "Evo Hunter",
@@ -7082,8 +7209,8 @@
               "description": "Want to rank up faster? Use this exact breakdown to determine when to swap your defensive structure for the Evo Hunter's offensive firepower.\n\n* Step-by-step counter-push guide.\n* Comparing raw value per elixir spent.\n* How to optimize your defensive rotations.\n\nFeaturing: Ken\n\nWould you take an Evo Hunter over a maxed-out Cannon in a tournament setting? Sound off!\n\n#clashroyale #prometa #gaming #strategies #evolutions"
             }
           },
-          "active_variant": "A",
-          "test_status": "ACTIVE_TEST",
+          "active_variant": "B",
+          "test_status": "WINNER_LOCKED",
           "variant_history": [
             {
               "variant": "A",
@@ -7093,11 +7220,13 @@
             }
           ],
           "metrics": {
-            "views": 0,
-            "likes": 0,
-            "comments": 0,
+            "views": 857,
+            "likes": 16,
+            "comments": 1,
             "retention": 0.0,
-            "ctr": 0.0
+            "ctr": 0.0,
+            "velocity_vph": 15.28,
+            "engagement_pct": 1.98
           }
         },
         "reframed": "gaming_split"
@@ -7106,7 +7235,7 @@
         "id": "ken_least_busted",
         "source_video": "least busted card",
         "creator": "Ken",
-        "title": "Why This Troll Deck Is Unstoppable",
+        "title": "Stop Defending Bridge Spam Wrong",
         "publish_at": "2026-10-16T00:15:00Z",
         "status": "PUBLISHED",
         "uploaded": true,
@@ -7117,8 +7246,8 @@
         "duration": 33.21,
         "hook_summary": "The speaker reveals his 'miserable to defend' troll deck strategy and explains why it only takes one push to win.",
         "metadata": {
-          "title": "Why This Troll Deck Is Unstoppable",
-          "description": "Most players lose because they don't understand the hidden mechanics of bridge spam. Discover the one-push strategy that makes defending against this deck a nightmare.\n\n* Master the art of the singular, game-ending push.\n* Learn why 'troll' decks often break competitive defense meta.\n* The exact timing window you need to secure the win.\n\nFeaturing: Ken\n\nIs this deck actually 'low skill' or just misunderstood genius? Sound off below.\n\n#clashroyale #gaming #strategy #tipsandtricks #shorts",
+          "title": "Stop Defending Bridge Spam Wrong",
+          "description": "You've been taught to defend bridge spam incorrectly, and that\u2019s why you\u2019re losing. This deck proves that pure aggression beats calculated defense every time.\n\n* Why defensive play is a trap against this specific build.\n* The secret to making your opponent panic with one push.\n* How to weaponize a 'troll' deck to climb the ladder.\n\nFeaturing: Ken\n\nIf you could ban one card from existence to stop bridge spam, what would it be?\n\n#gaming #clashroyale #deckguide #winrate #shorts",
           "tags": [
             "clash royale",
             "bridge spam",
@@ -7148,8 +7277,8 @@
               "description": "Stop struggling with long, drawn-out matches. Use this precise bridge spam protocol to overwhelm your opponent\u2019s defense in a single move.\n\n* The step-by-step setup for an unstoppable bridge spam push.\n* How to identify when your opponent has already lost the game.\n* Leveraging the 'troll' element for maximum psychological pressure.\n\nFeaturing: Ken\n\nWould you rather win with a 'skill' deck or a 'troll' deck? Tell us your preference.\n\n#gaming #protips #clashroyale #strategy #shorts"
             }
           },
-          "active_variant": "A",
-          "test_status": "ACTIVE_TEST",
+          "active_variant": "B",
+          "test_status": "WINNER_LOCKED",
           "variant_history": [
             {
               "variant": "A",
@@ -7159,11 +7288,13 @@
             }
           ],
           "metrics": {
-            "views": 0,
-            "likes": 0,
-            "comments": 0,
+            "views": 1231,
+            "likes": 9,
+            "comments": 2,
             "retention": 0.0,
-            "ctr": 0.0
+            "ctr": 0.0,
+            "velocity_vph": 17.14,
+            "engagement_pct": 0.89
           }
         },
         "reframed": "gaming_split"
@@ -7172,7 +7303,7 @@
         "id": "ken_new_barrel",
         "source_video": "the new barrel",
         "creator": "Ken",
-        "title": "The Dirtiest Goblin Barrel Placement in History #Shorts",
+        "title": "Ken: Stop Making This Mistake #Shorts",
         "publish_at": "2026-10-15T20:30:00Z",
         "status": "PUBLISHED",
         "uploaded": true,
@@ -7183,8 +7314,8 @@
         "duration": 58.0,
         "hook_summary": "Essential discussion and core insight",
         "metadata": {
-          "title": "The Dirtiest Goblin Barrel Placement in History #Shorts",
-          "description": "Opponent never saw this sneaky goblin barrel coming...\n\nFeaturing: @kenforrest\n\nDid he predict the log or get lucky? Drop a comment \ud83d\udc47\n\n#Shorts #ClashRoyale #Ken #GamingMemes #ClashRoyaleMemes",
+          "title": "Ken: Stop Making This Mistake #Shorts",
+          "description": "Essential discussion and core insight\n\nKey Takeaways:\n\u2022 Why the common approach fails\n\u2022 The shift high performers make\n\u2022 Practical daily application\n\nFeaturing Ken.\n\nDo you agree with this? Let us know below! \ud83d\udc47\n\n#Shorts #Discipline #Growth",
           "tags": [
             "Shorts",
             "ClashRoyale",
@@ -7211,8 +7342,8 @@
               "description": "Essential discussion and core insight\n\nKey Takeaways:\n\u2022 Step 1: Lock in your standard\n\u2022 Step 2: Eliminate distractions\n\u2022 Step 3: Execute without emotion\n\nFeaturing Ken.\n\nWill you implement this today? Tell us below! \ud83d\udc47\n\n#Shorts #Performance #DailyHabits"
             }
           },
-          "active_variant": "A",
-          "test_status": "ACTIVE_TEST",
+          "active_variant": "B",
+          "test_status": "WINNER_LOCKED",
           "variant_history": [
             {
               "variant": "A",
@@ -7222,11 +7353,13 @@
             }
           ],
           "metrics": {
-            "views": 0,
-            "likes": 0,
-            "comments": 0,
+            "views": 1274,
+            "likes": 16,
+            "comments": 3,
             "retention": 0.0,
-            "ctr": 0.0
+            "ctr": 0.0,
+            "velocity_vph": 16.86,
+            "engagement_pct": 1.49
           }
         },
         "reframed": "gaming_split"
@@ -7235,7 +7368,7 @@
         "id": "ken_hp_buffed",
         "source_video": "hp buffed",
         "creator": "Ken",
-        "title": "The One Card Everyone Fears...",
+        "title": "Why Winning Requires Bad Cards",
         "publish_at": "2026-10-15T16:00:00Z",
         "status": "PUBLISHED",
         "uploaded": true,
@@ -7246,8 +7379,8 @@
         "duration": 57.04,
         "hook_summary": "Essential discussion and core insight",
         "metadata": {
-          "title": "The One Card Everyone Fears...",
-          "description": "Ken explains why the one card you hate seeing is actually your biggest test of character. Most people fold the moment things look bad, but here is how you play it to win.\n\n\u2022 Identify hidden opportunities in setbacks\n\u2022 Master emotional control during high stakes\n\u2022 Why your 'bad hand' is your best teacher\n\nFeaturing: Ken\n\nIf you were dealt a losing hand today, would you walk away or double down? Let's settle this in the comments.\n\n#shorts #ken #mindset #strategy #success #growth",
+          "title": "Why Winning Requires Bad Cards",
+          "description": "Most people think you need luck to win, but Ken argues that the 'worst' cards are where the real skill is shown. Stop waiting for the perfect setup and start using the hand you have.\n\n\u2022 Why comfort is a trap in competition\n\u2022 Turning a disadvantage into a surprise attack\n\u2022 The mindset shift that beats luck every time\n\nFeaturing: Ken\n\nIs it better to have a perfect hand or a perfect strategy? Sound off below.\n\n#shorts #ken #psychology #competition #winning #mindset",
           "tags": [
             "ken",
             "strategy",
@@ -7278,8 +7411,8 @@
               "description": "Ken breaks down the exact protocol for handling a bad hand and still coming out on top. This is the framework for high-level resilience and tactical pivoting.\n\n\u2022 Step-by-step strategy for pivoting mid-game\n\u2022 How to mask your weakness from opponents\n\u2022 The 'Win Anyway' mental framework\n\nFeaturing: Ken\n\nWhat is your go-to move when things don't go according to plan? Share your protocol.\n\n#shorts #ken #productivity #resilience #strategy #advice"
             }
           },
-          "active_variant": "A",
-          "test_status": "ACTIVE_TEST",
+          "active_variant": "B",
+          "test_status": "WINNER_LOCKED",
           "variant_history": [
             {
               "variant": "A",
@@ -7289,11 +7422,13 @@
             }
           ],
           "metrics": {
-            "views": 0,
-            "likes": 0,
-            "comments": 0,
+            "views": 1217,
+            "likes": 9,
+            "comments": 1,
             "retention": 0.0,
-            "ctr": 0.0
+            "ctr": 0.0,
+            "velocity_vph": 15.2,
+            "engagement_pct": 0.82
           }
         },
         "reframed": "gaming_split"
@@ -7325,7 +7460,15 @@
               "hook_angle": "Meta / Guide",
               "description": "The exact cycle and defense needed to stop this toxic deck.\n\nFeaturing: @kenforrest\n\nWhich deck gives you the hardest time right now? \ud83d\udc47\n\n#Shorts #ClashRoyale #KenClashRoyale #Gaming"
             }
-          }
+          },
+          "metrics": {
+            "views": 812,
+            "likes": 12,
+            "comments": 0,
+            "velocity_vph": 8.47,
+            "engagement_pct": 1.48
+          },
+          "test_status": "WINNER_LOCKED"
         },
         "youtube_video_id": "78_GRpovluw",
         "youtube_url": "https://www.youtube.com/shorts/78_GRpovluw",
@@ -7362,7 +7505,15 @@
               "hook_angle": "Strategy / Masterclass",
               "description": "Full breakdown of how the barrel timing lets you bypass the tower.\n\nFeaturing: @kenforrest\n\nHave you tried this tech on ladder yet? \ud83d\udc47\n\n#Shorts #ClashRoyale #Ken #ShortsFeed"
             }
-          }
+          },
+          "metrics": {
+            "views": 898,
+            "likes": 7,
+            "comments": 1,
+            "velocity_vph": 9.02,
+            "engagement_pct": 0.89
+          },
+          "test_status": "WINNER_LOCKED"
         },
         "youtube_video_id": "wio8IxcOaXM",
         "youtube_url": "https://www.youtube.com/shorts/wio8IxcOaXM",
@@ -7407,7 +7558,15 @@
               "hook_angle": "Meta / High-IQ Breakdown",
               "description": "The exact reason this interaction is completely ruining top ladder right now.\n\nFeaturing: @kenforrest\n\nWould you use this card in Grand Challenges? Let us know below \ud83d\udc47\n\n#Shorts #ClashRoyale #Ken #GamingShorts"
             }
-          }
+          },
+          "metrics": {
+            "views": 310,
+            "likes": 4,
+            "comments": 2,
+            "velocity_vph": 2.98,
+            "engagement_pct": 1.94
+          },
+          "test_status": "WINNER_LOCKED"
         },
         "reframed": "gaming_split"
       }
@@ -7415,16 +7574,89 @@
   },
   "analytics": {
     "summary": {
-      "total_views": 0,
+      "total_views": 13055,
       "shorts_published": 0,
-      "total_likes": 0,
+      "total_likes": 160,
       "avg_retention_pct": 82.5,
       "avg_ctr_pct": 14.8,
       "total_subscribers_gained": 0,
       "estimated_revenue_usd": 0.0,
-      "health_grade": "A+"
+      "health_grade": "A+",
+      "total_shorts_published": 18,
+      "last_audit": 1792368271.3492138
     },
-    "top_shorts": [],
+    "top_shorts": [
+      {
+        "title": "Stop Sleeping on Evo Minion Horde...",
+        "creator": "Ken",
+        "views": 859,
+        "velocity": 85.35,
+        "angle": "Contrarian Truth"
+      },
+      {
+        "title": "Don't play Minecraft for views.",
+        "creator": "Ken",
+        "views": 460,
+        "velocity": 21.08,
+        "angle": "Contrarian Truth"
+      },
+      {
+        "title": "Ken: Stop Making This Mistake #Shorts",
+        "creator": "Ken",
+        "views": 1158,
+        "velocity": 37.28,
+        "angle": "Contrarian Truth"
+      },
+      {
+        "title": "KEN BROKE CLASH ROYALE WITH THIS DECK #Shorts",
+        "creator": "Ken",
+        "views": 1346,
+        "velocity": 39.5,
+        "angle": "High Velocity"
+      },
+      {
+        "title": "Why Sparky is Actually UNSTOPPABLE \u26a1",
+        "creator": "Ken",
+        "views": 1256,
+        "velocity": 26.27,
+        "angle": "Contrarian Truth"
+      },
+      {
+        "title": "Why I played games in the hospital",
+        "creator": "Ken",
+        "views": 1301,
+        "velocity": 25.23,
+        "angle": "Contrarian Truth"
+      },
+      {
+        "title": "Cannon Users Are Doing It Wrong",
+        "creator": "Ken",
+        "views": 857,
+        "velocity": 15.28,
+        "angle": "Contrarian Truth"
+      },
+      {
+        "title": "Stop Defending Bridge Spam Wrong",
+        "creator": "Ken",
+        "views": 1231,
+        "velocity": 17.14,
+        "angle": "Contrarian Truth"
+      },
+      {
+        "title": "Ken: Stop Making This Mistake #Shorts",
+        "creator": "Ken",
+        "views": 1274,
+        "velocity": 16.86,
+        "angle": "Contrarian Truth"
+      },
+      {
+        "title": "Why Winning Requires Bad Cards",
+        "creator": "Ken",
+        "views": 1217,
+        "velocity": 15.2,
+        "angle": "Contrarian Truth"
+      }
+    ],
     "ab_test_learnings": [
       "Gaming benchmark established: High-volume rage/disaster hooks typically yield +34% higher initial retention than neutral titles.",
       "Toxic BM / Karma angles convert to comments at 2.4x standard rate in Clash Royale niche."

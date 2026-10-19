@@ -1,6 +1,6 @@
 {
-  "timestamp": 1792423866.784048,
-  "sync_time_iso": "2026-10-19T15:31:06Z",
+  "timestamp": 1792423929.393059,
+  "sync_time_iso": "2026-10-19T15:32:09Z",
   "default_channel": "ken_clips_burger",
   "channels": {
     "ken_clips_burger": {
@@ -96,14 +96,14 @@
           "current_task": "Queue up to date. Waiting for next daily Ken upload.",
           "last_completed_task": "Ingested 5 recent Ken master videos into source pool",
           "recent_logs": [
-            "[11:22:29] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
-            "[11:22:41] Queue up to date. Waiting for next daily Ken upload.",
             "[11:24:42] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
             "[11:24:54] Queue up to date. Waiting for next daily Ken upload.",
             "[11:26:55] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
             "[11:27:07] Queue up to date. Waiting for next daily Ken upload.",
             "[11:29:08] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
-            "[11:29:20] Queue up to date. Waiting for next daily Ken upload."
+            "[11:29:20] Queue up to date. Waiting for next daily Ken upload.",
+            "[11:31:21] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
+            "[11:31:33] Queue up to date. Waiting for next daily Ken upload."
           ]
         },
         "STRATEGIST": {
@@ -123,17 +123,17 @@
         },
         "EDITOR": {
           "status": "working",
-          "current_task": "Rendering gaming_split Short with captions: 1.9 aggression cycle [Clutch M",
+          "current_task": "Rendering gaming_split Short with captions: 1.9 aggression cycle [Overtime",
           "last_completed_task": "Rendered 'hp buffed' rage highlight with kinetic pop captions & commentary",
           "recent_logs": [
-            "[17:01:50] Downloading highlight segment (*60-240) for: level down trolling [Highlight]...",
-            "[17:01:54] Rendering gaming_split Short with captions: level down trolling [Highlight",
             "[17:07:24] Downloading highlight segment (*300-480) for: level down trolling [Clutch Moment]...",
             "[17:07:31] Rendering gaming_split Short with captions: level down trolling [Clutch Mo",
             "[19:36:37] Downloading highlight segment (*60-240) for: 1.9 aggression cycle [Highlight]...",
             "[19:36:42] Rendering gaming_split Short with captions: 1.9 aggression cycle [Highligh",
             "[10:01:47] Downloading highlight segment (*300-480) for: 1.9 aggression cycle [Clutch Moment...",
-            "[10:01:51] Rendering gaming_split Short with captions: 1.9 aggression cycle [Clutch M"
+            "[10:01:51] Rendering gaming_split Short with captions: 1.9 aggression cycle [Clutch M",
+            "[11:31:33] Downloading highlight segment (*540-720) for: 1.9 aggression cycle [Overtime Batt...",
+            "[11:31:37] Rendering gaming_split Short with captions: 1.9 aggression cycle [Overtime"
           ]
         },
         "COMMENTATOR": {
@@ -256,7 +256,7 @@
             "url": "https://www.youtube.com/watch?v=1tKJ4BnHC2A",
             "section": "*540-720",
             "duration": 2181,
-            "status": "QUEUED",
+            "status": "PROCESSING",
             "added_at": "2026-10-17T14:23:15Z"
           },
           {
@@ -1158,14 +1158,17 @@
               }
             },
             "reframed": "gaming_split"
-          },
+          }
+        ],
+        "held": [],
+        "published": [
           {
             "id": "ken_1792246995_1",
             "source_video": "1.9 aggression cycle [Clutch Moment]",
             "creator": "Ken",
             "title": "He regret saying this immediately...",
             "publish_at": "2026-10-19T15:30:00Z",
-            "status": "SCHEDULED",
+            "status": "PUBLISHED",
             "uploaded": true,
             "youtube_video_id": "meKAqWBBzXQ",
             "youtube_url": "https://www.youtube.com/shorts/meKAqWBBzXQ",
@@ -1224,10 +1227,7 @@
               }
             },
             "reframed": "gaming_split"
-          }
-        ],
-        "held": [],
-        "published": [
+          },
           {
             "id": "ken_1792212492_7",
             "source_video": "the new barrel [Clutch Moment]",
@@ -5418,14 +5418,14 @@
       "current_task": "Queue up to date. Waiting for next daily Ken upload.",
       "last_completed_task": "Ingested 5 recent Ken master videos into source pool",
       "recent_logs": [
-        "[11:22:29] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
-        "[11:22:41] Queue up to date. Waiting for next daily Ken upload.",
         "[11:24:42] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
         "[11:24:54] Queue up to date. Waiting for next daily Ken upload.",
         "[11:26:55] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
         "[11:27:07] Queue up to date. Waiting for next daily Ken upload.",
         "[11:29:08] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
-        "[11:29:20] Queue up to date. Waiting for next daily Ken upload."
+        "[11:29:20] Queue up to date. Waiting for next daily Ken upload.",
+        "[11:31:21] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
+        "[11:31:33] Queue up to date. Waiting for next daily Ken upload."
       ]
     },
     "STRATEGIST": {
@@ -5445,17 +5445,17 @@
     },
     "EDITOR": {
       "status": "working",
-      "current_task": "Rendering gaming_split Short with captions: 1.9 aggression cycle [Clutch M",
+      "current_task": "Rendering gaming_split Short with captions: 1.9 aggression cycle [Overtime",
       "last_completed_task": "Rendered 'hp buffed' rage highlight with kinetic pop captions & commentary",
       "recent_logs": [
-        "[17:01:50] Downloading highlight segment (*60-240) for: level down trolling [Highlight]...",
-        "[17:01:54] Rendering gaming_split Short with captions: level down trolling [Highlight",
         "[17:07:24] Downloading highlight segment (*300-480) for: level down trolling [Clutch Moment]...",
         "[17:07:31] Rendering gaming_split Short with captions: level down trolling [Clutch Mo",
         "[19:36:37] Downloading highlight segment (*60-240) for: 1.9 aggression cycle [Highlight]...",
         "[19:36:42] Rendering gaming_split Short with captions: 1.9 aggression cycle [Highligh",
         "[10:01:47] Downloading highlight segment (*300-480) for: 1.9 aggression cycle [Clutch Moment...",
-        "[10:01:51] Rendering gaming_split Short with captions: 1.9 aggression cycle [Clutch M"
+        "[10:01:51] Rendering gaming_split Short with captions: 1.9 aggression cycle [Clutch M",
+        "[11:31:33] Downloading highlight segment (*540-720) for: 1.9 aggression cycle [Overtime Batt...",
+        "[11:31:37] Rendering gaming_split Short with captions: 1.9 aggression cycle [Overtime"
       ]
     },
     "COMMENTATOR": {
@@ -5578,7 +5578,7 @@
         "url": "https://www.youtube.com/watch?v=1tKJ4BnHC2A",
         "section": "*540-720",
         "duration": 2181,
-        "status": "QUEUED",
+        "status": "PROCESSING",
         "added_at": "2026-10-17T14:23:15Z"
       },
       {
@@ -6480,14 +6480,17 @@
           }
         },
         "reframed": "gaming_split"
-      },
+      }
+    ],
+    "held": [],
+    "published": [
       {
         "id": "ken_1792246995_1",
         "source_video": "1.9 aggression cycle [Clutch Moment]",
         "creator": "Ken",
         "title": "He regret saying this immediately...",
         "publish_at": "2026-10-19T15:30:00Z",
-        "status": "SCHEDULED",
+        "status": "PUBLISHED",
         "uploaded": true,
         "youtube_video_id": "meKAqWBBzXQ",
         "youtube_url": "https://www.youtube.com/shorts/meKAqWBBzXQ",
@@ -6546,10 +6549,7 @@
           }
         },
         "reframed": "gaming_split"
-      }
-    ],
-    "held": [],
-    "published": [
+      },
       {
         "id": "ken_1792212492_7",
         "source_video": "the new barrel [Clutch Moment]",

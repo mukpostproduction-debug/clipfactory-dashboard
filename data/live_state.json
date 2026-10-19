@@ -1,6 +1,6 @@
 {
-  "timestamp": 1792429258.601821,
-  "sync_time_iso": "2026-10-19T17:00:58Z",
+  "timestamp": 1792429320.507304,
+  "sync_time_iso": "2026-10-19T17:02:00Z",
   "default_channel": "ken_clips_burger",
   "channels": {
     "ken_clips_burger": {
@@ -96,14 +96,14 @@
           "current_task": "Queue up to date. Waiting for next daily Ken upload.",
           "last_completed_task": "Ingested 5 recent Ken master videos into source pool",
           "recent_logs": [
-            "[12:52:41] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
-            "[12:52:53] Queue up to date. Waiting for next daily Ken upload.",
             "[12:54:54] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
             "[12:55:06] Queue up to date. Waiting for next daily Ken upload.",
             "[12:57:07] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
             "[12:57:18] Queue up to date. Waiting for next daily Ken upload.",
             "[12:59:19] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
-            "[12:59:31] Queue up to date. Waiting for next daily Ken upload."
+            "[12:59:31] Queue up to date. Waiting for next daily Ken upload.",
+            "[13:01:31] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
+            "[13:01:44] Queue up to date. Waiting for next daily Ken upload."
           ]
         },
         "STRATEGIST": {
@@ -123,17 +123,17 @@
         },
         "EDITOR": {
           "status": "working",
-          "current_task": "Rendering gaming_split Short with captions: 1.9 aggression cycle [Overtime",
+          "current_task": "Rendering gaming_split Short with captions: 2.5 cancer cycle [Highlight]",
           "last_completed_task": "Rendered 'hp buffed' rage highlight with kinetic pop captions & commentary",
           "recent_logs": [
-            "[17:07:24] Downloading highlight segment (*300-480) for: level down trolling [Clutch Moment]...",
-            "[17:07:31] Rendering gaming_split Short with captions: level down trolling [Clutch Mo",
             "[19:36:37] Downloading highlight segment (*60-240) for: 1.9 aggression cycle [Highlight]...",
             "[19:36:42] Rendering gaming_split Short with captions: 1.9 aggression cycle [Highligh",
             "[10:01:47] Downloading highlight segment (*300-480) for: 1.9 aggression cycle [Clutch Moment...",
             "[10:01:51] Rendering gaming_split Short with captions: 1.9 aggression cycle [Clutch M",
             "[11:31:33] Downloading highlight segment (*540-720) for: 1.9 aggression cycle [Overtime Batt...",
-            "[11:31:37] Rendering gaming_split Short with captions: 1.9 aggression cycle [Overtime"
+            "[11:31:37] Rendering gaming_split Short with captions: 1.9 aggression cycle [Overtime",
+            "[13:01:44] Downloading highlight segment (*60-240) for: 2.5 cancer cycle [Highlight]...",
+            "[13:01:49] Rendering gaming_split Short with captions: 2.5 cancer cycle [Highlight]"
           ]
         },
         "COMMENTATOR": {
@@ -256,7 +256,7 @@
             "url": "https://www.youtube.com/watch?v=Lt-aEAtFys0",
             "section": "*60-240",
             "duration": 1436,
-            "status": "QUEUED",
+            "status": "PROCESSING",
             "added_at": "2026-10-18T10:11:18Z"
           },
           {
@@ -632,72 +632,6 @@
       },
       "calendar": {
         "scheduled": [
-          {
-            "id": "ken_1792212492_9",
-            "source_video": "least busted card [Clutch Moment]",
-            "creator": "Ken",
-            "title": "Why Chip Cycling Just Lost Its Power",
-            "publish_at": "2026-10-19T17:00:00Z",
-            "status": "SCHEDULED",
-            "uploaded": true,
-            "youtube_video_id": "ntVg4CCLgzM",
-            "youtube_url": "https://www.youtube.com/shorts/ntVg4CCLgzM",
-            "video_file": "ken_1792212492_9_master.mp4",
-            "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792212492_9_master.mp4",
-            "duration": 27.73,
-            "hook_summary": "The creator makes a bold claim about why traditional chip cycle strategies are officially dead in the current meta.",
-            "metadata": {
-              "title": "Why Chip Cycling Just Lost Its Power",
-              "description": "Most players are still wasting elixir on a strategy that the current meta has completely broken. Ken breaks down the exact reason why chipping the tower is a losing battle now.\n\n\u2022 Discover why traditional chip damage no longer wins games\n\u2022 The hidden shift in defensive meta you missed\n\u2022 How to adapt your strategy before your rank drops\n\nFeaturing: Ken\n\nAre you still trying to chip towers, or have you adapted to the new meta?\n\n#shorts #ken #clashroyale #gaming #strategy #metashift",
-              "tags": [
-                "chip cycle",
-                "bridge spam",
-                "clash royale meta",
-                "ken clash royale",
-                "tower chip damage",
-                "elixir management",
-                "clash royale tips",
-                "gaming strategy",
-                "shorts gaming"
-              ],
-              "pinned_comment": "Be honest: are you dropping the chip cycle strategy after seeing this, or are you still stubbornly trying to make it work?",
-              "ab_variants": {
-                "A": {
-                  "angle": "Curiosity Gap",
-                  "title": "Why Chip Cycling Just Lost Its Power",
-                  "description": "Most players are still wasting elixir on a strategy that the current meta has completely broken. Ken breaks down the exact reason why chipping the tower is a losing battle now.\n\n\u2022 Discover why traditional chip damage no longer wins games\n\u2022 The hidden shift in defensive meta you missed\n\u2022 How to adapt your strategy before your rank drops\n\nFeaturing: Ken\n\nAre you still trying to chip towers, or have you adapted to the new meta?\n\n#shorts #ken #clashroyale #gaming #strategy #metashift"
-                },
-                "B": {
-                  "angle": "Contrarian Truth",
-                  "title": "Chip Cycling Is Officially Dead",
-                  "description": "Forget everything you know about standard tower pressure because chip cycle is officially dead. Ken exposes why minor chip damage is a complete waste of your resources.\n\n\u2022 The brutal truth about current tower defense scaling\n\u2022 Why bridge spam punishes old-school tactics instantly\n\u2022 The exact moment you should stop chipping and start saving\n\nFeaturing: Ken\n\nIs bridge spam actually unbeatable right now, or is there a counter?\n\n#shorts #ken #gamingtips #meta #clashroyale #strategy"
-                },
-                "C": {
-                  "angle": "Actionable Protocol",
-                  "title": "Stop Doing This With Your Elixir",
-                  "description": "If you are still relying on minor tower chips to win, you are playing the game wrong. Ken shares the exact rule you need to follow to stop bleeding elixir in today's meta.\n\n\u2022 The new golden rule for elixir management\n\u2022 How to pivot away from outdated chip strategies\n\u2022 Building a push that actually overwhelms modern defenses\n\nFeaturing: Ken\n\nWhat is your go-to win condition if not chip damage?\n\n#shorts #ken #gaming #protips #clashroyale #elixir"
-                }
-              },
-              "active_variant": "A",
-              "test_status": "ACTIVE_TEST",
-              "variant_history": [
-                {
-                  "variant": "A",
-                  "title": "Why Chip Cycling Just Lost Its Power",
-                  "deployed_at": 1792312204.0918121,
-                  "reason": "Initial A/B test deployment"
-                }
-              ],
-              "metrics": {
-                "views": 0,
-                "likes": 0,
-                "comments": 0,
-                "retention": 0.0,
-                "ctr": 0.0
-              }
-            },
-            "reframed": "gaming_split"
-          },
           {
             "id": "ken_1792212492_10",
             "source_video": "least busted card [Overtime Battle]",
@@ -1230,6 +1164,72 @@
         ],
         "held": [],
         "published": [
+          {
+            "id": "ken_1792212492_9",
+            "source_video": "least busted card [Clutch Moment]",
+            "creator": "Ken",
+            "title": "Why Chip Cycling Just Lost Its Power",
+            "publish_at": "2026-10-19T17:00:00Z",
+            "status": "PUBLISHED",
+            "uploaded": true,
+            "youtube_video_id": "ntVg4CCLgzM",
+            "youtube_url": "https://www.youtube.com/shorts/ntVg4CCLgzM",
+            "video_file": "ken_1792212492_9_master.mp4",
+            "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792212492_9_master.mp4",
+            "duration": 27.73,
+            "hook_summary": "The creator makes a bold claim about why traditional chip cycle strategies are officially dead in the current meta.",
+            "metadata": {
+              "title": "Why Chip Cycling Just Lost Its Power",
+              "description": "Most players are still wasting elixir on a strategy that the current meta has completely broken. Ken breaks down the exact reason why chipping the tower is a losing battle now.\n\n\u2022 Discover why traditional chip damage no longer wins games\n\u2022 The hidden shift in defensive meta you missed\n\u2022 How to adapt your strategy before your rank drops\n\nFeaturing: Ken\n\nAre you still trying to chip towers, or have you adapted to the new meta?\n\n#shorts #ken #clashroyale #gaming #strategy #metashift",
+              "tags": [
+                "chip cycle",
+                "bridge spam",
+                "clash royale meta",
+                "ken clash royale",
+                "tower chip damage",
+                "elixir management",
+                "clash royale tips",
+                "gaming strategy",
+                "shorts gaming"
+              ],
+              "pinned_comment": "Be honest: are you dropping the chip cycle strategy after seeing this, or are you still stubbornly trying to make it work?",
+              "ab_variants": {
+                "A": {
+                  "angle": "Curiosity Gap",
+                  "title": "Why Chip Cycling Just Lost Its Power",
+                  "description": "Most players are still wasting elixir on a strategy that the current meta has completely broken. Ken breaks down the exact reason why chipping the tower is a losing battle now.\n\n\u2022 Discover why traditional chip damage no longer wins games\n\u2022 The hidden shift in defensive meta you missed\n\u2022 How to adapt your strategy before your rank drops\n\nFeaturing: Ken\n\nAre you still trying to chip towers, or have you adapted to the new meta?\n\n#shorts #ken #clashroyale #gaming #strategy #metashift"
+                },
+                "B": {
+                  "angle": "Contrarian Truth",
+                  "title": "Chip Cycling Is Officially Dead",
+                  "description": "Forget everything you know about standard tower pressure because chip cycle is officially dead. Ken exposes why minor chip damage is a complete waste of your resources.\n\n\u2022 The brutal truth about current tower defense scaling\n\u2022 Why bridge spam punishes old-school tactics instantly\n\u2022 The exact moment you should stop chipping and start saving\n\nFeaturing: Ken\n\nIs bridge spam actually unbeatable right now, or is there a counter?\n\n#shorts #ken #gamingtips #meta #clashroyale #strategy"
+                },
+                "C": {
+                  "angle": "Actionable Protocol",
+                  "title": "Stop Doing This With Your Elixir",
+                  "description": "If you are still relying on minor tower chips to win, you are playing the game wrong. Ken shares the exact rule you need to follow to stop bleeding elixir in today's meta.\n\n\u2022 The new golden rule for elixir management\n\u2022 How to pivot away from outdated chip strategies\n\u2022 Building a push that actually overwhelms modern defenses\n\nFeaturing: Ken\n\nWhat is your go-to win condition if not chip damage?\n\n#shorts #ken #gaming #protips #clashroyale #elixir"
+                }
+              },
+              "active_variant": "A",
+              "test_status": "ACTIVE_TEST",
+              "variant_history": [
+                {
+                  "variant": "A",
+                  "title": "Why Chip Cycling Just Lost Its Power",
+                  "deployed_at": 1792312204.0918121,
+                  "reason": "Initial A/B test deployment"
+                }
+              ],
+              "metrics": {
+                "views": 0,
+                "likes": 0,
+                "comments": 0,
+                "retention": 0.0,
+                "ctr": 0.0
+              }
+            },
+            "reframed": "gaming_split"
+          },
           {
             "id": "ken_1792246995_1",
             "source_video": "1.9 aggression cycle [Clutch Moment]",
@@ -5488,14 +5488,14 @@
       "current_task": "Queue up to date. Waiting for next daily Ken upload.",
       "last_completed_task": "Ingested 5 recent Ken master videos into source pool",
       "recent_logs": [
-        "[12:52:41] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
-        "[12:52:53] Queue up to date. Waiting for next daily Ken upload.",
         "[12:54:54] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
         "[12:55:06] Queue up to date. Waiting for next daily Ken upload.",
         "[12:57:07] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
         "[12:57:18] Queue up to date. Waiting for next daily Ken upload.",
         "[12:59:19] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
-        "[12:59:31] Queue up to date. Waiting for next daily Ken upload."
+        "[12:59:31] Queue up to date. Waiting for next daily Ken upload.",
+        "[13:01:31] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
+        "[13:01:44] Queue up to date. Waiting for next daily Ken upload."
       ]
     },
     "STRATEGIST": {
@@ -5515,17 +5515,17 @@
     },
     "EDITOR": {
       "status": "working",
-      "current_task": "Rendering gaming_split Short with captions: 1.9 aggression cycle [Overtime",
+      "current_task": "Rendering gaming_split Short with captions: 2.5 cancer cycle [Highlight]",
       "last_completed_task": "Rendered 'hp buffed' rage highlight with kinetic pop captions & commentary",
       "recent_logs": [
-        "[17:07:24] Downloading highlight segment (*300-480) for: level down trolling [Clutch Moment]...",
-        "[17:07:31] Rendering gaming_split Short with captions: level down trolling [Clutch Mo",
         "[19:36:37] Downloading highlight segment (*60-240) for: 1.9 aggression cycle [Highlight]...",
         "[19:36:42] Rendering gaming_split Short with captions: 1.9 aggression cycle [Highligh",
         "[10:01:47] Downloading highlight segment (*300-480) for: 1.9 aggression cycle [Clutch Moment...",
         "[10:01:51] Rendering gaming_split Short with captions: 1.9 aggression cycle [Clutch M",
         "[11:31:33] Downloading highlight segment (*540-720) for: 1.9 aggression cycle [Overtime Batt...",
-        "[11:31:37] Rendering gaming_split Short with captions: 1.9 aggression cycle [Overtime"
+        "[11:31:37] Rendering gaming_split Short with captions: 1.9 aggression cycle [Overtime",
+        "[13:01:44] Downloading highlight segment (*60-240) for: 2.5 cancer cycle [Highlight]...",
+        "[13:01:49] Rendering gaming_split Short with captions: 2.5 cancer cycle [Highlight]"
       ]
     },
     "COMMENTATOR": {
@@ -5648,7 +5648,7 @@
         "url": "https://www.youtube.com/watch?v=Lt-aEAtFys0",
         "section": "*60-240",
         "duration": 1436,
-        "status": "QUEUED",
+        "status": "PROCESSING",
         "added_at": "2026-10-18T10:11:18Z"
       },
       {
@@ -6024,72 +6024,6 @@
   },
   "calendar": {
     "scheduled": [
-      {
-        "id": "ken_1792212492_9",
-        "source_video": "least busted card [Clutch Moment]",
-        "creator": "Ken",
-        "title": "Why Chip Cycling Just Lost Its Power",
-        "publish_at": "2026-10-19T17:00:00Z",
-        "status": "SCHEDULED",
-        "uploaded": true,
-        "youtube_video_id": "ntVg4CCLgzM",
-        "youtube_url": "https://www.youtube.com/shorts/ntVg4CCLgzM",
-        "video_file": "ken_1792212492_9_master.mp4",
-        "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792212492_9_master.mp4",
-        "duration": 27.73,
-        "hook_summary": "The creator makes a bold claim about why traditional chip cycle strategies are officially dead in the current meta.",
-        "metadata": {
-          "title": "Why Chip Cycling Just Lost Its Power",
-          "description": "Most players are still wasting elixir on a strategy that the current meta has completely broken. Ken breaks down the exact reason why chipping the tower is a losing battle now.\n\n\u2022 Discover why traditional chip damage no longer wins games\n\u2022 The hidden shift in defensive meta you missed\n\u2022 How to adapt your strategy before your rank drops\n\nFeaturing: Ken\n\nAre you still trying to chip towers, or have you adapted to the new meta?\n\n#shorts #ken #clashroyale #gaming #strategy #metashift",
-          "tags": [
-            "chip cycle",
-            "bridge spam",
-            "clash royale meta",
-            "ken clash royale",
-            "tower chip damage",
-            "elixir management",
-            "clash royale tips",
-            "gaming strategy",
-            "shorts gaming"
-          ],
-          "pinned_comment": "Be honest: are you dropping the chip cycle strategy after seeing this, or are you still stubbornly trying to make it work?",
-          "ab_variants": {
-            "A": {
-              "angle": "Curiosity Gap",
-              "title": "Why Chip Cycling Just Lost Its Power",
-              "description": "Most players are still wasting elixir on a strategy that the current meta has completely broken. Ken breaks down the exact reason why chipping the tower is a losing battle now.\n\n\u2022 Discover why traditional chip damage no longer wins games\n\u2022 The hidden shift in defensive meta you missed\n\u2022 How to adapt your strategy before your rank drops\n\nFeaturing: Ken\n\nAre you still trying to chip towers, or have you adapted to the new meta?\n\n#shorts #ken #clashroyale #gaming #strategy #metashift"
-            },
-            "B": {
-              "angle": "Contrarian Truth",
-              "title": "Chip Cycling Is Officially Dead",
-              "description": "Forget everything you know about standard tower pressure because chip cycle is officially dead. Ken exposes why minor chip damage is a complete waste of your resources.\n\n\u2022 The brutal truth about current tower defense scaling\n\u2022 Why bridge spam punishes old-school tactics instantly\n\u2022 The exact moment you should stop chipping and start saving\n\nFeaturing: Ken\n\nIs bridge spam actually unbeatable right now, or is there a counter?\n\n#shorts #ken #gamingtips #meta #clashroyale #strategy"
-            },
-            "C": {
-              "angle": "Actionable Protocol",
-              "title": "Stop Doing This With Your Elixir",
-              "description": "If you are still relying on minor tower chips to win, you are playing the game wrong. Ken shares the exact rule you need to follow to stop bleeding elixir in today's meta.\n\n\u2022 The new golden rule for elixir management\n\u2022 How to pivot away from outdated chip strategies\n\u2022 Building a push that actually overwhelms modern defenses\n\nFeaturing: Ken\n\nWhat is your go-to win condition if not chip damage?\n\n#shorts #ken #gaming #protips #clashroyale #elixir"
-            }
-          },
-          "active_variant": "A",
-          "test_status": "ACTIVE_TEST",
-          "variant_history": [
-            {
-              "variant": "A",
-              "title": "Why Chip Cycling Just Lost Its Power",
-              "deployed_at": 1792312204.0918121,
-              "reason": "Initial A/B test deployment"
-            }
-          ],
-          "metrics": {
-            "views": 0,
-            "likes": 0,
-            "comments": 0,
-            "retention": 0.0,
-            "ctr": 0.0
-          }
-        },
-        "reframed": "gaming_split"
-      },
       {
         "id": "ken_1792212492_10",
         "source_video": "least busted card [Overtime Battle]",
@@ -6622,6 +6556,72 @@
     ],
     "held": [],
     "published": [
+      {
+        "id": "ken_1792212492_9",
+        "source_video": "least busted card [Clutch Moment]",
+        "creator": "Ken",
+        "title": "Why Chip Cycling Just Lost Its Power",
+        "publish_at": "2026-10-19T17:00:00Z",
+        "status": "PUBLISHED",
+        "uploaded": true,
+        "youtube_video_id": "ntVg4CCLgzM",
+        "youtube_url": "https://www.youtube.com/shorts/ntVg4CCLgzM",
+        "video_file": "ken_1792212492_9_master.mp4",
+        "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792212492_9_master.mp4",
+        "duration": 27.73,
+        "hook_summary": "The creator makes a bold claim about why traditional chip cycle strategies are officially dead in the current meta.",
+        "metadata": {
+          "title": "Why Chip Cycling Just Lost Its Power",
+          "description": "Most players are still wasting elixir on a strategy that the current meta has completely broken. Ken breaks down the exact reason why chipping the tower is a losing battle now.\n\n\u2022 Discover why traditional chip damage no longer wins games\n\u2022 The hidden shift in defensive meta you missed\n\u2022 How to adapt your strategy before your rank drops\n\nFeaturing: Ken\n\nAre you still trying to chip towers, or have you adapted to the new meta?\n\n#shorts #ken #clashroyale #gaming #strategy #metashift",
+          "tags": [
+            "chip cycle",
+            "bridge spam",
+            "clash royale meta",
+            "ken clash royale",
+            "tower chip damage",
+            "elixir management",
+            "clash royale tips",
+            "gaming strategy",
+            "shorts gaming"
+          ],
+          "pinned_comment": "Be honest: are you dropping the chip cycle strategy after seeing this, or are you still stubbornly trying to make it work?",
+          "ab_variants": {
+            "A": {
+              "angle": "Curiosity Gap",
+              "title": "Why Chip Cycling Just Lost Its Power",
+              "description": "Most players are still wasting elixir on a strategy that the current meta has completely broken. Ken breaks down the exact reason why chipping the tower is a losing battle now.\n\n\u2022 Discover why traditional chip damage no longer wins games\n\u2022 The hidden shift in defensive meta you missed\n\u2022 How to adapt your strategy before your rank drops\n\nFeaturing: Ken\n\nAre you still trying to chip towers, or have you adapted to the new meta?\n\n#shorts #ken #clashroyale #gaming #strategy #metashift"
+            },
+            "B": {
+              "angle": "Contrarian Truth",
+              "title": "Chip Cycling Is Officially Dead",
+              "description": "Forget everything you know about standard tower pressure because chip cycle is officially dead. Ken exposes why minor chip damage is a complete waste of your resources.\n\n\u2022 The brutal truth about current tower defense scaling\n\u2022 Why bridge spam punishes old-school tactics instantly\n\u2022 The exact moment you should stop chipping and start saving\n\nFeaturing: Ken\n\nIs bridge spam actually unbeatable right now, or is there a counter?\n\n#shorts #ken #gamingtips #meta #clashroyale #strategy"
+            },
+            "C": {
+              "angle": "Actionable Protocol",
+              "title": "Stop Doing This With Your Elixir",
+              "description": "If you are still relying on minor tower chips to win, you are playing the game wrong. Ken shares the exact rule you need to follow to stop bleeding elixir in today's meta.\n\n\u2022 The new golden rule for elixir management\n\u2022 How to pivot away from outdated chip strategies\n\u2022 Building a push that actually overwhelms modern defenses\n\nFeaturing: Ken\n\nWhat is your go-to win condition if not chip damage?\n\n#shorts #ken #gaming #protips #clashroyale #elixir"
+            }
+          },
+          "active_variant": "A",
+          "test_status": "ACTIVE_TEST",
+          "variant_history": [
+            {
+              "variant": "A",
+              "title": "Why Chip Cycling Just Lost Its Power",
+              "deployed_at": 1792312204.0918121,
+              "reason": "Initial A/B test deployment"
+            }
+          ],
+          "metrics": {
+            "views": 0,
+            "likes": 0,
+            "comments": 0,
+            "retention": 0.0,
+            "ctr": 0.0
+          }
+        },
+        "reframed": "gaming_split"
+      },
       {
         "id": "ken_1792246995_1",
         "source_video": "1.9 aggression cycle [Clutch Moment]",

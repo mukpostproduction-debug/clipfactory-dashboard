@@ -1,6 +1,6 @@
 {
-  "timestamp": 1792368273.372842,
-  "sync_time_iso": "2026-10-19T00:04:33Z",
+  "timestamp": 1792368321.147727,
+  "sync_time_iso": "2026-10-19T00:05:21Z",
   "default_channel": "ken_clips_burger",
   "channels": {
     "ken_clips_burger": {
@@ -96,29 +96,29 @@
           "current_task": "Queue up to date. Waiting for next daily Ken upload.",
           "last_completed_task": "Ingested 5 recent Ken master videos into source pool",
           "recent_logs": [
-            "[19:57:19] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
-            "[19:57:32] Queue up to date. Waiting for next daily Ken upload.",
-            "[19:59:32] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
-            "[19:59:45] Queue up to date. Waiting for next daily Ken upload.",
             "[20:01:45] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
             "[20:01:59] Queue up to date. Waiting for next daily Ken upload.",
             "[20:03:59] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
-            "[20:04:12] Queue up to date. Waiting for next daily Ken upload."
+            "[20:04:12] Queue up to date. Waiting for next daily Ken upload.",
+            "[20:04:54] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
+            "[20:04:55] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
+            "[20:05:06] Queue up to date. Waiting for next daily Ken upload.",
+            "[20:05:08] Queue up to date. Waiting for next daily Ken upload."
           ]
         },
         "STRATEGIST": {
           "status": "idle",
-          "current_task": "Buffer healthy: 10/10 scheduled Ken Shorts staged.",
+          "current_task": "Buffer healthy: 10/9 scheduled Ken Shorts staged.",
           "last_completed_task": "Mapped 3 distinct viral gaming hook angles for initial drops",
           "recent_logs": [
-            "[19:48:39] Buffer healthy: 10/10 scheduled Ken Shorts staged.",
-            "[19:50:52] Buffer healthy: 10/10 scheduled Ken Shorts staged.",
             "[19:53:05] Buffer healthy: 10/10 scheduled Ken Shorts staged.",
             "[19:55:19] Buffer healthy: 10/10 scheduled Ken Shorts staged.",
             "[19:57:32] Buffer healthy: 10/10 scheduled Ken Shorts staged.",
             "[19:59:45] Buffer healthy: 10/10 scheduled Ken Shorts staged.",
             "[20:01:59] Buffer healthy: 10/10 scheduled Ken Shorts staged.",
-            "[20:04:12] Buffer healthy: 10/10 scheduled Ken Shorts staged."
+            "[20:04:12] Buffer healthy: 10/10 scheduled Ken Shorts staged.",
+            "[20:05:06] Buffer healthy: 10/9 scheduled Ken Shorts staged.",
+            "[20:05:08] Buffer healthy: 10/9 scheduled Ken Shorts staged."
           ]
         },
         "EDITOR": {
@@ -162,17 +162,17 @@
         },
         "ANALYST": {
           "status": "working",
-          "current_task": "Telemetry Audit: 13,055 views (18 shorts). Auto-pivoted 1 stalled title(s).",
+          "current_task": "Telemetry Audit: 13,022 views (18 shorts). Auto-pivoted 1 stalled title(s).",
           "last_completed_task": "Calibrated gaming threshold: >15 views/hr within 4h",
           "recent_logs": [
-            "[19:55:19] Auditing velocity of active Ken Clash Royale Shorts...",
-            "[19:57:32] Auditing velocity of active Ken Clash Royale Shorts...",
             "[19:59:45] Auditing velocity of active Ken Clash Royale Shorts...",
             "[20:01:59] Auditing velocity of active Ken Clash Royale Shorts...",
             "[20:03:35] Telemetry Audit: 0 views (18 shorts). Auto-pivoted 13 stalled title(s).",
             "[20:04:10] Auditing velocity of active Ken Clash Royale Shorts: name 'vid' is not defined",
             "[20:04:12] Auditing velocity of active Ken Clash Royale Shorts...",
-            "[20:04:31] Telemetry Audit: 13,055 views (18 shorts). Auto-pivoted 1 stalled title(s)."
+            "[20:04:31] Telemetry Audit: 13,055 views (18 shorts). Auto-pivoted 1 stalled title(s).",
+            "[20:05:08] Telemetry Audit: 13,055 views (18 shorts). Auto-pivoted 1 stalled title(s).",
+            "[20:05:10] Telemetry Audit: 13,022 views (18 shorts). Auto-pivoted 1 stalled title(s)."
           ]
         },
         "WATCHDOG": {
@@ -180,14 +180,14 @@
           "current_task": "Verifying Supercell fan policy: 0 claims, 0 strikes.",
           "last_completed_task": "Audited source parameters: strictly <30s segment rule active",
           "recent_logs": [
-            "[19:48:39] Verifying Supercell fan policy: 0 claims, 0 strikes.",
-            "[19:50:52] Verifying Supercell fan policy: 0 claims, 0 strikes.",
             "[19:53:05] Verifying Supercell fan policy: 0 claims, 0 strikes.",
             "[19:55:19] Verifying Supercell fan policy: 0 claims, 0 strikes.",
             "[19:57:32] Verifying Supercell fan policy: 0 claims, 0 strikes.",
             "[19:59:45] Verifying Supercell fan policy: 0 claims, 0 strikes.",
             "[20:01:59] Verifying Supercell fan policy: 0 claims, 0 strikes.",
-            "[20:04:12] Verifying Supercell fan policy: 0 claims, 0 strikes."
+            "[20:04:12] Verifying Supercell fan policy: 0 claims, 0 strikes.",
+            "[20:05:08] Verifying Supercell fan policy: 0 claims, 0 strikes.",
+            "[20:05:10] Verifying Supercell fan policy: 0 claims, 0 strikes."
           ]
         }
       },
@@ -1395,12 +1395,12 @@
                 }
               ],
               "metrics": {
-                "views": 0,
+                "views": 1,
                 "likes": 0,
                 "comments": 0,
                 "retention": 0.0,
                 "ctr": 0.0,
-                "velocity_vph": 0.0,
+                "velocity_vph": 0.28,
                 "engagement_pct": 0.0
               }
             },
@@ -1463,13 +1463,13 @@
                 }
               ],
               "metrics": {
-                "views": 61,
+                "views": 59,
                 "likes": 1,
                 "comments": 0,
                 "retention": 0.0,
                 "ctr": 0.0,
-                "velocity_vph": 8.63,
-                "engagement_pct": 1.64
+                "velocity_vph": 8.33,
+                "engagement_pct": 1.69
               }
             },
             "reframed": "gaming_split"
@@ -1536,7 +1536,7 @@
                 "comments": 0,
                 "retention": 0.0,
                 "ctr": 0.0,
-                "velocity_vph": 85.35,
+                "velocity_vph": 85.25,
                 "engagement_pct": 1.28
               }
             },
@@ -1599,12 +1599,12 @@
                 }
               ],
               "metrics": {
-                "views": 460,
+                "views": 458,
                 "likes": 5,
                 "comments": 0,
                 "retention": 0.0,
                 "ctr": 0.0,
-                "velocity_vph": 21.08,
+                "velocity_vph": 20.98,
                 "engagement_pct": 1.09
               }
             },
@@ -1614,7 +1614,7 @@
             "id": "ken_1792212492_0",
             "source_video": "weirdest buff ever [Clutch Moment]",
             "creator": "Ken",
-            "title": "Why this banned Clone combo is illegal...",
+            "title": "Stop sleeping on the worst card in the game",
             "publish_at": "2026-10-17T23:30:00Z",
             "status": "PUBLISHED",
             "uploaded": true,
@@ -1625,8 +1625,8 @@
             "duration": 24.69,
             "hook_summary": "The player highlights how surprisingly overpowered the Clone card can be when paired with fast-hitting troops, catching opponents completely off guard.",
             "metadata": {
-              "title": "Why this banned Clone combo is illegal...",
-              "description": "Most players think the Clone card is just a useless gimmick, until you pair it with this one specific troop. Watch how an entire push vanishes and instantly respawns to decimate the enemy tower before they even realize what happened.\n\n\u2022 Discover the exact troop synergy that makes Clone overpowered\n\u2022 See how to bait out opponent spells before dropping the spell\n\u2022 Master the timing to catch defenders completely off guard\n\nFeaturing: Ken\n\nHave you ever actually won a match using only cloned troops, or is this just a one-in-a-million fluke?\n\n#shorts #clashroyale #gaming #clonestrategy #ken #mobilegaming",
+              "title": "Stop sleeping on the worst card in the game",
+              "description": "Everyone says Clone is a troll card that only works in low-ladder matches. They are completely wrong, and this clip proves why ignoring this strategy is costing you hundreds of trophies.\n\n\u2022 Debunking the myth that Clone has no competitive viability\n\u2022 The secret math behind double-damage fast-hitting units\n\u2022 Why top ladder players fear this specific interaction\n\nFeaturing: Ken\n\nIs Clone actually skill-less spam, or does it take a genius to pull this off consistently?\n\n#shorts #clashroyale #gaming #strategy #ken #viral",
               "tags": [
                 "Clash Royale",
                 "Clone Spell",
@@ -1656,7 +1656,7 @@
                   "description": "Stop wasting your elixir on random clone drops. Follow this step-by-step engagement rule to turn a single counter-attack into an unstoppable three-crown victory.\n\n\u2022 The 3-step sequence for executing the ultimate clone push\n\u2022 Exact placement guide to avoid area-damage spells\n\u2022 How to cycle your deck to get Clone back in hand instantly\n\nFeaturing: Ken\n\nWhat is your go-to card to pair with Clone in your main deck?\n\n#shorts #clashroyale #protips #gaming #ken #clonetricks"
                 }
               },
-              "active_variant": "A",
+              "active_variant": "B",
               "test_status": "ACTIVE_TEST",
               "variant_history": [
                 {
@@ -1778,7 +1778,7 @@
                 "comments": 0,
                 "retention": 0.0,
                 "ctr": 0.0,
-                "velocity_vph": 37.28,
+                "velocity_vph": 37.26,
                 "engagement_pct": 1.9
               }
             },
@@ -1801,11 +1801,11 @@
             "reframed": "gaming_split",
             "metadata": {
               "metrics": {
-                "views": 1346,
+                "views": 1318,
                 "likes": 19,
                 "comments": 0,
-                "velocity_vph": 39.5,
-                "engagement_pct": 1.41
+                "velocity_vph": 38.67,
+                "engagement_pct": 1.44
               },
               "test_status": "WINNER_LOCKED"
             }
@@ -1873,7 +1873,7 @@
                 "comments": 1,
                 "retention": 0.0,
                 "ctr": 0.0,
-                "velocity_vph": 26.27,
+                "velocity_vph": 26.26,
                 "engagement_pct": 1.51
               }
             },
@@ -1942,7 +1942,7 @@
                 "comments": 1,
                 "retention": 0.0,
                 "ctr": 0.0,
-                "velocity_vph": 25.23,
+                "velocity_vph": 25.22,
                 "engagement_pct": 0.92
               }
             },
@@ -2005,13 +2005,13 @@
                 }
               ],
               "metrics": {
-                "views": 857,
+                "views": 855,
                 "likes": 16,
                 "comments": 1,
                 "retention": 0.0,
                 "ctr": 0.0,
-                "velocity_vph": 15.28,
-                "engagement_pct": 1.98
+                "velocity_vph": 15.25,
+                "engagement_pct": 1.99
               }
             },
             "reframed": "gaming_split"
@@ -2359,7 +2359,7 @@
       },
       "analytics": {
         "summary": {
-          "total_views": 13055,
+          "total_views": 13022,
           "shorts_published": 0,
           "total_likes": 160,
           "avg_retention_pct": 82.5,
@@ -2368,56 +2368,56 @@
           "estimated_revenue_usd": 0.0,
           "health_grade": "A+",
           "total_shorts_published": 18,
-          "last_audit": 1792368271.3492138
+          "last_audit": 1792368310.400537
         },
         "top_shorts": [
           {
             "title": "Stop Sleeping on Evo Minion Horde...",
             "creator": "Ken",
             "views": 859,
-            "velocity": 85.35,
+            "velocity": 85.25,
             "angle": "Contrarian Truth"
           },
           {
             "title": "Don't play Minecraft for views.",
             "creator": "Ken",
-            "views": 460,
-            "velocity": 21.08,
+            "views": 458,
+            "velocity": 20.98,
             "angle": "Contrarian Truth"
           },
           {
             "title": "Ken: Stop Making This Mistake #Shorts",
             "creator": "Ken",
             "views": 1158,
-            "velocity": 37.28,
+            "velocity": 37.26,
             "angle": "Contrarian Truth"
           },
           {
             "title": "KEN BROKE CLASH ROYALE WITH THIS DECK #Shorts",
             "creator": "Ken",
-            "views": 1346,
-            "velocity": 39.5,
+            "views": 1318,
+            "velocity": 38.67,
             "angle": "High Velocity"
           },
           {
             "title": "Why Sparky is Actually UNSTOPPABLE \u26a1",
             "creator": "Ken",
             "views": 1256,
-            "velocity": 26.27,
+            "velocity": 26.26,
             "angle": "Contrarian Truth"
           },
           {
             "title": "Why I played games in the hospital",
             "creator": "Ken",
             "views": 1301,
-            "velocity": 25.23,
+            "velocity": 25.22,
             "angle": "Contrarian Truth"
           },
           {
             "title": "Cannon Users Are Doing It Wrong",
             "creator": "Ken",
-            "views": 857,
-            "velocity": 15.28,
+            "views": 855,
+            "velocity": 15.25,
             "angle": "Contrarian Truth"
           },
           {
@@ -2450,6 +2450,19 @@
       "strategy": {
         "active_niche": "Clash Royale & Mobile Gaming Shorts",
         "weekly_memos": [
+          {
+            "week": "WEEK 2 - SEED FEED OPTIMIZATION",
+            "date": "2026-10-18",
+            "author": "ANALYST & STRATEGIST",
+            "headline": "Switching from 5/day to 3 Spaced Drops/Day (Seed Feed Isolation & Anti-Cannibalization)",
+            "summary": "Data from the first 18 published Shorts (13,000+ views) proved that 1-3 drops/day achieved 800-1,300 views consistently, whereas compressing 5 drops/day into 3-hour windows starved the 4:30 PM and 7:30 PM slots of seed impressions on a 4-day-old channel. We are officially shifting cadence to 3 spaced daily drops (11:30 AM, 4:30 PM, 9:30 PM ET) with a 5-hour isolation window, sanitizing metadata to 100% pure Clash Royale tags, and running autonomous A/B title pivoting every cycle.",
+            "action_items": [
+              "Shift daily publishing schedule to 11:30 AM, 4:30 PM, 9:30 PM ET.",
+              "Sanitize PublisherAgent to eliminate generic podcast/mindset fallback tags.",
+              "Wire AnalystAgent batch telemetry directly into factory_ken daemon cycle.",
+              "Maintain 72h rolling buffer (9 clips locked) across target slots."
+            ]
+          },
           {
             "week": "WEEK 1 - LAUNCH",
             "date": "2026-10-14",
@@ -5311,29 +5324,29 @@
       "current_task": "Queue up to date. Waiting for next daily Ken upload.",
       "last_completed_task": "Ingested 5 recent Ken master videos into source pool",
       "recent_logs": [
-        "[19:57:19] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
-        "[19:57:32] Queue up to date. Waiting for next daily Ken upload.",
-        "[19:59:32] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
-        "[19:59:45] Queue up to date. Waiting for next daily Ken upload.",
         "[20:01:45] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
         "[20:01:59] Queue up to date. Waiting for next daily Ken upload.",
         "[20:03:59] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
-        "[20:04:12] Queue up to date. Waiting for next daily Ken upload."
+        "[20:04:12] Queue up to date. Waiting for next daily Ken upload.",
+        "[20:04:54] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
+        "[20:04:55] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
+        "[20:05:06] Queue up to date. Waiting for next daily Ken upload.",
+        "[20:05:08] Queue up to date. Waiting for next daily Ken upload."
       ]
     },
     "STRATEGIST": {
       "status": "idle",
-      "current_task": "Buffer healthy: 10/10 scheduled Ken Shorts staged.",
+      "current_task": "Buffer healthy: 10/9 scheduled Ken Shorts staged.",
       "last_completed_task": "Mapped 3 distinct viral gaming hook angles for initial drops",
       "recent_logs": [
-        "[19:48:39] Buffer healthy: 10/10 scheduled Ken Shorts staged.",
-        "[19:50:52] Buffer healthy: 10/10 scheduled Ken Shorts staged.",
         "[19:53:05] Buffer healthy: 10/10 scheduled Ken Shorts staged.",
         "[19:55:19] Buffer healthy: 10/10 scheduled Ken Shorts staged.",
         "[19:57:32] Buffer healthy: 10/10 scheduled Ken Shorts staged.",
         "[19:59:45] Buffer healthy: 10/10 scheduled Ken Shorts staged.",
         "[20:01:59] Buffer healthy: 10/10 scheduled Ken Shorts staged.",
-        "[20:04:12] Buffer healthy: 10/10 scheduled Ken Shorts staged."
+        "[20:04:12] Buffer healthy: 10/10 scheduled Ken Shorts staged.",
+        "[20:05:06] Buffer healthy: 10/9 scheduled Ken Shorts staged.",
+        "[20:05:08] Buffer healthy: 10/9 scheduled Ken Shorts staged."
       ]
     },
     "EDITOR": {
@@ -5377,17 +5390,17 @@
     },
     "ANALYST": {
       "status": "working",
-      "current_task": "Telemetry Audit: 13,055 views (18 shorts). Auto-pivoted 1 stalled title(s).",
+      "current_task": "Telemetry Audit: 13,022 views (18 shorts). Auto-pivoted 1 stalled title(s).",
       "last_completed_task": "Calibrated gaming threshold: >15 views/hr within 4h",
       "recent_logs": [
-        "[19:55:19] Auditing velocity of active Ken Clash Royale Shorts...",
-        "[19:57:32] Auditing velocity of active Ken Clash Royale Shorts...",
         "[19:59:45] Auditing velocity of active Ken Clash Royale Shorts...",
         "[20:01:59] Auditing velocity of active Ken Clash Royale Shorts...",
         "[20:03:35] Telemetry Audit: 0 views (18 shorts). Auto-pivoted 13 stalled title(s).",
         "[20:04:10] Auditing velocity of active Ken Clash Royale Shorts: name 'vid' is not defined",
         "[20:04:12] Auditing velocity of active Ken Clash Royale Shorts...",
-        "[20:04:31] Telemetry Audit: 13,055 views (18 shorts). Auto-pivoted 1 stalled title(s)."
+        "[20:04:31] Telemetry Audit: 13,055 views (18 shorts). Auto-pivoted 1 stalled title(s).",
+        "[20:05:08] Telemetry Audit: 13,055 views (18 shorts). Auto-pivoted 1 stalled title(s).",
+        "[20:05:10] Telemetry Audit: 13,022 views (18 shorts). Auto-pivoted 1 stalled title(s)."
       ]
     },
     "WATCHDOG": {
@@ -5395,14 +5408,14 @@
       "current_task": "Verifying Supercell fan policy: 0 claims, 0 strikes.",
       "last_completed_task": "Audited source parameters: strictly <30s segment rule active",
       "recent_logs": [
-        "[19:48:39] Verifying Supercell fan policy: 0 claims, 0 strikes.",
-        "[19:50:52] Verifying Supercell fan policy: 0 claims, 0 strikes.",
         "[19:53:05] Verifying Supercell fan policy: 0 claims, 0 strikes.",
         "[19:55:19] Verifying Supercell fan policy: 0 claims, 0 strikes.",
         "[19:57:32] Verifying Supercell fan policy: 0 claims, 0 strikes.",
         "[19:59:45] Verifying Supercell fan policy: 0 claims, 0 strikes.",
         "[20:01:59] Verifying Supercell fan policy: 0 claims, 0 strikes.",
-        "[20:04:12] Verifying Supercell fan policy: 0 claims, 0 strikes."
+        "[20:04:12] Verifying Supercell fan policy: 0 claims, 0 strikes.",
+        "[20:05:08] Verifying Supercell fan policy: 0 claims, 0 strikes.",
+        "[20:05:10] Verifying Supercell fan policy: 0 claims, 0 strikes."
       ]
     }
   },
@@ -6610,12 +6623,12 @@
             }
           ],
           "metrics": {
-            "views": 0,
+            "views": 1,
             "likes": 0,
             "comments": 0,
             "retention": 0.0,
             "ctr": 0.0,
-            "velocity_vph": 0.0,
+            "velocity_vph": 0.28,
             "engagement_pct": 0.0
           }
         },
@@ -6678,13 +6691,13 @@
             }
           ],
           "metrics": {
-            "views": 61,
+            "views": 59,
             "likes": 1,
             "comments": 0,
             "retention": 0.0,
             "ctr": 0.0,
-            "velocity_vph": 8.63,
-            "engagement_pct": 1.64
+            "velocity_vph": 8.33,
+            "engagement_pct": 1.69
           }
         },
         "reframed": "gaming_split"
@@ -6751,7 +6764,7 @@
             "comments": 0,
             "retention": 0.0,
             "ctr": 0.0,
-            "velocity_vph": 85.35,
+            "velocity_vph": 85.25,
             "engagement_pct": 1.28
           }
         },
@@ -6814,12 +6827,12 @@
             }
           ],
           "metrics": {
-            "views": 460,
+            "views": 458,
             "likes": 5,
             "comments": 0,
             "retention": 0.0,
             "ctr": 0.0,
-            "velocity_vph": 21.08,
+            "velocity_vph": 20.98,
             "engagement_pct": 1.09
           }
         },
@@ -6829,7 +6842,7 @@
         "id": "ken_1792212492_0",
         "source_video": "weirdest buff ever [Clutch Moment]",
         "creator": "Ken",
-        "title": "Why this banned Clone combo is illegal...",
+        "title": "Stop sleeping on the worst card in the game",
         "publish_at": "2026-10-17T23:30:00Z",
         "status": "PUBLISHED",
         "uploaded": true,
@@ -6840,8 +6853,8 @@
         "duration": 24.69,
         "hook_summary": "The player highlights how surprisingly overpowered the Clone card can be when paired with fast-hitting troops, catching opponents completely off guard.",
         "metadata": {
-          "title": "Why this banned Clone combo is illegal...",
-          "description": "Most players think the Clone card is just a useless gimmick, until you pair it with this one specific troop. Watch how an entire push vanishes and instantly respawns to decimate the enemy tower before they even realize what happened.\n\n\u2022 Discover the exact troop synergy that makes Clone overpowered\n\u2022 See how to bait out opponent spells before dropping the spell\n\u2022 Master the timing to catch defenders completely off guard\n\nFeaturing: Ken\n\nHave you ever actually won a match using only cloned troops, or is this just a one-in-a-million fluke?\n\n#shorts #clashroyale #gaming #clonestrategy #ken #mobilegaming",
+          "title": "Stop sleeping on the worst card in the game",
+          "description": "Everyone says Clone is a troll card that only works in low-ladder matches. They are completely wrong, and this clip proves why ignoring this strategy is costing you hundreds of trophies.\n\n\u2022 Debunking the myth that Clone has no competitive viability\n\u2022 The secret math behind double-damage fast-hitting units\n\u2022 Why top ladder players fear this specific interaction\n\nFeaturing: Ken\n\nIs Clone actually skill-less spam, or does it take a genius to pull this off consistently?\n\n#shorts #clashroyale #gaming #strategy #ken #viral",
           "tags": [
             "Clash Royale",
             "Clone Spell",
@@ -6871,7 +6884,7 @@
               "description": "Stop wasting your elixir on random clone drops. Follow this step-by-step engagement rule to turn a single counter-attack into an unstoppable three-crown victory.\n\n\u2022 The 3-step sequence for executing the ultimate clone push\n\u2022 Exact placement guide to avoid area-damage spells\n\u2022 How to cycle your deck to get Clone back in hand instantly\n\nFeaturing: Ken\n\nWhat is your go-to card to pair with Clone in your main deck?\n\n#shorts #clashroyale #protips #gaming #ken #clonetricks"
             }
           },
-          "active_variant": "A",
+          "active_variant": "B",
           "test_status": "ACTIVE_TEST",
           "variant_history": [
             {
@@ -6993,7 +7006,7 @@
             "comments": 0,
             "retention": 0.0,
             "ctr": 0.0,
-            "velocity_vph": 37.28,
+            "velocity_vph": 37.26,
             "engagement_pct": 1.9
           }
         },
@@ -7016,11 +7029,11 @@
         "reframed": "gaming_split",
         "metadata": {
           "metrics": {
-            "views": 1346,
+            "views": 1318,
             "likes": 19,
             "comments": 0,
-            "velocity_vph": 39.5,
-            "engagement_pct": 1.41
+            "velocity_vph": 38.67,
+            "engagement_pct": 1.44
           },
           "test_status": "WINNER_LOCKED"
         }
@@ -7088,7 +7101,7 @@
             "comments": 1,
             "retention": 0.0,
             "ctr": 0.0,
-            "velocity_vph": 26.27,
+            "velocity_vph": 26.26,
             "engagement_pct": 1.51
           }
         },
@@ -7157,7 +7170,7 @@
             "comments": 1,
             "retention": 0.0,
             "ctr": 0.0,
-            "velocity_vph": 25.23,
+            "velocity_vph": 25.22,
             "engagement_pct": 0.92
           }
         },
@@ -7220,13 +7233,13 @@
             }
           ],
           "metrics": {
-            "views": 857,
+            "views": 855,
             "likes": 16,
             "comments": 1,
             "retention": 0.0,
             "ctr": 0.0,
-            "velocity_vph": 15.28,
-            "engagement_pct": 1.98
+            "velocity_vph": 15.25,
+            "engagement_pct": 1.99
           }
         },
         "reframed": "gaming_split"
@@ -7574,7 +7587,7 @@
   },
   "analytics": {
     "summary": {
-      "total_views": 13055,
+      "total_views": 13022,
       "shorts_published": 0,
       "total_likes": 160,
       "avg_retention_pct": 82.5,
@@ -7583,56 +7596,56 @@
       "estimated_revenue_usd": 0.0,
       "health_grade": "A+",
       "total_shorts_published": 18,
-      "last_audit": 1792368271.3492138
+      "last_audit": 1792368310.400537
     },
     "top_shorts": [
       {
         "title": "Stop Sleeping on Evo Minion Horde...",
         "creator": "Ken",
         "views": 859,
-        "velocity": 85.35,
+        "velocity": 85.25,
         "angle": "Contrarian Truth"
       },
       {
         "title": "Don't play Minecraft for views.",
         "creator": "Ken",
-        "views": 460,
-        "velocity": 21.08,
+        "views": 458,
+        "velocity": 20.98,
         "angle": "Contrarian Truth"
       },
       {
         "title": "Ken: Stop Making This Mistake #Shorts",
         "creator": "Ken",
         "views": 1158,
-        "velocity": 37.28,
+        "velocity": 37.26,
         "angle": "Contrarian Truth"
       },
       {
         "title": "KEN BROKE CLASH ROYALE WITH THIS DECK #Shorts",
         "creator": "Ken",
-        "views": 1346,
-        "velocity": 39.5,
+        "views": 1318,
+        "velocity": 38.67,
         "angle": "High Velocity"
       },
       {
         "title": "Why Sparky is Actually UNSTOPPABLE \u26a1",
         "creator": "Ken",
         "views": 1256,
-        "velocity": 26.27,
+        "velocity": 26.26,
         "angle": "Contrarian Truth"
       },
       {
         "title": "Why I played games in the hospital",
         "creator": "Ken",
         "views": 1301,
-        "velocity": 25.23,
+        "velocity": 25.22,
         "angle": "Contrarian Truth"
       },
       {
         "title": "Cannon Users Are Doing It Wrong",
         "creator": "Ken",
-        "views": 857,
-        "velocity": 15.28,
+        "views": 855,
+        "velocity": 15.25,
         "angle": "Contrarian Truth"
       },
       {
@@ -7665,6 +7678,19 @@
   "strategy": {
     "active_niche": "Clash Royale & Mobile Gaming Shorts",
     "weekly_memos": [
+      {
+        "week": "WEEK 2 - SEED FEED OPTIMIZATION",
+        "date": "2026-10-18",
+        "author": "ANALYST & STRATEGIST",
+        "headline": "Switching from 5/day to 3 Spaced Drops/Day (Seed Feed Isolation & Anti-Cannibalization)",
+        "summary": "Data from the first 18 published Shorts (13,000+ views) proved that 1-3 drops/day achieved 800-1,300 views consistently, whereas compressing 5 drops/day into 3-hour windows starved the 4:30 PM and 7:30 PM slots of seed impressions on a 4-day-old channel. We are officially shifting cadence to 3 spaced daily drops (11:30 AM, 4:30 PM, 9:30 PM ET) with a 5-hour isolation window, sanitizing metadata to 100% pure Clash Royale tags, and running autonomous A/B title pivoting every cycle.",
+        "action_items": [
+          "Shift daily publishing schedule to 11:30 AM, 4:30 PM, 9:30 PM ET.",
+          "Sanitize PublisherAgent to eliminate generic podcast/mindset fallback tags.",
+          "Wire AnalystAgent batch telemetry directly into factory_ken daemon cycle.",
+          "Maintain 72h rolling buffer (9 clips locked) across target slots."
+        ]
+      },
       {
         "week": "WEEK 1 - LAUNCH",
         "date": "2026-10-14",

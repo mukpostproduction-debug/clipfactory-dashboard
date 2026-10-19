@@ -1,6 +1,6 @@
 {
-  "timestamp": 1792452782.4136279,
-  "sync_time_iso": "2026-10-19T23:33:02Z",
+  "timestamp": 1792452822.8175948,
+  "sync_time_iso": "2026-10-19T23:33:42Z",
   "default_channel": "ken_clips_burger",
   "channels": {
     "ken_clips_burger": {
@@ -147,17 +147,17 @@
         },
         "PUBLISHER": {
           "status": "working",
-          "current_task": "Deploying to YouTube (@kenclipsburger420) for release 11:30 AM ET (Wed, Oct 21)...",
+          "current_task": "Short SCHEDULED on YouTube: mrG9jdRdbd4 (11:30 AM ET (Wed, Oct 21))",
           "last_completed_task": "Uploaded all 3 initial Clash Royale gaming cuts to YouTube (kenclipsburger420)",
           "recent_logs": [
-            "[13:02:49] Generating gaming A/B metadata for slot: 11:30 AM ET (Tue, Oct 20)...",
             "[13:03:02] Deploying to YouTube (@kenclipsburger420) for release 11:30 AM ET (Tue, Oct 20)...",
             "[13:03:08] Short SCHEDULED on YouTube: mn2b9SbHoe0 (11:30 AM ET (Tue, Oct 20))",
             "[16:32:46] Generating gaming A/B metadata for slot: 09:30 PM ET (Tue, Oct 20)...",
             "[16:32:52] Deploying to YouTube (@kenclipsburger420) for release 09:30 PM ET (Tue, Oct 20)...",
             "[16:32:57] Short SCHEDULED on YouTube: mOQWrknmk7U (09:30 PM ET (Tue, Oct 20))",
             "[19:32:48] Generating gaming A/B metadata for slot: 11:30 AM ET (Wed, Oct 21)...",
-            "[19:32:57] Deploying to YouTube (@kenclipsburger420) for release 11:30 AM ET (Wed, Oct 21)..."
+            "[19:32:57] Deploying to YouTube (@kenclipsburger420) for release 11:30 AM ET (Wed, Oct 21)...",
+            "[19:33:42] Short SCHEDULED on YouTube: mrG9jdRdbd4 (11:30 AM ET (Wed, Oct 21))"
           ]
         },
         "ANALYST": {
@@ -247,17 +247,6 @@
             "duration": 1113,
             "status": "FAILED_DOWNLOAD",
             "added_at": "2026-10-17T04:48:12Z"
-          },
-          {
-            "id": "ken_1792318278_2",
-            "creator": "Ken",
-            "title": "2.5 cancer cycle [Overtime Battle]",
-            "source_title": "2.5 cancer cycle",
-            "url": "https://www.youtube.com/watch?v=Lt-aEAtFys0",
-            "section": "*540-720",
-            "duration": 1436,
-            "status": "PROCESSING",
-            "added_at": "2026-10-18T10:11:18Z"
           },
           {
             "id": "ken_1792411394_0",
@@ -631,6 +620,19 @@
             "added_at": "2026-10-18T10:11:18Z",
             "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792318278_1_master.mp4",
             "youtube_video_id": "mOQWrknmk7U"
+          },
+          {
+            "id": "ken_1792318278_2",
+            "creator": "Ken",
+            "title": "2.5 cancer cycle [Overtime Battle]",
+            "source_title": "2.5 cancer cycle",
+            "url": "https://www.youtube.com/watch?v=Lt-aEAtFys0",
+            "section": "*540-720",
+            "duration": 1436,
+            "status": "COMPLETED",
+            "added_at": "2026-10-18T10:11:18Z",
+            "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792318278_2_master.mp4",
+            "youtube_video_id": "mrG9jdRdbd4"
           }
         ]
       },
@@ -1152,6 +1154,73 @@
                   "variant": "A",
                   "title": "Why Ken suddenly changed his mind about Clash Royale",
                   "deployed_at": 1792441972.205476,
+                  "reason": "Initial A/B test deployment"
+                }
+              ],
+              "metrics": {
+                "views": 0,
+                "likes": 0,
+                "comments": 0,
+                "retention": 0.0,
+                "ctr": 0.0
+              }
+            },
+            "reframed": "gaming_split"
+          },
+          {
+            "id": "ken_1792318278_2",
+            "source_video": "2.5 cancer cycle [Overtime Battle]",
+            "creator": "Ken",
+            "title": "Never trust a 'Good Luck' in Clash Royale...",
+            "publish_at": "2026-10-21T15:30:00Z",
+            "status": "SCHEDULED",
+            "uploaded": true,
+            "youtube_video_id": "mrG9jdRdbd4",
+            "youtube_url": "https://www.youtube.com/shorts/mrG9jdRdbd4",
+            "video_file": "ken_1792318278_2_master.mp4",
+            "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792318278_2_master.mp4",
+            "duration": 22.99,
+            "hook_summary": "The opponent sends a good luck wish, prompting the creator to immediately spam crying emojis as a mandatory part of the experience.",
+            "metadata": {
+              "title": "Never trust a 'Good Luck' in Clash Royale...",
+              "description": "Receiving a polite greeting at the start of a match is a psychological trap, and the counter-attack requires immediate emotional warfare. Watch how a simple greeting instantly triggers the ultimate toxicity protocol.\n\n\u2022 Recognize the hidden psychological triggers behind opponent emotes\n\u2022 Learn the exact timing for deploying defensive BM (Bad Manner) tactics\n\u2022 Master the art of mental warfare before the first tower even falls\n\nFeaturing: Ken\n\nIs sending a 'Good Luck' at the start of a match actually toxic, or just smart psychology?\n\n#shorts #clashroyale #gaming #ken #supercell #mobilegaming",
+              "tags": [
+                "Clash Royale",
+                "Ken Clash Royale",
+                "Clash Royale Funny",
+                "Clash Royale Emotes",
+                "Clash Royale Toxic",
+                "Clash Royale Momets",
+                "Supercell",
+                "Mobile Gaming",
+                "Clash Royale Gameplay",
+                "Shorts"
+              ],
+              "pinned_comment": "Be honest: do you instantly mute opponents who say good luck, or do you fight back with crying emotes?",
+              "ab_variants": {
+                "A": {
+                  "angle": "Curiosity Gap",
+                  "title": "Never trust a 'Good Luck' in Clash Royale...",
+                  "description": "Receiving a polite greeting at the start of a match is a psychological trap, and the counter-attack requires immediate emotional warfare. Watch how a simple greeting instantly triggers the ultimate toxicity protocol.\n\n\u2022 Recognize the hidden psychological triggers behind opponent emotes\n\u2022 Learn the exact timing for deploying defensive BM (Bad Manner) tactics\n\u2022 Master the art of mental warfare before the first tower even falls\n\nFeaturing: Ken\n\nIs sending a 'Good Luck' at the start of a match actually toxic, or just smart psychology?\n\n#shorts #clashroyale #gaming #ken #supercell #mobilegaming"
+                },
+                "B": {
+                  "angle": "Contrarian Truth",
+                  "title": "Why saying Good Luck makes you lose instantly",
+                  "description": "Being nice in mobile gaming is a fatal flaw that top players exploit ruthlessly. True mastery isn't just about card placement; it's about breaking your opponent's mental state from second one.\n\n\u2022 Why polite greetings are actually red flags in ladder matches\n\u2022 How to weaponize emote spam to force opponent misplays\n\u2022 The brutal reality of modern mobile gaming etiquette\n\nFeaturing: Ken\n\nWould you rather play a toxic emote spammer or a silent player who destroys you?\n\n#shorts #clashroyale #gaming #ken #supercell #mobilegaming"
+                },
+                "C": {
+                  "angle": "Actionable Protocol",
+                  "title": "The Ultimate Clash Royale Emote Defense Strategy",
+                  "description": "When your opponent opens with a friendly greeting, you need an immediate, foolproof counter-strategy to reclaim psychological dominance. Here is the exact playbook for handling early-game pleasantries.\n\n\u2022 Step 1: Identify the fake friendliness of the opening 'Good Luck'\n\u2022 Step 2: Queue up the maximum capacity crying emoji response\n\u2022 Step 3: Secure the psychological advantage before elixir generation starts\n\nFeaturing: Ken\n\nWhat is your go-to emote when an opponent tries to mind-game you at the start?\n\n#shorts #clashroyale #gaming #ken #supercell #mobilegaming"
+                }
+              },
+              "active_variant": "A",
+              "test_status": "ACTIVE_TEST",
+              "variant_history": [
+                {
+                  "variant": "A",
+                  "title": "Never trust a 'Good Luck' in Clash Royale...",
+                  "deployed_at": 1792452777.029142,
                   "reason": "Initial A/B test deployment"
                 }
               ],
@@ -5679,17 +5748,17 @@
     },
     "PUBLISHER": {
       "status": "working",
-      "current_task": "Deploying to YouTube (@kenclipsburger420) for release 11:30 AM ET (Wed, Oct 21)...",
+      "current_task": "Short SCHEDULED on YouTube: mrG9jdRdbd4 (11:30 AM ET (Wed, Oct 21))",
       "last_completed_task": "Uploaded all 3 initial Clash Royale gaming cuts to YouTube (kenclipsburger420)",
       "recent_logs": [
-        "[13:02:49] Generating gaming A/B metadata for slot: 11:30 AM ET (Tue, Oct 20)...",
         "[13:03:02] Deploying to YouTube (@kenclipsburger420) for release 11:30 AM ET (Tue, Oct 20)...",
         "[13:03:08] Short SCHEDULED on YouTube: mn2b9SbHoe0 (11:30 AM ET (Tue, Oct 20))",
         "[16:32:46] Generating gaming A/B metadata for slot: 09:30 PM ET (Tue, Oct 20)...",
         "[16:32:52] Deploying to YouTube (@kenclipsburger420) for release 09:30 PM ET (Tue, Oct 20)...",
         "[16:32:57] Short SCHEDULED on YouTube: mOQWrknmk7U (09:30 PM ET (Tue, Oct 20))",
         "[19:32:48] Generating gaming A/B metadata for slot: 11:30 AM ET (Wed, Oct 21)...",
-        "[19:32:57] Deploying to YouTube (@kenclipsburger420) for release 11:30 AM ET (Wed, Oct 21)..."
+        "[19:32:57] Deploying to YouTube (@kenclipsburger420) for release 11:30 AM ET (Wed, Oct 21)...",
+        "[19:33:42] Short SCHEDULED on YouTube: mrG9jdRdbd4 (11:30 AM ET (Wed, Oct 21))"
       ]
     },
     "ANALYST": {
@@ -5779,17 +5848,6 @@
         "duration": 1113,
         "status": "FAILED_DOWNLOAD",
         "added_at": "2026-10-17T04:48:12Z"
-      },
-      {
-        "id": "ken_1792318278_2",
-        "creator": "Ken",
-        "title": "2.5 cancer cycle [Overtime Battle]",
-        "source_title": "2.5 cancer cycle",
-        "url": "https://www.youtube.com/watch?v=Lt-aEAtFys0",
-        "section": "*540-720",
-        "duration": 1436,
-        "status": "PROCESSING",
-        "added_at": "2026-10-18T10:11:18Z"
       },
       {
         "id": "ken_1792411394_0",
@@ -6163,6 +6221,19 @@
         "added_at": "2026-10-18T10:11:18Z",
         "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792318278_1_master.mp4",
         "youtube_video_id": "mOQWrknmk7U"
+      },
+      {
+        "id": "ken_1792318278_2",
+        "creator": "Ken",
+        "title": "2.5 cancer cycle [Overtime Battle]",
+        "source_title": "2.5 cancer cycle",
+        "url": "https://www.youtube.com/watch?v=Lt-aEAtFys0",
+        "section": "*540-720",
+        "duration": 1436,
+        "status": "COMPLETED",
+        "added_at": "2026-10-18T10:11:18Z",
+        "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792318278_2_master.mp4",
+        "youtube_video_id": "mrG9jdRdbd4"
       }
     ]
   },
@@ -6684,6 +6755,73 @@
               "variant": "A",
               "title": "Why Ken suddenly changed his mind about Clash Royale",
               "deployed_at": 1792441972.205476,
+              "reason": "Initial A/B test deployment"
+            }
+          ],
+          "metrics": {
+            "views": 0,
+            "likes": 0,
+            "comments": 0,
+            "retention": 0.0,
+            "ctr": 0.0
+          }
+        },
+        "reframed": "gaming_split"
+      },
+      {
+        "id": "ken_1792318278_2",
+        "source_video": "2.5 cancer cycle [Overtime Battle]",
+        "creator": "Ken",
+        "title": "Never trust a 'Good Luck' in Clash Royale...",
+        "publish_at": "2026-10-21T15:30:00Z",
+        "status": "SCHEDULED",
+        "uploaded": true,
+        "youtube_video_id": "mrG9jdRdbd4",
+        "youtube_url": "https://www.youtube.com/shorts/mrG9jdRdbd4",
+        "video_file": "ken_1792318278_2_master.mp4",
+        "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792318278_2_master.mp4",
+        "duration": 22.99,
+        "hook_summary": "The opponent sends a good luck wish, prompting the creator to immediately spam crying emojis as a mandatory part of the experience.",
+        "metadata": {
+          "title": "Never trust a 'Good Luck' in Clash Royale...",
+          "description": "Receiving a polite greeting at the start of a match is a psychological trap, and the counter-attack requires immediate emotional warfare. Watch how a simple greeting instantly triggers the ultimate toxicity protocol.\n\n\u2022 Recognize the hidden psychological triggers behind opponent emotes\n\u2022 Learn the exact timing for deploying defensive BM (Bad Manner) tactics\n\u2022 Master the art of mental warfare before the first tower even falls\n\nFeaturing: Ken\n\nIs sending a 'Good Luck' at the start of a match actually toxic, or just smart psychology?\n\n#shorts #clashroyale #gaming #ken #supercell #mobilegaming",
+          "tags": [
+            "Clash Royale",
+            "Ken Clash Royale",
+            "Clash Royale Funny",
+            "Clash Royale Emotes",
+            "Clash Royale Toxic",
+            "Clash Royale Momets",
+            "Supercell",
+            "Mobile Gaming",
+            "Clash Royale Gameplay",
+            "Shorts"
+          ],
+          "pinned_comment": "Be honest: do you instantly mute opponents who say good luck, or do you fight back with crying emotes?",
+          "ab_variants": {
+            "A": {
+              "angle": "Curiosity Gap",
+              "title": "Never trust a 'Good Luck' in Clash Royale...",
+              "description": "Receiving a polite greeting at the start of a match is a psychological trap, and the counter-attack requires immediate emotional warfare. Watch how a simple greeting instantly triggers the ultimate toxicity protocol.\n\n\u2022 Recognize the hidden psychological triggers behind opponent emotes\n\u2022 Learn the exact timing for deploying defensive BM (Bad Manner) tactics\n\u2022 Master the art of mental warfare before the first tower even falls\n\nFeaturing: Ken\n\nIs sending a 'Good Luck' at the start of a match actually toxic, or just smart psychology?\n\n#shorts #clashroyale #gaming #ken #supercell #mobilegaming"
+            },
+            "B": {
+              "angle": "Contrarian Truth",
+              "title": "Why saying Good Luck makes you lose instantly",
+              "description": "Being nice in mobile gaming is a fatal flaw that top players exploit ruthlessly. True mastery isn't just about card placement; it's about breaking your opponent's mental state from second one.\n\n\u2022 Why polite greetings are actually red flags in ladder matches\n\u2022 How to weaponize emote spam to force opponent misplays\n\u2022 The brutal reality of modern mobile gaming etiquette\n\nFeaturing: Ken\n\nWould you rather play a toxic emote spammer or a silent player who destroys you?\n\n#shorts #clashroyale #gaming #ken #supercell #mobilegaming"
+            },
+            "C": {
+              "angle": "Actionable Protocol",
+              "title": "The Ultimate Clash Royale Emote Defense Strategy",
+              "description": "When your opponent opens with a friendly greeting, you need an immediate, foolproof counter-strategy to reclaim psychological dominance. Here is the exact playbook for handling early-game pleasantries.\n\n\u2022 Step 1: Identify the fake friendliness of the opening 'Good Luck'\n\u2022 Step 2: Queue up the maximum capacity crying emoji response\n\u2022 Step 3: Secure the psychological advantage before elixir generation starts\n\nFeaturing: Ken\n\nWhat is your go-to emote when an opponent tries to mind-game you at the start?\n\n#shorts #clashroyale #gaming #ken #supercell #mobilegaming"
+            }
+          },
+          "active_variant": "A",
+          "test_status": "ACTIVE_TEST",
+          "variant_history": [
+            {
+              "variant": "A",
+              "title": "Never trust a 'Good Luck' in Clash Royale...",
+              "deployed_at": 1792452777.029142,
               "reason": "Initial A/B test deployment"
             }
           ],

@@ -1,6 +1,6 @@
 {
-  "timestamp": 1792418532.0293188,
-  "sync_time_iso": "2026-10-19T14:02:12Z",
+  "timestamp": 1792418558.3368,
+  "sync_time_iso": "2026-10-19T14:02:38Z",
   "default_channel": "ken_clips_burger",
   "channels": {
     "ken_clips_burger": {
@@ -147,17 +147,17 @@
         },
         "PUBLISHER": {
           "status": "working",
-          "current_task": "Short SCHEDULED on YouTube: 8G5U74OB-qo (07:30 PM ET (Tue, Oct 20))",
+          "current_task": "Short SCHEDULED on YouTube: meKAqWBBzXQ (11:30 AM ET (Mon, Oct 19))",
           "last_completed_task": "Uploaded all 3 initial Clash Royale gaming cuts to YouTube (kenclipsburger420)",
           "recent_logs": [
-            "[17:05:03] Deploying to YouTube (@kenclipsburger420) for release 01:00 PM ET (Tue, Oct 20)...",
-            "[17:05:09] Short SCHEDULED on YouTube: zWix_onyzgM (01:00 PM ET (Tue, Oct 20))",
-            "[17:08:39] Generating gaming A/B metadata for slot: 04:30 PM ET (Tue, Oct 20)...",
             "[17:08:49] Deploying to YouTube (@kenclipsburger420) for release 04:30 PM ET (Tue, Oct 20)...",
             "[17:08:55] Short SCHEDULED on YouTube: 0WNit8ylt38 (04:30 PM ET (Tue, Oct 20))",
             "[19:37:24] Generating gaming A/B metadata for slot: 07:30 PM ET (Tue, Oct 20)...",
             "[19:37:30] Deploying to YouTube (@kenclipsburger420) for release 07:30 PM ET (Tue, Oct 20)...",
-            "[19:37:35] Short SCHEDULED on YouTube: 8G5U74OB-qo (07:30 PM ET (Tue, Oct 20))"
+            "[19:37:35] Short SCHEDULED on YouTube: 8G5U74OB-qo (07:30 PM ET (Tue, Oct 20))",
+            "[10:02:29] Generating gaming A/B metadata for slot: 11:30 AM ET (Mon, Oct 19)...",
+            "[10:02:33] Deploying to YouTube (@kenclipsburger420) for release 11:30 AM ET (Mon, Oct 19)...",
+            "[10:02:38] Short SCHEDULED on YouTube: meKAqWBBzXQ (11:30 AM ET (Mon, Oct 19))"
           ]
         },
         "ANALYST": {
@@ -247,17 +247,6 @@
             "duration": 1113,
             "status": "FAILED_DOWNLOAD",
             "added_at": "2026-10-17T04:48:12Z"
-          },
-          {
-            "id": "ken_1792246995_1",
-            "creator": "Ken",
-            "title": "1.9 aggression cycle [Clutch Moment]",
-            "source_title": "1.9 aggression cycle",
-            "url": "https://www.youtube.com/watch?v=1tKJ4BnHC2A",
-            "section": "*300-480",
-            "duration": 2181,
-            "status": "PROCESSING",
-            "added_at": "2026-10-17T14:23:15Z"
           },
           {
             "id": "ken_1792246995_2",
@@ -623,6 +612,19 @@
             "added_at": "2026-10-17T14:23:15Z",
             "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792246995_0_master.mp4",
             "youtube_video_id": "8G5U74OB-qo"
+          },
+          {
+            "id": "ken_1792246995_1",
+            "creator": "Ken",
+            "title": "1.9 aggression cycle [Clutch Moment]",
+            "source_title": "1.9 aggression cycle",
+            "url": "https://www.youtube.com/watch?v=1tKJ4BnHC2A",
+            "section": "*300-480",
+            "duration": 2181,
+            "status": "COMPLETED",
+            "added_at": "2026-10-17T14:23:15Z",
+            "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792246995_1_master.mp4",
+            "youtube_video_id": "meKAqWBBzXQ"
           }
         ]
       },
@@ -1144,6 +1146,72 @@
                   "variant": "A",
                   "title": "He tried getting deep mid-match... BIG mistake.",
                   "deployed_at": 1792366650.134219,
+                  "reason": "Initial A/B test deployment"
+                }
+              ],
+              "metrics": {
+                "views": 0,
+                "likes": 0,
+                "comments": 0,
+                "retention": 0.0,
+                "ctr": 0.0
+              }
+            },
+            "reframed": "gaming_split"
+          },
+          {
+            "id": "ken_1792246995_1",
+            "source_video": "1.9 aggression cycle [Clutch Moment]",
+            "creator": "Ken",
+            "title": "He regret saying this immediately...",
+            "publish_at": "2026-10-19T15:30:00Z",
+            "status": "SCHEDULED",
+            "uploaded": true,
+            "youtube_video_id": "meKAqWBBzXQ",
+            "youtube_url": "https://www.youtube.com/shorts/meKAqWBBzXQ",
+            "video_file": "ken_1792246995_1_master.mp4",
+            "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792246995_1_master.mp4",
+            "duration": 21.8,
+            "hook_summary": "The creator dramatically declares themselves the best player in the game right before making a massive play.",
+            "metadata": {
+              "title": "He regret saying this immediately...",
+              "description": "Pride always comes right before the biggest fall in gaming history. Watch how fast confidence turns into instant regret in this wild gameplay moment.\n\n\u2022 Witness the exact second arrogance backfires in real-time\n\u2022 Learn why overconfidence is the ultimate trap for players\n\u2022 See the clutch play that completely flips the script\n\nFeaturing: Ken\n\nHave you ever jinxed yourself this badly while gaming? Drop your most embarrassing moments in the comments!\n\n#shorts #gaming #gamingmoments #ken #fail #mobilegaming",
+              "tags": [
+                "Ken",
+                "gaming moments",
+                "ego check",
+                "gaming fails",
+                "funny gaming shorts",
+                "mobile gaming",
+                "pro player",
+                "gaming clutch",
+                "instant regret"
+              ],
+              "pinned_comment": "On a scale of 1 to 10, how fast did karma hit right here? Wrong answers only!",
+              "ab_variants": {
+                "A": {
+                  "angle": "Curiosity Gap",
+                  "title": "He regret saying this immediately...",
+                  "description": "Pride always comes right before the biggest fall in gaming history. Watch how fast confidence turns into instant regret in this wild gameplay moment.\n\n\u2022 Witness the exact second arrogance backfires in real-time\n\u2022 Learn why overconfidence is the ultimate trap for players\n\u2022 See the clutch play that completely flips the script\n\nFeaturing: Ken\n\nHave you ever jinxed yourself this badly while gaming? Drop your most embarrassing moments in the comments!\n\n#shorts #gaming #gamingmoments #ken #fail #mobilegaming"
+                },
+                "B": {
+                  "angle": "Contrarian Truth",
+                  "title": "Being arrogant makes you play better.",
+                  "description": "They say humility is key to winning, but sometimes delusion is the only strategy that works. Watch this absolute ego trip unfold on screen.\n\n\u2022 Discover the psychological edge of supreme self-belief\n\u2022 Analyze the fine line between genius and total disaster\n\u2022 See if the massive hype actually translates into a win\n\nFeaturing: Ken\n\nIs pure ego actually required to be a top tier player, or is it just toxic? Let us know your take below.\n\n#shorts #gaming #competitivegaming #ken #mindset #gamingclips"
+                },
+                "C": {
+                  "angle": "Actionable Protocol",
+                  "title": "How to spot a fake pro in 5 seconds",
+                  "description": "Want to know how to instantly tell if a player is about to throw the entire match? Just listen to their confidence level right before the climax.\n\n\u2022 Identify the ultimate warning sign of an impending choke\n\u2022 Master the art of calling your own shots under pressure\n\u2022 Understand how to recover when a massive play goes wrong\n\nFeaturing: Ken\n\nWhat is the biggest red flag that a teammate is about to throw the game? Tell us your thoughts!\n\n#shorts #gaming #strategy #ken #protips #gamerlife"
+                }
+              },
+              "active_variant": "A",
+              "test_status": "ACTIVE_TEST",
+              "variant_history": [
+                {
+                  "variant": "A",
+                  "title": "He regret saying this immediately...",
+                  "deployed_at": 1792418553.4621718,
                   "reason": "Initial A/B test deployment"
                 }
               ],
@@ -5399,17 +5467,17 @@
     },
     "PUBLISHER": {
       "status": "working",
-      "current_task": "Short SCHEDULED on YouTube: 8G5U74OB-qo (07:30 PM ET (Tue, Oct 20))",
+      "current_task": "Short SCHEDULED on YouTube: meKAqWBBzXQ (11:30 AM ET (Mon, Oct 19))",
       "last_completed_task": "Uploaded all 3 initial Clash Royale gaming cuts to YouTube (kenclipsburger420)",
       "recent_logs": [
-        "[17:05:03] Deploying to YouTube (@kenclipsburger420) for release 01:00 PM ET (Tue, Oct 20)...",
-        "[17:05:09] Short SCHEDULED on YouTube: zWix_onyzgM (01:00 PM ET (Tue, Oct 20))",
-        "[17:08:39] Generating gaming A/B metadata for slot: 04:30 PM ET (Tue, Oct 20)...",
         "[17:08:49] Deploying to YouTube (@kenclipsburger420) for release 04:30 PM ET (Tue, Oct 20)...",
         "[17:08:55] Short SCHEDULED on YouTube: 0WNit8ylt38 (04:30 PM ET (Tue, Oct 20))",
         "[19:37:24] Generating gaming A/B metadata for slot: 07:30 PM ET (Tue, Oct 20)...",
         "[19:37:30] Deploying to YouTube (@kenclipsburger420) for release 07:30 PM ET (Tue, Oct 20)...",
-        "[19:37:35] Short SCHEDULED on YouTube: 8G5U74OB-qo (07:30 PM ET (Tue, Oct 20))"
+        "[19:37:35] Short SCHEDULED on YouTube: 8G5U74OB-qo (07:30 PM ET (Tue, Oct 20))",
+        "[10:02:29] Generating gaming A/B metadata for slot: 11:30 AM ET (Mon, Oct 19)...",
+        "[10:02:33] Deploying to YouTube (@kenclipsburger420) for release 11:30 AM ET (Mon, Oct 19)...",
+        "[10:02:38] Short SCHEDULED on YouTube: meKAqWBBzXQ (11:30 AM ET (Mon, Oct 19))"
       ]
     },
     "ANALYST": {
@@ -5499,17 +5567,6 @@
         "duration": 1113,
         "status": "FAILED_DOWNLOAD",
         "added_at": "2026-10-17T04:48:12Z"
-      },
-      {
-        "id": "ken_1792246995_1",
-        "creator": "Ken",
-        "title": "1.9 aggression cycle [Clutch Moment]",
-        "source_title": "1.9 aggression cycle",
-        "url": "https://www.youtube.com/watch?v=1tKJ4BnHC2A",
-        "section": "*300-480",
-        "duration": 2181,
-        "status": "PROCESSING",
-        "added_at": "2026-10-17T14:23:15Z"
       },
       {
         "id": "ken_1792246995_2",
@@ -5875,6 +5932,19 @@
         "added_at": "2026-10-17T14:23:15Z",
         "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792246995_0_master.mp4",
         "youtube_video_id": "8G5U74OB-qo"
+      },
+      {
+        "id": "ken_1792246995_1",
+        "creator": "Ken",
+        "title": "1.9 aggression cycle [Clutch Moment]",
+        "source_title": "1.9 aggression cycle",
+        "url": "https://www.youtube.com/watch?v=1tKJ4BnHC2A",
+        "section": "*300-480",
+        "duration": 2181,
+        "status": "COMPLETED",
+        "added_at": "2026-10-17T14:23:15Z",
+        "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792246995_1_master.mp4",
+        "youtube_video_id": "meKAqWBBzXQ"
       }
     ]
   },
@@ -6396,6 +6466,72 @@
               "variant": "A",
               "title": "He tried getting deep mid-match... BIG mistake.",
               "deployed_at": 1792366650.134219,
+              "reason": "Initial A/B test deployment"
+            }
+          ],
+          "metrics": {
+            "views": 0,
+            "likes": 0,
+            "comments": 0,
+            "retention": 0.0,
+            "ctr": 0.0
+          }
+        },
+        "reframed": "gaming_split"
+      },
+      {
+        "id": "ken_1792246995_1",
+        "source_video": "1.9 aggression cycle [Clutch Moment]",
+        "creator": "Ken",
+        "title": "He regret saying this immediately...",
+        "publish_at": "2026-10-19T15:30:00Z",
+        "status": "SCHEDULED",
+        "uploaded": true,
+        "youtube_video_id": "meKAqWBBzXQ",
+        "youtube_url": "https://www.youtube.com/shorts/meKAqWBBzXQ",
+        "video_file": "ken_1792246995_1_master.mp4",
+        "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792246995_1_master.mp4",
+        "duration": 21.8,
+        "hook_summary": "The creator dramatically declares themselves the best player in the game right before making a massive play.",
+        "metadata": {
+          "title": "He regret saying this immediately...",
+          "description": "Pride always comes right before the biggest fall in gaming history. Watch how fast confidence turns into instant regret in this wild gameplay moment.\n\n\u2022 Witness the exact second arrogance backfires in real-time\n\u2022 Learn why overconfidence is the ultimate trap for players\n\u2022 See the clutch play that completely flips the script\n\nFeaturing: Ken\n\nHave you ever jinxed yourself this badly while gaming? Drop your most embarrassing moments in the comments!\n\n#shorts #gaming #gamingmoments #ken #fail #mobilegaming",
+          "tags": [
+            "Ken",
+            "gaming moments",
+            "ego check",
+            "gaming fails",
+            "funny gaming shorts",
+            "mobile gaming",
+            "pro player",
+            "gaming clutch",
+            "instant regret"
+          ],
+          "pinned_comment": "On a scale of 1 to 10, how fast did karma hit right here? Wrong answers only!",
+          "ab_variants": {
+            "A": {
+              "angle": "Curiosity Gap",
+              "title": "He regret saying this immediately...",
+              "description": "Pride always comes right before the biggest fall in gaming history. Watch how fast confidence turns into instant regret in this wild gameplay moment.\n\n\u2022 Witness the exact second arrogance backfires in real-time\n\u2022 Learn why overconfidence is the ultimate trap for players\n\u2022 See the clutch play that completely flips the script\n\nFeaturing: Ken\n\nHave you ever jinxed yourself this badly while gaming? Drop your most embarrassing moments in the comments!\n\n#shorts #gaming #gamingmoments #ken #fail #mobilegaming"
+            },
+            "B": {
+              "angle": "Contrarian Truth",
+              "title": "Being arrogant makes you play better.",
+              "description": "They say humility is key to winning, but sometimes delusion is the only strategy that works. Watch this absolute ego trip unfold on screen.\n\n\u2022 Discover the psychological edge of supreme self-belief\n\u2022 Analyze the fine line between genius and total disaster\n\u2022 See if the massive hype actually translates into a win\n\nFeaturing: Ken\n\nIs pure ego actually required to be a top tier player, or is it just toxic? Let us know your take below.\n\n#shorts #gaming #competitivegaming #ken #mindset #gamingclips"
+            },
+            "C": {
+              "angle": "Actionable Protocol",
+              "title": "How to spot a fake pro in 5 seconds",
+              "description": "Want to know how to instantly tell if a player is about to throw the entire match? Just listen to their confidence level right before the climax.\n\n\u2022 Identify the ultimate warning sign of an impending choke\n\u2022 Master the art of calling your own shots under pressure\n\u2022 Understand how to recover when a massive play goes wrong\n\nFeaturing: Ken\n\nWhat is the biggest red flag that a teammate is about to throw the game? Tell us your thoughts!\n\n#shorts #gaming #strategy #ken #protips #gamerlife"
+            }
+          },
+          "active_variant": "A",
+          "test_status": "ACTIVE_TEST",
+          "variant_history": [
+            {
+              "variant": "A",
+              "title": "He regret saying this immediately...",
+              "deployed_at": 1792418553.4621718,
               "reason": "Initial A/B test deployment"
             }
           ],

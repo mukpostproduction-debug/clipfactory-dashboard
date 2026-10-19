@@ -1,6 +1,6 @@
 {
-  "timestamp": 1792441966.4924579,
-  "sync_time_iso": "2026-10-19T20:32:46Z",
+  "timestamp": 1792441978.030495,
+  "sync_time_iso": "2026-10-19T20:32:58Z",
   "default_channel": "ken_clips_burger",
   "channels": {
     "ken_clips_burger": {
@@ -147,17 +147,17 @@
         },
         "PUBLISHER": {
           "status": "working",
-          "current_task": "Generating gaming A/B metadata for slot: 09:30 PM ET (Tue, Oct 20)...",
+          "current_task": "Short SCHEDULED on YouTube: mOQWrknmk7U (09:30 PM ET (Tue, Oct 20))",
           "last_completed_task": "Uploaded all 3 initial Clash Royale gaming cuts to YouTube (kenclipsburger420)",
           "recent_logs": [
-            "[10:02:38] Short SCHEDULED on YouTube: meKAqWBBzXQ (11:30 AM ET (Mon, Oct 19))",
-            "[11:32:37] Generating gaming A/B metadata for slot: 09:30 PM ET (Mon, Oct 19)...",
             "[11:32:55] Deploying to YouTube (@kenclipsburger420) for release 09:30 PM ET (Mon, Oct 19)...",
             "[11:33:00] Short SCHEDULED on YouTube: hpNHZGXvMwo (09:30 PM ET (Mon, Oct 19))",
             "[13:02:49] Generating gaming A/B metadata for slot: 11:30 AM ET (Tue, Oct 20)...",
             "[13:03:02] Deploying to YouTube (@kenclipsburger420) for release 11:30 AM ET (Tue, Oct 20)...",
             "[13:03:08] Short SCHEDULED on YouTube: mn2b9SbHoe0 (11:30 AM ET (Tue, Oct 20))",
-            "[16:32:46] Generating gaming A/B metadata for slot: 09:30 PM ET (Tue, Oct 20)..."
+            "[16:32:46] Generating gaming A/B metadata for slot: 09:30 PM ET (Tue, Oct 20)...",
+            "[16:32:52] Deploying to YouTube (@kenclipsburger420) for release 09:30 PM ET (Tue, Oct 20)...",
+            "[16:32:57] Short SCHEDULED on YouTube: mOQWrknmk7U (09:30 PM ET (Tue, Oct 20))"
           ]
         },
         "ANALYST": {
@@ -247,17 +247,6 @@
             "duration": 1113,
             "status": "FAILED_DOWNLOAD",
             "added_at": "2026-10-17T04:48:12Z"
-          },
-          {
-            "id": "ken_1792318278_1",
-            "creator": "Ken",
-            "title": "2.5 cancer cycle [Clutch Moment]",
-            "source_title": "2.5 cancer cycle",
-            "url": "https://www.youtube.com/watch?v=Lt-aEAtFys0",
-            "section": "*300-480",
-            "duration": 1436,
-            "status": "PROCESSING",
-            "added_at": "2026-10-18T10:11:18Z"
           },
           {
             "id": "ken_1792318278_2",
@@ -629,6 +618,19 @@
             "added_at": "2026-10-18T10:11:18Z",
             "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792318278_0_master.mp4",
             "youtube_video_id": "mn2b9SbHoe0"
+          },
+          {
+            "id": "ken_1792318278_1",
+            "creator": "Ken",
+            "title": "2.5 cancer cycle [Clutch Moment]",
+            "source_title": "2.5 cancer cycle",
+            "url": "https://www.youtube.com/watch?v=Lt-aEAtFys0",
+            "section": "*300-480",
+            "duration": 1436,
+            "status": "COMPLETED",
+            "added_at": "2026-10-18T10:11:18Z",
+            "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792318278_1_master.mp4",
+            "youtube_video_id": "mOQWrknmk7U"
           }
         ]
       },
@@ -1150,6 +1152,72 @@
                   "variant": "A",
                   "title": "Why this broken spam strategy actually works...",
                   "deployed_at": 1792429382.547935,
+                  "reason": "Initial A/B test deployment"
+                }
+              ],
+              "metrics": {
+                "views": 0,
+                "likes": 0,
+                "comments": 0,
+                "retention": 0.0,
+                "ctr": 0.0
+              }
+            },
+            "reframed": "gaming_split"
+          },
+          {
+            "id": "ken_1792318278_1",
+            "source_video": "2.5 cancer cycle [Clutch Moment]",
+            "creator": "Ken",
+            "title": "Why Ken suddenly changed his mind about Clash Royale",
+            "publish_at": "2026-10-21T01:30:00Z",
+            "status": "SCHEDULED",
+            "uploaded": true,
+            "youtube_video_id": "mOQWrknmk7U",
+            "youtube_url": "https://www.youtube.com/shorts/mOQWrknmk7U",
+            "video_file": "ken_1792318278_1_master.mp4",
+            "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792318278_1_master.mp4",
+            "duration": 24.55,
+            "hook_summary": "The creator goes from raging at the game being unfair to completely loving it, explaining his shameless strategy of spamming Royal Giant at the bridge.",
+            "metadata": {
+              "title": "Why Ken suddenly changed his mind about Clash Royale",
+              "description": "Watch the exact moment a total rage-quit transforms into pure celebration mid-match. You won't believe what caused this instant mood flip.\n\n\u2022 Experience the emotional rollercoaster of a mid-ladder Clash Royale meltdown\n\u2022 Discover the exact second the tables turn in Ken's favor\n\u2022 See how quickly a toxic match can become an absolute win\n\nFeaturing: Ken\n\nWhat is the absolute unluckiest you have ever been in a mobile game match? Drop your worst rage stories below!\n\n#shorts #clashroyale #gaming #ken #supercell #mobilegaming",
+              "tags": [
+                "clash royale",
+                "royal giant",
+                "ken clash royale",
+                "clash royale funny moments",
+                "clash royale rage",
+                "clash royale strategy",
+                "mobile gaming",
+                "supercell",
+                "clash royale gameplay"
+              ],
+              "pinned_comment": "Be honest: have you ever screamed out loud and then immediately won the match like this? \ud83d\ude02",
+              "ab_variants": {
+                "A": {
+                  "angle": "Curiosity Gap",
+                  "title": "Why Ken suddenly changed his mind about Clash Royale",
+                  "description": "Watch the exact moment a total rage-quit transforms into pure celebration mid-match. You won't believe what caused this instant mood flip.\n\n\u2022 Experience the emotional rollercoaster of a mid-ladder Clash Royale meltdown\n\u2022 Discover the exact second the tables turn in Ken's favor\n\u2022 See how quickly a toxic match can become an absolute win\n\nFeaturing: Ken\n\nWhat is the absolute unluckiest you have ever been in a mobile game match? Drop your worst rage stories below!\n\n#shorts #clashroyale #gaming #ken #supercell #mobilegaming"
+                },
+                "B": {
+                  "angle": "Contrarian Truth",
+                  "title": "Spamming bridge is actually the smartest play",
+                  "description": "Stop trying to play smart and calculated. Sometimes the most brain-dead, shameless bridge spam is the only strategy that actually works in this broken meta.\n\n\u2022 Learn why overthinking your pushes is secretly ruining your win rate\n\u2022 Embrace the pure chaos of mindless bridge spam tactics\n\u2022 Find out why the meta rewards aggressive, unhinged gameplay over patience\n\nFeaturing: Ken\n\nIs spamming cards at the bridge a legitimate strategy or just pure toxic luck? Let us know your thoughts in the comments!\n\n#shorts #clashroyale #gaming #ken #supercell #mobilegaming"
+                },
+                "C": {
+                  "angle": "Actionable Protocol",
+                  "title": "The exact Royal Giant bridge spam strategy",
+                  "description": "Master the art of the Royal Giant bridge spam with this foolproof guide to completely overwhelming your opponent's defensive cycle before they can react.\n\n\u2022 Step-by-step breakdown of optimal Royal Giant placement timing\n\u2022 How to punish bad elixir trades instantly at the river\n\u2022 The psychological trick to breaking your opponent's mental focus\n\nFeaturing: Ken\n\nWhat is your go-to win condition when you need a desperate win on ladder? Tell us below!\n\n#shorts #clashroyale #gaming #ken #supercell #mobilegaming"
+                }
+              },
+              "active_variant": "A",
+              "test_status": "ACTIVE_TEST",
+              "variant_history": [
+                {
+                  "variant": "A",
+                  "title": "Why Ken suddenly changed his mind about Clash Royale",
+                  "deployed_at": 1792441972.205476,
                   "reason": "Initial A/B test deployment"
                 }
               ],
@@ -5609,17 +5677,17 @@
     },
     "PUBLISHER": {
       "status": "working",
-      "current_task": "Generating gaming A/B metadata for slot: 09:30 PM ET (Tue, Oct 20)...",
+      "current_task": "Short SCHEDULED on YouTube: mOQWrknmk7U (09:30 PM ET (Tue, Oct 20))",
       "last_completed_task": "Uploaded all 3 initial Clash Royale gaming cuts to YouTube (kenclipsburger420)",
       "recent_logs": [
-        "[10:02:38] Short SCHEDULED on YouTube: meKAqWBBzXQ (11:30 AM ET (Mon, Oct 19))",
-        "[11:32:37] Generating gaming A/B metadata for slot: 09:30 PM ET (Mon, Oct 19)...",
         "[11:32:55] Deploying to YouTube (@kenclipsburger420) for release 09:30 PM ET (Mon, Oct 19)...",
         "[11:33:00] Short SCHEDULED on YouTube: hpNHZGXvMwo (09:30 PM ET (Mon, Oct 19))",
         "[13:02:49] Generating gaming A/B metadata for slot: 11:30 AM ET (Tue, Oct 20)...",
         "[13:03:02] Deploying to YouTube (@kenclipsburger420) for release 11:30 AM ET (Tue, Oct 20)...",
         "[13:03:08] Short SCHEDULED on YouTube: mn2b9SbHoe0 (11:30 AM ET (Tue, Oct 20))",
-        "[16:32:46] Generating gaming A/B metadata for slot: 09:30 PM ET (Tue, Oct 20)..."
+        "[16:32:46] Generating gaming A/B metadata for slot: 09:30 PM ET (Tue, Oct 20)...",
+        "[16:32:52] Deploying to YouTube (@kenclipsburger420) for release 09:30 PM ET (Tue, Oct 20)...",
+        "[16:32:57] Short SCHEDULED on YouTube: mOQWrknmk7U (09:30 PM ET (Tue, Oct 20))"
       ]
     },
     "ANALYST": {
@@ -5709,17 +5777,6 @@
         "duration": 1113,
         "status": "FAILED_DOWNLOAD",
         "added_at": "2026-10-17T04:48:12Z"
-      },
-      {
-        "id": "ken_1792318278_1",
-        "creator": "Ken",
-        "title": "2.5 cancer cycle [Clutch Moment]",
-        "source_title": "2.5 cancer cycle",
-        "url": "https://www.youtube.com/watch?v=Lt-aEAtFys0",
-        "section": "*300-480",
-        "duration": 1436,
-        "status": "PROCESSING",
-        "added_at": "2026-10-18T10:11:18Z"
       },
       {
         "id": "ken_1792318278_2",
@@ -6091,6 +6148,19 @@
         "added_at": "2026-10-18T10:11:18Z",
         "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792318278_0_master.mp4",
         "youtube_video_id": "mn2b9SbHoe0"
+      },
+      {
+        "id": "ken_1792318278_1",
+        "creator": "Ken",
+        "title": "2.5 cancer cycle [Clutch Moment]",
+        "source_title": "2.5 cancer cycle",
+        "url": "https://www.youtube.com/watch?v=Lt-aEAtFys0",
+        "section": "*300-480",
+        "duration": 1436,
+        "status": "COMPLETED",
+        "added_at": "2026-10-18T10:11:18Z",
+        "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792318278_1_master.mp4",
+        "youtube_video_id": "mOQWrknmk7U"
       }
     ]
   },
@@ -6612,6 +6682,72 @@
               "variant": "A",
               "title": "Why this broken spam strategy actually works...",
               "deployed_at": 1792429382.547935,
+              "reason": "Initial A/B test deployment"
+            }
+          ],
+          "metrics": {
+            "views": 0,
+            "likes": 0,
+            "comments": 0,
+            "retention": 0.0,
+            "ctr": 0.0
+          }
+        },
+        "reframed": "gaming_split"
+      },
+      {
+        "id": "ken_1792318278_1",
+        "source_video": "2.5 cancer cycle [Clutch Moment]",
+        "creator": "Ken",
+        "title": "Why Ken suddenly changed his mind about Clash Royale",
+        "publish_at": "2026-10-21T01:30:00Z",
+        "status": "SCHEDULED",
+        "uploaded": true,
+        "youtube_video_id": "mOQWrknmk7U",
+        "youtube_url": "https://www.youtube.com/shorts/mOQWrknmk7U",
+        "video_file": "ken_1792318278_1_master.mp4",
+        "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792318278_1_master.mp4",
+        "duration": 24.55,
+        "hook_summary": "The creator goes from raging at the game being unfair to completely loving it, explaining his shameless strategy of spamming Royal Giant at the bridge.",
+        "metadata": {
+          "title": "Why Ken suddenly changed his mind about Clash Royale",
+          "description": "Watch the exact moment a total rage-quit transforms into pure celebration mid-match. You won't believe what caused this instant mood flip.\n\n\u2022 Experience the emotional rollercoaster of a mid-ladder Clash Royale meltdown\n\u2022 Discover the exact second the tables turn in Ken's favor\n\u2022 See how quickly a toxic match can become an absolute win\n\nFeaturing: Ken\n\nWhat is the absolute unluckiest you have ever been in a mobile game match? Drop your worst rage stories below!\n\n#shorts #clashroyale #gaming #ken #supercell #mobilegaming",
+          "tags": [
+            "clash royale",
+            "royal giant",
+            "ken clash royale",
+            "clash royale funny moments",
+            "clash royale rage",
+            "clash royale strategy",
+            "mobile gaming",
+            "supercell",
+            "clash royale gameplay"
+          ],
+          "pinned_comment": "Be honest: have you ever screamed out loud and then immediately won the match like this? \ud83d\ude02",
+          "ab_variants": {
+            "A": {
+              "angle": "Curiosity Gap",
+              "title": "Why Ken suddenly changed his mind about Clash Royale",
+              "description": "Watch the exact moment a total rage-quit transforms into pure celebration mid-match. You won't believe what caused this instant mood flip.\n\n\u2022 Experience the emotional rollercoaster of a mid-ladder Clash Royale meltdown\n\u2022 Discover the exact second the tables turn in Ken's favor\n\u2022 See how quickly a toxic match can become an absolute win\n\nFeaturing: Ken\n\nWhat is the absolute unluckiest you have ever been in a mobile game match? Drop your worst rage stories below!\n\n#shorts #clashroyale #gaming #ken #supercell #mobilegaming"
+            },
+            "B": {
+              "angle": "Contrarian Truth",
+              "title": "Spamming bridge is actually the smartest play",
+              "description": "Stop trying to play smart and calculated. Sometimes the most brain-dead, shameless bridge spam is the only strategy that actually works in this broken meta.\n\n\u2022 Learn why overthinking your pushes is secretly ruining your win rate\n\u2022 Embrace the pure chaos of mindless bridge spam tactics\n\u2022 Find out why the meta rewards aggressive, unhinged gameplay over patience\n\nFeaturing: Ken\n\nIs spamming cards at the bridge a legitimate strategy or just pure toxic luck? Let us know your thoughts in the comments!\n\n#shorts #clashroyale #gaming #ken #supercell #mobilegaming"
+            },
+            "C": {
+              "angle": "Actionable Protocol",
+              "title": "The exact Royal Giant bridge spam strategy",
+              "description": "Master the art of the Royal Giant bridge spam with this foolproof guide to completely overwhelming your opponent's defensive cycle before they can react.\n\n\u2022 Step-by-step breakdown of optimal Royal Giant placement timing\n\u2022 How to punish bad elixir trades instantly at the river\n\u2022 The psychological trick to breaking your opponent's mental focus\n\nFeaturing: Ken\n\nWhat is your go-to win condition when you need a desperate win on ladder? Tell us below!\n\n#shorts #clashroyale #gaming #ken #supercell #mobilegaming"
+            }
+          },
+          "active_variant": "A",
+          "test_status": "ACTIVE_TEST",
+          "variant_history": [
+            {
+              "variant": "A",
+              "title": "Why Ken suddenly changed his mind about Clash Royale",
+              "deployed_at": 1792441972.205476,
               "reason": "Initial A/B test deployment"
             }
           ],

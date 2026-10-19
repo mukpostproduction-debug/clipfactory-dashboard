@@ -1,6 +1,6 @@
 {
-  "timestamp": 1792418470.1552188,
-  "sync_time_iso": "2026-10-19T14:01:10Z",
+  "timestamp": 1792418532.0293188,
+  "sync_time_iso": "2026-10-19T14:02:12Z",
   "default_channel": "ken_clips_burger",
   "channels": {
     "ken_clips_burger": {
@@ -96,14 +96,14 @@
           "current_task": "Queue up to date. Waiting for next daily Ken upload.",
           "last_completed_task": "Ingested 5 recent Ken master videos into source pool",
           "recent_logs": [
-            "[09:52:49] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
-            "[09:53:00] Queue up to date. Waiting for next daily Ken upload.",
             "[09:55:00] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
             "[09:55:11] Queue up to date. Waiting for next daily Ken upload.",
             "[09:57:12] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
             "[09:57:22] Queue up to date. Waiting for next daily Ken upload.",
             "[09:59:23] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
-            "[09:59:34] Queue up to date. Waiting for next daily Ken upload."
+            "[09:59:34] Queue up to date. Waiting for next daily Ken upload.",
+            "[10:01:35] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
+            "[10:01:47] Queue up to date. Waiting for next daily Ken upload."
           ]
         },
         "STRATEGIST": {
@@ -123,17 +123,17 @@
         },
         "EDITOR": {
           "status": "working",
-          "current_task": "Rendering gaming_split Short with captions: 1.9 aggression cycle [Highligh",
+          "current_task": "Rendering gaming_split Short with captions: 1.9 aggression cycle [Clutch M",
           "last_completed_task": "Rendered 'hp buffed' rage highlight with kinetic pop captions & commentary",
           "recent_logs": [
-            "[16:38:13] Downloading highlight segment (*540-720) for: 25% buff abuse [Overtime Battle]...",
-            "[16:38:19] Rendering gaming_split Short with captions: 25% buff abuse [Overtime Battl",
             "[17:01:50] Downloading highlight segment (*60-240) for: level down trolling [Highlight]...",
             "[17:01:54] Rendering gaming_split Short with captions: level down trolling [Highlight",
             "[17:07:24] Downloading highlight segment (*300-480) for: level down trolling [Clutch Moment]...",
             "[17:07:31] Rendering gaming_split Short with captions: level down trolling [Clutch Mo",
             "[19:36:37] Downloading highlight segment (*60-240) for: 1.9 aggression cycle [Highlight]...",
-            "[19:36:42] Rendering gaming_split Short with captions: 1.9 aggression cycle [Highligh"
+            "[19:36:42] Rendering gaming_split Short with captions: 1.9 aggression cycle [Highligh",
+            "[10:01:47] Downloading highlight segment (*300-480) for: 1.9 aggression cycle [Clutch Moment...",
+            "[10:01:51] Rendering gaming_split Short with captions: 1.9 aggression cycle [Clutch M"
           ]
         },
         "COMMENTATOR": {
@@ -256,7 +256,7 @@
             "url": "https://www.youtube.com/watch?v=1tKJ4BnHC2A",
             "section": "*300-480",
             "duration": 2181,
-            "status": "QUEUED",
+            "status": "PROCESSING",
             "added_at": "2026-10-17T14:23:15Z"
           },
           {
@@ -628,72 +628,6 @@
       },
       "calendar": {
         "scheduled": [
-          {
-            "id": "ken_1792212492_7",
-            "source_video": "the new barrel [Clutch Moment]",
-            "creator": "Ken",
-            "title": "Why the best deck ruins the game",
-            "publish_at": "2026-10-19T14:00:00Z",
-            "status": "SCHEDULED",
-            "uploaded": true,
-            "youtube_video_id": "nih90sNVBT8",
-            "youtube_url": "https://www.youtube.com/shorts/nih90sNVBT8",
-            "video_file": "ken_1792212492_7_master.mp4",
-            "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792212492_7_master.mp4",
-            "duration": 32.0,
-            "hook_summary": "The creator discusses why making the most OP deck in ranked makes them want to quit, leading to a much healthier gaming strategy.",
-            "metadata": {
-              "title": "Why the best deck ruins the game",
-              "description": "Playing with the most overpowered meta build seems like the ultimate strategy, but it actually kills the fun entirely. Find out why chasing perfection in ranked matches leads straight to burnout and what to play instead.\n\n- The hidden trap of using overpowered meta strategies\n- Why winning too easily makes you want to quit gaming\n- The psychological shift needed to bring the fun back\n\nFeaturing: Ken\n\nDo you play ranked strictly to win, or do you prioritize having fun with weird gimmicks? Drop your thoughts below!\n\n#shorts #ken #gaming #gamer #ranked #strategy",
-              "tags": [
-                "gaming burnout",
-                "meta decks",
-                "ranked matches",
-                "gaming gimmicks",
-                "video game strategy",
-                "competitive gaming",
-                "ken gaming",
-                "gaming mindset",
-                "op builds"
-              ],
-              "pinned_comment": "Be honest: have you ever completely quit a game because the meta got too sweaty and boring? Let's settle this in the replies.",
-              "ab_variants": {
-                "A": {
-                  "angle": "Curiosity Gap",
-                  "title": "Why the best deck ruins the game",
-                  "description": "Playing with the most overpowered meta build seems like the ultimate strategy, but it actually kills the fun entirely. Find out why chasing perfection in ranked matches leads straight to burnout and what to play instead.\n\n- The hidden trap of using overpowered meta strategies\n- Why winning too easily makes you want to quit gaming\n- The psychological shift needed to bring the fun back\n\nFeaturing: Ken\n\nDo you play ranked strictly to win, or do you prioritize having fun with weird gimmicks? Drop your thoughts below!\n\n#shorts #ken #gaming #gamer #ranked #strategy"
-                },
-                "B": {
-                  "angle": "Contrarian Truth",
-                  "title": "Stop playing the meta if you want to win",
-                  "description": "Everyone tells you to copy the top players and run the most broken setup. That advice is completely wrong if you actually want to keep enjoying your favorite games.\n\n- Why copying the number one meta deck is a trap\n- How gimmicks and balance changes keep games actually playable\n- Breaking free from competitive exhaustion\n\nFeaturing: Ken\n\nIs the current meta ruining gaming, or are players just taking things way too seriously? Let's argue in the comments.\n\n#shorts #ken #gamingmindset #competitive #gamerlife #meta"
-                },
-                "C": {
-                  "angle": "Actionable Protocol",
-                  "title": "The exact rule to fix your gaming burnout",
-                  "description": "If ranked matches feel like a chore instead of entertainment, you need to change your approach immediately. Use this simple mindset shift to cure your gaming fatigue.\n\n- How to spot when a gimmick or balance change is worth your time\n- The exact moment you should switch from OP builds to fun decks\n- A step-by-step framework to protect your gaming enjoyment\n\nFeaturing: Ken\n\nWhat is your golden rule for avoiding burnout when a game gets too competitive? Tell us below!\n\n#shorts #ken #gamingtips #burnout #gamerproblems #strategy"
-                }
-              },
-              "active_variant": "A",
-              "test_status": "ACTIVE_TEST",
-              "variant_history": [
-                {
-                  "variant": "A",
-                  "title": "Why the best deck ruins the game",
-                  "deployed_at": 1792311853.32834,
-                  "reason": "Initial A/B test deployment"
-                }
-              ],
-              "metrics": {
-                "views": 0,
-                "likes": 0,
-                "comments": 0,
-                "retention": 0.0,
-                "ctr": 0.0
-              }
-            },
-            "reframed": "gaming_split"
-          },
           {
             "id": "ken_1792212492_9",
             "source_video": "least busted card [Clutch Moment]",
@@ -1226,6 +1160,72 @@
         ],
         "held": [],
         "published": [
+          {
+            "id": "ken_1792212492_7",
+            "source_video": "the new barrel [Clutch Moment]",
+            "creator": "Ken",
+            "title": "Why the best deck ruins the game",
+            "publish_at": "2026-10-19T14:00:00Z",
+            "status": "PUBLISHED",
+            "uploaded": true,
+            "youtube_video_id": "nih90sNVBT8",
+            "youtube_url": "https://www.youtube.com/shorts/nih90sNVBT8",
+            "video_file": "ken_1792212492_7_master.mp4",
+            "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792212492_7_master.mp4",
+            "duration": 32.0,
+            "hook_summary": "The creator discusses why making the most OP deck in ranked makes them want to quit, leading to a much healthier gaming strategy.",
+            "metadata": {
+              "title": "Why the best deck ruins the game",
+              "description": "Playing with the most overpowered meta build seems like the ultimate strategy, but it actually kills the fun entirely. Find out why chasing perfection in ranked matches leads straight to burnout and what to play instead.\n\n- The hidden trap of using overpowered meta strategies\n- Why winning too easily makes you want to quit gaming\n- The psychological shift needed to bring the fun back\n\nFeaturing: Ken\n\nDo you play ranked strictly to win, or do you prioritize having fun with weird gimmicks? Drop your thoughts below!\n\n#shorts #ken #gaming #gamer #ranked #strategy",
+              "tags": [
+                "gaming burnout",
+                "meta decks",
+                "ranked matches",
+                "gaming gimmicks",
+                "video game strategy",
+                "competitive gaming",
+                "ken gaming",
+                "gaming mindset",
+                "op builds"
+              ],
+              "pinned_comment": "Be honest: have you ever completely quit a game because the meta got too sweaty and boring? Let's settle this in the replies.",
+              "ab_variants": {
+                "A": {
+                  "angle": "Curiosity Gap",
+                  "title": "Why the best deck ruins the game",
+                  "description": "Playing with the most overpowered meta build seems like the ultimate strategy, but it actually kills the fun entirely. Find out why chasing perfection in ranked matches leads straight to burnout and what to play instead.\n\n- The hidden trap of using overpowered meta strategies\n- Why winning too easily makes you want to quit gaming\n- The psychological shift needed to bring the fun back\n\nFeaturing: Ken\n\nDo you play ranked strictly to win, or do you prioritize having fun with weird gimmicks? Drop your thoughts below!\n\n#shorts #ken #gaming #gamer #ranked #strategy"
+                },
+                "B": {
+                  "angle": "Contrarian Truth",
+                  "title": "Stop playing the meta if you want to win",
+                  "description": "Everyone tells you to copy the top players and run the most broken setup. That advice is completely wrong if you actually want to keep enjoying your favorite games.\n\n- Why copying the number one meta deck is a trap\n- How gimmicks and balance changes keep games actually playable\n- Breaking free from competitive exhaustion\n\nFeaturing: Ken\n\nIs the current meta ruining gaming, or are players just taking things way too seriously? Let's argue in the comments.\n\n#shorts #ken #gamingmindset #competitive #gamerlife #meta"
+                },
+                "C": {
+                  "angle": "Actionable Protocol",
+                  "title": "The exact rule to fix your gaming burnout",
+                  "description": "If ranked matches feel like a chore instead of entertainment, you need to change your approach immediately. Use this simple mindset shift to cure your gaming fatigue.\n\n- How to spot when a gimmick or balance change is worth your time\n- The exact moment you should switch from OP builds to fun decks\n- A step-by-step framework to protect your gaming enjoyment\n\nFeaturing: Ken\n\nWhat is your golden rule for avoiding burnout when a game gets too competitive? Tell us below!\n\n#shorts #ken #gamingtips #burnout #gamerproblems #strategy"
+                }
+              },
+              "active_variant": "A",
+              "test_status": "ACTIVE_TEST",
+              "variant_history": [
+                {
+                  "variant": "A",
+                  "title": "Why the best deck ruins the game",
+                  "deployed_at": 1792311853.32834,
+                  "reason": "Initial A/B test deployment"
+                }
+              ],
+              "metrics": {
+                "views": 0,
+                "likes": 0,
+                "comments": 0,
+                "retention": 0.0,
+                "ctr": 0.0
+              }
+            },
+            "reframed": "gaming_split"
+          },
           {
             "id": "ken_1792212492_6",
             "source_video": "hp buffed [Overtime Battle]",
@@ -5348,14 +5348,14 @@
       "current_task": "Queue up to date. Waiting for next daily Ken upload.",
       "last_completed_task": "Ingested 5 recent Ken master videos into source pool",
       "recent_logs": [
-        "[09:52:49] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
-        "[09:53:00] Queue up to date. Waiting for next daily Ken upload.",
         "[09:55:00] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
         "[09:55:11] Queue up to date. Waiting for next daily Ken upload.",
         "[09:57:12] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
         "[09:57:22] Queue up to date. Waiting for next daily Ken upload.",
         "[09:59:23] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
-        "[09:59:34] Queue up to date. Waiting for next daily Ken upload."
+        "[09:59:34] Queue up to date. Waiting for next daily Ken upload.",
+        "[10:01:35] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
+        "[10:01:47] Queue up to date. Waiting for next daily Ken upload."
       ]
     },
     "STRATEGIST": {
@@ -5375,17 +5375,17 @@
     },
     "EDITOR": {
       "status": "working",
-      "current_task": "Rendering gaming_split Short with captions: 1.9 aggression cycle [Highligh",
+      "current_task": "Rendering gaming_split Short with captions: 1.9 aggression cycle [Clutch M",
       "last_completed_task": "Rendered 'hp buffed' rage highlight with kinetic pop captions & commentary",
       "recent_logs": [
-        "[16:38:13] Downloading highlight segment (*540-720) for: 25% buff abuse [Overtime Battle]...",
-        "[16:38:19] Rendering gaming_split Short with captions: 25% buff abuse [Overtime Battl",
         "[17:01:50] Downloading highlight segment (*60-240) for: level down trolling [Highlight]...",
         "[17:01:54] Rendering gaming_split Short with captions: level down trolling [Highlight",
         "[17:07:24] Downloading highlight segment (*300-480) for: level down trolling [Clutch Moment]...",
         "[17:07:31] Rendering gaming_split Short with captions: level down trolling [Clutch Mo",
         "[19:36:37] Downloading highlight segment (*60-240) for: 1.9 aggression cycle [Highlight]...",
-        "[19:36:42] Rendering gaming_split Short with captions: 1.9 aggression cycle [Highligh"
+        "[19:36:42] Rendering gaming_split Short with captions: 1.9 aggression cycle [Highligh",
+        "[10:01:47] Downloading highlight segment (*300-480) for: 1.9 aggression cycle [Clutch Moment...",
+        "[10:01:51] Rendering gaming_split Short with captions: 1.9 aggression cycle [Clutch M"
       ]
     },
     "COMMENTATOR": {
@@ -5508,7 +5508,7 @@
         "url": "https://www.youtube.com/watch?v=1tKJ4BnHC2A",
         "section": "*300-480",
         "duration": 2181,
-        "status": "QUEUED",
+        "status": "PROCESSING",
         "added_at": "2026-10-17T14:23:15Z"
       },
       {
@@ -5880,72 +5880,6 @@
   },
   "calendar": {
     "scheduled": [
-      {
-        "id": "ken_1792212492_7",
-        "source_video": "the new barrel [Clutch Moment]",
-        "creator": "Ken",
-        "title": "Why the best deck ruins the game",
-        "publish_at": "2026-10-19T14:00:00Z",
-        "status": "SCHEDULED",
-        "uploaded": true,
-        "youtube_video_id": "nih90sNVBT8",
-        "youtube_url": "https://www.youtube.com/shorts/nih90sNVBT8",
-        "video_file": "ken_1792212492_7_master.mp4",
-        "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792212492_7_master.mp4",
-        "duration": 32.0,
-        "hook_summary": "The creator discusses why making the most OP deck in ranked makes them want to quit, leading to a much healthier gaming strategy.",
-        "metadata": {
-          "title": "Why the best deck ruins the game",
-          "description": "Playing with the most overpowered meta build seems like the ultimate strategy, but it actually kills the fun entirely. Find out why chasing perfection in ranked matches leads straight to burnout and what to play instead.\n\n- The hidden trap of using overpowered meta strategies\n- Why winning too easily makes you want to quit gaming\n- The psychological shift needed to bring the fun back\n\nFeaturing: Ken\n\nDo you play ranked strictly to win, or do you prioritize having fun with weird gimmicks? Drop your thoughts below!\n\n#shorts #ken #gaming #gamer #ranked #strategy",
-          "tags": [
-            "gaming burnout",
-            "meta decks",
-            "ranked matches",
-            "gaming gimmicks",
-            "video game strategy",
-            "competitive gaming",
-            "ken gaming",
-            "gaming mindset",
-            "op builds"
-          ],
-          "pinned_comment": "Be honest: have you ever completely quit a game because the meta got too sweaty and boring? Let's settle this in the replies.",
-          "ab_variants": {
-            "A": {
-              "angle": "Curiosity Gap",
-              "title": "Why the best deck ruins the game",
-              "description": "Playing with the most overpowered meta build seems like the ultimate strategy, but it actually kills the fun entirely. Find out why chasing perfection in ranked matches leads straight to burnout and what to play instead.\n\n- The hidden trap of using overpowered meta strategies\n- Why winning too easily makes you want to quit gaming\n- The psychological shift needed to bring the fun back\n\nFeaturing: Ken\n\nDo you play ranked strictly to win, or do you prioritize having fun with weird gimmicks? Drop your thoughts below!\n\n#shorts #ken #gaming #gamer #ranked #strategy"
-            },
-            "B": {
-              "angle": "Contrarian Truth",
-              "title": "Stop playing the meta if you want to win",
-              "description": "Everyone tells you to copy the top players and run the most broken setup. That advice is completely wrong if you actually want to keep enjoying your favorite games.\n\n- Why copying the number one meta deck is a trap\n- How gimmicks and balance changes keep games actually playable\n- Breaking free from competitive exhaustion\n\nFeaturing: Ken\n\nIs the current meta ruining gaming, or are players just taking things way too seriously? Let's argue in the comments.\n\n#shorts #ken #gamingmindset #competitive #gamerlife #meta"
-            },
-            "C": {
-              "angle": "Actionable Protocol",
-              "title": "The exact rule to fix your gaming burnout",
-              "description": "If ranked matches feel like a chore instead of entertainment, you need to change your approach immediately. Use this simple mindset shift to cure your gaming fatigue.\n\n- How to spot when a gimmick or balance change is worth your time\n- The exact moment you should switch from OP builds to fun decks\n- A step-by-step framework to protect your gaming enjoyment\n\nFeaturing: Ken\n\nWhat is your golden rule for avoiding burnout when a game gets too competitive? Tell us below!\n\n#shorts #ken #gamingtips #burnout #gamerproblems #strategy"
-            }
-          },
-          "active_variant": "A",
-          "test_status": "ACTIVE_TEST",
-          "variant_history": [
-            {
-              "variant": "A",
-              "title": "Why the best deck ruins the game",
-              "deployed_at": 1792311853.32834,
-              "reason": "Initial A/B test deployment"
-            }
-          ],
-          "metrics": {
-            "views": 0,
-            "likes": 0,
-            "comments": 0,
-            "retention": 0.0,
-            "ctr": 0.0
-          }
-        },
-        "reframed": "gaming_split"
-      },
       {
         "id": "ken_1792212492_9",
         "source_video": "least busted card [Clutch Moment]",
@@ -6478,6 +6412,72 @@
     ],
     "held": [],
     "published": [
+      {
+        "id": "ken_1792212492_7",
+        "source_video": "the new barrel [Clutch Moment]",
+        "creator": "Ken",
+        "title": "Why the best deck ruins the game",
+        "publish_at": "2026-10-19T14:00:00Z",
+        "status": "PUBLISHED",
+        "uploaded": true,
+        "youtube_video_id": "nih90sNVBT8",
+        "youtube_url": "https://www.youtube.com/shorts/nih90sNVBT8",
+        "video_file": "ken_1792212492_7_master.mp4",
+        "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792212492_7_master.mp4",
+        "duration": 32.0,
+        "hook_summary": "The creator discusses why making the most OP deck in ranked makes them want to quit, leading to a much healthier gaming strategy.",
+        "metadata": {
+          "title": "Why the best deck ruins the game",
+          "description": "Playing with the most overpowered meta build seems like the ultimate strategy, but it actually kills the fun entirely. Find out why chasing perfection in ranked matches leads straight to burnout and what to play instead.\n\n- The hidden trap of using overpowered meta strategies\n- Why winning too easily makes you want to quit gaming\n- The psychological shift needed to bring the fun back\n\nFeaturing: Ken\n\nDo you play ranked strictly to win, or do you prioritize having fun with weird gimmicks? Drop your thoughts below!\n\n#shorts #ken #gaming #gamer #ranked #strategy",
+          "tags": [
+            "gaming burnout",
+            "meta decks",
+            "ranked matches",
+            "gaming gimmicks",
+            "video game strategy",
+            "competitive gaming",
+            "ken gaming",
+            "gaming mindset",
+            "op builds"
+          ],
+          "pinned_comment": "Be honest: have you ever completely quit a game because the meta got too sweaty and boring? Let's settle this in the replies.",
+          "ab_variants": {
+            "A": {
+              "angle": "Curiosity Gap",
+              "title": "Why the best deck ruins the game",
+              "description": "Playing with the most overpowered meta build seems like the ultimate strategy, but it actually kills the fun entirely. Find out why chasing perfection in ranked matches leads straight to burnout and what to play instead.\n\n- The hidden trap of using overpowered meta strategies\n- Why winning too easily makes you want to quit gaming\n- The psychological shift needed to bring the fun back\n\nFeaturing: Ken\n\nDo you play ranked strictly to win, or do you prioritize having fun with weird gimmicks? Drop your thoughts below!\n\n#shorts #ken #gaming #gamer #ranked #strategy"
+            },
+            "B": {
+              "angle": "Contrarian Truth",
+              "title": "Stop playing the meta if you want to win",
+              "description": "Everyone tells you to copy the top players and run the most broken setup. That advice is completely wrong if you actually want to keep enjoying your favorite games.\n\n- Why copying the number one meta deck is a trap\n- How gimmicks and balance changes keep games actually playable\n- Breaking free from competitive exhaustion\n\nFeaturing: Ken\n\nIs the current meta ruining gaming, or are players just taking things way too seriously? Let's argue in the comments.\n\n#shorts #ken #gamingmindset #competitive #gamerlife #meta"
+            },
+            "C": {
+              "angle": "Actionable Protocol",
+              "title": "The exact rule to fix your gaming burnout",
+              "description": "If ranked matches feel like a chore instead of entertainment, you need to change your approach immediately. Use this simple mindset shift to cure your gaming fatigue.\n\n- How to spot when a gimmick or balance change is worth your time\n- The exact moment you should switch from OP builds to fun decks\n- A step-by-step framework to protect your gaming enjoyment\n\nFeaturing: Ken\n\nWhat is your golden rule for avoiding burnout when a game gets too competitive? Tell us below!\n\n#shorts #ken #gamingtips #burnout #gamerproblems #strategy"
+            }
+          },
+          "active_variant": "A",
+          "test_status": "ACTIVE_TEST",
+          "variant_history": [
+            {
+              "variant": "A",
+              "title": "Why the best deck ruins the game",
+              "deployed_at": 1792311853.32834,
+              "reason": "Initial A/B test deployment"
+            }
+          ],
+          "metrics": {
+            "views": 0,
+            "likes": 0,
+            "comments": 0,
+            "retention": 0.0,
+            "ctr": 0.0
+          }
+        },
+        "reframed": "gaming_split"
+      },
       {
         "id": "ken_1792212492_6",
         "source_video": "hp buffed [Overtime Battle]",

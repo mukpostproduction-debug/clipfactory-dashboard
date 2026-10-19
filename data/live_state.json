@@ -1,6 +1,6 @@
 {
-  "timestamp": 1792423929.393059,
-  "sync_time_iso": "2026-10-19T15:32:09Z",
+  "timestamp": 1792423980.2002518,
+  "sync_time_iso": "2026-10-19T15:33:00Z",
   "default_channel": "ken_clips_burger",
   "channels": {
     "ken_clips_burger": {
@@ -147,17 +147,17 @@
         },
         "PUBLISHER": {
           "status": "working",
-          "current_task": "Short SCHEDULED on YouTube: meKAqWBBzXQ (11:30 AM ET (Mon, Oct 19))",
+          "current_task": "Short SCHEDULED on YouTube: hpNHZGXvMwo (09:30 PM ET (Mon, Oct 19))",
           "last_completed_task": "Uploaded all 3 initial Clash Royale gaming cuts to YouTube (kenclipsburger420)",
           "recent_logs": [
-            "[17:08:49] Deploying to YouTube (@kenclipsburger420) for release 04:30 PM ET (Tue, Oct 20)...",
-            "[17:08:55] Short SCHEDULED on YouTube: 0WNit8ylt38 (04:30 PM ET (Tue, Oct 20))",
-            "[19:37:24] Generating gaming A/B metadata for slot: 07:30 PM ET (Tue, Oct 20)...",
             "[19:37:30] Deploying to YouTube (@kenclipsburger420) for release 07:30 PM ET (Tue, Oct 20)...",
             "[19:37:35] Short SCHEDULED on YouTube: 8G5U74OB-qo (07:30 PM ET (Tue, Oct 20))",
             "[10:02:29] Generating gaming A/B metadata for slot: 11:30 AM ET (Mon, Oct 19)...",
             "[10:02:33] Deploying to YouTube (@kenclipsburger420) for release 11:30 AM ET (Mon, Oct 19)...",
-            "[10:02:38] Short SCHEDULED on YouTube: meKAqWBBzXQ (11:30 AM ET (Mon, Oct 19))"
+            "[10:02:38] Short SCHEDULED on YouTube: meKAqWBBzXQ (11:30 AM ET (Mon, Oct 19))",
+            "[11:32:37] Generating gaming A/B metadata for slot: 09:30 PM ET (Mon, Oct 19)...",
+            "[11:32:55] Deploying to YouTube (@kenclipsburger420) for release 09:30 PM ET (Mon, Oct 19)...",
+            "[11:33:00] Short SCHEDULED on YouTube: hpNHZGXvMwo (09:30 PM ET (Mon, Oct 19))"
           ]
         },
         "ANALYST": {
@@ -247,17 +247,6 @@
             "duration": 1113,
             "status": "FAILED_DOWNLOAD",
             "added_at": "2026-10-17T04:48:12Z"
-          },
-          {
-            "id": "ken_1792246995_2",
-            "creator": "Ken",
-            "title": "1.9 aggression cycle [Overtime Battle]",
-            "source_title": "1.9 aggression cycle",
-            "url": "https://www.youtube.com/watch?v=1tKJ4BnHC2A",
-            "section": "*540-720",
-            "duration": 2181,
-            "status": "PROCESSING",
-            "added_at": "2026-10-17T14:23:15Z"
           },
           {
             "id": "ken_1792318278_0",
@@ -625,6 +614,19 @@
             "added_at": "2026-10-17T14:23:15Z",
             "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792246995_1_master.mp4",
             "youtube_video_id": "meKAqWBBzXQ"
+          },
+          {
+            "id": "ken_1792246995_2",
+            "creator": "Ken",
+            "title": "1.9 aggression cycle [Overtime Battle]",
+            "source_title": "1.9 aggression cycle",
+            "url": "https://www.youtube.com/watch?v=1tKJ4BnHC2A",
+            "section": "*540-720",
+            "duration": 2181,
+            "status": "COMPLETED",
+            "added_at": "2026-10-17T14:23:15Z",
+            "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792246995_2_master.mp4",
+            "youtube_video_id": "hpNHZGXvMwo"
           }
         ]
       },
@@ -1146,6 +1148,72 @@
                   "variant": "A",
                   "title": "He tried getting deep mid-match... BIG mistake.",
                   "deployed_at": 1792366650.134219,
+                  "reason": "Initial A/B test deployment"
+                }
+              ],
+              "metrics": {
+                "views": 0,
+                "likes": 0,
+                "comments": 0,
+                "retention": 0.0,
+                "ctr": 0.0
+              }
+            },
+            "reframed": "gaming_split"
+          },
+          {
+            "id": "ken_1792246995_2",
+            "source_video": "1.9 aggression cycle [Overtime Battle]",
+            "creator": "Ken",
+            "title": "Why adults secretly act so boring...",
+            "publish_at": "2026-10-20T01:30:00Z",
+            "status": "SCHEDULED",
+            "uploaded": true,
+            "youtube_video_id": "hpNHZGXvMwo",
+            "youtube_url": "https://www.youtube.com/shorts/hpNHZGXvMwo",
+            "video_file": "ken_1792246995_2_master.mp4",
+            "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792246995_2_master.mp4",
+            "duration": 30.27,
+            "hook_summary": "The creator has a sudden realization about why adults are so boring and dull on the outside, explaining the secret to emotional stability.",
+            "metadata": {
+              "title": "Why adults secretly act so boring...",
+              "description": "Have you ever wondered why adults suddenly seem so dull and lifeless on the outside? Ken exposes the hidden psychological shift behind why grown-ups hide their true spark.\n\n\u2022 The hidden reason adults appear emotionless to the outside world\n\u2022 How emotional stability actually changes your outward personality\n\u2022 The surprising truth about maintaining your inner child while growing up\n\nFeaturing: Ken\n\nDo you think adults choose to be boring, or does life just force the fun out of them?\n\n#shorts #psychology #adulting #mindset #growingup #ken",
+              "tags": [
+                "why adults are boring",
+                "emotional stability",
+                "growing up",
+                "adulting reality",
+                "psychology of adults",
+                "inner peace",
+                "mental maturity",
+                "life lessons",
+                "ken shorts"
+              ],
+              "pinned_comment": "At what age did you officially realize you had become the 'boring adult' in the room? Let's argue in the replies.",
+              "ab_variants": {
+                "A": {
+                  "angle": "Curiosity Gap",
+                  "title": "Why adults secretly act so boring...",
+                  "description": "Have you ever wondered why adults suddenly seem so dull and lifeless on the outside? Ken exposes the hidden psychological shift behind why grown-ups hide their true spark.\n\n\u2022 The hidden reason adults appear emotionless to the outside world\n\u2022 How emotional stability actually changes your outward personality\n\u2022 The surprising truth about maintaining your inner child while growing up\n\nFeaturing: Ken\n\nDo you think adults choose to be boring, or does life just force the fun out of them?\n\n#shorts #psychology #adulting #mindset #growingup #ken"
+                },
+                "B": {
+                  "angle": "Contrarian Truth",
+                  "title": "Being 'boring' is a superpower.",
+                  "description": "We spend our whole lives trying not to be boring, but what if acting dull is actually the ultimate secret to emotional survival? Ken breaks down why being boring isn't a flaw\u2014it's a shield.\n\n\u2022 Why trying to be exciting is draining your emotional energy\n\u2022 The hidden mechanism behind adult emotional stability\n\u2022 Why dullness on the outside means peace on the inside\n\nFeaturing: Ken\n\nIs being emotionally stable just a fancy way of saying you're boring now?\n\n#shorts #truth #mentalhealth #adulthood #perspective #ken"
+                },
+                "C": {
+                  "angle": "Actionable Protocol",
+                  "title": "The secret to adult emotional stability",
+                  "description": "Want to master your emotions without losing your mind? Ken reveals the exact behavioral shift that explains why adults turn down the volume on their lives.\n\n\u2022 How to regulate your emotional highs and lows like an adult\n\u2022 The boundary-setting trick that creates total inner peace\n\u2022 A step-by-step framework to stop wasting energy on chaos\n\nFeaturing: Ken\n\nAt what exact age did you realize you were becoming the boring adult?\n\n#shorts #selfimprovement #lifelessons #habits #wisdom #ken"
+                }
+              },
+              "active_variant": "A",
+              "test_status": "ACTIVE_TEST",
+              "variant_history": [
+                {
+                  "variant": "A",
+                  "title": "Why adults secretly act so boring...",
+                  "deployed_at": 1792423975.769063,
                   "reason": "Initial A/B test deployment"
                 }
               ],
@@ -5469,17 +5537,17 @@
     },
     "PUBLISHER": {
       "status": "working",
-      "current_task": "Short SCHEDULED on YouTube: meKAqWBBzXQ (11:30 AM ET (Mon, Oct 19))",
+      "current_task": "Short SCHEDULED on YouTube: hpNHZGXvMwo (09:30 PM ET (Mon, Oct 19))",
       "last_completed_task": "Uploaded all 3 initial Clash Royale gaming cuts to YouTube (kenclipsburger420)",
       "recent_logs": [
-        "[17:08:49] Deploying to YouTube (@kenclipsburger420) for release 04:30 PM ET (Tue, Oct 20)...",
-        "[17:08:55] Short SCHEDULED on YouTube: 0WNit8ylt38 (04:30 PM ET (Tue, Oct 20))",
-        "[19:37:24] Generating gaming A/B metadata for slot: 07:30 PM ET (Tue, Oct 20)...",
         "[19:37:30] Deploying to YouTube (@kenclipsburger420) for release 07:30 PM ET (Tue, Oct 20)...",
         "[19:37:35] Short SCHEDULED on YouTube: 8G5U74OB-qo (07:30 PM ET (Tue, Oct 20))",
         "[10:02:29] Generating gaming A/B metadata for slot: 11:30 AM ET (Mon, Oct 19)...",
         "[10:02:33] Deploying to YouTube (@kenclipsburger420) for release 11:30 AM ET (Mon, Oct 19)...",
-        "[10:02:38] Short SCHEDULED on YouTube: meKAqWBBzXQ (11:30 AM ET (Mon, Oct 19))"
+        "[10:02:38] Short SCHEDULED on YouTube: meKAqWBBzXQ (11:30 AM ET (Mon, Oct 19))",
+        "[11:32:37] Generating gaming A/B metadata for slot: 09:30 PM ET (Mon, Oct 19)...",
+        "[11:32:55] Deploying to YouTube (@kenclipsburger420) for release 09:30 PM ET (Mon, Oct 19)...",
+        "[11:33:00] Short SCHEDULED on YouTube: hpNHZGXvMwo (09:30 PM ET (Mon, Oct 19))"
       ]
     },
     "ANALYST": {
@@ -5569,17 +5637,6 @@
         "duration": 1113,
         "status": "FAILED_DOWNLOAD",
         "added_at": "2026-10-17T04:48:12Z"
-      },
-      {
-        "id": "ken_1792246995_2",
-        "creator": "Ken",
-        "title": "1.9 aggression cycle [Overtime Battle]",
-        "source_title": "1.9 aggression cycle",
-        "url": "https://www.youtube.com/watch?v=1tKJ4BnHC2A",
-        "section": "*540-720",
-        "duration": 2181,
-        "status": "PROCESSING",
-        "added_at": "2026-10-17T14:23:15Z"
       },
       {
         "id": "ken_1792318278_0",
@@ -5947,6 +6004,19 @@
         "added_at": "2026-10-17T14:23:15Z",
         "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792246995_1_master.mp4",
         "youtube_video_id": "meKAqWBBzXQ"
+      },
+      {
+        "id": "ken_1792246995_2",
+        "creator": "Ken",
+        "title": "1.9 aggression cycle [Overtime Battle]",
+        "source_title": "1.9 aggression cycle",
+        "url": "https://www.youtube.com/watch?v=1tKJ4BnHC2A",
+        "section": "*540-720",
+        "duration": 2181,
+        "status": "COMPLETED",
+        "added_at": "2026-10-17T14:23:15Z",
+        "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792246995_2_master.mp4",
+        "youtube_video_id": "hpNHZGXvMwo"
       }
     ]
   },
@@ -6468,6 +6538,72 @@
               "variant": "A",
               "title": "He tried getting deep mid-match... BIG mistake.",
               "deployed_at": 1792366650.134219,
+              "reason": "Initial A/B test deployment"
+            }
+          ],
+          "metrics": {
+            "views": 0,
+            "likes": 0,
+            "comments": 0,
+            "retention": 0.0,
+            "ctr": 0.0
+          }
+        },
+        "reframed": "gaming_split"
+      },
+      {
+        "id": "ken_1792246995_2",
+        "source_video": "1.9 aggression cycle [Overtime Battle]",
+        "creator": "Ken",
+        "title": "Why adults secretly act so boring...",
+        "publish_at": "2026-10-20T01:30:00Z",
+        "status": "SCHEDULED",
+        "uploaded": true,
+        "youtube_video_id": "hpNHZGXvMwo",
+        "youtube_url": "https://www.youtube.com/shorts/hpNHZGXvMwo",
+        "video_file": "ken_1792246995_2_master.mp4",
+        "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792246995_2_master.mp4",
+        "duration": 30.27,
+        "hook_summary": "The creator has a sudden realization about why adults are so boring and dull on the outside, explaining the secret to emotional stability.",
+        "metadata": {
+          "title": "Why adults secretly act so boring...",
+          "description": "Have you ever wondered why adults suddenly seem so dull and lifeless on the outside? Ken exposes the hidden psychological shift behind why grown-ups hide their true spark.\n\n\u2022 The hidden reason adults appear emotionless to the outside world\n\u2022 How emotional stability actually changes your outward personality\n\u2022 The surprising truth about maintaining your inner child while growing up\n\nFeaturing: Ken\n\nDo you think adults choose to be boring, or does life just force the fun out of them?\n\n#shorts #psychology #adulting #mindset #growingup #ken",
+          "tags": [
+            "why adults are boring",
+            "emotional stability",
+            "growing up",
+            "adulting reality",
+            "psychology of adults",
+            "inner peace",
+            "mental maturity",
+            "life lessons",
+            "ken shorts"
+          ],
+          "pinned_comment": "At what age did you officially realize you had become the 'boring adult' in the room? Let's argue in the replies.",
+          "ab_variants": {
+            "A": {
+              "angle": "Curiosity Gap",
+              "title": "Why adults secretly act so boring...",
+              "description": "Have you ever wondered why adults suddenly seem so dull and lifeless on the outside? Ken exposes the hidden psychological shift behind why grown-ups hide their true spark.\n\n\u2022 The hidden reason adults appear emotionless to the outside world\n\u2022 How emotional stability actually changes your outward personality\n\u2022 The surprising truth about maintaining your inner child while growing up\n\nFeaturing: Ken\n\nDo you think adults choose to be boring, or does life just force the fun out of them?\n\n#shorts #psychology #adulting #mindset #growingup #ken"
+            },
+            "B": {
+              "angle": "Contrarian Truth",
+              "title": "Being 'boring' is a superpower.",
+              "description": "We spend our whole lives trying not to be boring, but what if acting dull is actually the ultimate secret to emotional survival? Ken breaks down why being boring isn't a flaw\u2014it's a shield.\n\n\u2022 Why trying to be exciting is draining your emotional energy\n\u2022 The hidden mechanism behind adult emotional stability\n\u2022 Why dullness on the outside means peace on the inside\n\nFeaturing: Ken\n\nIs being emotionally stable just a fancy way of saying you're boring now?\n\n#shorts #truth #mentalhealth #adulthood #perspective #ken"
+            },
+            "C": {
+              "angle": "Actionable Protocol",
+              "title": "The secret to adult emotional stability",
+              "description": "Want to master your emotions without losing your mind? Ken reveals the exact behavioral shift that explains why adults turn down the volume on their lives.\n\n\u2022 How to regulate your emotional highs and lows like an adult\n\u2022 The boundary-setting trick that creates total inner peace\n\u2022 A step-by-step framework to stop wasting energy on chaos\n\nFeaturing: Ken\n\nAt what exact age did you realize you were becoming the boring adult?\n\n#shorts #selfimprovement #lifelessons #habits #wisdom #ken"
+            }
+          },
+          "active_variant": "A",
+          "test_status": "ACTIVE_TEST",
+          "variant_history": [
+            {
+              "variant": "A",
+              "title": "Why adults secretly act so boring...",
+              "deployed_at": 1792423975.769063,
               "reason": "Initial A/B test deployment"
             }
           ],

@@ -1,6 +1,6 @@
 {
-  "timestamp": 1792400233.065228,
-  "sync_time_iso": "2026-10-19T08:57:13Z",
+  "timestamp": 1792400294.633695,
+  "sync_time_iso": "2026-10-19T08:58:14Z",
   "default_channel": "ken_clips_burger",
   "channels": {
     "ken_clips_burger": {
@@ -93,17 +93,17 @@
       "agents": {
         "SCOUT": {
           "status": "working",
-          "current_task": "Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
+          "current_task": "Queue up to date. Waiting for next daily Ken upload.",
           "last_completed_task": "Ingested 5 recent Ken master videos into source pool",
           "recent_logs": [
-            "[04:48:28] Queue up to date. Waiting for next daily Ken upload.",
             "[04:50:28] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
             "[04:50:39] Queue up to date. Waiting for next daily Ken upload.",
             "[04:52:40] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
             "[04:52:51] Queue up to date. Waiting for next daily Ken upload.",
             "[04:54:51] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
             "[04:55:02] Queue up to date. Waiting for next daily Ken upload.",
-            "[04:57:03] Scanning @kenforrest YouTube feed for latest Clash Royale uploads..."
+            "[04:57:03] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
+            "[04:57:13] Queue up to date. Waiting for next daily Ken upload."
           ]
         },
         "STRATEGIST": {
@@ -111,14 +111,14 @@
           "current_task": "Buffer healthy: 9/9 scheduled Ken Shorts staged.",
           "last_completed_task": "Mapped 3 distinct viral gaming hook angles for initial drops",
           "recent_logs": [
-            "[04:39:41] Buffer healthy: 9/9 scheduled Ken Shorts staged.",
             "[04:41:53] Buffer healthy: 9/9 scheduled Ken Shorts staged.",
             "[04:44:05] Buffer healthy: 9/9 scheduled Ken Shorts staged.",
             "[04:46:16] Buffer healthy: 9/9 scheduled Ken Shorts staged.",
             "[04:48:28] Buffer healthy: 9/9 scheduled Ken Shorts staged.",
             "[04:50:39] Buffer healthy: 9/9 scheduled Ken Shorts staged.",
             "[04:52:51] Buffer healthy: 9/9 scheduled Ken Shorts staged.",
-            "[04:55:02] Buffer healthy: 9/9 scheduled Ken Shorts staged."
+            "[04:55:02] Buffer healthy: 9/9 scheduled Ken Shorts staged.",
+            "[04:57:13] Buffer healthy: 9/9 scheduled Ken Shorts staged."
           ]
         },
         "EDITOR": {
@@ -162,17 +162,17 @@
         },
         "ANALYST": {
           "status": "working",
-          "current_task": "Telemetry Audit: 16,676 views across 19 shorts. Active A/B hooks performing to spec.",
+          "current_task": "Telemetry Audit: 16,656 views across 19 shorts. Active A/B hooks performing to spec.",
           "last_completed_task": "Calibrated gaming threshold: >15 views/hr within 4h",
           "recent_logs": [
-            "[04:39:42] Telemetry Audit: 16,676 views across 19 shorts. Active A/B hooks performing to spec.",
             "[04:41:53] Telemetry Audit: 16,611 views across 19 shorts. Active A/B hooks performing to spec.",
             "[04:44:05] Telemetry Audit: 16,676 views across 19 shorts. Active A/B hooks performing to spec.",
             "[04:46:17] Telemetry Audit: 16,676 views across 19 shorts. Active A/B hooks performing to spec.",
             "[04:48:28] Telemetry Audit: 16,653 views across 19 shorts. Active A/B hooks performing to spec.",
             "[04:50:40] Telemetry Audit: 16,611 views across 19 shorts. Active A/B hooks performing to spec.",
             "[04:52:51] Telemetry Audit: 16,656 views across 19 shorts. Active A/B hooks performing to spec.",
-            "[04:55:03] Telemetry Audit: 16,676 views across 19 shorts. Active A/B hooks performing to spec."
+            "[04:55:03] Telemetry Audit: 16,676 views across 19 shorts. Active A/B hooks performing to spec.",
+            "[04:57:14] Telemetry Audit: 16,656 views across 19 shorts. Active A/B hooks performing to spec."
           ]
         },
         "WATCHDOG": {
@@ -180,14 +180,14 @@
           "current_task": "Verifying Supercell fan policy: 0 claims, 0 strikes.",
           "last_completed_task": "Audited source parameters: strictly <30s segment rule active",
           "recent_logs": [
-            "[04:39:42] Verifying Supercell fan policy: 0 claims, 0 strikes.",
             "[04:41:53] Verifying Supercell fan policy: 0 claims, 0 strikes.",
             "[04:44:05] Verifying Supercell fan policy: 0 claims, 0 strikes.",
             "[04:46:17] Verifying Supercell fan policy: 0 claims, 0 strikes.",
             "[04:48:28] Verifying Supercell fan policy: 0 claims, 0 strikes.",
             "[04:50:40] Verifying Supercell fan policy: 0 claims, 0 strikes.",
             "[04:52:51] Verifying Supercell fan policy: 0 claims, 0 strikes.",
-            "[04:55:03] Verifying Supercell fan policy: 0 claims, 0 strikes."
+            "[04:55:03] Verifying Supercell fan policy: 0 claims, 0 strikes.",
+            "[04:57:14] Verifying Supercell fan policy: 0 claims, 0 strikes."
           ]
         }
       },
@@ -1261,13 +1261,13 @@
                 }
               ],
               "metrics": {
-                "views": 1029,
+                "views": 1007,
                 "likes": 12,
                 "comments": 0,
                 "retention": 0.0,
                 "ctr": 0.0,
-                "velocity_vph": 154.34,
-                "engagement_pct": 1.17
+                "velocity_vph": 150.22,
+                "engagement_pct": 1.19
               }
             },
             "reframed": "gaming_split"
@@ -1334,7 +1334,7 @@
                 "comments": 0,
                 "retention": 0.0,
                 "ctr": 0.0,
-                "velocity_vph": 114.98,
+                "velocity_vph": 114.54,
                 "engagement_pct": 0.92
               }
             },
@@ -1397,12 +1397,12 @@
                 }
               ],
               "metrics": {
-                "views": 466,
+                "views": 465,
                 "likes": 6,
                 "comments": 0,
                 "retention": 0.0,
                 "ctr": 0.0,
-                "velocity_vph": 37.56,
+                "velocity_vph": 37.36,
                 "engagement_pct": 1.29
               }
             },
@@ -1465,13 +1465,13 @@
                 }
               ],
               "metrics": {
-                "views": 125,
+                "views": 126,
                 "likes": 1,
                 "comments": 0,
                 "retention": 0.0,
                 "ctr": 0.0,
-                "velocity_vph": 7.86,
-                "engagement_pct": 0.8
+                "velocity_vph": 7.9,
+                "engagement_pct": 0.79
               }
             },
             "reframed": "gaming_split"
@@ -1538,7 +1538,7 @@
                 "comments": 0,
                 "retention": 0.0,
                 "ctr": 0.0,
-                "velocity_vph": 57.54,
+                "velocity_vph": 57.43,
                 "engagement_pct": 1.01
               }
             },
@@ -1606,7 +1606,7 @@
                 "comments": 0,
                 "retention": 0.0,
                 "ctr": 0.0,
-                "velocity_vph": 15.65,
+                "velocity_vph": 15.64,
                 "engagement_pct": 1.25
               }
             },
@@ -1669,13 +1669,13 @@
                 }
               ],
               "metrics": {
-                "views": 553,
+                "views": 554,
                 "likes": 7,
                 "comments": 0,
                 "retention": 0.0,
                 "ctr": 0.0,
-                "velocity_vph": 16.55,
-                "engagement_pct": 1.27
+                "velocity_vph": 16.56,
+                "engagement_pct": 1.26
               }
             },
             "reframed": "gaming_split"
@@ -1780,7 +1780,7 @@
                 "comments": 0,
                 "retention": 0.0,
                 "ctr": 0.0,
-                "velocity_vph": 32.65,
+                "velocity_vph": 32.62,
                 "engagement_pct": 2.0
               }
             },
@@ -1803,10 +1803,10 @@
             "reframed": "gaming_split",
             "metadata": {
               "metrics": {
-                "views": 1394,
+                "views": 1393,
                 "likes": 20,
                 "comments": 1,
-                "velocity_vph": 32.48,
+                "velocity_vph": 32.43,
                 "engagement_pct": 1.51
               },
               "test_status": "WINNER_LOCKED"
@@ -1870,12 +1870,12 @@
                 }
               ],
               "metrics": {
-                "views": 1257,
+                "views": 1259,
                 "likes": 18,
                 "comments": 1,
                 "retention": 0.0,
                 "ctr": 0.0,
-                "velocity_vph": 22.19,
+                "velocity_vph": 22.21,
                 "engagement_pct": 1.51
               }
             },
@@ -1944,7 +1944,7 @@
                 "comments": 1,
                 "retention": 0.0,
                 "ctr": 0.0,
-                "velocity_vph": 21.53,
+                "velocity_vph": 21.52,
                 "engagement_pct": 0.92
               }
             },
@@ -2361,7 +2361,7 @@
       },
       "analytics": {
         "summary": {
-          "total_views": 16676,
+          "total_views": 16656,
           "shorts_published": 0,
           "total_likes": 201,
           "avg_retention_pct": 82.5,
@@ -2370,77 +2370,77 @@
           "estimated_revenue_usd": 0.0,
           "health_grade": "A+",
           "total_shorts_published": 19,
-          "last_audit": 1792400103.1282089
+          "last_audit": 1792400234.299171
         },
         "top_shorts": [
           {
             "title": "This HP Buff Changed Overtime Forever...",
             "creator": "Ken",
-            "views": 1029,
-            "velocity": 154.34,
+            "views": 1007,
+            "velocity": 150.22,
             "angle": "Curiosity Gap"
           },
           {
             "title": "Stop playing safe when the timer hits zero.",
             "creator": "Ken",
             "views": 1082,
-            "velocity": 114.98,
+            "velocity": 114.54,
             "angle": "Contrarian Truth"
           },
           {
             "title": "Bad matchups don't exist.",
             "creator": "Ken",
-            "views": 466,
-            "velocity": 37.56,
+            "views": 465,
+            "velocity": 37.36,
             "angle": "Contrarian Truth"
           },
           {
             "title": "Skill Is Overrated In Gaming",
             "creator": "Ken",
-            "views": 125,
-            "velocity": 7.86,
+            "views": 126,
+            "velocity": 7.9,
             "angle": "Contrarian Truth"
           },
           {
             "title": "Stop Sleeping on Evo Minion Horde...",
             "creator": "Ken",
             "views": 1088,
-            "velocity": 57.54,
+            "velocity": 57.43,
             "angle": "Contrarian Truth"
           },
           {
             "title": "Don't play Minecraft for views.",
             "creator": "Ken",
             "views": 480,
-            "velocity": 15.65,
+            "velocity": 15.64,
             "angle": "Contrarian Truth"
           },
           {
             "title": "How to use Clone like a top 10 global player",
             "creator": "Ken",
-            "views": 553,
-            "velocity": 16.55,
+            "views": 554,
+            "velocity": 16.56,
             "angle": "Actionable Protocol"
           },
           {
             "title": "Ken: Stop Making This Mistake #Shorts",
             "creator": "Ken",
             "views": 1303,
-            "velocity": 32.65,
+            "velocity": 32.62,
             "angle": "Contrarian Truth"
           },
           {
             "title": "KEN BROKE CLASH ROYALE WITH THIS DECK #Shorts",
             "creator": "Ken",
-            "views": 1394,
-            "velocity": 32.48,
+            "views": 1393,
+            "velocity": 32.43,
             "angle": "High Velocity"
           },
           {
             "title": "Why Sparky is Actually UNSTOPPABLE \u26a1",
             "creator": "Ken",
-            "views": 1257,
-            "velocity": 22.19,
+            "views": 1259,
+            "velocity": 22.21,
             "angle": "Contrarian Truth"
           }
         ],
@@ -5323,17 +5323,17 @@
   "agents": {
     "SCOUT": {
       "status": "working",
-      "current_task": "Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
+      "current_task": "Queue up to date. Waiting for next daily Ken upload.",
       "last_completed_task": "Ingested 5 recent Ken master videos into source pool",
       "recent_logs": [
-        "[04:48:28] Queue up to date. Waiting for next daily Ken upload.",
         "[04:50:28] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
         "[04:50:39] Queue up to date. Waiting for next daily Ken upload.",
         "[04:52:40] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
         "[04:52:51] Queue up to date. Waiting for next daily Ken upload.",
         "[04:54:51] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
         "[04:55:02] Queue up to date. Waiting for next daily Ken upload.",
-        "[04:57:03] Scanning @kenforrest YouTube feed for latest Clash Royale uploads..."
+        "[04:57:03] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
+        "[04:57:13] Queue up to date. Waiting for next daily Ken upload."
       ]
     },
     "STRATEGIST": {
@@ -5341,14 +5341,14 @@
       "current_task": "Buffer healthy: 9/9 scheduled Ken Shorts staged.",
       "last_completed_task": "Mapped 3 distinct viral gaming hook angles for initial drops",
       "recent_logs": [
-        "[04:39:41] Buffer healthy: 9/9 scheduled Ken Shorts staged.",
         "[04:41:53] Buffer healthy: 9/9 scheduled Ken Shorts staged.",
         "[04:44:05] Buffer healthy: 9/9 scheduled Ken Shorts staged.",
         "[04:46:16] Buffer healthy: 9/9 scheduled Ken Shorts staged.",
         "[04:48:28] Buffer healthy: 9/9 scheduled Ken Shorts staged.",
         "[04:50:39] Buffer healthy: 9/9 scheduled Ken Shorts staged.",
         "[04:52:51] Buffer healthy: 9/9 scheduled Ken Shorts staged.",
-        "[04:55:02] Buffer healthy: 9/9 scheduled Ken Shorts staged."
+        "[04:55:02] Buffer healthy: 9/9 scheduled Ken Shorts staged.",
+        "[04:57:13] Buffer healthy: 9/9 scheduled Ken Shorts staged."
       ]
     },
     "EDITOR": {
@@ -5392,17 +5392,17 @@
     },
     "ANALYST": {
       "status": "working",
-      "current_task": "Telemetry Audit: 16,676 views across 19 shorts. Active A/B hooks performing to spec.",
+      "current_task": "Telemetry Audit: 16,656 views across 19 shorts. Active A/B hooks performing to spec.",
       "last_completed_task": "Calibrated gaming threshold: >15 views/hr within 4h",
       "recent_logs": [
-        "[04:39:42] Telemetry Audit: 16,676 views across 19 shorts. Active A/B hooks performing to spec.",
         "[04:41:53] Telemetry Audit: 16,611 views across 19 shorts. Active A/B hooks performing to spec.",
         "[04:44:05] Telemetry Audit: 16,676 views across 19 shorts. Active A/B hooks performing to spec.",
         "[04:46:17] Telemetry Audit: 16,676 views across 19 shorts. Active A/B hooks performing to spec.",
         "[04:48:28] Telemetry Audit: 16,653 views across 19 shorts. Active A/B hooks performing to spec.",
         "[04:50:40] Telemetry Audit: 16,611 views across 19 shorts. Active A/B hooks performing to spec.",
         "[04:52:51] Telemetry Audit: 16,656 views across 19 shorts. Active A/B hooks performing to spec.",
-        "[04:55:03] Telemetry Audit: 16,676 views across 19 shorts. Active A/B hooks performing to spec."
+        "[04:55:03] Telemetry Audit: 16,676 views across 19 shorts. Active A/B hooks performing to spec.",
+        "[04:57:14] Telemetry Audit: 16,656 views across 19 shorts. Active A/B hooks performing to spec."
       ]
     },
     "WATCHDOG": {
@@ -5410,14 +5410,14 @@
       "current_task": "Verifying Supercell fan policy: 0 claims, 0 strikes.",
       "last_completed_task": "Audited source parameters: strictly <30s segment rule active",
       "recent_logs": [
-        "[04:39:42] Verifying Supercell fan policy: 0 claims, 0 strikes.",
         "[04:41:53] Verifying Supercell fan policy: 0 claims, 0 strikes.",
         "[04:44:05] Verifying Supercell fan policy: 0 claims, 0 strikes.",
         "[04:46:17] Verifying Supercell fan policy: 0 claims, 0 strikes.",
         "[04:48:28] Verifying Supercell fan policy: 0 claims, 0 strikes.",
         "[04:50:40] Verifying Supercell fan policy: 0 claims, 0 strikes.",
         "[04:52:51] Verifying Supercell fan policy: 0 claims, 0 strikes.",
-        "[04:55:03] Verifying Supercell fan policy: 0 claims, 0 strikes."
+        "[04:55:03] Verifying Supercell fan policy: 0 claims, 0 strikes.",
+        "[04:57:14] Verifying Supercell fan policy: 0 claims, 0 strikes."
       ]
     }
   },
@@ -6491,13 +6491,13 @@
             }
           ],
           "metrics": {
-            "views": 1029,
+            "views": 1007,
             "likes": 12,
             "comments": 0,
             "retention": 0.0,
             "ctr": 0.0,
-            "velocity_vph": 154.34,
-            "engagement_pct": 1.17
+            "velocity_vph": 150.22,
+            "engagement_pct": 1.19
           }
         },
         "reframed": "gaming_split"
@@ -6564,7 +6564,7 @@
             "comments": 0,
             "retention": 0.0,
             "ctr": 0.0,
-            "velocity_vph": 114.98,
+            "velocity_vph": 114.54,
             "engagement_pct": 0.92
           }
         },
@@ -6627,12 +6627,12 @@
             }
           ],
           "metrics": {
-            "views": 466,
+            "views": 465,
             "likes": 6,
             "comments": 0,
             "retention": 0.0,
             "ctr": 0.0,
-            "velocity_vph": 37.56,
+            "velocity_vph": 37.36,
             "engagement_pct": 1.29
           }
         },
@@ -6695,13 +6695,13 @@
             }
           ],
           "metrics": {
-            "views": 125,
+            "views": 126,
             "likes": 1,
             "comments": 0,
             "retention": 0.0,
             "ctr": 0.0,
-            "velocity_vph": 7.86,
-            "engagement_pct": 0.8
+            "velocity_vph": 7.9,
+            "engagement_pct": 0.79
           }
         },
         "reframed": "gaming_split"
@@ -6768,7 +6768,7 @@
             "comments": 0,
             "retention": 0.0,
             "ctr": 0.0,
-            "velocity_vph": 57.54,
+            "velocity_vph": 57.43,
             "engagement_pct": 1.01
           }
         },
@@ -6836,7 +6836,7 @@
             "comments": 0,
             "retention": 0.0,
             "ctr": 0.0,
-            "velocity_vph": 15.65,
+            "velocity_vph": 15.64,
             "engagement_pct": 1.25
           }
         },
@@ -6899,13 +6899,13 @@
             }
           ],
           "metrics": {
-            "views": 553,
+            "views": 554,
             "likes": 7,
             "comments": 0,
             "retention": 0.0,
             "ctr": 0.0,
-            "velocity_vph": 16.55,
-            "engagement_pct": 1.27
+            "velocity_vph": 16.56,
+            "engagement_pct": 1.26
           }
         },
         "reframed": "gaming_split"
@@ -7010,7 +7010,7 @@
             "comments": 0,
             "retention": 0.0,
             "ctr": 0.0,
-            "velocity_vph": 32.65,
+            "velocity_vph": 32.62,
             "engagement_pct": 2.0
           }
         },
@@ -7033,10 +7033,10 @@
         "reframed": "gaming_split",
         "metadata": {
           "metrics": {
-            "views": 1394,
+            "views": 1393,
             "likes": 20,
             "comments": 1,
-            "velocity_vph": 32.48,
+            "velocity_vph": 32.43,
             "engagement_pct": 1.51
           },
           "test_status": "WINNER_LOCKED"
@@ -7100,12 +7100,12 @@
             }
           ],
           "metrics": {
-            "views": 1257,
+            "views": 1259,
             "likes": 18,
             "comments": 1,
             "retention": 0.0,
             "ctr": 0.0,
-            "velocity_vph": 22.19,
+            "velocity_vph": 22.21,
             "engagement_pct": 1.51
           }
         },
@@ -7174,7 +7174,7 @@
             "comments": 1,
             "retention": 0.0,
             "ctr": 0.0,
-            "velocity_vph": 21.53,
+            "velocity_vph": 21.52,
             "engagement_pct": 0.92
           }
         },
@@ -7591,7 +7591,7 @@
   },
   "analytics": {
     "summary": {
-      "total_views": 16676,
+      "total_views": 16656,
       "shorts_published": 0,
       "total_likes": 201,
       "avg_retention_pct": 82.5,
@@ -7600,77 +7600,77 @@
       "estimated_revenue_usd": 0.0,
       "health_grade": "A+",
       "total_shorts_published": 19,
-      "last_audit": 1792400103.1282089
+      "last_audit": 1792400234.299171
     },
     "top_shorts": [
       {
         "title": "This HP Buff Changed Overtime Forever...",
         "creator": "Ken",
-        "views": 1029,
-        "velocity": 154.34,
+        "views": 1007,
+        "velocity": 150.22,
         "angle": "Curiosity Gap"
       },
       {
         "title": "Stop playing safe when the timer hits zero.",
         "creator": "Ken",
         "views": 1082,
-        "velocity": 114.98,
+        "velocity": 114.54,
         "angle": "Contrarian Truth"
       },
       {
         "title": "Bad matchups don't exist.",
         "creator": "Ken",
-        "views": 466,
-        "velocity": 37.56,
+        "views": 465,
+        "velocity": 37.36,
         "angle": "Contrarian Truth"
       },
       {
         "title": "Skill Is Overrated In Gaming",
         "creator": "Ken",
-        "views": 125,
-        "velocity": 7.86,
+        "views": 126,
+        "velocity": 7.9,
         "angle": "Contrarian Truth"
       },
       {
         "title": "Stop Sleeping on Evo Minion Horde...",
         "creator": "Ken",
         "views": 1088,
-        "velocity": 57.54,
+        "velocity": 57.43,
         "angle": "Contrarian Truth"
       },
       {
         "title": "Don't play Minecraft for views.",
         "creator": "Ken",
         "views": 480,
-        "velocity": 15.65,
+        "velocity": 15.64,
         "angle": "Contrarian Truth"
       },
       {
         "title": "How to use Clone like a top 10 global player",
         "creator": "Ken",
-        "views": 553,
-        "velocity": 16.55,
+        "views": 554,
+        "velocity": 16.56,
         "angle": "Actionable Protocol"
       },
       {
         "title": "Ken: Stop Making This Mistake #Shorts",
         "creator": "Ken",
         "views": 1303,
-        "velocity": 32.65,
+        "velocity": 32.62,
         "angle": "Contrarian Truth"
       },
       {
         "title": "KEN BROKE CLASH ROYALE WITH THIS DECK #Shorts",
         "creator": "Ken",
-        "views": 1394,
-        "velocity": 32.48,
+        "views": 1393,
+        "velocity": 32.43,
         "angle": "High Velocity"
       },
       {
         "title": "Why Sparky is Actually UNSTOPPABLE \u26a1",
         "creator": "Ken",
-        "views": 1257,
-        "velocity": 22.19,
+        "views": 1259,
+        "velocity": 22.21,
         "angle": "Contrarian Truth"
       }
     ],

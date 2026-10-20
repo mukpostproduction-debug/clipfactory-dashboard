@@ -1,6 +1,6 @@
 {
-  "timestamp": 1792462477.363764,
-  "sync_time_iso": "2026-10-20T02:14:37Z",
+  "timestamp": 1792462541.000349,
+  "sync_time_iso": "2026-10-20T02:15:41Z",
   "default_channel": "ken_clips_burger",
   "channels": {
     "ken_clips_burger": {
@@ -96,14 +96,14 @@
           "current_task": "Queue up to date. Waiting for next daily Ken upload.",
           "last_completed_task": "Ingested 5 recent Ken master videos into source pool",
           "recent_logs": [
-            "[22:05:18] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
-            "[22:05:34] Queue up to date. Waiting for next daily Ken upload.",
             "[22:07:37] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
             "[22:07:57] Queue up to date. Waiting for next daily Ken upload.",
             "[22:10:01] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
             "[22:10:25] Queue up to date. Waiting for next daily Ken upload.",
             "[22:12:27] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
-            "[22:12:47] Queue up to date. Waiting for next daily Ken upload."
+            "[22:12:47] Queue up to date. Waiting for next daily Ken upload.",
+            "[22:14:59] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
+            "[22:15:23] Queue up to date. Waiting for next daily Ken upload."
           ]
         },
         "STRATEGIST": {
@@ -123,17 +123,17 @@
         },
         "EDITOR": {
           "status": "working",
-          "current_task": "Rendering gaming_split Short with captions: new balance changes [Highlight",
+          "current_task": "Rendering gaming_split Short with captions: new balance changes [Clutch Mo",
           "last_completed_task": "Rendered 'hp buffed' rage highlight with kinetic pop captions & commentary",
           "recent_logs": [
-            "[13:01:44] Downloading highlight segment (*60-240) for: 2.5 cancer cycle [Highlight]...",
-            "[13:01:49] Rendering gaming_split Short with captions: 2.5 cancer cycle [Highlight]",
             "[16:31:30] Downloading highlight segment (*300-480) for: 2.5 cancer cycle [Clutch Moment]...",
             "[16:31:38] Rendering gaming_split Short with captions: 2.5 cancer cycle [Clutch Momen",
             "[19:31:31] Downloading highlight segment (*540-720) for: 2.5 cancer cycle [Overtime Battle]...",
             "[19:31:41] Rendering gaming_split Short with captions: 2.5 cancer cycle [Overtime Bat",
             "[21:30:30] Downloading highlight segment (*60-240) for: new balance changes [Highlight]...",
-            "[21:30:45] Rendering gaming_split Short with captions: new balance changes [Highlight"
+            "[21:30:45] Rendering gaming_split Short with captions: new balance changes [Highlight",
+            "[22:15:23] Downloading highlight segment (*300-480) for: new balance changes [Clutch Moment]...",
+            "[22:15:36] Rendering gaming_split Short with captions: new balance changes [Clutch Mo"
           ]
         },
         "COMMENTATOR": {
@@ -256,7 +256,7 @@
             "url": "https://www.youtube.com/watch?v=efXvyv0t4Yo",
             "section": "*300-480",
             "duration": 857,
-            "status": "QUEUED",
+            "status": "PROCESSING",
             "added_at": "2026-10-19T12:03:14Z"
           }
         ],
@@ -640,73 +640,6 @@
       },
       "calendar": {
         "scheduled": [
-          {
-            "id": "ken_1792212492_12",
-            "source_video": "perfected my deck [Overtime Battle]",
-            "creator": "Ken",
-            "title": "He actually said this in the lobby... \ud83d\udc80",
-            "publish_at": "2026-10-20T02:15:00Z",
-            "status": "SCHEDULED",
-            "uploaded": true,
-            "youtube_video_id": "xeqWQK8Aznk",
-            "youtube_url": "https://www.youtube.com/shorts/xeqWQK8Aznk",
-            "video_file": "ken_1792212492_12_master.mp4",
-            "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792212492_12_master.mp4",
-            "duration": 21.23,
-            "hook_summary": "The creator ruthlessly tells his opponent to go back to the lobby and hug their mother, roasting them for how much time they spend playing the game.",
-            "metadata": {
-              "title": "He actually said this in the lobby... \ud83d\udc80",
-              "description": "Some roasts go too far, but this one crossed the line into absolute psychological destruction. You won't believe how the opponent reacted to this brutal reality check.\n\n\u2022 The exact mental trigger to completely tilt your opponent\n\u2022 How to deliver a verbal knockout in under 10 seconds\n\u2022 Understanding the psychology of high-stakes trash talk\n\nFeaturing: Ken\n\nHave you ever heard a worse lobby mic than this one?\n\n#shorts #gaming #trashtalk #gamer #cod #streamer",
-              "tags": [
-                "gaming trash talk",
-                "funny gaming moments",
-                "lobby chat",
-                "gamer rage",
-                "ken gaming",
-                "epic roasts",
-                "gaming shorts",
-                "toxic lobbies",
-                "cod lobby",
-                "gamer humor"
-              ],
-              "pinned_comment": "Be honest: would you have uninstalled the game immediately if someone said this to you?",
-              "ab_variants": {
-                "A": {
-                  "angle": "Curiosity Gap",
-                  "title": "He actually said this in the lobby... \ud83d\udc80",
-                  "description": "Some roasts go too far, but this one crossed the line into absolute psychological destruction. You won't believe how the opponent reacted to this brutal reality check.\n\n\u2022 The exact mental trigger to completely tilt your opponent\n\u2022 How to deliver a verbal knockout in under 10 seconds\n\u2022 Understanding the psychology of high-stakes trash talk\n\nFeaturing: Ken\n\nHave you ever heard a worse lobby mic than this one?\n\n#shorts #gaming #trashtalk #gamer #cod #streamer"
-                },
-                "B": {
-                  "angle": "Contrarian Truth",
-                  "title": "Stop being nice to toxic gamers.",
-                  "description": "Kindness doesn't work on the sticks. Sometimes you have to put your opponent back in their place and remind them of the real world outside their bedroom.\n\n\u2022 Why polite gaming is holding your competitive edge back\n\u2022 The art of the absolute psychological shutdown\n\u2022 When to stop playing and touch grass\n\nFeaturing: Ken\n\nIs trash talk a healthy part of gaming or toxic waste?\n\n#shorts #gaming #rage #gamerlife #podcast #mindset"
-                },
-                "C": {
-                  "angle": "Actionable Protocol",
-                  "title": "How to verbally destroy any lobby instantly.",
-                  "description": "Master the ultimate blueprint for silencing loud opponents and sending them packing without even firing a single bullet.\n\n\u2022 Step 1: Identify the opponent's emotional weak spot\n\u2022 Step 2: Deliver the lobby exit notice\n\u2022 Step 3: Watch them rage quit in real-time\n\nFeaturing: Ken\n\nWhat is the single best lobby roast you have ever heard?\n\n#shorts #gamingcommunity #gamer #funny #clips #gamingmoments"
-                }
-              },
-              "active_variant": "A",
-              "test_status": "ACTIVE_TEST",
-              "variant_history": [
-                {
-                  "variant": "A",
-                  "title": "He actually said this in the lobby... \ud83d\udc80",
-                  "deployed_at": 1792316064.641025,
-                  "reason": "Initial A/B test deployment"
-                }
-              ],
-              "metrics": {
-                "views": 0,
-                "likes": 0,
-                "comments": 0,
-                "retention": 0.0,
-                "ctr": 0.0
-              }
-            },
-            "reframed": "gaming_split"
-          },
           {
             "id": "ken_1792212492_17",
             "source_video": "25% buff abuse [Overtime Battle]",
@@ -1240,6 +1173,73 @@
         ],
         "held": [],
         "published": [
+          {
+            "id": "ken_1792212492_12",
+            "source_video": "perfected my deck [Overtime Battle]",
+            "creator": "Ken",
+            "title": "He actually said this in the lobby... \ud83d\udc80",
+            "publish_at": "2026-10-20T02:15:00Z",
+            "status": "PUBLISHED",
+            "uploaded": true,
+            "youtube_video_id": "xeqWQK8Aznk",
+            "youtube_url": "https://www.youtube.com/shorts/xeqWQK8Aznk",
+            "video_file": "ken_1792212492_12_master.mp4",
+            "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792212492_12_master.mp4",
+            "duration": 21.23,
+            "hook_summary": "The creator ruthlessly tells his opponent to go back to the lobby and hug their mother, roasting them for how much time they spend playing the game.",
+            "metadata": {
+              "title": "He actually said this in the lobby... \ud83d\udc80",
+              "description": "Some roasts go too far, but this one crossed the line into absolute psychological destruction. You won't believe how the opponent reacted to this brutal reality check.\n\n\u2022 The exact mental trigger to completely tilt your opponent\n\u2022 How to deliver a verbal knockout in under 10 seconds\n\u2022 Understanding the psychology of high-stakes trash talk\n\nFeaturing: Ken\n\nHave you ever heard a worse lobby mic than this one?\n\n#shorts #gaming #trashtalk #gamer #cod #streamer",
+              "tags": [
+                "gaming trash talk",
+                "funny gaming moments",
+                "lobby chat",
+                "gamer rage",
+                "ken gaming",
+                "epic roasts",
+                "gaming shorts",
+                "toxic lobbies",
+                "cod lobby",
+                "gamer humor"
+              ],
+              "pinned_comment": "Be honest: would you have uninstalled the game immediately if someone said this to you?",
+              "ab_variants": {
+                "A": {
+                  "angle": "Curiosity Gap",
+                  "title": "He actually said this in the lobby... \ud83d\udc80",
+                  "description": "Some roasts go too far, but this one crossed the line into absolute psychological destruction. You won't believe how the opponent reacted to this brutal reality check.\n\n\u2022 The exact mental trigger to completely tilt your opponent\n\u2022 How to deliver a verbal knockout in under 10 seconds\n\u2022 Understanding the psychology of high-stakes trash talk\n\nFeaturing: Ken\n\nHave you ever heard a worse lobby mic than this one?\n\n#shorts #gaming #trashtalk #gamer #cod #streamer"
+                },
+                "B": {
+                  "angle": "Contrarian Truth",
+                  "title": "Stop being nice to toxic gamers.",
+                  "description": "Kindness doesn't work on the sticks. Sometimes you have to put your opponent back in their place and remind them of the real world outside their bedroom.\n\n\u2022 Why polite gaming is holding your competitive edge back\n\u2022 The art of the absolute psychological shutdown\n\u2022 When to stop playing and touch grass\n\nFeaturing: Ken\n\nIs trash talk a healthy part of gaming or toxic waste?\n\n#shorts #gaming #rage #gamerlife #podcast #mindset"
+                },
+                "C": {
+                  "angle": "Actionable Protocol",
+                  "title": "How to verbally destroy any lobby instantly.",
+                  "description": "Master the ultimate blueprint for silencing loud opponents and sending them packing without even firing a single bullet.\n\n\u2022 Step 1: Identify the opponent's emotional weak spot\n\u2022 Step 2: Deliver the lobby exit notice\n\u2022 Step 3: Watch them rage quit in real-time\n\nFeaturing: Ken\n\nWhat is the single best lobby roast you have ever heard?\n\n#shorts #gamingcommunity #gamer #funny #clips #gamingmoments"
+                }
+              },
+              "active_variant": "A",
+              "test_status": "ACTIVE_TEST",
+              "variant_history": [
+                {
+                  "variant": "A",
+                  "title": "He actually said this in the lobby... \ud83d\udc80",
+                  "deployed_at": 1792316064.641025,
+                  "reason": "Initial A/B test deployment"
+                }
+              ],
+              "metrics": {
+                "views": 0,
+                "likes": 0,
+                "comments": 0,
+                "retention": 0.0,
+                "ctr": 0.0
+              }
+            },
+            "reframed": "gaming_split"
+          },
           {
             "id": "ken_1792246995_2",
             "source_video": "1.9 aggression cycle [Overtime Battle]",
@@ -5770,14 +5770,14 @@
       "current_task": "Queue up to date. Waiting for next daily Ken upload.",
       "last_completed_task": "Ingested 5 recent Ken master videos into source pool",
       "recent_logs": [
-        "[22:05:18] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
-        "[22:05:34] Queue up to date. Waiting for next daily Ken upload.",
         "[22:07:37] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
         "[22:07:57] Queue up to date. Waiting for next daily Ken upload.",
         "[22:10:01] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
         "[22:10:25] Queue up to date. Waiting for next daily Ken upload.",
         "[22:12:27] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
-        "[22:12:47] Queue up to date. Waiting for next daily Ken upload."
+        "[22:12:47] Queue up to date. Waiting for next daily Ken upload.",
+        "[22:14:59] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
+        "[22:15:23] Queue up to date. Waiting for next daily Ken upload."
       ]
     },
     "STRATEGIST": {
@@ -5797,17 +5797,17 @@
     },
     "EDITOR": {
       "status": "working",
-      "current_task": "Rendering gaming_split Short with captions: new balance changes [Highlight",
+      "current_task": "Rendering gaming_split Short with captions: new balance changes [Clutch Mo",
       "last_completed_task": "Rendered 'hp buffed' rage highlight with kinetic pop captions & commentary",
       "recent_logs": [
-        "[13:01:44] Downloading highlight segment (*60-240) for: 2.5 cancer cycle [Highlight]...",
-        "[13:01:49] Rendering gaming_split Short with captions: 2.5 cancer cycle [Highlight]",
         "[16:31:30] Downloading highlight segment (*300-480) for: 2.5 cancer cycle [Clutch Moment]...",
         "[16:31:38] Rendering gaming_split Short with captions: 2.5 cancer cycle [Clutch Momen",
         "[19:31:31] Downloading highlight segment (*540-720) for: 2.5 cancer cycle [Overtime Battle]...",
         "[19:31:41] Rendering gaming_split Short with captions: 2.5 cancer cycle [Overtime Bat",
         "[21:30:30] Downloading highlight segment (*60-240) for: new balance changes [Highlight]...",
-        "[21:30:45] Rendering gaming_split Short with captions: new balance changes [Highlight"
+        "[21:30:45] Rendering gaming_split Short with captions: new balance changes [Highlight",
+        "[22:15:23] Downloading highlight segment (*300-480) for: new balance changes [Clutch Moment]...",
+        "[22:15:36] Rendering gaming_split Short with captions: new balance changes [Clutch Mo"
       ]
     },
     "COMMENTATOR": {
@@ -5930,7 +5930,7 @@
         "url": "https://www.youtube.com/watch?v=efXvyv0t4Yo",
         "section": "*300-480",
         "duration": 857,
-        "status": "QUEUED",
+        "status": "PROCESSING",
         "added_at": "2026-10-19T12:03:14Z"
       }
     ],
@@ -6314,73 +6314,6 @@
   },
   "calendar": {
     "scheduled": [
-      {
-        "id": "ken_1792212492_12",
-        "source_video": "perfected my deck [Overtime Battle]",
-        "creator": "Ken",
-        "title": "He actually said this in the lobby... \ud83d\udc80",
-        "publish_at": "2026-10-20T02:15:00Z",
-        "status": "SCHEDULED",
-        "uploaded": true,
-        "youtube_video_id": "xeqWQK8Aznk",
-        "youtube_url": "https://www.youtube.com/shorts/xeqWQK8Aznk",
-        "video_file": "ken_1792212492_12_master.mp4",
-        "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792212492_12_master.mp4",
-        "duration": 21.23,
-        "hook_summary": "The creator ruthlessly tells his opponent to go back to the lobby and hug their mother, roasting them for how much time they spend playing the game.",
-        "metadata": {
-          "title": "He actually said this in the lobby... \ud83d\udc80",
-          "description": "Some roasts go too far, but this one crossed the line into absolute psychological destruction. You won't believe how the opponent reacted to this brutal reality check.\n\n\u2022 The exact mental trigger to completely tilt your opponent\n\u2022 How to deliver a verbal knockout in under 10 seconds\n\u2022 Understanding the psychology of high-stakes trash talk\n\nFeaturing: Ken\n\nHave you ever heard a worse lobby mic than this one?\n\n#shorts #gaming #trashtalk #gamer #cod #streamer",
-          "tags": [
-            "gaming trash talk",
-            "funny gaming moments",
-            "lobby chat",
-            "gamer rage",
-            "ken gaming",
-            "epic roasts",
-            "gaming shorts",
-            "toxic lobbies",
-            "cod lobby",
-            "gamer humor"
-          ],
-          "pinned_comment": "Be honest: would you have uninstalled the game immediately if someone said this to you?",
-          "ab_variants": {
-            "A": {
-              "angle": "Curiosity Gap",
-              "title": "He actually said this in the lobby... \ud83d\udc80",
-              "description": "Some roasts go too far, but this one crossed the line into absolute psychological destruction. You won't believe how the opponent reacted to this brutal reality check.\n\n\u2022 The exact mental trigger to completely tilt your opponent\n\u2022 How to deliver a verbal knockout in under 10 seconds\n\u2022 Understanding the psychology of high-stakes trash talk\n\nFeaturing: Ken\n\nHave you ever heard a worse lobby mic than this one?\n\n#shorts #gaming #trashtalk #gamer #cod #streamer"
-            },
-            "B": {
-              "angle": "Contrarian Truth",
-              "title": "Stop being nice to toxic gamers.",
-              "description": "Kindness doesn't work on the sticks. Sometimes you have to put your opponent back in their place and remind them of the real world outside their bedroom.\n\n\u2022 Why polite gaming is holding your competitive edge back\n\u2022 The art of the absolute psychological shutdown\n\u2022 When to stop playing and touch grass\n\nFeaturing: Ken\n\nIs trash talk a healthy part of gaming or toxic waste?\n\n#shorts #gaming #rage #gamerlife #podcast #mindset"
-            },
-            "C": {
-              "angle": "Actionable Protocol",
-              "title": "How to verbally destroy any lobby instantly.",
-              "description": "Master the ultimate blueprint for silencing loud opponents and sending them packing without even firing a single bullet.\n\n\u2022 Step 1: Identify the opponent's emotional weak spot\n\u2022 Step 2: Deliver the lobby exit notice\n\u2022 Step 3: Watch them rage quit in real-time\n\nFeaturing: Ken\n\nWhat is the single best lobby roast you have ever heard?\n\n#shorts #gamingcommunity #gamer #funny #clips #gamingmoments"
-            }
-          },
-          "active_variant": "A",
-          "test_status": "ACTIVE_TEST",
-          "variant_history": [
-            {
-              "variant": "A",
-              "title": "He actually said this in the lobby... \ud83d\udc80",
-              "deployed_at": 1792316064.641025,
-              "reason": "Initial A/B test deployment"
-            }
-          ],
-          "metrics": {
-            "views": 0,
-            "likes": 0,
-            "comments": 0,
-            "retention": 0.0,
-            "ctr": 0.0
-          }
-        },
-        "reframed": "gaming_split"
-      },
       {
         "id": "ken_1792212492_17",
         "source_video": "25% buff abuse [Overtime Battle]",
@@ -6914,6 +6847,73 @@
     ],
     "held": [],
     "published": [
+      {
+        "id": "ken_1792212492_12",
+        "source_video": "perfected my deck [Overtime Battle]",
+        "creator": "Ken",
+        "title": "He actually said this in the lobby... \ud83d\udc80",
+        "publish_at": "2026-10-20T02:15:00Z",
+        "status": "PUBLISHED",
+        "uploaded": true,
+        "youtube_video_id": "xeqWQK8Aznk",
+        "youtube_url": "https://www.youtube.com/shorts/xeqWQK8Aznk",
+        "video_file": "ken_1792212492_12_master.mp4",
+        "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792212492_12_master.mp4",
+        "duration": 21.23,
+        "hook_summary": "The creator ruthlessly tells his opponent to go back to the lobby and hug their mother, roasting them for how much time they spend playing the game.",
+        "metadata": {
+          "title": "He actually said this in the lobby... \ud83d\udc80",
+          "description": "Some roasts go too far, but this one crossed the line into absolute psychological destruction. You won't believe how the opponent reacted to this brutal reality check.\n\n\u2022 The exact mental trigger to completely tilt your opponent\n\u2022 How to deliver a verbal knockout in under 10 seconds\n\u2022 Understanding the psychology of high-stakes trash talk\n\nFeaturing: Ken\n\nHave you ever heard a worse lobby mic than this one?\n\n#shorts #gaming #trashtalk #gamer #cod #streamer",
+          "tags": [
+            "gaming trash talk",
+            "funny gaming moments",
+            "lobby chat",
+            "gamer rage",
+            "ken gaming",
+            "epic roasts",
+            "gaming shorts",
+            "toxic lobbies",
+            "cod lobby",
+            "gamer humor"
+          ],
+          "pinned_comment": "Be honest: would you have uninstalled the game immediately if someone said this to you?",
+          "ab_variants": {
+            "A": {
+              "angle": "Curiosity Gap",
+              "title": "He actually said this in the lobby... \ud83d\udc80",
+              "description": "Some roasts go too far, but this one crossed the line into absolute psychological destruction. You won't believe how the opponent reacted to this brutal reality check.\n\n\u2022 The exact mental trigger to completely tilt your opponent\n\u2022 How to deliver a verbal knockout in under 10 seconds\n\u2022 Understanding the psychology of high-stakes trash talk\n\nFeaturing: Ken\n\nHave you ever heard a worse lobby mic than this one?\n\n#shorts #gaming #trashtalk #gamer #cod #streamer"
+            },
+            "B": {
+              "angle": "Contrarian Truth",
+              "title": "Stop being nice to toxic gamers.",
+              "description": "Kindness doesn't work on the sticks. Sometimes you have to put your opponent back in their place and remind them of the real world outside their bedroom.\n\n\u2022 Why polite gaming is holding your competitive edge back\n\u2022 The art of the absolute psychological shutdown\n\u2022 When to stop playing and touch grass\n\nFeaturing: Ken\n\nIs trash talk a healthy part of gaming or toxic waste?\n\n#shorts #gaming #rage #gamerlife #podcast #mindset"
+            },
+            "C": {
+              "angle": "Actionable Protocol",
+              "title": "How to verbally destroy any lobby instantly.",
+              "description": "Master the ultimate blueprint for silencing loud opponents and sending them packing without even firing a single bullet.\n\n\u2022 Step 1: Identify the opponent's emotional weak spot\n\u2022 Step 2: Deliver the lobby exit notice\n\u2022 Step 3: Watch them rage quit in real-time\n\nFeaturing: Ken\n\nWhat is the single best lobby roast you have ever heard?\n\n#shorts #gamingcommunity #gamer #funny #clips #gamingmoments"
+            }
+          },
+          "active_variant": "A",
+          "test_status": "ACTIVE_TEST",
+          "variant_history": [
+            {
+              "variant": "A",
+              "title": "He actually said this in the lobby... \ud83d\udc80",
+              "deployed_at": 1792316064.641025,
+              "reason": "Initial A/B test deployment"
+            }
+          ],
+          "metrics": {
+            "views": 0,
+            "likes": 0,
+            "comments": 0,
+            "retention": 0.0,
+            "ctr": 0.0
+          }
+        },
+        "reframed": "gaming_split"
+      },
       {
         "id": "ken_1792246995_2",
         "source_video": "1.9 aggression cycle [Overtime Battle]",

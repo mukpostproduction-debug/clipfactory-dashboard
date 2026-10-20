@@ -1,6 +1,6 @@
 {
-  "timestamp": 1792535301.995868,
-  "sync_time_iso": "2026-10-20T22:28:21Z",
+  "timestamp": 1792535303.1407301,
+  "sync_time_iso": "2026-10-20T22:28:23Z",
   "default_channel": "ken_clips_burger",
   "channels": {
     "ken_clips_burger": {
@@ -148,17 +148,17 @@
         },
         "PUBLISHER": {
           "status": "working",
-          "current_task": "Deploying to YouTube (@kenclipsburger420) for release 09:30 PM ET (Tue, Oct 20)...",
+          "current_task": "Short SCHEDULED on YouTube: GXFqvSjnK8c (09:30 PM ET (Tue, Oct 20))",
           "last_completed_task": "Uploaded all 3 initial Clash Royale gaming cuts to YouTube (kenclipsburger420)",
           "recent_logs": [
-            "[12:12:24] Generating gaming A/B metadata for slot: 11:30 AM ET (Thu, Oct 22)...",
             "[12:13:00] Deploying to YouTube (@kenclipsburger420) for release 11:30 AM ET (Thu, Oct 22)...",
             "[12:13:08] Short SCHEDULED on YouTube: X7StAXY94mc (11:30 AM ET (Thu, Oct 22))",
             "[12:16:38] Generating gaming A/B metadata for slot: 04:30 PM ET (Thu, Oct 22)...",
             "[12:17:07] Deploying to YouTube (@kenclipsburger420) for release 04:30 PM ET (Thu, Oct 22)...",
             "[12:17:14] Short SCHEDULED on YouTube: LfKxwVmaMEE (04:30 PM ET (Thu, Oct 22))",
             "[18:28:07] Generating gaming A/B metadata for slot: 09:30 PM ET (Tue, Oct 20)...",
-            "[18:28:16] Deploying to YouTube (@kenclipsburger420) for release 09:30 PM ET (Tue, Oct 20)..."
+            "[18:28:16] Deploying to YouTube (@kenclipsburger420) for release 09:30 PM ET (Tue, Oct 20)...",
+            "[18:28:22] Short SCHEDULED on YouTube: GXFqvSjnK8c (09:30 PM ET (Tue, Oct 20))"
           ]
         },
         "ANALYST": {
@@ -257,18 +257,6 @@
               }
             },
             "hook_summary": "The creator attempts a high-stakes bolt shot on the tower only to get 'scammed' by the game's mechanics, leading into a hilarious rant about using a protractor in school."
-          },
-          {
-            "id": "ken_1792500844_1",
-            "creator": "Ken",
-            "title": "welcome to hell [Clutch Moment]",
-            "source_title": "welcome to hell",
-            "url": "https://www.youtube.com/watch?v=E2w0V3SzeqY",
-            "section": "*300-480",
-            "duration": 2022,
-            "status": "PROCESSING",
-            "added_at": "2026-10-20T12:54:04Z",
-            "youtube_video_id": null
           },
           {
             "id": "ken_1792411394_1",
@@ -720,11 +708,91 @@
             "added_at": "2026-10-18T10:11:18Z",
             "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792318278_0_master.mp4",
             "youtube_video_id": "mn2b9SbHoe0"
+          },
+          {
+            "id": "ken_1792500844_1",
+            "creator": "Ken",
+            "title": "welcome to hell [Clutch Moment]",
+            "source_title": "welcome to hell",
+            "url": "https://www.youtube.com/watch?v=E2w0V3SzeqY",
+            "section": "*300-480",
+            "duration": 2022,
+            "status": "COMPLETED",
+            "added_at": "2026-10-20T12:54:04Z",
+            "youtube_video_id": "GXFqvSjnK8c",
+            "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792500844_1_master.mp4"
           }
         ]
       },
       "calendar": {
-        "scheduled": [],
+        "scheduled": [
+          {
+            "id": "ken_1792500844_1",
+            "source_video": "welcome to hell [Clutch Moment]",
+            "creator": "Ken",
+            "title": "He Broke Chaos Mode With This Strategy...",
+            "publish_at": "2026-10-21T01:30:00Z",
+            "status": "SCHEDULED",
+            "uploaded": true,
+            "youtube_video_id": "GXFqvSjnK8c",
+            "youtube_url": "https://www.youtube.com/shorts/GXFqvSjnK8c",
+            "video_file": "ken_1792500844_1_master.mp4",
+            "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792500844_1_master.mp4",
+            "duration": 30.99,
+            "hook_summary": "The player has a 'big brain' realization about a broken strategy exploit in the new game mode involving skip modifiers.",
+            "metadata": {
+              "title": "He Broke Chaos Mode With This Strategy...",
+              "description": "Ken used his brain for two seconds and completely broke the new Chaos Mode using skip modifiers. Watch how this simple realization bypasses the intended game mechanics for free wins.\n\nKey Takeaways:\n\u2022 How skip modifiers break the game mode\n\u2022 The 'big brain' realization that changes everything\n\u2022 Why the developers missed this interaction\n\nFeaturing: Ken\n\nIs this a game-breaking exploit or just smart gameplay?\n\n#shorts #gaming #chaosmode #ken #mobilegaming #exploit",
+              "tags": [
+                "ken chaos mode",
+                "chaos mode exploit",
+                "skip modifier glitch",
+                "broken chaos mode strategy",
+                "ken gaming",
+                "chaos mode guide",
+                "gaming exploits",
+                "mobile gaming tips",
+                "ken big brain clip"
+              ],
+              "pinned_comment": "Is using skip modifiers like this a genius play or cheap cheating? Let me know below \ud83d\udc47",
+              "ab_variants": {
+                "A": {
+                  "angle": "Curiosity Gap",
+                  "title": "He Broke Chaos Mode With This Strategy...",
+                  "description": "Ken used his brain for two seconds and completely broke the new Chaos Mode using skip modifiers. Watch how this simple realization bypasses the intended game mechanics for free wins.\n\nKey Takeaways:\n\u2022 How skip modifiers break the game mode\n\u2022 The 'big brain' realization that changes everything\n\u2022 Why the developers missed this interaction\n\nFeaturing: Ken\n\nIs this a game-breaking exploit or just smart gameplay?\n\n#shorts #gaming #chaosmode #ken #mobilegaming #exploit"
+                },
+                "B": {
+                  "angle": "Contrarian Truth",
+                  "title": "Chaos Mode Isn't Random, It's Broken",
+                  "description": "Everyone thinks Chaos Mode is purely luck-based, but Ken proved you can force a win every time. By manipulating skip modifiers, he turned a random mode into a guaranteed win exploit.\n\nWhat You'll Learn:\n\u2022 Why Chaos Mode RNG is a myth\n\u2022 How to manipulate skip modifiers\n\u2022 The ultimate strategy to dominate\n\nFeaturing: Ken\n\nShould the devs patch this immediately or keep it in the game?\n\n#shorts #gaming #ken #glitch #strategy #chaosmode"
+                },
+                "C": {
+                  "angle": "Actionable Protocol",
+                  "title": "How to Abuse Skip Modifiers in Chaos Mode",
+                  "description": "Stop losing to bad RNG in Chaos Mode and start abusing skip modifiers like Ken. Here is the exact strategy to manipulate the new game mode and stack easy wins.\n\nStrategy Steps:\n\u2022 Time your skip modifiers correctly\n\u2022 Bypass bad random hands entirely\n\u2022 Secure high-value plays every round\n\nFeaturing: Ken\n\nHave you tried using this skip modifier strat yet?\n\n#shorts #gaming #ken #guide #chaosmode #gamingtips"
+                }
+              },
+              "active_variant": "A",
+              "test_status": "ACTIVE_TEST",
+              "variant_history": [
+                {
+                  "variant": "A",
+                  "title": "He Broke Chaos Mode With This Strategy...",
+                  "deployed_at": 1792535296.126878,
+                  "reason": "Initial A/B test deployment"
+                }
+              ],
+              "metrics": {
+                "views": 0,
+                "likes": 0,
+                "comments": 0,
+                "retention": 0.0,
+                "ctr": 0.0
+              }
+            },
+            "reframed": "gaming_split"
+          }
+        ],
         "held": [],
         "published": [
           {
@@ -5650,17 +5718,17 @@
     },
     "PUBLISHER": {
       "status": "working",
-      "current_task": "Deploying to YouTube (@kenclipsburger420) for release 09:30 PM ET (Tue, Oct 20)...",
+      "current_task": "Short SCHEDULED on YouTube: GXFqvSjnK8c (09:30 PM ET (Tue, Oct 20))",
       "last_completed_task": "Uploaded all 3 initial Clash Royale gaming cuts to YouTube (kenclipsburger420)",
       "recent_logs": [
-        "[12:12:24] Generating gaming A/B metadata for slot: 11:30 AM ET (Thu, Oct 22)...",
         "[12:13:00] Deploying to YouTube (@kenclipsburger420) for release 11:30 AM ET (Thu, Oct 22)...",
         "[12:13:08] Short SCHEDULED on YouTube: X7StAXY94mc (11:30 AM ET (Thu, Oct 22))",
         "[12:16:38] Generating gaming A/B metadata for slot: 04:30 PM ET (Thu, Oct 22)...",
         "[12:17:07] Deploying to YouTube (@kenclipsburger420) for release 04:30 PM ET (Thu, Oct 22)...",
         "[12:17:14] Short SCHEDULED on YouTube: LfKxwVmaMEE (04:30 PM ET (Thu, Oct 22))",
         "[18:28:07] Generating gaming A/B metadata for slot: 09:30 PM ET (Tue, Oct 20)...",
-        "[18:28:16] Deploying to YouTube (@kenclipsburger420) for release 09:30 PM ET (Tue, Oct 20)..."
+        "[18:28:16] Deploying to YouTube (@kenclipsburger420) for release 09:30 PM ET (Tue, Oct 20)...",
+        "[18:28:22] Short SCHEDULED on YouTube: GXFqvSjnK8c (09:30 PM ET (Tue, Oct 20))"
       ]
     },
     "ANALYST": {
@@ -5759,18 +5827,6 @@
           }
         },
         "hook_summary": "The creator attempts a high-stakes bolt shot on the tower only to get 'scammed' by the game's mechanics, leading into a hilarious rant about using a protractor in school."
-      },
-      {
-        "id": "ken_1792500844_1",
-        "creator": "Ken",
-        "title": "welcome to hell [Clutch Moment]",
-        "source_title": "welcome to hell",
-        "url": "https://www.youtube.com/watch?v=E2w0V3SzeqY",
-        "section": "*300-480",
-        "duration": 2022,
-        "status": "PROCESSING",
-        "added_at": "2026-10-20T12:54:04Z",
-        "youtube_video_id": null
       },
       {
         "id": "ken_1792411394_1",
@@ -6222,11 +6278,91 @@
         "added_at": "2026-10-18T10:11:18Z",
         "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792318278_0_master.mp4",
         "youtube_video_id": "mn2b9SbHoe0"
+      },
+      {
+        "id": "ken_1792500844_1",
+        "creator": "Ken",
+        "title": "welcome to hell [Clutch Moment]",
+        "source_title": "welcome to hell",
+        "url": "https://www.youtube.com/watch?v=E2w0V3SzeqY",
+        "section": "*300-480",
+        "duration": 2022,
+        "status": "COMPLETED",
+        "added_at": "2026-10-20T12:54:04Z",
+        "youtube_video_id": "GXFqvSjnK8c",
+        "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792500844_1_master.mp4"
       }
     ]
   },
   "calendar": {
-    "scheduled": [],
+    "scheduled": [
+      {
+        "id": "ken_1792500844_1",
+        "source_video": "welcome to hell [Clutch Moment]",
+        "creator": "Ken",
+        "title": "He Broke Chaos Mode With This Strategy...",
+        "publish_at": "2026-10-21T01:30:00Z",
+        "status": "SCHEDULED",
+        "uploaded": true,
+        "youtube_video_id": "GXFqvSjnK8c",
+        "youtube_url": "https://www.youtube.com/shorts/GXFqvSjnK8c",
+        "video_file": "ken_1792500844_1_master.mp4",
+        "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792500844_1_master.mp4",
+        "duration": 30.99,
+        "hook_summary": "The player has a 'big brain' realization about a broken strategy exploit in the new game mode involving skip modifiers.",
+        "metadata": {
+          "title": "He Broke Chaos Mode With This Strategy...",
+          "description": "Ken used his brain for two seconds and completely broke the new Chaos Mode using skip modifiers. Watch how this simple realization bypasses the intended game mechanics for free wins.\n\nKey Takeaways:\n\u2022 How skip modifiers break the game mode\n\u2022 The 'big brain' realization that changes everything\n\u2022 Why the developers missed this interaction\n\nFeaturing: Ken\n\nIs this a game-breaking exploit or just smart gameplay?\n\n#shorts #gaming #chaosmode #ken #mobilegaming #exploit",
+          "tags": [
+            "ken chaos mode",
+            "chaos mode exploit",
+            "skip modifier glitch",
+            "broken chaos mode strategy",
+            "ken gaming",
+            "chaos mode guide",
+            "gaming exploits",
+            "mobile gaming tips",
+            "ken big brain clip"
+          ],
+          "pinned_comment": "Is using skip modifiers like this a genius play or cheap cheating? Let me know below \ud83d\udc47",
+          "ab_variants": {
+            "A": {
+              "angle": "Curiosity Gap",
+              "title": "He Broke Chaos Mode With This Strategy...",
+              "description": "Ken used his brain for two seconds and completely broke the new Chaos Mode using skip modifiers. Watch how this simple realization bypasses the intended game mechanics for free wins.\n\nKey Takeaways:\n\u2022 How skip modifiers break the game mode\n\u2022 The 'big brain' realization that changes everything\n\u2022 Why the developers missed this interaction\n\nFeaturing: Ken\n\nIs this a game-breaking exploit or just smart gameplay?\n\n#shorts #gaming #chaosmode #ken #mobilegaming #exploit"
+            },
+            "B": {
+              "angle": "Contrarian Truth",
+              "title": "Chaos Mode Isn't Random, It's Broken",
+              "description": "Everyone thinks Chaos Mode is purely luck-based, but Ken proved you can force a win every time. By manipulating skip modifiers, he turned a random mode into a guaranteed win exploit.\n\nWhat You'll Learn:\n\u2022 Why Chaos Mode RNG is a myth\n\u2022 How to manipulate skip modifiers\n\u2022 The ultimate strategy to dominate\n\nFeaturing: Ken\n\nShould the devs patch this immediately or keep it in the game?\n\n#shorts #gaming #ken #glitch #strategy #chaosmode"
+            },
+            "C": {
+              "angle": "Actionable Protocol",
+              "title": "How to Abuse Skip Modifiers in Chaos Mode",
+              "description": "Stop losing to bad RNG in Chaos Mode and start abusing skip modifiers like Ken. Here is the exact strategy to manipulate the new game mode and stack easy wins.\n\nStrategy Steps:\n\u2022 Time your skip modifiers correctly\n\u2022 Bypass bad random hands entirely\n\u2022 Secure high-value plays every round\n\nFeaturing: Ken\n\nHave you tried using this skip modifier strat yet?\n\n#shorts #gaming #ken #guide #chaosmode #gamingtips"
+            }
+          },
+          "active_variant": "A",
+          "test_status": "ACTIVE_TEST",
+          "variant_history": [
+            {
+              "variant": "A",
+              "title": "He Broke Chaos Mode With This Strategy...",
+              "deployed_at": 1792535296.126878,
+              "reason": "Initial A/B test deployment"
+            }
+          ],
+          "metrics": {
+            "views": 0,
+            "likes": 0,
+            "comments": 0,
+            "retention": 0.0,
+            "ctr": 0.0
+          }
+        },
+        "reframed": "gaming_split"
+      }
+    ],
     "held": [],
     "published": [
       {

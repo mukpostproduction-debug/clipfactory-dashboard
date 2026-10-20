@@ -1,6 +1,6 @@
 {
-  "timestamp": 1792512729.892639,
-  "sync_time_iso": "2026-10-20T16:12:09Z",
+  "timestamp": 1792512788.173598,
+  "sync_time_iso": "2026-10-20T16:13:08Z",
   "default_channel": "ken_clips_burger",
   "channels": {
     "ken_clips_burger": {
@@ -147,17 +147,17 @@
         },
         "PUBLISHER": {
           "status": "working",
-          "current_task": "Short SCHEDULED on YouTube: _D1GUgTHRJM (09:30 PM ET (Wed, Oct 21))",
+          "current_task": "Short SCHEDULED on YouTube: X7StAXY94mc (11:30 AM ET (Thu, Oct 22))",
           "last_completed_task": "Uploaded all 3 initial Clash Royale gaming cuts to YouTube (kenclipsburger420)",
           "recent_logs": [
-            "[19:32:57] Deploying to YouTube (@kenclipsburger420) for release 11:30 AM ET (Wed, Oct 21)...",
-            "[19:33:42] Short SCHEDULED on YouTube: mrG9jdRdbd4 (11:30 AM ET (Wed, Oct 21))",
-            "[21:31:54] Generating gaming A/B metadata for slot: 04:30 PM ET (Wed, Oct 21)...",
             "[21:32:06] Deploying to YouTube (@kenclipsburger420) for release 04:30 PM ET (Wed, Oct 21)...",
             "[21:32:18] Short SCHEDULED on YouTube: -ZMXI6V0aWY (04:30 PM ET (Wed, Oct 21))",
             "[22:16:49] Generating gaming A/B metadata for slot: 09:30 PM ET (Wed, Oct 21)...",
             "[22:16:59] Deploying to YouTube (@kenclipsburger420) for release 09:30 PM ET (Wed, Oct 21)...",
-            "[22:17:29] Short SCHEDULED on YouTube: _D1GUgTHRJM (09:30 PM ET (Wed, Oct 21))"
+            "[22:17:29] Short SCHEDULED on YouTube: _D1GUgTHRJM (09:30 PM ET (Wed, Oct 21))",
+            "[12:12:24] Generating gaming A/B metadata for slot: 11:30 AM ET (Thu, Oct 22)...",
+            "[12:13:00] Deploying to YouTube (@kenclipsburger420) for release 11:30 AM ET (Thu, Oct 22)...",
+            "[12:13:08] Short SCHEDULED on YouTube: X7StAXY94mc (11:30 AM ET (Thu, Oct 22))"
           ]
         },
         "ANALYST": {
@@ -257,17 +257,6 @@
             "section": "*60-240",
             "duration": 2022,
             "status": "FAILED_DOWNLOAD",
-            "added_at": "2026-10-20T12:54:04Z"
-          },
-          {
-            "id": "ken_1792500844_1",
-            "creator": "Ken",
-            "title": "welcome to hell [Clutch Moment]",
-            "source_title": "welcome to hell",
-            "url": "https://www.youtube.com/watch?v=E2w0V3SzeqY",
-            "section": "*300-480",
-            "duration": 2022,
-            "status": "PROCESSING",
             "added_at": "2026-10-20T12:54:04Z"
           },
           {
@@ -670,6 +659,19 @@
             "added_at": "2026-10-19T12:03:14Z",
             "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792411394_1_master.mp4",
             "youtube_video_id": "_D1GUgTHRJM"
+          },
+          {
+            "id": "ken_1792500844_1",
+            "creator": "Ken",
+            "title": "welcome to hell [Clutch Moment]",
+            "source_title": "welcome to hell",
+            "url": "https://www.youtube.com/watch?v=E2w0V3SzeqY",
+            "section": "*300-480",
+            "duration": 2022,
+            "status": "COMPLETED",
+            "added_at": "2026-10-20T12:54:04Z",
+            "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792500844_1_master.mp4",
+            "youtube_video_id": "X7StAXY94mc"
           }
         ]
       },
@@ -1126,6 +1128,73 @@
                   "variant": "A",
                   "title": "How did he actually win this impossible match?",
                   "deployed_at": 1792462619.321089,
+                  "reason": "Initial A/B test deployment"
+                }
+              ],
+              "metrics": {
+                "views": 0,
+                "likes": 0,
+                "comments": 0,
+                "retention": 0.0,
+                "ctr": 0.0
+              }
+            },
+            "reframed": "gaming_split"
+          },
+          {
+            "id": "ken_1792500844_1",
+            "source_video": "welcome to hell [Clutch Moment]",
+            "creator": "Ken",
+            "title": "The Secret 'Win Simulator' Strategy \ud83c\udfc6",
+            "publish_at": "2026-10-22T15:30:00Z",
+            "status": "SCHEDULED",
+            "uploaded": true,
+            "youtube_video_id": "X7StAXY94mc",
+            "youtube_url": "https://www.youtube.com/shorts/X7StAXY94mc",
+            "video_file": "ken_1792500844_1_master.mp4",
+            "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792500844_1_master.mp4",
+            "duration": 32.0,
+            "hook_summary": "Essential discussion and core insight",
+            "metadata": {
+              "title": "The Secret 'Win Simulator' Strategy \ud83c\udfc6",
+              "description": "Ken reveals the one specific gameplay loop that feels like a literal cheat code in the current meta. If you aren't using this, you're playing on hard mode.\n\n\u2022 Identify the 'Win Simulator' trigger\n\u2022 Why this specific loop is currently unstoppable\n\u2022 How to cycle back to your win condition instantly\n\nFeaturing: Ken\n\nIs this strategy a legitimate playstyle or does it take the skill out of the game?\n\n#shorts #clashroyale #gaming #ken #supercell #meta",
+              "tags": [
+                "Clash Royale",
+                "Ken",
+                "Win Simulator",
+                "Gaming Strategy",
+                "CR Meta",
+                "Supercell",
+                "Mobile Gaming",
+                "Pro Tips",
+                "Deck Guide",
+                "Podcast Discussion"
+              ],
+              "pinned_comment": "Is the 'Win Simulator' meta ruining the game, or is it just the smartest way to play right now? \ud83d\udc47",
+              "ab_variants": {
+                "A": {
+                  "angle": "Curiosity Gap",
+                  "title": "The Secret 'Win Simulator' Strategy \ud83c\udfc6",
+                  "description": "Ken reveals the one specific gameplay loop that feels like a literal cheat code in the current meta. If you aren't using this, you're playing on hard mode.\n\n\u2022 Identify the 'Win Simulator' trigger\n\u2022 Why this specific loop is currently unstoppable\n\u2022 How to cycle back to your win condition instantly\n\nFeaturing: Ken\n\nIs this strategy a legitimate playstyle or does it take the skill out of the game?\n\n#shorts #clashroyale #gaming #ken #supercell #meta"
+                },
+                "B": {
+                  "angle": "Contrarian Truth",
+                  "title": "Why Skill is Dead in This Meta \ud83d\udc80",
+                  "description": "Stop trying to outplay your opponent and start using the 'Win Simulator.' Ken explains why the game has shifted from tactical defense to a guaranteed win loop.\n\n\u2022 The end of traditional defensive play\n\u2022 Why the 'Simulator' approach beats high-skill decks\n\u2022 Exploiting the game's current math\n\nFeaturing: Ken\n\nWould you rather have a balanced game or a meta that allows for easy wins like this?\n\n#shorts #gaming #clashroyale #ken #mobilegaming #broken"
+                },
+                "C": {
+                  "angle": "Actionable Protocol",
+                  "title": "The Perfect 'Win Simulator' Protocol \ud83c\udfae",
+                  "description": "Master the exact framework Ken uses to turn every match into a win simulator. This is the most efficient way to climb the ladder right now.\n\n\u2022 3 steps to activate the win loop\n\u2022 Management of elixir for maximum pressure\n\u2022 The 'just go for another one' mindset shift\n\nFeaturing: Ken\n\nWhat is the highest trophy count you have reached using this specific strategy?\n\n#shorts #clashroyale #strategy #ken #mobilegaming #tips"
+                }
+              },
+              "active_variant": "A",
+              "test_status": "ACTIVE_TEST",
+              "variant_history": [
+                {
+                  "variant": "A",
+                  "title": "The Secret 'Win Simulator' Strategy \ud83c\udfc6",
+                  "deployed_at": 1792512780.024448,
                   "reason": "Initial A/B test deployment"
                 }
               ],
@@ -5926,17 +5995,17 @@
     },
     "PUBLISHER": {
       "status": "working",
-      "current_task": "Short SCHEDULED on YouTube: _D1GUgTHRJM (09:30 PM ET (Wed, Oct 21))",
+      "current_task": "Short SCHEDULED on YouTube: X7StAXY94mc (11:30 AM ET (Thu, Oct 22))",
       "last_completed_task": "Uploaded all 3 initial Clash Royale gaming cuts to YouTube (kenclipsburger420)",
       "recent_logs": [
-        "[19:32:57] Deploying to YouTube (@kenclipsburger420) for release 11:30 AM ET (Wed, Oct 21)...",
-        "[19:33:42] Short SCHEDULED on YouTube: mrG9jdRdbd4 (11:30 AM ET (Wed, Oct 21))",
-        "[21:31:54] Generating gaming A/B metadata for slot: 04:30 PM ET (Wed, Oct 21)...",
         "[21:32:06] Deploying to YouTube (@kenclipsburger420) for release 04:30 PM ET (Wed, Oct 21)...",
         "[21:32:18] Short SCHEDULED on YouTube: -ZMXI6V0aWY (04:30 PM ET (Wed, Oct 21))",
         "[22:16:49] Generating gaming A/B metadata for slot: 09:30 PM ET (Wed, Oct 21)...",
         "[22:16:59] Deploying to YouTube (@kenclipsburger420) for release 09:30 PM ET (Wed, Oct 21)...",
-        "[22:17:29] Short SCHEDULED on YouTube: _D1GUgTHRJM (09:30 PM ET (Wed, Oct 21))"
+        "[22:17:29] Short SCHEDULED on YouTube: _D1GUgTHRJM (09:30 PM ET (Wed, Oct 21))",
+        "[12:12:24] Generating gaming A/B metadata for slot: 11:30 AM ET (Thu, Oct 22)...",
+        "[12:13:00] Deploying to YouTube (@kenclipsburger420) for release 11:30 AM ET (Thu, Oct 22)...",
+        "[12:13:08] Short SCHEDULED on YouTube: X7StAXY94mc (11:30 AM ET (Thu, Oct 22))"
       ]
     },
     "ANALYST": {
@@ -6036,17 +6105,6 @@
         "section": "*60-240",
         "duration": 2022,
         "status": "FAILED_DOWNLOAD",
-        "added_at": "2026-10-20T12:54:04Z"
-      },
-      {
-        "id": "ken_1792500844_1",
-        "creator": "Ken",
-        "title": "welcome to hell [Clutch Moment]",
-        "source_title": "welcome to hell",
-        "url": "https://www.youtube.com/watch?v=E2w0V3SzeqY",
-        "section": "*300-480",
-        "duration": 2022,
-        "status": "PROCESSING",
         "added_at": "2026-10-20T12:54:04Z"
       },
       {
@@ -6449,6 +6507,19 @@
         "added_at": "2026-10-19T12:03:14Z",
         "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792411394_1_master.mp4",
         "youtube_video_id": "_D1GUgTHRJM"
+      },
+      {
+        "id": "ken_1792500844_1",
+        "creator": "Ken",
+        "title": "welcome to hell [Clutch Moment]",
+        "source_title": "welcome to hell",
+        "url": "https://www.youtube.com/watch?v=E2w0V3SzeqY",
+        "section": "*300-480",
+        "duration": 2022,
+        "status": "COMPLETED",
+        "added_at": "2026-10-20T12:54:04Z",
+        "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792500844_1_master.mp4",
+        "youtube_video_id": "X7StAXY94mc"
       }
     ]
   },
@@ -6905,6 +6976,73 @@
               "variant": "A",
               "title": "How did he actually win this impossible match?",
               "deployed_at": 1792462619.321089,
+              "reason": "Initial A/B test deployment"
+            }
+          ],
+          "metrics": {
+            "views": 0,
+            "likes": 0,
+            "comments": 0,
+            "retention": 0.0,
+            "ctr": 0.0
+          }
+        },
+        "reframed": "gaming_split"
+      },
+      {
+        "id": "ken_1792500844_1",
+        "source_video": "welcome to hell [Clutch Moment]",
+        "creator": "Ken",
+        "title": "The Secret 'Win Simulator' Strategy \ud83c\udfc6",
+        "publish_at": "2026-10-22T15:30:00Z",
+        "status": "SCHEDULED",
+        "uploaded": true,
+        "youtube_video_id": "X7StAXY94mc",
+        "youtube_url": "https://www.youtube.com/shorts/X7StAXY94mc",
+        "video_file": "ken_1792500844_1_master.mp4",
+        "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792500844_1_master.mp4",
+        "duration": 32.0,
+        "hook_summary": "Essential discussion and core insight",
+        "metadata": {
+          "title": "The Secret 'Win Simulator' Strategy \ud83c\udfc6",
+          "description": "Ken reveals the one specific gameplay loop that feels like a literal cheat code in the current meta. If you aren't using this, you're playing on hard mode.\n\n\u2022 Identify the 'Win Simulator' trigger\n\u2022 Why this specific loop is currently unstoppable\n\u2022 How to cycle back to your win condition instantly\n\nFeaturing: Ken\n\nIs this strategy a legitimate playstyle or does it take the skill out of the game?\n\n#shorts #clashroyale #gaming #ken #supercell #meta",
+          "tags": [
+            "Clash Royale",
+            "Ken",
+            "Win Simulator",
+            "Gaming Strategy",
+            "CR Meta",
+            "Supercell",
+            "Mobile Gaming",
+            "Pro Tips",
+            "Deck Guide",
+            "Podcast Discussion"
+          ],
+          "pinned_comment": "Is the 'Win Simulator' meta ruining the game, or is it just the smartest way to play right now? \ud83d\udc47",
+          "ab_variants": {
+            "A": {
+              "angle": "Curiosity Gap",
+              "title": "The Secret 'Win Simulator' Strategy \ud83c\udfc6",
+              "description": "Ken reveals the one specific gameplay loop that feels like a literal cheat code in the current meta. If you aren't using this, you're playing on hard mode.\n\n\u2022 Identify the 'Win Simulator' trigger\n\u2022 Why this specific loop is currently unstoppable\n\u2022 How to cycle back to your win condition instantly\n\nFeaturing: Ken\n\nIs this strategy a legitimate playstyle or does it take the skill out of the game?\n\n#shorts #clashroyale #gaming #ken #supercell #meta"
+            },
+            "B": {
+              "angle": "Contrarian Truth",
+              "title": "Why Skill is Dead in This Meta \ud83d\udc80",
+              "description": "Stop trying to outplay your opponent and start using the 'Win Simulator.' Ken explains why the game has shifted from tactical defense to a guaranteed win loop.\n\n\u2022 The end of traditional defensive play\n\u2022 Why the 'Simulator' approach beats high-skill decks\n\u2022 Exploiting the game's current math\n\nFeaturing: Ken\n\nWould you rather have a balanced game or a meta that allows for easy wins like this?\n\n#shorts #gaming #clashroyale #ken #mobilegaming #broken"
+            },
+            "C": {
+              "angle": "Actionable Protocol",
+              "title": "The Perfect 'Win Simulator' Protocol \ud83c\udfae",
+              "description": "Master the exact framework Ken uses to turn every match into a win simulator. This is the most efficient way to climb the ladder right now.\n\n\u2022 3 steps to activate the win loop\n\u2022 Management of elixir for maximum pressure\n\u2022 The 'just go for another one' mindset shift\n\nFeaturing: Ken\n\nWhat is the highest trophy count you have reached using this specific strategy?\n\n#shorts #clashroyale #strategy #ken #mobilegaming #tips"
+            }
+          },
+          "active_variant": "A",
+          "test_status": "ACTIVE_TEST",
+          "variant_history": [
+            {
+              "variant": "A",
+              "title": "The Secret 'Win Simulator' Strategy \ud83c\udfc6",
+              "deployed_at": 1792512780.024448,
               "reason": "Initial A/B test deployment"
             }
           ],

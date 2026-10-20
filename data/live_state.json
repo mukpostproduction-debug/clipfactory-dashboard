@@ -1,6 +1,6 @@
 {
-  "timestamp": 1792506139.0388448,
-  "sync_time_iso": "2026-10-20T14:22:19Z",
+  "timestamp": 1792509609.791011,
+  "sync_time_iso": "2026-10-20T15:20:09Z",
   "default_channel": "ken_clips_burger",
   "channels": {
     "ken_clips_burger": {
@@ -86,24 +86,24 @@
         "autopilot_engaged": true,
         "buffer_target_shorts": 10,
         "daily_target": 5,
-        "remote_tunnel_url": "https://texture-spell-rows-demographic.trycloudflare.com",
+        "remote_tunnel_url": "https://api.trycloudflare.com",
         "channel_id": "UCsBZAgHGlc5GU7r4E-8tUyA",
         "oauth_connected": true
       },
       "agents": {
         "SCOUT": {
           "status": "working",
-          "current_task": "Ingested 3 fresh Ken clip candidate(s) into queue.",
+          "current_task": "Queue up to date. Waiting for next daily Ken upload.",
           "last_completed_task": "Ingested 5 recent Ken master videos into source pool",
           "recent_logs": [
-            "[02:09:10] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
-            "[02:58:39] Queue up to date. Waiting for next daily Ken upload.",
             "[05:01:53] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
             "[05:32:17] Queue up to date. Waiting for next daily Ken upload.",
             "[05:34:19] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
             "[06:24:15] Queue up to date. Waiting for next daily Ken upload.",
             "[08:20:23] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
-            "[08:54:04] Ingested 3 fresh Ken clip candidate(s) into queue."
+            "[08:54:04] Ingested 3 fresh Ken clip candidate(s) into queue.",
+            "[10:39:47] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
+            "[11:15:33] Queue up to date. Waiting for next daily Ken upload."
           ]
         },
         "STRATEGIST": {
@@ -123,17 +123,17 @@
         },
         "EDITOR": {
           "status": "working",
-          "current_task": "Rendering gaming_split Short with captions: new balance changes [Clutch Mo",
+          "current_task": "Downloading highlight segment (*60-240) for: welcome to hell [Highlight]...",
           "last_completed_task": "Rendered 'hp buffed' rage highlight with kinetic pop captions & commentary",
           "recent_logs": [
-            "[16:31:30] Downloading highlight segment (*300-480) for: 2.5 cancer cycle [Clutch Moment]...",
             "[16:31:38] Rendering gaming_split Short with captions: 2.5 cancer cycle [Clutch Momen",
             "[19:31:31] Downloading highlight segment (*540-720) for: 2.5 cancer cycle [Overtime Battle]...",
             "[19:31:41] Rendering gaming_split Short with captions: 2.5 cancer cycle [Overtime Bat",
             "[21:30:30] Downloading highlight segment (*60-240) for: new balance changes [Highlight]...",
             "[21:30:45] Rendering gaming_split Short with captions: new balance changes [Highlight",
             "[22:15:23] Downloading highlight segment (*300-480) for: new balance changes [Clutch Moment]...",
-            "[22:15:36] Rendering gaming_split Short with captions: new balance changes [Clutch Mo"
+            "[22:15:36] Rendering gaming_split Short with captions: new balance changes [Clutch Mo",
+            "[11:15:33] Downloading highlight segment (*60-240) for: welcome to hell [Highlight]..."
           ]
         },
         "COMMENTATOR": {
@@ -162,17 +162,17 @@
         },
         "ANALYST": {
           "status": "working",
-          "current_task": "Telemetry Audit: 20,101 views (26 shorts). Auto-pivoted 1 stalled title(s).",
+          "current_task": "Telemetry Audit: 20,101 views (27 shorts). Auto-pivoted 2 stalled title(s).",
           "last_completed_task": "Calibrated gaming threshold: >15 views/hr within 4h",
           "recent_logs": [
-            "[02:00:26] Telemetry Audit: 19,085 views (26 shorts). Auto-pivoted 1 stalled title(s).",
             "[02:02:40] Telemetry Audit: 19,054 views (26 shorts). Auto-pivoted 1 stalled title(s).",
             "[02:04:55] Telemetry Audit: 19,054 views (26 shorts). Auto-pivoted 1 stalled title(s).",
             "[02:07:10] Telemetry Audit: 19,087 views (26 shorts). Auto-pivoted 1 stalled title(s).",
             "[02:58:41] Telemetry Audit: 19,096 views (26 shorts). Auto-pivoted 1 stalled title(s).",
             "[05:32:19] Telemetry Audit: 19,731 views (26 shorts). Auto-pivoted 1 stalled title(s).",
             "[06:40:17] Telemetry Audit: 19,730 views (26 shorts). Auto-pivoted 1 stalled title(s).",
-            "[09:05:00] Telemetry Audit: 20,101 views (26 shorts). Auto-pivoted 1 stalled title(s)."
+            "[09:05:00] Telemetry Audit: 20,101 views (26 shorts). Auto-pivoted 1 stalled title(s).",
+            "[11:20:07] Telemetry Audit: 20,101 views (27 shorts). Auto-pivoted 2 stalled title(s)."
           ]
         },
         "WATCHDOG": {
@@ -180,14 +180,14 @@
           "current_task": "Verifying Supercell fan policy: 0 claims, 0 strikes.",
           "last_completed_task": "Audited source parameters: strictly <30s segment rule active",
           "recent_logs": [
-            "[02:00:26] Verifying Supercell fan policy: 0 claims, 0 strikes.",
             "[02:02:40] Verifying Supercell fan policy: 0 claims, 0 strikes.",
             "[02:04:55] Verifying Supercell fan policy: 0 claims, 0 strikes.",
             "[02:07:10] Verifying Supercell fan policy: 0 claims, 0 strikes.",
             "[02:58:41] Verifying Supercell fan policy: 0 claims, 0 strikes.",
             "[05:32:19] Verifying Supercell fan policy: 0 claims, 0 strikes.",
             "[06:40:17] Verifying Supercell fan policy: 0 claims, 0 strikes.",
-            "[09:05:00] Verifying Supercell fan policy: 0 claims, 0 strikes."
+            "[09:05:00] Verifying Supercell fan policy: 0 claims, 0 strikes.",
+            "[11:20:07] Verifying Supercell fan policy: 0 claims, 0 strikes."
           ]
         }
       },
@@ -256,7 +256,7 @@
             "url": "https://www.youtube.com/watch?v=E2w0V3SzeqY",
             "section": "*60-240",
             "duration": 2022,
-            "status": "QUEUED",
+            "status": "FAILED_DOWNLOAD",
             "added_at": "2026-10-20T12:54:04Z"
           },
           {
@@ -675,72 +675,6 @@
       },
       "calendar": {
         "scheduled": [
-          {
-            "id": "ken_1792212492_17",
-            "source_video": "25% buff abuse [Overtime Battle]",
-            "creator": "Ken",
-            "title": "Why Amin's childhood explains every loss",
-            "publish_at": "2026-10-20T14:00:00Z",
-            "status": "SCHEDULED",
-            "uploaded": true,
-            "youtube_video_id": "LL4CAHLlMUA",
-            "youtube_url": "https://www.youtube.com/shorts/LL4CAHLlMUA",
-            "video_file": "ken_1792212492_17_master.mp4",
-            "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792212492_17_master.mp4",
-            "duration": 25.41,
-            "hook_summary": "After a frustrating gameplay loss, the creator delivers an unhinged and hilariously dark self-deprecating rant about his upbringing.",
-            "metadata": {
-              "title": "Why Amin's childhood explains every loss",
-              "description": "After a brutal gaming loss, Amin drops a shocking revelation about his childhood that turns a simple rage quit into a psychological mystery. You won't see this coming.\n\n\u2022 Discover the unexpected root cause of ultimate gamer rage\n\u2022 Learn how early life experiences shape modern gaming toxicity\n\u2022 See why unfiltered honesty makes the best comedy\n\nFeaturing: Ken\n\nDid Amin take a joke too far, or is this peak comedy? Drop your take below.\n\n#shorts #gaming #darkhumor #funny #ragequit #storytime",
-              "tags": [
-                "Amin",
-                "gaming rage",
-                "dark humor",
-                "rage quit",
-                "funny shorts",
-                "storytime",
-                "self deprecating humor",
-                "comedy skit",
-                "gaming moments"
-              ],
-              "pinned_comment": "On a scale of 1 to unhinged, how would you rate Amin's coping mechanism? Wrong answers only.",
-              "ab_variants": {
-                "A": {
-                  "angle": "Curiosity Gap",
-                  "title": "Why Amin's childhood explains every loss",
-                  "description": "After a brutal gaming loss, Amin drops a shocking revelation about his childhood that turns a simple rage quit into a psychological mystery. You won't see this coming.\n\n\u2022 Discover the unexpected root cause of ultimate gamer rage\n\u2022 Learn how early life experiences shape modern gaming toxicity\n\u2022 See why unfiltered honesty makes the best comedy\n\nFeaturing: Ken\n\nDid Amin take a joke too far, or is this peak comedy? Drop your take below.\n\n#shorts #gaming #darkhumor #funny #ragequit #storytime"
-                },
-                "B": {
-                  "angle": "Contrarian Truth",
-                  "title": "Gaming rage isn't about the game at all.",
-                  "description": "Everyone thinks raging at a video game is just about losing, but Amin exposes the deeper, darker truth behind why we really snap under pressure. Sometimes, it's just about the lack of hugs.\n\n\u2022 Uncover the hidden psychology behind aggressive gaming behavior\n\u2022 Why self-deprecating humor is the ultimate defense mechanism\n\u2022 The boundary-pushing truth about how we deal with trauma\n\nFeaturing: Ken\n\nDo you channel your childhood issues into your hobbies? Let us know in the comments.\n\n#shorts #psychology #gaminglife #darkcomedy #mindset #reality"
-                },
-                "C": {
-                  "angle": "Actionable Protocol",
-                  "title": "How to turn a massive L into pure comedy",
-                  "description": "Taking a devastating loss? Follow Amin's exact playbook for weaponizing your own tragic backstory into an unforgettable punchline instantly.\n\n\u2022 Step 1: Accept the L with zero hesitation\n\u2022 Step 2: Channel your deepest childhood grievances into the mic\n\u2022 Step 3: Pivot instantly to maximize comedic shock value\n\nFeaturing: Ken\n\nWhat is your go-to coping mechanism when you completely fail? Tell us below.\n\n#shorts #comedy #gaming #humor #strategy #viral"
-                }
-              },
-              "active_variant": "A",
-              "test_status": "ACTIVE_TEST",
-              "variant_history": [
-                {
-                  "variant": "A",
-                  "title": "Why Amin's childhood explains every loss",
-                  "deployed_at": 1792357087.4545422,
-                  "reason": "Initial A/B test deployment"
-                }
-              ],
-              "metrics": {
-                "views": 0,
-                "likes": 0,
-                "comments": 0,
-                "retention": 0.0,
-                "ctr": 0.0
-              }
-            },
-            "reframed": "gaming_split"
-          },
           {
             "id": "ken_1792212492_18",
             "source_video": "level down trolling [Highlight]",
@@ -1275,6 +1209,74 @@
         "held": [],
         "published": [
           {
+            "id": "ken_1792212492_17",
+            "source_video": "25% buff abuse [Overtime Battle]",
+            "creator": "Ken",
+            "title": "Gaming rage isn't about the game at all.",
+            "publish_at": "2026-10-20T14:00:00Z",
+            "status": "PUBLISHED",
+            "uploaded": true,
+            "youtube_video_id": "LL4CAHLlMUA",
+            "youtube_url": "https://www.youtube.com/shorts/LL4CAHLlMUA",
+            "video_file": "ken_1792212492_17_master.mp4",
+            "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792212492_17_master.mp4",
+            "duration": 25.41,
+            "hook_summary": "After a frustrating gameplay loss, the creator delivers an unhinged and hilariously dark self-deprecating rant about his upbringing.",
+            "metadata": {
+              "title": "Gaming rage isn't about the game at all.",
+              "description": "Everyone thinks raging at a video game is just about losing, but Amin exposes the deeper, darker truth behind why we really snap under pressure. Sometimes, it's just about the lack of hugs.\n\n\u2022 Uncover the hidden psychology behind aggressive gaming behavior\n\u2022 Why self-deprecating humor is the ultimate defense mechanism\n\u2022 The boundary-pushing truth about how we deal with trauma\n\nFeaturing: Ken\n\nDo you channel your childhood issues into your hobbies? Let us know in the comments.\n\n#shorts #psychology #gaminglife #darkcomedy #mindset #reality",
+              "tags": [
+                "Amin",
+                "gaming rage",
+                "dark humor",
+                "rage quit",
+                "funny shorts",
+                "storytime",
+                "self deprecating humor",
+                "comedy skit",
+                "gaming moments"
+              ],
+              "pinned_comment": "On a scale of 1 to unhinged, how would you rate Amin's coping mechanism? Wrong answers only.",
+              "ab_variants": {
+                "A": {
+                  "angle": "Curiosity Gap",
+                  "title": "Why Amin's childhood explains every loss",
+                  "description": "After a brutal gaming loss, Amin drops a shocking revelation about his childhood that turns a simple rage quit into a psychological mystery. You won't see this coming.\n\n\u2022 Discover the unexpected root cause of ultimate gamer rage\n\u2022 Learn how early life experiences shape modern gaming toxicity\n\u2022 See why unfiltered honesty makes the best comedy\n\nFeaturing: Ken\n\nDid Amin take a joke too far, or is this peak comedy? Drop your take below.\n\n#shorts #gaming #darkhumor #funny #ragequit #storytime"
+                },
+                "B": {
+                  "angle": "Contrarian Truth",
+                  "title": "Gaming rage isn't about the game at all.",
+                  "description": "Everyone thinks raging at a video game is just about losing, but Amin exposes the deeper, darker truth behind why we really snap under pressure. Sometimes, it's just about the lack of hugs.\n\n\u2022 Uncover the hidden psychology behind aggressive gaming behavior\n\u2022 Why self-deprecating humor is the ultimate defense mechanism\n\u2022 The boundary-pushing truth about how we deal with trauma\n\nFeaturing: Ken\n\nDo you channel your childhood issues into your hobbies? Let us know in the comments.\n\n#shorts #psychology #gaminglife #darkcomedy #mindset #reality"
+                },
+                "C": {
+                  "angle": "Actionable Protocol",
+                  "title": "How to turn a massive L into pure comedy",
+                  "description": "Taking a devastating loss? Follow Amin's exact playbook for weaponizing your own tragic backstory into an unforgettable punchline instantly.\n\n\u2022 Step 1: Accept the L with zero hesitation\n\u2022 Step 2: Channel your deepest childhood grievances into the mic\n\u2022 Step 3: Pivot instantly to maximize comedic shock value\n\nFeaturing: Ken\n\nWhat is your go-to coping mechanism when you completely fail? Tell us below.\n\n#shorts #comedy #gaming #humor #strategy #viral"
+                }
+              },
+              "active_variant": "B",
+              "test_status": "ACTIVE_TEST",
+              "variant_history": [
+                {
+                  "variant": "A",
+                  "title": "Why Amin's childhood explains every loss",
+                  "deployed_at": 1792357087.4545422,
+                  "reason": "Initial A/B test deployment"
+                }
+              ],
+              "metrics": {
+                "views": 0,
+                "likes": 0,
+                "comments": 0,
+                "retention": 0.0,
+                "ctr": 0.0,
+                "velocity_vph": 0.0,
+                "engagement_pct": 0.0
+              }
+            },
+            "reframed": "gaming_split"
+          },
+          {
             "id": "ken_1792212492_12",
             "source_video": "perfected my deck [Overtime Battle]",
             "creator": "Ken",
@@ -1333,12 +1335,12 @@
               ],
               "metrics": {
                 "views": 167,
-                "likes": 2,
+                "likes": 0,
                 "comments": 0,
                 "retention": 0.0,
                 "ctr": 0.0,
-                "velocity_vph": 15.42,
-                "engagement_pct": 1.2
+                "velocity_vph": 0.0,
+                "engagement_pct": 0.0
               }
             },
             "reframed": "gaming_split"
@@ -1401,12 +1403,12 @@
               ],
               "metrics": {
                 "views": 335,
-                "likes": 1,
+                "likes": 0,
                 "comments": 0,
                 "retention": 0.0,
                 "ctr": 0.0,
-                "velocity_vph": 28.94,
-                "engagement_pct": 0.3
+                "velocity_vph": 0.0,
+                "engagement_pct": 0.0
               }
             },
             "reframed": "gaming_split"
@@ -1469,12 +1471,12 @@
               ],
               "metrics": {
                 "views": 294,
-                "likes": 7,
+                "likes": 0,
                 "comments": 0,
                 "retention": 0.0,
                 "ctr": 0.0,
-                "velocity_vph": 21.65,
-                "engagement_pct": 2.38
+                "velocity_vph": 0.0,
+                "engagement_pct": 0.0
               }
             },
             "reframed": "gaming_split"
@@ -1537,12 +1539,12 @@
               ],
               "metrics": {
                 "views": 257,
-                "likes": 1,
+                "likes": 0,
                 "comments": 0,
                 "retention": 0.0,
                 "ctr": 0.0,
-                "velocity_vph": 15.5,
-                "engagement_pct": 0.39
+                "velocity_vph": 0.0,
+                "engagement_pct": 0.0
               }
             },
             "reframed": "gaming_split"
@@ -1551,7 +1553,7 @@
             "id": "ken_1792212492_9",
             "source_video": "least busted card [Clutch Moment]",
             "creator": "Ken",
-            "title": "Stop Doing This With Your Elixir",
+            "title": "Why Chip Cycling Just Lost Its Power",
             "publish_at": "2026-10-19T17:00:00Z",
             "status": "PUBLISHED",
             "uploaded": true,
@@ -1562,8 +1564,8 @@
             "duration": 27.73,
             "hook_summary": "The creator makes a bold claim about why traditional chip cycle strategies are officially dead in the current meta.",
             "metadata": {
-              "title": "Stop Doing This With Your Elixir",
-              "description": "If you are still relying on minor tower chips to win, you are playing the game wrong. Ken shares the exact rule you need to follow to stop bleeding elixir in today's meta.\n\n\u2022 The new golden rule for elixir management\n\u2022 How to pivot away from outdated chip strategies\n\u2022 Building a push that actually overwhelms modern defenses\n\nFeaturing: Ken\n\nWhat is your go-to win condition if not chip damage?\n\n#shorts #ken #gaming #protips #clashroyale #elixir",
+              "title": "Why Chip Cycling Just Lost Its Power",
+              "description": "Most players are still wasting elixir on a strategy that the current meta has completely broken. Ken breaks down the exact reason why chipping the tower is a losing battle now.\n\n\u2022 Discover why traditional chip damage no longer wins games\n\u2022 The hidden shift in defensive meta you missed\n\u2022 How to adapt your strategy before your rank drops\n\nFeaturing: Ken\n\nAre you still trying to chip towers, or have you adapted to the new meta?\n\n#shorts #ken #clashroyale #gaming #strategy #metashift",
               "tags": [
                 "chip cycle",
                 "bridge spam",
@@ -1593,7 +1595,7 @@
                   "description": "If you are still relying on minor tower chips to win, you are playing the game wrong. Ken shares the exact rule you need to follow to stop bleeding elixir in today's meta.\n\n\u2022 The new golden rule for elixir management\n\u2022 How to pivot away from outdated chip strategies\n\u2022 Building a push that actually overwhelms modern defenses\n\nFeaturing: Ken\n\nWhat is your go-to win condition if not chip damage?\n\n#shorts #ken #gaming #protips #clashroyale #elixir"
                 }
               },
-              "active_variant": "C",
+              "active_variant": "A",
               "test_status": "ACTIVE_TEST",
               "variant_history": [
                 {
@@ -1609,7 +1611,7 @@
                 "comments": 0,
                 "retention": 0.0,
                 "ctr": 0.0,
-                "velocity_vph": 0.1,
+                "velocity_vph": 0.0,
                 "engagement_pct": 0.0
               }
             },
@@ -1673,12 +1675,12 @@
               ],
               "metrics": {
                 "views": 268,
-                "likes": 5,
+                "likes": 0,
                 "comments": 0,
                 "retention": 0.0,
                 "ctr": 0.0,
-                "velocity_vph": 12.42,
-                "engagement_pct": 1.87
+                "velocity_vph": 0.0,
+                "engagement_pct": 0.0
               }
             },
             "reframed": "gaming_split"
@@ -1741,12 +1743,12 @@
               ],
               "metrics": {
                 "views": 343,
-                "likes": 4,
+                "likes": 0,
                 "comments": 0,
                 "retention": 0.0,
                 "ctr": 0.0,
-                "velocity_vph": 14.86,
-                "engagement_pct": 1.17
+                "velocity_vph": 0.0,
+                "engagement_pct": 0.0
               }
             },
             "reframed": "gaming_split"
@@ -1809,12 +1811,12 @@
               ],
               "metrics": {
                 "views": 1087,
-                "likes": 12,
+                "likes": 0,
                 "comments": 0,
                 "retention": 0.0,
                 "ctr": 0.0,
-                "velocity_vph": 31.21,
-                "engagement_pct": 1.1
+                "velocity_vph": 0.0,
+                "engagement_pct": 0.0
               }
             },
             "reframed": "gaming_split"
@@ -1877,12 +1879,12 @@
               ],
               "metrics": {
                 "views": 1233,
-                "likes": 12,
+                "likes": 0,
                 "comments": 0,
                 "retention": 0.0,
                 "ctr": 0.0,
-                "velocity_vph": 32.81,
-                "engagement_pct": 0.97
+                "velocity_vph": 0.0,
+                "engagement_pct": 0.0
               }
             },
             "reframed": "gaming_split"
@@ -1945,12 +1947,12 @@
               ],
               "metrics": {
                 "views": 1074,
-                "likes": 11,
+                "likes": 0,
                 "comments": 0,
                 "retention": 0.0,
                 "ctr": 0.0,
-                "velocity_vph": 26.47,
-                "engagement_pct": 1.02
+                "velocity_vph": 0.0,
+                "engagement_pct": 0.0
               }
             },
             "reframed": "gaming_split"
@@ -2013,12 +2015,12 @@
               ],
               "metrics": {
                 "views": 321,
-                "likes": 5,
+                "likes": 0,
                 "comments": 0,
                 "retention": 0.0,
                 "ctr": 0.0,
-                "velocity_vph": 7.28,
-                "engagement_pct": 1.56
+                "velocity_vph": 0.0,
+                "engagement_pct": 0.0
               }
             },
             "reframed": "gaming_split"
@@ -2081,12 +2083,12 @@
               ],
               "metrics": {
                 "views": 1279,
-                "likes": 12,
+                "likes": 0,
                 "comments": 0,
                 "retention": 0.0,
                 "ctr": 0.0,
-                "velocity_vph": 27.17,
-                "engagement_pct": 0.94
+                "velocity_vph": 0.0,
+                "engagement_pct": 0.0
               }
             },
             "reframed": "gaming_split"
@@ -2149,12 +2151,12 @@
               ],
               "metrics": {
                 "views": 524,
-                "likes": 7,
+                "likes": 0,
                 "comments": 0,
                 "retention": 0.0,
                 "ctr": 0.0,
-                "velocity_vph": 8.91,
-                "engagement_pct": 1.34
+                "velocity_vph": 0.0,
+                "engagement_pct": 0.0
               }
             },
             "reframed": "gaming_split"
@@ -2217,12 +2219,12 @@
               ],
               "metrics": {
                 "views": 577,
-                "likes": 7,
+                "likes": 0,
                 "comments": 0,
                 "retention": 0.0,
                 "ctr": 0.0,
-                "velocity_vph": 9.37,
-                "engagement_pct": 1.21
+                "velocity_vph": 0.0,
+                "engagement_pct": 0.0
               }
             },
             "reframed": "gaming_split"
@@ -2261,7 +2263,7 @@
                 "views": 5,
                 "likes": 0,
                 "comments": 0,
-                "velocity_vph": 0.08,
+                "velocity_vph": 0.0,
                 "engagement_pct": 0.0
               }
             }
@@ -2323,12 +2325,12 @@
               ],
               "metrics": {
                 "views": 1572,
-                "likes": 26,
+                "likes": 0,
                 "comments": 0,
                 "retention": 0.0,
                 "ctr": 0.0,
-                "velocity_vph": 23.09,
-                "engagement_pct": 1.65
+                "velocity_vph": 0.0,
+                "engagement_pct": 0.0
               }
             },
             "reframed": "gaming_split"
@@ -2351,10 +2353,10 @@
             "metadata": {
               "metrics": {
                 "views": 1579,
-                "likes": 20,
-                "comments": 1,
-                "velocity_vph": 22.21,
-                "engagement_pct": 1.33
+                "likes": 0,
+                "comments": 0,
+                "velocity_vph": 0.0,
+                "engagement_pct": 0.0
               },
               "test_status": "WINNER_LOCKED"
             }
@@ -2418,12 +2420,12 @@
               ],
               "metrics": {
                 "views": 1284,
-                "likes": 18,
-                "comments": 1,
+                "likes": 0,
+                "comments": 0,
                 "retention": 0.0,
                 "ctr": 0.0,
-                "velocity_vph": 15.14,
-                "engagement_pct": 1.48
+                "velocity_vph": 0.0,
+                "engagement_pct": 0.0
               }
             },
             "reframed": "gaming_split"
@@ -2487,12 +2489,12 @@
               ],
               "metrics": {
                 "views": 1303,
-                "likes": 11,
-                "comments": 1,
+                "likes": 0,
+                "comments": 0,
                 "retention": 0.0,
                 "ctr": 0.0,
-                "velocity_vph": 14.71,
-                "engagement_pct": 0.92
+                "velocity_vph": 0.0,
+                "engagement_pct": 0.0
               }
             },
             "reframed": "gaming_split"
@@ -2555,12 +2557,12 @@
               ],
               "metrics": {
                 "views": 857,
-                "likes": 16,
-                "comments": 1,
+                "likes": 0,
+                "comments": 0,
                 "retention": 0.0,
                 "ctr": 0.0,
-                "velocity_vph": 9.21,
-                "engagement_pct": 1.98
+                "velocity_vph": 0.0,
+                "engagement_pct": 0.0
               }
             },
             "reframed": "gaming_split"
@@ -2623,12 +2625,12 @@
               ],
               "metrics": {
                 "views": 1227,
-                "likes": 9,
-                "comments": 2,
+                "likes": 0,
+                "comments": 0,
                 "retention": 0.0,
                 "ctr": 0.0,
-                "velocity_vph": 11.27,
-                "engagement_pct": 0.9
+                "velocity_vph": 0.0,
+                "engagement_pct": 0.0
               }
             },
             "reframed": "gaming_split"
@@ -2688,12 +2690,12 @@
               ],
               "metrics": {
                 "views": 1277,
-                "likes": 16,
-                "comments": 3,
+                "likes": 0,
+                "comments": 0,
                 "retention": 0.0,
                 "ctr": 0.0,
-                "velocity_vph": 11.34,
-                "engagement_pct": 1.49
+                "velocity_vph": 0.0,
+                "engagement_pct": 0.0
               }
             },
             "reframed": "gaming_split"
@@ -2757,12 +2759,12 @@
               ],
               "metrics": {
                 "views": 1214,
-                "likes": 9,
-                "comments": 1,
+                "likes": 0,
+                "comments": 0,
                 "retention": 0.0,
                 "ctr": 0.0,
-                "velocity_vph": 10.37,
-                "engagement_pct": 0.82
+                "velocity_vph": 0.0,
+                "engagement_pct": 0.0
               }
             },
             "reframed": "gaming_split"
@@ -2797,10 +2799,10 @@
               },
               "metrics": {
                 "views": 812,
-                "likes": 12,
+                "likes": 0,
                 "comments": 0,
-                "velocity_vph": 6.11,
-                "engagement_pct": 1.48
+                "velocity_vph": 0.0,
+                "engagement_pct": 0.0
               },
               "test_status": "WINNER_LOCKED"
             },
@@ -2842,10 +2844,10 @@
               },
               "metrics": {
                 "views": 898,
-                "likes": 7,
-                "comments": 1,
-                "velocity_vph": 6.58,
-                "engagement_pct": 0.89
+                "likes": 0,
+                "comments": 0,
+                "velocity_vph": 0.0,
+                "engagement_pct": 0.0
               },
               "test_status": "WINNER_LOCKED"
             },
@@ -2895,10 +2897,10 @@
               },
               "metrics": {
                 "views": 312,
-                "likes": 4,
-                "comments": 2,
-                "velocity_vph": 2.21,
-                "engagement_pct": 1.92
+                "likes": 0,
+                "comments": 0,
+                "velocity_vph": 0.0,
+                "engagement_pct": 0.0
               },
               "test_status": "WINNER_LOCKED"
             },
@@ -2910,84 +2912,84 @@
         "summary": {
           "total_views": 20101,
           "shorts_published": 0,
-          "total_likes": 234,
+          "total_likes": 0,
           "avg_retention_pct": 82.5,
           "avg_ctr_pct": 14.8,
           "total_subscribers_gained": 0,
           "estimated_revenue_usd": 0.0,
           "health_grade": "A+",
-          "total_shorts_published": 26,
-          "last_audit": 1792501500.869652
+          "total_shorts_published": 27,
+          "last_audit": 1792509607.4481852
         },
         "top_shorts": [
           {
             "title": "He actually said this in the lobby... \ud83d\udc80",
             "creator": "Ken",
             "views": 167,
-            "velocity": 15.42,
+            "velocity": 0.0,
             "angle": "Curiosity Gap"
           },
           {
             "title": "Why adults secretly act so boring...",
             "creator": "Ken",
             "views": 335,
-            "velocity": 28.94,
+            "velocity": 0.0,
             "angle": "Curiosity Gap"
           },
           {
             "title": "The illegal Evo Hunter trick nobody is using",
             "creator": "Ken",
             "views": 294,
-            "velocity": 21.65,
+            "velocity": 0.0,
             "angle": "Curiosity Gap"
           },
           {
             "title": "The Golden Rule of YouTube Comments",
             "creator": "Ken",
             "views": 257,
-            "velocity": 15.5,
+            "velocity": 0.0,
             "angle": "Actionable Protocol"
           },
           {
             "title": "He regret saying this immediately...",
             "creator": "Ken",
             "views": 268,
-            "velocity": 12.42,
+            "velocity": 0.0,
             "angle": "Curiosity Gap"
           },
           {
             "title": "Why the best deck ruins the game",
             "creator": "Ken",
             "views": 343,
-            "velocity": 14.86,
+            "velocity": 0.0,
             "angle": "Curiosity Gap"
           },
           {
             "title": "This HP Buff Changed Overtime Forever...",
             "creator": "Ken",
             "views": 1087,
-            "velocity": 31.21,
+            "velocity": 0.0,
             "angle": "Curiosity Gap"
           },
           {
             "title": "Stop playing safe when the timer hits zero.",
             "creator": "Ken",
             "views": 1233,
-            "velocity": 32.81,
+            "velocity": 0.0,
             "angle": "Contrarian Truth"
           },
           {
             "title": "Bad matchups don't exist.",
             "creator": "Ken",
             "views": 1074,
-            "velocity": 26.47,
+            "velocity": 0.0,
             "angle": "Contrarian Truth"
           },
           {
             "title": "Skill Is Overrated In Gaming",
             "creator": "Ken",
             "views": 321,
-            "velocity": 7.28,
+            "velocity": 0.0,
             "angle": "Contrarian Truth"
           }
         ],
@@ -3114,12 +3116,12 @@
         "dashboard": {
           "host": "127.0.0.1",
           "port": 8899,
-          "remote_tunnel_url": "https://texture-spell-rows-demographic.trycloudflare.com",
+          "remote_tunnel_url": "https://api.trycloudflare.com",
           "tunnel_active": true
         },
         "status": "PAUSED",
         "buffer_target_shorts": 6,
-        "remote_tunnel_url": "https://texture-spell-rows-demographic.trycloudflare.com",
+        "remote_tunnel_url": "https://api.trycloudflare.com",
         "channel_id": "UCKqBK1q6-0i735Mn_hiNIig",
         "channel_name": "Muks Breakdown Room",
         "oauth_connected": true
@@ -4633,7 +4635,7 @@
         "emergency_stop": false,
         "autopilot_engaged": false,
         "buffer_target_shorts": 6,
-        "remote_tunnel_url": "https://texture-spell-rows-demographic.trycloudflare.com",
+        "remote_tunnel_url": "https://api.trycloudflare.com",
         "channel_id": "UCcNdnkFH4m9C3rUunbOEaSg",
         "oauth_connected": true
       },
@@ -5863,24 +5865,24 @@
     "autopilot_engaged": true,
     "buffer_target_shorts": 10,
     "daily_target": 5,
-    "remote_tunnel_url": "https://texture-spell-rows-demographic.trycloudflare.com",
+    "remote_tunnel_url": "https://api.trycloudflare.com",
     "channel_id": "UCsBZAgHGlc5GU7r4E-8tUyA",
     "oauth_connected": true
   },
   "agents": {
     "SCOUT": {
       "status": "working",
-      "current_task": "Ingested 3 fresh Ken clip candidate(s) into queue.",
+      "current_task": "Queue up to date. Waiting for next daily Ken upload.",
       "last_completed_task": "Ingested 5 recent Ken master videos into source pool",
       "recent_logs": [
-        "[02:09:10] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
-        "[02:58:39] Queue up to date. Waiting for next daily Ken upload.",
         "[05:01:53] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
         "[05:32:17] Queue up to date. Waiting for next daily Ken upload.",
         "[05:34:19] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
         "[06:24:15] Queue up to date. Waiting for next daily Ken upload.",
         "[08:20:23] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
-        "[08:54:04] Ingested 3 fresh Ken clip candidate(s) into queue."
+        "[08:54:04] Ingested 3 fresh Ken clip candidate(s) into queue.",
+        "[10:39:47] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
+        "[11:15:33] Queue up to date. Waiting for next daily Ken upload."
       ]
     },
     "STRATEGIST": {
@@ -5900,17 +5902,17 @@
     },
     "EDITOR": {
       "status": "working",
-      "current_task": "Rendering gaming_split Short with captions: new balance changes [Clutch Mo",
+      "current_task": "Downloading highlight segment (*60-240) for: welcome to hell [Highlight]...",
       "last_completed_task": "Rendered 'hp buffed' rage highlight with kinetic pop captions & commentary",
       "recent_logs": [
-        "[16:31:30] Downloading highlight segment (*300-480) for: 2.5 cancer cycle [Clutch Moment]...",
         "[16:31:38] Rendering gaming_split Short with captions: 2.5 cancer cycle [Clutch Momen",
         "[19:31:31] Downloading highlight segment (*540-720) for: 2.5 cancer cycle [Overtime Battle]...",
         "[19:31:41] Rendering gaming_split Short with captions: 2.5 cancer cycle [Overtime Bat",
         "[21:30:30] Downloading highlight segment (*60-240) for: new balance changes [Highlight]...",
         "[21:30:45] Rendering gaming_split Short with captions: new balance changes [Highlight",
         "[22:15:23] Downloading highlight segment (*300-480) for: new balance changes [Clutch Moment]...",
-        "[22:15:36] Rendering gaming_split Short with captions: new balance changes [Clutch Mo"
+        "[22:15:36] Rendering gaming_split Short with captions: new balance changes [Clutch Mo",
+        "[11:15:33] Downloading highlight segment (*60-240) for: welcome to hell [Highlight]..."
       ]
     },
     "COMMENTATOR": {
@@ -5939,17 +5941,17 @@
     },
     "ANALYST": {
       "status": "working",
-      "current_task": "Telemetry Audit: 20,101 views (26 shorts). Auto-pivoted 1 stalled title(s).",
+      "current_task": "Telemetry Audit: 20,101 views (27 shorts). Auto-pivoted 2 stalled title(s).",
       "last_completed_task": "Calibrated gaming threshold: >15 views/hr within 4h",
       "recent_logs": [
-        "[02:00:26] Telemetry Audit: 19,085 views (26 shorts). Auto-pivoted 1 stalled title(s).",
         "[02:02:40] Telemetry Audit: 19,054 views (26 shorts). Auto-pivoted 1 stalled title(s).",
         "[02:04:55] Telemetry Audit: 19,054 views (26 shorts). Auto-pivoted 1 stalled title(s).",
         "[02:07:10] Telemetry Audit: 19,087 views (26 shorts). Auto-pivoted 1 stalled title(s).",
         "[02:58:41] Telemetry Audit: 19,096 views (26 shorts). Auto-pivoted 1 stalled title(s).",
         "[05:32:19] Telemetry Audit: 19,731 views (26 shorts). Auto-pivoted 1 stalled title(s).",
         "[06:40:17] Telemetry Audit: 19,730 views (26 shorts). Auto-pivoted 1 stalled title(s).",
-        "[09:05:00] Telemetry Audit: 20,101 views (26 shorts). Auto-pivoted 1 stalled title(s)."
+        "[09:05:00] Telemetry Audit: 20,101 views (26 shorts). Auto-pivoted 1 stalled title(s).",
+        "[11:20:07] Telemetry Audit: 20,101 views (27 shorts). Auto-pivoted 2 stalled title(s)."
       ]
     },
     "WATCHDOG": {
@@ -5957,14 +5959,14 @@
       "current_task": "Verifying Supercell fan policy: 0 claims, 0 strikes.",
       "last_completed_task": "Audited source parameters: strictly <30s segment rule active",
       "recent_logs": [
-        "[02:00:26] Verifying Supercell fan policy: 0 claims, 0 strikes.",
         "[02:02:40] Verifying Supercell fan policy: 0 claims, 0 strikes.",
         "[02:04:55] Verifying Supercell fan policy: 0 claims, 0 strikes.",
         "[02:07:10] Verifying Supercell fan policy: 0 claims, 0 strikes.",
         "[02:58:41] Verifying Supercell fan policy: 0 claims, 0 strikes.",
         "[05:32:19] Verifying Supercell fan policy: 0 claims, 0 strikes.",
         "[06:40:17] Verifying Supercell fan policy: 0 claims, 0 strikes.",
-        "[09:05:00] Verifying Supercell fan policy: 0 claims, 0 strikes."
+        "[09:05:00] Verifying Supercell fan policy: 0 claims, 0 strikes.",
+        "[11:20:07] Verifying Supercell fan policy: 0 claims, 0 strikes."
       ]
     }
   },
@@ -6033,7 +6035,7 @@
         "url": "https://www.youtube.com/watch?v=E2w0V3SzeqY",
         "section": "*60-240",
         "duration": 2022,
-        "status": "QUEUED",
+        "status": "FAILED_DOWNLOAD",
         "added_at": "2026-10-20T12:54:04Z"
       },
       {
@@ -6452,72 +6454,6 @@
   },
   "calendar": {
     "scheduled": [
-      {
-        "id": "ken_1792212492_17",
-        "source_video": "25% buff abuse [Overtime Battle]",
-        "creator": "Ken",
-        "title": "Why Amin's childhood explains every loss",
-        "publish_at": "2026-10-20T14:00:00Z",
-        "status": "SCHEDULED",
-        "uploaded": true,
-        "youtube_video_id": "LL4CAHLlMUA",
-        "youtube_url": "https://www.youtube.com/shorts/LL4CAHLlMUA",
-        "video_file": "ken_1792212492_17_master.mp4",
-        "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792212492_17_master.mp4",
-        "duration": 25.41,
-        "hook_summary": "After a frustrating gameplay loss, the creator delivers an unhinged and hilariously dark self-deprecating rant about his upbringing.",
-        "metadata": {
-          "title": "Why Amin's childhood explains every loss",
-          "description": "After a brutal gaming loss, Amin drops a shocking revelation about his childhood that turns a simple rage quit into a psychological mystery. You won't see this coming.\n\n\u2022 Discover the unexpected root cause of ultimate gamer rage\n\u2022 Learn how early life experiences shape modern gaming toxicity\n\u2022 See why unfiltered honesty makes the best comedy\n\nFeaturing: Ken\n\nDid Amin take a joke too far, or is this peak comedy? Drop your take below.\n\n#shorts #gaming #darkhumor #funny #ragequit #storytime",
-          "tags": [
-            "Amin",
-            "gaming rage",
-            "dark humor",
-            "rage quit",
-            "funny shorts",
-            "storytime",
-            "self deprecating humor",
-            "comedy skit",
-            "gaming moments"
-          ],
-          "pinned_comment": "On a scale of 1 to unhinged, how would you rate Amin's coping mechanism? Wrong answers only.",
-          "ab_variants": {
-            "A": {
-              "angle": "Curiosity Gap",
-              "title": "Why Amin's childhood explains every loss",
-              "description": "After a brutal gaming loss, Amin drops a shocking revelation about his childhood that turns a simple rage quit into a psychological mystery. You won't see this coming.\n\n\u2022 Discover the unexpected root cause of ultimate gamer rage\n\u2022 Learn how early life experiences shape modern gaming toxicity\n\u2022 See why unfiltered honesty makes the best comedy\n\nFeaturing: Ken\n\nDid Amin take a joke too far, or is this peak comedy? Drop your take below.\n\n#shorts #gaming #darkhumor #funny #ragequit #storytime"
-            },
-            "B": {
-              "angle": "Contrarian Truth",
-              "title": "Gaming rage isn't about the game at all.",
-              "description": "Everyone thinks raging at a video game is just about losing, but Amin exposes the deeper, darker truth behind why we really snap under pressure. Sometimes, it's just about the lack of hugs.\n\n\u2022 Uncover the hidden psychology behind aggressive gaming behavior\n\u2022 Why self-deprecating humor is the ultimate defense mechanism\n\u2022 The boundary-pushing truth about how we deal with trauma\n\nFeaturing: Ken\n\nDo you channel your childhood issues into your hobbies? Let us know in the comments.\n\n#shorts #psychology #gaminglife #darkcomedy #mindset #reality"
-            },
-            "C": {
-              "angle": "Actionable Protocol",
-              "title": "How to turn a massive L into pure comedy",
-              "description": "Taking a devastating loss? Follow Amin's exact playbook for weaponizing your own tragic backstory into an unforgettable punchline instantly.\n\n\u2022 Step 1: Accept the L with zero hesitation\n\u2022 Step 2: Channel your deepest childhood grievances into the mic\n\u2022 Step 3: Pivot instantly to maximize comedic shock value\n\nFeaturing: Ken\n\nWhat is your go-to coping mechanism when you completely fail? Tell us below.\n\n#shorts #comedy #gaming #humor #strategy #viral"
-            }
-          },
-          "active_variant": "A",
-          "test_status": "ACTIVE_TEST",
-          "variant_history": [
-            {
-              "variant": "A",
-              "title": "Why Amin's childhood explains every loss",
-              "deployed_at": 1792357087.4545422,
-              "reason": "Initial A/B test deployment"
-            }
-          ],
-          "metrics": {
-            "views": 0,
-            "likes": 0,
-            "comments": 0,
-            "retention": 0.0,
-            "ctr": 0.0
-          }
-        },
-        "reframed": "gaming_split"
-      },
       {
         "id": "ken_1792212492_18",
         "source_video": "level down trolling [Highlight]",
@@ -7052,6 +6988,74 @@
     "held": [],
     "published": [
       {
+        "id": "ken_1792212492_17",
+        "source_video": "25% buff abuse [Overtime Battle]",
+        "creator": "Ken",
+        "title": "Gaming rage isn't about the game at all.",
+        "publish_at": "2026-10-20T14:00:00Z",
+        "status": "PUBLISHED",
+        "uploaded": true,
+        "youtube_video_id": "LL4CAHLlMUA",
+        "youtube_url": "https://www.youtube.com/shorts/LL4CAHLlMUA",
+        "video_file": "ken_1792212492_17_master.mp4",
+        "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792212492_17_master.mp4",
+        "duration": 25.41,
+        "hook_summary": "After a frustrating gameplay loss, the creator delivers an unhinged and hilariously dark self-deprecating rant about his upbringing.",
+        "metadata": {
+          "title": "Gaming rage isn't about the game at all.",
+          "description": "Everyone thinks raging at a video game is just about losing, but Amin exposes the deeper, darker truth behind why we really snap under pressure. Sometimes, it's just about the lack of hugs.\n\n\u2022 Uncover the hidden psychology behind aggressive gaming behavior\n\u2022 Why self-deprecating humor is the ultimate defense mechanism\n\u2022 The boundary-pushing truth about how we deal with trauma\n\nFeaturing: Ken\n\nDo you channel your childhood issues into your hobbies? Let us know in the comments.\n\n#shorts #psychology #gaminglife #darkcomedy #mindset #reality",
+          "tags": [
+            "Amin",
+            "gaming rage",
+            "dark humor",
+            "rage quit",
+            "funny shorts",
+            "storytime",
+            "self deprecating humor",
+            "comedy skit",
+            "gaming moments"
+          ],
+          "pinned_comment": "On a scale of 1 to unhinged, how would you rate Amin's coping mechanism? Wrong answers only.",
+          "ab_variants": {
+            "A": {
+              "angle": "Curiosity Gap",
+              "title": "Why Amin's childhood explains every loss",
+              "description": "After a brutal gaming loss, Amin drops a shocking revelation about his childhood that turns a simple rage quit into a psychological mystery. You won't see this coming.\n\n\u2022 Discover the unexpected root cause of ultimate gamer rage\n\u2022 Learn how early life experiences shape modern gaming toxicity\n\u2022 See why unfiltered honesty makes the best comedy\n\nFeaturing: Ken\n\nDid Amin take a joke too far, or is this peak comedy? Drop your take below.\n\n#shorts #gaming #darkhumor #funny #ragequit #storytime"
+            },
+            "B": {
+              "angle": "Contrarian Truth",
+              "title": "Gaming rage isn't about the game at all.",
+              "description": "Everyone thinks raging at a video game is just about losing, but Amin exposes the deeper, darker truth behind why we really snap under pressure. Sometimes, it's just about the lack of hugs.\n\n\u2022 Uncover the hidden psychology behind aggressive gaming behavior\n\u2022 Why self-deprecating humor is the ultimate defense mechanism\n\u2022 The boundary-pushing truth about how we deal with trauma\n\nFeaturing: Ken\n\nDo you channel your childhood issues into your hobbies? Let us know in the comments.\n\n#shorts #psychology #gaminglife #darkcomedy #mindset #reality"
+            },
+            "C": {
+              "angle": "Actionable Protocol",
+              "title": "How to turn a massive L into pure comedy",
+              "description": "Taking a devastating loss? Follow Amin's exact playbook for weaponizing your own tragic backstory into an unforgettable punchline instantly.\n\n\u2022 Step 1: Accept the L with zero hesitation\n\u2022 Step 2: Channel your deepest childhood grievances into the mic\n\u2022 Step 3: Pivot instantly to maximize comedic shock value\n\nFeaturing: Ken\n\nWhat is your go-to coping mechanism when you completely fail? Tell us below.\n\n#shorts #comedy #gaming #humor #strategy #viral"
+            }
+          },
+          "active_variant": "B",
+          "test_status": "ACTIVE_TEST",
+          "variant_history": [
+            {
+              "variant": "A",
+              "title": "Why Amin's childhood explains every loss",
+              "deployed_at": 1792357087.4545422,
+              "reason": "Initial A/B test deployment"
+            }
+          ],
+          "metrics": {
+            "views": 0,
+            "likes": 0,
+            "comments": 0,
+            "retention": 0.0,
+            "ctr": 0.0,
+            "velocity_vph": 0.0,
+            "engagement_pct": 0.0
+          }
+        },
+        "reframed": "gaming_split"
+      },
+      {
         "id": "ken_1792212492_12",
         "source_video": "perfected my deck [Overtime Battle]",
         "creator": "Ken",
@@ -7110,12 +7114,12 @@
           ],
           "metrics": {
             "views": 167,
-            "likes": 2,
+            "likes": 0,
             "comments": 0,
             "retention": 0.0,
             "ctr": 0.0,
-            "velocity_vph": 15.42,
-            "engagement_pct": 1.2
+            "velocity_vph": 0.0,
+            "engagement_pct": 0.0
           }
         },
         "reframed": "gaming_split"
@@ -7178,12 +7182,12 @@
           ],
           "metrics": {
             "views": 335,
-            "likes": 1,
+            "likes": 0,
             "comments": 0,
             "retention": 0.0,
             "ctr": 0.0,
-            "velocity_vph": 28.94,
-            "engagement_pct": 0.3
+            "velocity_vph": 0.0,
+            "engagement_pct": 0.0
           }
         },
         "reframed": "gaming_split"
@@ -7246,12 +7250,12 @@
           ],
           "metrics": {
             "views": 294,
-            "likes": 7,
+            "likes": 0,
             "comments": 0,
             "retention": 0.0,
             "ctr": 0.0,
-            "velocity_vph": 21.65,
-            "engagement_pct": 2.38
+            "velocity_vph": 0.0,
+            "engagement_pct": 0.0
           }
         },
         "reframed": "gaming_split"
@@ -7314,12 +7318,12 @@
           ],
           "metrics": {
             "views": 257,
-            "likes": 1,
+            "likes": 0,
             "comments": 0,
             "retention": 0.0,
             "ctr": 0.0,
-            "velocity_vph": 15.5,
-            "engagement_pct": 0.39
+            "velocity_vph": 0.0,
+            "engagement_pct": 0.0
           }
         },
         "reframed": "gaming_split"
@@ -7328,7 +7332,7 @@
         "id": "ken_1792212492_9",
         "source_video": "least busted card [Clutch Moment]",
         "creator": "Ken",
-        "title": "Stop Doing This With Your Elixir",
+        "title": "Why Chip Cycling Just Lost Its Power",
         "publish_at": "2026-10-19T17:00:00Z",
         "status": "PUBLISHED",
         "uploaded": true,
@@ -7339,8 +7343,8 @@
         "duration": 27.73,
         "hook_summary": "The creator makes a bold claim about why traditional chip cycle strategies are officially dead in the current meta.",
         "metadata": {
-          "title": "Stop Doing This With Your Elixir",
-          "description": "If you are still relying on minor tower chips to win, you are playing the game wrong. Ken shares the exact rule you need to follow to stop bleeding elixir in today's meta.\n\n\u2022 The new golden rule for elixir management\n\u2022 How to pivot away from outdated chip strategies\n\u2022 Building a push that actually overwhelms modern defenses\n\nFeaturing: Ken\n\nWhat is your go-to win condition if not chip damage?\n\n#shorts #ken #gaming #protips #clashroyale #elixir",
+          "title": "Why Chip Cycling Just Lost Its Power",
+          "description": "Most players are still wasting elixir on a strategy that the current meta has completely broken. Ken breaks down the exact reason why chipping the tower is a losing battle now.\n\n\u2022 Discover why traditional chip damage no longer wins games\n\u2022 The hidden shift in defensive meta you missed\n\u2022 How to adapt your strategy before your rank drops\n\nFeaturing: Ken\n\nAre you still trying to chip towers, or have you adapted to the new meta?\n\n#shorts #ken #clashroyale #gaming #strategy #metashift",
           "tags": [
             "chip cycle",
             "bridge spam",
@@ -7370,7 +7374,7 @@
               "description": "If you are still relying on minor tower chips to win, you are playing the game wrong. Ken shares the exact rule you need to follow to stop bleeding elixir in today's meta.\n\n\u2022 The new golden rule for elixir management\n\u2022 How to pivot away from outdated chip strategies\n\u2022 Building a push that actually overwhelms modern defenses\n\nFeaturing: Ken\n\nWhat is your go-to win condition if not chip damage?\n\n#shorts #ken #gaming #protips #clashroyale #elixir"
             }
           },
-          "active_variant": "C",
+          "active_variant": "A",
           "test_status": "ACTIVE_TEST",
           "variant_history": [
             {
@@ -7386,7 +7390,7 @@
             "comments": 0,
             "retention": 0.0,
             "ctr": 0.0,
-            "velocity_vph": 0.1,
+            "velocity_vph": 0.0,
             "engagement_pct": 0.0
           }
         },
@@ -7450,12 +7454,12 @@
           ],
           "metrics": {
             "views": 268,
-            "likes": 5,
+            "likes": 0,
             "comments": 0,
             "retention": 0.0,
             "ctr": 0.0,
-            "velocity_vph": 12.42,
-            "engagement_pct": 1.87
+            "velocity_vph": 0.0,
+            "engagement_pct": 0.0
           }
         },
         "reframed": "gaming_split"
@@ -7518,12 +7522,12 @@
           ],
           "metrics": {
             "views": 343,
-            "likes": 4,
+            "likes": 0,
             "comments": 0,
             "retention": 0.0,
             "ctr": 0.0,
-            "velocity_vph": 14.86,
-            "engagement_pct": 1.17
+            "velocity_vph": 0.0,
+            "engagement_pct": 0.0
           }
         },
         "reframed": "gaming_split"
@@ -7586,12 +7590,12 @@
           ],
           "metrics": {
             "views": 1087,
-            "likes": 12,
+            "likes": 0,
             "comments": 0,
             "retention": 0.0,
             "ctr": 0.0,
-            "velocity_vph": 31.21,
-            "engagement_pct": 1.1
+            "velocity_vph": 0.0,
+            "engagement_pct": 0.0
           }
         },
         "reframed": "gaming_split"
@@ -7654,12 +7658,12 @@
           ],
           "metrics": {
             "views": 1233,
-            "likes": 12,
+            "likes": 0,
             "comments": 0,
             "retention": 0.0,
             "ctr": 0.0,
-            "velocity_vph": 32.81,
-            "engagement_pct": 0.97
+            "velocity_vph": 0.0,
+            "engagement_pct": 0.0
           }
         },
         "reframed": "gaming_split"
@@ -7722,12 +7726,12 @@
           ],
           "metrics": {
             "views": 1074,
-            "likes": 11,
+            "likes": 0,
             "comments": 0,
             "retention": 0.0,
             "ctr": 0.0,
-            "velocity_vph": 26.47,
-            "engagement_pct": 1.02
+            "velocity_vph": 0.0,
+            "engagement_pct": 0.0
           }
         },
         "reframed": "gaming_split"
@@ -7790,12 +7794,12 @@
           ],
           "metrics": {
             "views": 321,
-            "likes": 5,
+            "likes": 0,
             "comments": 0,
             "retention": 0.0,
             "ctr": 0.0,
-            "velocity_vph": 7.28,
-            "engagement_pct": 1.56
+            "velocity_vph": 0.0,
+            "engagement_pct": 0.0
           }
         },
         "reframed": "gaming_split"
@@ -7858,12 +7862,12 @@
           ],
           "metrics": {
             "views": 1279,
-            "likes": 12,
+            "likes": 0,
             "comments": 0,
             "retention": 0.0,
             "ctr": 0.0,
-            "velocity_vph": 27.17,
-            "engagement_pct": 0.94
+            "velocity_vph": 0.0,
+            "engagement_pct": 0.0
           }
         },
         "reframed": "gaming_split"
@@ -7926,12 +7930,12 @@
           ],
           "metrics": {
             "views": 524,
-            "likes": 7,
+            "likes": 0,
             "comments": 0,
             "retention": 0.0,
             "ctr": 0.0,
-            "velocity_vph": 8.91,
-            "engagement_pct": 1.34
+            "velocity_vph": 0.0,
+            "engagement_pct": 0.0
           }
         },
         "reframed": "gaming_split"
@@ -7994,12 +7998,12 @@
           ],
           "metrics": {
             "views": 577,
-            "likes": 7,
+            "likes": 0,
             "comments": 0,
             "retention": 0.0,
             "ctr": 0.0,
-            "velocity_vph": 9.37,
-            "engagement_pct": 1.21
+            "velocity_vph": 0.0,
+            "engagement_pct": 0.0
           }
         },
         "reframed": "gaming_split"
@@ -8038,7 +8042,7 @@
             "views": 5,
             "likes": 0,
             "comments": 0,
-            "velocity_vph": 0.08,
+            "velocity_vph": 0.0,
             "engagement_pct": 0.0
           }
         }
@@ -8100,12 +8104,12 @@
           ],
           "metrics": {
             "views": 1572,
-            "likes": 26,
+            "likes": 0,
             "comments": 0,
             "retention": 0.0,
             "ctr": 0.0,
-            "velocity_vph": 23.09,
-            "engagement_pct": 1.65
+            "velocity_vph": 0.0,
+            "engagement_pct": 0.0
           }
         },
         "reframed": "gaming_split"
@@ -8128,10 +8132,10 @@
         "metadata": {
           "metrics": {
             "views": 1579,
-            "likes": 20,
-            "comments": 1,
-            "velocity_vph": 22.21,
-            "engagement_pct": 1.33
+            "likes": 0,
+            "comments": 0,
+            "velocity_vph": 0.0,
+            "engagement_pct": 0.0
           },
           "test_status": "WINNER_LOCKED"
         }
@@ -8195,12 +8199,12 @@
           ],
           "metrics": {
             "views": 1284,
-            "likes": 18,
-            "comments": 1,
+            "likes": 0,
+            "comments": 0,
             "retention": 0.0,
             "ctr": 0.0,
-            "velocity_vph": 15.14,
-            "engagement_pct": 1.48
+            "velocity_vph": 0.0,
+            "engagement_pct": 0.0
           }
         },
         "reframed": "gaming_split"
@@ -8264,12 +8268,12 @@
           ],
           "metrics": {
             "views": 1303,
-            "likes": 11,
-            "comments": 1,
+            "likes": 0,
+            "comments": 0,
             "retention": 0.0,
             "ctr": 0.0,
-            "velocity_vph": 14.71,
-            "engagement_pct": 0.92
+            "velocity_vph": 0.0,
+            "engagement_pct": 0.0
           }
         },
         "reframed": "gaming_split"
@@ -8332,12 +8336,12 @@
           ],
           "metrics": {
             "views": 857,
-            "likes": 16,
-            "comments": 1,
+            "likes": 0,
+            "comments": 0,
             "retention": 0.0,
             "ctr": 0.0,
-            "velocity_vph": 9.21,
-            "engagement_pct": 1.98
+            "velocity_vph": 0.0,
+            "engagement_pct": 0.0
           }
         },
         "reframed": "gaming_split"
@@ -8400,12 +8404,12 @@
           ],
           "metrics": {
             "views": 1227,
-            "likes": 9,
-            "comments": 2,
+            "likes": 0,
+            "comments": 0,
             "retention": 0.0,
             "ctr": 0.0,
-            "velocity_vph": 11.27,
-            "engagement_pct": 0.9
+            "velocity_vph": 0.0,
+            "engagement_pct": 0.0
           }
         },
         "reframed": "gaming_split"
@@ -8465,12 +8469,12 @@
           ],
           "metrics": {
             "views": 1277,
-            "likes": 16,
-            "comments": 3,
+            "likes": 0,
+            "comments": 0,
             "retention": 0.0,
             "ctr": 0.0,
-            "velocity_vph": 11.34,
-            "engagement_pct": 1.49
+            "velocity_vph": 0.0,
+            "engagement_pct": 0.0
           }
         },
         "reframed": "gaming_split"
@@ -8534,12 +8538,12 @@
           ],
           "metrics": {
             "views": 1214,
-            "likes": 9,
-            "comments": 1,
+            "likes": 0,
+            "comments": 0,
             "retention": 0.0,
             "ctr": 0.0,
-            "velocity_vph": 10.37,
-            "engagement_pct": 0.82
+            "velocity_vph": 0.0,
+            "engagement_pct": 0.0
           }
         },
         "reframed": "gaming_split"
@@ -8574,10 +8578,10 @@
           },
           "metrics": {
             "views": 812,
-            "likes": 12,
+            "likes": 0,
             "comments": 0,
-            "velocity_vph": 6.11,
-            "engagement_pct": 1.48
+            "velocity_vph": 0.0,
+            "engagement_pct": 0.0
           },
           "test_status": "WINNER_LOCKED"
         },
@@ -8619,10 +8623,10 @@
           },
           "metrics": {
             "views": 898,
-            "likes": 7,
-            "comments": 1,
-            "velocity_vph": 6.58,
-            "engagement_pct": 0.89
+            "likes": 0,
+            "comments": 0,
+            "velocity_vph": 0.0,
+            "engagement_pct": 0.0
           },
           "test_status": "WINNER_LOCKED"
         },
@@ -8672,10 +8676,10 @@
           },
           "metrics": {
             "views": 312,
-            "likes": 4,
-            "comments": 2,
-            "velocity_vph": 2.21,
-            "engagement_pct": 1.92
+            "likes": 0,
+            "comments": 0,
+            "velocity_vph": 0.0,
+            "engagement_pct": 0.0
           },
           "test_status": "WINNER_LOCKED"
         },
@@ -8687,84 +8691,84 @@
     "summary": {
       "total_views": 20101,
       "shorts_published": 0,
-      "total_likes": 234,
+      "total_likes": 0,
       "avg_retention_pct": 82.5,
       "avg_ctr_pct": 14.8,
       "total_subscribers_gained": 0,
       "estimated_revenue_usd": 0.0,
       "health_grade": "A+",
-      "total_shorts_published": 26,
-      "last_audit": 1792501500.869652
+      "total_shorts_published": 27,
+      "last_audit": 1792509607.4481852
     },
     "top_shorts": [
       {
         "title": "He actually said this in the lobby... \ud83d\udc80",
         "creator": "Ken",
         "views": 167,
-        "velocity": 15.42,
+        "velocity": 0.0,
         "angle": "Curiosity Gap"
       },
       {
         "title": "Why adults secretly act so boring...",
         "creator": "Ken",
         "views": 335,
-        "velocity": 28.94,
+        "velocity": 0.0,
         "angle": "Curiosity Gap"
       },
       {
         "title": "The illegal Evo Hunter trick nobody is using",
         "creator": "Ken",
         "views": 294,
-        "velocity": 21.65,
+        "velocity": 0.0,
         "angle": "Curiosity Gap"
       },
       {
         "title": "The Golden Rule of YouTube Comments",
         "creator": "Ken",
         "views": 257,
-        "velocity": 15.5,
+        "velocity": 0.0,
         "angle": "Actionable Protocol"
       },
       {
         "title": "He regret saying this immediately...",
         "creator": "Ken",
         "views": 268,
-        "velocity": 12.42,
+        "velocity": 0.0,
         "angle": "Curiosity Gap"
       },
       {
         "title": "Why the best deck ruins the game",
         "creator": "Ken",
         "views": 343,
-        "velocity": 14.86,
+        "velocity": 0.0,
         "angle": "Curiosity Gap"
       },
       {
         "title": "This HP Buff Changed Overtime Forever...",
         "creator": "Ken",
         "views": 1087,
-        "velocity": 31.21,
+        "velocity": 0.0,
         "angle": "Curiosity Gap"
       },
       {
         "title": "Stop playing safe when the timer hits zero.",
         "creator": "Ken",
         "views": 1233,
-        "velocity": 32.81,
+        "velocity": 0.0,
         "angle": "Contrarian Truth"
       },
       {
         "title": "Bad matchups don't exist.",
         "creator": "Ken",
         "views": 1074,
-        "velocity": 26.47,
+        "velocity": 0.0,
         "angle": "Contrarian Truth"
       },
       {
         "title": "Skill Is Overrated In Gaming",
         "creator": "Ken",
         "views": 321,
-        "velocity": 7.28,
+        "velocity": 0.0,
         "angle": "Contrarian Truth"
       }
     ],

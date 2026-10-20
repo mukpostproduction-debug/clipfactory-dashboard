@@ -1,6 +1,6 @@
 {
-  "timestamp": 1792459783.8110652,
-  "sync_time_iso": "2026-10-20T01:29:43Z",
+  "timestamp": 1792459845.772011,
+  "sync_time_iso": "2026-10-20T01:30:45Z",
   "default_channel": "ken_clips_burger",
   "channels": {
     "ken_clips_burger": {
@@ -96,14 +96,14 @@
           "current_task": "Queue up to date. Waiting for next daily Ken upload.",
           "last_completed_task": "Ingested 5 recent Ken master videos into source pool",
           "recent_logs": [
-            "[21:21:03] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
-            "[21:21:18] Queue up to date. Waiting for next daily Ken upload.",
             "[21:23:20] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
             "[21:23:41] Queue up to date. Waiting for next daily Ken upload.",
             "[21:25:43] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
             "[21:25:57] Queue up to date. Waiting for next daily Ken upload.",
             "[21:27:59] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
-            "[21:28:13] Queue up to date. Waiting for next daily Ken upload."
+            "[21:28:13] Queue up to date. Waiting for next daily Ken upload.",
+            "[21:30:15] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
+            "[21:30:30] Queue up to date. Waiting for next daily Ken upload."
           ]
         },
         "STRATEGIST": {
@@ -123,17 +123,17 @@
         },
         "EDITOR": {
           "status": "working",
-          "current_task": "Rendering gaming_split Short with captions: 2.5 cancer cycle [Overtime Bat",
+          "current_task": "Rendering gaming_split Short with captions: new balance changes [Highlight",
           "last_completed_task": "Rendered 'hp buffed' rage highlight with kinetic pop captions & commentary",
           "recent_logs": [
-            "[11:31:33] Downloading highlight segment (*540-720) for: 1.9 aggression cycle [Overtime Batt...",
-            "[11:31:37] Rendering gaming_split Short with captions: 1.9 aggression cycle [Overtime",
             "[13:01:44] Downloading highlight segment (*60-240) for: 2.5 cancer cycle [Highlight]...",
             "[13:01:49] Rendering gaming_split Short with captions: 2.5 cancer cycle [Highlight]",
             "[16:31:30] Downloading highlight segment (*300-480) for: 2.5 cancer cycle [Clutch Moment]...",
             "[16:31:38] Rendering gaming_split Short with captions: 2.5 cancer cycle [Clutch Momen",
             "[19:31:31] Downloading highlight segment (*540-720) for: 2.5 cancer cycle [Overtime Battle]...",
-            "[19:31:41] Rendering gaming_split Short with captions: 2.5 cancer cycle [Overtime Bat"
+            "[19:31:41] Rendering gaming_split Short with captions: 2.5 cancer cycle [Overtime Bat",
+            "[21:30:30] Downloading highlight segment (*60-240) for: new balance changes [Highlight]...",
+            "[21:30:45] Rendering gaming_split Short with captions: new balance changes [Highlight"
           ]
         },
         "COMMENTATOR": {
@@ -256,7 +256,7 @@
             "url": "https://www.youtube.com/watch?v=efXvyv0t4Yo",
             "section": "*60-240",
             "duration": 857,
-            "status": "QUEUED",
+            "status": "PROCESSING",
             "added_at": "2026-10-19T12:03:14Z"
           },
           {
@@ -970,72 +970,6 @@
             "reframed": "gaming_split"
           },
           {
-            "id": "ken_1792246995_2",
-            "source_video": "1.9 aggression cycle [Overtime Battle]",
-            "creator": "Ken",
-            "title": "Why adults secretly act so boring...",
-            "publish_at": "2026-10-20T01:30:00Z",
-            "status": "SCHEDULED",
-            "uploaded": true,
-            "youtube_video_id": "hpNHZGXvMwo",
-            "youtube_url": "https://www.youtube.com/shorts/hpNHZGXvMwo",
-            "video_file": "ken_1792246995_2_master.mp4",
-            "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792246995_2_master.mp4",
-            "duration": 30.27,
-            "hook_summary": "The creator has a sudden realization about why adults are so boring and dull on the outside, explaining the secret to emotional stability.",
-            "metadata": {
-              "title": "Why adults secretly act so boring...",
-              "description": "Have you ever wondered why adults suddenly seem so dull and lifeless on the outside? Ken exposes the hidden psychological shift behind why grown-ups hide their true spark.\n\n\u2022 The hidden reason adults appear emotionless to the outside world\n\u2022 How emotional stability actually changes your outward personality\n\u2022 The surprising truth about maintaining your inner child while growing up\n\nFeaturing: Ken\n\nDo you think adults choose to be boring, or does life just force the fun out of them?\n\n#shorts #psychology #adulting #mindset #growingup #ken",
-              "tags": [
-                "why adults are boring",
-                "emotional stability",
-                "growing up",
-                "adulting reality",
-                "psychology of adults",
-                "inner peace",
-                "mental maturity",
-                "life lessons",
-                "ken shorts"
-              ],
-              "pinned_comment": "At what age did you officially realize you had become the 'boring adult' in the room? Let's argue in the replies.",
-              "ab_variants": {
-                "A": {
-                  "angle": "Curiosity Gap",
-                  "title": "Why adults secretly act so boring...",
-                  "description": "Have you ever wondered why adults suddenly seem so dull and lifeless on the outside? Ken exposes the hidden psychological shift behind why grown-ups hide their true spark.\n\n\u2022 The hidden reason adults appear emotionless to the outside world\n\u2022 How emotional stability actually changes your outward personality\n\u2022 The surprising truth about maintaining your inner child while growing up\n\nFeaturing: Ken\n\nDo you think adults choose to be boring, or does life just force the fun out of them?\n\n#shorts #psychology #adulting #mindset #growingup #ken"
-                },
-                "B": {
-                  "angle": "Contrarian Truth",
-                  "title": "Being 'boring' is a superpower.",
-                  "description": "We spend our whole lives trying not to be boring, but what if acting dull is actually the ultimate secret to emotional survival? Ken breaks down why being boring isn't a flaw\u2014it's a shield.\n\n\u2022 Why trying to be exciting is draining your emotional energy\n\u2022 The hidden mechanism behind adult emotional stability\n\u2022 Why dullness on the outside means peace on the inside\n\nFeaturing: Ken\n\nIs being emotionally stable just a fancy way of saying you're boring now?\n\n#shorts #truth #mentalhealth #adulthood #perspective #ken"
-                },
-                "C": {
-                  "angle": "Actionable Protocol",
-                  "title": "The secret to adult emotional stability",
-                  "description": "Want to master your emotions without losing your mind? Ken reveals the exact behavioral shift that explains why adults turn down the volume on their lives.\n\n\u2022 How to regulate your emotional highs and lows like an adult\n\u2022 The boundary-setting trick that creates total inner peace\n\u2022 A step-by-step framework to stop wasting energy on chaos\n\nFeaturing: Ken\n\nAt what exact age did you realize you were becoming the boring adult?\n\n#shorts #selfimprovement #lifelessons #habits #wisdom #ken"
-                }
-              },
-              "active_variant": "A",
-              "test_status": "ACTIVE_TEST",
-              "variant_history": [
-                {
-                  "variant": "A",
-                  "title": "Why adults secretly act so boring...",
-                  "deployed_at": 1792423975.769063,
-                  "reason": "Initial A/B test deployment"
-                }
-              ],
-              "metrics": {
-                "views": 0,
-                "likes": 0,
-                "comments": 0,
-                "retention": 0.0,
-                "ctr": 0.0
-              }
-            },
-            "reframed": "gaming_split"
-          },
-          {
             "id": "ken_1792318278_0",
             "source_video": "2.5 cancer cycle [Highlight]",
             "creator": "Ken",
@@ -1237,6 +1171,72 @@
         ],
         "held": [],
         "published": [
+          {
+            "id": "ken_1792246995_2",
+            "source_video": "1.9 aggression cycle [Overtime Battle]",
+            "creator": "Ken",
+            "title": "Why adults secretly act so boring...",
+            "publish_at": "2026-10-20T01:30:00Z",
+            "status": "PUBLISHED",
+            "uploaded": true,
+            "youtube_video_id": "hpNHZGXvMwo",
+            "youtube_url": "https://www.youtube.com/shorts/hpNHZGXvMwo",
+            "video_file": "ken_1792246995_2_master.mp4",
+            "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792246995_2_master.mp4",
+            "duration": 30.27,
+            "hook_summary": "The creator has a sudden realization about why adults are so boring and dull on the outside, explaining the secret to emotional stability.",
+            "metadata": {
+              "title": "Why adults secretly act so boring...",
+              "description": "Have you ever wondered why adults suddenly seem so dull and lifeless on the outside? Ken exposes the hidden psychological shift behind why grown-ups hide their true spark.\n\n\u2022 The hidden reason adults appear emotionless to the outside world\n\u2022 How emotional stability actually changes your outward personality\n\u2022 The surprising truth about maintaining your inner child while growing up\n\nFeaturing: Ken\n\nDo you think adults choose to be boring, or does life just force the fun out of them?\n\n#shorts #psychology #adulting #mindset #growingup #ken",
+              "tags": [
+                "why adults are boring",
+                "emotional stability",
+                "growing up",
+                "adulting reality",
+                "psychology of adults",
+                "inner peace",
+                "mental maturity",
+                "life lessons",
+                "ken shorts"
+              ],
+              "pinned_comment": "At what age did you officially realize you had become the 'boring adult' in the room? Let's argue in the replies.",
+              "ab_variants": {
+                "A": {
+                  "angle": "Curiosity Gap",
+                  "title": "Why adults secretly act so boring...",
+                  "description": "Have you ever wondered why adults suddenly seem so dull and lifeless on the outside? Ken exposes the hidden psychological shift behind why grown-ups hide their true spark.\n\n\u2022 The hidden reason adults appear emotionless to the outside world\n\u2022 How emotional stability actually changes your outward personality\n\u2022 The surprising truth about maintaining your inner child while growing up\n\nFeaturing: Ken\n\nDo you think adults choose to be boring, or does life just force the fun out of them?\n\n#shorts #psychology #adulting #mindset #growingup #ken"
+                },
+                "B": {
+                  "angle": "Contrarian Truth",
+                  "title": "Being 'boring' is a superpower.",
+                  "description": "We spend our whole lives trying not to be boring, but what if acting dull is actually the ultimate secret to emotional survival? Ken breaks down why being boring isn't a flaw\u2014it's a shield.\n\n\u2022 Why trying to be exciting is draining your emotional energy\n\u2022 The hidden mechanism behind adult emotional stability\n\u2022 Why dullness on the outside means peace on the inside\n\nFeaturing: Ken\n\nIs being emotionally stable just a fancy way of saying you're boring now?\n\n#shorts #truth #mentalhealth #adulthood #perspective #ken"
+                },
+                "C": {
+                  "angle": "Actionable Protocol",
+                  "title": "The secret to adult emotional stability",
+                  "description": "Want to master your emotions without losing your mind? Ken reveals the exact behavioral shift that explains why adults turn down the volume on their lives.\n\n\u2022 How to regulate your emotional highs and lows like an adult\n\u2022 The boundary-setting trick that creates total inner peace\n\u2022 A step-by-step framework to stop wasting energy on chaos\n\nFeaturing: Ken\n\nAt what exact age did you realize you were becoming the boring adult?\n\n#shorts #selfimprovement #lifelessons #habits #wisdom #ken"
+                }
+              },
+              "active_variant": "A",
+              "test_status": "ACTIVE_TEST",
+              "variant_history": [
+                {
+                  "variant": "A",
+                  "title": "Why adults secretly act so boring...",
+                  "deployed_at": 1792423975.769063,
+                  "reason": "Initial A/B test deployment"
+                }
+              ],
+              "metrics": {
+                "views": 0,
+                "likes": 0,
+                "comments": 0,
+                "retention": 0.0,
+                "ctr": 0.0
+              }
+            },
+            "reframed": "gaming_split"
+          },
           {
             "id": "ken_1792212492_11",
             "source_video": "perfected my deck [Clutch Moment]",
@@ -5699,14 +5699,14 @@
       "current_task": "Queue up to date. Waiting for next daily Ken upload.",
       "last_completed_task": "Ingested 5 recent Ken master videos into source pool",
       "recent_logs": [
-        "[21:21:03] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
-        "[21:21:18] Queue up to date. Waiting for next daily Ken upload.",
         "[21:23:20] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
         "[21:23:41] Queue up to date. Waiting for next daily Ken upload.",
         "[21:25:43] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
         "[21:25:57] Queue up to date. Waiting for next daily Ken upload.",
         "[21:27:59] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
-        "[21:28:13] Queue up to date. Waiting for next daily Ken upload."
+        "[21:28:13] Queue up to date. Waiting for next daily Ken upload.",
+        "[21:30:15] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
+        "[21:30:30] Queue up to date. Waiting for next daily Ken upload."
       ]
     },
     "STRATEGIST": {
@@ -5726,17 +5726,17 @@
     },
     "EDITOR": {
       "status": "working",
-      "current_task": "Rendering gaming_split Short with captions: 2.5 cancer cycle [Overtime Bat",
+      "current_task": "Rendering gaming_split Short with captions: new balance changes [Highlight",
       "last_completed_task": "Rendered 'hp buffed' rage highlight with kinetic pop captions & commentary",
       "recent_logs": [
-        "[11:31:33] Downloading highlight segment (*540-720) for: 1.9 aggression cycle [Overtime Batt...",
-        "[11:31:37] Rendering gaming_split Short with captions: 1.9 aggression cycle [Overtime",
         "[13:01:44] Downloading highlight segment (*60-240) for: 2.5 cancer cycle [Highlight]...",
         "[13:01:49] Rendering gaming_split Short with captions: 2.5 cancer cycle [Highlight]",
         "[16:31:30] Downloading highlight segment (*300-480) for: 2.5 cancer cycle [Clutch Moment]...",
         "[16:31:38] Rendering gaming_split Short with captions: 2.5 cancer cycle [Clutch Momen",
         "[19:31:31] Downloading highlight segment (*540-720) for: 2.5 cancer cycle [Overtime Battle]...",
-        "[19:31:41] Rendering gaming_split Short with captions: 2.5 cancer cycle [Overtime Bat"
+        "[19:31:41] Rendering gaming_split Short with captions: 2.5 cancer cycle [Overtime Bat",
+        "[21:30:30] Downloading highlight segment (*60-240) for: new balance changes [Highlight]...",
+        "[21:30:45] Rendering gaming_split Short with captions: new balance changes [Highlight"
       ]
     },
     "COMMENTATOR": {
@@ -5859,7 +5859,7 @@
         "url": "https://www.youtube.com/watch?v=efXvyv0t4Yo",
         "section": "*60-240",
         "duration": 857,
-        "status": "QUEUED",
+        "status": "PROCESSING",
         "added_at": "2026-10-19T12:03:14Z"
       },
       {
@@ -6573,72 +6573,6 @@
         "reframed": "gaming_split"
       },
       {
-        "id": "ken_1792246995_2",
-        "source_video": "1.9 aggression cycle [Overtime Battle]",
-        "creator": "Ken",
-        "title": "Why adults secretly act so boring...",
-        "publish_at": "2026-10-20T01:30:00Z",
-        "status": "SCHEDULED",
-        "uploaded": true,
-        "youtube_video_id": "hpNHZGXvMwo",
-        "youtube_url": "https://www.youtube.com/shorts/hpNHZGXvMwo",
-        "video_file": "ken_1792246995_2_master.mp4",
-        "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792246995_2_master.mp4",
-        "duration": 30.27,
-        "hook_summary": "The creator has a sudden realization about why adults are so boring and dull on the outside, explaining the secret to emotional stability.",
-        "metadata": {
-          "title": "Why adults secretly act so boring...",
-          "description": "Have you ever wondered why adults suddenly seem so dull and lifeless on the outside? Ken exposes the hidden psychological shift behind why grown-ups hide their true spark.\n\n\u2022 The hidden reason adults appear emotionless to the outside world\n\u2022 How emotional stability actually changes your outward personality\n\u2022 The surprising truth about maintaining your inner child while growing up\n\nFeaturing: Ken\n\nDo you think adults choose to be boring, or does life just force the fun out of them?\n\n#shorts #psychology #adulting #mindset #growingup #ken",
-          "tags": [
-            "why adults are boring",
-            "emotional stability",
-            "growing up",
-            "adulting reality",
-            "psychology of adults",
-            "inner peace",
-            "mental maturity",
-            "life lessons",
-            "ken shorts"
-          ],
-          "pinned_comment": "At what age did you officially realize you had become the 'boring adult' in the room? Let's argue in the replies.",
-          "ab_variants": {
-            "A": {
-              "angle": "Curiosity Gap",
-              "title": "Why adults secretly act so boring...",
-              "description": "Have you ever wondered why adults suddenly seem so dull and lifeless on the outside? Ken exposes the hidden psychological shift behind why grown-ups hide their true spark.\n\n\u2022 The hidden reason adults appear emotionless to the outside world\n\u2022 How emotional stability actually changes your outward personality\n\u2022 The surprising truth about maintaining your inner child while growing up\n\nFeaturing: Ken\n\nDo you think adults choose to be boring, or does life just force the fun out of them?\n\n#shorts #psychology #adulting #mindset #growingup #ken"
-            },
-            "B": {
-              "angle": "Contrarian Truth",
-              "title": "Being 'boring' is a superpower.",
-              "description": "We spend our whole lives trying not to be boring, but what if acting dull is actually the ultimate secret to emotional survival? Ken breaks down why being boring isn't a flaw\u2014it's a shield.\n\n\u2022 Why trying to be exciting is draining your emotional energy\n\u2022 The hidden mechanism behind adult emotional stability\n\u2022 Why dullness on the outside means peace on the inside\n\nFeaturing: Ken\n\nIs being emotionally stable just a fancy way of saying you're boring now?\n\n#shorts #truth #mentalhealth #adulthood #perspective #ken"
-            },
-            "C": {
-              "angle": "Actionable Protocol",
-              "title": "The secret to adult emotional stability",
-              "description": "Want to master your emotions without losing your mind? Ken reveals the exact behavioral shift that explains why adults turn down the volume on their lives.\n\n\u2022 How to regulate your emotional highs and lows like an adult\n\u2022 The boundary-setting trick that creates total inner peace\n\u2022 A step-by-step framework to stop wasting energy on chaos\n\nFeaturing: Ken\n\nAt what exact age did you realize you were becoming the boring adult?\n\n#shorts #selfimprovement #lifelessons #habits #wisdom #ken"
-            }
-          },
-          "active_variant": "A",
-          "test_status": "ACTIVE_TEST",
-          "variant_history": [
-            {
-              "variant": "A",
-              "title": "Why adults secretly act so boring...",
-              "deployed_at": 1792423975.769063,
-              "reason": "Initial A/B test deployment"
-            }
-          ],
-          "metrics": {
-            "views": 0,
-            "likes": 0,
-            "comments": 0,
-            "retention": 0.0,
-            "ctr": 0.0
-          }
-        },
-        "reframed": "gaming_split"
-      },
-      {
         "id": "ken_1792318278_0",
         "source_video": "2.5 cancer cycle [Highlight]",
         "creator": "Ken",
@@ -6840,6 +6774,72 @@
     ],
     "held": [],
     "published": [
+      {
+        "id": "ken_1792246995_2",
+        "source_video": "1.9 aggression cycle [Overtime Battle]",
+        "creator": "Ken",
+        "title": "Why adults secretly act so boring...",
+        "publish_at": "2026-10-20T01:30:00Z",
+        "status": "PUBLISHED",
+        "uploaded": true,
+        "youtube_video_id": "hpNHZGXvMwo",
+        "youtube_url": "https://www.youtube.com/shorts/hpNHZGXvMwo",
+        "video_file": "ken_1792246995_2_master.mp4",
+        "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792246995_2_master.mp4",
+        "duration": 30.27,
+        "hook_summary": "The creator has a sudden realization about why adults are so boring and dull on the outside, explaining the secret to emotional stability.",
+        "metadata": {
+          "title": "Why adults secretly act so boring...",
+          "description": "Have you ever wondered why adults suddenly seem so dull and lifeless on the outside? Ken exposes the hidden psychological shift behind why grown-ups hide their true spark.\n\n\u2022 The hidden reason adults appear emotionless to the outside world\n\u2022 How emotional stability actually changes your outward personality\n\u2022 The surprising truth about maintaining your inner child while growing up\n\nFeaturing: Ken\n\nDo you think adults choose to be boring, or does life just force the fun out of them?\n\n#shorts #psychology #adulting #mindset #growingup #ken",
+          "tags": [
+            "why adults are boring",
+            "emotional stability",
+            "growing up",
+            "adulting reality",
+            "psychology of adults",
+            "inner peace",
+            "mental maturity",
+            "life lessons",
+            "ken shorts"
+          ],
+          "pinned_comment": "At what age did you officially realize you had become the 'boring adult' in the room? Let's argue in the replies.",
+          "ab_variants": {
+            "A": {
+              "angle": "Curiosity Gap",
+              "title": "Why adults secretly act so boring...",
+              "description": "Have you ever wondered why adults suddenly seem so dull and lifeless on the outside? Ken exposes the hidden psychological shift behind why grown-ups hide their true spark.\n\n\u2022 The hidden reason adults appear emotionless to the outside world\n\u2022 How emotional stability actually changes your outward personality\n\u2022 The surprising truth about maintaining your inner child while growing up\n\nFeaturing: Ken\n\nDo you think adults choose to be boring, or does life just force the fun out of them?\n\n#shorts #psychology #adulting #mindset #growingup #ken"
+            },
+            "B": {
+              "angle": "Contrarian Truth",
+              "title": "Being 'boring' is a superpower.",
+              "description": "We spend our whole lives trying not to be boring, but what if acting dull is actually the ultimate secret to emotional survival? Ken breaks down why being boring isn't a flaw\u2014it's a shield.\n\n\u2022 Why trying to be exciting is draining your emotional energy\n\u2022 The hidden mechanism behind adult emotional stability\n\u2022 Why dullness on the outside means peace on the inside\n\nFeaturing: Ken\n\nIs being emotionally stable just a fancy way of saying you're boring now?\n\n#shorts #truth #mentalhealth #adulthood #perspective #ken"
+            },
+            "C": {
+              "angle": "Actionable Protocol",
+              "title": "The secret to adult emotional stability",
+              "description": "Want to master your emotions without losing your mind? Ken reveals the exact behavioral shift that explains why adults turn down the volume on their lives.\n\n\u2022 How to regulate your emotional highs and lows like an adult\n\u2022 The boundary-setting trick that creates total inner peace\n\u2022 A step-by-step framework to stop wasting energy on chaos\n\nFeaturing: Ken\n\nAt what exact age did you realize you were becoming the boring adult?\n\n#shorts #selfimprovement #lifelessons #habits #wisdom #ken"
+            }
+          },
+          "active_variant": "A",
+          "test_status": "ACTIVE_TEST",
+          "variant_history": [
+            {
+              "variant": "A",
+              "title": "Why adults secretly act so boring...",
+              "deployed_at": 1792423975.769063,
+              "reason": "Initial A/B test deployment"
+            }
+          ],
+          "metrics": {
+            "views": 0,
+            "likes": 0,
+            "comments": 0,
+            "retention": 0.0,
+            "ctr": 0.0
+          }
+        },
+        "reframed": "gaming_split"
+      },
       {
         "id": "ken_1792212492_11",
         "source_video": "perfected my deck [Clutch Moment]",

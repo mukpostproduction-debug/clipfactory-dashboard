@@ -1,6 +1,6 @@
 {
-  "timestamp": 1792535487.566445,
-  "sync_time_iso": "2026-10-20T22:31:27Z",
+  "timestamp": 1792535525.311124,
+  "sync_time_iso": "2026-10-20T22:32:05Z",
   "default_channel": "ken_clips_burger",
   "channels": {
     "ken_clips_burger": {
@@ -148,17 +148,17 @@
         },
         "PUBLISHER": {
           "status": "working",
-          "current_task": "Short SCHEDULED on YouTube: GXFqvSjnK8c (09:30 PM ET (Tue, Oct 20))",
+          "current_task": "Short SCHEDULED on YouTube: NuCE_5c__rM (11:30 AM ET (Wed, Oct 21))",
           "last_completed_task": "Uploaded all 3 initial Clash Royale gaming cuts to YouTube (kenclipsburger420)",
           "recent_logs": [
-            "[12:13:00] Deploying to YouTube (@kenclipsburger420) for release 11:30 AM ET (Thu, Oct 22)...",
-            "[12:13:08] Short SCHEDULED on YouTube: X7StAXY94mc (11:30 AM ET (Thu, Oct 22))",
-            "[12:16:38] Generating gaming A/B metadata for slot: 04:30 PM ET (Thu, Oct 22)...",
             "[12:17:07] Deploying to YouTube (@kenclipsburger420) for release 04:30 PM ET (Thu, Oct 22)...",
             "[12:17:14] Short SCHEDULED on YouTube: LfKxwVmaMEE (04:30 PM ET (Thu, Oct 22))",
             "[18:28:07] Generating gaming A/B metadata for slot: 09:30 PM ET (Tue, Oct 20)...",
             "[18:28:16] Deploying to YouTube (@kenclipsburger420) for release 09:30 PM ET (Tue, Oct 20)...",
-            "[18:28:22] Short SCHEDULED on YouTube: GXFqvSjnK8c (09:30 PM ET (Tue, Oct 20))"
+            "[18:28:22] Short SCHEDULED on YouTube: GXFqvSjnK8c (09:30 PM ET (Tue, Oct 20))",
+            "[18:31:52] Generating gaming A/B metadata for slot: 11:30 AM ET (Wed, Oct 21)...",
+            "[18:31:59] Deploying to YouTube (@kenclipsburger420) for release 11:30 AM ET (Wed, Oct 21)...",
+            "[18:32:05] Short SCHEDULED on YouTube: NuCE_5c__rM (11:30 AM ET (Wed, Oct 21))"
           ]
         },
         "ANALYST": {
@@ -194,19 +194,6 @@
       },
       "queue": {
         "queue": [
-          {
-            "id": "ken_1792500844_1",
-            "creator": "Ken",
-            "title": "welcome to hell [Clutch Moment]",
-            "source_title": "welcome to hell",
-            "url": "https://www.youtube.com/watch?v=E2w0V3SzeqY",
-            "section": "*300-480",
-            "duration": 2022,
-            "status": "QUEUED_FOR_REMASTER",
-            "added_at": "2026-10-20T12:54:04Z",
-            "youtube_video_id": null,
-            "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792500844_1_master.mp4"
-          },
           {
             "id": "ken_1792500844_2",
             "creator": "Ken",
@@ -271,18 +258,6 @@
               }
             },
             "hook_summary": "The player immediately predicts their own downfall, followed by a series of increasingly disastrous gameplay errors and unlucky enemy counters."
-          },
-          {
-            "id": "ken_1792411394_1",
-            "creator": "Ken",
-            "title": "new balance changes [Clutch Moment]",
-            "source_title": "new balance changes",
-            "url": "https://www.youtube.com/watch?v=efXvyv0t4Yo",
-            "section": "*300-480",
-            "duration": 857,
-            "status": "PROCESSING",
-            "added_at": "2026-10-19T12:03:14Z",
-            "youtube_video_id": null
           },
           {
             "id": "ken_1792411394_0",
@@ -722,11 +697,104 @@
             "added_at": "2026-10-18T10:11:18Z",
             "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792318278_0_master.mp4",
             "youtube_video_id": "mn2b9SbHoe0"
+          },
+          {
+            "id": "ken_1792500844_1",
+            "creator": "Ken",
+            "title": "welcome to hell [Clutch Moment]",
+            "source_title": "welcome to hell",
+            "url": "https://www.youtube.com/watch?v=E2w0V3SzeqY",
+            "section": "*300-480",
+            "duration": 2022,
+            "status": "COMPLETED",
+            "added_at": "2026-10-20T12:54:04Z",
+            "youtube_video_id": "GXFqvSjnK8c",
+            "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792500844_1_master.mp4"
+          },
+          {
+            "id": "ken_1792411394_1",
+            "creator": "Ken",
+            "title": "new balance changes [Clutch Moment]",
+            "source_title": "new balance changes",
+            "url": "https://www.youtube.com/watch?v=efXvyv0t4Yo",
+            "section": "*300-480",
+            "duration": 857,
+            "status": "COMPLETED",
+            "added_at": "2026-10-19T12:03:14Z",
+            "youtube_video_id": "NuCE_5c__rM",
+            "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792411394_1_master.mp4"
           }
         ]
       },
       "calendar": {
-        "scheduled": [],
+        "scheduled": [
+          {
+            "id": "ken_1792411394_1",
+            "source_video": "new balance changes [Clutch Moment]",
+            "creator": "Ken",
+            "title": "Bro actually hired a paid actor for this match \ud83d\udc80",
+            "publish_at": "2026-10-21T15:30:00Z",
+            "status": "SCHEDULED",
+            "uploaded": true,
+            "youtube_video_id": "NuCE_5c__rM",
+            "youtube_url": "https://www.youtube.com/shorts/NuCE_5c__rM",
+            "video_file": "ken_1792411394_1_master.mp4",
+            "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792411394_1_master.mp4",
+            "duration": 21.75,
+            "hook_summary": "The creator reacts in disbelief as his opponent makes bizarrely predictable plays right into his evolved cards, calling him a 'paid actor.'",
+            "metadata": {
+              "title": "Bro actually hired a paid actor for this match \ud83d\udc80",
+              "description": "You won't believe the absolute zero-IQ plays my opponent pulled off in this match. It genuinely feels like he was scripted to lose.\n\n\u2022 Spot the exact moment the opponent throws the game completely\n\u2022 See how to instantly capitalize on predictable opponent mistakes\n\u2022 Discover why some matches feel entirely rigged from the start\n\nFeaturing: Ken\n\nHave you ever faced an opponent so bad you genuinely thought they were a bot or a paid actor?\n\n#shorts #clashroyale #gaming #ken #supercell #mobilegaming",
+              "tags": [
+                "Clash Royale",
+                "Ken Clash Royale",
+                "Paid Actor",
+                "Clash Royale Funny",
+                "Clash Royale Momets",
+                "Supercell",
+                "Mobile Gaming",
+                "Clash Royale Gameplay",
+                "Clash Royale Shorts"
+              ],
+              "pinned_comment": "Be honest: have you ever played this badly, or was this genuinely a paid actor? Let me know \ud83d\udc47",
+              "ab_variants": {
+                "A": {
+                  "angle": "Curiosity Gap",
+                  "title": "Bro actually hired a paid actor for this match \ud83d\udc80",
+                  "description": "You won't believe the absolute zero-IQ plays my opponent pulled off in this match. It genuinely feels like he was scripted to lose.\n\n\u2022 Spot the exact moment the opponent throws the game completely\n\u2022 See how to instantly capitalize on predictable opponent mistakes\n\u2022 Discover why some matches feel entirely rigged from the start\n\nFeaturing: Ken\n\nHave you ever faced an opponent so bad you genuinely thought they were a bot or a paid actor?\n\n#shorts #clashroyale #gaming #ken #supercell #mobilegaming"
+                },
+                "B": {
+                  "angle": "Contrarian Truth",
+                  "title": "Stop blaming bad luck, your opponents are just NPCs.",
+                  "description": "Everyone complains about bad card matchups, but sometimes you just run into a player whose brain completely disconnects. This is proof that ranked is easier than we think.\n\n\u2022 Learn how to read and punish hyper-predictable player behavior\n\u2022 Understand why panicked opponents always make the worst possible plays\n\u2022 Master the art of converting free wins into ultimate momentum\n\nFeaturing: Ken\n\nIs it more satisfying to win against a pro or completely style on a clueless opponent?\n\n#shorts #clashroyale #gaming #ken #supercell #mobilegaming"
+                },
+                "C": {
+                  "angle": "Actionable Protocol",
+                  "title": "How to spot a paid actor and take a free win",
+                  "description": "Want free trophies? Watch how to instantly identify when an opponent is mentally crumbling and how to punish their predictable card placements for an easy three-crown.\n\n\u2022 Identify the red flags of an opponent who is about to throw\n\u2022 Execute the ultimate counter-push against panicked plays\n\u2022 Convert free-win opportunities into peak channel content\n\nFeaturing: Ken\n\nWhat is the most obvious throw you've ever seen an opponent make in overtime?\n\n#shorts #clashroyale #gaming #ken #supercell #mobilegaming"
+                }
+              },
+              "active_variant": "A",
+              "test_status": "ACTIVE_TEST",
+              "variant_history": [
+                {
+                  "variant": "A",
+                  "title": "Bro actually hired a paid actor for this match \ud83d\udc80",
+                  "deployed_at": 1792535519.9956858,
+                  "reason": "Initial A/B test deployment"
+                }
+              ],
+              "metrics": {
+                "views": 0,
+                "likes": 0,
+                "comments": 0,
+                "retention": 0.0,
+                "ctr": 0.0
+              }
+            },
+            "reframed": "gaming_split"
+          }
+        ],
         "held": [],
         "published": [
           {
@@ -5652,17 +5720,17 @@
     },
     "PUBLISHER": {
       "status": "working",
-      "current_task": "Short SCHEDULED on YouTube: GXFqvSjnK8c (09:30 PM ET (Tue, Oct 20))",
+      "current_task": "Short SCHEDULED on YouTube: NuCE_5c__rM (11:30 AM ET (Wed, Oct 21))",
       "last_completed_task": "Uploaded all 3 initial Clash Royale gaming cuts to YouTube (kenclipsburger420)",
       "recent_logs": [
-        "[12:13:00] Deploying to YouTube (@kenclipsburger420) for release 11:30 AM ET (Thu, Oct 22)...",
-        "[12:13:08] Short SCHEDULED on YouTube: X7StAXY94mc (11:30 AM ET (Thu, Oct 22))",
-        "[12:16:38] Generating gaming A/B metadata for slot: 04:30 PM ET (Thu, Oct 22)...",
         "[12:17:07] Deploying to YouTube (@kenclipsburger420) for release 04:30 PM ET (Thu, Oct 22)...",
         "[12:17:14] Short SCHEDULED on YouTube: LfKxwVmaMEE (04:30 PM ET (Thu, Oct 22))",
         "[18:28:07] Generating gaming A/B metadata for slot: 09:30 PM ET (Tue, Oct 20)...",
         "[18:28:16] Deploying to YouTube (@kenclipsburger420) for release 09:30 PM ET (Tue, Oct 20)...",
-        "[18:28:22] Short SCHEDULED on YouTube: GXFqvSjnK8c (09:30 PM ET (Tue, Oct 20))"
+        "[18:28:22] Short SCHEDULED on YouTube: GXFqvSjnK8c (09:30 PM ET (Tue, Oct 20))",
+        "[18:31:52] Generating gaming A/B metadata for slot: 11:30 AM ET (Wed, Oct 21)...",
+        "[18:31:59] Deploying to YouTube (@kenclipsburger420) for release 11:30 AM ET (Wed, Oct 21)...",
+        "[18:32:05] Short SCHEDULED on YouTube: NuCE_5c__rM (11:30 AM ET (Wed, Oct 21))"
       ]
     },
     "ANALYST": {
@@ -5698,19 +5766,6 @@
   },
   "queue": {
     "queue": [
-      {
-        "id": "ken_1792500844_1",
-        "creator": "Ken",
-        "title": "welcome to hell [Clutch Moment]",
-        "source_title": "welcome to hell",
-        "url": "https://www.youtube.com/watch?v=E2w0V3SzeqY",
-        "section": "*300-480",
-        "duration": 2022,
-        "status": "QUEUED_FOR_REMASTER",
-        "added_at": "2026-10-20T12:54:04Z",
-        "youtube_video_id": null,
-        "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792500844_1_master.mp4"
-      },
       {
         "id": "ken_1792500844_2",
         "creator": "Ken",
@@ -5775,18 +5830,6 @@
           }
         },
         "hook_summary": "The player immediately predicts their own downfall, followed by a series of increasingly disastrous gameplay errors and unlucky enemy counters."
-      },
-      {
-        "id": "ken_1792411394_1",
-        "creator": "Ken",
-        "title": "new balance changes [Clutch Moment]",
-        "source_title": "new balance changes",
-        "url": "https://www.youtube.com/watch?v=efXvyv0t4Yo",
-        "section": "*300-480",
-        "duration": 857,
-        "status": "PROCESSING",
-        "added_at": "2026-10-19T12:03:14Z",
-        "youtube_video_id": null
       },
       {
         "id": "ken_1792411394_0",
@@ -6226,11 +6269,104 @@
         "added_at": "2026-10-18T10:11:18Z",
         "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792318278_0_master.mp4",
         "youtube_video_id": "mn2b9SbHoe0"
+      },
+      {
+        "id": "ken_1792500844_1",
+        "creator": "Ken",
+        "title": "welcome to hell [Clutch Moment]",
+        "source_title": "welcome to hell",
+        "url": "https://www.youtube.com/watch?v=E2w0V3SzeqY",
+        "section": "*300-480",
+        "duration": 2022,
+        "status": "COMPLETED",
+        "added_at": "2026-10-20T12:54:04Z",
+        "youtube_video_id": "GXFqvSjnK8c",
+        "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792500844_1_master.mp4"
+      },
+      {
+        "id": "ken_1792411394_1",
+        "creator": "Ken",
+        "title": "new balance changes [Clutch Moment]",
+        "source_title": "new balance changes",
+        "url": "https://www.youtube.com/watch?v=efXvyv0t4Yo",
+        "section": "*300-480",
+        "duration": 857,
+        "status": "COMPLETED",
+        "added_at": "2026-10-19T12:03:14Z",
+        "youtube_video_id": "NuCE_5c__rM",
+        "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792411394_1_master.mp4"
       }
     ]
   },
   "calendar": {
-    "scheduled": [],
+    "scheduled": [
+      {
+        "id": "ken_1792411394_1",
+        "source_video": "new balance changes [Clutch Moment]",
+        "creator": "Ken",
+        "title": "Bro actually hired a paid actor for this match \ud83d\udc80",
+        "publish_at": "2026-10-21T15:30:00Z",
+        "status": "SCHEDULED",
+        "uploaded": true,
+        "youtube_video_id": "NuCE_5c__rM",
+        "youtube_url": "https://www.youtube.com/shorts/NuCE_5c__rM",
+        "video_file": "ken_1792411394_1_master.mp4",
+        "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792411394_1_master.mp4",
+        "duration": 21.75,
+        "hook_summary": "The creator reacts in disbelief as his opponent makes bizarrely predictable plays right into his evolved cards, calling him a 'paid actor.'",
+        "metadata": {
+          "title": "Bro actually hired a paid actor for this match \ud83d\udc80",
+          "description": "You won't believe the absolute zero-IQ plays my opponent pulled off in this match. It genuinely feels like he was scripted to lose.\n\n\u2022 Spot the exact moment the opponent throws the game completely\n\u2022 See how to instantly capitalize on predictable opponent mistakes\n\u2022 Discover why some matches feel entirely rigged from the start\n\nFeaturing: Ken\n\nHave you ever faced an opponent so bad you genuinely thought they were a bot or a paid actor?\n\n#shorts #clashroyale #gaming #ken #supercell #mobilegaming",
+          "tags": [
+            "Clash Royale",
+            "Ken Clash Royale",
+            "Paid Actor",
+            "Clash Royale Funny",
+            "Clash Royale Momets",
+            "Supercell",
+            "Mobile Gaming",
+            "Clash Royale Gameplay",
+            "Clash Royale Shorts"
+          ],
+          "pinned_comment": "Be honest: have you ever played this badly, or was this genuinely a paid actor? Let me know \ud83d\udc47",
+          "ab_variants": {
+            "A": {
+              "angle": "Curiosity Gap",
+              "title": "Bro actually hired a paid actor for this match \ud83d\udc80",
+              "description": "You won't believe the absolute zero-IQ plays my opponent pulled off in this match. It genuinely feels like he was scripted to lose.\n\n\u2022 Spot the exact moment the opponent throws the game completely\n\u2022 See how to instantly capitalize on predictable opponent mistakes\n\u2022 Discover why some matches feel entirely rigged from the start\n\nFeaturing: Ken\n\nHave you ever faced an opponent so bad you genuinely thought they were a bot or a paid actor?\n\n#shorts #clashroyale #gaming #ken #supercell #mobilegaming"
+            },
+            "B": {
+              "angle": "Contrarian Truth",
+              "title": "Stop blaming bad luck, your opponents are just NPCs.",
+              "description": "Everyone complains about bad card matchups, but sometimes you just run into a player whose brain completely disconnects. This is proof that ranked is easier than we think.\n\n\u2022 Learn how to read and punish hyper-predictable player behavior\n\u2022 Understand why panicked opponents always make the worst possible plays\n\u2022 Master the art of converting free wins into ultimate momentum\n\nFeaturing: Ken\n\nIs it more satisfying to win against a pro or completely style on a clueless opponent?\n\n#shorts #clashroyale #gaming #ken #supercell #mobilegaming"
+            },
+            "C": {
+              "angle": "Actionable Protocol",
+              "title": "How to spot a paid actor and take a free win",
+              "description": "Want free trophies? Watch how to instantly identify when an opponent is mentally crumbling and how to punish their predictable card placements for an easy three-crown.\n\n\u2022 Identify the red flags of an opponent who is about to throw\n\u2022 Execute the ultimate counter-push against panicked plays\n\u2022 Convert free-win opportunities into peak channel content\n\nFeaturing: Ken\n\nWhat is the most obvious throw you've ever seen an opponent make in overtime?\n\n#shorts #clashroyale #gaming #ken #supercell #mobilegaming"
+            }
+          },
+          "active_variant": "A",
+          "test_status": "ACTIVE_TEST",
+          "variant_history": [
+            {
+              "variant": "A",
+              "title": "Bro actually hired a paid actor for this match \ud83d\udc80",
+              "deployed_at": 1792535519.9956858,
+              "reason": "Initial A/B test deployment"
+            }
+          ],
+          "metrics": {
+            "views": 0,
+            "likes": 0,
+            "comments": 0,
+            "retention": 0.0,
+            "ctr": 0.0
+          }
+        },
+        "reframed": "gaming_split"
+      }
+    ],
     "held": [],
     "published": [
       {

@@ -1,6 +1,6 @@
 {
-  "timestamp": 1792535178.329081,
-  "sync_time_iso": "2026-10-20T22:26:18Z",
+  "timestamp": 1792535240.0064158,
+  "sync_time_iso": "2026-10-20T22:27:20Z",
   "default_channel": "ken_clips_burger",
   "channels": {
     "ken_clips_burger": {
@@ -97,14 +97,14 @@
           "current_task": "Queue up to date. Waiting for next daily Ken upload.",
           "last_completed_task": "Ingested 5 recent Ken master videos into source pool",
           "recent_logs": [
-            "[18:18:52] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
-            "[18:19:03] Queue up to date. Waiting for next daily Ken upload.",
             "[18:21:05] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
             "[18:21:16] Queue up to date. Waiting for next daily Ken upload.",
             "[18:23:18] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
             "[18:23:30] Queue up to date. Waiting for next daily Ken upload.",
             "[18:25:32] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
-            "[18:25:45] Queue up to date. Waiting for next daily Ken upload."
+            "[18:25:45] Queue up to date. Waiting for next daily Ken upload.",
+            "[18:26:46] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
+            "[18:26:57] Queue up to date. Waiting for next daily Ken upload."
           ]
         },
         "STRATEGIST": {
@@ -124,17 +124,17 @@
         },
         "EDITOR": {
           "status": "working",
-          "current_task": "Rendering gaming_split Short with captions: welcome to hell [Overtime Batt",
+          "current_task": "Rendering gaming_split Short with captions: welcome to hell [Clutch Moment",
           "last_completed_task": "Rendered 'hp buffed' rage highlight with kinetic pop captions & commentary",
           "recent_logs": [
-            "[22:15:23] Downloading highlight segment (*300-480) for: new balance changes [Clutch Moment]...",
-            "[22:15:36] Rendering gaming_split Short with captions: new balance changes [Clutch Mo",
             "[11:15:33] Downloading highlight segment (*60-240) for: welcome to hell [Highlight]...",
             "[12:11:15] Downloading highlight segment (*300-480) for: welcome to hell [Clutch Moment]...",
             "[12:11:19] Rendering gaming_split Short with captions: welcome to hell [Clutch Moment",
             "[12:15:24] Downloading highlight segment (*540-720) for: welcome to hell [Overtime Battle]...",
             "[12:15:28] Rendering gaming_split Short with captions: welcome to hell [Overtime Batt",
-            "[18:25:46] Rendering gaming_split Short with captions: welcome to hell [Overtime Batt"
+            "[18:25:46] Rendering gaming_split Short with captions: welcome to hell [Overtime Batt",
+            "[18:26:57] Downloading 1080p highlight segment (*300-480) for: welcome to hell [Clutch Moment]...",
+            "[18:27:06] Rendering gaming_split Short with captions: welcome to hell [Clutch Moment"
           ]
         },
         "COMMENTATOR": {
@@ -201,10 +201,62 @@
             "source_title": "welcome to hell",
             "url": "https://www.youtube.com/watch?v=E2w0V3SzeqY",
             "section": "*540-720",
-            "duration": 2022,
-            "status": "PROCESSING",
+            "duration": 22.38,
+            "status": "REMASTERED_READY_TO_SCHEDULE",
             "added_at": "2026-10-20T12:54:04Z",
-            "youtube_video_id": null
+            "youtube_video_id": null,
+            "remastered_output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/remastered/ken_1792500844_2_remaster_1080p.mp4",
+            "metadata": {
+              "title": "Why math class couldn't save this Clash Royale bolt",
+              "description": "Thought that lightning bolt was locked onto the tower? Think again. Watch as math, physics, and Supercell mechanics collide in the most painful way possible.\n\n* Witness the exact moment geometry betrays a win condition\n* Hear the ultimate breakdown on why aiming in mobile games is pure pain\n* Learn what not to do when the game's hitboxes decide to troll you\n\nFeaturing: Ken\n\nBe honest: Was that a total pixel-miss or did Supercell actively scam this play?\n\n#shorts #clashroyale #gaming #ken #supercell #mobilegaming",
+              "tags": [
+                "Clash Royale",
+                "Ken Clash Royale",
+                "Clash Royale funny moments",
+                "Clash Royale gameplay",
+                "Clash Royale lightning",
+                "Clash Royale fails",
+                "Supercell",
+                "mobile gaming shorts",
+                "Clash Royale strategy"
+              ],
+              "pinned_comment": "Be honest in the replies: Would you have thrown your phone after missing that bolt, or just laughed it off?",
+              "ab_variants": {
+                "A": {
+                  "angle": "Curiosity Gap",
+                  "title": "Why math class couldn't save this Clash Royale bolt",
+                  "description": "Thought that lightning bolt was locked onto the tower? Think again. Watch as math, physics, and Supercell mechanics collide in the most painful way possible.\n\n* Witness the exact moment geometry betrays a win condition\n* Hear the ultimate breakdown on why aiming in mobile games is pure pain\n* Learn what not to do when the game's hitboxes decide to troll you\n\nFeaturing: Ken\n\nBe honest: Was that a total pixel-miss or did Supercell actively scam this play?\n\n#shorts #clashroyale #gaming #ken #supercell #mobilegaming"
+                },
+                "B": {
+                  "angle": "Contrarian Truth",
+                  "title": "Supercell hitboxes are actually rigged. Prove me wrong.",
+                  "description": "Everyone trusts the line of sight until the game decides to rewrite the laws of geometry. This is the harsh truth about Clash Royale's targeting system.\n\n* Exposing how visual indicators lie to your face during clutch moments\n* The psychological damage of trusting a spell that refuses to connect\n* Why school geometry is completely useless in the arena\n\nFeaturing: Ken\n\nHave you ever lost a match purely because a spell hit the wrong tile?\n\n#shorts #clashroyale #gaming #ken #supercell #mobilegaming"
+                },
+                "C": {
+                  "angle": "Actionable Protocol",
+                  "title": "How to calculate your spell placement (Don't do this)",
+                  "description": "Want to land every single spell and clutch the tower? Here is the exact opposite of what you should do, brought to you by absolute panic and math.\n\n* Step 1: Line up your shot with absolute false confidence\n* Step 2: Question every life choice that led you to this arena\n* Step 3: Blame the developer's physics engine for the loss\n\nFeaturing: Ken\n\nOn a scale of 1 to 10, how bad is your spatial awareness under pressure?\n\n#shorts #clashroyale #gaming #ken #supercell #mobilegaming"
+                }
+              },
+              "active_variant": "A",
+              "test_status": "ACTIVE_TEST",
+              "variant_history": [
+                {
+                  "variant": "A",
+                  "title": "Why math class couldn't save this Clash Royale bolt",
+                  "deployed_at": 1792535191.860057,
+                  "reason": "Initial A/B test deployment"
+                }
+              ],
+              "metrics": {
+                "views": 0,
+                "likes": 0,
+                "comments": 0,
+                "retention": 0.0,
+                "ctr": 0.0
+              }
+            },
+            "hook_summary": "The creator attempts a high-stakes bolt shot on the tower only to get 'scammed' by the game's mechanics, leading into a hilarious rant about using a protractor in school."
           },
           {
             "id": "ken_1792500844_1",
@@ -214,7 +266,7 @@
             "url": "https://www.youtube.com/watch?v=E2w0V3SzeqY",
             "section": "*300-480",
             "duration": 2022,
-            "status": "QUEUED",
+            "status": "PROCESSING",
             "added_at": "2026-10-20T12:54:04Z",
             "youtube_video_id": null
           },
@@ -5547,14 +5599,14 @@
       "current_task": "Queue up to date. Waiting for next daily Ken upload.",
       "last_completed_task": "Ingested 5 recent Ken master videos into source pool",
       "recent_logs": [
-        "[18:18:52] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
-        "[18:19:03] Queue up to date. Waiting for next daily Ken upload.",
         "[18:21:05] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
         "[18:21:16] Queue up to date. Waiting for next daily Ken upload.",
         "[18:23:18] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
         "[18:23:30] Queue up to date. Waiting for next daily Ken upload.",
         "[18:25:32] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
-        "[18:25:45] Queue up to date. Waiting for next daily Ken upload."
+        "[18:25:45] Queue up to date. Waiting for next daily Ken upload.",
+        "[18:26:46] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
+        "[18:26:57] Queue up to date. Waiting for next daily Ken upload."
       ]
     },
     "STRATEGIST": {
@@ -5574,17 +5626,17 @@
     },
     "EDITOR": {
       "status": "working",
-      "current_task": "Rendering gaming_split Short with captions: welcome to hell [Overtime Batt",
+      "current_task": "Rendering gaming_split Short with captions: welcome to hell [Clutch Moment",
       "last_completed_task": "Rendered 'hp buffed' rage highlight with kinetic pop captions & commentary",
       "recent_logs": [
-        "[22:15:23] Downloading highlight segment (*300-480) for: new balance changes [Clutch Moment]...",
-        "[22:15:36] Rendering gaming_split Short with captions: new balance changes [Clutch Mo",
         "[11:15:33] Downloading highlight segment (*60-240) for: welcome to hell [Highlight]...",
         "[12:11:15] Downloading highlight segment (*300-480) for: welcome to hell [Clutch Moment]...",
         "[12:11:19] Rendering gaming_split Short with captions: welcome to hell [Clutch Moment",
         "[12:15:24] Downloading highlight segment (*540-720) for: welcome to hell [Overtime Battle]...",
         "[12:15:28] Rendering gaming_split Short with captions: welcome to hell [Overtime Batt",
-        "[18:25:46] Rendering gaming_split Short with captions: welcome to hell [Overtime Batt"
+        "[18:25:46] Rendering gaming_split Short with captions: welcome to hell [Overtime Batt",
+        "[18:26:57] Downloading 1080p highlight segment (*300-480) for: welcome to hell [Clutch Moment]...",
+        "[18:27:06] Rendering gaming_split Short with captions: welcome to hell [Clutch Moment"
       ]
     },
     "COMMENTATOR": {
@@ -5651,10 +5703,62 @@
         "source_title": "welcome to hell",
         "url": "https://www.youtube.com/watch?v=E2w0V3SzeqY",
         "section": "*540-720",
-        "duration": 2022,
-        "status": "PROCESSING",
+        "duration": 22.38,
+        "status": "REMASTERED_READY_TO_SCHEDULE",
         "added_at": "2026-10-20T12:54:04Z",
-        "youtube_video_id": null
+        "youtube_video_id": null,
+        "remastered_output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/remastered/ken_1792500844_2_remaster_1080p.mp4",
+        "metadata": {
+          "title": "Why math class couldn't save this Clash Royale bolt",
+          "description": "Thought that lightning bolt was locked onto the tower? Think again. Watch as math, physics, and Supercell mechanics collide in the most painful way possible.\n\n* Witness the exact moment geometry betrays a win condition\n* Hear the ultimate breakdown on why aiming in mobile games is pure pain\n* Learn what not to do when the game's hitboxes decide to troll you\n\nFeaturing: Ken\n\nBe honest: Was that a total pixel-miss or did Supercell actively scam this play?\n\n#shorts #clashroyale #gaming #ken #supercell #mobilegaming",
+          "tags": [
+            "Clash Royale",
+            "Ken Clash Royale",
+            "Clash Royale funny moments",
+            "Clash Royale gameplay",
+            "Clash Royale lightning",
+            "Clash Royale fails",
+            "Supercell",
+            "mobile gaming shorts",
+            "Clash Royale strategy"
+          ],
+          "pinned_comment": "Be honest in the replies: Would you have thrown your phone after missing that bolt, or just laughed it off?",
+          "ab_variants": {
+            "A": {
+              "angle": "Curiosity Gap",
+              "title": "Why math class couldn't save this Clash Royale bolt",
+              "description": "Thought that lightning bolt was locked onto the tower? Think again. Watch as math, physics, and Supercell mechanics collide in the most painful way possible.\n\n* Witness the exact moment geometry betrays a win condition\n* Hear the ultimate breakdown on why aiming in mobile games is pure pain\n* Learn what not to do when the game's hitboxes decide to troll you\n\nFeaturing: Ken\n\nBe honest: Was that a total pixel-miss or did Supercell actively scam this play?\n\n#shorts #clashroyale #gaming #ken #supercell #mobilegaming"
+            },
+            "B": {
+              "angle": "Contrarian Truth",
+              "title": "Supercell hitboxes are actually rigged. Prove me wrong.",
+              "description": "Everyone trusts the line of sight until the game decides to rewrite the laws of geometry. This is the harsh truth about Clash Royale's targeting system.\n\n* Exposing how visual indicators lie to your face during clutch moments\n* The psychological damage of trusting a spell that refuses to connect\n* Why school geometry is completely useless in the arena\n\nFeaturing: Ken\n\nHave you ever lost a match purely because a spell hit the wrong tile?\n\n#shorts #clashroyale #gaming #ken #supercell #mobilegaming"
+            },
+            "C": {
+              "angle": "Actionable Protocol",
+              "title": "How to calculate your spell placement (Don't do this)",
+              "description": "Want to land every single spell and clutch the tower? Here is the exact opposite of what you should do, brought to you by absolute panic and math.\n\n* Step 1: Line up your shot with absolute false confidence\n* Step 2: Question every life choice that led you to this arena\n* Step 3: Blame the developer's physics engine for the loss\n\nFeaturing: Ken\n\nOn a scale of 1 to 10, how bad is your spatial awareness under pressure?\n\n#shorts #clashroyale #gaming #ken #supercell #mobilegaming"
+            }
+          },
+          "active_variant": "A",
+          "test_status": "ACTIVE_TEST",
+          "variant_history": [
+            {
+              "variant": "A",
+              "title": "Why math class couldn't save this Clash Royale bolt",
+              "deployed_at": 1792535191.860057,
+              "reason": "Initial A/B test deployment"
+            }
+          ],
+          "metrics": {
+            "views": 0,
+            "likes": 0,
+            "comments": 0,
+            "retention": 0.0,
+            "ctr": 0.0
+          }
+        },
+        "hook_summary": "The creator attempts a high-stakes bolt shot on the tower only to get 'scammed' by the game's mechanics, leading into a hilarious rant about using a protractor in school."
       },
       {
         "id": "ken_1792500844_1",
@@ -5664,7 +5768,7 @@
         "url": "https://www.youtube.com/watch?v=E2w0V3SzeqY",
         "section": "*300-480",
         "duration": 2022,
-        "status": "QUEUED",
+        "status": "PROCESSING",
         "added_at": "2026-10-20T12:54:04Z",
         "youtube_video_id": null
       },

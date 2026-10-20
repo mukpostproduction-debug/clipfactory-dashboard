@@ -1,6 +1,6 @@
 {
-  "timestamp": 1792459907.564329,
-  "sync_time_iso": "2026-10-20T01:31:47Z",
+  "timestamp": 1792459938.331413,
+  "sync_time_iso": "2026-10-20T01:32:18Z",
   "default_channel": "ken_clips_burger",
   "channels": {
     "ken_clips_burger": {
@@ -147,17 +147,17 @@
         },
         "PUBLISHER": {
           "status": "working",
-          "current_task": "Short SCHEDULED on YouTube: mrG9jdRdbd4 (11:30 AM ET (Wed, Oct 21))",
+          "current_task": "Short SCHEDULED on YouTube: -ZMXI6V0aWY (04:30 PM ET (Wed, Oct 21))",
           "last_completed_task": "Uploaded all 3 initial Clash Royale gaming cuts to YouTube (kenclipsburger420)",
           "recent_logs": [
-            "[13:03:02] Deploying to YouTube (@kenclipsburger420) for release 11:30 AM ET (Tue, Oct 20)...",
-            "[13:03:08] Short SCHEDULED on YouTube: mn2b9SbHoe0 (11:30 AM ET (Tue, Oct 20))",
-            "[16:32:46] Generating gaming A/B metadata for slot: 09:30 PM ET (Tue, Oct 20)...",
             "[16:32:52] Deploying to YouTube (@kenclipsburger420) for release 09:30 PM ET (Tue, Oct 20)...",
             "[16:32:57] Short SCHEDULED on YouTube: mOQWrknmk7U (09:30 PM ET (Tue, Oct 20))",
             "[19:32:48] Generating gaming A/B metadata for slot: 11:30 AM ET (Wed, Oct 21)...",
             "[19:32:57] Deploying to YouTube (@kenclipsburger420) for release 11:30 AM ET (Wed, Oct 21)...",
-            "[19:33:42] Short SCHEDULED on YouTube: mrG9jdRdbd4 (11:30 AM ET (Wed, Oct 21))"
+            "[19:33:42] Short SCHEDULED on YouTube: mrG9jdRdbd4 (11:30 AM ET (Wed, Oct 21))",
+            "[21:31:54] Generating gaming A/B metadata for slot: 04:30 PM ET (Wed, Oct 21)...",
+            "[21:32:06] Deploying to YouTube (@kenclipsburger420) for release 04:30 PM ET (Wed, Oct 21)...",
+            "[21:32:18] Short SCHEDULED on YouTube: -ZMXI6V0aWY (04:30 PM ET (Wed, Oct 21))"
           ]
         },
         "ANALYST": {
@@ -247,17 +247,6 @@
             "duration": 1113,
             "status": "FAILED_DOWNLOAD",
             "added_at": "2026-10-17T04:48:12Z"
-          },
-          {
-            "id": "ken_1792411394_0",
-            "creator": "Ken",
-            "title": "new balance changes [Highlight]",
-            "source_title": "new balance changes",
-            "url": "https://www.youtube.com/watch?v=efXvyv0t4Yo",
-            "section": "*60-240",
-            "duration": 857,
-            "status": "PROCESSING",
-            "added_at": "2026-10-19T12:03:14Z"
           },
           {
             "id": "ken_1792411394_1",
@@ -633,6 +622,19 @@
             "added_at": "2026-10-18T10:11:18Z",
             "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792318278_2_master.mp4",
             "youtube_video_id": "mrG9jdRdbd4"
+          },
+          {
+            "id": "ken_1792411394_0",
+            "creator": "Ken",
+            "title": "new balance changes [Highlight]",
+            "source_title": "new balance changes",
+            "url": "https://www.youtube.com/watch?v=efXvyv0t4Yo",
+            "section": "*60-240",
+            "duration": 857,
+            "status": "COMPLETED",
+            "added_at": "2026-10-19T12:03:14Z",
+            "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792411394_0_master.mp4",
+            "youtube_video_id": "-ZMXI6V0aWY"
           }
         ]
       },
@@ -1155,6 +1157,73 @@
                   "variant": "A",
                   "title": "Never trust a 'Good Luck' in Clash Royale...",
                   "deployed_at": 1792452777.029142,
+                  "reason": "Initial A/B test deployment"
+                }
+              ],
+              "metrics": {
+                "views": 0,
+                "likes": 0,
+                "comments": 0,
+                "retention": 0.0,
+                "ctr": 0.0
+              }
+            },
+            "reframed": "gaming_split"
+          },
+          {
+            "id": "ken_1792411394_0",
+            "source_video": "new balance changes [Highlight]",
+            "creator": "Ken",
+            "title": "This deck shouldn't work in Ultimate Champion...",
+            "publish_at": "2026-10-21T20:30:00Z",
+            "status": "SCHEDULED",
+            "uploaded": true,
+            "youtube_video_id": "-ZMXI6V0aWY",
+            "youtube_url": "https://www.youtube.com/shorts/-ZMXI6V0aWY",
+            "video_file": "ken_1792411394_0_master.mp4",
+            "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792411394_0_master.mp4",
+            "duration": 24.13,
+            "hook_summary": "The creator showcases a custom Clash Royale deck that is three wins away from Ultimate Champion, finishing with a hilariously detailed prediction of crashing out.",
+            "metadata": {
+              "title": "This deck shouldn't work in Ultimate Champion...",
+              "description": "Three wins away from Ultimate Champion, and I cooked up something completely unhinged. You won't believe how this custom strategy actually holds up under pressure.\n\n\u2022 Discover a rogue custom deck built to surprise top-tier ladder opponents\n\u2022 See how to navigate intense matchups right on the edge of Ultimate Champion\n\u2022 Watch the inevitable, hilarious chaos unfold when the strategy gets tested\n\nFeaturing: Ken\n\nWould you actually risk your rank running this bizarre deck, or is it an instant loss?\n\n#shorts #clashroyale #gaming #ken #supercell #mobilegaming",
+              "tags": [
+                "Clash Royale",
+                "Ultimate Champion",
+                "Ken Clash Royale",
+                "Clash Royale Deck",
+                "Clash Royale Shorts",
+                "Custom Deck Strategy",
+                "Clash Royale Gameplay",
+                "Mobile Gaming",
+                "Supercell",
+                "Clash Royale Meta"
+              ],
+              "pinned_comment": "Be honest: would you actually trust this deck with 3 wins on the line, or are you immediately pressing surrender?",
+              "ab_variants": {
+                "A": {
+                  "angle": "Curiosity Gap",
+                  "title": "This deck shouldn't work in Ultimate Champion...",
+                  "description": "Three wins away from Ultimate Champion, and I cooked up something completely unhinged. You won't believe how this custom strategy actually holds up under pressure.\n\n\u2022 Discover a rogue custom deck built to surprise top-tier ladder opponents\n\u2022 See how to navigate intense matchups right on the edge of Ultimate Champion\n\u2022 Watch the inevitable, hilarious chaos unfold when the strategy gets tested\n\nFeaturing: Ken\n\nWould you actually risk your rank running this bizarre deck, or is it an instant loss?\n\n#shorts #clashroyale #gaming #ken #supercell #mobilegaming"
+                },
+                "B": {
+                  "angle": "Contrarian Truth",
+                  "title": "Stop using meta decks for Ultimate Champion",
+                  "description": "Everyone says you need standard meta decks to reach Ultimate Champion, but they are completely wrong. Watch how a wild, custom creation outsmarts the standard playbook.\n\n\u2022 Break away from boring meta strategies with a totally fresh approach\n\u2022 Learn how to punish predictable opponent plays with unexpected card combos\n\u2022 Witness the exact moment a genius prediction goes horribly, hilariously wrong\n\nFeaturing: Ken\n\nAre off-meta custom decks actually better than standard meta lists, or is this pure luck?\n\n#shorts #clashroyale #gaming #ken #supercell #mobilegaming"
+                },
+                "C": {
+                  "angle": "Actionable Protocol",
+                  "title": "The exact deck to beat Ultimate Champion today",
+                  "description": "Need three wins to secure Ultimate Champion? Here is the exact custom deck blueprint I cooked up to tackle the hardest ladder matches in the game right now.\n\n\u2022 Step-by-step breakdown of a high-stakes custom ladder strategy\n\u2022 Key positioning tips to survive against top-tier meta threats\n\u2022 Master the art of the ultimate prediction play before you crash out\n\nFeaturing: Ken\n\nWhat is the absolute worst card you would swap out of this custom list?\n\n#shorts #clashroyale #gaming #ken #supercell #mobilegaming"
+                }
+              },
+              "active_variant": "A",
+              "test_status": "ACTIVE_TEST",
+              "variant_history": [
+                {
+                  "variant": "A",
+                  "title": "This deck shouldn't work in Ultimate Champion...",
+                  "deployed_at": 1792459926.0892859,
                   "reason": "Initial A/B test deployment"
                 }
               ],
@@ -5750,17 +5819,17 @@
     },
     "PUBLISHER": {
       "status": "working",
-      "current_task": "Short SCHEDULED on YouTube: mrG9jdRdbd4 (11:30 AM ET (Wed, Oct 21))",
+      "current_task": "Short SCHEDULED on YouTube: -ZMXI6V0aWY (04:30 PM ET (Wed, Oct 21))",
       "last_completed_task": "Uploaded all 3 initial Clash Royale gaming cuts to YouTube (kenclipsburger420)",
       "recent_logs": [
-        "[13:03:02] Deploying to YouTube (@kenclipsburger420) for release 11:30 AM ET (Tue, Oct 20)...",
-        "[13:03:08] Short SCHEDULED on YouTube: mn2b9SbHoe0 (11:30 AM ET (Tue, Oct 20))",
-        "[16:32:46] Generating gaming A/B metadata for slot: 09:30 PM ET (Tue, Oct 20)...",
         "[16:32:52] Deploying to YouTube (@kenclipsburger420) for release 09:30 PM ET (Tue, Oct 20)...",
         "[16:32:57] Short SCHEDULED on YouTube: mOQWrknmk7U (09:30 PM ET (Tue, Oct 20))",
         "[19:32:48] Generating gaming A/B metadata for slot: 11:30 AM ET (Wed, Oct 21)...",
         "[19:32:57] Deploying to YouTube (@kenclipsburger420) for release 11:30 AM ET (Wed, Oct 21)...",
-        "[19:33:42] Short SCHEDULED on YouTube: mrG9jdRdbd4 (11:30 AM ET (Wed, Oct 21))"
+        "[19:33:42] Short SCHEDULED on YouTube: mrG9jdRdbd4 (11:30 AM ET (Wed, Oct 21))",
+        "[21:31:54] Generating gaming A/B metadata for slot: 04:30 PM ET (Wed, Oct 21)...",
+        "[21:32:06] Deploying to YouTube (@kenclipsburger420) for release 04:30 PM ET (Wed, Oct 21)...",
+        "[21:32:18] Short SCHEDULED on YouTube: -ZMXI6V0aWY (04:30 PM ET (Wed, Oct 21))"
       ]
     },
     "ANALYST": {
@@ -5850,17 +5919,6 @@
         "duration": 1113,
         "status": "FAILED_DOWNLOAD",
         "added_at": "2026-10-17T04:48:12Z"
-      },
-      {
-        "id": "ken_1792411394_0",
-        "creator": "Ken",
-        "title": "new balance changes [Highlight]",
-        "source_title": "new balance changes",
-        "url": "https://www.youtube.com/watch?v=efXvyv0t4Yo",
-        "section": "*60-240",
-        "duration": 857,
-        "status": "PROCESSING",
-        "added_at": "2026-10-19T12:03:14Z"
       },
       {
         "id": "ken_1792411394_1",
@@ -6236,6 +6294,19 @@
         "added_at": "2026-10-18T10:11:18Z",
         "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792318278_2_master.mp4",
         "youtube_video_id": "mrG9jdRdbd4"
+      },
+      {
+        "id": "ken_1792411394_0",
+        "creator": "Ken",
+        "title": "new balance changes [Highlight]",
+        "source_title": "new balance changes",
+        "url": "https://www.youtube.com/watch?v=efXvyv0t4Yo",
+        "section": "*60-240",
+        "duration": 857,
+        "status": "COMPLETED",
+        "added_at": "2026-10-19T12:03:14Z",
+        "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792411394_0_master.mp4",
+        "youtube_video_id": "-ZMXI6V0aWY"
       }
     ]
   },
@@ -6758,6 +6829,73 @@
               "variant": "A",
               "title": "Never trust a 'Good Luck' in Clash Royale...",
               "deployed_at": 1792452777.029142,
+              "reason": "Initial A/B test deployment"
+            }
+          ],
+          "metrics": {
+            "views": 0,
+            "likes": 0,
+            "comments": 0,
+            "retention": 0.0,
+            "ctr": 0.0
+          }
+        },
+        "reframed": "gaming_split"
+      },
+      {
+        "id": "ken_1792411394_0",
+        "source_video": "new balance changes [Highlight]",
+        "creator": "Ken",
+        "title": "This deck shouldn't work in Ultimate Champion...",
+        "publish_at": "2026-10-21T20:30:00Z",
+        "status": "SCHEDULED",
+        "uploaded": true,
+        "youtube_video_id": "-ZMXI6V0aWY",
+        "youtube_url": "https://www.youtube.com/shorts/-ZMXI6V0aWY",
+        "video_file": "ken_1792411394_0_master.mp4",
+        "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792411394_0_master.mp4",
+        "duration": 24.13,
+        "hook_summary": "The creator showcases a custom Clash Royale deck that is three wins away from Ultimate Champion, finishing with a hilariously detailed prediction of crashing out.",
+        "metadata": {
+          "title": "This deck shouldn't work in Ultimate Champion...",
+          "description": "Three wins away from Ultimate Champion, and I cooked up something completely unhinged. You won't believe how this custom strategy actually holds up under pressure.\n\n\u2022 Discover a rogue custom deck built to surprise top-tier ladder opponents\n\u2022 See how to navigate intense matchups right on the edge of Ultimate Champion\n\u2022 Watch the inevitable, hilarious chaos unfold when the strategy gets tested\n\nFeaturing: Ken\n\nWould you actually risk your rank running this bizarre deck, or is it an instant loss?\n\n#shorts #clashroyale #gaming #ken #supercell #mobilegaming",
+          "tags": [
+            "Clash Royale",
+            "Ultimate Champion",
+            "Ken Clash Royale",
+            "Clash Royale Deck",
+            "Clash Royale Shorts",
+            "Custom Deck Strategy",
+            "Clash Royale Gameplay",
+            "Mobile Gaming",
+            "Supercell",
+            "Clash Royale Meta"
+          ],
+          "pinned_comment": "Be honest: would you actually trust this deck with 3 wins on the line, or are you immediately pressing surrender?",
+          "ab_variants": {
+            "A": {
+              "angle": "Curiosity Gap",
+              "title": "This deck shouldn't work in Ultimate Champion...",
+              "description": "Three wins away from Ultimate Champion, and I cooked up something completely unhinged. You won't believe how this custom strategy actually holds up under pressure.\n\n\u2022 Discover a rogue custom deck built to surprise top-tier ladder opponents\n\u2022 See how to navigate intense matchups right on the edge of Ultimate Champion\n\u2022 Watch the inevitable, hilarious chaos unfold when the strategy gets tested\n\nFeaturing: Ken\n\nWould you actually risk your rank running this bizarre deck, or is it an instant loss?\n\n#shorts #clashroyale #gaming #ken #supercell #mobilegaming"
+            },
+            "B": {
+              "angle": "Contrarian Truth",
+              "title": "Stop using meta decks for Ultimate Champion",
+              "description": "Everyone says you need standard meta decks to reach Ultimate Champion, but they are completely wrong. Watch how a wild, custom creation outsmarts the standard playbook.\n\n\u2022 Break away from boring meta strategies with a totally fresh approach\n\u2022 Learn how to punish predictable opponent plays with unexpected card combos\n\u2022 Witness the exact moment a genius prediction goes horribly, hilariously wrong\n\nFeaturing: Ken\n\nAre off-meta custom decks actually better than standard meta lists, or is this pure luck?\n\n#shorts #clashroyale #gaming #ken #supercell #mobilegaming"
+            },
+            "C": {
+              "angle": "Actionable Protocol",
+              "title": "The exact deck to beat Ultimate Champion today",
+              "description": "Need three wins to secure Ultimate Champion? Here is the exact custom deck blueprint I cooked up to tackle the hardest ladder matches in the game right now.\n\n\u2022 Step-by-step breakdown of a high-stakes custom ladder strategy\n\u2022 Key positioning tips to survive against top-tier meta threats\n\u2022 Master the art of the ultimate prediction play before you crash out\n\nFeaturing: Ken\n\nWhat is the absolute worst card you would swap out of this custom list?\n\n#shorts #clashroyale #gaming #ken #supercell #mobilegaming"
+            }
+          },
+          "active_variant": "A",
+          "test_status": "ACTIVE_TEST",
+          "variant_history": [
+            {
+              "variant": "A",
+              "title": "This deck shouldn't work in Ultimate Champion...",
+              "deployed_at": 1792459926.0892859,
               "reason": "Initial A/B test deployment"
             }
           ],

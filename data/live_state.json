@@ -1,6 +1,6 @@
 {
-  "timestamp": 1792535611.7213252,
-  "sync_time_iso": "2026-10-20T22:33:31Z",
+  "timestamp": 1792535673.5614238,
+  "sync_time_iso": "2026-10-20T22:34:33Z",
   "default_channel": "ken_clips_burger",
   "channels": {
     "ken_clips_burger": {
@@ -97,14 +97,14 @@
           "current_task": "Queue up to date. Waiting for next daily Ken upload.",
           "last_completed_task": "Ingested 5 recent Ken master videos into source pool",
           "recent_logs": [
-            "[18:23:18] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
-            "[18:23:30] Queue up to date. Waiting for next daily Ken upload.",
             "[18:25:32] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
             "[18:25:45] Queue up to date. Waiting for next daily Ken upload.",
             "[18:26:46] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
             "[18:26:57] Queue up to date. Waiting for next daily Ken upload.",
             "[18:30:26] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
-            "[18:30:39] Queue up to date. Waiting for next daily Ken upload."
+            "[18:30:39] Queue up to date. Waiting for next daily Ken upload.",
+            "[18:34:09] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
+            "[18:34:20] Queue up to date. Waiting for next daily Ken upload."
           ]
         },
         "STRATEGIST": {
@@ -127,14 +127,14 @@
           "current_task": "Rendering gaming_split Short with captions: new balance changes [Clutch Mo",
           "last_completed_task": "Rendered 'hp buffed' rage highlight with kinetic pop captions & commentary",
           "recent_logs": [
-            "[12:11:19] Rendering gaming_split Short with captions: welcome to hell [Clutch Moment",
-            "[12:15:24] Downloading highlight segment (*540-720) for: welcome to hell [Overtime Battle]...",
             "[12:15:28] Rendering gaming_split Short with captions: welcome to hell [Overtime Batt",
             "[18:25:46] Rendering gaming_split Short with captions: welcome to hell [Overtime Batt",
             "[18:26:57] Downloading 1080p highlight segment (*300-480) for: welcome to hell [Clutch Moment]...",
             "[18:27:06] Rendering gaming_split Short with captions: welcome to hell [Clutch Moment",
             "[18:30:39] Downloading 1080p highlight segment (*300-480) for: new balance changes [Clutch Moment]...",
-            "[18:30:52] Rendering gaming_split Short with captions: new balance changes [Clutch Mo"
+            "[18:30:52] Rendering gaming_split Short with captions: new balance changes [Clutch Mo",
+            "[18:34:21] Downloading 1080p highlight segment (*300-480) for: new balance changes [Clutch Moment]...",
+            "[18:34:32] Rendering gaming_split Short with captions: new balance changes [Clutch Mo"
           ]
         },
         "COMMENTATOR": {
@@ -332,10 +332,62 @@
             "source_title": "new balance changes",
             "url": "https://www.youtube.com/watch?v=efXvyv0t4Yo",
             "section": "*300-480",
-            "duration": 857,
-            "status": "PROCESSING",
+            "duration": 30.09,
+            "status": "REMASTERED_READY_TO_SCHEDULE",
             "added_at": "2026-10-19T12:03:14Z",
-            "youtube_video_id": null
+            "youtube_video_id": null,
+            "remastered_output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/remastered/ken_1792411394_1_remaster_1080p.mp4",
+            "metadata": {
+              "title": "This 1 HP Goblin Giant play shouldn't be legal...",
+              "description": "Surviving a devastating lightning spell with just 1 HP on an Evolution Goblin Giant feels impossible, but this insane clutch changes everything. Watch how a last-second defense turns into an absolute win.\n\n\u2022 Master the art of the defensive freeze to salvage a doomed push\n\u2022 Learn exact timing for the Log to wipe out supporting counters\n\u2022 Turn a game-ending spell disaster into a miraculous comeback\n\nFeaturing: Ken\n\nWould you have panicked and given up when the lightning hit, or could you pull this off?\n\n#shorts #clashroyale #gaming #ken #supercell #clashroyaleshorts",
+              "tags": [
+                "Clash Royale",
+                "Ken Clash Royale",
+                "Evo Goblin Giant",
+                "Clash Royale funny moments",
+                "Clash Royale clutch",
+                "Clash Royale gameplay",
+                "Clash Royale Shorts",
+                "Supercell",
+                "Mobile Gaming"
+              ],
+              "pinned_comment": "Be honest: if your Evo Goblin Giant dropped to 1 HP right in front of the king tower, would you have alt-f4'd or clutched up like Ken?",
+              "ab_variants": {
+                "A": {
+                  "angle": "Curiosity Gap",
+                  "title": "This 1 HP Goblin Giant play shouldn't be legal...",
+                  "description": "Surviving a devastating lightning spell with just 1 HP on an Evolution Goblin Giant feels impossible, but this insane clutch changes everything. Watch how a last-second defense turns into an absolute win.\n\n\u2022 Master the art of the defensive freeze to salvage a doomed push\n\u2022 Learn exact timing for the Log to wipe out supporting counters\n\u2022 Turn a game-ending spell disaster into a miraculous comeback\n\nFeaturing: Ken\n\nWould you have panicked and given up when the lightning hit, or could you pull this off?\n\n#shorts #clashroyale #gaming #ken #supercell #clashroyaleshorts"
+                },
+                "B": {
+                  "angle": "Contrarian Truth",
+                  "title": "Why lightning spells actually throw games",
+                  "description": "Everyone thinks a lightning spell guarantees a shutdown against heavy pushes, but relying on it can lead to the most embarrassing mistakes in Clash Royale history. See how one misplaced spell costs the match.\n\n\u2022 Exposing the hidden vulnerabilities of meta spell placements\n\u2022 Capitalizing on opponent overconfidence after a massive spell hit\n\u2022 Capitalizing on panic plays to steal an unearned three-crown\n\nFeaturing: Ken\n\nIs lightning the most overrated spell in the current meta, or was this just a massive skill issue?\n\n#shorts #clashroyale #gaming #ken #clashroyaleclips #mobilegaming"
+                },
+                "C": {
+                  "angle": "Actionable Protocol",
+                  "title": "How to clutch with 1 HP Evo Goblin Giant",
+                  "description": "Stop losing matches when your opponent counters your win condition. This step-by-step clutch breakdown proves that a 1 HP Evo Goblin Giant is still enough to take the tower if you execute this precise sequence.\n\n\u2022 Step 1: Absorb the heavy spell damage without losing your composure\n\u2022 Step 2: Deploy Freeze to completely stall the counter-attack\n\u2022 Step 3: Clear the lane with a perfectly timed Log to secure the crown\n\nFeaturing: Ken\n\nWhat is your go-to play when your main push gets completely zapped out of nowhere?\n\n#shorts #clashroyale #gaming #ken #supercell #strategy"
+                }
+              },
+              "active_variant": "A",
+              "test_status": "ACTIVE_TEST",
+              "variant_history": [
+                {
+                  "variant": "A",
+                  "title": "This 1 HP Goblin Giant play shouldn't be legal...",
+                  "deployed_at": 1792535672.2237802,
+                  "reason": "Initial A/B test deployment"
+                }
+              ],
+              "metrics": {
+                "views": 0,
+                "likes": 0,
+                "comments": 0,
+                "retention": 0.0,
+                "ctr": 0.0
+              }
+            },
+            "hook_summary": "After an unexpected lightning spell leaves his Evo Goblin Giant on 1 HP, the player pulls off a game-winning freeze and log play."
           },
           {
             "id": "ken_1792411394_0",
@@ -5721,14 +5773,14 @@
       "current_task": "Queue up to date. Waiting for next daily Ken upload.",
       "last_completed_task": "Ingested 5 recent Ken master videos into source pool",
       "recent_logs": [
-        "[18:23:18] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
-        "[18:23:30] Queue up to date. Waiting for next daily Ken upload.",
         "[18:25:32] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
         "[18:25:45] Queue up to date. Waiting for next daily Ken upload.",
         "[18:26:46] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
         "[18:26:57] Queue up to date. Waiting for next daily Ken upload.",
         "[18:30:26] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
-        "[18:30:39] Queue up to date. Waiting for next daily Ken upload."
+        "[18:30:39] Queue up to date. Waiting for next daily Ken upload.",
+        "[18:34:09] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
+        "[18:34:20] Queue up to date. Waiting for next daily Ken upload."
       ]
     },
     "STRATEGIST": {
@@ -5751,14 +5803,14 @@
       "current_task": "Rendering gaming_split Short with captions: new balance changes [Clutch Mo",
       "last_completed_task": "Rendered 'hp buffed' rage highlight with kinetic pop captions & commentary",
       "recent_logs": [
-        "[12:11:19] Rendering gaming_split Short with captions: welcome to hell [Clutch Moment",
-        "[12:15:24] Downloading highlight segment (*540-720) for: welcome to hell [Overtime Battle]...",
         "[12:15:28] Rendering gaming_split Short with captions: welcome to hell [Overtime Batt",
         "[18:25:46] Rendering gaming_split Short with captions: welcome to hell [Overtime Batt",
         "[18:26:57] Downloading 1080p highlight segment (*300-480) for: welcome to hell [Clutch Moment]...",
         "[18:27:06] Rendering gaming_split Short with captions: welcome to hell [Clutch Moment",
         "[18:30:39] Downloading 1080p highlight segment (*300-480) for: new balance changes [Clutch Moment]...",
-        "[18:30:52] Rendering gaming_split Short with captions: new balance changes [Clutch Mo"
+        "[18:30:52] Rendering gaming_split Short with captions: new balance changes [Clutch Mo",
+        "[18:34:21] Downloading 1080p highlight segment (*300-480) for: new balance changes [Clutch Moment]...",
+        "[18:34:32] Rendering gaming_split Short with captions: new balance changes [Clutch Mo"
       ]
     },
     "COMMENTATOR": {
@@ -5956,10 +6008,62 @@
         "source_title": "new balance changes",
         "url": "https://www.youtube.com/watch?v=efXvyv0t4Yo",
         "section": "*300-480",
-        "duration": 857,
-        "status": "PROCESSING",
+        "duration": 30.09,
+        "status": "REMASTERED_READY_TO_SCHEDULE",
         "added_at": "2026-10-19T12:03:14Z",
-        "youtube_video_id": null
+        "youtube_video_id": null,
+        "remastered_output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/remastered/ken_1792411394_1_remaster_1080p.mp4",
+        "metadata": {
+          "title": "This 1 HP Goblin Giant play shouldn't be legal...",
+          "description": "Surviving a devastating lightning spell with just 1 HP on an Evolution Goblin Giant feels impossible, but this insane clutch changes everything. Watch how a last-second defense turns into an absolute win.\n\n\u2022 Master the art of the defensive freeze to salvage a doomed push\n\u2022 Learn exact timing for the Log to wipe out supporting counters\n\u2022 Turn a game-ending spell disaster into a miraculous comeback\n\nFeaturing: Ken\n\nWould you have panicked and given up when the lightning hit, or could you pull this off?\n\n#shorts #clashroyale #gaming #ken #supercell #clashroyaleshorts",
+          "tags": [
+            "Clash Royale",
+            "Ken Clash Royale",
+            "Evo Goblin Giant",
+            "Clash Royale funny moments",
+            "Clash Royale clutch",
+            "Clash Royale gameplay",
+            "Clash Royale Shorts",
+            "Supercell",
+            "Mobile Gaming"
+          ],
+          "pinned_comment": "Be honest: if your Evo Goblin Giant dropped to 1 HP right in front of the king tower, would you have alt-f4'd or clutched up like Ken?",
+          "ab_variants": {
+            "A": {
+              "angle": "Curiosity Gap",
+              "title": "This 1 HP Goblin Giant play shouldn't be legal...",
+              "description": "Surviving a devastating lightning spell with just 1 HP on an Evolution Goblin Giant feels impossible, but this insane clutch changes everything. Watch how a last-second defense turns into an absolute win.\n\n\u2022 Master the art of the defensive freeze to salvage a doomed push\n\u2022 Learn exact timing for the Log to wipe out supporting counters\n\u2022 Turn a game-ending spell disaster into a miraculous comeback\n\nFeaturing: Ken\n\nWould you have panicked and given up when the lightning hit, or could you pull this off?\n\n#shorts #clashroyale #gaming #ken #supercell #clashroyaleshorts"
+            },
+            "B": {
+              "angle": "Contrarian Truth",
+              "title": "Why lightning spells actually throw games",
+              "description": "Everyone thinks a lightning spell guarantees a shutdown against heavy pushes, but relying on it can lead to the most embarrassing mistakes in Clash Royale history. See how one misplaced spell costs the match.\n\n\u2022 Exposing the hidden vulnerabilities of meta spell placements\n\u2022 Capitalizing on opponent overconfidence after a massive spell hit\n\u2022 Capitalizing on panic plays to steal an unearned three-crown\n\nFeaturing: Ken\n\nIs lightning the most overrated spell in the current meta, or was this just a massive skill issue?\n\n#shorts #clashroyale #gaming #ken #clashroyaleclips #mobilegaming"
+            },
+            "C": {
+              "angle": "Actionable Protocol",
+              "title": "How to clutch with 1 HP Evo Goblin Giant",
+              "description": "Stop losing matches when your opponent counters your win condition. This step-by-step clutch breakdown proves that a 1 HP Evo Goblin Giant is still enough to take the tower if you execute this precise sequence.\n\n\u2022 Step 1: Absorb the heavy spell damage without losing your composure\n\u2022 Step 2: Deploy Freeze to completely stall the counter-attack\n\u2022 Step 3: Clear the lane with a perfectly timed Log to secure the crown\n\nFeaturing: Ken\n\nWhat is your go-to play when your main push gets completely zapped out of nowhere?\n\n#shorts #clashroyale #gaming #ken #supercell #strategy"
+            }
+          },
+          "active_variant": "A",
+          "test_status": "ACTIVE_TEST",
+          "variant_history": [
+            {
+              "variant": "A",
+              "title": "This 1 HP Goblin Giant play shouldn't be legal...",
+              "deployed_at": 1792535672.2237802,
+              "reason": "Initial A/B test deployment"
+            }
+          ],
+          "metrics": {
+            "views": 0,
+            "likes": 0,
+            "comments": 0,
+            "retention": 0.0,
+            "ctr": 0.0
+          }
+        },
+        "hook_summary": "After an unexpected lightning spell leaves his Evo Goblin Giant on 1 HP, the player pulls off a game-winning freeze and log play."
       },
       {
         "id": "ken_1792411394_0",

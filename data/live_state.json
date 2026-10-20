@@ -1,6 +1,6 @@
 {
-  "timestamp": 1792531831.1661282,
-  "sync_time_iso": "2026-10-20T21:30:31Z",
+  "timestamp": 1792531898.818466,
+  "sync_time_iso": "2026-10-20T21:31:38Z",
   "default_channel": "ken_clips_burger",
   "channels": {
     "ken_clips_burger": {
@@ -93,17 +93,17 @@
       "agents": {
         "SCOUT": {
           "status": "working",
-          "current_task": "Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
+          "current_task": "Queue up to date. Waiting for next daily Ken upload.",
           "last_completed_task": "Ingested 5 recent Ken master videos into source pool",
           "recent_logs": [
-            "[17:21:28] Queue up to date. Waiting for next daily Ken upload.",
             "[17:23:30] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
             "[17:23:41] Queue up to date. Waiting for next daily Ken upload.",
             "[17:25:44] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
             "[17:25:55] Queue up to date. Waiting for next daily Ken upload.",
             "[17:27:57] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
             "[17:28:11] Queue up to date. Waiting for next daily Ken upload.",
-            "[17:30:14] Scanning @kenforrest YouTube feed for latest Clash Royale uploads..."
+            "[17:30:14] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
+            "[17:31:04] Queue up to date. Waiting for next daily Ken upload."
           ]
         },
         "STRATEGIST": {
@@ -111,14 +111,14 @@
           "current_task": "No queued Ken candidates ready. Waiting for SCOUT.",
           "last_completed_task": "Mapped 3 distinct viral gaming hook angles for initial drops",
           "recent_logs": [
-            "[17:12:30] No queued Ken candidates ready. Waiting for SCOUT.",
             "[17:14:44] No queued Ken candidates ready. Waiting for SCOUT.",
             "[17:16:59] No queued Ken candidates ready. Waiting for SCOUT.",
             "[17:19:14] No queued Ken candidates ready. Waiting for SCOUT.",
             "[17:21:28] No queued Ken candidates ready. Waiting for SCOUT.",
             "[17:23:41] No queued Ken candidates ready. Waiting for SCOUT.",
             "[17:25:55] No queued Ken candidates ready. Waiting for SCOUT.",
-            "[17:28:11] No queued Ken candidates ready. Waiting for SCOUT."
+            "[17:28:11] No queued Ken candidates ready. Waiting for SCOUT.",
+            "[17:31:04] No queued Ken candidates ready. Waiting for SCOUT."
           ]
         },
         "EDITOR": {
@@ -162,17 +162,17 @@
         },
         "ANALYST": {
           "status": "working",
-          "current_task": "Telemetry Audit: 21,728 views (30 shorts). Auto-pivoted 1 stalled title(s).",
+          "current_task": "Telemetry Audit: 21,733 views (30 shorts). Auto-pivoted 1 stalled title(s).",
           "last_completed_task": "Calibrated gaming threshold: >15 views/hr within 4h",
           "recent_logs": [
-            "[17:12:32] Telemetry Audit: 21,628 views (30 shorts). Auto-pivoted 1 stalled title(s).",
             "[17:14:46] Telemetry Audit: 21,631 views (30 shorts). Auto-pivoted 1 stalled title(s).",
             "[17:17:01] Telemetry Audit: 21,652 views (30 shorts). Auto-pivoted 1 stalled title(s).",
             "[17:19:16] Telemetry Audit: 21,660 views (30 shorts). Auto-pivoted 1 stalled title(s).",
             "[17:21:30] Telemetry Audit: 21,668 views (30 shorts). Auto-pivoted 1 stalled title(s).",
             "[17:23:44] Telemetry Audit: 21,679 views (30 shorts). Auto-pivoted 1 stalled title(s).",
             "[17:25:57] Telemetry Audit: 21,719 views (30 shorts). Auto-pivoted 1 stalled title(s).",
-            "[17:28:13] Telemetry Audit: 21,728 views (30 shorts). Auto-pivoted 1 stalled title(s)."
+            "[17:28:13] Telemetry Audit: 21,728 views (30 shorts). Auto-pivoted 1 stalled title(s).",
+            "[17:31:05] Telemetry Audit: 21,733 views (30 shorts). Auto-pivoted 1 stalled title(s)."
           ]
         },
         "WATCHDOG": {
@@ -180,14 +180,14 @@
           "current_task": "Verifying Supercell fan policy: 0 claims, 0 strikes.",
           "last_completed_task": "Audited source parameters: strictly <30s segment rule active",
           "recent_logs": [
-            "[17:12:32] Verifying Supercell fan policy: 0 claims, 0 strikes.",
             "[17:14:46] Verifying Supercell fan policy: 0 claims, 0 strikes.",
             "[17:17:01] Verifying Supercell fan policy: 0 claims, 0 strikes.",
             "[17:19:16] Verifying Supercell fan policy: 0 claims, 0 strikes.",
             "[17:21:30] Verifying Supercell fan policy: 0 claims, 0 strikes.",
             "[17:23:44] Verifying Supercell fan policy: 0 claims, 0 strikes.",
             "[17:25:57] Verifying Supercell fan policy: 0 claims, 0 strikes.",
-            "[17:28:13] Verifying Supercell fan policy: 0 claims, 0 strikes."
+            "[17:28:13] Verifying Supercell fan policy: 0 claims, 0 strikes.",
+            "[17:31:05] Verifying Supercell fan policy: 0 claims, 0 strikes."
           ]
         }
       },
@@ -1205,13 +1205,13 @@
                 }
               ],
               "metrics": {
-                "views": 158,
-                "likes": 0,
+                "views": 160,
+                "likes": 1,
                 "comments": 0,
                 "retention": 0.0,
                 "ctr": 0.0,
-                "velocity_vph": 163.19,
-                "engagement_pct": 0.0
+                "velocity_vph": 157.47,
+                "engagement_pct": 0.62
               }
             },
             "reframed": "gaming_split"
@@ -1273,13 +1273,13 @@
                 }
               ],
               "metrics": {
-                "views": 595,
+                "views": 614,
                 "likes": 9,
                 "comments": 0,
                 "retention": 0.0,
                 "ctr": 0.0,
-                "velocity_vph": 133.18,
-                "engagement_pct": 1.51
+                "velocity_vph": 135.98,
+                "engagement_pct": 1.47
               }
             },
             "reframed": "gaming_split"
@@ -1346,7 +1346,7 @@
                 "comments": 0,
                 "retention": 0.0,
                 "ctr": 0.0,
-                "velocity_vph": 31.19,
+                "velocity_vph": 30.95,
                 "engagement_pct": 1.61
               }
             },
@@ -1414,7 +1414,7 @@
                 "comments": 0,
                 "retention": 0.0,
                 "ctr": 0.0,
-                "velocity_vph": 17.81,
+                "velocity_vph": 17.7,
                 "engagement_pct": 0.75
               }
             },
@@ -1478,12 +1478,12 @@
                 }
               ],
               "metrics": {
-                "views": 194,
+                "views": 195,
                 "likes": 2,
                 "comments": 0,
                 "retention": 0.0,
                 "ctr": 0.0,
-                "velocity_vph": 10.1,
+                "velocity_vph": 10.12,
                 "engagement_pct": 1.03
               }
             },
@@ -1551,7 +1551,7 @@
                 "comments": 0,
                 "retention": 0.0,
                 "ctr": 0.0,
-                "velocity_vph": 17.78,
+                "velocity_vph": 17.74,
                 "engagement_pct": 0.28
               }
             },
@@ -1619,7 +1619,7 @@
                 "comments": 0,
                 "retention": 0.0,
                 "ctr": 0.0,
-                "velocity_vph": 17.89,
+                "velocity_vph": 17.85,
                 "engagement_pct": 2.8
               }
             },
@@ -1687,7 +1687,7 @@
                 "comments": 0,
                 "retention": 0.0,
                 "ctr": 0.0,
-                "velocity_vph": 10.94,
+                "velocity_vph": 10.91,
                 "engagement_pct": 0.37
               }
             },
@@ -1697,7 +1697,7 @@
             "id": "ken_1792212492_9",
             "source_video": "least busted card [Clutch Moment]",
             "creator": "Ken",
-            "title": "Stop Doing This With Your Elixir",
+            "title": "Why Chip Cycling Just Lost Its Power",
             "publish_at": "2026-10-19T17:00:00Z",
             "status": "PUBLISHED",
             "uploaded": true,
@@ -1708,8 +1708,8 @@
             "duration": 27.73,
             "hook_summary": "The creator makes a bold claim about why traditional chip cycle strategies are officially dead in the current meta.",
             "metadata": {
-              "title": "Stop Doing This With Your Elixir",
-              "description": "If you are still relying on minor tower chips to win, you are playing the game wrong. Ken shares the exact rule you need to follow to stop bleeding elixir in today's meta.\n\n\u2022 The new golden rule for elixir management\n\u2022 How to pivot away from outdated chip strategies\n\u2022 Building a push that actually overwhelms modern defenses\n\nFeaturing: Ken\n\nWhat is your go-to win condition if not chip damage?\n\n#shorts #ken #gaming #protips #clashroyale #elixir",
+              "title": "Why Chip Cycling Just Lost Its Power",
+              "description": "Most players are still wasting elixir on a strategy that the current meta has completely broken. Ken breaks down the exact reason why chipping the tower is a losing battle now.\n\n\u2022 Discover why traditional chip damage no longer wins games\n\u2022 The hidden shift in defensive meta you missed\n\u2022 How to adapt your strategy before your rank drops\n\nFeaturing: Ken\n\nAre you still trying to chip towers, or have you adapted to the new meta?\n\n#shorts #ken #clashroyale #gaming #strategy #metashift",
               "tags": [
                 "chip cycle",
                 "bridge spam",
@@ -1739,7 +1739,7 @@
                   "description": "If you are still relying on minor tower chips to win, you are playing the game wrong. Ken shares the exact rule you need to follow to stop bleeding elixir in today's meta.\n\n\u2022 The new golden rule for elixir management\n\u2022 How to pivot away from outdated chip strategies\n\u2022 Building a push that actually overwhelms modern defenses\n\nFeaturing: Ken\n\nWhat is your go-to win condition if not chip damage?\n\n#shorts #ken #gaming #protips #clashroyale #elixir"
                 }
               },
-              "active_variant": "C",
+              "active_variant": "A",
               "test_status": "ACTIVE_TEST",
               "variant_history": [
                 {
@@ -1823,7 +1823,7 @@
                 "comments": 0,
                 "retention": 0.0,
                 "ctr": 0.0,
-                "velocity_vph": 12.58,
+                "velocity_vph": 12.56,
                 "engagement_pct": 1.86
               }
             },
@@ -1886,13 +1886,13 @@
                 }
               ],
               "metrics": {
-                "views": 362,
+                "views": 359,
                 "likes": 4,
                 "comments": 0,
                 "retention": 0.0,
                 "ctr": 0.0,
-                "velocity_vph": 11.5,
-                "engagement_pct": 1.1
+                "velocity_vph": 11.39,
+                "engagement_pct": 1.11
               }
             },
             "reframed": "gaming_split"
@@ -1959,7 +1959,7 @@
                 "comments": 0,
                 "retention": 0.0,
                 "ctr": 0.0,
-                "velocity_vph": 25.54,
+                "velocity_vph": 25.52,
                 "engagement_pct": 1.09
               }
             },
@@ -2027,7 +2027,7 @@
                 "comments": 0,
                 "retention": 0.0,
                 "ctr": 0.0,
-                "velocity_vph": 26.83,
+                "velocity_vph": 26.8,
                 "engagement_pct": 0.97
               }
             },
@@ -2095,7 +2095,7 @@
                 "comments": 0,
                 "retention": 0.0,
                 "ctr": 0.0,
-                "velocity_vph": 23.86,
+                "velocity_vph": 23.83,
                 "engagement_pct": 0.94
               }
             },
@@ -2163,7 +2163,7 @@
                 "comments": 0,
                 "retention": 0.0,
                 "ctr": 0.0,
-                "velocity_vph": 6.29,
+                "velocity_vph": 6.28,
                 "engagement_pct": 1.52
               }
             },
@@ -2231,7 +2231,7 @@
                 "comments": 0,
                 "retention": 0.0,
                 "ctr": 0.0,
-                "velocity_vph": 23.12,
+                "velocity_vph": 23.1,
                 "engagement_pct": 0.94
               }
             },
@@ -2299,7 +2299,7 @@
                 "comments": 0,
                 "retention": 0.0,
                 "ctr": 0.0,
-                "velocity_vph": 7.8,
+                "velocity_vph": 7.79,
                 "engagement_pct": 1.34
               }
             },
@@ -2367,7 +2367,7 @@
                 "comments": 0,
                 "retention": 0.0,
                 "ctr": 0.0,
-                "velocity_vph": 8.25,
+                "velocity_vph": 8.24,
                 "engagement_pct": 1.21
               }
             },
@@ -2468,12 +2468,12 @@
                 }
               ],
               "metrics": {
-                "views": 1627,
+                "views": 1620,
                 "likes": 26,
                 "comments": 0,
                 "retention": 0.0,
                 "ctr": 0.0,
-                "velocity_vph": 21.28,
+                "velocity_vph": 21.17,
                 "engagement_pct": 1.6
               }
             },
@@ -2496,11 +2496,11 @@
             "reframed": "gaming_split",
             "metadata": {
               "metrics": {
-                "views": 1653,
+                "views": 1646,
                 "likes": 20,
                 "comments": 1,
-                "velocity_vph": 20.8,
-                "engagement_pct": 1.27
+                "velocity_vph": 20.7,
+                "engagement_pct": 1.28
               },
               "test_status": "WINNER_LOCKED"
             }
@@ -2568,7 +2568,7 @@
                 "comments": 1,
                 "retention": 0.0,
                 "ctr": 0.0,
-                "velocity_vph": 13.86,
+                "velocity_vph": 13.85,
                 "engagement_pct": 1.47
               }
             },
@@ -2637,7 +2637,7 @@
                 "comments": 1,
                 "retention": 0.0,
                 "ctr": 0.0,
-                "velocity_vph": 13.45,
+                "velocity_vph": 13.44,
                 "engagement_pct": 0.92
               }
             },
@@ -2705,7 +2705,7 @@
                 "comments": 1,
                 "retention": 0.0,
                 "ctr": 0.0,
-                "velocity_vph": 8.45,
+                "velocity_vph": 8.44,
                 "engagement_pct": 1.98
               }
             },
@@ -2773,7 +2773,7 @@
                 "comments": 2,
                 "retention": 0.0,
                 "ctr": 0.0,
-                "velocity_vph": 10.48,
+                "velocity_vph": 10.47,
                 "engagement_pct": 0.98
               }
             },
@@ -2838,7 +2838,7 @@
                 "comments": 3,
                 "retention": 0.0,
                 "ctr": 0.0,
-                "velocity_vph": 10.56,
+                "velocity_vph": 10.55,
                 "engagement_pct": 1.49
               }
             },
@@ -2907,7 +2907,7 @@
                 "comments": 1,
                 "retention": 0.0,
                 "ctr": 0.0,
-                "velocity_vph": 9.68,
+                "velocity_vph": 9.67,
                 "engagement_pct": 0.82
               }
             },
@@ -3054,86 +3054,86 @@
       },
       "analytics": {
         "summary": {
-          "total_views": 21728,
+          "total_views": 21733,
           "shorts_published": 0,
-          "total_likes": 254,
+          "total_likes": 255,
           "avg_retention_pct": 82.5,
           "avg_ctr_pct": 14.8,
           "total_subscribers_gained": 0,
           "estimated_revenue_usd": 0.0,
           "health_grade": "A+",
           "total_shorts_published": 30,
-          "last_audit": 1792531693.862957
+          "last_audit": 1792531865.972631
         },
         "top_shorts": [
           {
             "title": "The Evo E-Giant is actually unplayable (bad)",
             "creator": "Ken",
-            "views": 158,
-            "velocity": 163.19,
+            "views": 160,
+            "velocity": 157.47,
             "angle": "Contrarian Truth"
           },
           {
             "title": "This 1 Card Makes eGiant Unstoppable...",
             "creator": "Ken",
-            "views": 595,
-            "velocity": 133.18,
+            "views": 614,
+            "velocity": 135.98,
             "angle": "Curiosity Gap"
           },
           {
             "title": "Why this broken spam strategy actually works...",
             "creator": "Ken",
             "views": 186,
-            "velocity": 31.19,
+            "velocity": 30.95,
             "angle": "Curiosity Gap"
           },
           {
             "title": "Gaming rage isn't about the game at all.",
             "creator": "Ken",
             "views": 133,
-            "velocity": 17.81,
+            "velocity": 17.7,
             "angle": "Contrarian Truth"
           },
           {
             "title": "He actually said this in the lobby... \ud83d\udc80",
             "creator": "Ken",
-            "views": 194,
-            "velocity": 10.1,
+            "views": 195,
+            "velocity": 10.12,
             "angle": "Curiosity Gap"
           },
           {
             "title": "Why adults secretly act so boring...",
             "creator": "Ken",
             "views": 355,
-            "velocity": 17.78,
+            "velocity": 17.74,
             "angle": "Curiosity Gap"
           },
           {
             "title": "The illegal Evo Hunter trick nobody is using",
             "creator": "Ken",
             "views": 393,
-            "velocity": 17.89,
+            "velocity": 17.85,
             "angle": "Curiosity Gap"
           },
           {
             "title": "The Golden Rule of YouTube Comments",
             "creator": "Ken",
             "views": 273,
-            "velocity": 10.94,
+            "velocity": 10.91,
             "angle": "Actionable Protocol"
           },
           {
             "title": "He regret saying this immediately...",
             "creator": "Ken",
             "views": 377,
-            "velocity": 12.58,
+            "velocity": 12.56,
             "angle": "Curiosity Gap"
           },
           {
             "title": "Why the best deck ruins the game",
             "creator": "Ken",
-            "views": 362,
-            "velocity": 11.5,
+            "views": 359,
+            "velocity": 11.39,
             "angle": "Curiosity Gap"
           }
         ],
@@ -6016,17 +6016,17 @@
   "agents": {
     "SCOUT": {
       "status": "working",
-      "current_task": "Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
+      "current_task": "Queue up to date. Waiting for next daily Ken upload.",
       "last_completed_task": "Ingested 5 recent Ken master videos into source pool",
       "recent_logs": [
-        "[17:21:28] Queue up to date. Waiting for next daily Ken upload.",
         "[17:23:30] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
         "[17:23:41] Queue up to date. Waiting for next daily Ken upload.",
         "[17:25:44] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
         "[17:25:55] Queue up to date. Waiting for next daily Ken upload.",
         "[17:27:57] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
         "[17:28:11] Queue up to date. Waiting for next daily Ken upload.",
-        "[17:30:14] Scanning @kenforrest YouTube feed for latest Clash Royale uploads..."
+        "[17:30:14] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
+        "[17:31:04] Queue up to date. Waiting for next daily Ken upload."
       ]
     },
     "STRATEGIST": {
@@ -6034,14 +6034,14 @@
       "current_task": "No queued Ken candidates ready. Waiting for SCOUT.",
       "last_completed_task": "Mapped 3 distinct viral gaming hook angles for initial drops",
       "recent_logs": [
-        "[17:12:30] No queued Ken candidates ready. Waiting for SCOUT.",
         "[17:14:44] No queued Ken candidates ready. Waiting for SCOUT.",
         "[17:16:59] No queued Ken candidates ready. Waiting for SCOUT.",
         "[17:19:14] No queued Ken candidates ready. Waiting for SCOUT.",
         "[17:21:28] No queued Ken candidates ready. Waiting for SCOUT.",
         "[17:23:41] No queued Ken candidates ready. Waiting for SCOUT.",
         "[17:25:55] No queued Ken candidates ready. Waiting for SCOUT.",
-        "[17:28:11] No queued Ken candidates ready. Waiting for SCOUT."
+        "[17:28:11] No queued Ken candidates ready. Waiting for SCOUT.",
+        "[17:31:04] No queued Ken candidates ready. Waiting for SCOUT."
       ]
     },
     "EDITOR": {
@@ -6085,17 +6085,17 @@
     },
     "ANALYST": {
       "status": "working",
-      "current_task": "Telemetry Audit: 21,728 views (30 shorts). Auto-pivoted 1 stalled title(s).",
+      "current_task": "Telemetry Audit: 21,733 views (30 shorts). Auto-pivoted 1 stalled title(s).",
       "last_completed_task": "Calibrated gaming threshold: >15 views/hr within 4h",
       "recent_logs": [
-        "[17:12:32] Telemetry Audit: 21,628 views (30 shorts). Auto-pivoted 1 stalled title(s).",
         "[17:14:46] Telemetry Audit: 21,631 views (30 shorts). Auto-pivoted 1 stalled title(s).",
         "[17:17:01] Telemetry Audit: 21,652 views (30 shorts). Auto-pivoted 1 stalled title(s).",
         "[17:19:16] Telemetry Audit: 21,660 views (30 shorts). Auto-pivoted 1 stalled title(s).",
         "[17:21:30] Telemetry Audit: 21,668 views (30 shorts). Auto-pivoted 1 stalled title(s).",
         "[17:23:44] Telemetry Audit: 21,679 views (30 shorts). Auto-pivoted 1 stalled title(s).",
         "[17:25:57] Telemetry Audit: 21,719 views (30 shorts). Auto-pivoted 1 stalled title(s).",
-        "[17:28:13] Telemetry Audit: 21,728 views (30 shorts). Auto-pivoted 1 stalled title(s)."
+        "[17:28:13] Telemetry Audit: 21,728 views (30 shorts). Auto-pivoted 1 stalled title(s).",
+        "[17:31:05] Telemetry Audit: 21,733 views (30 shorts). Auto-pivoted 1 stalled title(s)."
       ]
     },
     "WATCHDOG": {
@@ -6103,14 +6103,14 @@
       "current_task": "Verifying Supercell fan policy: 0 claims, 0 strikes.",
       "last_completed_task": "Audited source parameters: strictly <30s segment rule active",
       "recent_logs": [
-        "[17:12:32] Verifying Supercell fan policy: 0 claims, 0 strikes.",
         "[17:14:46] Verifying Supercell fan policy: 0 claims, 0 strikes.",
         "[17:17:01] Verifying Supercell fan policy: 0 claims, 0 strikes.",
         "[17:19:16] Verifying Supercell fan policy: 0 claims, 0 strikes.",
         "[17:21:30] Verifying Supercell fan policy: 0 claims, 0 strikes.",
         "[17:23:44] Verifying Supercell fan policy: 0 claims, 0 strikes.",
         "[17:25:57] Verifying Supercell fan policy: 0 claims, 0 strikes.",
-        "[17:28:13] Verifying Supercell fan policy: 0 claims, 0 strikes."
+        "[17:28:13] Verifying Supercell fan policy: 0 claims, 0 strikes.",
+        "[17:31:05] Verifying Supercell fan policy: 0 claims, 0 strikes."
       ]
     }
   },
@@ -7128,13 +7128,13 @@
             }
           ],
           "metrics": {
-            "views": 158,
-            "likes": 0,
+            "views": 160,
+            "likes": 1,
             "comments": 0,
             "retention": 0.0,
             "ctr": 0.0,
-            "velocity_vph": 163.19,
-            "engagement_pct": 0.0
+            "velocity_vph": 157.47,
+            "engagement_pct": 0.62
           }
         },
         "reframed": "gaming_split"
@@ -7196,13 +7196,13 @@
             }
           ],
           "metrics": {
-            "views": 595,
+            "views": 614,
             "likes": 9,
             "comments": 0,
             "retention": 0.0,
             "ctr": 0.0,
-            "velocity_vph": 133.18,
-            "engagement_pct": 1.51
+            "velocity_vph": 135.98,
+            "engagement_pct": 1.47
           }
         },
         "reframed": "gaming_split"
@@ -7269,7 +7269,7 @@
             "comments": 0,
             "retention": 0.0,
             "ctr": 0.0,
-            "velocity_vph": 31.19,
+            "velocity_vph": 30.95,
             "engagement_pct": 1.61
           }
         },
@@ -7337,7 +7337,7 @@
             "comments": 0,
             "retention": 0.0,
             "ctr": 0.0,
-            "velocity_vph": 17.81,
+            "velocity_vph": 17.7,
             "engagement_pct": 0.75
           }
         },
@@ -7401,12 +7401,12 @@
             }
           ],
           "metrics": {
-            "views": 194,
+            "views": 195,
             "likes": 2,
             "comments": 0,
             "retention": 0.0,
             "ctr": 0.0,
-            "velocity_vph": 10.1,
+            "velocity_vph": 10.12,
             "engagement_pct": 1.03
           }
         },
@@ -7474,7 +7474,7 @@
             "comments": 0,
             "retention": 0.0,
             "ctr": 0.0,
-            "velocity_vph": 17.78,
+            "velocity_vph": 17.74,
             "engagement_pct": 0.28
           }
         },
@@ -7542,7 +7542,7 @@
             "comments": 0,
             "retention": 0.0,
             "ctr": 0.0,
-            "velocity_vph": 17.89,
+            "velocity_vph": 17.85,
             "engagement_pct": 2.8
           }
         },
@@ -7610,7 +7610,7 @@
             "comments": 0,
             "retention": 0.0,
             "ctr": 0.0,
-            "velocity_vph": 10.94,
+            "velocity_vph": 10.91,
             "engagement_pct": 0.37
           }
         },
@@ -7620,7 +7620,7 @@
         "id": "ken_1792212492_9",
         "source_video": "least busted card [Clutch Moment]",
         "creator": "Ken",
-        "title": "Stop Doing This With Your Elixir",
+        "title": "Why Chip Cycling Just Lost Its Power",
         "publish_at": "2026-10-19T17:00:00Z",
         "status": "PUBLISHED",
         "uploaded": true,
@@ -7631,8 +7631,8 @@
         "duration": 27.73,
         "hook_summary": "The creator makes a bold claim about why traditional chip cycle strategies are officially dead in the current meta.",
         "metadata": {
-          "title": "Stop Doing This With Your Elixir",
-          "description": "If you are still relying on minor tower chips to win, you are playing the game wrong. Ken shares the exact rule you need to follow to stop bleeding elixir in today's meta.\n\n\u2022 The new golden rule for elixir management\n\u2022 How to pivot away from outdated chip strategies\n\u2022 Building a push that actually overwhelms modern defenses\n\nFeaturing: Ken\n\nWhat is your go-to win condition if not chip damage?\n\n#shorts #ken #gaming #protips #clashroyale #elixir",
+          "title": "Why Chip Cycling Just Lost Its Power",
+          "description": "Most players are still wasting elixir on a strategy that the current meta has completely broken. Ken breaks down the exact reason why chipping the tower is a losing battle now.\n\n\u2022 Discover why traditional chip damage no longer wins games\n\u2022 The hidden shift in defensive meta you missed\n\u2022 How to adapt your strategy before your rank drops\n\nFeaturing: Ken\n\nAre you still trying to chip towers, or have you adapted to the new meta?\n\n#shorts #ken #clashroyale #gaming #strategy #metashift",
           "tags": [
             "chip cycle",
             "bridge spam",
@@ -7662,7 +7662,7 @@
               "description": "If you are still relying on minor tower chips to win, you are playing the game wrong. Ken shares the exact rule you need to follow to stop bleeding elixir in today's meta.\n\n\u2022 The new golden rule for elixir management\n\u2022 How to pivot away from outdated chip strategies\n\u2022 Building a push that actually overwhelms modern defenses\n\nFeaturing: Ken\n\nWhat is your go-to win condition if not chip damage?\n\n#shorts #ken #gaming #protips #clashroyale #elixir"
             }
           },
-          "active_variant": "C",
+          "active_variant": "A",
           "test_status": "ACTIVE_TEST",
           "variant_history": [
             {
@@ -7746,7 +7746,7 @@
             "comments": 0,
             "retention": 0.0,
             "ctr": 0.0,
-            "velocity_vph": 12.58,
+            "velocity_vph": 12.56,
             "engagement_pct": 1.86
           }
         },
@@ -7809,13 +7809,13 @@
             }
           ],
           "metrics": {
-            "views": 362,
+            "views": 359,
             "likes": 4,
             "comments": 0,
             "retention": 0.0,
             "ctr": 0.0,
-            "velocity_vph": 11.5,
-            "engagement_pct": 1.1
+            "velocity_vph": 11.39,
+            "engagement_pct": 1.11
           }
         },
         "reframed": "gaming_split"
@@ -7882,7 +7882,7 @@
             "comments": 0,
             "retention": 0.0,
             "ctr": 0.0,
-            "velocity_vph": 25.54,
+            "velocity_vph": 25.52,
             "engagement_pct": 1.09
           }
         },
@@ -7950,7 +7950,7 @@
             "comments": 0,
             "retention": 0.0,
             "ctr": 0.0,
-            "velocity_vph": 26.83,
+            "velocity_vph": 26.8,
             "engagement_pct": 0.97
           }
         },
@@ -8018,7 +8018,7 @@
             "comments": 0,
             "retention": 0.0,
             "ctr": 0.0,
-            "velocity_vph": 23.86,
+            "velocity_vph": 23.83,
             "engagement_pct": 0.94
           }
         },
@@ -8086,7 +8086,7 @@
             "comments": 0,
             "retention": 0.0,
             "ctr": 0.0,
-            "velocity_vph": 6.29,
+            "velocity_vph": 6.28,
             "engagement_pct": 1.52
           }
         },
@@ -8154,7 +8154,7 @@
             "comments": 0,
             "retention": 0.0,
             "ctr": 0.0,
-            "velocity_vph": 23.12,
+            "velocity_vph": 23.1,
             "engagement_pct": 0.94
           }
         },
@@ -8222,7 +8222,7 @@
             "comments": 0,
             "retention": 0.0,
             "ctr": 0.0,
-            "velocity_vph": 7.8,
+            "velocity_vph": 7.79,
             "engagement_pct": 1.34
           }
         },
@@ -8290,7 +8290,7 @@
             "comments": 0,
             "retention": 0.0,
             "ctr": 0.0,
-            "velocity_vph": 8.25,
+            "velocity_vph": 8.24,
             "engagement_pct": 1.21
           }
         },
@@ -8391,12 +8391,12 @@
             }
           ],
           "metrics": {
-            "views": 1627,
+            "views": 1620,
             "likes": 26,
             "comments": 0,
             "retention": 0.0,
             "ctr": 0.0,
-            "velocity_vph": 21.28,
+            "velocity_vph": 21.17,
             "engagement_pct": 1.6
           }
         },
@@ -8419,11 +8419,11 @@
         "reframed": "gaming_split",
         "metadata": {
           "metrics": {
-            "views": 1653,
+            "views": 1646,
             "likes": 20,
             "comments": 1,
-            "velocity_vph": 20.8,
-            "engagement_pct": 1.27
+            "velocity_vph": 20.7,
+            "engagement_pct": 1.28
           },
           "test_status": "WINNER_LOCKED"
         }
@@ -8491,7 +8491,7 @@
             "comments": 1,
             "retention": 0.0,
             "ctr": 0.0,
-            "velocity_vph": 13.86,
+            "velocity_vph": 13.85,
             "engagement_pct": 1.47
           }
         },
@@ -8560,7 +8560,7 @@
             "comments": 1,
             "retention": 0.0,
             "ctr": 0.0,
-            "velocity_vph": 13.45,
+            "velocity_vph": 13.44,
             "engagement_pct": 0.92
           }
         },
@@ -8628,7 +8628,7 @@
             "comments": 1,
             "retention": 0.0,
             "ctr": 0.0,
-            "velocity_vph": 8.45,
+            "velocity_vph": 8.44,
             "engagement_pct": 1.98
           }
         },
@@ -8696,7 +8696,7 @@
             "comments": 2,
             "retention": 0.0,
             "ctr": 0.0,
-            "velocity_vph": 10.48,
+            "velocity_vph": 10.47,
             "engagement_pct": 0.98
           }
         },
@@ -8761,7 +8761,7 @@
             "comments": 3,
             "retention": 0.0,
             "ctr": 0.0,
-            "velocity_vph": 10.56,
+            "velocity_vph": 10.55,
             "engagement_pct": 1.49
           }
         },
@@ -8830,7 +8830,7 @@
             "comments": 1,
             "retention": 0.0,
             "ctr": 0.0,
-            "velocity_vph": 9.68,
+            "velocity_vph": 9.67,
             "engagement_pct": 0.82
           }
         },
@@ -8977,86 +8977,86 @@
   },
   "analytics": {
     "summary": {
-      "total_views": 21728,
+      "total_views": 21733,
       "shorts_published": 0,
-      "total_likes": 254,
+      "total_likes": 255,
       "avg_retention_pct": 82.5,
       "avg_ctr_pct": 14.8,
       "total_subscribers_gained": 0,
       "estimated_revenue_usd": 0.0,
       "health_grade": "A+",
       "total_shorts_published": 30,
-      "last_audit": 1792531693.862957
+      "last_audit": 1792531865.972631
     },
     "top_shorts": [
       {
         "title": "The Evo E-Giant is actually unplayable (bad)",
         "creator": "Ken",
-        "views": 158,
-        "velocity": 163.19,
+        "views": 160,
+        "velocity": 157.47,
         "angle": "Contrarian Truth"
       },
       {
         "title": "This 1 Card Makes eGiant Unstoppable...",
         "creator": "Ken",
-        "views": 595,
-        "velocity": 133.18,
+        "views": 614,
+        "velocity": 135.98,
         "angle": "Curiosity Gap"
       },
       {
         "title": "Why this broken spam strategy actually works...",
         "creator": "Ken",
         "views": 186,
-        "velocity": 31.19,
+        "velocity": 30.95,
         "angle": "Curiosity Gap"
       },
       {
         "title": "Gaming rage isn't about the game at all.",
         "creator": "Ken",
         "views": 133,
-        "velocity": 17.81,
+        "velocity": 17.7,
         "angle": "Contrarian Truth"
       },
       {
         "title": "He actually said this in the lobby... \ud83d\udc80",
         "creator": "Ken",
-        "views": 194,
-        "velocity": 10.1,
+        "views": 195,
+        "velocity": 10.12,
         "angle": "Curiosity Gap"
       },
       {
         "title": "Why adults secretly act so boring...",
         "creator": "Ken",
         "views": 355,
-        "velocity": 17.78,
+        "velocity": 17.74,
         "angle": "Curiosity Gap"
       },
       {
         "title": "The illegal Evo Hunter trick nobody is using",
         "creator": "Ken",
         "views": 393,
-        "velocity": 17.89,
+        "velocity": 17.85,
         "angle": "Curiosity Gap"
       },
       {
         "title": "The Golden Rule of YouTube Comments",
         "creator": "Ken",
         "views": 273,
-        "velocity": 10.94,
+        "velocity": 10.91,
         "angle": "Actionable Protocol"
       },
       {
         "title": "He regret saying this immediately...",
         "creator": "Ken",
         "views": 377,
-        "velocity": 12.58,
+        "velocity": 12.56,
         "angle": "Curiosity Gap"
       },
       {
         "title": "Why the best deck ruins the game",
         "creator": "Ken",
-        "views": 362,
-        "velocity": 11.5,
+        "views": 359,
+        "velocity": 11.39,
         "angle": "Curiosity Gap"
       }
     ],

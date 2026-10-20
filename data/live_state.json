@@ -1,6 +1,6 @@
 {
-  "timestamp": 1792515714.714734,
-  "sync_time_iso": "2026-10-20T17:01:54Z",
+  "timestamp": 1792515776.400007,
+  "sync_time_iso": "2026-10-20T17:02:56Z",
   "default_channel": "ken_clips_burger",
   "channels": {
     "ken_clips_burger": {
@@ -93,32 +93,32 @@
       "agents": {
         "SCOUT": {
           "status": "working",
-          "current_task": "Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
+          "current_task": "Queue up to date. Waiting for next daily Ken upload.",
           "last_completed_task": "Ingested 5 recent Ken master videos into source pool",
           "recent_logs": [
-            "[12:53:08] Queue up to date. Waiting for next daily Ken upload.",
             "[12:55:10] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
             "[12:55:21] Queue up to date. Waiting for next daily Ken upload.",
             "[12:57:23] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
             "[12:57:36] Queue up to date. Waiting for next daily Ken upload.",
             "[12:59:38] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
             "[12:59:51] Queue up to date. Waiting for next daily Ken upload.",
-            "[13:01:53] Scanning @kenforrest YouTube feed for latest Clash Royale uploads..."
+            "[13:01:53] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
+            "[13:02:04] Queue up to date. Waiting for next daily Ken upload."
           ]
         },
         "STRATEGIST": {
           "status": "idle",
-          "current_task": "Buffer healthy: 9/9 scheduled Ken Shorts staged.",
+          "current_task": "No queued Ken candidates ready. Waiting for SCOUT.",
           "last_completed_task": "Mapped 3 distinct viral gaming hook angles for initial drops",
           "recent_logs": [
-            "[12:26:18] Buffer healthy: 9/9 scheduled Ken Shorts staged.",
             "[12:28:31] Buffer healthy: 9/9 scheduled Ken Shorts staged.",
             "[12:32:08] Buffer healthy: 9/9 scheduled Ken Shorts staged.",
             "[12:42:54] Buffer healthy: 9/9 scheduled Ken Shorts staged.",
             "[12:53:08] Buffer healthy: 9/9 scheduled Ken Shorts staged.",
             "[12:55:21] Buffer healthy: 9/9 scheduled Ken Shorts staged.",
             "[12:57:36] Buffer healthy: 9/9 scheduled Ken Shorts staged.",
-            "[12:59:51] Buffer healthy: 9/9 scheduled Ken Shorts staged."
+            "[12:59:51] Buffer healthy: 9/9 scheduled Ken Shorts staged.",
+            "[13:02:04] No queued Ken candidates ready. Waiting for SCOUT."
           ]
         },
         "EDITOR": {
@@ -162,17 +162,17 @@
         },
         "ANALYST": {
           "status": "working",
-          "current_task": "Telemetry Audit: 20,516 views (28 shorts). Auto-pivoted 1 stalled title(s).",
+          "current_task": "Telemetry Audit: 20,505 views (29 shorts). Auto-pivoted 1 stalled title(s).",
           "last_completed_task": "Calibrated gaming threshold: >15 views/hr within 4h",
           "recent_logs": [
-            "[12:26:20] Telemetry Audit: 20,480 views (28 shorts). Auto-pivoted 1 stalled title(s).",
             "[12:28:33] Telemetry Audit: 20,486 views (28 shorts). Auto-pivoted 1 stalled title(s).",
             "[12:32:11] Telemetry Audit: 20,486 views (28 shorts). Auto-pivoted 1 stalled title(s).",
             "[12:42:57] Telemetry Audit: 20,486 views (28 shorts). Auto-pivoted 1 stalled title(s).",
             "[12:53:10] Telemetry Audit: 20,446 views (28 shorts). Auto-pivoted 1 stalled title(s).",
             "[12:55:23] Telemetry Audit: 20,490 views (28 shorts). Auto-pivoted 1 stalled title(s).",
             "[12:57:38] Telemetry Audit: 20,516 views (28 shorts). Auto-pivoted 1 stalled title(s).",
-            "[12:59:52] Telemetry Audit: 20,516 views (28 shorts). Auto-pivoted 1 stalled title(s)."
+            "[12:59:52] Telemetry Audit: 20,516 views (28 shorts). Auto-pivoted 1 stalled title(s).",
+            "[13:02:05] Telemetry Audit: 20,505 views (29 shorts). Auto-pivoted 1 stalled title(s)."
           ]
         },
         "WATCHDOG": {
@@ -180,14 +180,14 @@
           "current_task": "Verifying Supercell fan policy: 0 claims, 0 strikes.",
           "last_completed_task": "Audited source parameters: strictly <30s segment rule active",
           "recent_logs": [
-            "[12:26:20] Verifying Supercell fan policy: 0 claims, 0 strikes.",
             "[12:28:33] Verifying Supercell fan policy: 0 claims, 0 strikes.",
             "[12:32:11] Verifying Supercell fan policy: 0 claims, 0 strikes.",
             "[12:42:57] Verifying Supercell fan policy: 0 claims, 0 strikes.",
             "[12:53:10] Verifying Supercell fan policy: 0 claims, 0 strikes.",
             "[12:55:23] Verifying Supercell fan policy: 0 claims, 0 strikes.",
             "[12:57:38] Verifying Supercell fan policy: 0 claims, 0 strikes.",
-            "[12:59:52] Verifying Supercell fan policy: 0 claims, 0 strikes."
+            "[12:59:52] Verifying Supercell fan policy: 0 claims, 0 strikes.",
+            "[13:02:05] Verifying Supercell fan policy: 0 claims, 0 strikes."
           ]
         }
       },
@@ -679,72 +679,6 @@
       },
       "calendar": {
         "scheduled": [
-          {
-            "id": "ken_1792212492_18",
-            "source_video": "level down trolling [Highlight]",
-            "creator": "Ken",
-            "title": "This 1 Card Makes eGiant Unstoppable...",
-            "publish_at": "2026-10-20T17:00:00Z",
-            "status": "SCHEDULED",
-            "uploaded": true,
-            "youtube_video_id": "zWix_onyzgM",
-            "youtube_url": "https://www.youtube.com/shorts/zWix_onyzgM",
-            "video_file": "ken_1792212492_18_master.mp4",
-            "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792212492_18_master.mp4",
-            "duration": 23.19,
-            "hook_summary": "The player explains how Electro Giant functions defensively and theorycrafts an unstoppable Monk synergy to cover its ranged weakness.",
-            "metadata": {
-              "title": "This 1 Card Makes eGiant Unstoppable...",
-              "description": "Using a defensive Electro Giant is great, but its ranged weakness usually ruins the push. Ken reveals the secret card synergy that completely fixes eGiant's biggest flaw.\n\n\u2022 Defensive eGiant mechanics explained\n\u2022 Overcoming the ranged unit counter\n\u2022 The ultimate 2-card synergy setup\n\nFeaturing: Ken\n\nIs this the most broken synergy in the game right now?\n\n#clashroyale #egiant #monk #gaming #shorts #clashroyaleshorts",
-              "tags": [
-                "clash royale",
-                "electro giant",
-                "egiant clash royale",
-                "monk clash royale",
-                "ken clash royale",
-                "egiant synergy",
-                "clash royale tips",
-                "clash royale combo",
-                "egiant deck"
-              ],
-              "pinned_comment": "Would you run this eGiant + Monk combo in a Grand Challenge, or is it too expensive? Let me know below! \ud83d\udc47",
-              "ab_variants": {
-                "A": {
-                  "angle": "Curiosity Gap",
-                  "title": "This 1 Card Makes eGiant Unstoppable...",
-                  "description": "Using a defensive Electro Giant is great, but its ranged weakness usually ruins the push. Ken reveals the secret card synergy that completely fixes eGiant's biggest flaw.\n\n\u2022 Defensive eGiant mechanics explained\n\u2022 Overcoming the ranged unit counter\n\u2022 The ultimate 2-card synergy setup\n\nFeaturing: Ken\n\nIs this the most broken synergy in the game right now?\n\n#clashroyale #egiant #monk #gaming #shorts #clashroyaleshorts"
-                },
-                "B": {
-                  "angle": "Contrarian Truth",
-                  "title": "Defensive eGiant Is Actually Broken?",
-                  "description": "Most players think Electro Giant is purely an aggressive win condition, but dropping it defensively changes everything. Ken breaks down why playing eGiant defensively creates an unbeatable counter-push.\n\n\u2022 Why defensive eGiant value zaps work\n\u2022 Turning defense into aggressive pressure\n\u2022 Combining Monk to reflect ranged projectiles\n\nFeaturing: Ken\n\nIs defensive eGiant actually better than offensive eGiant?\n\n#clashroyale #egiant #clashroyaledeck #gaming #shorts #clash"
-                },
-                "C": {
-                  "angle": "Actionable Protocol",
-                  "title": "How to Instantly Fix eGiant's Weakness",
-                  "description": "Stop letting ranged units shred your Electro Giant. Follow Ken's simple positioning setup to reflect all incoming ranged damage and build an unstoppable attack.\n\n\u2022 Place eGiant defensively for value zaps\n\u2022 Time Monk's ability to reflect ranged attacks\n\u2022 Overwhelm opponent on the counter-push\n\nFeaturing: Ken\n\nWhat is the absolute best hard counter to this setup?\n\n#clashroyale #egiantstrategy #clashroyaledecks #gaming #shorts #monk"
-                }
-              },
-              "active_variant": "A",
-              "test_status": "ACTIVE_TEST",
-              "variant_history": [
-                {
-                  "variant": "A",
-                  "title": "This 1 Card Makes eGiant Unstoppable...",
-                  "deployed_at": 1792357503.967607,
-                  "reason": "Initial A/B test deployment"
-                }
-              ],
-              "metrics": {
-                "views": 0,
-                "likes": 0,
-                "comments": 0,
-                "retention": 0.0,
-                "ctr": 0.0
-              }
-            },
-            "reframed": "gaming_split"
-          },
           {
             "id": "ken_1792212492_19",
             "source_video": "level down trolling [Clutch Moment]",
@@ -1281,6 +1215,74 @@
         "held": [],
         "published": [
           {
+            "id": "ken_1792212492_18",
+            "source_video": "level down trolling [Highlight]",
+            "creator": "Ken",
+            "title": "This 1 Card Makes eGiant Unstoppable...",
+            "publish_at": "2026-10-20T17:00:00Z",
+            "status": "PUBLISHED",
+            "uploaded": true,
+            "youtube_video_id": "zWix_onyzgM",
+            "youtube_url": "https://www.youtube.com/shorts/zWix_onyzgM",
+            "video_file": "ken_1792212492_18_master.mp4",
+            "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792212492_18_master.mp4",
+            "duration": 23.19,
+            "hook_summary": "The player explains how Electro Giant functions defensively and theorycrafts an unstoppable Monk synergy to cover its ranged weakness.",
+            "metadata": {
+              "title": "This 1 Card Makes eGiant Unstoppable...",
+              "description": "Using a defensive Electro Giant is great, but its ranged weakness usually ruins the push. Ken reveals the secret card synergy that completely fixes eGiant's biggest flaw.\n\n\u2022 Defensive eGiant mechanics explained\n\u2022 Overcoming the ranged unit counter\n\u2022 The ultimate 2-card synergy setup\n\nFeaturing: Ken\n\nIs this the most broken synergy in the game right now?\n\n#clashroyale #egiant #monk #gaming #shorts #clashroyaleshorts",
+              "tags": [
+                "clash royale",
+                "electro giant",
+                "egiant clash royale",
+                "monk clash royale",
+                "ken clash royale",
+                "egiant synergy",
+                "clash royale tips",
+                "clash royale combo",
+                "egiant deck"
+              ],
+              "pinned_comment": "Would you run this eGiant + Monk combo in a Grand Challenge, or is it too expensive? Let me know below! \ud83d\udc47",
+              "ab_variants": {
+                "A": {
+                  "angle": "Curiosity Gap",
+                  "title": "This 1 Card Makes eGiant Unstoppable...",
+                  "description": "Using a defensive Electro Giant is great, but its ranged weakness usually ruins the push. Ken reveals the secret card synergy that completely fixes eGiant's biggest flaw.\n\n\u2022 Defensive eGiant mechanics explained\n\u2022 Overcoming the ranged unit counter\n\u2022 The ultimate 2-card synergy setup\n\nFeaturing: Ken\n\nIs this the most broken synergy in the game right now?\n\n#clashroyale #egiant #monk #gaming #shorts #clashroyaleshorts"
+                },
+                "B": {
+                  "angle": "Contrarian Truth",
+                  "title": "Defensive eGiant Is Actually Broken?",
+                  "description": "Most players think Electro Giant is purely an aggressive win condition, but dropping it defensively changes everything. Ken breaks down why playing eGiant defensively creates an unbeatable counter-push.\n\n\u2022 Why defensive eGiant value zaps work\n\u2022 Turning defense into aggressive pressure\n\u2022 Combining Monk to reflect ranged projectiles\n\nFeaturing: Ken\n\nIs defensive eGiant actually better than offensive eGiant?\n\n#clashroyale #egiant #clashroyaledeck #gaming #shorts #clash"
+                },
+                "C": {
+                  "angle": "Actionable Protocol",
+                  "title": "How to Instantly Fix eGiant's Weakness",
+                  "description": "Stop letting ranged units shred your Electro Giant. Follow Ken's simple positioning setup to reflect all incoming ranged damage and build an unstoppable attack.\n\n\u2022 Place eGiant defensively for value zaps\n\u2022 Time Monk's ability to reflect ranged attacks\n\u2022 Overwhelm opponent on the counter-push\n\nFeaturing: Ken\n\nWhat is the absolute best hard counter to this setup?\n\n#clashroyale #egiantstrategy #clashroyaledecks #gaming #shorts #monk"
+                }
+              },
+              "active_variant": "A",
+              "test_status": "ACTIVE_TEST",
+              "variant_history": [
+                {
+                  "variant": "A",
+                  "title": "This 1 Card Makes eGiant Unstoppable...",
+                  "deployed_at": 1792357503.967607,
+                  "reason": "Initial A/B test deployment"
+                }
+              ],
+              "metrics": {
+                "views": 0,
+                "likes": 0,
+                "comments": 0,
+                "retention": 0.0,
+                "ctr": 0.0,
+                "velocity_vph": 0.0,
+                "engagement_pct": 0.0
+              }
+            },
+            "reframed": "gaming_split"
+          },
+          {
             "id": "ken_1792318278_0",
             "source_video": "2.5 cancer cycle [Highlight]",
             "creator": "Ken",
@@ -1342,7 +1344,7 @@
                 "comments": 0,
                 "retention": 0.0,
                 "ctr": 0.0,
-                "velocity_vph": 14.09,
+                "velocity_vph": 13.75,
                 "engagement_pct": 0.0
               }
             },
@@ -1410,7 +1412,7 @@
                 "comments": 0,
                 "retention": 0.0,
                 "ctr": 0.0,
-                "velocity_vph": 34.39,
+                "velocity_vph": 33.97,
                 "engagement_pct": 0.97
               }
             },
@@ -1474,12 +1476,12 @@
                 }
               ],
               "metrics": {
-                "views": 185,
+                "views": 186,
                 "likes": 2,
                 "comments": 0,
                 "retention": 0.0,
                 "ctr": 0.0,
-                "velocity_vph": 12.55,
+                "velocity_vph": 12.59,
                 "engagement_pct": 1.08
               }
             },
@@ -1542,13 +1544,13 @@
                 }
               ],
               "metrics": {
-                "views": 346,
-                "likes": 0,
+                "views": 336,
+                "likes": 1,
                 "comments": 0,
                 "retention": 0.0,
                 "ctr": 0.0,
-                "velocity_vph": 22.34,
-                "engagement_pct": 0.0
+                "velocity_vph": 21.64,
+                "engagement_pct": 0.3
               }
             },
             "reframed": "gaming_split"
@@ -1615,7 +1617,7 @@
                 "comments": 0,
                 "retention": 0.0,
                 "ctr": 0.0,
-                "velocity_vph": 18.64,
+                "velocity_vph": 18.6,
                 "engagement_pct": 2.76
               }
             },
@@ -1678,12 +1680,12 @@
                 }
               ],
               "metrics": {
-                "views": 270,
+                "views": 268,
                 "likes": 1,
                 "comments": 0,
                 "retention": 0.0,
                 "ctr": 0.0,
-                "velocity_vph": 13.18,
+                "velocity_vph": 13.05,
                 "engagement_pct": 0.37
               }
             },
@@ -1693,7 +1695,7 @@
             "id": "ken_1792212492_9",
             "source_video": "least busted card [Clutch Moment]",
             "creator": "Ken",
-            "title": "Chip Cycling Is Officially Dead",
+            "title": "Stop Doing This With Your Elixir",
             "publish_at": "2026-10-19T17:00:00Z",
             "status": "PUBLISHED",
             "uploaded": true,
@@ -1704,8 +1706,8 @@
             "duration": 27.73,
             "hook_summary": "The creator makes a bold claim about why traditional chip cycle strategies are officially dead in the current meta.",
             "metadata": {
-              "title": "Chip Cycling Is Officially Dead",
-              "description": "Forget everything you know about standard tower pressure because chip cycle is officially dead. Ken exposes why minor chip damage is a complete waste of your resources.\n\n\u2022 The brutal truth about current tower defense scaling\n\u2022 Why bridge spam punishes old-school tactics instantly\n\u2022 The exact moment you should stop chipping and start saving\n\nFeaturing: Ken\n\nIs bridge spam actually unbeatable right now, or is there a counter?\n\n#shorts #ken #gamingtips #meta #clashroyale #strategy",
+              "title": "Stop Doing This With Your Elixir",
+              "description": "If you are still relying on minor tower chips to win, you are playing the game wrong. Ken shares the exact rule you need to follow to stop bleeding elixir in today's meta.\n\n\u2022 The new golden rule for elixir management\n\u2022 How to pivot away from outdated chip strategies\n\u2022 Building a push that actually overwhelms modern defenses\n\nFeaturing: Ken\n\nWhat is your go-to win condition if not chip damage?\n\n#shorts #ken #gaming #protips #clashroyale #elixir",
               "tags": [
                 "chip cycle",
                 "bridge spam",
@@ -1735,7 +1737,7 @@
                   "description": "If you are still relying on minor tower chips to win, you are playing the game wrong. Ken shares the exact rule you need to follow to stop bleeding elixir in today's meta.\n\n\u2022 The new golden rule for elixir management\n\u2022 How to pivot away from outdated chip strategies\n\u2022 Building a push that actually overwhelms modern defenses\n\nFeaturing: Ken\n\nWhat is your go-to win condition if not chip damage?\n\n#shorts #ken #gaming #protips #clashroyale #elixir"
                 }
               },
-              "active_variant": "B",
+              "active_variant": "C",
               "test_status": "ACTIVE_TEST",
               "variant_history": [
                 {
@@ -1814,13 +1816,13 @@
                 }
               ],
               "metrics": {
-                "views": 328,
+                "views": 344,
                 "likes": 6,
                 "comments": 0,
                 "retention": 0.0,
                 "ctr": 0.0,
-                "velocity_vph": 12.87,
-                "engagement_pct": 1.83
+                "velocity_vph": 13.48,
+                "engagement_pct": 1.74
               }
             },
             "reframed": "gaming_split"
@@ -1882,12 +1884,12 @@
                 }
               ],
               "metrics": {
-                "views": 351,
+                "views": 350,
                 "likes": 4,
                 "comments": 0,
                 "retention": 0.0,
                 "ctr": 0.0,
-                "velocity_vph": 13.0,
+                "velocity_vph": 12.95,
                 "engagement_pct": 1.14
               }
             },
@@ -1950,13 +1952,13 @@
                 }
               ],
               "metrics": {
-                "views": 1097,
+                "views": 1095,
                 "likes": 12,
                 "comments": 0,
                 "retention": 0.0,
                 "ctr": 0.0,
-                "velocity_vph": 28.31,
-                "engagement_pct": 1.09
+                "velocity_vph": 28.23,
+                "engagement_pct": 1.1
               }
             },
             "reframed": "gaming_split"
@@ -2023,7 +2025,7 @@
                 "comments": 0,
                 "retention": 0.0,
                 "ctr": 0.0,
-                "velocity_vph": 29.72,
+                "velocity_vph": 29.69,
                 "engagement_pct": 0.97
               }
             },
@@ -2086,13 +2088,13 @@
                 }
               ],
               "metrics": {
-                "views": 1149,
+                "views": 1158,
                 "likes": 11,
                 "comments": 0,
                 "retention": 0.0,
                 "ctr": 0.0,
-                "velocity_vph": 25.83,
-                "engagement_pct": 0.96
+                "velocity_vph": 26.01,
+                "engagement_pct": 0.95
               }
             },
             "reframed": "gaming_split"
@@ -2159,7 +2161,7 @@
                 "comments": 0,
                 "retention": 0.0,
                 "ctr": 0.0,
-                "velocity_vph": 6.88,
+                "velocity_vph": 6.87,
                 "engagement_pct": 1.52
               }
             },
@@ -2222,12 +2224,12 @@
                 }
               ],
               "metrics": {
-                "views": 1282,
+                "views": 1279,
                 "likes": 12,
                 "comments": 0,
                 "retention": 0.0,
                 "ctr": 0.0,
-                "velocity_vph": 25.14,
+                "velocity_vph": 25.07,
                 "engagement_pct": 0.94
               }
             },
@@ -2464,13 +2466,13 @@
                 }
               ],
               "metrics": {
-                "views": 1602,
+                "views": 1576,
                 "likes": 26,
                 "comments": 0,
                 "retention": 0.0,
                 "ctr": 0.0,
-                "velocity_vph": 22.25,
-                "engagement_pct": 1.62
+                "velocity_vph": 21.88,
+                "engagement_pct": 1.65
               }
             },
             "reframed": "gaming_split"
@@ -2492,11 +2494,11 @@
             "reframed": "gaming_split",
             "metadata": {
               "metrics": {
-                "views": 1596,
+                "views": 1600,
                 "likes": 20,
                 "comments": 1,
-                "velocity_vph": 21.28,
-                "engagement_pct": 1.32
+                "velocity_vph": 21.32,
+                "engagement_pct": 1.31
               },
               "test_status": "WINNER_LOCKED"
             }
@@ -2559,12 +2561,12 @@
                 }
               ],
               "metrics": {
-                "views": 1289,
+                "views": 1292,
                 "likes": 18,
                 "comments": 1,
                 "retention": 0.0,
                 "ctr": 0.0,
-                "velocity_vph": 14.53,
+                "velocity_vph": 14.55,
                 "engagement_pct": 1.47
               }
             },
@@ -2633,7 +2635,7 @@
                 "comments": 1,
                 "retention": 0.0,
                 "ctr": 0.0,
-                "velocity_vph": 14.09,
+                "velocity_vph": 14.08,
                 "engagement_pct": 0.92
               }
             },
@@ -2701,7 +2703,7 @@
                 "comments": 1,
                 "retention": 0.0,
                 "ctr": 0.0,
-                "velocity_vph": 8.84,
+                "velocity_vph": 8.83,
                 "engagement_pct": 1.98
               }
             },
@@ -3050,86 +3052,86 @@
       },
       "analytics": {
         "summary": {
-          "total_views": 20516,
+          "total_views": 20505,
           "shorts_published": 0,
-          "total_likes": 238,
+          "total_likes": 239,
           "avg_retention_pct": 82.5,
           "avg_ctr_pct": 14.8,
           "total_subscribers_gained": 0,
           "estimated_revenue_usd": 0.0,
           "health_grade": "A+",
-          "total_shorts_published": 28,
-          "last_audit": 1792515592.9949481
+          "total_shorts_published": 29,
+          "last_audit": 1792515725.830766
         },
         "top_shorts": [
           {
             "title": "Why this broken spam strategy actually works...",
             "creator": "Ken",
             "views": 21,
-            "velocity": 14.09,
+            "velocity": 13.75,
             "angle": "Curiosity Gap"
           },
           {
             "title": "Gaming rage isn't about the game at all.",
             "creator": "Ken",
             "views": 103,
-            "velocity": 34.39,
+            "velocity": 33.97,
             "angle": "Contrarian Truth"
           },
           {
             "title": "He actually said this in the lobby... \ud83d\udc80",
             "creator": "Ken",
-            "views": 185,
-            "velocity": 12.55,
+            "views": 186,
+            "velocity": 12.59,
             "angle": "Curiosity Gap"
           },
           {
             "title": "Why adults secretly act so boring...",
             "creator": "Ken",
-            "views": 346,
-            "velocity": 22.34,
+            "views": 336,
+            "velocity": 21.64,
             "angle": "Curiosity Gap"
           },
           {
             "title": "The illegal Evo Hunter trick nobody is using",
             "creator": "Ken",
             "views": 326,
-            "velocity": 18.64,
+            "velocity": 18.6,
             "angle": "Curiosity Gap"
           },
           {
             "title": "The Golden Rule of YouTube Comments",
             "creator": "Ken",
-            "views": 270,
-            "velocity": 13.18,
+            "views": 268,
+            "velocity": 13.05,
             "angle": "Actionable Protocol"
           },
           {
             "title": "He regret saying this immediately...",
             "creator": "Ken",
-            "views": 328,
-            "velocity": 12.87,
+            "views": 344,
+            "velocity": 13.48,
             "angle": "Curiosity Gap"
           },
           {
             "title": "Why the best deck ruins the game",
             "creator": "Ken",
-            "views": 351,
-            "velocity": 13.0,
+            "views": 350,
+            "velocity": 12.95,
             "angle": "Curiosity Gap"
           },
           {
             "title": "This HP Buff Changed Overtime Forever...",
             "creator": "Ken",
-            "views": 1097,
-            "velocity": 28.31,
+            "views": 1095,
+            "velocity": 28.23,
             "angle": "Curiosity Gap"
           },
           {
             "title": "Stop playing safe when the timer hits zero.",
             "creator": "Ken",
             "views": 1233,
-            "velocity": 29.72,
+            "velocity": 29.69,
             "angle": "Contrarian Truth"
           }
         ],
@@ -6012,32 +6014,32 @@
   "agents": {
     "SCOUT": {
       "status": "working",
-      "current_task": "Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
+      "current_task": "Queue up to date. Waiting for next daily Ken upload.",
       "last_completed_task": "Ingested 5 recent Ken master videos into source pool",
       "recent_logs": [
-        "[12:53:08] Queue up to date. Waiting for next daily Ken upload.",
         "[12:55:10] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
         "[12:55:21] Queue up to date. Waiting for next daily Ken upload.",
         "[12:57:23] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
         "[12:57:36] Queue up to date. Waiting for next daily Ken upload.",
         "[12:59:38] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
         "[12:59:51] Queue up to date. Waiting for next daily Ken upload.",
-        "[13:01:53] Scanning @kenforrest YouTube feed for latest Clash Royale uploads..."
+        "[13:01:53] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
+        "[13:02:04] Queue up to date. Waiting for next daily Ken upload."
       ]
     },
     "STRATEGIST": {
       "status": "idle",
-      "current_task": "Buffer healthy: 9/9 scheduled Ken Shorts staged.",
+      "current_task": "No queued Ken candidates ready. Waiting for SCOUT.",
       "last_completed_task": "Mapped 3 distinct viral gaming hook angles for initial drops",
       "recent_logs": [
-        "[12:26:18] Buffer healthy: 9/9 scheduled Ken Shorts staged.",
         "[12:28:31] Buffer healthy: 9/9 scheduled Ken Shorts staged.",
         "[12:32:08] Buffer healthy: 9/9 scheduled Ken Shorts staged.",
         "[12:42:54] Buffer healthy: 9/9 scheduled Ken Shorts staged.",
         "[12:53:08] Buffer healthy: 9/9 scheduled Ken Shorts staged.",
         "[12:55:21] Buffer healthy: 9/9 scheduled Ken Shorts staged.",
         "[12:57:36] Buffer healthy: 9/9 scheduled Ken Shorts staged.",
-        "[12:59:51] Buffer healthy: 9/9 scheduled Ken Shorts staged."
+        "[12:59:51] Buffer healthy: 9/9 scheduled Ken Shorts staged.",
+        "[13:02:04] No queued Ken candidates ready. Waiting for SCOUT."
       ]
     },
     "EDITOR": {
@@ -6081,17 +6083,17 @@
     },
     "ANALYST": {
       "status": "working",
-      "current_task": "Telemetry Audit: 20,516 views (28 shorts). Auto-pivoted 1 stalled title(s).",
+      "current_task": "Telemetry Audit: 20,505 views (29 shorts). Auto-pivoted 1 stalled title(s).",
       "last_completed_task": "Calibrated gaming threshold: >15 views/hr within 4h",
       "recent_logs": [
-        "[12:26:20] Telemetry Audit: 20,480 views (28 shorts). Auto-pivoted 1 stalled title(s).",
         "[12:28:33] Telemetry Audit: 20,486 views (28 shorts). Auto-pivoted 1 stalled title(s).",
         "[12:32:11] Telemetry Audit: 20,486 views (28 shorts). Auto-pivoted 1 stalled title(s).",
         "[12:42:57] Telemetry Audit: 20,486 views (28 shorts). Auto-pivoted 1 stalled title(s).",
         "[12:53:10] Telemetry Audit: 20,446 views (28 shorts). Auto-pivoted 1 stalled title(s).",
         "[12:55:23] Telemetry Audit: 20,490 views (28 shorts). Auto-pivoted 1 stalled title(s).",
         "[12:57:38] Telemetry Audit: 20,516 views (28 shorts). Auto-pivoted 1 stalled title(s).",
-        "[12:59:52] Telemetry Audit: 20,516 views (28 shorts). Auto-pivoted 1 stalled title(s)."
+        "[12:59:52] Telemetry Audit: 20,516 views (28 shorts). Auto-pivoted 1 stalled title(s).",
+        "[13:02:05] Telemetry Audit: 20,505 views (29 shorts). Auto-pivoted 1 stalled title(s)."
       ]
     },
     "WATCHDOG": {
@@ -6099,14 +6101,14 @@
       "current_task": "Verifying Supercell fan policy: 0 claims, 0 strikes.",
       "last_completed_task": "Audited source parameters: strictly <30s segment rule active",
       "recent_logs": [
-        "[12:26:20] Verifying Supercell fan policy: 0 claims, 0 strikes.",
         "[12:28:33] Verifying Supercell fan policy: 0 claims, 0 strikes.",
         "[12:32:11] Verifying Supercell fan policy: 0 claims, 0 strikes.",
         "[12:42:57] Verifying Supercell fan policy: 0 claims, 0 strikes.",
         "[12:53:10] Verifying Supercell fan policy: 0 claims, 0 strikes.",
         "[12:55:23] Verifying Supercell fan policy: 0 claims, 0 strikes.",
         "[12:57:38] Verifying Supercell fan policy: 0 claims, 0 strikes.",
-        "[12:59:52] Verifying Supercell fan policy: 0 claims, 0 strikes."
+        "[12:59:52] Verifying Supercell fan policy: 0 claims, 0 strikes.",
+        "[13:02:05] Verifying Supercell fan policy: 0 claims, 0 strikes."
       ]
     }
   },
@@ -6598,72 +6600,6 @@
   },
   "calendar": {
     "scheduled": [
-      {
-        "id": "ken_1792212492_18",
-        "source_video": "level down trolling [Highlight]",
-        "creator": "Ken",
-        "title": "This 1 Card Makes eGiant Unstoppable...",
-        "publish_at": "2026-10-20T17:00:00Z",
-        "status": "SCHEDULED",
-        "uploaded": true,
-        "youtube_video_id": "zWix_onyzgM",
-        "youtube_url": "https://www.youtube.com/shorts/zWix_onyzgM",
-        "video_file": "ken_1792212492_18_master.mp4",
-        "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792212492_18_master.mp4",
-        "duration": 23.19,
-        "hook_summary": "The player explains how Electro Giant functions defensively and theorycrafts an unstoppable Monk synergy to cover its ranged weakness.",
-        "metadata": {
-          "title": "This 1 Card Makes eGiant Unstoppable...",
-          "description": "Using a defensive Electro Giant is great, but its ranged weakness usually ruins the push. Ken reveals the secret card synergy that completely fixes eGiant's biggest flaw.\n\n\u2022 Defensive eGiant mechanics explained\n\u2022 Overcoming the ranged unit counter\n\u2022 The ultimate 2-card synergy setup\n\nFeaturing: Ken\n\nIs this the most broken synergy in the game right now?\n\n#clashroyale #egiant #monk #gaming #shorts #clashroyaleshorts",
-          "tags": [
-            "clash royale",
-            "electro giant",
-            "egiant clash royale",
-            "monk clash royale",
-            "ken clash royale",
-            "egiant synergy",
-            "clash royale tips",
-            "clash royale combo",
-            "egiant deck"
-          ],
-          "pinned_comment": "Would you run this eGiant + Monk combo in a Grand Challenge, or is it too expensive? Let me know below! \ud83d\udc47",
-          "ab_variants": {
-            "A": {
-              "angle": "Curiosity Gap",
-              "title": "This 1 Card Makes eGiant Unstoppable...",
-              "description": "Using a defensive Electro Giant is great, but its ranged weakness usually ruins the push. Ken reveals the secret card synergy that completely fixes eGiant's biggest flaw.\n\n\u2022 Defensive eGiant mechanics explained\n\u2022 Overcoming the ranged unit counter\n\u2022 The ultimate 2-card synergy setup\n\nFeaturing: Ken\n\nIs this the most broken synergy in the game right now?\n\n#clashroyale #egiant #monk #gaming #shorts #clashroyaleshorts"
-            },
-            "B": {
-              "angle": "Contrarian Truth",
-              "title": "Defensive eGiant Is Actually Broken?",
-              "description": "Most players think Electro Giant is purely an aggressive win condition, but dropping it defensively changes everything. Ken breaks down why playing eGiant defensively creates an unbeatable counter-push.\n\n\u2022 Why defensive eGiant value zaps work\n\u2022 Turning defense into aggressive pressure\n\u2022 Combining Monk to reflect ranged projectiles\n\nFeaturing: Ken\n\nIs defensive eGiant actually better than offensive eGiant?\n\n#clashroyale #egiant #clashroyaledeck #gaming #shorts #clash"
-            },
-            "C": {
-              "angle": "Actionable Protocol",
-              "title": "How to Instantly Fix eGiant's Weakness",
-              "description": "Stop letting ranged units shred your Electro Giant. Follow Ken's simple positioning setup to reflect all incoming ranged damage and build an unstoppable attack.\n\n\u2022 Place eGiant defensively for value zaps\n\u2022 Time Monk's ability to reflect ranged attacks\n\u2022 Overwhelm opponent on the counter-push\n\nFeaturing: Ken\n\nWhat is the absolute best hard counter to this setup?\n\n#clashroyale #egiantstrategy #clashroyaledecks #gaming #shorts #monk"
-            }
-          },
-          "active_variant": "A",
-          "test_status": "ACTIVE_TEST",
-          "variant_history": [
-            {
-              "variant": "A",
-              "title": "This 1 Card Makes eGiant Unstoppable...",
-              "deployed_at": 1792357503.967607,
-              "reason": "Initial A/B test deployment"
-            }
-          ],
-          "metrics": {
-            "views": 0,
-            "likes": 0,
-            "comments": 0,
-            "retention": 0.0,
-            "ctr": 0.0
-          }
-        },
-        "reframed": "gaming_split"
-      },
       {
         "id": "ken_1792212492_19",
         "source_video": "level down trolling [Clutch Moment]",
@@ -7200,6 +7136,74 @@
     "held": [],
     "published": [
       {
+        "id": "ken_1792212492_18",
+        "source_video": "level down trolling [Highlight]",
+        "creator": "Ken",
+        "title": "This 1 Card Makes eGiant Unstoppable...",
+        "publish_at": "2026-10-20T17:00:00Z",
+        "status": "PUBLISHED",
+        "uploaded": true,
+        "youtube_video_id": "zWix_onyzgM",
+        "youtube_url": "https://www.youtube.com/shorts/zWix_onyzgM",
+        "video_file": "ken_1792212492_18_master.mp4",
+        "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792212492_18_master.mp4",
+        "duration": 23.19,
+        "hook_summary": "The player explains how Electro Giant functions defensively and theorycrafts an unstoppable Monk synergy to cover its ranged weakness.",
+        "metadata": {
+          "title": "This 1 Card Makes eGiant Unstoppable...",
+          "description": "Using a defensive Electro Giant is great, but its ranged weakness usually ruins the push. Ken reveals the secret card synergy that completely fixes eGiant's biggest flaw.\n\n\u2022 Defensive eGiant mechanics explained\n\u2022 Overcoming the ranged unit counter\n\u2022 The ultimate 2-card synergy setup\n\nFeaturing: Ken\n\nIs this the most broken synergy in the game right now?\n\n#clashroyale #egiant #monk #gaming #shorts #clashroyaleshorts",
+          "tags": [
+            "clash royale",
+            "electro giant",
+            "egiant clash royale",
+            "monk clash royale",
+            "ken clash royale",
+            "egiant synergy",
+            "clash royale tips",
+            "clash royale combo",
+            "egiant deck"
+          ],
+          "pinned_comment": "Would you run this eGiant + Monk combo in a Grand Challenge, or is it too expensive? Let me know below! \ud83d\udc47",
+          "ab_variants": {
+            "A": {
+              "angle": "Curiosity Gap",
+              "title": "This 1 Card Makes eGiant Unstoppable...",
+              "description": "Using a defensive Electro Giant is great, but its ranged weakness usually ruins the push. Ken reveals the secret card synergy that completely fixes eGiant's biggest flaw.\n\n\u2022 Defensive eGiant mechanics explained\n\u2022 Overcoming the ranged unit counter\n\u2022 The ultimate 2-card synergy setup\n\nFeaturing: Ken\n\nIs this the most broken synergy in the game right now?\n\n#clashroyale #egiant #monk #gaming #shorts #clashroyaleshorts"
+            },
+            "B": {
+              "angle": "Contrarian Truth",
+              "title": "Defensive eGiant Is Actually Broken?",
+              "description": "Most players think Electro Giant is purely an aggressive win condition, but dropping it defensively changes everything. Ken breaks down why playing eGiant defensively creates an unbeatable counter-push.\n\n\u2022 Why defensive eGiant value zaps work\n\u2022 Turning defense into aggressive pressure\n\u2022 Combining Monk to reflect ranged projectiles\n\nFeaturing: Ken\n\nIs defensive eGiant actually better than offensive eGiant?\n\n#clashroyale #egiant #clashroyaledeck #gaming #shorts #clash"
+            },
+            "C": {
+              "angle": "Actionable Protocol",
+              "title": "How to Instantly Fix eGiant's Weakness",
+              "description": "Stop letting ranged units shred your Electro Giant. Follow Ken's simple positioning setup to reflect all incoming ranged damage and build an unstoppable attack.\n\n\u2022 Place eGiant defensively for value zaps\n\u2022 Time Monk's ability to reflect ranged attacks\n\u2022 Overwhelm opponent on the counter-push\n\nFeaturing: Ken\n\nWhat is the absolute best hard counter to this setup?\n\n#clashroyale #egiantstrategy #clashroyaledecks #gaming #shorts #monk"
+            }
+          },
+          "active_variant": "A",
+          "test_status": "ACTIVE_TEST",
+          "variant_history": [
+            {
+              "variant": "A",
+              "title": "This 1 Card Makes eGiant Unstoppable...",
+              "deployed_at": 1792357503.967607,
+              "reason": "Initial A/B test deployment"
+            }
+          ],
+          "metrics": {
+            "views": 0,
+            "likes": 0,
+            "comments": 0,
+            "retention": 0.0,
+            "ctr": 0.0,
+            "velocity_vph": 0.0,
+            "engagement_pct": 0.0
+          }
+        },
+        "reframed": "gaming_split"
+      },
+      {
         "id": "ken_1792318278_0",
         "source_video": "2.5 cancer cycle [Highlight]",
         "creator": "Ken",
@@ -7261,7 +7265,7 @@
             "comments": 0,
             "retention": 0.0,
             "ctr": 0.0,
-            "velocity_vph": 14.09,
+            "velocity_vph": 13.75,
             "engagement_pct": 0.0
           }
         },
@@ -7329,7 +7333,7 @@
             "comments": 0,
             "retention": 0.0,
             "ctr": 0.0,
-            "velocity_vph": 34.39,
+            "velocity_vph": 33.97,
             "engagement_pct": 0.97
           }
         },
@@ -7393,12 +7397,12 @@
             }
           ],
           "metrics": {
-            "views": 185,
+            "views": 186,
             "likes": 2,
             "comments": 0,
             "retention": 0.0,
             "ctr": 0.0,
-            "velocity_vph": 12.55,
+            "velocity_vph": 12.59,
             "engagement_pct": 1.08
           }
         },
@@ -7461,13 +7465,13 @@
             }
           ],
           "metrics": {
-            "views": 346,
-            "likes": 0,
+            "views": 336,
+            "likes": 1,
             "comments": 0,
             "retention": 0.0,
             "ctr": 0.0,
-            "velocity_vph": 22.34,
-            "engagement_pct": 0.0
+            "velocity_vph": 21.64,
+            "engagement_pct": 0.3
           }
         },
         "reframed": "gaming_split"
@@ -7534,7 +7538,7 @@
             "comments": 0,
             "retention": 0.0,
             "ctr": 0.0,
-            "velocity_vph": 18.64,
+            "velocity_vph": 18.6,
             "engagement_pct": 2.76
           }
         },
@@ -7597,12 +7601,12 @@
             }
           ],
           "metrics": {
-            "views": 270,
+            "views": 268,
             "likes": 1,
             "comments": 0,
             "retention": 0.0,
             "ctr": 0.0,
-            "velocity_vph": 13.18,
+            "velocity_vph": 13.05,
             "engagement_pct": 0.37
           }
         },
@@ -7612,7 +7616,7 @@
         "id": "ken_1792212492_9",
         "source_video": "least busted card [Clutch Moment]",
         "creator": "Ken",
-        "title": "Chip Cycling Is Officially Dead",
+        "title": "Stop Doing This With Your Elixir",
         "publish_at": "2026-10-19T17:00:00Z",
         "status": "PUBLISHED",
         "uploaded": true,
@@ -7623,8 +7627,8 @@
         "duration": 27.73,
         "hook_summary": "The creator makes a bold claim about why traditional chip cycle strategies are officially dead in the current meta.",
         "metadata": {
-          "title": "Chip Cycling Is Officially Dead",
-          "description": "Forget everything you know about standard tower pressure because chip cycle is officially dead. Ken exposes why minor chip damage is a complete waste of your resources.\n\n\u2022 The brutal truth about current tower defense scaling\n\u2022 Why bridge spam punishes old-school tactics instantly\n\u2022 The exact moment you should stop chipping and start saving\n\nFeaturing: Ken\n\nIs bridge spam actually unbeatable right now, or is there a counter?\n\n#shorts #ken #gamingtips #meta #clashroyale #strategy",
+          "title": "Stop Doing This With Your Elixir",
+          "description": "If you are still relying on minor tower chips to win, you are playing the game wrong. Ken shares the exact rule you need to follow to stop bleeding elixir in today's meta.\n\n\u2022 The new golden rule for elixir management\n\u2022 How to pivot away from outdated chip strategies\n\u2022 Building a push that actually overwhelms modern defenses\n\nFeaturing: Ken\n\nWhat is your go-to win condition if not chip damage?\n\n#shorts #ken #gaming #protips #clashroyale #elixir",
           "tags": [
             "chip cycle",
             "bridge spam",
@@ -7654,7 +7658,7 @@
               "description": "If you are still relying on minor tower chips to win, you are playing the game wrong. Ken shares the exact rule you need to follow to stop bleeding elixir in today's meta.\n\n\u2022 The new golden rule for elixir management\n\u2022 How to pivot away from outdated chip strategies\n\u2022 Building a push that actually overwhelms modern defenses\n\nFeaturing: Ken\n\nWhat is your go-to win condition if not chip damage?\n\n#shorts #ken #gaming #protips #clashroyale #elixir"
             }
           },
-          "active_variant": "B",
+          "active_variant": "C",
           "test_status": "ACTIVE_TEST",
           "variant_history": [
             {
@@ -7733,13 +7737,13 @@
             }
           ],
           "metrics": {
-            "views": 328,
+            "views": 344,
             "likes": 6,
             "comments": 0,
             "retention": 0.0,
             "ctr": 0.0,
-            "velocity_vph": 12.87,
-            "engagement_pct": 1.83
+            "velocity_vph": 13.48,
+            "engagement_pct": 1.74
           }
         },
         "reframed": "gaming_split"
@@ -7801,12 +7805,12 @@
             }
           ],
           "metrics": {
-            "views": 351,
+            "views": 350,
             "likes": 4,
             "comments": 0,
             "retention": 0.0,
             "ctr": 0.0,
-            "velocity_vph": 13.0,
+            "velocity_vph": 12.95,
             "engagement_pct": 1.14
           }
         },
@@ -7869,13 +7873,13 @@
             }
           ],
           "metrics": {
-            "views": 1097,
+            "views": 1095,
             "likes": 12,
             "comments": 0,
             "retention": 0.0,
             "ctr": 0.0,
-            "velocity_vph": 28.31,
-            "engagement_pct": 1.09
+            "velocity_vph": 28.23,
+            "engagement_pct": 1.1
           }
         },
         "reframed": "gaming_split"
@@ -7942,7 +7946,7 @@
             "comments": 0,
             "retention": 0.0,
             "ctr": 0.0,
-            "velocity_vph": 29.72,
+            "velocity_vph": 29.69,
             "engagement_pct": 0.97
           }
         },
@@ -8005,13 +8009,13 @@
             }
           ],
           "metrics": {
-            "views": 1149,
+            "views": 1158,
             "likes": 11,
             "comments": 0,
             "retention": 0.0,
             "ctr": 0.0,
-            "velocity_vph": 25.83,
-            "engagement_pct": 0.96
+            "velocity_vph": 26.01,
+            "engagement_pct": 0.95
           }
         },
         "reframed": "gaming_split"
@@ -8078,7 +8082,7 @@
             "comments": 0,
             "retention": 0.0,
             "ctr": 0.0,
-            "velocity_vph": 6.88,
+            "velocity_vph": 6.87,
             "engagement_pct": 1.52
           }
         },
@@ -8141,12 +8145,12 @@
             }
           ],
           "metrics": {
-            "views": 1282,
+            "views": 1279,
             "likes": 12,
             "comments": 0,
             "retention": 0.0,
             "ctr": 0.0,
-            "velocity_vph": 25.14,
+            "velocity_vph": 25.07,
             "engagement_pct": 0.94
           }
         },
@@ -8383,13 +8387,13 @@
             }
           ],
           "metrics": {
-            "views": 1602,
+            "views": 1576,
             "likes": 26,
             "comments": 0,
             "retention": 0.0,
             "ctr": 0.0,
-            "velocity_vph": 22.25,
-            "engagement_pct": 1.62
+            "velocity_vph": 21.88,
+            "engagement_pct": 1.65
           }
         },
         "reframed": "gaming_split"
@@ -8411,11 +8415,11 @@
         "reframed": "gaming_split",
         "metadata": {
           "metrics": {
-            "views": 1596,
+            "views": 1600,
             "likes": 20,
             "comments": 1,
-            "velocity_vph": 21.28,
-            "engagement_pct": 1.32
+            "velocity_vph": 21.32,
+            "engagement_pct": 1.31
           },
           "test_status": "WINNER_LOCKED"
         }
@@ -8478,12 +8482,12 @@
             }
           ],
           "metrics": {
-            "views": 1289,
+            "views": 1292,
             "likes": 18,
             "comments": 1,
             "retention": 0.0,
             "ctr": 0.0,
-            "velocity_vph": 14.53,
+            "velocity_vph": 14.55,
             "engagement_pct": 1.47
           }
         },
@@ -8552,7 +8556,7 @@
             "comments": 1,
             "retention": 0.0,
             "ctr": 0.0,
-            "velocity_vph": 14.09,
+            "velocity_vph": 14.08,
             "engagement_pct": 0.92
           }
         },
@@ -8620,7 +8624,7 @@
             "comments": 1,
             "retention": 0.0,
             "ctr": 0.0,
-            "velocity_vph": 8.84,
+            "velocity_vph": 8.83,
             "engagement_pct": 1.98
           }
         },
@@ -8969,86 +8973,86 @@
   },
   "analytics": {
     "summary": {
-      "total_views": 20516,
+      "total_views": 20505,
       "shorts_published": 0,
-      "total_likes": 238,
+      "total_likes": 239,
       "avg_retention_pct": 82.5,
       "avg_ctr_pct": 14.8,
       "total_subscribers_gained": 0,
       "estimated_revenue_usd": 0.0,
       "health_grade": "A+",
-      "total_shorts_published": 28,
-      "last_audit": 1792515592.9949481
+      "total_shorts_published": 29,
+      "last_audit": 1792515725.830766
     },
     "top_shorts": [
       {
         "title": "Why this broken spam strategy actually works...",
         "creator": "Ken",
         "views": 21,
-        "velocity": 14.09,
+        "velocity": 13.75,
         "angle": "Curiosity Gap"
       },
       {
         "title": "Gaming rage isn't about the game at all.",
         "creator": "Ken",
         "views": 103,
-        "velocity": 34.39,
+        "velocity": 33.97,
         "angle": "Contrarian Truth"
       },
       {
         "title": "He actually said this in the lobby... \ud83d\udc80",
         "creator": "Ken",
-        "views": 185,
-        "velocity": 12.55,
+        "views": 186,
+        "velocity": 12.59,
         "angle": "Curiosity Gap"
       },
       {
         "title": "Why adults secretly act so boring...",
         "creator": "Ken",
-        "views": 346,
-        "velocity": 22.34,
+        "views": 336,
+        "velocity": 21.64,
         "angle": "Curiosity Gap"
       },
       {
         "title": "The illegal Evo Hunter trick nobody is using",
         "creator": "Ken",
         "views": 326,
-        "velocity": 18.64,
+        "velocity": 18.6,
         "angle": "Curiosity Gap"
       },
       {
         "title": "The Golden Rule of YouTube Comments",
         "creator": "Ken",
-        "views": 270,
-        "velocity": 13.18,
+        "views": 268,
+        "velocity": 13.05,
         "angle": "Actionable Protocol"
       },
       {
         "title": "He regret saying this immediately...",
         "creator": "Ken",
-        "views": 328,
-        "velocity": 12.87,
+        "views": 344,
+        "velocity": 13.48,
         "angle": "Curiosity Gap"
       },
       {
         "title": "Why the best deck ruins the game",
         "creator": "Ken",
-        "views": 351,
-        "velocity": 13.0,
+        "views": 350,
+        "velocity": 12.95,
         "angle": "Curiosity Gap"
       },
       {
         "title": "This HP Buff Changed Overtime Forever...",
         "creator": "Ken",
-        "views": 1097,
-        "velocity": 28.31,
+        "views": 1095,
+        "velocity": 28.23,
         "angle": "Curiosity Gap"
       },
       {
         "title": "Stop playing safe when the timer hits zero.",
         "creator": "Ken",
         "views": 1233,
-        "velocity": 29.72,
+        "velocity": 29.69,
         "angle": "Contrarian Truth"
       }
     ],

@@ -1,6 +1,6 @@
 {
-  "timestamp": 1792534993.1686552,
-  "sync_time_iso": "2026-10-20T22:23:13Z",
+  "timestamp": 1792535054.924638,
+  "sync_time_iso": "2026-10-20T22:24:14Z",
   "default_channel": "ken_clips_burger",
   "channels": {
     "ken_clips_burger": {
@@ -96,14 +96,14 @@
           "current_task": "Queue up to date. Waiting for next daily Ken upload.",
           "last_completed_task": "Ingested 5 recent Ken master videos into source pool",
           "recent_logs": [
-            "[18:14:23] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
-            "[18:14:36] Queue up to date. Waiting for next daily Ken upload.",
             "[18:16:38] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
             "[18:16:50] Queue up to date. Waiting for next daily Ken upload.",
             "[18:18:52] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
             "[18:19:03] Queue up to date. Waiting for next daily Ken upload.",
             "[18:21:05] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
-            "[18:21:16] Queue up to date. Waiting for next daily Ken upload."
+            "[18:21:16] Queue up to date. Waiting for next daily Ken upload.",
+            "[18:23:18] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
+            "[18:23:30] Queue up to date. Waiting for next daily Ken upload."
           ]
         },
         "STRATEGIST": {
@@ -111,14 +111,14 @@
           "current_task": "No queued Ken candidates ready. Waiting for SCOUT.",
           "last_completed_task": "Mapped 3 distinct viral gaming hook angles for initial drops",
           "recent_logs": [
-            "[17:57:36] No queued Ken candidates ready. Waiting for SCOUT.",
             "[17:59:50] No queued Ken candidates ready. Waiting for SCOUT.",
             "[18:02:06] No queued Ken candidates ready. Waiting for SCOUT.",
             "[18:04:39] No queued Ken candidates ready. Waiting for SCOUT.",
             "[18:14:36] No queued Ken candidates ready. Waiting for SCOUT.",
             "[18:16:50] No queued Ken candidates ready. Waiting for SCOUT.",
             "[18:19:03] No queued Ken candidates ready. Waiting for SCOUT.",
-            "[18:21:16] No queued Ken candidates ready. Waiting for SCOUT."
+            "[18:21:16] No queued Ken candidates ready. Waiting for SCOUT.",
+            "[18:23:30] No queued Ken candidates ready. Waiting for SCOUT."
           ]
         },
         "EDITOR": {
@@ -165,14 +165,14 @@
           "current_task": "Telemetry Audit: 22,020 views (30 shorts). Auto-pivoted 1 stalled title(s).",
           "last_completed_task": "Calibrated gaming threshold: >15 views/hr within 4h",
           "recent_logs": [
-            "[17:57:38] Telemetry Audit: 21,915 views (30 shorts). Auto-pivoted 1 stalled title(s).",
             "[17:59:52] Telemetry Audit: 21,932 views (30 shorts). Auto-pivoted 1 stalled title(s).",
             "[18:02:08] Telemetry Audit: 21,942 views (30 shorts). Auto-pivoted 1 stalled title(s).",
             "[18:12:23] Telemetry Audit: 21,973 views (30 shorts). Auto-pivoted 1 stalled title(s).",
             "[18:14:38] Telemetry Audit: 22,001 views (30 shorts). Auto-pivoted 1 stalled title(s).",
             "[18:16:52] Telemetry Audit: 22,017 views (30 shorts). Auto-pivoted 1 stalled title(s).",
             "[18:19:05] Telemetry Audit: 22,017 views (30 shorts). Auto-pivoted 1 stalled title(s).",
-            "[18:21:18] Telemetry Audit: 22,020 views (30 shorts). Auto-pivoted 1 stalled title(s)."
+            "[18:21:18] Telemetry Audit: 22,020 views (30 shorts). Auto-pivoted 1 stalled title(s).",
+            "[18:23:32] Telemetry Audit: 22,020 views (30 shorts). Auto-pivoted 1 stalled title(s)."
           ]
         },
         "WATCHDOG": {
@@ -180,19 +180,110 @@
           "current_task": "Verifying Supercell fan policy: 0 claims, 0 strikes.",
           "last_completed_task": "Audited source parameters: strictly <30s segment rule active",
           "recent_logs": [
-            "[17:57:38] Verifying Supercell fan policy: 0 claims, 0 strikes.",
             "[17:59:52] Verifying Supercell fan policy: 0 claims, 0 strikes.",
             "[18:02:08] Verifying Supercell fan policy: 0 claims, 0 strikes.",
             "[18:12:23] Verifying Supercell fan policy: 0 claims, 0 strikes.",
             "[18:14:38] Verifying Supercell fan policy: 0 claims, 0 strikes.",
             "[18:16:52] Verifying Supercell fan policy: 0 claims, 0 strikes.",
             "[18:19:05] Verifying Supercell fan policy: 0 claims, 0 strikes.",
-            "[18:21:18] Verifying Supercell fan policy: 0 claims, 0 strikes."
+            "[18:21:18] Verifying Supercell fan policy: 0 claims, 0 strikes.",
+            "[18:23:32] Verifying Supercell fan policy: 0 claims, 0 strikes."
           ]
         }
       },
       "queue": {
         "queue": [
+          {
+            "id": "ken_1792500844_2",
+            "creator": "Ken",
+            "title": "welcome to hell [Overtime Battle]",
+            "source_title": "welcome to hell",
+            "url": "https://www.youtube.com/watch?v=E2w0V3SzeqY",
+            "section": "*540-720",
+            "duration": 2022,
+            "status": "QUEUED_FOR_REMASTER",
+            "added_at": "2026-10-20T12:54:04Z",
+            "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792500844_2_master.mp4",
+            "youtube_video_id": null
+          },
+          {
+            "id": "ken_1792500844_1",
+            "creator": "Ken",
+            "title": "welcome to hell [Clutch Moment]",
+            "source_title": "welcome to hell",
+            "url": "https://www.youtube.com/watch?v=E2w0V3SzeqY",
+            "section": "*300-480",
+            "duration": 2022,
+            "status": "QUEUED_FOR_REMASTER",
+            "added_at": "2026-10-20T12:54:04Z",
+            "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792500844_1_master.mp4",
+            "youtube_video_id": null
+          },
+          {
+            "id": "ken_1792411394_1",
+            "creator": "Ken",
+            "title": "new balance changes [Clutch Moment]",
+            "source_title": "new balance changes",
+            "url": "https://www.youtube.com/watch?v=efXvyv0t4Yo",
+            "section": "*300-480",
+            "duration": 857,
+            "status": "QUEUED_FOR_REMASTER",
+            "added_at": "2026-10-19T12:03:14Z",
+            "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792411394_1_master.mp4",
+            "youtube_video_id": null
+          },
+          {
+            "id": "ken_1792411394_0",
+            "creator": "Ken",
+            "title": "new balance changes [Highlight]",
+            "source_title": "new balance changes",
+            "url": "https://www.youtube.com/watch?v=efXvyv0t4Yo",
+            "section": "*60-240",
+            "duration": 857,
+            "status": "QUEUED_FOR_REMASTER",
+            "added_at": "2026-10-19T12:03:14Z",
+            "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792411394_0_master.mp4",
+            "youtube_video_id": null
+          },
+          {
+            "id": "ken_1792318278_2",
+            "creator": "Ken",
+            "title": "2.5 cancer cycle [Overtime Battle]",
+            "source_title": "2.5 cancer cycle",
+            "url": "https://www.youtube.com/watch?v=Lt-aEAtFys0",
+            "section": "*540-720",
+            "duration": 1436,
+            "status": "QUEUED_FOR_REMASTER",
+            "added_at": "2026-10-18T10:11:18Z",
+            "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792318278_2_master.mp4",
+            "youtube_video_id": null
+          },
+          {
+            "id": "ken_1792318278_1",
+            "creator": "Ken",
+            "title": "2.5 cancer cycle [Clutch Moment]",
+            "source_title": "2.5 cancer cycle",
+            "url": "https://www.youtube.com/watch?v=Lt-aEAtFys0",
+            "section": "*300-480",
+            "duration": 1436,
+            "status": "QUEUED_FOR_REMASTER",
+            "added_at": "2026-10-18T10:11:18Z",
+            "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792318278_1_master.mp4",
+            "youtube_video_id": null
+          },
+          {
+            "id": "ken_1792246995_0",
+            "creator": "Ken",
+            "title": "1.9 aggression cycle [Highlight]",
+            "source_title": "1.9 aggression cycle",
+            "url": "https://www.youtube.com/watch?v=1tKJ4BnHC2A",
+            "section": "*60-240",
+            "duration": 2181,
+            "status": "QUEUED_FOR_REMASTER",
+            "added_at": "2026-10-17T14:23:15Z",
+            "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792246995_0_master.mp4",
+            "youtube_video_id": null
+          },
           {
             "id": "ken_1792212492_8",
             "creator": "Ken",
@@ -546,19 +637,6 @@
             "youtube_video_id": "0WNit8ylt38"
           },
           {
-            "id": "ken_1792246995_0",
-            "creator": "Ken",
-            "title": "1.9 aggression cycle [Highlight]",
-            "source_title": "1.9 aggression cycle",
-            "url": "https://www.youtube.com/watch?v=1tKJ4BnHC2A",
-            "section": "*60-240",
-            "duration": 2181,
-            "status": "COMPLETED",
-            "added_at": "2026-10-17T14:23:15Z",
-            "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792246995_0_master.mp4",
-            "youtube_video_id": "8G5U74OB-qo"
-          },
-          {
             "id": "ken_1792246995_1",
             "creator": "Ken",
             "title": "1.9 aggression cycle [Clutch Moment]",
@@ -596,556 +674,11 @@
             "added_at": "2026-10-18T10:11:18Z",
             "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792318278_0_master.mp4",
             "youtube_video_id": "mn2b9SbHoe0"
-          },
-          {
-            "id": "ken_1792318278_1",
-            "creator": "Ken",
-            "title": "2.5 cancer cycle [Clutch Moment]",
-            "source_title": "2.5 cancer cycle",
-            "url": "https://www.youtube.com/watch?v=Lt-aEAtFys0",
-            "section": "*300-480",
-            "duration": 1436,
-            "status": "COMPLETED",
-            "added_at": "2026-10-18T10:11:18Z",
-            "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792318278_1_master.mp4",
-            "youtube_video_id": "mOQWrknmk7U"
-          },
-          {
-            "id": "ken_1792318278_2",
-            "creator": "Ken",
-            "title": "2.5 cancer cycle [Overtime Battle]",
-            "source_title": "2.5 cancer cycle",
-            "url": "https://www.youtube.com/watch?v=Lt-aEAtFys0",
-            "section": "*540-720",
-            "duration": 1436,
-            "status": "COMPLETED",
-            "added_at": "2026-10-18T10:11:18Z",
-            "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792318278_2_master.mp4",
-            "youtube_video_id": "mrG9jdRdbd4"
-          },
-          {
-            "id": "ken_1792411394_0",
-            "creator": "Ken",
-            "title": "new balance changes [Highlight]",
-            "source_title": "new balance changes",
-            "url": "https://www.youtube.com/watch?v=efXvyv0t4Yo",
-            "section": "*60-240",
-            "duration": 857,
-            "status": "COMPLETED",
-            "added_at": "2026-10-19T12:03:14Z",
-            "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792411394_0_master.mp4",
-            "youtube_video_id": "-ZMXI6V0aWY"
-          },
-          {
-            "id": "ken_1792411394_1",
-            "creator": "Ken",
-            "title": "new balance changes [Clutch Moment]",
-            "source_title": "new balance changes",
-            "url": "https://www.youtube.com/watch?v=efXvyv0t4Yo",
-            "section": "*300-480",
-            "duration": 857,
-            "status": "COMPLETED",
-            "added_at": "2026-10-19T12:03:14Z",
-            "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792411394_1_master.mp4",
-            "youtube_video_id": "_D1GUgTHRJM"
-          },
-          {
-            "id": "ken_1792500844_1",
-            "creator": "Ken",
-            "title": "welcome to hell [Clutch Moment]",
-            "source_title": "welcome to hell",
-            "url": "https://www.youtube.com/watch?v=E2w0V3SzeqY",
-            "section": "*300-480",
-            "duration": 2022,
-            "status": "COMPLETED",
-            "added_at": "2026-10-20T12:54:04Z",
-            "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792500844_1_master.mp4",
-            "youtube_video_id": "X7StAXY94mc"
-          },
-          {
-            "id": "ken_1792500844_2",
-            "creator": "Ken",
-            "title": "welcome to hell [Overtime Battle]",
-            "source_title": "welcome to hell",
-            "url": "https://www.youtube.com/watch?v=E2w0V3SzeqY",
-            "section": "*540-720",
-            "duration": 2022,
-            "status": "COMPLETED",
-            "added_at": "2026-10-20T12:54:04Z",
-            "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792500844_2_master.mp4",
-            "youtube_video_id": "LfKxwVmaMEE"
           }
         ]
       },
       "calendar": {
-        "scheduled": [
-          {
-            "id": "ken_1792246995_0",
-            "source_video": "1.9 aggression cycle [Highlight]",
-            "creator": "Ken",
-            "title": "He tried getting deep mid-match... BIG mistake.",
-            "publish_at": "2026-10-20T23:30:00Z",
-            "status": "SCHEDULED",
-            "uploaded": true,
-            "youtube_video_id": "8G5U74OB-qo",
-            "youtube_url": "https://www.youtube.com/shorts/8G5U74OB-qo",
-            "video_file": "ken_1792246995_0_master.mp4",
-            "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792246995_0_master.mp4",
-            "duration": 21.39,
-            "hook_summary": "The creator attempts to introduce a deep, personal topic while intensely playing a high-stakes match, immediately questioning his ability to multitask.",
-            "metadata": {
-              "title": "He tried getting deep mid-match... BIG mistake.",
-              "description": "Ken attempts to drop a massive truth bomb while locked in a high-stakes match, only to instantly realize human brains are wired for failure when multitasking. Watch how quickly the deep conversation derails.\n\n\u2022 Discover why trying to process complex emotions while distracted never works.\n\u2022 Learn the hidden cost of divided focus on genuine connection.\n\u2022 See the exact moment the attempt completely falls apart.\n\nFeaturing: Ken\n\nCan humans actually multitask meaningful conversations, or is it a complete myth? Drop your thoughts below!\n\n#shorts #ken #multitasking #deepthoughts #focus #mindset",
-              "tags": [
-                "multitasking myth",
-                "deep thoughts",
-                "focus and concentration",
-                "conversation tips",
-                "mindset shift",
-                "productivity traps",
-                "divided attention",
-                "communication skills",
-                "ken shorts"
-              ],
-              "pinned_comment": "Be honest: do you actually think you can multitask, or are you just lying to yourself? Let's settle this in the replies.",
-              "ab_variants": {
-                "A": {
-                  "angle": "Curiosity Gap",
-                  "title": "He tried getting deep mid-match... BIG mistake.",
-                  "description": "Ken attempts to drop a massive truth bomb while locked in a high-stakes match, only to instantly realize human brains are wired for failure when multitasking. Watch how quickly the deep conversation derails.\n\n\u2022 Discover why trying to process complex emotions while distracted never works.\n\u2022 Learn the hidden cost of divided focus on genuine connection.\n\u2022 See the exact moment the attempt completely falls apart.\n\nFeaturing: Ken\n\nCan humans actually multitask meaningful conversations, or is it a complete myth? Drop your thoughts below!\n\n#shorts #ken #multitasking #deepthoughts #focus #mindset"
-                },
-                "B": {
-                  "angle": "Contrarian Truth",
-                  "title": "The lie we've been told about multitasking.",
-                  "description": "Everyone thinks they can juggle deep personal talks and high-focus tasks at the same time. Ken puts that dangerous assumption to the ultimate test and exposes the harsh reality live.\n\n\u2022 Shatter the illusion that you can split your brain 50/50.\n\u2022 Understand why deep thoughts require 100% of your bandwidth.\n\u2022 Realize why trying to do both ruins the conversation.\n\nFeaturing: Ken\n\nHave you ever tried to have a serious talk while doing something else? Did it fail instantly?\n\n#shorts #ken #productivity #psychology #truth #focus"
-                },
-                "C": {
-                  "angle": "Actionable Protocol",
-                  "title": "The 1-Rule fix for ruined conversations.",
-                  "description": "If you keep messing up important talks because you're distracted, you need this rule immediately. Ken demonstrates the exact failure mode so you can fix your communication habits today.\n\n\u2022 Apply the single-focus rule to every important conversation.\n\u2022 Eliminate invisible distractions that ruin your emotional depth.\n\u2022 Master the art of being fully present when it matters.\n\nFeaturing: Ken\n\nWhat is your go-to strategy for eliminating distractions during deep talks?\n\n#shorts #ken #communication #selfimprovement #focus #mindset"
-                }
-              },
-              "active_variant": "A",
-              "test_status": "ACTIVE_TEST",
-              "variant_history": [
-                {
-                  "variant": "A",
-                  "title": "He tried getting deep mid-match... BIG mistake.",
-                  "deployed_at": 1792366650.134219,
-                  "reason": "Initial A/B test deployment"
-                }
-              ],
-              "metrics": {
-                "views": 0,
-                "likes": 0,
-                "comments": 0,
-                "retention": 0.0,
-                "ctr": 0.0
-              }
-            },
-            "reframed": "gaming_split"
-          },
-          {
-            "id": "ken_1792318278_1",
-            "source_video": "2.5 cancer cycle [Clutch Moment]",
-            "creator": "Ken",
-            "title": "Why Ken suddenly changed his mind about Clash Royale",
-            "publish_at": "2026-10-21T01:30:00Z",
-            "status": "SCHEDULED",
-            "uploaded": true,
-            "youtube_video_id": "mOQWrknmk7U",
-            "youtube_url": "https://www.youtube.com/shorts/mOQWrknmk7U",
-            "video_file": "ken_1792318278_1_master.mp4",
-            "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792318278_1_master.mp4",
-            "duration": 24.55,
-            "hook_summary": "The creator goes from raging at the game being unfair to completely loving it, explaining his shameless strategy of spamming Royal Giant at the bridge.",
-            "metadata": {
-              "title": "Why Ken suddenly changed his mind about Clash Royale",
-              "description": "Watch the exact moment a total rage-quit transforms into pure celebration mid-match. You won't believe what caused this instant mood flip.\n\n\u2022 Experience the emotional rollercoaster of a mid-ladder Clash Royale meltdown\n\u2022 Discover the exact second the tables turn in Ken's favor\n\u2022 See how quickly a toxic match can become an absolute win\n\nFeaturing: Ken\n\nWhat is the absolute unluckiest you have ever been in a mobile game match? Drop your worst rage stories below!\n\n#shorts #clashroyale #gaming #ken #supercell #mobilegaming",
-              "tags": [
-                "clash royale",
-                "royal giant",
-                "ken clash royale",
-                "clash royale funny moments",
-                "clash royale rage",
-                "clash royale strategy",
-                "mobile gaming",
-                "supercell",
-                "clash royale gameplay"
-              ],
-              "pinned_comment": "Be honest: have you ever screamed out loud and then immediately won the match like this? \ud83d\ude02",
-              "ab_variants": {
-                "A": {
-                  "angle": "Curiosity Gap",
-                  "title": "Why Ken suddenly changed his mind about Clash Royale",
-                  "description": "Watch the exact moment a total rage-quit transforms into pure celebration mid-match. You won't believe what caused this instant mood flip.\n\n\u2022 Experience the emotional rollercoaster of a mid-ladder Clash Royale meltdown\n\u2022 Discover the exact second the tables turn in Ken's favor\n\u2022 See how quickly a toxic match can become an absolute win\n\nFeaturing: Ken\n\nWhat is the absolute unluckiest you have ever been in a mobile game match? Drop your worst rage stories below!\n\n#shorts #clashroyale #gaming #ken #supercell #mobilegaming"
-                },
-                "B": {
-                  "angle": "Contrarian Truth",
-                  "title": "Spamming bridge is actually the smartest play",
-                  "description": "Stop trying to play smart and calculated. Sometimes the most brain-dead, shameless bridge spam is the only strategy that actually works in this broken meta.\n\n\u2022 Learn why overthinking your pushes is secretly ruining your win rate\n\u2022 Embrace the pure chaos of mindless bridge spam tactics\n\u2022 Find out why the meta rewards aggressive, unhinged gameplay over patience\n\nFeaturing: Ken\n\nIs spamming cards at the bridge a legitimate strategy or just pure toxic luck? Let us know your thoughts in the comments!\n\n#shorts #clashroyale #gaming #ken #supercell #mobilegaming"
-                },
-                "C": {
-                  "angle": "Actionable Protocol",
-                  "title": "The exact Royal Giant bridge spam strategy",
-                  "description": "Master the art of the Royal Giant bridge spam with this foolproof guide to completely overwhelming your opponent's defensive cycle before they can react.\n\n\u2022 Step-by-step breakdown of optimal Royal Giant placement timing\n\u2022 How to punish bad elixir trades instantly at the river\n\u2022 The psychological trick to breaking your opponent's mental focus\n\nFeaturing: Ken\n\nWhat is your go-to win condition when you need a desperate win on ladder? Tell us below!\n\n#shorts #clashroyale #gaming #ken #supercell #mobilegaming"
-                }
-              },
-              "active_variant": "A",
-              "test_status": "ACTIVE_TEST",
-              "variant_history": [
-                {
-                  "variant": "A",
-                  "title": "Why Ken suddenly changed his mind about Clash Royale",
-                  "deployed_at": 1792441972.205476,
-                  "reason": "Initial A/B test deployment"
-                }
-              ],
-              "metrics": {
-                "views": 0,
-                "likes": 0,
-                "comments": 0,
-                "retention": 0.0,
-                "ctr": 0.0
-              }
-            },
-            "reframed": "gaming_split"
-          },
-          {
-            "id": "ken_1792318278_2",
-            "source_video": "2.5 cancer cycle [Overtime Battle]",
-            "creator": "Ken",
-            "title": "Never trust a 'Good Luck' in Clash Royale...",
-            "publish_at": "2026-10-21T15:30:00Z",
-            "status": "SCHEDULED",
-            "uploaded": true,
-            "youtube_video_id": "mrG9jdRdbd4",
-            "youtube_url": "https://www.youtube.com/shorts/mrG9jdRdbd4",
-            "video_file": "ken_1792318278_2_master.mp4",
-            "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792318278_2_master.mp4",
-            "duration": 22.99,
-            "hook_summary": "The opponent sends a good luck wish, prompting the creator to immediately spam crying emojis as a mandatory part of the experience.",
-            "metadata": {
-              "title": "Never trust a 'Good Luck' in Clash Royale...",
-              "description": "Receiving a polite greeting at the start of a match is a psychological trap, and the counter-attack requires immediate emotional warfare. Watch how a simple greeting instantly triggers the ultimate toxicity protocol.\n\n\u2022 Recognize the hidden psychological triggers behind opponent emotes\n\u2022 Learn the exact timing for deploying defensive BM (Bad Manner) tactics\n\u2022 Master the art of mental warfare before the first tower even falls\n\nFeaturing: Ken\n\nIs sending a 'Good Luck' at the start of a match actually toxic, or just smart psychology?\n\n#shorts #clashroyale #gaming #ken #supercell #mobilegaming",
-              "tags": [
-                "Clash Royale",
-                "Ken Clash Royale",
-                "Clash Royale Funny",
-                "Clash Royale Emotes",
-                "Clash Royale Toxic",
-                "Clash Royale Momets",
-                "Supercell",
-                "Mobile Gaming",
-                "Clash Royale Gameplay",
-                "Shorts"
-              ],
-              "pinned_comment": "Be honest: do you instantly mute opponents who say good luck, or do you fight back with crying emotes?",
-              "ab_variants": {
-                "A": {
-                  "angle": "Curiosity Gap",
-                  "title": "Never trust a 'Good Luck' in Clash Royale...",
-                  "description": "Receiving a polite greeting at the start of a match is a psychological trap, and the counter-attack requires immediate emotional warfare. Watch how a simple greeting instantly triggers the ultimate toxicity protocol.\n\n\u2022 Recognize the hidden psychological triggers behind opponent emotes\n\u2022 Learn the exact timing for deploying defensive BM (Bad Manner) tactics\n\u2022 Master the art of mental warfare before the first tower even falls\n\nFeaturing: Ken\n\nIs sending a 'Good Luck' at the start of a match actually toxic, or just smart psychology?\n\n#shorts #clashroyale #gaming #ken #supercell #mobilegaming"
-                },
-                "B": {
-                  "angle": "Contrarian Truth",
-                  "title": "Why saying Good Luck makes you lose instantly",
-                  "description": "Being nice in mobile gaming is a fatal flaw that top players exploit ruthlessly. True mastery isn't just about card placement; it's about breaking your opponent's mental state from second one.\n\n\u2022 Why polite greetings are actually red flags in ladder matches\n\u2022 How to weaponize emote spam to force opponent misplays\n\u2022 The brutal reality of modern mobile gaming etiquette\n\nFeaturing: Ken\n\nWould you rather play a toxic emote spammer or a silent player who destroys you?\n\n#shorts #clashroyale #gaming #ken #supercell #mobilegaming"
-                },
-                "C": {
-                  "angle": "Actionable Protocol",
-                  "title": "The Ultimate Clash Royale Emote Defense Strategy",
-                  "description": "When your opponent opens with a friendly greeting, you need an immediate, foolproof counter-strategy to reclaim psychological dominance. Here is the exact playbook for handling early-game pleasantries.\n\n\u2022 Step 1: Identify the fake friendliness of the opening 'Good Luck'\n\u2022 Step 2: Queue up the maximum capacity crying emoji response\n\u2022 Step 3: Secure the psychological advantage before elixir generation starts\n\nFeaturing: Ken\n\nWhat is your go-to emote when an opponent tries to mind-game you at the start?\n\n#shorts #clashroyale #gaming #ken #supercell #mobilegaming"
-                }
-              },
-              "active_variant": "A",
-              "test_status": "ACTIVE_TEST",
-              "variant_history": [
-                {
-                  "variant": "A",
-                  "title": "Never trust a 'Good Luck' in Clash Royale...",
-                  "deployed_at": 1792452777.029142,
-                  "reason": "Initial A/B test deployment"
-                }
-              ],
-              "metrics": {
-                "views": 0,
-                "likes": 0,
-                "comments": 0,
-                "retention": 0.0,
-                "ctr": 0.0
-              }
-            },
-            "reframed": "gaming_split"
-          },
-          {
-            "id": "ken_1792411394_0",
-            "source_video": "new balance changes [Highlight]",
-            "creator": "Ken",
-            "title": "This deck shouldn't work in Ultimate Champion...",
-            "publish_at": "2026-10-21T20:30:00Z",
-            "status": "SCHEDULED",
-            "uploaded": true,
-            "youtube_video_id": "-ZMXI6V0aWY",
-            "youtube_url": "https://www.youtube.com/shorts/-ZMXI6V0aWY",
-            "video_file": "ken_1792411394_0_master.mp4",
-            "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792411394_0_master.mp4",
-            "duration": 24.13,
-            "hook_summary": "The creator showcases a custom Clash Royale deck that is three wins away from Ultimate Champion, finishing with a hilariously detailed prediction of crashing out.",
-            "metadata": {
-              "title": "This deck shouldn't work in Ultimate Champion...",
-              "description": "Three wins away from Ultimate Champion, and I cooked up something completely unhinged. You won't believe how this custom strategy actually holds up under pressure.\n\n\u2022 Discover a rogue custom deck built to surprise top-tier ladder opponents\n\u2022 See how to navigate intense matchups right on the edge of Ultimate Champion\n\u2022 Watch the inevitable, hilarious chaos unfold when the strategy gets tested\n\nFeaturing: Ken\n\nWould you actually risk your rank running this bizarre deck, or is it an instant loss?\n\n#shorts #clashroyale #gaming #ken #supercell #mobilegaming",
-              "tags": [
-                "Clash Royale",
-                "Ultimate Champion",
-                "Ken Clash Royale",
-                "Clash Royale Deck",
-                "Clash Royale Shorts",
-                "Custom Deck Strategy",
-                "Clash Royale Gameplay",
-                "Mobile Gaming",
-                "Supercell",
-                "Clash Royale Meta"
-              ],
-              "pinned_comment": "Be honest: would you actually trust this deck with 3 wins on the line, or are you immediately pressing surrender?",
-              "ab_variants": {
-                "A": {
-                  "angle": "Curiosity Gap",
-                  "title": "This deck shouldn't work in Ultimate Champion...",
-                  "description": "Three wins away from Ultimate Champion, and I cooked up something completely unhinged. You won't believe how this custom strategy actually holds up under pressure.\n\n\u2022 Discover a rogue custom deck built to surprise top-tier ladder opponents\n\u2022 See how to navigate intense matchups right on the edge of Ultimate Champion\n\u2022 Watch the inevitable, hilarious chaos unfold when the strategy gets tested\n\nFeaturing: Ken\n\nWould you actually risk your rank running this bizarre deck, or is it an instant loss?\n\n#shorts #clashroyale #gaming #ken #supercell #mobilegaming"
-                },
-                "B": {
-                  "angle": "Contrarian Truth",
-                  "title": "Stop using meta decks for Ultimate Champion",
-                  "description": "Everyone says you need standard meta decks to reach Ultimate Champion, but they are completely wrong. Watch how a wild, custom creation outsmarts the standard playbook.\n\n\u2022 Break away from boring meta strategies with a totally fresh approach\n\u2022 Learn how to punish predictable opponent plays with unexpected card combos\n\u2022 Witness the exact moment a genius prediction goes horribly, hilariously wrong\n\nFeaturing: Ken\n\nAre off-meta custom decks actually better than standard meta lists, or is this pure luck?\n\n#shorts #clashroyale #gaming #ken #supercell #mobilegaming"
-                },
-                "C": {
-                  "angle": "Actionable Protocol",
-                  "title": "The exact deck to beat Ultimate Champion today",
-                  "description": "Need three wins to secure Ultimate Champion? Here is the exact custom deck blueprint I cooked up to tackle the hardest ladder matches in the game right now.\n\n\u2022 Step-by-step breakdown of a high-stakes custom ladder strategy\n\u2022 Key positioning tips to survive against top-tier meta threats\n\u2022 Master the art of the ultimate prediction play before you crash out\n\nFeaturing: Ken\n\nWhat is the absolute worst card you would swap out of this custom list?\n\n#shorts #clashroyale #gaming #ken #supercell #mobilegaming"
-                }
-              },
-              "active_variant": "A",
-              "test_status": "ACTIVE_TEST",
-              "variant_history": [
-                {
-                  "variant": "A",
-                  "title": "This deck shouldn't work in Ultimate Champion...",
-                  "deployed_at": 1792459926.0892859,
-                  "reason": "Initial A/B test deployment"
-                }
-              ],
-              "metrics": {
-                "views": 0,
-                "likes": 0,
-                "comments": 0,
-                "retention": 0.0,
-                "ctr": 0.0
-              }
-            },
-            "reframed": "gaming_split"
-          },
-          {
-            "id": "ken_1792411394_1",
-            "source_video": "new balance changes [Clutch Moment]",
-            "creator": "Ken",
-            "title": "How did he actually win this impossible match?",
-            "publish_at": "2026-10-22T01:30:00Z",
-            "status": "SCHEDULED",
-            "uploaded": true,
-            "youtube_video_id": "_D1GUgTHRJM",
-            "youtube_url": "https://www.youtube.com/shorts/_D1GUgTHRJM",
-            "video_file": "ken_1792411394_1_master.mp4",
-            "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792411394_1_master.mp4",
-            "duration": 24.47,
-            "hook_summary": "The creator reacts with disbelief to an unexpected game-winning play, breaking down how the win happened despite the opponent's hard counter.",
-            "metadata": {
-              "title": "How did he actually win this impossible match?",
-              "description": "Watch the exact moment an unwinnable Clash Royale match completely flips on its head. Ken breaks down the ultimate upset that nobody saw coming.\n\n\u2022 Spot the exact micro-play that changed the entire outcome of the match\n\u2022 Learn how to extract maximum value from low-cost defensive cards\n\u2022 See how a massive disadvantage turns into a clutch game-winning moment\n\nFeaturing: Ken\n\nWhat is the worst hard counter matchup you have ever miraculously managed to win?\n\n#shorts #clashroyale #gaming #ken #supercell #mobilegaming",
-              "tags": [
-                "Clash Royale",
-                "Ken Clash Royale",
-                "Clash Royale Funny Moments",
-                "Clash Royale Clutch",
-                "Clash Royale Gameplay",
-                "Clash Royale Shorts",
-                "Mobile Gaming",
-                "Supercell",
-                "Clash Royale Tips"
-              ],
-              "pinned_comment": "Be honest: would you have surrendered the moment you saw the hard counter, or kept playing like this?",
-              "ab_variants": {
-                "A": {
-                  "angle": "Curiosity Gap",
-                  "title": "How did he actually win this impossible match?",
-                  "description": "Watch the exact moment an unwinnable Clash Royale match completely flips on its head. Ken breaks down the ultimate upset that nobody saw coming.\n\n\u2022 Spot the exact micro-play that changed the entire outcome of the match\n\u2022 Learn how to extract maximum value from low-cost defensive cards\n\u2022 See how a massive disadvantage turns into a clutch game-winning moment\n\nFeaturing: Ken\n\nWhat is the worst hard counter matchup you have ever miraculously managed to win?\n\n#shorts #clashroyale #gaming #ken #supercell #mobilegaming"
-                },
-                "B": {
-                  "angle": "Contrarian Truth",
-                  "title": "Hard counters don't matter if you do this.",
-                  "description": "Everyone says you automatically lose when facing your hard counter, but this insane gameplay proves conventional wisdom completely wrong. Ken reacts to a miraculous turnaround.\n\u2022 Why matchups aren't as definitive as the tier lists claim\n\u2022 Capitalizing on opponent overconfidence during late-game chaos\n\u2022 Turning a disadvantageous cycle into a surprise win\n\nFeaturing: Ken\n\nAre hard counters actually unbeatable, or do players just give up too early?\n\n#shorts #clashroyale #gaming #ken #supercell #strategy"
-                },
-                "C": {
-                  "angle": "Actionable Protocol",
-                  "title": "The ultimate log placement to steal the win.",
-                  "description": "Master the art of high-value defensive plays when your back is completely against the wall. Ken breaks down the precise mechanics behind this clutch win.\n\u2022 Exact tile placement for maximum defensive impact\n\u2022 Timing your counter-push against overwhelming odds\n\u2022 Executing high-risk plays under extreme clock pressure\n\nFeaturing: Ken\n\nWhat is your go-to spell for saving a game in single-digit overtime?\n\n#shorts #clashroyale #gaming #ken #supercell #protips"
-                }
-              },
-              "active_variant": "A",
-              "test_status": "ACTIVE_TEST",
-              "variant_history": [
-                {
-                  "variant": "A",
-                  "title": "How did he actually win this impossible match?",
-                  "deployed_at": 1792462619.321089,
-                  "reason": "Initial A/B test deployment"
-                }
-              ],
-              "metrics": {
-                "views": 0,
-                "likes": 0,
-                "comments": 0,
-                "retention": 0.0,
-                "ctr": 0.0
-              }
-            },
-            "reframed": "gaming_split"
-          },
-          {
-            "id": "ken_1792500844_1",
-            "source_video": "welcome to hell [Clutch Moment]",
-            "creator": "Ken",
-            "title": "The Secret 'Win Simulator' Strategy \ud83c\udfc6",
-            "publish_at": "2026-10-22T15:30:00Z",
-            "status": "SCHEDULED",
-            "uploaded": true,
-            "youtube_video_id": "X7StAXY94mc",
-            "youtube_url": "https://www.youtube.com/shorts/X7StAXY94mc",
-            "video_file": "ken_1792500844_1_master.mp4",
-            "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792500844_1_master.mp4",
-            "duration": 32.0,
-            "hook_summary": "Essential discussion and core insight",
-            "metadata": {
-              "title": "The Secret 'Win Simulator' Strategy \ud83c\udfc6",
-              "description": "Ken reveals the one specific gameplay loop that feels like a literal cheat code in the current meta. If you aren't using this, you're playing on hard mode.\n\n\u2022 Identify the 'Win Simulator' trigger\n\u2022 Why this specific loop is currently unstoppable\n\u2022 How to cycle back to your win condition instantly\n\nFeaturing: Ken\n\nIs this strategy a legitimate playstyle or does it take the skill out of the game?\n\n#shorts #clashroyale #gaming #ken #supercell #meta",
-              "tags": [
-                "Clash Royale",
-                "Ken",
-                "Win Simulator",
-                "Gaming Strategy",
-                "CR Meta",
-                "Supercell",
-                "Mobile Gaming",
-                "Pro Tips",
-                "Deck Guide",
-                "Podcast Discussion"
-              ],
-              "pinned_comment": "Is the 'Win Simulator' meta ruining the game, or is it just the smartest way to play right now? \ud83d\udc47",
-              "ab_variants": {
-                "A": {
-                  "angle": "Curiosity Gap",
-                  "title": "The Secret 'Win Simulator' Strategy \ud83c\udfc6",
-                  "description": "Ken reveals the one specific gameplay loop that feels like a literal cheat code in the current meta. If you aren't using this, you're playing on hard mode.\n\n\u2022 Identify the 'Win Simulator' trigger\n\u2022 Why this specific loop is currently unstoppable\n\u2022 How to cycle back to your win condition instantly\n\nFeaturing: Ken\n\nIs this strategy a legitimate playstyle or does it take the skill out of the game?\n\n#shorts #clashroyale #gaming #ken #supercell #meta"
-                },
-                "B": {
-                  "angle": "Contrarian Truth",
-                  "title": "Why Skill is Dead in This Meta \ud83d\udc80",
-                  "description": "Stop trying to outplay your opponent and start using the 'Win Simulator.' Ken explains why the game has shifted from tactical defense to a guaranteed win loop.\n\n\u2022 The end of traditional defensive play\n\u2022 Why the 'Simulator' approach beats high-skill decks\n\u2022 Exploiting the game's current math\n\nFeaturing: Ken\n\nWould you rather have a balanced game or a meta that allows for easy wins like this?\n\n#shorts #gaming #clashroyale #ken #mobilegaming #broken"
-                },
-                "C": {
-                  "angle": "Actionable Protocol",
-                  "title": "The Perfect 'Win Simulator' Protocol \ud83c\udfae",
-                  "description": "Master the exact framework Ken uses to turn every match into a win simulator. This is the most efficient way to climb the ladder right now.\n\n\u2022 3 steps to activate the win loop\n\u2022 Management of elixir for maximum pressure\n\u2022 The 'just go for another one' mindset shift\n\nFeaturing: Ken\n\nWhat is the highest trophy count you have reached using this specific strategy?\n\n#shorts #clashroyale #strategy #ken #mobilegaming #tips"
-                }
-              },
-              "active_variant": "A",
-              "test_status": "ACTIVE_TEST",
-              "variant_history": [
-                {
-                  "variant": "A",
-                  "title": "The Secret 'Win Simulator' Strategy \ud83c\udfc6",
-                  "deployed_at": 1792512780.024448,
-                  "reason": "Initial A/B test deployment"
-                }
-              ],
-              "metrics": {
-                "views": 0,
-                "likes": 0,
-                "comments": 0,
-                "retention": 0.0,
-                "ctr": 0.0
-              }
-            },
-            "reframed": "gaming_split"
-          },
-          {
-            "id": "ken_1792500844_2",
-            "source_video": "welcome to hell [Overtime Battle]",
-            "creator": "Ken",
-            "title": "Ken: The \"Miserable\" Truth About the Meta",
-            "publish_at": "2026-10-22T20:30:00Z",
-            "status": "SCHEDULED",
-            "uploaded": true,
-            "youtube_video_id": "LfKxwVmaMEE",
-            "youtube_url": "https://www.youtube.com/shorts/LfKxwVmaMEE",
-            "video_file": "ken_1792500844_2_master.mp4",
-            "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792500844_2_master.mp4",
-            "duration": 31.81,
-            "hook_summary": "Essential discussion and core insight",
-            "metadata": {
-              "title": "Ken: The \"Miserable\" Truth About the Meta",
-              "description": "Ken reveals the one change that might ruin the game for everyone. This is the reality most players aren't ready to face.\n\n- The truth about the upcoming shift\n- Why your current strategy will fail\n- How to survive the transition\n\nFeaturing: Ken\n\nWill this change kill the fun or just raise the skill ceiling?\n\n#shorts #clashroyale #gaming #ken #supercell #mobilegaming",
-              "tags": [
-                "clash royale",
-                "gaming",
-                "ken",
-                "supercell",
-                "mobile gaming",
-                "podcast",
-                "gaming strategy",
-                "meta update",
-                "shorts feed",
-                "competitive gaming"
-              ],
-              "pinned_comment": "Ken says the next phase is going to be \"miserable\"\u2014is the game actually getting harder, or are we just not adapting fast enough? \ud83d\udc47",
-              "ab_variants": {
-                "A": {
-                  "angle": "Curiosity Gap",
-                  "title": "Ken: The \"Miserable\" Truth About the Meta",
-                  "description": "Ken reveals the one change that might ruin the game for everyone. This is the reality most players aren't ready to face.\n\n- The truth about the upcoming shift\n- Why your current strategy will fail\n- How to survive the transition\n\nFeaturing: Ken\n\nWill this change kill the fun or just raise the skill ceiling?\n\n#shorts #clashroyale #gaming #ken #supercell #mobilegaming"
-                },
-                "B": {
-                  "angle": "Contrarian / Shock",
-                  "title": "Stop Playing for Fun. It\u2019s Getting Worse.",
-                  "description": "You think you\u2019re prepared for the grind, but Ken explains why the current system is designed for total misery. Success now requires a complete pivot.\n\n- The fallacy of \"easy\" wins in this meta\n- Why losing is part of the new math\n- Ken's brutal honesty on the grind\n\nFeaturing: Ken\n\nIs the reward actually worth the effort anymore, or is it time to quit?\n\n#shorts #gaming #ken #clashroyale #mobilegaming #supercell"
-                },
-                "C": {
-                  "angle": "Actionable Protocol",
-                  "title": "Survival Guide: Mastering the \"Miserable\" Grind",
-                  "description": "Don't get left behind when the difficulty spikes. Ken outlines the core strategy to stay competitive even when the game feels impossible.\n\n- Defensive rotation mastery secrets\n- Resource management under pressure\n- How to maintain your mental edge\n\nFeaturing: Ken\n\nWhat is your #1 strategy for surviving a toxic meta?\n\n#shorts #strategy #ken #gaming #clashroyale #protips"
-                }
-              },
-              "active_variant": "A",
-              "test_status": "ACTIVE_TEST",
-              "variant_history": [
-                {
-                  "variant": "A",
-                  "title": "Ken: The \"Miserable\" Truth About the Meta",
-                  "deployed_at": 1792513027.969124,
-                  "reason": "Initial A/B test deployment"
-                }
-              ],
-              "metrics": {
-                "views": 0,
-                "likes": 0,
-                "comments": 0,
-                "retention": 0.0,
-                "ctr": 0.0
-              }
-            },
-            "reframed": "gaming_split"
-          }
-        ],
+        "scheduled": [],
         "held": [],
         "published": [
           {
@@ -1210,7 +743,7 @@
                 "comments": 0,
                 "retention": 0.0,
                 "ctr": 0.0,
-                "velocity_vph": 114.96,
+                "velocity_vph": 112.7,
                 "engagement_pct": 0.47
               }
             },
@@ -1278,7 +811,7 @@
                 "comments": 0,
                 "retention": 0.0,
                 "ctr": 0.0,
-                "velocity_vph": 146.48,
+                "velocity_vph": 145.47,
                 "engagement_pct": 1.28
               }
             },
@@ -1346,7 +879,7 @@
                 "comments": 0,
                 "retention": 0.0,
                 "ctr": 0.0,
-                "velocity_vph": 33.15,
+                "velocity_vph": 32.97,
                 "engagement_pct": 1.76
               }
             },
@@ -1414,7 +947,7 @@
                 "comments": 0,
                 "retention": 0.0,
                 "ctr": 0.0,
-                "velocity_vph": 15.92,
+                "velocity_vph": 15.85,
                 "engagement_pct": 0.75
               }
             },
@@ -1483,7 +1016,7 @@
                 "comments": 0,
                 "retention": 0.0,
                 "ctr": 0.0,
-                "velocity_vph": 9.7,
+                "velocity_vph": 9.68,
                 "engagement_pct": 1.03
               }
             },
@@ -1551,7 +1084,7 @@
                 "comments": 0,
                 "retention": 0.0,
                 "ctr": 0.0,
-                "velocity_vph": 17.41,
+                "velocity_vph": 17.38,
                 "engagement_pct": 0.55
               }
             },
@@ -1619,7 +1152,7 @@
                 "comments": 0,
                 "retention": 0.0,
                 "ctr": 0.0,
-                "velocity_vph": 17.2,
+                "velocity_vph": 17.17,
                 "engagement_pct": 2.8
               }
             },
@@ -1687,7 +1220,7 @@
                 "comments": 0,
                 "retention": 0.0,
                 "ctr": 0.0,
-                "velocity_vph": 10.56,
+                "velocity_vph": 10.55,
                 "engagement_pct": 0.37
               }
             },
@@ -1697,7 +1230,7 @@
             "id": "ken_1792212492_9",
             "source_video": "least busted card [Clutch Moment]",
             "creator": "Ken",
-            "title": "Why Chip Cycling Just Lost Its Power",
+            "title": "Chip Cycling Is Officially Dead",
             "publish_at": "2026-10-19T17:00:00Z",
             "status": "PUBLISHED",
             "uploaded": true,
@@ -1708,8 +1241,8 @@
             "duration": 27.73,
             "hook_summary": "The creator makes a bold claim about why traditional chip cycle strategies are officially dead in the current meta.",
             "metadata": {
-              "title": "Why Chip Cycling Just Lost Its Power",
-              "description": "Most players are still wasting elixir on a strategy that the current meta has completely broken. Ken breaks down the exact reason why chipping the tower is a losing battle now.\n\n\u2022 Discover why traditional chip damage no longer wins games\n\u2022 The hidden shift in defensive meta you missed\n\u2022 How to adapt your strategy before your rank drops\n\nFeaturing: Ken\n\nAre you still trying to chip towers, or have you adapted to the new meta?\n\n#shorts #ken #clashroyale #gaming #strategy #metashift",
+              "title": "Chip Cycling Is Officially Dead",
+              "description": "Forget everything you know about standard tower pressure because chip cycle is officially dead. Ken exposes why minor chip damage is a complete waste of your resources.\n\n\u2022 The brutal truth about current tower defense scaling\n\u2022 Why bridge spam punishes old-school tactics instantly\n\u2022 The exact moment you should stop chipping and start saving\n\nFeaturing: Ken\n\nIs bridge spam actually unbeatable right now, or is there a counter?\n\n#shorts #ken #gamingtips #meta #clashroyale #strategy",
               "tags": [
                 "chip cycle",
                 "bridge spam",
@@ -1739,7 +1272,7 @@
                   "description": "If you are still relying on minor tower chips to win, you are playing the game wrong. Ken shares the exact rule you need to follow to stop bleeding elixir in today's meta.\n\n\u2022 The new golden rule for elixir management\n\u2022 How to pivot away from outdated chip strategies\n\u2022 Building a push that actually overwhelms modern defenses\n\nFeaturing: Ken\n\nWhat is your go-to win condition if not chip damage?\n\n#shorts #ken #gaming #protips #clashroyale #elixir"
                 }
               },
-              "active_variant": "A",
+              "active_variant": "B",
               "test_status": "ACTIVE_TEST",
               "variant_history": [
                 {
@@ -1823,7 +1356,7 @@
                 "comments": 0,
                 "retention": 0.0,
                 "ctr": 0.0,
-                "velocity_vph": 12.68,
+                "velocity_vph": 12.66,
                 "engagement_pct": 1.79
               }
             },
@@ -1891,7 +1424,7 @@
                 "comments": 0,
                 "retention": 0.0,
                 "ctr": 0.0,
-                "velocity_vph": 11.1,
+                "velocity_vph": 11.08,
                 "engagement_pct": 1.11
               }
             },
@@ -1959,7 +1492,7 @@
                 "comments": 0,
                 "retention": 0.0,
                 "ctr": 0.0,
-                "velocity_vph": 25.05,
+                "velocity_vph": 25.03,
                 "engagement_pct": 1.09
               }
             },
@@ -2027,7 +1560,7 @@
                 "comments": 0,
                 "retention": 0.0,
                 "ctr": 0.0,
-                "velocity_vph": 26.32,
+                "velocity_vph": 26.3,
                 "engagement_pct": 0.97
               }
             },
@@ -2095,7 +1628,7 @@
                 "comments": 0,
                 "retention": 0.0,
                 "ctr": 0.0,
-                "velocity_vph": 23.43,
+                "velocity_vph": 23.41,
                 "engagement_pct": 0.94
               }
             },
@@ -2163,7 +1696,7 @@
                 "comments": 0,
                 "retention": 0.0,
                 "ctr": 0.0,
-                "velocity_vph": 6.19,
+                "velocity_vph": 6.18,
                 "engagement_pct": 1.52
               }
             },
@@ -2231,7 +1764,7 @@
                 "comments": 0,
                 "retention": 0.0,
                 "ctr": 0.0,
-                "velocity_vph": 22.75,
+                "velocity_vph": 22.74,
                 "engagement_pct": 0.94
               }
             },
@@ -2473,7 +2006,7 @@
                 "comments": 0,
                 "retention": 0.0,
                 "ctr": 0.0,
-                "velocity_vph": 20.94,
+                "velocity_vph": 20.93,
                 "engagement_pct": 1.6
               }
             },
@@ -2637,7 +2170,7 @@
                 "comments": 1,
                 "retention": 0.0,
                 "ctr": 0.0,
-                "velocity_vph": 13.33,
+                "velocity_vph": 13.32,
                 "engagement_pct": 0.92
               }
             },
@@ -2773,7 +2306,7 @@
                 "comments": 2,
                 "retention": 0.0,
                 "ctr": 0.0,
-                "velocity_vph": 10.4,
+                "velocity_vph": 10.39,
                 "engagement_pct": 0.98
               }
             },
@@ -3043,7 +2576,7 @@
                 "views": 315,
                 "likes": 4,
                 "comments": 2,
-                "velocity_vph": 2.1,
+                "velocity_vph": 2.09,
                 "engagement_pct": 1.9
               },
               "test_status": "WINNER_LOCKED"
@@ -3063,77 +2596,77 @@
           "estimated_revenue_usd": 0.0,
           "health_grade": "A+",
           "total_shorts_published": 30,
-          "last_audit": 1792534878.4266398
+          "last_audit": 1792535012.004587
         },
         "top_shorts": [
           {
             "title": "The Evo E-Giant is actually unplayable (bad)",
             "creator": "Ken",
             "views": 213,
-            "velocity": 114.96,
+            "velocity": 112.7,
             "angle": "Contrarian Truth"
           },
           {
             "title": "This 1 Card Makes eGiant Unstoppable...",
             "creator": "Ken",
             "views": 784,
-            "velocity": 146.48,
+            "velocity": 145.47,
             "angle": "Curiosity Gap"
           },
           {
             "title": "Why this broken spam strategy actually works...",
             "creator": "Ken",
             "views": 227,
-            "velocity": 33.15,
+            "velocity": 32.97,
             "angle": "Curiosity Gap"
           },
           {
             "title": "Gaming rage isn't about the game at all.",
             "creator": "Ken",
             "views": 133,
-            "velocity": 15.92,
+            "velocity": 15.85,
             "angle": "Contrarian Truth"
           },
           {
             "title": "He actually said this in the lobby... \ud83d\udc80",
             "creator": "Ken",
             "views": 195,
-            "velocity": 9.7,
+            "velocity": 9.68,
             "angle": "Curiosity Gap"
           },
           {
             "title": "Why adults secretly act so boring...",
             "creator": "Ken",
             "views": 363,
-            "velocity": 17.41,
+            "velocity": 17.38,
             "angle": "Curiosity Gap"
           },
           {
             "title": "The illegal Evo Hunter trick nobody is using",
             "creator": "Ken",
             "views": 393,
-            "velocity": 17.2,
+            "velocity": 17.17,
             "angle": "Curiosity Gap"
           },
           {
             "title": "The Golden Rule of YouTube Comments",
             "creator": "Ken",
             "views": 273,
-            "velocity": 10.56,
+            "velocity": 10.55,
             "angle": "Actionable Protocol"
           },
           {
             "title": "He regret saying this immediately...",
             "creator": "Ken",
             "views": 391,
-            "velocity": 12.68,
+            "velocity": 12.66,
             "angle": "Curiosity Gap"
           },
           {
             "title": "Why the best deck ruins the game",
             "creator": "Ken",
             "views": 359,
-            "velocity": 11.1,
+            "velocity": 11.08,
             "angle": "Curiosity Gap"
           }
         ],
@@ -6019,14 +5552,14 @@
       "current_task": "Queue up to date. Waiting for next daily Ken upload.",
       "last_completed_task": "Ingested 5 recent Ken master videos into source pool",
       "recent_logs": [
-        "[18:14:23] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
-        "[18:14:36] Queue up to date. Waiting for next daily Ken upload.",
         "[18:16:38] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
         "[18:16:50] Queue up to date. Waiting for next daily Ken upload.",
         "[18:18:52] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
         "[18:19:03] Queue up to date. Waiting for next daily Ken upload.",
         "[18:21:05] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
-        "[18:21:16] Queue up to date. Waiting for next daily Ken upload."
+        "[18:21:16] Queue up to date. Waiting for next daily Ken upload.",
+        "[18:23:18] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
+        "[18:23:30] Queue up to date. Waiting for next daily Ken upload."
       ]
     },
     "STRATEGIST": {
@@ -6034,14 +5567,14 @@
       "current_task": "No queued Ken candidates ready. Waiting for SCOUT.",
       "last_completed_task": "Mapped 3 distinct viral gaming hook angles for initial drops",
       "recent_logs": [
-        "[17:57:36] No queued Ken candidates ready. Waiting for SCOUT.",
         "[17:59:50] No queued Ken candidates ready. Waiting for SCOUT.",
         "[18:02:06] No queued Ken candidates ready. Waiting for SCOUT.",
         "[18:04:39] No queued Ken candidates ready. Waiting for SCOUT.",
         "[18:14:36] No queued Ken candidates ready. Waiting for SCOUT.",
         "[18:16:50] No queued Ken candidates ready. Waiting for SCOUT.",
         "[18:19:03] No queued Ken candidates ready. Waiting for SCOUT.",
-        "[18:21:16] No queued Ken candidates ready. Waiting for SCOUT."
+        "[18:21:16] No queued Ken candidates ready. Waiting for SCOUT.",
+        "[18:23:30] No queued Ken candidates ready. Waiting for SCOUT."
       ]
     },
     "EDITOR": {
@@ -6088,14 +5621,14 @@
       "current_task": "Telemetry Audit: 22,020 views (30 shorts). Auto-pivoted 1 stalled title(s).",
       "last_completed_task": "Calibrated gaming threshold: >15 views/hr within 4h",
       "recent_logs": [
-        "[17:57:38] Telemetry Audit: 21,915 views (30 shorts). Auto-pivoted 1 stalled title(s).",
         "[17:59:52] Telemetry Audit: 21,932 views (30 shorts). Auto-pivoted 1 stalled title(s).",
         "[18:02:08] Telemetry Audit: 21,942 views (30 shorts). Auto-pivoted 1 stalled title(s).",
         "[18:12:23] Telemetry Audit: 21,973 views (30 shorts). Auto-pivoted 1 stalled title(s).",
         "[18:14:38] Telemetry Audit: 22,001 views (30 shorts). Auto-pivoted 1 stalled title(s).",
         "[18:16:52] Telemetry Audit: 22,017 views (30 shorts). Auto-pivoted 1 stalled title(s).",
         "[18:19:05] Telemetry Audit: 22,017 views (30 shorts). Auto-pivoted 1 stalled title(s).",
-        "[18:21:18] Telemetry Audit: 22,020 views (30 shorts). Auto-pivoted 1 stalled title(s)."
+        "[18:21:18] Telemetry Audit: 22,020 views (30 shorts). Auto-pivoted 1 stalled title(s).",
+        "[18:23:32] Telemetry Audit: 22,020 views (30 shorts). Auto-pivoted 1 stalled title(s)."
       ]
     },
     "WATCHDOG": {
@@ -6103,19 +5636,110 @@
       "current_task": "Verifying Supercell fan policy: 0 claims, 0 strikes.",
       "last_completed_task": "Audited source parameters: strictly <30s segment rule active",
       "recent_logs": [
-        "[17:57:38] Verifying Supercell fan policy: 0 claims, 0 strikes.",
         "[17:59:52] Verifying Supercell fan policy: 0 claims, 0 strikes.",
         "[18:02:08] Verifying Supercell fan policy: 0 claims, 0 strikes.",
         "[18:12:23] Verifying Supercell fan policy: 0 claims, 0 strikes.",
         "[18:14:38] Verifying Supercell fan policy: 0 claims, 0 strikes.",
         "[18:16:52] Verifying Supercell fan policy: 0 claims, 0 strikes.",
         "[18:19:05] Verifying Supercell fan policy: 0 claims, 0 strikes.",
-        "[18:21:18] Verifying Supercell fan policy: 0 claims, 0 strikes."
+        "[18:21:18] Verifying Supercell fan policy: 0 claims, 0 strikes.",
+        "[18:23:32] Verifying Supercell fan policy: 0 claims, 0 strikes."
       ]
     }
   },
   "queue": {
     "queue": [
+      {
+        "id": "ken_1792500844_2",
+        "creator": "Ken",
+        "title": "welcome to hell [Overtime Battle]",
+        "source_title": "welcome to hell",
+        "url": "https://www.youtube.com/watch?v=E2w0V3SzeqY",
+        "section": "*540-720",
+        "duration": 2022,
+        "status": "QUEUED_FOR_REMASTER",
+        "added_at": "2026-10-20T12:54:04Z",
+        "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792500844_2_master.mp4",
+        "youtube_video_id": null
+      },
+      {
+        "id": "ken_1792500844_1",
+        "creator": "Ken",
+        "title": "welcome to hell [Clutch Moment]",
+        "source_title": "welcome to hell",
+        "url": "https://www.youtube.com/watch?v=E2w0V3SzeqY",
+        "section": "*300-480",
+        "duration": 2022,
+        "status": "QUEUED_FOR_REMASTER",
+        "added_at": "2026-10-20T12:54:04Z",
+        "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792500844_1_master.mp4",
+        "youtube_video_id": null
+      },
+      {
+        "id": "ken_1792411394_1",
+        "creator": "Ken",
+        "title": "new balance changes [Clutch Moment]",
+        "source_title": "new balance changes",
+        "url": "https://www.youtube.com/watch?v=efXvyv0t4Yo",
+        "section": "*300-480",
+        "duration": 857,
+        "status": "QUEUED_FOR_REMASTER",
+        "added_at": "2026-10-19T12:03:14Z",
+        "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792411394_1_master.mp4",
+        "youtube_video_id": null
+      },
+      {
+        "id": "ken_1792411394_0",
+        "creator": "Ken",
+        "title": "new balance changes [Highlight]",
+        "source_title": "new balance changes",
+        "url": "https://www.youtube.com/watch?v=efXvyv0t4Yo",
+        "section": "*60-240",
+        "duration": 857,
+        "status": "QUEUED_FOR_REMASTER",
+        "added_at": "2026-10-19T12:03:14Z",
+        "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792411394_0_master.mp4",
+        "youtube_video_id": null
+      },
+      {
+        "id": "ken_1792318278_2",
+        "creator": "Ken",
+        "title": "2.5 cancer cycle [Overtime Battle]",
+        "source_title": "2.5 cancer cycle",
+        "url": "https://www.youtube.com/watch?v=Lt-aEAtFys0",
+        "section": "*540-720",
+        "duration": 1436,
+        "status": "QUEUED_FOR_REMASTER",
+        "added_at": "2026-10-18T10:11:18Z",
+        "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792318278_2_master.mp4",
+        "youtube_video_id": null
+      },
+      {
+        "id": "ken_1792318278_1",
+        "creator": "Ken",
+        "title": "2.5 cancer cycle [Clutch Moment]",
+        "source_title": "2.5 cancer cycle",
+        "url": "https://www.youtube.com/watch?v=Lt-aEAtFys0",
+        "section": "*300-480",
+        "duration": 1436,
+        "status": "QUEUED_FOR_REMASTER",
+        "added_at": "2026-10-18T10:11:18Z",
+        "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792318278_1_master.mp4",
+        "youtube_video_id": null
+      },
+      {
+        "id": "ken_1792246995_0",
+        "creator": "Ken",
+        "title": "1.9 aggression cycle [Highlight]",
+        "source_title": "1.9 aggression cycle",
+        "url": "https://www.youtube.com/watch?v=1tKJ4BnHC2A",
+        "section": "*60-240",
+        "duration": 2181,
+        "status": "QUEUED_FOR_REMASTER",
+        "added_at": "2026-10-17T14:23:15Z",
+        "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792246995_0_master.mp4",
+        "youtube_video_id": null
+      },
       {
         "id": "ken_1792212492_8",
         "creator": "Ken",
@@ -6469,19 +6093,6 @@
         "youtube_video_id": "0WNit8ylt38"
       },
       {
-        "id": "ken_1792246995_0",
-        "creator": "Ken",
-        "title": "1.9 aggression cycle [Highlight]",
-        "source_title": "1.9 aggression cycle",
-        "url": "https://www.youtube.com/watch?v=1tKJ4BnHC2A",
-        "section": "*60-240",
-        "duration": 2181,
-        "status": "COMPLETED",
-        "added_at": "2026-10-17T14:23:15Z",
-        "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792246995_0_master.mp4",
-        "youtube_video_id": "8G5U74OB-qo"
-      },
-      {
         "id": "ken_1792246995_1",
         "creator": "Ken",
         "title": "1.9 aggression cycle [Clutch Moment]",
@@ -6519,556 +6130,11 @@
         "added_at": "2026-10-18T10:11:18Z",
         "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792318278_0_master.mp4",
         "youtube_video_id": "mn2b9SbHoe0"
-      },
-      {
-        "id": "ken_1792318278_1",
-        "creator": "Ken",
-        "title": "2.5 cancer cycle [Clutch Moment]",
-        "source_title": "2.5 cancer cycle",
-        "url": "https://www.youtube.com/watch?v=Lt-aEAtFys0",
-        "section": "*300-480",
-        "duration": 1436,
-        "status": "COMPLETED",
-        "added_at": "2026-10-18T10:11:18Z",
-        "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792318278_1_master.mp4",
-        "youtube_video_id": "mOQWrknmk7U"
-      },
-      {
-        "id": "ken_1792318278_2",
-        "creator": "Ken",
-        "title": "2.5 cancer cycle [Overtime Battle]",
-        "source_title": "2.5 cancer cycle",
-        "url": "https://www.youtube.com/watch?v=Lt-aEAtFys0",
-        "section": "*540-720",
-        "duration": 1436,
-        "status": "COMPLETED",
-        "added_at": "2026-10-18T10:11:18Z",
-        "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792318278_2_master.mp4",
-        "youtube_video_id": "mrG9jdRdbd4"
-      },
-      {
-        "id": "ken_1792411394_0",
-        "creator": "Ken",
-        "title": "new balance changes [Highlight]",
-        "source_title": "new balance changes",
-        "url": "https://www.youtube.com/watch?v=efXvyv0t4Yo",
-        "section": "*60-240",
-        "duration": 857,
-        "status": "COMPLETED",
-        "added_at": "2026-10-19T12:03:14Z",
-        "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792411394_0_master.mp4",
-        "youtube_video_id": "-ZMXI6V0aWY"
-      },
-      {
-        "id": "ken_1792411394_1",
-        "creator": "Ken",
-        "title": "new balance changes [Clutch Moment]",
-        "source_title": "new balance changes",
-        "url": "https://www.youtube.com/watch?v=efXvyv0t4Yo",
-        "section": "*300-480",
-        "duration": 857,
-        "status": "COMPLETED",
-        "added_at": "2026-10-19T12:03:14Z",
-        "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792411394_1_master.mp4",
-        "youtube_video_id": "_D1GUgTHRJM"
-      },
-      {
-        "id": "ken_1792500844_1",
-        "creator": "Ken",
-        "title": "welcome to hell [Clutch Moment]",
-        "source_title": "welcome to hell",
-        "url": "https://www.youtube.com/watch?v=E2w0V3SzeqY",
-        "section": "*300-480",
-        "duration": 2022,
-        "status": "COMPLETED",
-        "added_at": "2026-10-20T12:54:04Z",
-        "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792500844_1_master.mp4",
-        "youtube_video_id": "X7StAXY94mc"
-      },
-      {
-        "id": "ken_1792500844_2",
-        "creator": "Ken",
-        "title": "welcome to hell [Overtime Battle]",
-        "source_title": "welcome to hell",
-        "url": "https://www.youtube.com/watch?v=E2w0V3SzeqY",
-        "section": "*540-720",
-        "duration": 2022,
-        "status": "COMPLETED",
-        "added_at": "2026-10-20T12:54:04Z",
-        "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792500844_2_master.mp4",
-        "youtube_video_id": "LfKxwVmaMEE"
       }
     ]
   },
   "calendar": {
-    "scheduled": [
-      {
-        "id": "ken_1792246995_0",
-        "source_video": "1.9 aggression cycle [Highlight]",
-        "creator": "Ken",
-        "title": "He tried getting deep mid-match... BIG mistake.",
-        "publish_at": "2026-10-20T23:30:00Z",
-        "status": "SCHEDULED",
-        "uploaded": true,
-        "youtube_video_id": "8G5U74OB-qo",
-        "youtube_url": "https://www.youtube.com/shorts/8G5U74OB-qo",
-        "video_file": "ken_1792246995_0_master.mp4",
-        "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792246995_0_master.mp4",
-        "duration": 21.39,
-        "hook_summary": "The creator attempts to introduce a deep, personal topic while intensely playing a high-stakes match, immediately questioning his ability to multitask.",
-        "metadata": {
-          "title": "He tried getting deep mid-match... BIG mistake.",
-          "description": "Ken attempts to drop a massive truth bomb while locked in a high-stakes match, only to instantly realize human brains are wired for failure when multitasking. Watch how quickly the deep conversation derails.\n\n\u2022 Discover why trying to process complex emotions while distracted never works.\n\u2022 Learn the hidden cost of divided focus on genuine connection.\n\u2022 See the exact moment the attempt completely falls apart.\n\nFeaturing: Ken\n\nCan humans actually multitask meaningful conversations, or is it a complete myth? Drop your thoughts below!\n\n#shorts #ken #multitasking #deepthoughts #focus #mindset",
-          "tags": [
-            "multitasking myth",
-            "deep thoughts",
-            "focus and concentration",
-            "conversation tips",
-            "mindset shift",
-            "productivity traps",
-            "divided attention",
-            "communication skills",
-            "ken shorts"
-          ],
-          "pinned_comment": "Be honest: do you actually think you can multitask, or are you just lying to yourself? Let's settle this in the replies.",
-          "ab_variants": {
-            "A": {
-              "angle": "Curiosity Gap",
-              "title": "He tried getting deep mid-match... BIG mistake.",
-              "description": "Ken attempts to drop a massive truth bomb while locked in a high-stakes match, only to instantly realize human brains are wired for failure when multitasking. Watch how quickly the deep conversation derails.\n\n\u2022 Discover why trying to process complex emotions while distracted never works.\n\u2022 Learn the hidden cost of divided focus on genuine connection.\n\u2022 See the exact moment the attempt completely falls apart.\n\nFeaturing: Ken\n\nCan humans actually multitask meaningful conversations, or is it a complete myth? Drop your thoughts below!\n\n#shorts #ken #multitasking #deepthoughts #focus #mindset"
-            },
-            "B": {
-              "angle": "Contrarian Truth",
-              "title": "The lie we've been told about multitasking.",
-              "description": "Everyone thinks they can juggle deep personal talks and high-focus tasks at the same time. Ken puts that dangerous assumption to the ultimate test and exposes the harsh reality live.\n\n\u2022 Shatter the illusion that you can split your brain 50/50.\n\u2022 Understand why deep thoughts require 100% of your bandwidth.\n\u2022 Realize why trying to do both ruins the conversation.\n\nFeaturing: Ken\n\nHave you ever tried to have a serious talk while doing something else? Did it fail instantly?\n\n#shorts #ken #productivity #psychology #truth #focus"
-            },
-            "C": {
-              "angle": "Actionable Protocol",
-              "title": "The 1-Rule fix for ruined conversations.",
-              "description": "If you keep messing up important talks because you're distracted, you need this rule immediately. Ken demonstrates the exact failure mode so you can fix your communication habits today.\n\n\u2022 Apply the single-focus rule to every important conversation.\n\u2022 Eliminate invisible distractions that ruin your emotional depth.\n\u2022 Master the art of being fully present when it matters.\n\nFeaturing: Ken\n\nWhat is your go-to strategy for eliminating distractions during deep talks?\n\n#shorts #ken #communication #selfimprovement #focus #mindset"
-            }
-          },
-          "active_variant": "A",
-          "test_status": "ACTIVE_TEST",
-          "variant_history": [
-            {
-              "variant": "A",
-              "title": "He tried getting deep mid-match... BIG mistake.",
-              "deployed_at": 1792366650.134219,
-              "reason": "Initial A/B test deployment"
-            }
-          ],
-          "metrics": {
-            "views": 0,
-            "likes": 0,
-            "comments": 0,
-            "retention": 0.0,
-            "ctr": 0.0
-          }
-        },
-        "reframed": "gaming_split"
-      },
-      {
-        "id": "ken_1792318278_1",
-        "source_video": "2.5 cancer cycle [Clutch Moment]",
-        "creator": "Ken",
-        "title": "Why Ken suddenly changed his mind about Clash Royale",
-        "publish_at": "2026-10-21T01:30:00Z",
-        "status": "SCHEDULED",
-        "uploaded": true,
-        "youtube_video_id": "mOQWrknmk7U",
-        "youtube_url": "https://www.youtube.com/shorts/mOQWrknmk7U",
-        "video_file": "ken_1792318278_1_master.mp4",
-        "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792318278_1_master.mp4",
-        "duration": 24.55,
-        "hook_summary": "The creator goes from raging at the game being unfair to completely loving it, explaining his shameless strategy of spamming Royal Giant at the bridge.",
-        "metadata": {
-          "title": "Why Ken suddenly changed his mind about Clash Royale",
-          "description": "Watch the exact moment a total rage-quit transforms into pure celebration mid-match. You won't believe what caused this instant mood flip.\n\n\u2022 Experience the emotional rollercoaster of a mid-ladder Clash Royale meltdown\n\u2022 Discover the exact second the tables turn in Ken's favor\n\u2022 See how quickly a toxic match can become an absolute win\n\nFeaturing: Ken\n\nWhat is the absolute unluckiest you have ever been in a mobile game match? Drop your worst rage stories below!\n\n#shorts #clashroyale #gaming #ken #supercell #mobilegaming",
-          "tags": [
-            "clash royale",
-            "royal giant",
-            "ken clash royale",
-            "clash royale funny moments",
-            "clash royale rage",
-            "clash royale strategy",
-            "mobile gaming",
-            "supercell",
-            "clash royale gameplay"
-          ],
-          "pinned_comment": "Be honest: have you ever screamed out loud and then immediately won the match like this? \ud83d\ude02",
-          "ab_variants": {
-            "A": {
-              "angle": "Curiosity Gap",
-              "title": "Why Ken suddenly changed his mind about Clash Royale",
-              "description": "Watch the exact moment a total rage-quit transforms into pure celebration mid-match. You won't believe what caused this instant mood flip.\n\n\u2022 Experience the emotional rollercoaster of a mid-ladder Clash Royale meltdown\n\u2022 Discover the exact second the tables turn in Ken's favor\n\u2022 See how quickly a toxic match can become an absolute win\n\nFeaturing: Ken\n\nWhat is the absolute unluckiest you have ever been in a mobile game match? Drop your worst rage stories below!\n\n#shorts #clashroyale #gaming #ken #supercell #mobilegaming"
-            },
-            "B": {
-              "angle": "Contrarian Truth",
-              "title": "Spamming bridge is actually the smartest play",
-              "description": "Stop trying to play smart and calculated. Sometimes the most brain-dead, shameless bridge spam is the only strategy that actually works in this broken meta.\n\n\u2022 Learn why overthinking your pushes is secretly ruining your win rate\n\u2022 Embrace the pure chaos of mindless bridge spam tactics\n\u2022 Find out why the meta rewards aggressive, unhinged gameplay over patience\n\nFeaturing: Ken\n\nIs spamming cards at the bridge a legitimate strategy or just pure toxic luck? Let us know your thoughts in the comments!\n\n#shorts #clashroyale #gaming #ken #supercell #mobilegaming"
-            },
-            "C": {
-              "angle": "Actionable Protocol",
-              "title": "The exact Royal Giant bridge spam strategy",
-              "description": "Master the art of the Royal Giant bridge spam with this foolproof guide to completely overwhelming your opponent's defensive cycle before they can react.\n\n\u2022 Step-by-step breakdown of optimal Royal Giant placement timing\n\u2022 How to punish bad elixir trades instantly at the river\n\u2022 The psychological trick to breaking your opponent's mental focus\n\nFeaturing: Ken\n\nWhat is your go-to win condition when you need a desperate win on ladder? Tell us below!\n\n#shorts #clashroyale #gaming #ken #supercell #mobilegaming"
-            }
-          },
-          "active_variant": "A",
-          "test_status": "ACTIVE_TEST",
-          "variant_history": [
-            {
-              "variant": "A",
-              "title": "Why Ken suddenly changed his mind about Clash Royale",
-              "deployed_at": 1792441972.205476,
-              "reason": "Initial A/B test deployment"
-            }
-          ],
-          "metrics": {
-            "views": 0,
-            "likes": 0,
-            "comments": 0,
-            "retention": 0.0,
-            "ctr": 0.0
-          }
-        },
-        "reframed": "gaming_split"
-      },
-      {
-        "id": "ken_1792318278_2",
-        "source_video": "2.5 cancer cycle [Overtime Battle]",
-        "creator": "Ken",
-        "title": "Never trust a 'Good Luck' in Clash Royale...",
-        "publish_at": "2026-10-21T15:30:00Z",
-        "status": "SCHEDULED",
-        "uploaded": true,
-        "youtube_video_id": "mrG9jdRdbd4",
-        "youtube_url": "https://www.youtube.com/shorts/mrG9jdRdbd4",
-        "video_file": "ken_1792318278_2_master.mp4",
-        "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792318278_2_master.mp4",
-        "duration": 22.99,
-        "hook_summary": "The opponent sends a good luck wish, prompting the creator to immediately spam crying emojis as a mandatory part of the experience.",
-        "metadata": {
-          "title": "Never trust a 'Good Luck' in Clash Royale...",
-          "description": "Receiving a polite greeting at the start of a match is a psychological trap, and the counter-attack requires immediate emotional warfare. Watch how a simple greeting instantly triggers the ultimate toxicity protocol.\n\n\u2022 Recognize the hidden psychological triggers behind opponent emotes\n\u2022 Learn the exact timing for deploying defensive BM (Bad Manner) tactics\n\u2022 Master the art of mental warfare before the first tower even falls\n\nFeaturing: Ken\n\nIs sending a 'Good Luck' at the start of a match actually toxic, or just smart psychology?\n\n#shorts #clashroyale #gaming #ken #supercell #mobilegaming",
-          "tags": [
-            "Clash Royale",
-            "Ken Clash Royale",
-            "Clash Royale Funny",
-            "Clash Royale Emotes",
-            "Clash Royale Toxic",
-            "Clash Royale Momets",
-            "Supercell",
-            "Mobile Gaming",
-            "Clash Royale Gameplay",
-            "Shorts"
-          ],
-          "pinned_comment": "Be honest: do you instantly mute opponents who say good luck, or do you fight back with crying emotes?",
-          "ab_variants": {
-            "A": {
-              "angle": "Curiosity Gap",
-              "title": "Never trust a 'Good Luck' in Clash Royale...",
-              "description": "Receiving a polite greeting at the start of a match is a psychological trap, and the counter-attack requires immediate emotional warfare. Watch how a simple greeting instantly triggers the ultimate toxicity protocol.\n\n\u2022 Recognize the hidden psychological triggers behind opponent emotes\n\u2022 Learn the exact timing for deploying defensive BM (Bad Manner) tactics\n\u2022 Master the art of mental warfare before the first tower even falls\n\nFeaturing: Ken\n\nIs sending a 'Good Luck' at the start of a match actually toxic, or just smart psychology?\n\n#shorts #clashroyale #gaming #ken #supercell #mobilegaming"
-            },
-            "B": {
-              "angle": "Contrarian Truth",
-              "title": "Why saying Good Luck makes you lose instantly",
-              "description": "Being nice in mobile gaming is a fatal flaw that top players exploit ruthlessly. True mastery isn't just about card placement; it's about breaking your opponent's mental state from second one.\n\n\u2022 Why polite greetings are actually red flags in ladder matches\n\u2022 How to weaponize emote spam to force opponent misplays\n\u2022 The brutal reality of modern mobile gaming etiquette\n\nFeaturing: Ken\n\nWould you rather play a toxic emote spammer or a silent player who destroys you?\n\n#shorts #clashroyale #gaming #ken #supercell #mobilegaming"
-            },
-            "C": {
-              "angle": "Actionable Protocol",
-              "title": "The Ultimate Clash Royale Emote Defense Strategy",
-              "description": "When your opponent opens with a friendly greeting, you need an immediate, foolproof counter-strategy to reclaim psychological dominance. Here is the exact playbook for handling early-game pleasantries.\n\n\u2022 Step 1: Identify the fake friendliness of the opening 'Good Luck'\n\u2022 Step 2: Queue up the maximum capacity crying emoji response\n\u2022 Step 3: Secure the psychological advantage before elixir generation starts\n\nFeaturing: Ken\n\nWhat is your go-to emote when an opponent tries to mind-game you at the start?\n\n#shorts #clashroyale #gaming #ken #supercell #mobilegaming"
-            }
-          },
-          "active_variant": "A",
-          "test_status": "ACTIVE_TEST",
-          "variant_history": [
-            {
-              "variant": "A",
-              "title": "Never trust a 'Good Luck' in Clash Royale...",
-              "deployed_at": 1792452777.029142,
-              "reason": "Initial A/B test deployment"
-            }
-          ],
-          "metrics": {
-            "views": 0,
-            "likes": 0,
-            "comments": 0,
-            "retention": 0.0,
-            "ctr": 0.0
-          }
-        },
-        "reframed": "gaming_split"
-      },
-      {
-        "id": "ken_1792411394_0",
-        "source_video": "new balance changes [Highlight]",
-        "creator": "Ken",
-        "title": "This deck shouldn't work in Ultimate Champion...",
-        "publish_at": "2026-10-21T20:30:00Z",
-        "status": "SCHEDULED",
-        "uploaded": true,
-        "youtube_video_id": "-ZMXI6V0aWY",
-        "youtube_url": "https://www.youtube.com/shorts/-ZMXI6V0aWY",
-        "video_file": "ken_1792411394_0_master.mp4",
-        "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792411394_0_master.mp4",
-        "duration": 24.13,
-        "hook_summary": "The creator showcases a custom Clash Royale deck that is three wins away from Ultimate Champion, finishing with a hilariously detailed prediction of crashing out.",
-        "metadata": {
-          "title": "This deck shouldn't work in Ultimate Champion...",
-          "description": "Three wins away from Ultimate Champion, and I cooked up something completely unhinged. You won't believe how this custom strategy actually holds up under pressure.\n\n\u2022 Discover a rogue custom deck built to surprise top-tier ladder opponents\n\u2022 See how to navigate intense matchups right on the edge of Ultimate Champion\n\u2022 Watch the inevitable, hilarious chaos unfold when the strategy gets tested\n\nFeaturing: Ken\n\nWould you actually risk your rank running this bizarre deck, or is it an instant loss?\n\n#shorts #clashroyale #gaming #ken #supercell #mobilegaming",
-          "tags": [
-            "Clash Royale",
-            "Ultimate Champion",
-            "Ken Clash Royale",
-            "Clash Royale Deck",
-            "Clash Royale Shorts",
-            "Custom Deck Strategy",
-            "Clash Royale Gameplay",
-            "Mobile Gaming",
-            "Supercell",
-            "Clash Royale Meta"
-          ],
-          "pinned_comment": "Be honest: would you actually trust this deck with 3 wins on the line, or are you immediately pressing surrender?",
-          "ab_variants": {
-            "A": {
-              "angle": "Curiosity Gap",
-              "title": "This deck shouldn't work in Ultimate Champion...",
-              "description": "Three wins away from Ultimate Champion, and I cooked up something completely unhinged. You won't believe how this custom strategy actually holds up under pressure.\n\n\u2022 Discover a rogue custom deck built to surprise top-tier ladder opponents\n\u2022 See how to navigate intense matchups right on the edge of Ultimate Champion\n\u2022 Watch the inevitable, hilarious chaos unfold when the strategy gets tested\n\nFeaturing: Ken\n\nWould you actually risk your rank running this bizarre deck, or is it an instant loss?\n\n#shorts #clashroyale #gaming #ken #supercell #mobilegaming"
-            },
-            "B": {
-              "angle": "Contrarian Truth",
-              "title": "Stop using meta decks for Ultimate Champion",
-              "description": "Everyone says you need standard meta decks to reach Ultimate Champion, but they are completely wrong. Watch how a wild, custom creation outsmarts the standard playbook.\n\n\u2022 Break away from boring meta strategies with a totally fresh approach\n\u2022 Learn how to punish predictable opponent plays with unexpected card combos\n\u2022 Witness the exact moment a genius prediction goes horribly, hilariously wrong\n\nFeaturing: Ken\n\nAre off-meta custom decks actually better than standard meta lists, or is this pure luck?\n\n#shorts #clashroyale #gaming #ken #supercell #mobilegaming"
-            },
-            "C": {
-              "angle": "Actionable Protocol",
-              "title": "The exact deck to beat Ultimate Champion today",
-              "description": "Need three wins to secure Ultimate Champion? Here is the exact custom deck blueprint I cooked up to tackle the hardest ladder matches in the game right now.\n\n\u2022 Step-by-step breakdown of a high-stakes custom ladder strategy\n\u2022 Key positioning tips to survive against top-tier meta threats\n\u2022 Master the art of the ultimate prediction play before you crash out\n\nFeaturing: Ken\n\nWhat is the absolute worst card you would swap out of this custom list?\n\n#shorts #clashroyale #gaming #ken #supercell #mobilegaming"
-            }
-          },
-          "active_variant": "A",
-          "test_status": "ACTIVE_TEST",
-          "variant_history": [
-            {
-              "variant": "A",
-              "title": "This deck shouldn't work in Ultimate Champion...",
-              "deployed_at": 1792459926.0892859,
-              "reason": "Initial A/B test deployment"
-            }
-          ],
-          "metrics": {
-            "views": 0,
-            "likes": 0,
-            "comments": 0,
-            "retention": 0.0,
-            "ctr": 0.0
-          }
-        },
-        "reframed": "gaming_split"
-      },
-      {
-        "id": "ken_1792411394_1",
-        "source_video": "new balance changes [Clutch Moment]",
-        "creator": "Ken",
-        "title": "How did he actually win this impossible match?",
-        "publish_at": "2026-10-22T01:30:00Z",
-        "status": "SCHEDULED",
-        "uploaded": true,
-        "youtube_video_id": "_D1GUgTHRJM",
-        "youtube_url": "https://www.youtube.com/shorts/_D1GUgTHRJM",
-        "video_file": "ken_1792411394_1_master.mp4",
-        "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792411394_1_master.mp4",
-        "duration": 24.47,
-        "hook_summary": "The creator reacts with disbelief to an unexpected game-winning play, breaking down how the win happened despite the opponent's hard counter.",
-        "metadata": {
-          "title": "How did he actually win this impossible match?",
-          "description": "Watch the exact moment an unwinnable Clash Royale match completely flips on its head. Ken breaks down the ultimate upset that nobody saw coming.\n\n\u2022 Spot the exact micro-play that changed the entire outcome of the match\n\u2022 Learn how to extract maximum value from low-cost defensive cards\n\u2022 See how a massive disadvantage turns into a clutch game-winning moment\n\nFeaturing: Ken\n\nWhat is the worst hard counter matchup you have ever miraculously managed to win?\n\n#shorts #clashroyale #gaming #ken #supercell #mobilegaming",
-          "tags": [
-            "Clash Royale",
-            "Ken Clash Royale",
-            "Clash Royale Funny Moments",
-            "Clash Royale Clutch",
-            "Clash Royale Gameplay",
-            "Clash Royale Shorts",
-            "Mobile Gaming",
-            "Supercell",
-            "Clash Royale Tips"
-          ],
-          "pinned_comment": "Be honest: would you have surrendered the moment you saw the hard counter, or kept playing like this?",
-          "ab_variants": {
-            "A": {
-              "angle": "Curiosity Gap",
-              "title": "How did he actually win this impossible match?",
-              "description": "Watch the exact moment an unwinnable Clash Royale match completely flips on its head. Ken breaks down the ultimate upset that nobody saw coming.\n\n\u2022 Spot the exact micro-play that changed the entire outcome of the match\n\u2022 Learn how to extract maximum value from low-cost defensive cards\n\u2022 See how a massive disadvantage turns into a clutch game-winning moment\n\nFeaturing: Ken\n\nWhat is the worst hard counter matchup you have ever miraculously managed to win?\n\n#shorts #clashroyale #gaming #ken #supercell #mobilegaming"
-            },
-            "B": {
-              "angle": "Contrarian Truth",
-              "title": "Hard counters don't matter if you do this.",
-              "description": "Everyone says you automatically lose when facing your hard counter, but this insane gameplay proves conventional wisdom completely wrong. Ken reacts to a miraculous turnaround.\n\u2022 Why matchups aren't as definitive as the tier lists claim\n\u2022 Capitalizing on opponent overconfidence during late-game chaos\n\u2022 Turning a disadvantageous cycle into a surprise win\n\nFeaturing: Ken\n\nAre hard counters actually unbeatable, or do players just give up too early?\n\n#shorts #clashroyale #gaming #ken #supercell #strategy"
-            },
-            "C": {
-              "angle": "Actionable Protocol",
-              "title": "The ultimate log placement to steal the win.",
-              "description": "Master the art of high-value defensive plays when your back is completely against the wall. Ken breaks down the precise mechanics behind this clutch win.\n\u2022 Exact tile placement for maximum defensive impact\n\u2022 Timing your counter-push against overwhelming odds\n\u2022 Executing high-risk plays under extreme clock pressure\n\nFeaturing: Ken\n\nWhat is your go-to spell for saving a game in single-digit overtime?\n\n#shorts #clashroyale #gaming #ken #supercell #protips"
-            }
-          },
-          "active_variant": "A",
-          "test_status": "ACTIVE_TEST",
-          "variant_history": [
-            {
-              "variant": "A",
-              "title": "How did he actually win this impossible match?",
-              "deployed_at": 1792462619.321089,
-              "reason": "Initial A/B test deployment"
-            }
-          ],
-          "metrics": {
-            "views": 0,
-            "likes": 0,
-            "comments": 0,
-            "retention": 0.0,
-            "ctr": 0.0
-          }
-        },
-        "reframed": "gaming_split"
-      },
-      {
-        "id": "ken_1792500844_1",
-        "source_video": "welcome to hell [Clutch Moment]",
-        "creator": "Ken",
-        "title": "The Secret 'Win Simulator' Strategy \ud83c\udfc6",
-        "publish_at": "2026-10-22T15:30:00Z",
-        "status": "SCHEDULED",
-        "uploaded": true,
-        "youtube_video_id": "X7StAXY94mc",
-        "youtube_url": "https://www.youtube.com/shorts/X7StAXY94mc",
-        "video_file": "ken_1792500844_1_master.mp4",
-        "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792500844_1_master.mp4",
-        "duration": 32.0,
-        "hook_summary": "Essential discussion and core insight",
-        "metadata": {
-          "title": "The Secret 'Win Simulator' Strategy \ud83c\udfc6",
-          "description": "Ken reveals the one specific gameplay loop that feels like a literal cheat code in the current meta. If you aren't using this, you're playing on hard mode.\n\n\u2022 Identify the 'Win Simulator' trigger\n\u2022 Why this specific loop is currently unstoppable\n\u2022 How to cycle back to your win condition instantly\n\nFeaturing: Ken\n\nIs this strategy a legitimate playstyle or does it take the skill out of the game?\n\n#shorts #clashroyale #gaming #ken #supercell #meta",
-          "tags": [
-            "Clash Royale",
-            "Ken",
-            "Win Simulator",
-            "Gaming Strategy",
-            "CR Meta",
-            "Supercell",
-            "Mobile Gaming",
-            "Pro Tips",
-            "Deck Guide",
-            "Podcast Discussion"
-          ],
-          "pinned_comment": "Is the 'Win Simulator' meta ruining the game, or is it just the smartest way to play right now? \ud83d\udc47",
-          "ab_variants": {
-            "A": {
-              "angle": "Curiosity Gap",
-              "title": "The Secret 'Win Simulator' Strategy \ud83c\udfc6",
-              "description": "Ken reveals the one specific gameplay loop that feels like a literal cheat code in the current meta. If you aren't using this, you're playing on hard mode.\n\n\u2022 Identify the 'Win Simulator' trigger\n\u2022 Why this specific loop is currently unstoppable\n\u2022 How to cycle back to your win condition instantly\n\nFeaturing: Ken\n\nIs this strategy a legitimate playstyle or does it take the skill out of the game?\n\n#shorts #clashroyale #gaming #ken #supercell #meta"
-            },
-            "B": {
-              "angle": "Contrarian Truth",
-              "title": "Why Skill is Dead in This Meta \ud83d\udc80",
-              "description": "Stop trying to outplay your opponent and start using the 'Win Simulator.' Ken explains why the game has shifted from tactical defense to a guaranteed win loop.\n\n\u2022 The end of traditional defensive play\n\u2022 Why the 'Simulator' approach beats high-skill decks\n\u2022 Exploiting the game's current math\n\nFeaturing: Ken\n\nWould you rather have a balanced game or a meta that allows for easy wins like this?\n\n#shorts #gaming #clashroyale #ken #mobilegaming #broken"
-            },
-            "C": {
-              "angle": "Actionable Protocol",
-              "title": "The Perfect 'Win Simulator' Protocol \ud83c\udfae",
-              "description": "Master the exact framework Ken uses to turn every match into a win simulator. This is the most efficient way to climb the ladder right now.\n\n\u2022 3 steps to activate the win loop\n\u2022 Management of elixir for maximum pressure\n\u2022 The 'just go for another one' mindset shift\n\nFeaturing: Ken\n\nWhat is the highest trophy count you have reached using this specific strategy?\n\n#shorts #clashroyale #strategy #ken #mobilegaming #tips"
-            }
-          },
-          "active_variant": "A",
-          "test_status": "ACTIVE_TEST",
-          "variant_history": [
-            {
-              "variant": "A",
-              "title": "The Secret 'Win Simulator' Strategy \ud83c\udfc6",
-              "deployed_at": 1792512780.024448,
-              "reason": "Initial A/B test deployment"
-            }
-          ],
-          "metrics": {
-            "views": 0,
-            "likes": 0,
-            "comments": 0,
-            "retention": 0.0,
-            "ctr": 0.0
-          }
-        },
-        "reframed": "gaming_split"
-      },
-      {
-        "id": "ken_1792500844_2",
-        "source_video": "welcome to hell [Overtime Battle]",
-        "creator": "Ken",
-        "title": "Ken: The \"Miserable\" Truth About the Meta",
-        "publish_at": "2026-10-22T20:30:00Z",
-        "status": "SCHEDULED",
-        "uploaded": true,
-        "youtube_video_id": "LfKxwVmaMEE",
-        "youtube_url": "https://www.youtube.com/shorts/LfKxwVmaMEE",
-        "video_file": "ken_1792500844_2_master.mp4",
-        "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792500844_2_master.mp4",
-        "duration": 31.81,
-        "hook_summary": "Essential discussion and core insight",
-        "metadata": {
-          "title": "Ken: The \"Miserable\" Truth About the Meta",
-          "description": "Ken reveals the one change that might ruin the game for everyone. This is the reality most players aren't ready to face.\n\n- The truth about the upcoming shift\n- Why your current strategy will fail\n- How to survive the transition\n\nFeaturing: Ken\n\nWill this change kill the fun or just raise the skill ceiling?\n\n#shorts #clashroyale #gaming #ken #supercell #mobilegaming",
-          "tags": [
-            "clash royale",
-            "gaming",
-            "ken",
-            "supercell",
-            "mobile gaming",
-            "podcast",
-            "gaming strategy",
-            "meta update",
-            "shorts feed",
-            "competitive gaming"
-          ],
-          "pinned_comment": "Ken says the next phase is going to be \"miserable\"\u2014is the game actually getting harder, or are we just not adapting fast enough? \ud83d\udc47",
-          "ab_variants": {
-            "A": {
-              "angle": "Curiosity Gap",
-              "title": "Ken: The \"Miserable\" Truth About the Meta",
-              "description": "Ken reveals the one change that might ruin the game for everyone. This is the reality most players aren't ready to face.\n\n- The truth about the upcoming shift\n- Why your current strategy will fail\n- How to survive the transition\n\nFeaturing: Ken\n\nWill this change kill the fun or just raise the skill ceiling?\n\n#shorts #clashroyale #gaming #ken #supercell #mobilegaming"
-            },
-            "B": {
-              "angle": "Contrarian / Shock",
-              "title": "Stop Playing for Fun. It\u2019s Getting Worse.",
-              "description": "You think you\u2019re prepared for the grind, but Ken explains why the current system is designed for total misery. Success now requires a complete pivot.\n\n- The fallacy of \"easy\" wins in this meta\n- Why losing is part of the new math\n- Ken's brutal honesty on the grind\n\nFeaturing: Ken\n\nIs the reward actually worth the effort anymore, or is it time to quit?\n\n#shorts #gaming #ken #clashroyale #mobilegaming #supercell"
-            },
-            "C": {
-              "angle": "Actionable Protocol",
-              "title": "Survival Guide: Mastering the \"Miserable\" Grind",
-              "description": "Don't get left behind when the difficulty spikes. Ken outlines the core strategy to stay competitive even when the game feels impossible.\n\n- Defensive rotation mastery secrets\n- Resource management under pressure\n- How to maintain your mental edge\n\nFeaturing: Ken\n\nWhat is your #1 strategy for surviving a toxic meta?\n\n#shorts #strategy #ken #gaming #clashroyale #protips"
-            }
-          },
-          "active_variant": "A",
-          "test_status": "ACTIVE_TEST",
-          "variant_history": [
-            {
-              "variant": "A",
-              "title": "Ken: The \"Miserable\" Truth About the Meta",
-              "deployed_at": 1792513027.969124,
-              "reason": "Initial A/B test deployment"
-            }
-          ],
-          "metrics": {
-            "views": 0,
-            "likes": 0,
-            "comments": 0,
-            "retention": 0.0,
-            "ctr": 0.0
-          }
-        },
-        "reframed": "gaming_split"
-      }
-    ],
+    "scheduled": [],
     "held": [],
     "published": [
       {
@@ -7133,7 +6199,7 @@
             "comments": 0,
             "retention": 0.0,
             "ctr": 0.0,
-            "velocity_vph": 114.96,
+            "velocity_vph": 112.7,
             "engagement_pct": 0.47
           }
         },
@@ -7201,7 +6267,7 @@
             "comments": 0,
             "retention": 0.0,
             "ctr": 0.0,
-            "velocity_vph": 146.48,
+            "velocity_vph": 145.47,
             "engagement_pct": 1.28
           }
         },
@@ -7269,7 +6335,7 @@
             "comments": 0,
             "retention": 0.0,
             "ctr": 0.0,
-            "velocity_vph": 33.15,
+            "velocity_vph": 32.97,
             "engagement_pct": 1.76
           }
         },
@@ -7337,7 +6403,7 @@
             "comments": 0,
             "retention": 0.0,
             "ctr": 0.0,
-            "velocity_vph": 15.92,
+            "velocity_vph": 15.85,
             "engagement_pct": 0.75
           }
         },
@@ -7406,7 +6472,7 @@
             "comments": 0,
             "retention": 0.0,
             "ctr": 0.0,
-            "velocity_vph": 9.7,
+            "velocity_vph": 9.68,
             "engagement_pct": 1.03
           }
         },
@@ -7474,7 +6540,7 @@
             "comments": 0,
             "retention": 0.0,
             "ctr": 0.0,
-            "velocity_vph": 17.41,
+            "velocity_vph": 17.38,
             "engagement_pct": 0.55
           }
         },
@@ -7542,7 +6608,7 @@
             "comments": 0,
             "retention": 0.0,
             "ctr": 0.0,
-            "velocity_vph": 17.2,
+            "velocity_vph": 17.17,
             "engagement_pct": 2.8
           }
         },
@@ -7610,7 +6676,7 @@
             "comments": 0,
             "retention": 0.0,
             "ctr": 0.0,
-            "velocity_vph": 10.56,
+            "velocity_vph": 10.55,
             "engagement_pct": 0.37
           }
         },
@@ -7620,7 +6686,7 @@
         "id": "ken_1792212492_9",
         "source_video": "least busted card [Clutch Moment]",
         "creator": "Ken",
-        "title": "Why Chip Cycling Just Lost Its Power",
+        "title": "Chip Cycling Is Officially Dead",
         "publish_at": "2026-10-19T17:00:00Z",
         "status": "PUBLISHED",
         "uploaded": true,
@@ -7631,8 +6697,8 @@
         "duration": 27.73,
         "hook_summary": "The creator makes a bold claim about why traditional chip cycle strategies are officially dead in the current meta.",
         "metadata": {
-          "title": "Why Chip Cycling Just Lost Its Power",
-          "description": "Most players are still wasting elixir on a strategy that the current meta has completely broken. Ken breaks down the exact reason why chipping the tower is a losing battle now.\n\n\u2022 Discover why traditional chip damage no longer wins games\n\u2022 The hidden shift in defensive meta you missed\n\u2022 How to adapt your strategy before your rank drops\n\nFeaturing: Ken\n\nAre you still trying to chip towers, or have you adapted to the new meta?\n\n#shorts #ken #clashroyale #gaming #strategy #metashift",
+          "title": "Chip Cycling Is Officially Dead",
+          "description": "Forget everything you know about standard tower pressure because chip cycle is officially dead. Ken exposes why minor chip damage is a complete waste of your resources.\n\n\u2022 The brutal truth about current tower defense scaling\n\u2022 Why bridge spam punishes old-school tactics instantly\n\u2022 The exact moment you should stop chipping and start saving\n\nFeaturing: Ken\n\nIs bridge spam actually unbeatable right now, or is there a counter?\n\n#shorts #ken #gamingtips #meta #clashroyale #strategy",
           "tags": [
             "chip cycle",
             "bridge spam",
@@ -7662,7 +6728,7 @@
               "description": "If you are still relying on minor tower chips to win, you are playing the game wrong. Ken shares the exact rule you need to follow to stop bleeding elixir in today's meta.\n\n\u2022 The new golden rule for elixir management\n\u2022 How to pivot away from outdated chip strategies\n\u2022 Building a push that actually overwhelms modern defenses\n\nFeaturing: Ken\n\nWhat is your go-to win condition if not chip damage?\n\n#shorts #ken #gaming #protips #clashroyale #elixir"
             }
           },
-          "active_variant": "A",
+          "active_variant": "B",
           "test_status": "ACTIVE_TEST",
           "variant_history": [
             {
@@ -7746,7 +6812,7 @@
             "comments": 0,
             "retention": 0.0,
             "ctr": 0.0,
-            "velocity_vph": 12.68,
+            "velocity_vph": 12.66,
             "engagement_pct": 1.79
           }
         },
@@ -7814,7 +6880,7 @@
             "comments": 0,
             "retention": 0.0,
             "ctr": 0.0,
-            "velocity_vph": 11.1,
+            "velocity_vph": 11.08,
             "engagement_pct": 1.11
           }
         },
@@ -7882,7 +6948,7 @@
             "comments": 0,
             "retention": 0.0,
             "ctr": 0.0,
-            "velocity_vph": 25.05,
+            "velocity_vph": 25.03,
             "engagement_pct": 1.09
           }
         },
@@ -7950,7 +7016,7 @@
             "comments": 0,
             "retention": 0.0,
             "ctr": 0.0,
-            "velocity_vph": 26.32,
+            "velocity_vph": 26.3,
             "engagement_pct": 0.97
           }
         },
@@ -8018,7 +7084,7 @@
             "comments": 0,
             "retention": 0.0,
             "ctr": 0.0,
-            "velocity_vph": 23.43,
+            "velocity_vph": 23.41,
             "engagement_pct": 0.94
           }
         },
@@ -8086,7 +7152,7 @@
             "comments": 0,
             "retention": 0.0,
             "ctr": 0.0,
-            "velocity_vph": 6.19,
+            "velocity_vph": 6.18,
             "engagement_pct": 1.52
           }
         },
@@ -8154,7 +7220,7 @@
             "comments": 0,
             "retention": 0.0,
             "ctr": 0.0,
-            "velocity_vph": 22.75,
+            "velocity_vph": 22.74,
             "engagement_pct": 0.94
           }
         },
@@ -8396,7 +7462,7 @@
             "comments": 0,
             "retention": 0.0,
             "ctr": 0.0,
-            "velocity_vph": 20.94,
+            "velocity_vph": 20.93,
             "engagement_pct": 1.6
           }
         },
@@ -8560,7 +7626,7 @@
             "comments": 1,
             "retention": 0.0,
             "ctr": 0.0,
-            "velocity_vph": 13.33,
+            "velocity_vph": 13.32,
             "engagement_pct": 0.92
           }
         },
@@ -8696,7 +7762,7 @@
             "comments": 2,
             "retention": 0.0,
             "ctr": 0.0,
-            "velocity_vph": 10.4,
+            "velocity_vph": 10.39,
             "engagement_pct": 0.98
           }
         },
@@ -8966,7 +8032,7 @@
             "views": 315,
             "likes": 4,
             "comments": 2,
-            "velocity_vph": 2.1,
+            "velocity_vph": 2.09,
             "engagement_pct": 1.9
           },
           "test_status": "WINNER_LOCKED"
@@ -8986,77 +8052,77 @@
       "estimated_revenue_usd": 0.0,
       "health_grade": "A+",
       "total_shorts_published": 30,
-      "last_audit": 1792534878.4266398
+      "last_audit": 1792535012.004587
     },
     "top_shorts": [
       {
         "title": "The Evo E-Giant is actually unplayable (bad)",
         "creator": "Ken",
         "views": 213,
-        "velocity": 114.96,
+        "velocity": 112.7,
         "angle": "Contrarian Truth"
       },
       {
         "title": "This 1 Card Makes eGiant Unstoppable...",
         "creator": "Ken",
         "views": 784,
-        "velocity": 146.48,
+        "velocity": 145.47,
         "angle": "Curiosity Gap"
       },
       {
         "title": "Why this broken spam strategy actually works...",
         "creator": "Ken",
         "views": 227,
-        "velocity": 33.15,
+        "velocity": 32.97,
         "angle": "Curiosity Gap"
       },
       {
         "title": "Gaming rage isn't about the game at all.",
         "creator": "Ken",
         "views": 133,
-        "velocity": 15.92,
+        "velocity": 15.85,
         "angle": "Contrarian Truth"
       },
       {
         "title": "He actually said this in the lobby... \ud83d\udc80",
         "creator": "Ken",
         "views": 195,
-        "velocity": 9.7,
+        "velocity": 9.68,
         "angle": "Curiosity Gap"
       },
       {
         "title": "Why adults secretly act so boring...",
         "creator": "Ken",
         "views": 363,
-        "velocity": 17.41,
+        "velocity": 17.38,
         "angle": "Curiosity Gap"
       },
       {
         "title": "The illegal Evo Hunter trick nobody is using",
         "creator": "Ken",
         "views": 393,
-        "velocity": 17.2,
+        "velocity": 17.17,
         "angle": "Curiosity Gap"
       },
       {
         "title": "The Golden Rule of YouTube Comments",
         "creator": "Ken",
         "views": 273,
-        "velocity": 10.56,
+        "velocity": 10.55,
         "angle": "Actionable Protocol"
       },
       {
         "title": "He regret saying this immediately...",
         "creator": "Ken",
         "views": 391,
-        "velocity": 12.68,
+        "velocity": 12.66,
         "angle": "Curiosity Gap"
       },
       {
         "title": "Why the best deck ruins the game",
         "creator": "Ken",
         "views": 359,
-        "velocity": 11.1,
+        "velocity": 11.08,
         "angle": "Curiosity Gap"
       }
     ],

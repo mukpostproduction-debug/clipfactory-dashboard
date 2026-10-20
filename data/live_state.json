@@ -1,6 +1,6 @@
 {
-  "timestamp": 1792512977.677383,
-  "sync_time_iso": "2026-10-20T16:16:17Z",
+  "timestamp": 1792513034.2858932,
+  "sync_time_iso": "2026-10-20T16:17:14Z",
   "default_channel": "ken_clips_burger",
   "channels": {
     "ken_clips_burger": {
@@ -147,17 +147,17 @@
         },
         "PUBLISHER": {
           "status": "working",
-          "current_task": "Short SCHEDULED on YouTube: X7StAXY94mc (11:30 AM ET (Thu, Oct 22))",
+          "current_task": "Short SCHEDULED on YouTube: LfKxwVmaMEE (04:30 PM ET (Thu, Oct 22))",
           "last_completed_task": "Uploaded all 3 initial Clash Royale gaming cuts to YouTube (kenclipsburger420)",
           "recent_logs": [
-            "[21:32:06] Deploying to YouTube (@kenclipsburger420) for release 04:30 PM ET (Wed, Oct 21)...",
-            "[21:32:18] Short SCHEDULED on YouTube: -ZMXI6V0aWY (04:30 PM ET (Wed, Oct 21))",
-            "[22:16:49] Generating gaming A/B metadata for slot: 09:30 PM ET (Wed, Oct 21)...",
             "[22:16:59] Deploying to YouTube (@kenclipsburger420) for release 09:30 PM ET (Wed, Oct 21)...",
             "[22:17:29] Short SCHEDULED on YouTube: _D1GUgTHRJM (09:30 PM ET (Wed, Oct 21))",
             "[12:12:24] Generating gaming A/B metadata for slot: 11:30 AM ET (Thu, Oct 22)...",
             "[12:13:00] Deploying to YouTube (@kenclipsburger420) for release 11:30 AM ET (Thu, Oct 22)...",
-            "[12:13:08] Short SCHEDULED on YouTube: X7StAXY94mc (11:30 AM ET (Thu, Oct 22))"
+            "[12:13:08] Short SCHEDULED on YouTube: X7StAXY94mc (11:30 AM ET (Thu, Oct 22))",
+            "[12:16:38] Generating gaming A/B metadata for slot: 04:30 PM ET (Thu, Oct 22)...",
+            "[12:17:07] Deploying to YouTube (@kenclipsburger420) for release 04:30 PM ET (Thu, Oct 22)...",
+            "[12:17:14] Short SCHEDULED on YouTube: LfKxwVmaMEE (04:30 PM ET (Thu, Oct 22))"
           ]
         },
         "ANALYST": {
@@ -257,17 +257,6 @@
             "section": "*60-240",
             "duration": 2022,
             "status": "FAILED_DOWNLOAD",
-            "added_at": "2026-10-20T12:54:04Z"
-          },
-          {
-            "id": "ken_1792500844_2",
-            "creator": "Ken",
-            "title": "welcome to hell [Overtime Battle]",
-            "source_title": "welcome to hell",
-            "url": "https://www.youtube.com/watch?v=E2w0V3SzeqY",
-            "section": "*540-720",
-            "duration": 2022,
-            "status": "PROCESSING",
             "added_at": "2026-10-20T12:54:04Z"
           }
         ],
@@ -672,6 +661,19 @@
             "added_at": "2026-10-20T12:54:04Z",
             "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792500844_1_master.mp4",
             "youtube_video_id": "X7StAXY94mc"
+          },
+          {
+            "id": "ken_1792500844_2",
+            "creator": "Ken",
+            "title": "welcome to hell [Overtime Battle]",
+            "source_title": "welcome to hell",
+            "url": "https://www.youtube.com/watch?v=E2w0V3SzeqY",
+            "section": "*540-720",
+            "duration": 2022,
+            "status": "COMPLETED",
+            "added_at": "2026-10-20T12:54:04Z",
+            "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792500844_2_master.mp4",
+            "youtube_video_id": "LfKxwVmaMEE"
           }
         ]
       },
@@ -1195,6 +1197,73 @@
                   "variant": "A",
                   "title": "The Secret 'Win Simulator' Strategy \ud83c\udfc6",
                   "deployed_at": 1792512780.024448,
+                  "reason": "Initial A/B test deployment"
+                }
+              ],
+              "metrics": {
+                "views": 0,
+                "likes": 0,
+                "comments": 0,
+                "retention": 0.0,
+                "ctr": 0.0
+              }
+            },
+            "reframed": "gaming_split"
+          },
+          {
+            "id": "ken_1792500844_2",
+            "source_video": "welcome to hell [Overtime Battle]",
+            "creator": "Ken",
+            "title": "Ken: The \"Miserable\" Truth About the Meta",
+            "publish_at": "2026-10-22T20:30:00Z",
+            "status": "SCHEDULED",
+            "uploaded": true,
+            "youtube_video_id": "LfKxwVmaMEE",
+            "youtube_url": "https://www.youtube.com/shorts/LfKxwVmaMEE",
+            "video_file": "ken_1792500844_2_master.mp4",
+            "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792500844_2_master.mp4",
+            "duration": 31.81,
+            "hook_summary": "Essential discussion and core insight",
+            "metadata": {
+              "title": "Ken: The \"Miserable\" Truth About the Meta",
+              "description": "Ken reveals the one change that might ruin the game for everyone. This is the reality most players aren't ready to face.\n\n- The truth about the upcoming shift\n- Why your current strategy will fail\n- How to survive the transition\n\nFeaturing: Ken\n\nWill this change kill the fun or just raise the skill ceiling?\n\n#shorts #clashroyale #gaming #ken #supercell #mobilegaming",
+              "tags": [
+                "clash royale",
+                "gaming",
+                "ken",
+                "supercell",
+                "mobile gaming",
+                "podcast",
+                "gaming strategy",
+                "meta update",
+                "shorts feed",
+                "competitive gaming"
+              ],
+              "pinned_comment": "Ken says the next phase is going to be \"miserable\"\u2014is the game actually getting harder, or are we just not adapting fast enough? \ud83d\udc47",
+              "ab_variants": {
+                "A": {
+                  "angle": "Curiosity Gap",
+                  "title": "Ken: The \"Miserable\" Truth About the Meta",
+                  "description": "Ken reveals the one change that might ruin the game for everyone. This is the reality most players aren't ready to face.\n\n- The truth about the upcoming shift\n- Why your current strategy will fail\n- How to survive the transition\n\nFeaturing: Ken\n\nWill this change kill the fun or just raise the skill ceiling?\n\n#shorts #clashroyale #gaming #ken #supercell #mobilegaming"
+                },
+                "B": {
+                  "angle": "Contrarian / Shock",
+                  "title": "Stop Playing for Fun. It\u2019s Getting Worse.",
+                  "description": "You think you\u2019re prepared for the grind, but Ken explains why the current system is designed for total misery. Success now requires a complete pivot.\n\n- The fallacy of \"easy\" wins in this meta\n- Why losing is part of the new math\n- Ken's brutal honesty on the grind\n\nFeaturing: Ken\n\nIs the reward actually worth the effort anymore, or is it time to quit?\n\n#shorts #gaming #ken #clashroyale #mobilegaming #supercell"
+                },
+                "C": {
+                  "angle": "Actionable Protocol",
+                  "title": "Survival Guide: Mastering the \"Miserable\" Grind",
+                  "description": "Don't get left behind when the difficulty spikes. Ken outlines the core strategy to stay competitive even when the game feels impossible.\n\n- Defensive rotation mastery secrets\n- Resource management under pressure\n- How to maintain your mental edge\n\nFeaturing: Ken\n\nWhat is your #1 strategy for surviving a toxic meta?\n\n#shorts #strategy #ken #gaming #clashroyale #protips"
+                }
+              },
+              "active_variant": "A",
+              "test_status": "ACTIVE_TEST",
+              "variant_history": [
+                {
+                  "variant": "A",
+                  "title": "Ken: The \"Miserable\" Truth About the Meta",
+                  "deployed_at": 1792513027.969124,
                   "reason": "Initial A/B test deployment"
                 }
               ],
@@ -5997,17 +6066,17 @@
     },
     "PUBLISHER": {
       "status": "working",
-      "current_task": "Short SCHEDULED on YouTube: X7StAXY94mc (11:30 AM ET (Thu, Oct 22))",
+      "current_task": "Short SCHEDULED on YouTube: LfKxwVmaMEE (04:30 PM ET (Thu, Oct 22))",
       "last_completed_task": "Uploaded all 3 initial Clash Royale gaming cuts to YouTube (kenclipsburger420)",
       "recent_logs": [
-        "[21:32:06] Deploying to YouTube (@kenclipsburger420) for release 04:30 PM ET (Wed, Oct 21)...",
-        "[21:32:18] Short SCHEDULED on YouTube: -ZMXI6V0aWY (04:30 PM ET (Wed, Oct 21))",
-        "[22:16:49] Generating gaming A/B metadata for slot: 09:30 PM ET (Wed, Oct 21)...",
         "[22:16:59] Deploying to YouTube (@kenclipsburger420) for release 09:30 PM ET (Wed, Oct 21)...",
         "[22:17:29] Short SCHEDULED on YouTube: _D1GUgTHRJM (09:30 PM ET (Wed, Oct 21))",
         "[12:12:24] Generating gaming A/B metadata for slot: 11:30 AM ET (Thu, Oct 22)...",
         "[12:13:00] Deploying to YouTube (@kenclipsburger420) for release 11:30 AM ET (Thu, Oct 22)...",
-        "[12:13:08] Short SCHEDULED on YouTube: X7StAXY94mc (11:30 AM ET (Thu, Oct 22))"
+        "[12:13:08] Short SCHEDULED on YouTube: X7StAXY94mc (11:30 AM ET (Thu, Oct 22))",
+        "[12:16:38] Generating gaming A/B metadata for slot: 04:30 PM ET (Thu, Oct 22)...",
+        "[12:17:07] Deploying to YouTube (@kenclipsburger420) for release 04:30 PM ET (Thu, Oct 22)...",
+        "[12:17:14] Short SCHEDULED on YouTube: LfKxwVmaMEE (04:30 PM ET (Thu, Oct 22))"
       ]
     },
     "ANALYST": {
@@ -6107,17 +6176,6 @@
         "section": "*60-240",
         "duration": 2022,
         "status": "FAILED_DOWNLOAD",
-        "added_at": "2026-10-20T12:54:04Z"
-      },
-      {
-        "id": "ken_1792500844_2",
-        "creator": "Ken",
-        "title": "welcome to hell [Overtime Battle]",
-        "source_title": "welcome to hell",
-        "url": "https://www.youtube.com/watch?v=E2w0V3SzeqY",
-        "section": "*540-720",
-        "duration": 2022,
-        "status": "PROCESSING",
         "added_at": "2026-10-20T12:54:04Z"
       }
     ],
@@ -6522,6 +6580,19 @@
         "added_at": "2026-10-20T12:54:04Z",
         "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792500844_1_master.mp4",
         "youtube_video_id": "X7StAXY94mc"
+      },
+      {
+        "id": "ken_1792500844_2",
+        "creator": "Ken",
+        "title": "welcome to hell [Overtime Battle]",
+        "source_title": "welcome to hell",
+        "url": "https://www.youtube.com/watch?v=E2w0V3SzeqY",
+        "section": "*540-720",
+        "duration": 2022,
+        "status": "COMPLETED",
+        "added_at": "2026-10-20T12:54:04Z",
+        "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792500844_2_master.mp4",
+        "youtube_video_id": "LfKxwVmaMEE"
       }
     ]
   },
@@ -7045,6 +7116,73 @@
               "variant": "A",
               "title": "The Secret 'Win Simulator' Strategy \ud83c\udfc6",
               "deployed_at": 1792512780.024448,
+              "reason": "Initial A/B test deployment"
+            }
+          ],
+          "metrics": {
+            "views": 0,
+            "likes": 0,
+            "comments": 0,
+            "retention": 0.0,
+            "ctr": 0.0
+          }
+        },
+        "reframed": "gaming_split"
+      },
+      {
+        "id": "ken_1792500844_2",
+        "source_video": "welcome to hell [Overtime Battle]",
+        "creator": "Ken",
+        "title": "Ken: The \"Miserable\" Truth About the Meta",
+        "publish_at": "2026-10-22T20:30:00Z",
+        "status": "SCHEDULED",
+        "uploaded": true,
+        "youtube_video_id": "LfKxwVmaMEE",
+        "youtube_url": "https://www.youtube.com/shorts/LfKxwVmaMEE",
+        "video_file": "ken_1792500844_2_master.mp4",
+        "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792500844_2_master.mp4",
+        "duration": 31.81,
+        "hook_summary": "Essential discussion and core insight",
+        "metadata": {
+          "title": "Ken: The \"Miserable\" Truth About the Meta",
+          "description": "Ken reveals the one change that might ruin the game for everyone. This is the reality most players aren't ready to face.\n\n- The truth about the upcoming shift\n- Why your current strategy will fail\n- How to survive the transition\n\nFeaturing: Ken\n\nWill this change kill the fun or just raise the skill ceiling?\n\n#shorts #clashroyale #gaming #ken #supercell #mobilegaming",
+          "tags": [
+            "clash royale",
+            "gaming",
+            "ken",
+            "supercell",
+            "mobile gaming",
+            "podcast",
+            "gaming strategy",
+            "meta update",
+            "shorts feed",
+            "competitive gaming"
+          ],
+          "pinned_comment": "Ken says the next phase is going to be \"miserable\"\u2014is the game actually getting harder, or are we just not adapting fast enough? \ud83d\udc47",
+          "ab_variants": {
+            "A": {
+              "angle": "Curiosity Gap",
+              "title": "Ken: The \"Miserable\" Truth About the Meta",
+              "description": "Ken reveals the one change that might ruin the game for everyone. This is the reality most players aren't ready to face.\n\n- The truth about the upcoming shift\n- Why your current strategy will fail\n- How to survive the transition\n\nFeaturing: Ken\n\nWill this change kill the fun or just raise the skill ceiling?\n\n#shorts #clashroyale #gaming #ken #supercell #mobilegaming"
+            },
+            "B": {
+              "angle": "Contrarian / Shock",
+              "title": "Stop Playing for Fun. It\u2019s Getting Worse.",
+              "description": "You think you\u2019re prepared for the grind, but Ken explains why the current system is designed for total misery. Success now requires a complete pivot.\n\n- The fallacy of \"easy\" wins in this meta\n- Why losing is part of the new math\n- Ken's brutal honesty on the grind\n\nFeaturing: Ken\n\nIs the reward actually worth the effort anymore, or is it time to quit?\n\n#shorts #gaming #ken #clashroyale #mobilegaming #supercell"
+            },
+            "C": {
+              "angle": "Actionable Protocol",
+              "title": "Survival Guide: Mastering the \"Miserable\" Grind",
+              "description": "Don't get left behind when the difficulty spikes. Ken outlines the core strategy to stay competitive even when the game feels impossible.\n\n- Defensive rotation mastery secrets\n- Resource management under pressure\n- How to maintain your mental edge\n\nFeaturing: Ken\n\nWhat is your #1 strategy for surviving a toxic meta?\n\n#shorts #strategy #ken #gaming #clashroyale #protips"
+            }
+          },
+          "active_variant": "A",
+          "test_status": "ACTIVE_TEST",
+          "variant_history": [
+            {
+              "variant": "A",
+              "title": "Ken: The \"Miserable\" Truth About the Meta",
+              "deployed_at": 1792513027.969124,
               "reason": "Initial A/B test deployment"
             }
           ],

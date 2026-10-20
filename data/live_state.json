@@ -1,6 +1,6 @@
 {
-  "timestamp": 1792512667.298319,
-  "sync_time_iso": "2026-10-20T16:11:07Z",
+  "timestamp": 1792512729.892639,
+  "sync_time_iso": "2026-10-20T16:12:09Z",
   "default_channel": "ken_clips_burger",
   "channels": {
     "ken_clips_burger": {
@@ -93,17 +93,17 @@
       "agents": {
         "SCOUT": {
           "status": "working",
-          "current_task": "Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
+          "current_task": "Queue up to date. Waiting for next daily Ken upload.",
           "last_completed_task": "Ingested 5 recent Ken master videos into source pool",
           "recent_logs": [
-            "[05:32:17] Queue up to date. Waiting for next daily Ken upload.",
             "[05:34:19] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
             "[06:24:15] Queue up to date. Waiting for next daily Ken upload.",
             "[08:20:23] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
             "[08:54:04] Ingested 3 fresh Ken clip candidate(s) into queue.",
             "[10:39:47] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
             "[11:15:33] Queue up to date. Waiting for next daily Ken upload.",
-            "[12:11:00] Scanning @kenforrest YouTube feed for latest Clash Royale uploads..."
+            "[12:11:00] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
+            "[12:11:15] Queue up to date. Waiting for next daily Ken upload."
           ]
         },
         "STRATEGIST": {
@@ -123,17 +123,17 @@
         },
         "EDITOR": {
           "status": "working",
-          "current_task": "Downloading highlight segment (*60-240) for: welcome to hell [Highlight]...",
+          "current_task": "Rendering gaming_split Short with captions: welcome to hell [Clutch Moment",
           "last_completed_task": "Rendered 'hp buffed' rage highlight with kinetic pop captions & commentary",
           "recent_logs": [
-            "[16:31:38] Rendering gaming_split Short with captions: 2.5 cancer cycle [Clutch Momen",
-            "[19:31:31] Downloading highlight segment (*540-720) for: 2.5 cancer cycle [Overtime Battle]...",
             "[19:31:41] Rendering gaming_split Short with captions: 2.5 cancer cycle [Overtime Bat",
             "[21:30:30] Downloading highlight segment (*60-240) for: new balance changes [Highlight]...",
             "[21:30:45] Rendering gaming_split Short with captions: new balance changes [Highlight",
             "[22:15:23] Downloading highlight segment (*300-480) for: new balance changes [Clutch Moment]...",
             "[22:15:36] Rendering gaming_split Short with captions: new balance changes [Clutch Mo",
-            "[11:15:33] Downloading highlight segment (*60-240) for: welcome to hell [Highlight]..."
+            "[11:15:33] Downloading highlight segment (*60-240) for: welcome to hell [Highlight]...",
+            "[12:11:15] Downloading highlight segment (*300-480) for: welcome to hell [Clutch Moment]...",
+            "[12:11:19] Rendering gaming_split Short with captions: welcome to hell [Clutch Moment"
           ]
         },
         "COMMENTATOR": {
@@ -267,7 +267,7 @@
             "url": "https://www.youtube.com/watch?v=E2w0V3SzeqY",
             "section": "*300-480",
             "duration": 2022,
-            "status": "QUEUED",
+            "status": "PROCESSING",
             "added_at": "2026-10-20T12:54:04Z"
           },
           {
@@ -874,72 +874,6 @@
             "reframed": "gaming_split"
           },
           {
-            "id": "ken_1792318278_0",
-            "source_video": "2.5 cancer cycle [Highlight]",
-            "creator": "Ken",
-            "title": "Why this broken spam strategy actually works...",
-            "publish_at": "2026-10-20T15:30:00Z",
-            "status": "SCHEDULED",
-            "uploaded": true,
-            "youtube_video_id": "mn2b9SbHoe0",
-            "youtube_url": "https://www.youtube.com/shorts/mn2b9SbHoe0",
-            "video_file": "ken_1792318278_0_master.mp4",
-            "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792318278_0_master.mp4",
-            "duration": 28.35,
-            "hook_summary": "The creator explains the hilarious genius of simply spamming broken royal giants at the bridge to easily beat opponents without thinking.",
-            "metadata": {
-              "title": "Why this broken spam strategy actually works...",
-              "description": "Stop overthinking your matches and discover the bizarrely simple bridge-spam method that leaves opponents completely helpless. If you have ever wondered how mindless plays can somehow secure easy wins, this breakdown changes everything.\n\n\u2022 Learn the exact moment to drop the ultimate bridge pressure card\n\u2022 See why complex macro strategy loses to pure aggression\n\u2022 Master the art of winning without thinking twice\n\nFeaturing: Ken\n\nIs this the most brain-dead strategy in the entire game, or is it actually a misunderstood masterpiece? Drop your thoughts below!\n\n#shorts #clashroyale #gaming #ken #supercell #mobilegaming",
-              "tags": [
-                "clash royale",
-                "royal giant",
-                "ken clash royale",
-                "clash royale funny",
-                "clash royale shorts",
-                "bridge spam",
-                "clash royale gameplay",
-                "mobile gaming",
-                "supercell"
-              ],
-              "pinned_comment": "Be honest: have you ever lost to someone just blindly spamming cards at the bridge? \ud83d\ude02",
-              "ab_variants": {
-                "A": {
-                  "angle": "Curiosity Gap",
-                  "title": "Why this broken spam strategy actually works...",
-                  "description": "Stop overthinking your matches and discover the bizarrely simple bridge-spam method that leaves opponents completely helpless. If you have ever wondered how mindless plays can somehow secure easy wins, this breakdown changes everything.\n\n\u2022 Learn the exact moment to drop the ultimate bridge pressure card\n\u2022 See why complex macro strategy loses to pure aggression\n\u2022 Master the art of winning without thinking twice\n\nFeaturing: Ken\n\nIs this the most brain-dead strategy in the entire game, or is it actually a misunderstood masterpiece? Drop your thoughts below!\n\n#shorts #clashroyale #gaming #ken #supercell #mobilegaming"
-                },
-                "B": {
-                  "angle": "Contrarian Truth",
-                  "title": "Stop playing smart. Just spam this instead.",
-                  "description": "Forget everything you know about elixir management, defensive placement, and careful counter-pushes. The secret to dominating ladder isn't high IQ plays\u2014it is relentless, unbroken bridge pressure.\n\n\u2022 Uncover the truth about why passive defense is failing you\n\u2022 Discover the overwhelming power of continuous card spam\n\u2022 Realize why your opponents cannot handle pure chaos\n\nFeaturing: Ken\n\nWould you rather play with skill and lose, or spam your way to an effortless victory? Let's argue in the comments.\n\n#shorts #clashroyale #gaming #ken #supercell #strategy"
-                },
-                "C": {
-                  "angle": "Actionable Protocol",
-                  "title": "The 1-step Royal Giant bridge spam guide",
-                  "description": "Ready to climb trophies with zero brain cells required? Here is your foolproof playbook for executing the ultimate Royal Giant bridge spam strategy to crush any opponent instantly.\n\n\u2022 Step 1: Ignore all defensive instincts and lock onto the tower\n\u2022 Step 2: Keep the bridge permanently congested\n\u2022 Step 3: Collect your free win and move on\n\nFeaturing: Ken\n\nWhat is the absolute worst card to play against a relentless bridge spam deck? Tell us your counter below!\n\n#shorts #clashroyale #gaming #ken #supercell #deckguide"
-                }
-              },
-              "active_variant": "A",
-              "test_status": "ACTIVE_TEST",
-              "variant_history": [
-                {
-                  "variant": "A",
-                  "title": "Why this broken spam strategy actually works...",
-                  "deployed_at": 1792429382.547935,
-                  "reason": "Initial A/B test deployment"
-                }
-              ],
-              "metrics": {
-                "views": 0,
-                "likes": 0,
-                "comments": 0,
-                "retention": 0.0,
-                "ctr": 0.0
-              }
-            },
-            "reframed": "gaming_split"
-          },
-          {
             "id": "ken_1792318278_1",
             "source_video": "2.5 cancer cycle [Clutch Moment]",
             "creator": "Ken",
@@ -1208,6 +1142,72 @@
         ],
         "held": [],
         "published": [
+          {
+            "id": "ken_1792318278_0",
+            "source_video": "2.5 cancer cycle [Highlight]",
+            "creator": "Ken",
+            "title": "Why this broken spam strategy actually works...",
+            "publish_at": "2026-10-20T15:30:00Z",
+            "status": "PUBLISHED",
+            "uploaded": true,
+            "youtube_video_id": "mn2b9SbHoe0",
+            "youtube_url": "https://www.youtube.com/shorts/mn2b9SbHoe0",
+            "video_file": "ken_1792318278_0_master.mp4",
+            "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792318278_0_master.mp4",
+            "duration": 28.35,
+            "hook_summary": "The creator explains the hilarious genius of simply spamming broken royal giants at the bridge to easily beat opponents without thinking.",
+            "metadata": {
+              "title": "Why this broken spam strategy actually works...",
+              "description": "Stop overthinking your matches and discover the bizarrely simple bridge-spam method that leaves opponents completely helpless. If you have ever wondered how mindless plays can somehow secure easy wins, this breakdown changes everything.\n\n\u2022 Learn the exact moment to drop the ultimate bridge pressure card\n\u2022 See why complex macro strategy loses to pure aggression\n\u2022 Master the art of winning without thinking twice\n\nFeaturing: Ken\n\nIs this the most brain-dead strategy in the entire game, or is it actually a misunderstood masterpiece? Drop your thoughts below!\n\n#shorts #clashroyale #gaming #ken #supercell #mobilegaming",
+              "tags": [
+                "clash royale",
+                "royal giant",
+                "ken clash royale",
+                "clash royale funny",
+                "clash royale shorts",
+                "bridge spam",
+                "clash royale gameplay",
+                "mobile gaming",
+                "supercell"
+              ],
+              "pinned_comment": "Be honest: have you ever lost to someone just blindly spamming cards at the bridge? \ud83d\ude02",
+              "ab_variants": {
+                "A": {
+                  "angle": "Curiosity Gap",
+                  "title": "Why this broken spam strategy actually works...",
+                  "description": "Stop overthinking your matches and discover the bizarrely simple bridge-spam method that leaves opponents completely helpless. If you have ever wondered how mindless plays can somehow secure easy wins, this breakdown changes everything.\n\n\u2022 Learn the exact moment to drop the ultimate bridge pressure card\n\u2022 See why complex macro strategy loses to pure aggression\n\u2022 Master the art of winning without thinking twice\n\nFeaturing: Ken\n\nIs this the most brain-dead strategy in the entire game, or is it actually a misunderstood masterpiece? Drop your thoughts below!\n\n#shorts #clashroyale #gaming #ken #supercell #mobilegaming"
+                },
+                "B": {
+                  "angle": "Contrarian Truth",
+                  "title": "Stop playing smart. Just spam this instead.",
+                  "description": "Forget everything you know about elixir management, defensive placement, and careful counter-pushes. The secret to dominating ladder isn't high IQ plays\u2014it is relentless, unbroken bridge pressure.\n\n\u2022 Uncover the truth about why passive defense is failing you\n\u2022 Discover the overwhelming power of continuous card spam\n\u2022 Realize why your opponents cannot handle pure chaos\n\nFeaturing: Ken\n\nWould you rather play with skill and lose, or spam your way to an effortless victory? Let's argue in the comments.\n\n#shorts #clashroyale #gaming #ken #supercell #strategy"
+                },
+                "C": {
+                  "angle": "Actionable Protocol",
+                  "title": "The 1-step Royal Giant bridge spam guide",
+                  "description": "Ready to climb trophies with zero brain cells required? Here is your foolproof playbook for executing the ultimate Royal Giant bridge spam strategy to crush any opponent instantly.\n\n\u2022 Step 1: Ignore all defensive instincts and lock onto the tower\n\u2022 Step 2: Keep the bridge permanently congested\n\u2022 Step 3: Collect your free win and move on\n\nFeaturing: Ken\n\nWhat is the absolute worst card to play against a relentless bridge spam deck? Tell us your counter below!\n\n#shorts #clashroyale #gaming #ken #supercell #deckguide"
+                }
+              },
+              "active_variant": "A",
+              "test_status": "ACTIVE_TEST",
+              "variant_history": [
+                {
+                  "variant": "A",
+                  "title": "Why this broken spam strategy actually works...",
+                  "deployed_at": 1792429382.547935,
+                  "reason": "Initial A/B test deployment"
+                }
+              ],
+              "metrics": {
+                "views": 0,
+                "likes": 0,
+                "comments": 0,
+                "retention": 0.0,
+                "ctr": 0.0
+              }
+            },
+            "reframed": "gaming_split"
+          },
           {
             "id": "ken_1792212492_17",
             "source_video": "25% buff abuse [Overtime Battle]",
@@ -5872,17 +5872,17 @@
   "agents": {
     "SCOUT": {
       "status": "working",
-      "current_task": "Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
+      "current_task": "Queue up to date. Waiting for next daily Ken upload.",
       "last_completed_task": "Ingested 5 recent Ken master videos into source pool",
       "recent_logs": [
-        "[05:32:17] Queue up to date. Waiting for next daily Ken upload.",
         "[05:34:19] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
         "[06:24:15] Queue up to date. Waiting for next daily Ken upload.",
         "[08:20:23] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
         "[08:54:04] Ingested 3 fresh Ken clip candidate(s) into queue.",
         "[10:39:47] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
         "[11:15:33] Queue up to date. Waiting for next daily Ken upload.",
-        "[12:11:00] Scanning @kenforrest YouTube feed for latest Clash Royale uploads..."
+        "[12:11:00] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
+        "[12:11:15] Queue up to date. Waiting for next daily Ken upload."
       ]
     },
     "STRATEGIST": {
@@ -5902,17 +5902,17 @@
     },
     "EDITOR": {
       "status": "working",
-      "current_task": "Downloading highlight segment (*60-240) for: welcome to hell [Highlight]...",
+      "current_task": "Rendering gaming_split Short with captions: welcome to hell [Clutch Moment",
       "last_completed_task": "Rendered 'hp buffed' rage highlight with kinetic pop captions & commentary",
       "recent_logs": [
-        "[16:31:38] Rendering gaming_split Short with captions: 2.5 cancer cycle [Clutch Momen",
-        "[19:31:31] Downloading highlight segment (*540-720) for: 2.5 cancer cycle [Overtime Battle]...",
         "[19:31:41] Rendering gaming_split Short with captions: 2.5 cancer cycle [Overtime Bat",
         "[21:30:30] Downloading highlight segment (*60-240) for: new balance changes [Highlight]...",
         "[21:30:45] Rendering gaming_split Short with captions: new balance changes [Highlight",
         "[22:15:23] Downloading highlight segment (*300-480) for: new balance changes [Clutch Moment]...",
         "[22:15:36] Rendering gaming_split Short with captions: new balance changes [Clutch Mo",
-        "[11:15:33] Downloading highlight segment (*60-240) for: welcome to hell [Highlight]..."
+        "[11:15:33] Downloading highlight segment (*60-240) for: welcome to hell [Highlight]...",
+        "[12:11:15] Downloading highlight segment (*300-480) for: welcome to hell [Clutch Moment]...",
+        "[12:11:19] Rendering gaming_split Short with captions: welcome to hell [Clutch Moment"
       ]
     },
     "COMMENTATOR": {
@@ -6046,7 +6046,7 @@
         "url": "https://www.youtube.com/watch?v=E2w0V3SzeqY",
         "section": "*300-480",
         "duration": 2022,
-        "status": "QUEUED",
+        "status": "PROCESSING",
         "added_at": "2026-10-20T12:54:04Z"
       },
       {
@@ -6653,72 +6653,6 @@
         "reframed": "gaming_split"
       },
       {
-        "id": "ken_1792318278_0",
-        "source_video": "2.5 cancer cycle [Highlight]",
-        "creator": "Ken",
-        "title": "Why this broken spam strategy actually works...",
-        "publish_at": "2026-10-20T15:30:00Z",
-        "status": "SCHEDULED",
-        "uploaded": true,
-        "youtube_video_id": "mn2b9SbHoe0",
-        "youtube_url": "https://www.youtube.com/shorts/mn2b9SbHoe0",
-        "video_file": "ken_1792318278_0_master.mp4",
-        "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792318278_0_master.mp4",
-        "duration": 28.35,
-        "hook_summary": "The creator explains the hilarious genius of simply spamming broken royal giants at the bridge to easily beat opponents without thinking.",
-        "metadata": {
-          "title": "Why this broken spam strategy actually works...",
-          "description": "Stop overthinking your matches and discover the bizarrely simple bridge-spam method that leaves opponents completely helpless. If you have ever wondered how mindless plays can somehow secure easy wins, this breakdown changes everything.\n\n\u2022 Learn the exact moment to drop the ultimate bridge pressure card\n\u2022 See why complex macro strategy loses to pure aggression\n\u2022 Master the art of winning without thinking twice\n\nFeaturing: Ken\n\nIs this the most brain-dead strategy in the entire game, or is it actually a misunderstood masterpiece? Drop your thoughts below!\n\n#shorts #clashroyale #gaming #ken #supercell #mobilegaming",
-          "tags": [
-            "clash royale",
-            "royal giant",
-            "ken clash royale",
-            "clash royale funny",
-            "clash royale shorts",
-            "bridge spam",
-            "clash royale gameplay",
-            "mobile gaming",
-            "supercell"
-          ],
-          "pinned_comment": "Be honest: have you ever lost to someone just blindly spamming cards at the bridge? \ud83d\ude02",
-          "ab_variants": {
-            "A": {
-              "angle": "Curiosity Gap",
-              "title": "Why this broken spam strategy actually works...",
-              "description": "Stop overthinking your matches and discover the bizarrely simple bridge-spam method that leaves opponents completely helpless. If you have ever wondered how mindless plays can somehow secure easy wins, this breakdown changes everything.\n\n\u2022 Learn the exact moment to drop the ultimate bridge pressure card\n\u2022 See why complex macro strategy loses to pure aggression\n\u2022 Master the art of winning without thinking twice\n\nFeaturing: Ken\n\nIs this the most brain-dead strategy in the entire game, or is it actually a misunderstood masterpiece? Drop your thoughts below!\n\n#shorts #clashroyale #gaming #ken #supercell #mobilegaming"
-            },
-            "B": {
-              "angle": "Contrarian Truth",
-              "title": "Stop playing smart. Just spam this instead.",
-              "description": "Forget everything you know about elixir management, defensive placement, and careful counter-pushes. The secret to dominating ladder isn't high IQ plays\u2014it is relentless, unbroken bridge pressure.\n\n\u2022 Uncover the truth about why passive defense is failing you\n\u2022 Discover the overwhelming power of continuous card spam\n\u2022 Realize why your opponents cannot handle pure chaos\n\nFeaturing: Ken\n\nWould you rather play with skill and lose, or spam your way to an effortless victory? Let's argue in the comments.\n\n#shorts #clashroyale #gaming #ken #supercell #strategy"
-            },
-            "C": {
-              "angle": "Actionable Protocol",
-              "title": "The 1-step Royal Giant bridge spam guide",
-              "description": "Ready to climb trophies with zero brain cells required? Here is your foolproof playbook for executing the ultimate Royal Giant bridge spam strategy to crush any opponent instantly.\n\n\u2022 Step 1: Ignore all defensive instincts and lock onto the tower\n\u2022 Step 2: Keep the bridge permanently congested\n\u2022 Step 3: Collect your free win and move on\n\nFeaturing: Ken\n\nWhat is the absolute worst card to play against a relentless bridge spam deck? Tell us your counter below!\n\n#shorts #clashroyale #gaming #ken #supercell #deckguide"
-            }
-          },
-          "active_variant": "A",
-          "test_status": "ACTIVE_TEST",
-          "variant_history": [
-            {
-              "variant": "A",
-              "title": "Why this broken spam strategy actually works...",
-              "deployed_at": 1792429382.547935,
-              "reason": "Initial A/B test deployment"
-            }
-          ],
-          "metrics": {
-            "views": 0,
-            "likes": 0,
-            "comments": 0,
-            "retention": 0.0,
-            "ctr": 0.0
-          }
-        },
-        "reframed": "gaming_split"
-      },
-      {
         "id": "ken_1792318278_1",
         "source_video": "2.5 cancer cycle [Clutch Moment]",
         "creator": "Ken",
@@ -6987,6 +6921,72 @@
     ],
     "held": [],
     "published": [
+      {
+        "id": "ken_1792318278_0",
+        "source_video": "2.5 cancer cycle [Highlight]",
+        "creator": "Ken",
+        "title": "Why this broken spam strategy actually works...",
+        "publish_at": "2026-10-20T15:30:00Z",
+        "status": "PUBLISHED",
+        "uploaded": true,
+        "youtube_video_id": "mn2b9SbHoe0",
+        "youtube_url": "https://www.youtube.com/shorts/mn2b9SbHoe0",
+        "video_file": "ken_1792318278_0_master.mp4",
+        "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792318278_0_master.mp4",
+        "duration": 28.35,
+        "hook_summary": "The creator explains the hilarious genius of simply spamming broken royal giants at the bridge to easily beat opponents without thinking.",
+        "metadata": {
+          "title": "Why this broken spam strategy actually works...",
+          "description": "Stop overthinking your matches and discover the bizarrely simple bridge-spam method that leaves opponents completely helpless. If you have ever wondered how mindless plays can somehow secure easy wins, this breakdown changes everything.\n\n\u2022 Learn the exact moment to drop the ultimate bridge pressure card\n\u2022 See why complex macro strategy loses to pure aggression\n\u2022 Master the art of winning without thinking twice\n\nFeaturing: Ken\n\nIs this the most brain-dead strategy in the entire game, or is it actually a misunderstood masterpiece? Drop your thoughts below!\n\n#shorts #clashroyale #gaming #ken #supercell #mobilegaming",
+          "tags": [
+            "clash royale",
+            "royal giant",
+            "ken clash royale",
+            "clash royale funny",
+            "clash royale shorts",
+            "bridge spam",
+            "clash royale gameplay",
+            "mobile gaming",
+            "supercell"
+          ],
+          "pinned_comment": "Be honest: have you ever lost to someone just blindly spamming cards at the bridge? \ud83d\ude02",
+          "ab_variants": {
+            "A": {
+              "angle": "Curiosity Gap",
+              "title": "Why this broken spam strategy actually works...",
+              "description": "Stop overthinking your matches and discover the bizarrely simple bridge-spam method that leaves opponents completely helpless. If you have ever wondered how mindless plays can somehow secure easy wins, this breakdown changes everything.\n\n\u2022 Learn the exact moment to drop the ultimate bridge pressure card\n\u2022 See why complex macro strategy loses to pure aggression\n\u2022 Master the art of winning without thinking twice\n\nFeaturing: Ken\n\nIs this the most brain-dead strategy in the entire game, or is it actually a misunderstood masterpiece? Drop your thoughts below!\n\n#shorts #clashroyale #gaming #ken #supercell #mobilegaming"
+            },
+            "B": {
+              "angle": "Contrarian Truth",
+              "title": "Stop playing smart. Just spam this instead.",
+              "description": "Forget everything you know about elixir management, defensive placement, and careful counter-pushes. The secret to dominating ladder isn't high IQ plays\u2014it is relentless, unbroken bridge pressure.\n\n\u2022 Uncover the truth about why passive defense is failing you\n\u2022 Discover the overwhelming power of continuous card spam\n\u2022 Realize why your opponents cannot handle pure chaos\n\nFeaturing: Ken\n\nWould you rather play with skill and lose, or spam your way to an effortless victory? Let's argue in the comments.\n\n#shorts #clashroyale #gaming #ken #supercell #strategy"
+            },
+            "C": {
+              "angle": "Actionable Protocol",
+              "title": "The 1-step Royal Giant bridge spam guide",
+              "description": "Ready to climb trophies with zero brain cells required? Here is your foolproof playbook for executing the ultimate Royal Giant bridge spam strategy to crush any opponent instantly.\n\n\u2022 Step 1: Ignore all defensive instincts and lock onto the tower\n\u2022 Step 2: Keep the bridge permanently congested\n\u2022 Step 3: Collect your free win and move on\n\nFeaturing: Ken\n\nWhat is the absolute worst card to play against a relentless bridge spam deck? Tell us your counter below!\n\n#shorts #clashroyale #gaming #ken #supercell #deckguide"
+            }
+          },
+          "active_variant": "A",
+          "test_status": "ACTIVE_TEST",
+          "variant_history": [
+            {
+              "variant": "A",
+              "title": "Why this broken spam strategy actually works...",
+              "deployed_at": 1792429382.547935,
+              "reason": "Initial A/B test deployment"
+            }
+          ],
+          "metrics": {
+            "views": 0,
+            "likes": 0,
+            "comments": 0,
+            "retention": 0.0,
+            "ctr": 0.0
+          }
+        },
+        "reframed": "gaming_split"
+      },
       {
         "id": "ken_1792212492_17",
         "source_video": "25% buff abuse [Overtime Battle]",

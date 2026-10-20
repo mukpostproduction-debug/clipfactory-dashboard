@@ -1,6 +1,6 @@
 {
-  "timestamp": 1792535425.8035378,
-  "sync_time_iso": "2026-10-20T22:30:25Z",
+  "timestamp": 1792535487.566445,
+  "sync_time_iso": "2026-10-20T22:31:27Z",
   "default_channel": "ken_clips_burger",
   "channels": {
     "ken_clips_burger": {
@@ -97,14 +97,14 @@
           "current_task": "Queue up to date. Waiting for next daily Ken upload.",
           "last_completed_task": "Ingested 5 recent Ken master videos into source pool",
           "recent_logs": [
-            "[18:21:05] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
-            "[18:21:16] Queue up to date. Waiting for next daily Ken upload.",
             "[18:23:18] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
             "[18:23:30] Queue up to date. Waiting for next daily Ken upload.",
             "[18:25:32] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
             "[18:25:45] Queue up to date. Waiting for next daily Ken upload.",
             "[18:26:46] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
-            "[18:26:57] Queue up to date. Waiting for next daily Ken upload."
+            "[18:26:57] Queue up to date. Waiting for next daily Ken upload.",
+            "[18:30:26] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
+            "[18:30:39] Queue up to date. Waiting for next daily Ken upload."
           ]
         },
         "STRATEGIST": {
@@ -124,17 +124,17 @@
         },
         "EDITOR": {
           "status": "working",
-          "current_task": "Rendering gaming_split Short with captions: welcome to hell [Clutch Moment",
+          "current_task": "Rendering gaming_split Short with captions: new balance changes [Clutch Mo",
           "last_completed_task": "Rendered 'hp buffed' rage highlight with kinetic pop captions & commentary",
           "recent_logs": [
-            "[11:15:33] Downloading highlight segment (*60-240) for: welcome to hell [Highlight]...",
-            "[12:11:15] Downloading highlight segment (*300-480) for: welcome to hell [Clutch Moment]...",
             "[12:11:19] Rendering gaming_split Short with captions: welcome to hell [Clutch Moment",
             "[12:15:24] Downloading highlight segment (*540-720) for: welcome to hell [Overtime Battle]...",
             "[12:15:28] Rendering gaming_split Short with captions: welcome to hell [Overtime Batt",
             "[18:25:46] Rendering gaming_split Short with captions: welcome to hell [Overtime Batt",
             "[18:26:57] Downloading 1080p highlight segment (*300-480) for: welcome to hell [Clutch Moment]...",
-            "[18:27:06] Rendering gaming_split Short with captions: welcome to hell [Clutch Moment"
+            "[18:27:06] Rendering gaming_split Short with captions: welcome to hell [Clutch Moment",
+            "[18:30:39] Downloading 1080p highlight segment (*300-480) for: new balance changes [Clutch Moment]...",
+            "[18:30:52] Rendering gaming_split Short with captions: new balance changes [Clutch Mo"
           ]
         },
         "COMMENTATOR": {
@@ -194,6 +194,19 @@
       },
       "queue": {
         "queue": [
+          {
+            "id": "ken_1792500844_1",
+            "creator": "Ken",
+            "title": "welcome to hell [Clutch Moment]",
+            "source_title": "welcome to hell",
+            "url": "https://www.youtube.com/watch?v=E2w0V3SzeqY",
+            "section": "*300-480",
+            "duration": 2022,
+            "status": "QUEUED_FOR_REMASTER",
+            "added_at": "2026-10-20T12:54:04Z",
+            "youtube_video_id": null,
+            "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792500844_1_master.mp4"
+          },
           {
             "id": "ken_1792500844_2",
             "creator": "Ken",
@@ -267,7 +280,7 @@
             "url": "https://www.youtube.com/watch?v=efXvyv0t4Yo",
             "section": "*300-480",
             "duration": 857,
-            "status": "QUEUED",
+            "status": "PROCESSING",
             "added_at": "2026-10-19T12:03:14Z",
             "youtube_video_id": null
           },
@@ -709,91 +722,11 @@
             "added_at": "2026-10-18T10:11:18Z",
             "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792318278_0_master.mp4",
             "youtube_video_id": "mn2b9SbHoe0"
-          },
-          {
-            "id": "ken_1792500844_1",
-            "creator": "Ken",
-            "title": "welcome to hell [Clutch Moment]",
-            "source_title": "welcome to hell",
-            "url": "https://www.youtube.com/watch?v=E2w0V3SzeqY",
-            "section": "*300-480",
-            "duration": 2022,
-            "status": "COMPLETED",
-            "added_at": "2026-10-20T12:54:04Z",
-            "youtube_video_id": "GXFqvSjnK8c",
-            "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792500844_1_master.mp4"
           }
         ]
       },
       "calendar": {
-        "scheduled": [
-          {
-            "id": "ken_1792500844_1",
-            "source_video": "welcome to hell [Clutch Moment]",
-            "creator": "Ken",
-            "title": "He Broke Chaos Mode With This Strategy...",
-            "publish_at": "2026-10-21T01:30:00Z",
-            "status": "SCHEDULED",
-            "uploaded": true,
-            "youtube_video_id": "GXFqvSjnK8c",
-            "youtube_url": "https://www.youtube.com/shorts/GXFqvSjnK8c",
-            "video_file": "ken_1792500844_1_master.mp4",
-            "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792500844_1_master.mp4",
-            "duration": 30.99,
-            "hook_summary": "The player has a 'big brain' realization about a broken strategy exploit in the new game mode involving skip modifiers.",
-            "metadata": {
-              "title": "He Broke Chaos Mode With This Strategy...",
-              "description": "Ken used his brain for two seconds and completely broke the new Chaos Mode using skip modifiers. Watch how this simple realization bypasses the intended game mechanics for free wins.\n\nKey Takeaways:\n\u2022 How skip modifiers break the game mode\n\u2022 The 'big brain' realization that changes everything\n\u2022 Why the developers missed this interaction\n\nFeaturing: Ken\n\nIs this a game-breaking exploit or just smart gameplay?\n\n#shorts #gaming #chaosmode #ken #mobilegaming #exploit",
-              "tags": [
-                "ken chaos mode",
-                "chaos mode exploit",
-                "skip modifier glitch",
-                "broken chaos mode strategy",
-                "ken gaming",
-                "chaos mode guide",
-                "gaming exploits",
-                "mobile gaming tips",
-                "ken big brain clip"
-              ],
-              "pinned_comment": "Is using skip modifiers like this a genius play or cheap cheating? Let me know below \ud83d\udc47",
-              "ab_variants": {
-                "A": {
-                  "angle": "Curiosity Gap",
-                  "title": "He Broke Chaos Mode With This Strategy...",
-                  "description": "Ken used his brain for two seconds and completely broke the new Chaos Mode using skip modifiers. Watch how this simple realization bypasses the intended game mechanics for free wins.\n\nKey Takeaways:\n\u2022 How skip modifiers break the game mode\n\u2022 The 'big brain' realization that changes everything\n\u2022 Why the developers missed this interaction\n\nFeaturing: Ken\n\nIs this a game-breaking exploit or just smart gameplay?\n\n#shorts #gaming #chaosmode #ken #mobilegaming #exploit"
-                },
-                "B": {
-                  "angle": "Contrarian Truth",
-                  "title": "Chaos Mode Isn't Random, It's Broken",
-                  "description": "Everyone thinks Chaos Mode is purely luck-based, but Ken proved you can force a win every time. By manipulating skip modifiers, he turned a random mode into a guaranteed win exploit.\n\nWhat You'll Learn:\n\u2022 Why Chaos Mode RNG is a myth\n\u2022 How to manipulate skip modifiers\n\u2022 The ultimate strategy to dominate\n\nFeaturing: Ken\n\nShould the devs patch this immediately or keep it in the game?\n\n#shorts #gaming #ken #glitch #strategy #chaosmode"
-                },
-                "C": {
-                  "angle": "Actionable Protocol",
-                  "title": "How to Abuse Skip Modifiers in Chaos Mode",
-                  "description": "Stop losing to bad RNG in Chaos Mode and start abusing skip modifiers like Ken. Here is the exact strategy to manipulate the new game mode and stack easy wins.\n\nStrategy Steps:\n\u2022 Time your skip modifiers correctly\n\u2022 Bypass bad random hands entirely\n\u2022 Secure high-value plays every round\n\nFeaturing: Ken\n\nHave you tried using this skip modifier strat yet?\n\n#shorts #gaming #ken #guide #chaosmode #gamingtips"
-                }
-              },
-              "active_variant": "A",
-              "test_status": "ACTIVE_TEST",
-              "variant_history": [
-                {
-                  "variant": "A",
-                  "title": "He Broke Chaos Mode With This Strategy...",
-                  "deployed_at": 1792535296.126878,
-                  "reason": "Initial A/B test deployment"
-                }
-              ],
-              "metrics": {
-                "views": 0,
-                "likes": 0,
-                "comments": 0,
-                "retention": 0.0,
-                "ctr": 0.0
-              }
-            },
-            "reframed": "gaming_split"
-          }
-        ],
+        "scheduled": [],
         "held": [],
         "published": [
           {
@@ -5668,14 +5601,14 @@
       "current_task": "Queue up to date. Waiting for next daily Ken upload.",
       "last_completed_task": "Ingested 5 recent Ken master videos into source pool",
       "recent_logs": [
-        "[18:21:05] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
-        "[18:21:16] Queue up to date. Waiting for next daily Ken upload.",
         "[18:23:18] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
         "[18:23:30] Queue up to date. Waiting for next daily Ken upload.",
         "[18:25:32] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
         "[18:25:45] Queue up to date. Waiting for next daily Ken upload.",
         "[18:26:46] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
-        "[18:26:57] Queue up to date. Waiting for next daily Ken upload."
+        "[18:26:57] Queue up to date. Waiting for next daily Ken upload.",
+        "[18:30:26] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
+        "[18:30:39] Queue up to date. Waiting for next daily Ken upload."
       ]
     },
     "STRATEGIST": {
@@ -5695,17 +5628,17 @@
     },
     "EDITOR": {
       "status": "working",
-      "current_task": "Rendering gaming_split Short with captions: welcome to hell [Clutch Moment",
+      "current_task": "Rendering gaming_split Short with captions: new balance changes [Clutch Mo",
       "last_completed_task": "Rendered 'hp buffed' rage highlight with kinetic pop captions & commentary",
       "recent_logs": [
-        "[11:15:33] Downloading highlight segment (*60-240) for: welcome to hell [Highlight]...",
-        "[12:11:15] Downloading highlight segment (*300-480) for: welcome to hell [Clutch Moment]...",
         "[12:11:19] Rendering gaming_split Short with captions: welcome to hell [Clutch Moment",
         "[12:15:24] Downloading highlight segment (*540-720) for: welcome to hell [Overtime Battle]...",
         "[12:15:28] Rendering gaming_split Short with captions: welcome to hell [Overtime Batt",
         "[18:25:46] Rendering gaming_split Short with captions: welcome to hell [Overtime Batt",
         "[18:26:57] Downloading 1080p highlight segment (*300-480) for: welcome to hell [Clutch Moment]...",
-        "[18:27:06] Rendering gaming_split Short with captions: welcome to hell [Clutch Moment"
+        "[18:27:06] Rendering gaming_split Short with captions: welcome to hell [Clutch Moment",
+        "[18:30:39] Downloading 1080p highlight segment (*300-480) for: new balance changes [Clutch Moment]...",
+        "[18:30:52] Rendering gaming_split Short with captions: new balance changes [Clutch Mo"
       ]
     },
     "COMMENTATOR": {
@@ -5765,6 +5698,19 @@
   },
   "queue": {
     "queue": [
+      {
+        "id": "ken_1792500844_1",
+        "creator": "Ken",
+        "title": "welcome to hell [Clutch Moment]",
+        "source_title": "welcome to hell",
+        "url": "https://www.youtube.com/watch?v=E2w0V3SzeqY",
+        "section": "*300-480",
+        "duration": 2022,
+        "status": "QUEUED_FOR_REMASTER",
+        "added_at": "2026-10-20T12:54:04Z",
+        "youtube_video_id": null,
+        "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792500844_1_master.mp4"
+      },
       {
         "id": "ken_1792500844_2",
         "creator": "Ken",
@@ -5838,7 +5784,7 @@
         "url": "https://www.youtube.com/watch?v=efXvyv0t4Yo",
         "section": "*300-480",
         "duration": 857,
-        "status": "QUEUED",
+        "status": "PROCESSING",
         "added_at": "2026-10-19T12:03:14Z",
         "youtube_video_id": null
       },
@@ -6280,91 +6226,11 @@
         "added_at": "2026-10-18T10:11:18Z",
         "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792318278_0_master.mp4",
         "youtube_video_id": "mn2b9SbHoe0"
-      },
-      {
-        "id": "ken_1792500844_1",
-        "creator": "Ken",
-        "title": "welcome to hell [Clutch Moment]",
-        "source_title": "welcome to hell",
-        "url": "https://www.youtube.com/watch?v=E2w0V3SzeqY",
-        "section": "*300-480",
-        "duration": 2022,
-        "status": "COMPLETED",
-        "added_at": "2026-10-20T12:54:04Z",
-        "youtube_video_id": "GXFqvSjnK8c",
-        "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792500844_1_master.mp4"
       }
     ]
   },
   "calendar": {
-    "scheduled": [
-      {
-        "id": "ken_1792500844_1",
-        "source_video": "welcome to hell [Clutch Moment]",
-        "creator": "Ken",
-        "title": "He Broke Chaos Mode With This Strategy...",
-        "publish_at": "2026-10-21T01:30:00Z",
-        "status": "SCHEDULED",
-        "uploaded": true,
-        "youtube_video_id": "GXFqvSjnK8c",
-        "youtube_url": "https://www.youtube.com/shorts/GXFqvSjnK8c",
-        "video_file": "ken_1792500844_1_master.mp4",
-        "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792500844_1_master.mp4",
-        "duration": 30.99,
-        "hook_summary": "The player has a 'big brain' realization about a broken strategy exploit in the new game mode involving skip modifiers.",
-        "metadata": {
-          "title": "He Broke Chaos Mode With This Strategy...",
-          "description": "Ken used his brain for two seconds and completely broke the new Chaos Mode using skip modifiers. Watch how this simple realization bypasses the intended game mechanics for free wins.\n\nKey Takeaways:\n\u2022 How skip modifiers break the game mode\n\u2022 The 'big brain' realization that changes everything\n\u2022 Why the developers missed this interaction\n\nFeaturing: Ken\n\nIs this a game-breaking exploit or just smart gameplay?\n\n#shorts #gaming #chaosmode #ken #mobilegaming #exploit",
-          "tags": [
-            "ken chaos mode",
-            "chaos mode exploit",
-            "skip modifier glitch",
-            "broken chaos mode strategy",
-            "ken gaming",
-            "chaos mode guide",
-            "gaming exploits",
-            "mobile gaming tips",
-            "ken big brain clip"
-          ],
-          "pinned_comment": "Is using skip modifiers like this a genius play or cheap cheating? Let me know below \ud83d\udc47",
-          "ab_variants": {
-            "A": {
-              "angle": "Curiosity Gap",
-              "title": "He Broke Chaos Mode With This Strategy...",
-              "description": "Ken used his brain for two seconds and completely broke the new Chaos Mode using skip modifiers. Watch how this simple realization bypasses the intended game mechanics for free wins.\n\nKey Takeaways:\n\u2022 How skip modifiers break the game mode\n\u2022 The 'big brain' realization that changes everything\n\u2022 Why the developers missed this interaction\n\nFeaturing: Ken\n\nIs this a game-breaking exploit or just smart gameplay?\n\n#shorts #gaming #chaosmode #ken #mobilegaming #exploit"
-            },
-            "B": {
-              "angle": "Contrarian Truth",
-              "title": "Chaos Mode Isn't Random, It's Broken",
-              "description": "Everyone thinks Chaos Mode is purely luck-based, but Ken proved you can force a win every time. By manipulating skip modifiers, he turned a random mode into a guaranteed win exploit.\n\nWhat You'll Learn:\n\u2022 Why Chaos Mode RNG is a myth\n\u2022 How to manipulate skip modifiers\n\u2022 The ultimate strategy to dominate\n\nFeaturing: Ken\n\nShould the devs patch this immediately or keep it in the game?\n\n#shorts #gaming #ken #glitch #strategy #chaosmode"
-            },
-            "C": {
-              "angle": "Actionable Protocol",
-              "title": "How to Abuse Skip Modifiers in Chaos Mode",
-              "description": "Stop losing to bad RNG in Chaos Mode and start abusing skip modifiers like Ken. Here is the exact strategy to manipulate the new game mode and stack easy wins.\n\nStrategy Steps:\n\u2022 Time your skip modifiers correctly\n\u2022 Bypass bad random hands entirely\n\u2022 Secure high-value plays every round\n\nFeaturing: Ken\n\nHave you tried using this skip modifier strat yet?\n\n#shorts #gaming #ken #guide #chaosmode #gamingtips"
-            }
-          },
-          "active_variant": "A",
-          "test_status": "ACTIVE_TEST",
-          "variant_history": [
-            {
-              "variant": "A",
-              "title": "He Broke Chaos Mode With This Strategy...",
-              "deployed_at": 1792535296.126878,
-              "reason": "Initial A/B test deployment"
-            }
-          ],
-          "metrics": {
-            "views": 0,
-            "likes": 0,
-            "comments": 0,
-            "retention": 0.0,
-            "ctr": 0.0
-          }
-        },
-        "reframed": "gaming_split"
-      }
-    ],
+    "scheduled": [],
     "held": [],
     "published": [
       {

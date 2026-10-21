@@ -1,6 +1,6 @@
 {
-  "timestamp": 1792576975.498407,
-  "sync_time_iso": "2026-10-21T10:02:55Z",
+  "timestamp": 1792577037.262439,
+  "sync_time_iso": "2026-10-21T10:03:57Z",
   "default_channel": "ken_clips_burger",
   "channels": {
     "ken_clips_burger": {
@@ -148,17 +148,17 @@
         },
         "PUBLISHER": {
           "status": "working",
-          "current_task": "Short SCHEDULED on YouTube: BVf4jSqOdDo (09:30 PM ET (Tue, Oct 20))",
+          "current_task": "Upload staged for automatic retry: ken_1792576919_0",
           "last_completed_task": "Uploaded all 3 initial Clash Royale gaming cuts to YouTube (kenclipsburger420)",
           "recent_logs": [
-            "[18:28:16] Deploying to YouTube (@kenclipsburger420) for release 09:30 PM ET (Tue, Oct 20)...",
-            "[18:28:22] Short SCHEDULED on YouTube: GXFqvSjnK8c (09:30 PM ET (Tue, Oct 20))",
-            "[18:31:52] Generating gaming A/B metadata for slot: 11:30 AM ET (Wed, Oct 21)...",
-            "[18:31:59] Deploying to YouTube (@kenclipsburger420) for release 11:30 AM ET (Wed, Oct 21)...",
             "[18:32:05] Short SCHEDULED on YouTube: NuCE_5c__rM (11:30 AM ET (Wed, Oct 21))",
             "[18:35:40] Generating gaming A/B metadata for slot: 09:30 PM ET (Tue, Oct 20)...",
             "[18:35:55] Deploying to YouTube (@kenclipsburger420) for release 09:30 PM ET (Tue, Oct 20)...",
-            "[18:36:00] Short SCHEDULED on YouTube: BVf4jSqOdDo (09:30 PM ET (Tue, Oct 20))"
+            "[18:36:00] Short SCHEDULED on YouTube: BVf4jSqOdDo (09:30 PM ET (Tue, Oct 20))",
+            "[06:02:59] Generating gaming A/B metadata for slot: 11:30 AM ET (Wed, Oct 21)...",
+            "[06:03:04] Deploying to YouTube (@kenclipsburger420) for release 11:30 AM ET (Wed, Oct 21)...",
+            "[06:03:20] YouTube upload error: ('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
+            "[06:03:20] Upload staged for automatic retry: ken_1792576919_0"
           ]
         },
         "ANALYST": {
@@ -725,8 +725,9 @@
             "url": "https://www.youtube.com/watch?v=VgIIltGHbHU",
             "section": "*60-240",
             "duration": 1635,
-            "status": "PROCESSING",
-            "added_at": "2026-10-21T10:01:59Z"
+            "status": "RETRY_UPLOAD",
+            "added_at": "2026-10-21T10:01:59Z",
+            "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792576919_0_master.mp4"
           },
           {
             "id": "ken_1792576919_1",
@@ -5771,17 +5772,17 @@
     },
     "PUBLISHER": {
       "status": "working",
-      "current_task": "Short SCHEDULED on YouTube: BVf4jSqOdDo (09:30 PM ET (Tue, Oct 20))",
+      "current_task": "Upload staged for automatic retry: ken_1792576919_0",
       "last_completed_task": "Uploaded all 3 initial Clash Royale gaming cuts to YouTube (kenclipsburger420)",
       "recent_logs": [
-        "[18:28:16] Deploying to YouTube (@kenclipsburger420) for release 09:30 PM ET (Tue, Oct 20)...",
-        "[18:28:22] Short SCHEDULED on YouTube: GXFqvSjnK8c (09:30 PM ET (Tue, Oct 20))",
-        "[18:31:52] Generating gaming A/B metadata for slot: 11:30 AM ET (Wed, Oct 21)...",
-        "[18:31:59] Deploying to YouTube (@kenclipsburger420) for release 11:30 AM ET (Wed, Oct 21)...",
         "[18:32:05] Short SCHEDULED on YouTube: NuCE_5c__rM (11:30 AM ET (Wed, Oct 21))",
         "[18:35:40] Generating gaming A/B metadata for slot: 09:30 PM ET (Tue, Oct 20)...",
         "[18:35:55] Deploying to YouTube (@kenclipsburger420) for release 09:30 PM ET (Tue, Oct 20)...",
-        "[18:36:00] Short SCHEDULED on YouTube: BVf4jSqOdDo (09:30 PM ET (Tue, Oct 20))"
+        "[18:36:00] Short SCHEDULED on YouTube: BVf4jSqOdDo (09:30 PM ET (Tue, Oct 20))",
+        "[06:02:59] Generating gaming A/B metadata for slot: 11:30 AM ET (Wed, Oct 21)...",
+        "[06:03:04] Deploying to YouTube (@kenclipsburger420) for release 11:30 AM ET (Wed, Oct 21)...",
+        "[06:03:20] YouTube upload error: ('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
+        "[06:03:20] Upload staged for automatic retry: ken_1792576919_0"
       ]
     },
     "ANALYST": {
@@ -6348,8 +6349,9 @@
         "url": "https://www.youtube.com/watch?v=VgIIltGHbHU",
         "section": "*60-240",
         "duration": 1635,
-        "status": "PROCESSING",
-        "added_at": "2026-10-21T10:01:59Z"
+        "status": "RETRY_UPLOAD",
+        "added_at": "2026-10-21T10:01:59Z",
+        "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792576919_0_master.mp4"
       },
       {
         "id": "ken_1792576919_1",

@@ -1,6 +1,6 @@
 {
-  "timestamp": 1792588147.209502,
-  "sync_time_iso": "2026-10-21T13:09:07Z",
+  "timestamp": 1792588208.920867,
+  "sync_time_iso": "2026-10-21T13:10:08Z",
   "default_channel": "ken_clips_burger",
   "channels": {
     "ken_clips_burger": {
@@ -97,14 +97,14 @@
           "current_task": "Queue up to date. Waiting for next daily Ken upload.",
           "last_completed_task": "Ingested 5 recent Ken master videos into source pool",
           "recent_logs": [
-            "[08:54:52] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
-            "[08:55:03] Queue up to date. Waiting for next daily Ken upload.",
             "[08:58:34] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
             "[08:58:46] Queue up to date. Waiting for next daily Ken upload.",
             "[09:02:08] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
             "[09:02:19] Queue up to date. Waiting for next daily Ken upload.",
             "[09:05:53] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
-            "[09:06:04] Queue up to date. Waiting for next daily Ken upload."
+            "[09:06:04] Queue up to date. Waiting for next daily Ken upload.",
+            "[09:09:23] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
+            "[09:09:34] Queue up to date. Waiting for next daily Ken upload."
           ]
         },
         "STRATEGIST": {
@@ -151,14 +151,14 @@
           "current_task": "Upload staged for automatic retry: ken_1792576919_0",
           "last_completed_task": "Uploaded all 3 initial Clash Royale gaming cuts to YouTube (kenclipsburger420)",
           "recent_logs": [
-            "[09:02:19] Generating gaming A/B metadata for slot: 11:30 AM ET (Wed, Oct 21)...",
-            "[09:02:35] Deploying to YouTube (@kenclipsburger420) for release 11:30 AM ET (Wed, Oct 21)...",
-            "[09:02:50] YouTube upload error: ('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
-            "[09:02:51] Upload staged for automatic retry: ken_1792576919_0",
             "[09:06:04] Generating gaming A/B metadata for slot: 11:30 AM ET (Wed, Oct 21)...",
             "[09:06:07] Deploying to YouTube (@kenclipsburger420) for release 11:30 AM ET (Wed, Oct 21)...",
             "[09:06:23] YouTube upload error: ('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
-            "[09:06:23] Upload staged for automatic retry: ken_1792576919_0"
+            "[09:06:23] Upload staged for automatic retry: ken_1792576919_0",
+            "[09:09:34] Generating gaming A/B metadata for slot: 11:30 AM ET (Wed, Oct 21)...",
+            "[09:09:49] Deploying to YouTube (@kenclipsburger420) for release 11:30 AM ET (Wed, Oct 21)...",
+            "[09:10:05] YouTube upload error: ('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
+            "[09:10:05] Upload staged for automatic retry: ken_1792576919_0"
           ]
         },
         "ANALYST": {
@@ -5464,71 +5464,72 @@
       "calendar": {
         "scheduled": [
           {
-            "id": "clipper_a_short_01",
-            "title": "Bro thought Pass Royale would save him \ud83d\udc80 #clashroyale #shorts",
-            "description": "Bro really thought Pass Royale would save his Sparky push \ud83d\udc80 When the pre-arrows read is pixel-perfect.\n\n#clashroyale #shorts #cr #gaming #clashroyalememes #supercell",
+            "id": "clash_tierlist_ep01",
+            "title": "The 3 Most OVERRATED Evolutions in Clash Royale \ud83d\udc80 #clashroyale #shorts",
+            "description": "Stop wasting your Wild Shards! \ud83d\udc80 Here is why Evo Bats, Evo Firecracker, and Evo Mega Knight are traps, and why you should upgrade Evo Bomber and Skeletons first.\n\n#clashroyale #shorts #cr #gaming #clashroyalememes #supercell #tierlist #gamingtips",
             "tags": [
               "Shorts",
               "ClashRoyale",
               "CR",
-              "ClashRoyaleMemes",
+              "ClashRoyaleTierList",
               "Gaming",
               "Supercell",
-              "ClashRoyaleClutch",
-              "PassRoyale",
-              "PreArrows",
-              "RyleyCR"
+              "Evolutions",
+              "MegaKnight",
+              "Firecracker",
+              "GamingTips"
             ],
             "publish_at": "2026-10-21T13:00:00Z",
             "slot_display": "09:00 AM EST (Wed, Oct 21)",
-            "file_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/clipper_a_short_01.mp4",
-            "duration_sec": 13.2,
-            "niche": "High-Energy Streamer Clutch & F2P Meme"
+            "file_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/clash_tierlist_ep01_overrated_evos.mp4",
+            "duration_sec": 56.5,
+            "niche": "Esports Meta Strategy & Tier Lists"
           },
           {
-            "id": "clipper_a_short_02",
-            "title": "Toxic emote karma is actually instant \ud83d\ude2d #clashroyale #shorts",
-            "description": "Never celebrate early in Clash Royale \ud83d\ude2d Bro really thought laughing emotes would save his tower.\n\n#clashroyale #shorts #cr #gaming #toxic #karma #supercell",
+            "id": "clash_tierlist_ep02",
+            "title": "The 3 BEST F2P Win Conditions to Max First \ud83c\udfc6 #clashroyale #shorts",
+            "description": "If you're free-to-play, upgrading the wrong win condition sets your account back 6 months! \ud83c\udfc6 Max Royal Giant, Mortar, and Hog Rider to push to Ultimate Champion without spending a dime.\n\n#clashroyale #shorts #cr #gaming #f2p #clashroyalememes #supercell #hogrider",
             "tags": [
               "Shorts",
               "ClashRoyale",
               "CR",
-              "ClashRoyaleMemes",
+              "F2P",
+              "HogRider",
+              "Mortar",
+              "RoyalGiant",
+              "ClashRoyaleStrategy",
               "Gaming",
-              "Supercell",
-              "ToxicKarma",
-              "EmoteSpam",
-              "InstantKarma"
+              "Supercell"
             ],
             "publish_at": "2026-10-21T19:00:00Z",
             "slot_display": "03:00 PM EST (Wed, Oct 21)",
-            "file_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/clipper_a_short_02.mp4",
-            "duration_sec": 13.5,
-            "niche": "Toxic Karma & Midladder Memes"
+            "file_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/clash_tierlist_ep02_f2p_wincons.mp4",
+            "duration_sec": 69.9,
+            "niche": "Esports Meta Strategy & Tier Lists"
           },
           {
-            "id": "clipper_a_short_03",
-            "title": "Bro thought he already won \ud83d\udc80 #clashroyale #shorts",
-            "description": "The greatest 1-second miracle turnaround in Clash Royale history \ud83d\udc80 Bro's the luckiest man alive.\n\n#clashroyale #shorts #cr #gaming #clashroyalememes #supercell #clutch",
+            "id": "clash_tierlist_ep03",
+            "title": "The 3 Deadliest Spell Mistakes in Clash Royale \u26a0\ufe0f #clashroyale #shorts",
+            "description": "One bad spell placement loses you the match on the spot! \u26a0\ufe0f Why bridge fireballs and premature logs destroy your elixir advantage, and how to master spell discipline.\n\n#clashroyale #shorts #cr #gaming #clashroyaletips #spelldiscipline #thelog #supercell",
             "tags": [
               "Shorts",
               "ClashRoyale",
               "CR",
-              "ClashRoyaleMemes",
+              "SpellDiscipline",
+              "TheLog",
+              "Tornado",
+              "Fireball",
+              "ClashRoyaleTips",
               "Gaming",
-              "Supercell",
-              "ClashRoyaleClutch",
-              "MiracleTurnaround",
-              "ClashCam"
+              "Supercell"
             ],
             "publish_at": "2026-10-22T00:30:00Z",
             "slot_display": "08:30 PM EST (Wed, Oct 21)",
-            "file_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/clipper_a_short_03.mp4",
-            "duration_sec": 14.0,
-            "niche": "Bait-and-Switch Miracle Turnaround"
+            "file_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/clash_tierlist_ep03_spell_mistakes.mp4",
+            "duration_sec": 57.1,
+            "niche": "Esports Meta Strategy & Tier Lists"
           }
-        ],
-        "published": []
+        ]
       },
       "analytics": {
         "summary": {
@@ -5721,14 +5722,14 @@
       "current_task": "Queue up to date. Waiting for next daily Ken upload.",
       "last_completed_task": "Ingested 5 recent Ken master videos into source pool",
       "recent_logs": [
-        "[08:54:52] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
-        "[08:55:03] Queue up to date. Waiting for next daily Ken upload.",
         "[08:58:34] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
         "[08:58:46] Queue up to date. Waiting for next daily Ken upload.",
         "[09:02:08] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
         "[09:02:19] Queue up to date. Waiting for next daily Ken upload.",
         "[09:05:53] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
-        "[09:06:04] Queue up to date. Waiting for next daily Ken upload."
+        "[09:06:04] Queue up to date. Waiting for next daily Ken upload.",
+        "[09:09:23] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
+        "[09:09:34] Queue up to date. Waiting for next daily Ken upload."
       ]
     },
     "STRATEGIST": {
@@ -5775,14 +5776,14 @@
       "current_task": "Upload staged for automatic retry: ken_1792576919_0",
       "last_completed_task": "Uploaded all 3 initial Clash Royale gaming cuts to YouTube (kenclipsburger420)",
       "recent_logs": [
-        "[09:02:19] Generating gaming A/B metadata for slot: 11:30 AM ET (Wed, Oct 21)...",
-        "[09:02:35] Deploying to YouTube (@kenclipsburger420) for release 11:30 AM ET (Wed, Oct 21)...",
-        "[09:02:50] YouTube upload error: ('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
-        "[09:02:51] Upload staged for automatic retry: ken_1792576919_0",
         "[09:06:04] Generating gaming A/B metadata for slot: 11:30 AM ET (Wed, Oct 21)...",
         "[09:06:07] Deploying to YouTube (@kenclipsburger420) for release 11:30 AM ET (Wed, Oct 21)...",
         "[09:06:23] YouTube upload error: ('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
-        "[09:06:23] Upload staged for automatic retry: ken_1792576919_0"
+        "[09:06:23] Upload staged for automatic retry: ken_1792576919_0",
+        "[09:09:34] Generating gaming A/B metadata for slot: 11:30 AM ET (Wed, Oct 21)...",
+        "[09:09:49] Deploying to YouTube (@kenclipsburger420) for release 11:30 AM ET (Wed, Oct 21)...",
+        "[09:10:05] YouTube upload error: ('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
+        "[09:10:05] Upload staged for automatic retry: ken_1792576919_0"
       ]
     },
     "ANALYST": {

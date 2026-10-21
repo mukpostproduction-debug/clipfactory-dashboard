@@ -1,6 +1,6 @@
 {
-  "timestamp": 1792552855.73429,
-  "sync_time_iso": "2026-10-21T03:20:55Z",
+  "timestamp": 1792552919.617106,
+  "sync_time_iso": "2026-10-21T03:21:59Z",
   "default_channel": "ken_clips_burger",
   "channels": {
     "ken_clips_burger": {
@@ -3493,6 +3493,18 @@
           "remote_tunnel_url": "https://contributor-pcs-enters-highland.trycloudflare.com",
           "tunnel_active": true
         },
+        "clash_royale_ecosystem": {
+          "channel_1_preserved": "kenclipsburger420",
+          "channel_2_unfrozen_a": "abiclitsalot (Streamer Clutches & F2P Memes)",
+          "channel_3_unfrozen_b": "Muks Breakdown Room (Phonk Aura & Swarms)",
+          "daily_cadence_per_unfrozen": 3,
+          "scheduled_windows_est": [
+            "09:00",
+            "15:00",
+            "20:30"
+          ],
+          "warmup_mode_72h": true
+        },
         "status": "PAUSED",
         "buffer_target_shorts": 6,
         "remote_tunnel_url": "https://contributor-pcs-enters-highland.trycloudflare.com",
@@ -4921,87 +4933,102 @@
       "niche": "Pop Culture & Comedy",
       "status": "PAUSED",
       "config": {
-        "channel_id_key": "abigails_channel",
+        "channel_id_key": "clipper_a_memes",
         "channel_name": "abiclitsalot",
-        "niche": "pop_culture_comedy_chaos",
-        "creators": [
+        "niche": "clash_royale_streamer_clutches_and_memes",
+        "assigned_style": "KaiserDEthik / Streamer Clutch & F2P Memes",
+        "reference_benchmarks": [
+          "@KaiserDEthik",
+          "BaldBowler",
+          "iboclips",
+          "Arvex CR",
+          "Clash Cam"
+        ],
+        "creator_sources": [
           {
-            "name": "Trisha Paytas",
-            "handle": "@JustTrishPodcast",
-            "url": "https://www.youtube.com/@JustTrishPodcast",
-            "category": "Celebrity Tea & Unfiltered Takes",
-            "priority": 1,
-            "target_weight_pct": 70
+            "name": "Ryley CR",
+            "handle": "@RyleyCR",
+            "url": "https://www.youtube.com/@RyleyCR",
+            "category": "Pro 1HP Clutches & Predictions",
+            "priority": 1
           },
           {
-            "name": "Benito Skinner",
-            "handle": "@bennydrama7",
-            "url": "https://www.youtube.com/@bennydrama7",
-            "podcast_url": "https://www.youtube.com/@ridethepod",
-            "category": "Comedy Sketches & Cultural Satire",
-            "priority": 2,
-            "target_weight_pct": 15
+            "name": "KaiserDEthik",
+            "handle": "@kaiserdethik",
+            "url": "https://www.youtube.com/@kaiserdethik",
+            "category": "F2P vs P2W & Toxic Karma Memes",
+            "priority": 1
           },
           {
-            "name": "Emergency Intercom",
-            "handle": "@emergencyintercom",
-            "url": "https://www.youtube.com/@emergencyintercom",
-            "category": "Unhinged Banter & Chaos Comedy",
-            "priority": 2,
-            "target_weight_pct": 15
+            "name": "Mohamed Light",
+            "handle": "@MohamedLightCR",
+            "url": "https://www.youtube.com/@MohamedLightCR",
+            "category": "World Champion Insane Reads",
+            "priority": 2
+          },
+          {
+            "name": "Ian77",
+            "handle": "@Ian77CR",
+            "url": "https://www.youtube.com/@Ian77CR",
+            "category": "Top Ladder Clutch & Reaction",
+            "priority": 2
           }
         ],
-        "paused": true,
-        "pause_reason": "Paused by studio direction to focus 100% of compute, quota, and uploads on KenClipsBurger420",
         "publishing": {
-          "enabled": false,
+          "enabled": true,
           "daily_target": 3,
-          "current_cadence": 0,
+          "current_cadence": 3,
           "channel_id": "UCcNdnkFH4m9C3rUunbOEaSg",
           "channel_name": "abiclitsalot",
           "scheduled_times": [
-            "12:30",
-            "17:00",
-            "21:00"
+            "09:00",
+            "15:00",
+            "20:30"
           ],
+          "timezone": "America/New_York",
           "privacy_status": "private",
           "daily_quota_limit": 10000,
+          "warmup_mode_active": true,
           "tags": [
             "Shorts",
-            "PopCulture",
-            "JustTrish",
-            "TrishaPaytas",
-            "EmergencyIntercom",
-            "DrewPhillips",
-            "EnyaUmanzor",
-            "BenitoSkinner",
-            "BennyDrama",
-            "PodcastClips",
-            "Comedy"
+            "ClashRoyale",
+            "CR",
+            "ClashRoyaleMemes",
+            "Gaming",
+            "Supercell",
+            "ClashRoyaleClutch",
+            "ToxicKarma",
+            "PassRoyale",
+            "GamingShorts"
           ],
           "oauth_connected": true
         },
         "editor": {
-          "layout_mode": "blurred_backdrop",
+          "layout_mode": "gaming_split",
+          "facecam_position": "top",
+          "facecam_height_pct": 0.395,
+          "gameplay_height_pct": 0.605,
+          "captions_y_center": 740,
           "target_width": 1080,
           "target_height": 1920,
-          "fps": 30,
-          "font_name": "Impact",
-          "font_size": 74,
+          "fps": 60,
+          "font_name": "Arial Black",
+          "font_size": 70,
           "primary_color": "&H00FFFFFF",
-          "accent_color": "&H00E0218A",
-          "highlight_color": "&H0000E5FF",
+          "accent_color": "&H00FFE600",
+          "highlight_color": "&H0000D4FF",
           "outline_color": "&H00000000",
-          "outline_width": 5,
-          "punch_in_scale": 1.22,
-          "audio_integrated_lufs": -14.0
+          "outline_width": 6,
+          "audio_integrated_lufs": -14.0,
+          "min_duration_sec": 9.0,
+          "max_duration_sec": 16.0
         },
         "compliance": {
-          "max_source_segment_sec": 32.0,
-          "min_total_short_sec": 20.0,
-          "max_total_short_sec": 32.0,
-          "require_commentary_layer": true,
-          "fair_use_transformative": true
+          "max_source_segment_sec": 16.0,
+          "min_total_short_sec": 9.0,
+          "max_total_short_sec": 16.0,
+          "require_commentary_layer": false,
+          "supercell_fan_policy_compliant": true
         },
         "status": "PAUSED",
         "app_name": "ClipFactory // Abigail",

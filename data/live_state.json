@@ -1,6 +1,6 @@
 {
-  "timestamp": 1792591268.2466052,
-  "sync_time_iso": "2026-10-21T14:01:08Z",
+  "timestamp": 1792591330.4506922,
+  "sync_time_iso": "2026-10-21T14:02:10Z",
   "default_channel": "ken_clips_burger",
   "channels": {
     "ken_clips_burger": {
@@ -97,14 +97,14 @@
           "current_task": "Queue up to date. Waiting for next daily Ken upload.",
           "last_completed_task": "Ingested 5 recent Ken master videos into source pool",
           "recent_logs": [
-            "[09:46:13] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
-            "[09:46:24] Queue up to date. Waiting for next daily Ken upload.",
             "[09:49:51] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
             "[09:50:03] Queue up to date. Waiting for next daily Ken upload.",
             "[09:53:43] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
             "[09:53:55] Queue up to date. Waiting for next daily Ken upload.",
             "[09:57:31] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
-            "[09:57:42] Queue up to date. Waiting for next daily Ken upload."
+            "[09:57:42] Queue up to date. Waiting for next daily Ken upload.",
+            "[10:01:22] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
+            "[10:01:34] Queue up to date. Waiting for next daily Ken upload."
           ]
         },
         "STRATEGIST": {
@@ -148,17 +148,17 @@
         },
         "PUBLISHER": {
           "status": "working",
-          "current_task": "Upload staged for automatic retry: ken_1792576919_0",
+          "current_task": "Deploying to YouTube (@kenclipsburger420) for release 11:30 AM ET (Wed, Oct 21)...",
           "last_completed_task": "Uploaded all 3 initial Clash Royale gaming cuts to YouTube (kenclipsburger420)",
           "recent_logs": [
-            "[09:53:55] Generating gaming A/B metadata for slot: 11:30 AM ET (Wed, Oct 21)...",
-            "[09:54:12] Deploying to YouTube (@kenclipsburger420) for release 11:30 AM ET (Wed, Oct 21)...",
             "[09:54:28] YouTube upload error: ('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
             "[09:54:28] Upload staged for automatic retry: ken_1792576919_0",
             "[09:57:42] Generating gaming A/B metadata for slot: 11:30 AM ET (Wed, Oct 21)...",
             "[09:58:07] Deploying to YouTube (@kenclipsburger420) for release 11:30 AM ET (Wed, Oct 21)...",
             "[09:58:23] YouTube upload error: ('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
-            "[09:58:23] Upload staged for automatic retry: ken_1792576919_0"
+            "[09:58:23] Upload staged for automatic retry: ken_1792576919_0",
+            "[10:01:34] Generating gaming A/B metadata for slot: 11:30 AM ET (Wed, Oct 21)...",
+            "[10:02:00] Deploying to YouTube (@kenclipsburger420) for release 11:30 AM ET (Wed, Oct 21)..."
           ]
         },
         "ANALYST": {
@@ -1081,71 +1081,6 @@
       "calendar": {
         "scheduled": [
           {
-            "id": "ken_1792411394_1",
-            "source_video": "new balance changes",
-            "creator": "Ken",
-            "title": "This 1 HP Goblin Giant play shouldn't be legal...",
-            "publish_at": "2026-10-21T14:00:00Z",
-            "status": "SCHEDULED",
-            "uploaded": true,
-            "youtube_video_id": "9qNShfc5SBM",
-            "youtube_url": "https://www.youtube.com/shorts/9qNShfc5SBM",
-            "video_file": "ken_1792411394_1_remaster_1080p.mp4",
-            "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/remastered/ken_1792411394_1_remaster_1080p.mp4",
-            "duration": 30.09,
-            "metadata": {
-              "title": "This 1 HP Goblin Giant play shouldn't be legal...",
-              "description": "Surviving a devastating lightning spell with just 1 HP on an Evolution Goblin Giant feels impossible, but this insane clutch changes everything. Watch how a last-second defense turns into an absolute win.\n\n\u2022 Master the art of the defensive freeze to salvage a doomed push\n\u2022 Learn exact timing for the Log to wipe out supporting counters\n\u2022 Turn a game-ending spell disaster into a miraculous comeback\n\nFeaturing: Ken\n\nWould you have panicked and given up when the lightning hit, or could you pull this off?\n\n#shorts #clashroyale #gaming #ken #supercell #clashroyaleshorts",
-              "tags": [
-                "Clash Royale",
-                "Ken Clash Royale",
-                "Evo Goblin Giant",
-                "Clash Royale funny moments",
-                "Clash Royale clutch",
-                "Clash Royale gameplay",
-                "Clash Royale Shorts",
-                "Supercell",
-                "Mobile Gaming"
-              ],
-              "pinned_comment": "Be honest: if your Evo Goblin Giant dropped to 1 HP right in front of the king tower, would you have alt-f4'd or clutched up like Ken?",
-              "ab_variants": {
-                "A": {
-                  "angle": "Curiosity Gap",
-                  "title": "This 1 HP Goblin Giant play shouldn't be legal...",
-                  "description": "Surviving a devastating lightning spell with just 1 HP on an Evolution Goblin Giant feels impossible, but this insane clutch changes everything. Watch how a last-second defense turns into an absolute win.\n\n\u2022 Master the art of the defensive freeze to salvage a doomed push\n\u2022 Learn exact timing for the Log to wipe out supporting counters\n\u2022 Turn a game-ending spell disaster into a miraculous comeback\n\nFeaturing: Ken\n\nWould you have panicked and given up when the lightning hit, or could you pull this off?\n\n#shorts #clashroyale #gaming #ken #supercell #clashroyaleshorts"
-                },
-                "B": {
-                  "angle": "Contrarian Truth",
-                  "title": "Why lightning spells actually throw games",
-                  "description": "Everyone thinks a lightning spell guarantees a shutdown against heavy pushes, but relying on it can lead to the most embarrassing mistakes in Clash Royale history. See how one misplaced spell costs the match.\n\n\u2022 Exposing the hidden vulnerabilities of meta spell placements\n\u2022 Capitalizing on opponent overconfidence after a massive spell hit\n\u2022 Capitalizing on panic plays to steal an unearned three-crown\n\nFeaturing: Ken\n\nIs lightning the most overrated spell in the current meta, or was this just a massive skill issue?\n\n#shorts #clashroyale #gaming #ken #clashroyaleclips #mobilegaming"
-                },
-                "C": {
-                  "angle": "Actionable Protocol",
-                  "title": "How to clutch with 1 HP Evo Goblin Giant",
-                  "description": "Stop losing matches when your opponent counters your win condition. This step-by-step clutch breakdown proves that a 1 HP Evo Goblin Giant is still enough to take the tower if you execute this precise sequence.\n\n\u2022 Step 1: Absorb the heavy spell damage without losing your composure\n\u2022 Step 2: Deploy Freeze to completely stall the counter-attack\n\u2022 Step 3: Clear the lane with a perfectly timed Log to secure the crown\n\nFeaturing: Ken\n\nWhat is your go-to play when your main push gets completely zapped out of nowhere?\n\n#shorts #clashroyale #gaming #ken #supercell #strategy"
-                }
-              },
-              "active_variant": "A",
-              "test_status": "ACTIVE_TEST",
-              "variant_history": [
-                {
-                  "variant": "A",
-                  "title": "This 1 HP Goblin Giant play shouldn't be legal...",
-                  "deployed_at": 1792535672.2237802,
-                  "reason": "Initial A/B test deployment"
-                }
-              ],
-              "metrics": {
-                "views": 0,
-                "likes": 0,
-                "comments": 0,
-                "retention": 0.0,
-                "ctr": 0.0
-              }
-            },
-            "created_at": "2026-10-20T22:59:26.441015+00:00"
-          },
-          {
             "id": "ken_1792411394_0",
             "source_video": "new balance changes",
             "creator": "Ken",
@@ -1278,6 +1213,71 @@
         ],
         "held": [],
         "published": [
+          {
+            "id": "ken_1792411394_1",
+            "source_video": "new balance changes",
+            "creator": "Ken",
+            "title": "This 1 HP Goblin Giant play shouldn't be legal...",
+            "publish_at": "2026-10-21T14:00:00Z",
+            "status": "PUBLISHED",
+            "uploaded": true,
+            "youtube_video_id": "9qNShfc5SBM",
+            "youtube_url": "https://www.youtube.com/shorts/9qNShfc5SBM",
+            "video_file": "ken_1792411394_1_remaster_1080p.mp4",
+            "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/remastered/ken_1792411394_1_remaster_1080p.mp4",
+            "duration": 30.09,
+            "metadata": {
+              "title": "This 1 HP Goblin Giant play shouldn't be legal...",
+              "description": "Surviving a devastating lightning spell with just 1 HP on an Evolution Goblin Giant feels impossible, but this insane clutch changes everything. Watch how a last-second defense turns into an absolute win.\n\n\u2022 Master the art of the defensive freeze to salvage a doomed push\n\u2022 Learn exact timing for the Log to wipe out supporting counters\n\u2022 Turn a game-ending spell disaster into a miraculous comeback\n\nFeaturing: Ken\n\nWould you have panicked and given up when the lightning hit, or could you pull this off?\n\n#shorts #clashroyale #gaming #ken #supercell #clashroyaleshorts",
+              "tags": [
+                "Clash Royale",
+                "Ken Clash Royale",
+                "Evo Goblin Giant",
+                "Clash Royale funny moments",
+                "Clash Royale clutch",
+                "Clash Royale gameplay",
+                "Clash Royale Shorts",
+                "Supercell",
+                "Mobile Gaming"
+              ],
+              "pinned_comment": "Be honest: if your Evo Goblin Giant dropped to 1 HP right in front of the king tower, would you have alt-f4'd or clutched up like Ken?",
+              "ab_variants": {
+                "A": {
+                  "angle": "Curiosity Gap",
+                  "title": "This 1 HP Goblin Giant play shouldn't be legal...",
+                  "description": "Surviving a devastating lightning spell with just 1 HP on an Evolution Goblin Giant feels impossible, but this insane clutch changes everything. Watch how a last-second defense turns into an absolute win.\n\n\u2022 Master the art of the defensive freeze to salvage a doomed push\n\u2022 Learn exact timing for the Log to wipe out supporting counters\n\u2022 Turn a game-ending spell disaster into a miraculous comeback\n\nFeaturing: Ken\n\nWould you have panicked and given up when the lightning hit, or could you pull this off?\n\n#shorts #clashroyale #gaming #ken #supercell #clashroyaleshorts"
+                },
+                "B": {
+                  "angle": "Contrarian Truth",
+                  "title": "Why lightning spells actually throw games",
+                  "description": "Everyone thinks a lightning spell guarantees a shutdown against heavy pushes, but relying on it can lead to the most embarrassing mistakes in Clash Royale history. See how one misplaced spell costs the match.\n\n\u2022 Exposing the hidden vulnerabilities of meta spell placements\n\u2022 Capitalizing on opponent overconfidence after a massive spell hit\n\u2022 Capitalizing on panic plays to steal an unearned three-crown\n\nFeaturing: Ken\n\nIs lightning the most overrated spell in the current meta, or was this just a massive skill issue?\n\n#shorts #clashroyale #gaming #ken #clashroyaleclips #mobilegaming"
+                },
+                "C": {
+                  "angle": "Actionable Protocol",
+                  "title": "How to clutch with 1 HP Evo Goblin Giant",
+                  "description": "Stop losing matches when your opponent counters your win condition. This step-by-step clutch breakdown proves that a 1 HP Evo Goblin Giant is still enough to take the tower if you execute this precise sequence.\n\n\u2022 Step 1: Absorb the heavy spell damage without losing your composure\n\u2022 Step 2: Deploy Freeze to completely stall the counter-attack\n\u2022 Step 3: Clear the lane with a perfectly timed Log to secure the crown\n\nFeaturing: Ken\n\nWhat is your go-to play when your main push gets completely zapped out of nowhere?\n\n#shorts #clashroyale #gaming #ken #supercell #strategy"
+                }
+              },
+              "active_variant": "A",
+              "test_status": "ACTIVE_TEST",
+              "variant_history": [
+                {
+                  "variant": "A",
+                  "title": "This 1 HP Goblin Giant play shouldn't be legal...",
+                  "deployed_at": 1792535672.2237802,
+                  "reason": "Initial A/B test deployment"
+                }
+              ],
+              "metrics": {
+                "views": 0,
+                "likes": 0,
+                "comments": 0,
+                "retention": 0.0,
+                "ctr": 0.0
+              }
+            },
+            "created_at": "2026-10-20T22:59:26.441015+00:00"
+          },
           {
             "id": "ken_1792500844_2",
             "source_video": "welcome to hell",
@@ -5729,14 +5729,14 @@
       "current_task": "Queue up to date. Waiting for next daily Ken upload.",
       "last_completed_task": "Ingested 5 recent Ken master videos into source pool",
       "recent_logs": [
-        "[09:46:13] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
-        "[09:46:24] Queue up to date. Waiting for next daily Ken upload.",
         "[09:49:51] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
         "[09:50:03] Queue up to date. Waiting for next daily Ken upload.",
         "[09:53:43] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
         "[09:53:55] Queue up to date. Waiting for next daily Ken upload.",
         "[09:57:31] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
-        "[09:57:42] Queue up to date. Waiting for next daily Ken upload."
+        "[09:57:42] Queue up to date. Waiting for next daily Ken upload.",
+        "[10:01:22] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
+        "[10:01:34] Queue up to date. Waiting for next daily Ken upload."
       ]
     },
     "STRATEGIST": {
@@ -5780,17 +5780,17 @@
     },
     "PUBLISHER": {
       "status": "working",
-      "current_task": "Upload staged for automatic retry: ken_1792576919_0",
+      "current_task": "Deploying to YouTube (@kenclipsburger420) for release 11:30 AM ET (Wed, Oct 21)...",
       "last_completed_task": "Uploaded all 3 initial Clash Royale gaming cuts to YouTube (kenclipsburger420)",
       "recent_logs": [
-        "[09:53:55] Generating gaming A/B metadata for slot: 11:30 AM ET (Wed, Oct 21)...",
-        "[09:54:12] Deploying to YouTube (@kenclipsburger420) for release 11:30 AM ET (Wed, Oct 21)...",
         "[09:54:28] YouTube upload error: ('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
         "[09:54:28] Upload staged for automatic retry: ken_1792576919_0",
         "[09:57:42] Generating gaming A/B metadata for slot: 11:30 AM ET (Wed, Oct 21)...",
         "[09:58:07] Deploying to YouTube (@kenclipsburger420) for release 11:30 AM ET (Wed, Oct 21)...",
         "[09:58:23] YouTube upload error: ('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
-        "[09:58:23] Upload staged for automatic retry: ken_1792576919_0"
+        "[09:58:23] Upload staged for automatic retry: ken_1792576919_0",
+        "[10:01:34] Generating gaming A/B metadata for slot: 11:30 AM ET (Wed, Oct 21)...",
+        "[10:02:00] Deploying to YouTube (@kenclipsburger420) for release 11:30 AM ET (Wed, Oct 21)..."
       ]
     },
     "ANALYST": {
@@ -6713,71 +6713,6 @@
   "calendar": {
     "scheduled": [
       {
-        "id": "ken_1792411394_1",
-        "source_video": "new balance changes",
-        "creator": "Ken",
-        "title": "This 1 HP Goblin Giant play shouldn't be legal...",
-        "publish_at": "2026-10-21T14:00:00Z",
-        "status": "SCHEDULED",
-        "uploaded": true,
-        "youtube_video_id": "9qNShfc5SBM",
-        "youtube_url": "https://www.youtube.com/shorts/9qNShfc5SBM",
-        "video_file": "ken_1792411394_1_remaster_1080p.mp4",
-        "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/remastered/ken_1792411394_1_remaster_1080p.mp4",
-        "duration": 30.09,
-        "metadata": {
-          "title": "This 1 HP Goblin Giant play shouldn't be legal...",
-          "description": "Surviving a devastating lightning spell with just 1 HP on an Evolution Goblin Giant feels impossible, but this insane clutch changes everything. Watch how a last-second defense turns into an absolute win.\n\n\u2022 Master the art of the defensive freeze to salvage a doomed push\n\u2022 Learn exact timing for the Log to wipe out supporting counters\n\u2022 Turn a game-ending spell disaster into a miraculous comeback\n\nFeaturing: Ken\n\nWould you have panicked and given up when the lightning hit, or could you pull this off?\n\n#shorts #clashroyale #gaming #ken #supercell #clashroyaleshorts",
-          "tags": [
-            "Clash Royale",
-            "Ken Clash Royale",
-            "Evo Goblin Giant",
-            "Clash Royale funny moments",
-            "Clash Royale clutch",
-            "Clash Royale gameplay",
-            "Clash Royale Shorts",
-            "Supercell",
-            "Mobile Gaming"
-          ],
-          "pinned_comment": "Be honest: if your Evo Goblin Giant dropped to 1 HP right in front of the king tower, would you have alt-f4'd or clutched up like Ken?",
-          "ab_variants": {
-            "A": {
-              "angle": "Curiosity Gap",
-              "title": "This 1 HP Goblin Giant play shouldn't be legal...",
-              "description": "Surviving a devastating lightning spell with just 1 HP on an Evolution Goblin Giant feels impossible, but this insane clutch changes everything. Watch how a last-second defense turns into an absolute win.\n\n\u2022 Master the art of the defensive freeze to salvage a doomed push\n\u2022 Learn exact timing for the Log to wipe out supporting counters\n\u2022 Turn a game-ending spell disaster into a miraculous comeback\n\nFeaturing: Ken\n\nWould you have panicked and given up when the lightning hit, or could you pull this off?\n\n#shorts #clashroyale #gaming #ken #supercell #clashroyaleshorts"
-            },
-            "B": {
-              "angle": "Contrarian Truth",
-              "title": "Why lightning spells actually throw games",
-              "description": "Everyone thinks a lightning spell guarantees a shutdown against heavy pushes, but relying on it can lead to the most embarrassing mistakes in Clash Royale history. See how one misplaced spell costs the match.\n\n\u2022 Exposing the hidden vulnerabilities of meta spell placements\n\u2022 Capitalizing on opponent overconfidence after a massive spell hit\n\u2022 Capitalizing on panic plays to steal an unearned three-crown\n\nFeaturing: Ken\n\nIs lightning the most overrated spell in the current meta, or was this just a massive skill issue?\n\n#shorts #clashroyale #gaming #ken #clashroyaleclips #mobilegaming"
-            },
-            "C": {
-              "angle": "Actionable Protocol",
-              "title": "How to clutch with 1 HP Evo Goblin Giant",
-              "description": "Stop losing matches when your opponent counters your win condition. This step-by-step clutch breakdown proves that a 1 HP Evo Goblin Giant is still enough to take the tower if you execute this precise sequence.\n\n\u2022 Step 1: Absorb the heavy spell damage without losing your composure\n\u2022 Step 2: Deploy Freeze to completely stall the counter-attack\n\u2022 Step 3: Clear the lane with a perfectly timed Log to secure the crown\n\nFeaturing: Ken\n\nWhat is your go-to play when your main push gets completely zapped out of nowhere?\n\n#shorts #clashroyale #gaming #ken #supercell #strategy"
-            }
-          },
-          "active_variant": "A",
-          "test_status": "ACTIVE_TEST",
-          "variant_history": [
-            {
-              "variant": "A",
-              "title": "This 1 HP Goblin Giant play shouldn't be legal...",
-              "deployed_at": 1792535672.2237802,
-              "reason": "Initial A/B test deployment"
-            }
-          ],
-          "metrics": {
-            "views": 0,
-            "likes": 0,
-            "comments": 0,
-            "retention": 0.0,
-            "ctr": 0.0
-          }
-        },
-        "created_at": "2026-10-20T22:59:26.441015+00:00"
-      },
-      {
         "id": "ken_1792411394_0",
         "source_video": "new balance changes",
         "creator": "Ken",
@@ -6910,6 +6845,71 @@
     ],
     "held": [],
     "published": [
+      {
+        "id": "ken_1792411394_1",
+        "source_video": "new balance changes",
+        "creator": "Ken",
+        "title": "This 1 HP Goblin Giant play shouldn't be legal...",
+        "publish_at": "2026-10-21T14:00:00Z",
+        "status": "PUBLISHED",
+        "uploaded": true,
+        "youtube_video_id": "9qNShfc5SBM",
+        "youtube_url": "https://www.youtube.com/shorts/9qNShfc5SBM",
+        "video_file": "ken_1792411394_1_remaster_1080p.mp4",
+        "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/remastered/ken_1792411394_1_remaster_1080p.mp4",
+        "duration": 30.09,
+        "metadata": {
+          "title": "This 1 HP Goblin Giant play shouldn't be legal...",
+          "description": "Surviving a devastating lightning spell with just 1 HP on an Evolution Goblin Giant feels impossible, but this insane clutch changes everything. Watch how a last-second defense turns into an absolute win.\n\n\u2022 Master the art of the defensive freeze to salvage a doomed push\n\u2022 Learn exact timing for the Log to wipe out supporting counters\n\u2022 Turn a game-ending spell disaster into a miraculous comeback\n\nFeaturing: Ken\n\nWould you have panicked and given up when the lightning hit, or could you pull this off?\n\n#shorts #clashroyale #gaming #ken #supercell #clashroyaleshorts",
+          "tags": [
+            "Clash Royale",
+            "Ken Clash Royale",
+            "Evo Goblin Giant",
+            "Clash Royale funny moments",
+            "Clash Royale clutch",
+            "Clash Royale gameplay",
+            "Clash Royale Shorts",
+            "Supercell",
+            "Mobile Gaming"
+          ],
+          "pinned_comment": "Be honest: if your Evo Goblin Giant dropped to 1 HP right in front of the king tower, would you have alt-f4'd or clutched up like Ken?",
+          "ab_variants": {
+            "A": {
+              "angle": "Curiosity Gap",
+              "title": "This 1 HP Goblin Giant play shouldn't be legal...",
+              "description": "Surviving a devastating lightning spell with just 1 HP on an Evolution Goblin Giant feels impossible, but this insane clutch changes everything. Watch how a last-second defense turns into an absolute win.\n\n\u2022 Master the art of the defensive freeze to salvage a doomed push\n\u2022 Learn exact timing for the Log to wipe out supporting counters\n\u2022 Turn a game-ending spell disaster into a miraculous comeback\n\nFeaturing: Ken\n\nWould you have panicked and given up when the lightning hit, or could you pull this off?\n\n#shorts #clashroyale #gaming #ken #supercell #clashroyaleshorts"
+            },
+            "B": {
+              "angle": "Contrarian Truth",
+              "title": "Why lightning spells actually throw games",
+              "description": "Everyone thinks a lightning spell guarantees a shutdown against heavy pushes, but relying on it can lead to the most embarrassing mistakes in Clash Royale history. See how one misplaced spell costs the match.\n\n\u2022 Exposing the hidden vulnerabilities of meta spell placements\n\u2022 Capitalizing on opponent overconfidence after a massive spell hit\n\u2022 Capitalizing on panic plays to steal an unearned three-crown\n\nFeaturing: Ken\n\nIs lightning the most overrated spell in the current meta, or was this just a massive skill issue?\n\n#shorts #clashroyale #gaming #ken #clashroyaleclips #mobilegaming"
+            },
+            "C": {
+              "angle": "Actionable Protocol",
+              "title": "How to clutch with 1 HP Evo Goblin Giant",
+              "description": "Stop losing matches when your opponent counters your win condition. This step-by-step clutch breakdown proves that a 1 HP Evo Goblin Giant is still enough to take the tower if you execute this precise sequence.\n\n\u2022 Step 1: Absorb the heavy spell damage without losing your composure\n\u2022 Step 2: Deploy Freeze to completely stall the counter-attack\n\u2022 Step 3: Clear the lane with a perfectly timed Log to secure the crown\n\nFeaturing: Ken\n\nWhat is your go-to play when your main push gets completely zapped out of nowhere?\n\n#shorts #clashroyale #gaming #ken #supercell #strategy"
+            }
+          },
+          "active_variant": "A",
+          "test_status": "ACTIVE_TEST",
+          "variant_history": [
+            {
+              "variant": "A",
+              "title": "This 1 HP Goblin Giant play shouldn't be legal...",
+              "deployed_at": 1792535672.2237802,
+              "reason": "Initial A/B test deployment"
+            }
+          ],
+          "metrics": {
+            "views": 0,
+            "likes": 0,
+            "comments": 0,
+            "retention": 0.0,
+            "ctr": 0.0
+          }
+        },
+        "created_at": "2026-10-20T22:59:26.441015+00:00"
+      },
       {
         "id": "ken_1792500844_2",
         "source_video": "welcome to hell",

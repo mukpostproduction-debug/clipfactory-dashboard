@@ -1,6 +1,6 @@
 {
-  "timestamp": 1792553598.666079,
-  "sync_time_iso": "2026-10-21T03:33:18Z",
+  "timestamp": 1792553662.361364,
+  "sync_time_iso": "2026-10-21T03:34:22Z",
   "default_channel": "ken_clips_burger",
   "channels": {
     "ken_clips_burger": {
@@ -94,17 +94,17 @@
       "agents": {
         "SCOUT": {
           "status": "working",
-          "current_task": "Queue up to date. Waiting for next daily Ken upload.",
+          "current_task": "Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
           "last_completed_task": "Ingested 5 recent Ken master videos into source pool",
           "recent_logs": [
-            "[23:20:34] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
             "[23:20:49] Queue up to date. Waiting for next daily Ken upload.",
             "[23:24:30] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
             "[23:24:42] Queue up to date. Waiting for next daily Ken upload.",
             "[23:27:43] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
             "[23:27:56] Queue up to date. Waiting for next daily Ken upload.",
             "[23:30:55] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
-            "[23:31:08] Queue up to date. Waiting for next daily Ken upload."
+            "[23:31:08] Queue up to date. Waiting for next daily Ken upload.",
+            "[23:34:15] Scanning @kenforrest YouTube feed for latest Clash Royale uploads..."
           ]
         },
         "STRATEGIST": {
@@ -5426,709 +5426,73 @@
         ]
       },
       "calendar": {
-        "scheduled": [],
-        "held": [],
-        "published": [
+        "scheduled": [
           {
-            "id": "abigail_1792177358_0",
-            "source_video": "Emergency Intercom - Episode 256 (Why Enya lost 100k followers)",
-            "creator": "Emergency Intercom",
-            "title": "Kim K\u2019s TikTok Live got hijacked by this...",
-            "publish_at": "2026-10-18T01:00:00Z",
-            "status": "PUBLISHED",
-            "uploaded": true,
-            "youtube_video_id": "s9VjCartwDI",
-            "youtube_url": "https://www.youtube.com/shorts/s9VjCartwDI",
-            "video_file": "abigail_1792177358_0_master.mp4",
-            "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/abigail_1792177358_0_master.mp4",
-            "duration": 32.0,
-            "hook_summary": "A deep dive into the surreal and hilarious moment when North West and Kim Kardashian's TikTok Live was hijacked by repetitive AI 'Charlie Kirk' song donations.",
-            "metadata": {
-              "title": "Kim K\u2019s TikTok Live got hijacked by this...",
-              "description": "The most surreal moment in internet history happened when North West went live and Kim had absolutely no idea what was happening. This is the peak of Gen Alpha chaos.\n\n- Why celebrities can't control AI spam bots\n- The funniest glitch in TikTok Live history\n- How North West is single-handedly breaking the internet\n\nFeaturing: Emergency Intercom\n\nIs North West doing this on purpose or is it just pure luck? \n\n#shorts #emergencyintercom #northwest #kimkardashian #tiktoklive #viral",
-              "tags": [
-                "emergency intercom",
-                "north west",
-                "kim kardashian",
-                "tiktok live",
-                "charlie kirk song",
-                "drew phillips",
-                "enya umanzor",
-                "viral tiktok",
-                "internet lore",
-                "gen alpha"
-              ],
-              "pinned_comment": "Did North West know exactly what she was doing with those AI donations? \ud83d\udc80",
-              "ab_variants": {
-                "A": {
-                  "angle": "Curiosity Gap",
-                  "title": "Kim K\u2019s TikTok Live got hijacked by this...",
-                  "description": "The most surreal moment in internet history happened when North West went live and Kim had absolutely no idea what was happening. This is the peak of Gen Alpha chaos.\n\n- Why celebrities can't control AI spam bots\n- The funniest glitch in TikTok Live history\n- How North West is single-handedly breaking the internet\n\nFeaturing: Emergency Intercom\n\nIs North West doing this on purpose or is it just pure luck? \n\n#shorts #emergencyintercom #northwest #kimkardashian #tiktoklive #viral"
-                },
-                "B": {
-                  "angle": "Contrarian Truth",
-                  "title": "Why Kim K\u2019s TikTok Live was a total nightmare",
-                  "description": "Everyone thought North West\u2019s livestream was cute until the repetitive AI donations started. Kim\u2019s reaction proves she is completely out of touch with current internet lore.\n\n- The breakdown of the 'Charlie Kirk' donation trend\n- Why TikTok\u2019s moderation failed in real-time\n- The absurdity of celebrity-child digital footprints\n\nFeaturing: Emergency Intercom\n\nShould Kim be letting North go live at all after this mess?\n\n#shorts #emergencyintercom #internetculture #kimk #northwest #memes"
-                },
-                "C": {
-                  "angle": "Actionable Protocol",
-                  "title": "The formula for North West\u2019s viral chaos",
-                  "description": "There is a specific reason why this livestream went viral, and it involves a bizarre AI feedback loop. Here is how internet trolls officially hijacked the Kardashian brand.\n\n- How AI spam disrupts high-tier influencer streams\n- The pattern of viral Gen Alpha humor\n- Why repetitive audio is the ultimate engagement hack\n\nFeaturing: Emergency Intercom\n\nWhich celebrity would have the funniest reaction to being hijacked by AI songs?\n\n#shorts #emergencyintercom #strategy #marketing #northwest #tiktok"
-                }
-              },
-              "active_variant": "A",
-              "test_status": "ACTIVE_TEST",
-              "variant_history": [
-                {
-                  "variant": "A",
-                  "title": "Kim K\u2019s TikTok Live got hijacked by this...",
-                  "deployed_at": 1792177480.791858,
-                  "reason": "Initial A/B test deployment"
-                }
-              ],
-              "metrics": {
-                "views": 0,
-                "likes": 0,
-                "comments": 0,
-                "retention": 0.0,
-                "ctr": 0.0
-              }
-            }
+            "id": "clipper_a_short_01",
+            "title": "Bro thought Pass Royale would save him \ud83d\udc80 #clashroyale #shorts",
+            "description": "Bro really thought Pass Royale would save his Sparky push \ud83d\udc80 When the pre-arrows read is pixel-perfect.\n\n#clashroyale #shorts #cr #gaming #clashroyalememes #supercell",
+            "tags": [
+              "Shorts",
+              "ClashRoyale",
+              "CR",
+              "ClashRoyaleMemes",
+              "Gaming",
+              "Supercell",
+              "ClashRoyaleClutch",
+              "PassRoyale",
+              "PreArrows",
+              "RyleyCR"
+            ],
+            "publish_at": "2026-10-21T13:00:00Z",
+            "slot_display": "09:00 AM EST (Wed, Oct 21)",
+            "file_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/clipper_a_short_01.mp4",
+            "duration_sec": 13.2,
+            "niche": "High-Energy Streamer Clutch & F2P Meme"
           },
           {
-            "id": "abigail_1792162863_2",
-            "source_video": "FINALS SEASON | Benito Skinner (2019)",
-            "creator": "Benito Skinner",
-            "title": "The moment Benito knew it was over...",
-            "publish_at": "2026-10-17T21:00:00Z",
-            "status": "PUBLISHED",
-            "uploaded": true,
-            "youtube_video_id": "Hzi-fr-Odjs",
-            "youtube_url": "https://www.youtube.com/shorts/Hzi-fr-Odjs",
-            "video_file": "abigail_1792162863_2_master.mp4",
-            "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/abigail_1792162863_2_master.mp4",
-            "duration": 32.0,
-            "hook_summary": "Essential discussion and core insight",
-            "metadata": {
-              "title": "The moment Benito knew it was over...",
-              "description": "Benito Skinner opens up about the exact moment he realized he had outgrown his current phase. This insight is a game-changer for anyone feeling stuck in their current routine.\n\n- How to recognize your own plateau\n- Why leaning into discomfort is a superpower\n- The mental shift required to finally \"graduate\"\n\nFeaturing: Benito Skinner\n\nIs it better to stay where you are comfortable or risk everything for the next level? \n\n#shorts #benitoskinner #mindset #growth #podcast",
-              "tags": [
-                "benito skinner",
-                "podcast clips",
-                "self improvement",
-                "mindset shift",
-                "comedy podcast",
-                "success tips",
-                "personal growth",
-                "benito skinner interview",
-                "motivation",
-                "career advice"
-              ],
-              "pinned_comment": "Is \"graduating\" from your current lifestyle a sign of growth or just running away from problems? \ud83c\udf93 Let's settle this below.",
-              "ab_variants": {
-                "A": {
-                  "angle": "Curiosity Gap",
-                  "title": "The moment Benito knew it was over...",
-                  "description": "Benito Skinner opens up about the exact moment he realized he had outgrown his current phase. This insight is a game-changer for anyone feeling stuck in their current routine.\n\n- How to recognize your own plateau\n- Why leaning into discomfort is a superpower\n- The mental shift required to finally \"graduate\"\n\nFeaturing: Benito Skinner\n\nIs it better to stay where you are comfortable or risk everything for the next level? \n\n#shorts #benitoskinner #mindset #growth #podcast"
-                },
-                "B": {
-                  "angle": "Contrarian Truth",
-                  "title": "Why you must \"graduate\" from your friends",
-                  "description": "Most people stay stuck because they are afraid to leave their comfort zone behind. Benito Skinner explains why the concept of \"graduating\" is the only way to truly evolve.\n\n- Why comfort is actually a trap\n- The truth about evolving past your surroundings\n- How to spot the signs of stagnation early\n\nFeaturing: Benito Skinner\n\nDo you think people actually change, or do they just get better at hiding their old habits? \n\n#shorts #success #productivity #benitoskinner #evolution"
-                },
-                "C": {
-                  "angle": "Actionable Protocol",
-                  "title": "Benito Skinner\u2019s framework for leveling up",
-                  "description": "Learn the specific framework Benito Skinner uses to audit his life and career for growth. It starts with one simple realization: you are ready to graduate.\n\n- The 3-step audit for personal progress\n- How to identify your next major milestone\n- The protocol for executing a clean transition\n\nFeaturing: Benito Skinner\n\nWhat is the one thing holding you back from your next big \"graduation\"? \n\n#shorts #growthmindset #advice #benitoskinner #motivation"
-                }
-              },
-              "active_variant": "A",
-              "test_status": "ACTIVE_TEST",
-              "variant_history": [
-                {
-                  "variant": "A",
-                  "title": "The moment Benito knew it was over...",
-                  "deployed_at": 1792163275.554791,
-                  "reason": "Initial A/B test deployment"
-                }
-              ],
-              "metrics": {
-                "views": 0,
-                "likes": 0,
-                "comments": 0,
-                "retention": 0.0,
-                "ctr": 0.0
-              }
-            }
+            "id": "clipper_a_short_02",
+            "title": "Toxic emote karma is actually instant \ud83d\ude2d #clashroyale #shorts",
+            "description": "Never celebrate early in Clash Royale \ud83d\ude2d Bro really thought laughing emotes would save his tower.\n\n#clashroyale #shorts #cr #gaming #toxic #karma #supercell",
+            "tags": [
+              "Shorts",
+              "ClashRoyale",
+              "CR",
+              "ClashRoyaleMemes",
+              "Gaming",
+              "Supercell",
+              "ToxicKarma",
+              "EmoteSpam",
+              "InstantKarma"
+            ],
+            "publish_at": "2026-10-21T19:00:00Z",
+            "slot_display": "03:00 PM EST (Wed, Oct 21)",
+            "file_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/clipper_a_short_02.mp4",
+            "duration_sec": 13.5,
+            "niche": "Toxic Karma & Midladder Memes"
           },
           {
-            "id": "abigail_1792162863_1",
-            "source_video": "A KARDASHIAN KRISMAS Pt. 2 | Benito Skinner (2019)",
-            "creator": "Benito Skinner",
-            "title": "Benito Skinner\u2019s Season 20 Secret Revealed \ud83e\udd2b",
-            "publish_at": "2026-10-17T16:30:00Z",
-            "status": "PUBLISHED",
-            "uploaded": true,
-            "youtube_video_id": "KGeMWgJMi8U",
-            "youtube_url": "https://www.youtube.com/shorts/KGeMWgJMi8U",
-            "video_file": "abigail_1792162863_1_master.mp4",
-            "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/abigail_1792162863_1_master.mp4",
-            "duration": 30.2,
-            "hook_summary": "Essential discussion and core insight",
-            "metadata": {
-              "title": "Benito Skinner\u2019s Season 20 Secret Revealed \ud83e\udd2b",
-              "description": "Benito Skinner finally reveals the truth about what happened behind the scenes at Noble. This is the moment that changed everything for Season 20.\n\n\u2022 The reality of filming at Noble\n\u2022 Why Season 20 felt different\n\u2022 The truth about the production process\n\nFeaturing: Benito Skinner\n\nDo you think reality TV scenes are mostly scripted or 100% authentic? \n\n#shorts #benitoskinner #kardashians #entertainment #popculture",
-              "tags": [
-                "Benito Skinner",
-                "Benny Drama",
-                "Season 20",
-                "Noble",
-                "The Kardashians",
-                "Reality TV Secrets",
-                "Podcast Highlights",
-                "Pop Culture Analysis",
-                "Entertainment Industry",
-                "Celebrity Interview"
-              ],
-              "pinned_comment": "Was Benito the best part of the season, or do you prefer the original cast? Drop a 'BENNY' or 'CAST' below! \ud83d\udc47",
-              "ab_variants": {
-                "A": {
-                  "angle": "Curiosity Gap",
-                  "title": "Benito Skinner\u2019s Season 20 Secret Revealed \ud83e\udd2b",
-                  "description": "Benito Skinner finally reveals the truth about what happened behind the scenes at Noble. This is the moment that changed everything for Season 20.\n\n\u2022 The reality of filming at Noble\n\u2022 Why Season 20 felt different\n\u2022 The truth about the production process\n\nFeaturing: Benito Skinner\n\nDo you think reality TV scenes are mostly scripted or 100% authentic? \n\n#shorts #benitoskinner #kardashians #entertainment #popculture"
-                },
-                "B": {
-                  "angle": "Contrarian Truth",
-                  "title": "Why Reality TV Filming is a Lie \ud83c\udfa5",
-                  "description": "Most people think reality TV is effortless, but Benito Skinner exposes the calculated chaos of the Season 20 set at Noble. It\u2019s not what you see on screen.\n\n\u2022 The pressure of the Season 20 spotlight\n\u2022 Why the Noble scene was a turning point\n\u2022 The difference between persona and reality\n\nFeaturing: Benito Skinner\n\nWould you ever let a camera crew follow you 24/7 for a million dollars? \n\n#shorts #benitoskinner #mindset #celebrity #realitytv #fame"
-                },
-                "C": {
-                  "angle": "Actionable Protocol",
-                  "title": "The Rule for Breaking Into Reality TV \ud83c\udf1f",
-                  "description": "Benito Skinner shares the essential framework for staying authentic while filming major productions like Season 20. Learn how to handle the high-stakes environment at Noble.\n\n\u2022 How to maintain your brand on a major set\n\u2022 The secret to a successful cameo performance\n\u2022 Navigating the Noble production protocol\n\nFeaturing: Benito Skinner\n\nIf you could guest star on any show in history, which one would you pick? \n\n#shorts #benitoskinner #career #success #media #hollywood"
-                }
-              },
-              "active_variant": "A",
-              "test_status": "ACTIVE_TEST",
-              "variant_history": [
-                {
-                  "variant": "A",
-                  "title": "Benito Skinner\u2019s Season 20 Secret Revealed \ud83e\udd2b",
-                  "deployed_at": 1792163092.897343,
-                  "reason": "Initial A/B test deployment"
-                }
-              ],
-              "metrics": {
-                "views": 0,
-                "likes": 0,
-                "comments": 0,
-                "retention": 0.0,
-                "ctr": 0.0
-              }
-            }
-          },
-          {
-            "id": "abigail_1792162863_0",
-            "source_video": "KIM KARDASHIAN AS FIRST LADY | Benito Skinner (2020)",
-            "creator": "Benito Skinner",
-            "title": "Benito Skinner\u2019s Secret to Instant Peace \ud83d\uded1",
-            "publish_at": "2026-10-17T01:00:00Z",
-            "status": "PUBLISHED",
-            "uploaded": true,
-            "youtube_video_id": "qQHrbZLPEOI",
-            "youtube_url": "https://www.youtube.com/shorts/qQHrbZLPEOI",
-            "video_file": "abigail_1792162863_0_master.mp4",
-            "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/abigail_1792162863_0_master.mp4",
-            "duration": 30.11,
-            "hook_summary": "Essential discussion and core insight",
-            "metadata": {
-              "title": "Benito Skinner\u2019s Secret to Instant Peace \ud83d\uded1",
-              "description": "Benito reveals the one boundary that changed everything for his mental health. Sometimes the most powerful career move is knowing when to walk away.\n\n\u2022 Spotting toxic energy before it drains you\n\u2022 The power of the 'Amazing Sweetie' exit\n\u2022 Why your peace is your greatest asset\n\nFeaturing: Benito Skinner\n\nDo you find it hard to cut out negative energy even when you know it's bad for you?\n\n#shorts #benitoskinner #mentalhealth #boundaries #podcast #mindset",
-              "tags": [
-                "benito skinner",
-                "benny drama",
-                "podcast clips",
-                "mental health tips",
-                "setting boundaries",
-                "protecting your peace",
-                "success mindset",
-                "celebrity advice",
-                "how to deal with toxic people",
-                "social health"
-              ],
-              "pinned_comment": "Be honest: Have you ever cut someone off just because their 'vibe' was off? Or is that being too dramatic? \ud83d\udc47",
-              "ab_variants": {
-                "A": {
-                  "angle": "Curiosity Gap",
-                  "title": "Benito Skinner\u2019s Secret to Instant Peace \ud83d\uded1",
-                  "description": "Benito reveals the one boundary that changed everything for his mental health. Sometimes the most powerful career move is knowing when to walk away.\n\n\u2022 Spotting toxic energy before it drains you\n\u2022 The power of the 'Amazing Sweetie' exit\n\u2022 Why your peace is your greatest asset\n\nFeaturing: Benito Skinner\n\nDo you find it hard to cut out negative energy even when you know it's bad for you?\n\n#shorts #benitoskinner #mentalhealth #boundaries #podcast #mindset"
-                },
-                "B": {
-                  "angle": "Contrarian Truth",
-                  "title": "Why Being 'Nice' Is Ruining Your Life \ud83d\ude45\u200d\u2642\ufe0f",
-                  "description": "Benito Skinner explains why being polite to bad energy is actually a trap. It's time to stop tolerating negativity in the name of being professional.\n\n\u2022 Why 'nice' is a productivity killer\n\u2022 Protecting your creative frequency\n\u2022 The truth about social obligations\n\nFeaturing: Benito Skinner\n\nIs 'bad energy' a valid enough reason to end a friendship or work project? Let\u2019s debate.\n\n#shorts #benitoskinner #growth #toxicpeople #mindset #selfcare"
-                },
-                "C": {
-                  "angle": "Actionable Protocol",
-                  "title": "Benito\u2019s 1-Step Rule for Toxic People \ud83d\udee1\ufe0f",
-                  "description": "Learn the exact mental framework Benito Skinner uses to filter every interaction. If it\u2019s not adding value, here is how to shut it down instantly.\n\n\u2022 Identify the energy leak immediately\n\u2022 The 'Amazing Sweetie' redirection method\n\u2022 How to reset your mental state post-conflict\n\nFeaturing: Benito Skinner\n\nWhat is your number one rule for staying positive in a stressful environment?\n\n#shorts #benitoskinner #selfcare #productivity #vibe #success"
-                }
-              },
-              "active_variant": "A",
-              "test_status": "ACTIVE_TEST",
-              "variant_history": [
-                {
-                  "variant": "A",
-                  "title": "Benito Skinner\u2019s Secret to Instant Peace \ud83d\uded1",
-                  "deployed_at": 1792162910.467066,
-                  "reason": "Initial A/B test deployment"
-                }
-              ],
-              "metrics": {
-                "views": 0,
-                "likes": 0,
-                "comments": 0,
-                "retention": 0.0,
-                "ctr": 0.0
-              }
-            }
-          },
-          {
-            "id": "abigail_1792028101_4",
-            "source_video": "Emergency Intercom - Episode 254 (The gay test)",
-            "creator": "Emergency Intercom",
-            "title": "What happens when Neuralink adds ads?",
-            "publish_at": "2026-10-16T21:00:00Z",
-            "status": "PUBLISHED",
-            "uploaded": true,
-            "youtube_video_id": "unttZbP-8zU",
-            "youtube_url": "https://www.youtube.com/shorts/unttZbP-8zU",
-            "video_file": "abigail_1792028101_4_master.mp4",
-            "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/abigail_1792028101_4_master.mp4",
-            "duration": 36.94,
-            "hook_summary": "The duo brainstorms a dystopian nightmare scenario where Neuralink brain implants require subscription-based plans, leading to the fear of being forced to watch ads inside your own mind.",
-            "metadata": {
-              "title": "What happens when Neuralink adds ads?",
-              "description": "The terrifying reality of a future where your own thoughts might be interrupted by subscription-based advertisements. We break down the dark side of brain-computer interfaces.\n\nKey takeaways:\n\u2022 Why brain implants could become a subscription model.\n\u2022 The risk of losing cognitive privacy to corporations.\n\u2022 Predicting the dystopian future of Neuralink.\n\nFeaturing: Emergency Intercom\n\nWould you accept free brain implants if it meant seeing ads in your dreams?\n\n#neuralink #tech #dystopia #future #emergencyintercom #scifi",
-              "tags": [
-                "Neuralink",
-                "Elon Musk",
-                "Brain Computer Interface",
-                "Future Tech",
-                "Dystopian Reality",
-                "Emergency Intercom",
-                "Technology Ethics",
-                "Mind Control",
-                "Tech News",
-                "Artificial Intelligence"
-              ],
-              "pinned_comment": "If you had to choose: A fully functioning brain implant for free, but you see one 30-second ad every time you wake up. Are you taking the deal?",
-              "ab_variants": {
-                "A": {
-                  "angle": "Curiosity Gap",
-                  "title": "What happens when Neuralink adds ads?",
-                  "description": "The terrifying reality of a future where your own thoughts might be interrupted by subscription-based advertisements. We break down the dark side of brain-computer interfaces.\n\nKey takeaways:\n\u2022 Why brain implants could become a subscription model.\n\u2022 The risk of losing cognitive privacy to corporations.\n\u2022 Predicting the dystopian future of Neuralink.\n\nFeaturing: Emergency Intercom\n\nWould you accept free brain implants if it meant seeing ads in your dreams?\n\n#neuralink #tech #dystopia #future #emergencyintercom #scifi"
-                },
-                "B": {
-                  "angle": "Contrarian Truth",
-                  "title": "Neuralink is a subscription nightmare",
-                  "description": "Think Neuralink is all about helping humanity? Think again. The path to permanent brain connectivity might actually be the end of mental freedom.\n\nKey takeaways:\n\u2022 The hidden cost of 'free' hardware.\n\u2022 How ad-supported brain interfaces change your perception.\n\u2022 Why the future of tech might be a dystopian nightmare.\n\nFeaturing: Emergency Intercom\n\nAt what point does corporate access to our brains become a human rights violation?\n\n#neuralink #elonmusk #privacy #techtrends #emergencyintercom #shorts"
-                },
-                "C": {
-                  "angle": "Actionable Protocol",
-                  "title": "Don't let them hack your brain",
-                  "description": "As tech giants race toward brain implants, here is how you should think about the trade-off between convenience and your mental autonomy.\n\nKey takeaways:\n\u2022 Identifying the dangers of proprietary neural tech.\n\u2022 Understanding the evolution of ad-supported mental hardware.\n\u2022 Establishing boundaries for future medical technology.\n\nFeaturing: Emergency Intercom\n\nIs there any benefit to brain implants that would make you ignore the risks of ads being injected into your mind?\n\n#brainchip #technology #neuralink #ethics #emergencyintercom #mindset"
-                }
-              },
-              "active_variant": "A",
-              "test_status": "ACTIVE_TEST",
-              "variant_history": [
-                {
-                  "variant": "A",
-                  "title": "What happens when Neuralink adds ads?",
-                  "deployed_at": 1792028883.602635,
-                  "reason": "Initial A/B test deployment"
-                }
-              ],
-              "metrics": {
-                "views": 0,
-                "likes": 0,
-                "comments": 0,
-                "retention": 0.0,
-                "ctr": 0.0
-              }
-            }
-          },
-          {
-            "id": "abigail_1792028101_3",
-            "source_video": "Emergency Intercom - Episode 255 (You are deserving)",
-            "creator": "Emergency Intercom",
-            "title": "The Real Secret Behind Parenting and Personal #Shorts",
-            "publish_at": "2026-10-16T16:30:00Z",
-            "status": "PUBLISHED",
-            "uploaded": true,
-            "youtube_video_id": "jYimGboqzfs",
-            "youtube_url": "https://www.youtube.com/shorts/jYimGboqzfs",
-            "video_file": "abigail_1792028101_3_master.mp4",
-            "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/abigail_1792028101_3_master.mp4",
-            "duration": 29.55,
-            "hook_summary": "The speaker contrasts their friend's upcoming transition into motherhood with their own hilariously immature sense of self.",
-            "metadata": {
-              "title": "The Real Secret Behind Parenting and Personal #Shorts",
-              "description": "The speaker contrasts their friend's upcoming transition into motherhood with their own hilariously immature sense of self.\n\nKey Takeaways:\n\u2022 Understand the core habit\n\u2022 Avoid the daily trap\n\u2022 Optimize for long-term clarity\n\nFeaturing Emergency Intercom.\n\nWhat's your perspective on this? Comment below! \ud83d\udc47\n\n#Shorts #Podcast #Mindset",
-              "tags": [
-                "Shorts",
-                "Emergency Intercom",
-                "Podcast Clips",
-                "Viral",
-                "Mindset",
-                "Productivity",
-                "Motivation"
-              ],
-              "pinned_comment": "What's your biggest takeaway from this? Drop your thoughts below! \ud83d\udc47",
-              "ab_variants": {
-                "A": {
-                  "angle": "Curiosity Gap",
-                  "title": "The Real Secret Behind Parenting and Personal #Shorts",
-                  "description": "The speaker contrasts their friend's upcoming transition into motherhood with their own hilariously immature sense of self.\n\nKey Takeaways:\n\u2022 Understand the core habit\n\u2022 Avoid the daily trap\n\u2022 Optimize for long-term clarity\n\nFeaturing Emergency Intercom.\n\nWhat's your perspective on this? Comment below! \ud83d\udc47\n\n#Shorts #Podcast #Mindset"
-                },
-                "B": {
-                  "angle": "Contrarian Truth",
-                  "title": "Emergency Intercom: Stop Making This Mistake #Shorts",
-                  "description": "The speaker contrasts their friend's upcoming transition into motherhood with their own hilariously immature sense of self.\n\nKey Takeaways:\n\u2022 Why the common approach fails\n\u2022 The shift high performers make\n\u2022 Practical daily application\n\nFeaturing Emergency Intercom.\n\nDo you agree with this? Let us know below! \ud83d\udc47\n\n#Shorts #Discipline #Growth"
-                },
-                "C": {
-                  "angle": "Actionable Protocol",
-                  "title": "How Emergency Intercom Masters Daily Execution #Shorts",
-                  "description": "The speaker contrasts their friend's upcoming transition into motherhood with their own hilariously immature sense of self.\n\nKey Takeaways:\n\u2022 Step 1: Lock in your standard\n\u2022 Step 2: Eliminate distractions\n\u2022 Step 3: Execute without emotion\n\nFeaturing Emergency Intercom.\n\nWill you implement this today? Tell us below! \ud83d\udc47\n\n#Shorts #Performance #DailyHabits"
-                }
-              },
-              "active_variant": "A",
-              "test_status": "ACTIVE_TEST",
-              "variant_history": [
-                {
-                  "variant": "A",
-                  "title": "The Real Secret Behind Parenting and Personal #Shorts",
-                  "deployed_at": 1792028641.3235688,
-                  "reason": "Initial A/B test deployment"
-                }
-              ],
-              "metrics": {
-                "views": 0,
-                "likes": 0,
-                "comments": 0,
-                "retention": 0.0,
-                "ctr": 0.0
-              }
-            }
-          },
-          {
-            "id": "abigail_1791961436_0",
-            "source_video": "Cow Print + Potatoes",
-            "creator": "Benito Skinner",
-            "title": "Sydney Sweeney\u2019s Bizarre AI Ad Explained",
-            "publish_at": "2026-10-16T01:00:00Z",
-            "status": "PUBLISHED",
-            "uploaded": true,
-            "youtube_video_id": "bFHhY8_nNxc",
-            "youtube_url": "https://www.youtube.com/shorts/bFHhY8_nNxc",
-            "video_file": "abigail_1791961436_0_master.mp4",
-            "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/abigail_1791961436_0_master.mp4",
-            "duration": 16.42,
-            "hook_summary": "The hosts discuss a bizarre AI-generated gambling ad featuring Sydney Sweeney that looks physically impossible.",
-            "metadata": {
-              "title": "Sydney Sweeney\u2019s Bizarre AI Ad Explained",
-              "description": "Have you seen the viral gambling ad featuring Sydney Sweeney that just doesn't look right? We\u2019re breaking down the uncanny valley nightmare that has everyone talking.\n\n* How AI technology is being misused to impersonate celebrities.\n* Why your eyes might be deceiving you when watching sponsored content.\n* The growing danger of deepfake marketing in the gambling industry.\n\nFeaturing: Benito Skinner\n\nDo you think AI ads should be legally required to carry a massive watermark, or is it already too late to stop them?\n\n#sydneysweeney #deepfake #ai #artificialintelligence #shorts #benitoskinner",
-              "tags": [
-                "Sydney Sweeney",
-                "AI generated",
-                "Deepfake",
-                "Benito Skinner",
-                "AI gambling ad",
-                "Artificial Intelligence",
-                "Fake Ads",
-                "Tech Trends",
-                "Internet Scams",
-                "Sydney Sweeney AI"
-              ],
-              "pinned_comment": "On a scale of 1-10, how creepy was that ad? \ud83d\udea9",
-              "ab_variants": {
-                "A": {
-                  "angle": "Curiosity Gap",
-                  "title": "Sydney Sweeney\u2019s Bizarre AI Ad Explained",
-                  "description": "Have you seen the viral gambling ad featuring Sydney Sweeney that just doesn't look right? We\u2019re breaking down the uncanny valley nightmare that has everyone talking.\n\n* How AI technology is being misused to impersonate celebrities.\n* Why your eyes might be deceiving you when watching sponsored content.\n* The growing danger of deepfake marketing in the gambling industry.\n\nFeaturing: Benito Skinner\n\nDo you think AI ads should be legally required to carry a massive watermark, or is it already too late to stop them?\n\n#sydneysweeney #deepfake #ai #artificialintelligence #shorts #benitoskinner"
-                },
-                "B": {
-                  "angle": "Contrarian Truth",
-                  "title": "Stop Trusting Ads With Your Favorite Stars",
-                  "description": "The Sydney Sweeney gambling ad isn't just a glitch\u2014it's a warning shot for everything you see on your feed. We\u2019re exposing why your favorite celebrity might be a total lie.\n\n* Why AI-generated celebrity endorsements are becoming impossible to spot.\n* The psychological tricks behind these bizarre deepfake campaigns.\n* What you need to look for before clicking any ad on social media.\n\nFeaturing: Benito Skinner\n\nIf we can't tell the difference between real and AI, should we ban celebrity digital likenesses entirely?\n\n#aiads #deepfakes #sydneysweeney #viral #tech #benitoskinner"
-                },
-                "C": {
-                  "angle": "Actionable Protocol",
-                  "title": "How to Spot Fake Sydney Sweeney AI Ads",
-                  "description": "The internet is flooded with fake celebrity gambling ads, and they're getting smarter. Learn the exact red flags to look for so you don't fall for these deceptive AI tactics.\n\n* Identify the common visual 'glitches' in AI-generated faces.\n* How to verify if a celebrity brand partnership is legitimate.\n* Protecting your data from predatory gambling schemes.\n\nFeaturing: Benito Skinner\n\nWhat is the biggest red flag you look for when you see an ad that seems too good to be true?\n\n#scamalert #ai #sydneysweeney #cybersecurity #techtips #benitoskinner"
-                }
-              },
-              "active_variant": "A",
-              "test_status": "ACTIVE_TEST",
-              "variant_history": [
-                {
-                  "variant": "A",
-                  "title": "Sydney Sweeney\u2019s Bizarre AI Ad Explained",
-                  "deployed_at": 1792026507.2211242,
-                  "reason": "Initial A/B test deployment"
-                }
-              ],
-              "metrics": {
-                "views": 0,
-                "likes": 0,
-                "comments": 0,
-                "retention": 0.0,
-                "ctr": 0.0
-              }
-            }
-          },
-          {
-            "id": "abigail_1791955834_5",
-            "source_video": "Blind Boxes + Popstar Academy",
-            "creator": "Benito Skinner",
-            "title": "The One Thing Men Never Actually Notice...",
-            "publish_at": "2026-10-15T21:00:00Z",
-            "status": "PUBLISHED",
-            "uploaded": true,
-            "youtube_video_id": "jGQup1lcx6Q",
-            "youtube_url": "https://www.youtube.com/shorts/jGQup1lcx6Q",
-            "video_file": "abigail_1791955834_5_master.mp4",
-            "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/abigail_1791955834_5_master.mp4",
-            "duration": 20.25,
-            "hook_summary": "The speakers reveal that the pressure to wear lingerie for men is one of the biggest lies told to women, as men don't actually care.",
-            "metadata": {
-              "title": "The One Thing Men Never Actually Notice...",
-              "description": "Benito Skinner reveals the expensive industry secret that women have been misled about for decades.\n\n\u2022 Why your 'effort' might be going completely unseen\n\u2022 The psychological gap between marketing and reality\n\u2022 How to stop overthinking your wardrobe choices\n\nFeaturing: Benito Skinner\n\nLadies, have you ever spent a fortune on a look only for it to be ignored? \n\n#shorts #benitoskinner #datingadvice #relationships #psychology",
-              "tags": [
-                "benito skinner",
-                "dating advice",
-                "relationship myths",
-                "lingerie lie",
-                "male psychology",
-                "comedy shorts",
-                "dating truth",
-                "viral clips",
-                "fashion myths",
-                "attraction secrets"
-              ],
-              "pinned_comment": "Be honest: Have you ever worn something fancy only for him to not even notice it? \ud83d\ude02\ud83d\udc47",
-              "ab_variants": {
-                "A": {
-                  "angle": "Curiosity Gap",
-                  "title": "The One Thing Men Never Actually Notice...",
-                  "description": "Benito Skinner reveals the expensive industry secret that women have been misled about for decades.\n\n\u2022 Why your 'effort' might be going completely unseen\n\u2022 The psychological gap between marketing and reality\n\u2022 How to stop overthinking your wardrobe choices\n\nFeaturing: Benito Skinner\n\nLadies, have you ever spent a fortune on a look only for it to be ignored? \n\n#shorts #benitoskinner #datingadvice #relationships #psychology"
-                },
-                "B": {
-                  "angle": "Contrarian Truth",
-                  "title": "Lingerie is a Marketing Scam \ud83d\udea9",
-                  "description": "Stop wasting your money on lace. Benito Skinner breaks down why the lingerie industry is built on a lie that men don't actually care about.\n\n\u2022 The truth about what men are actually looking for\n\u2022 Why the $100+ matching set is a waste of time\n\u2022 Deconstructing the biggest myth in female fashion\n\nFeaturing: Benito Skinner\n\nIs lingerie for the woman's confidence or for the partner's benefit? Let\u2019s settle this in the comments.\n\n#shorts #benitoskinner #datingtruths #scams #marketing"
-                },
-                "C": {
-                  "angle": "Actionable Protocol",
-                  "title": "The Truth About Male Psychology",
-                  "description": "Benito Skinner delivers a reality check on dating protocols and the unnecessary pressure women feel to perform.\n\n\u2022 The 'Lingerie Lie' exposed in 60 seconds\n\u2022 How to shift your focus to what actually matters in attraction\n\u2022 A simple rule for saving money and stress on dates\n\nFeaturing: Benito Skinner\n\nWhat is the most overrated thing people do to impress their partners? \n\n#shorts #benitoskinner #datingtips #confidence #mindset"
-                }
-              },
-              "active_variant": "A",
-              "test_status": "ACTIVE_TEST",
-              "variant_history": [
-                {
-                  "variant": "A",
-                  "title": "The One Thing Men Never Actually Notice...",
-                  "deployed_at": 1792015741.800093,
-                  "reason": "Initial A/B test deployment"
-                }
-              ],
-              "metrics": {
-                "views": 0,
-                "likes": 0,
-                "comments": 0,
-                "retention": 0.0,
-                "ctr": 0.0
-              }
-            }
-          },
-          {
-            "id": "trish_jeffree_star",
-            "source_video": "Jeffree Star Goes OFF on Kori King + Emma Chamberlain\u2019s AWKWARD Reunion",
-            "creator": "Trisha Paytas",
-            "title": "The Moment Trisha Paytas Lost It All...",
-            "publish_at": "2026-10-15T16:30:00Z",
-            "status": "PUBLISHED",
-            "uploaded": true,
-            "youtube_video_id": "1oX5lAgrJbs",
-            "youtube_url": "https://www.youtube.com/shorts/1oX5lAgrJbs",
-            "video_file": "trish_jeffree_star_master.mp4",
-            "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/trish_jeffree_star_master.mp4",
-            "duration": 58.0,
-            "hook_summary": "Essential discussion and core insight",
-            "metadata": {
-              "title": "The Moment Trisha Paytas Lost It All...",
-              "description": "Trisha reveals the raw truth behind her most emotional performance and what it actually cost her to stay on top. \n\n- The price of public vulnerability\n- Why effort doesn't always equal success\n- Navigating high-pressure environments\n\nFeaturing: Trisha Paytas\n\nIs it possible to give 'everything' without losing yourself in the process? Let us know below.\n\n#shorts #trishapaytas #podcast #vulnerability #australia",
-              "tags": [
-                "trisha paytas",
-                "podcast",
-                "motivation",
-                "mindset",
-                "australia",
-                "viral shorts",
-                "celebrity news",
-                "performance tips",
-                "success strategy",
-                "mental health"
-              ],
-              "pinned_comment": "Is Trisha right for giving her 'all', or is she setting herself up for a crash? Let\u2019s talk about it below. \ud83d\udc47",
-              "ab_variants": {
-                "A": {
-                  "angle": "Curiosity Gap",
-                  "title": "The Moment Trisha Paytas Lost It All...",
-                  "description": "Trisha reveals the raw truth behind her most emotional performance and what it actually cost her to stay on top. \n\n- The price of public vulnerability\n- Why effort doesn't always equal success\n- Navigating high-pressure environments\n\nFeaturing: Trisha Paytas\n\nIs it possible to give 'everything' without losing yourself in the process? Let us know below.\n\n#shorts #trishapaytas #podcast #vulnerability #australia"
-                },
-                "B": {
-                  "angle": "Contrarian Truth",
-                  "title": "Why Hard Work is Never Enough \ud83d\udcc9",
-                  "description": "We\u2019re told to work until we drop, but Trisha\u2019s latest perspective shows why that\u2019s a recipe for disaster in the creator world.\n\n- The myth of infinite energy\n- Why 'all-in' can lead to a total burnout\n- Setting boundaries with your core audience\n\nFeaturing: Trisha Paytas\n\nIs 'giving your all' a toxic mindset or the only way to actually win today?\n\n#shorts #mindset #trishapaytas #burnout #success"
-                },
-                "C": {
-                  "angle": "Actionable Protocol",
-                  "title": "Trisha's 100% Rule for Success",
-                  "description": "Unlock the high-intensity performance protocol Trisha uses to captivate audiences even when she\u2019s at her breaking point.\n\n- The 'All-In' commitment framework\n- How to manifest peak energy on demand\n- Maintaining consistency under extreme pressure\n\nFeaturing: Trisha Paytas\n\nDoes success require you to sacrifice your personal well-being or is there a middle ground?\n\n#shorts #productivity #success #trishapaytas #discipline"
-                }
-              },
-              "active_variant": "A",
-              "test_status": "ACTIVE_TEST",
-              "variant_history": [
-                {
-                  "variant": "A",
-                  "title": "The Moment Trisha Paytas Lost It All...",
-                  "deployed_at": 1791995562.541785,
-                  "reason": "Initial A/B test deployment"
-                }
-              ],
-              "metrics": {
-                "views": 0,
-                "likes": 0,
-                "comments": 0,
-                "retention": 0.0,
-                "ctr": 0.0
-              }
-            }
-          },
-          {
-            "id": "abigail_clip_03_benito",
-            "source_video": "Ride The Pod - Boba Tea + Wearable Art",
-            "creator": "Benito Skinner",
-            "title": "Benny Drama's Accurate Impersonation of That One Person",
-            "publish_at": "2026-10-15T01:00:00Z",
-            "status": "PUBLISHED",
-            "metadata": {
-              "creator": "Benito Skinner",
-              "topic": "Benny Drama Satire & Culture",
-              "active_variant": "A",
-              "ab_variants": {
-                "A": {
-                  "title": "Benny Drama's Accurate Impersonation of That One Person",
-                  "hook_angle": "Satire / Voice Mimicry",
-                  "description": "Nobody captures the absolute absurdity of pop culture better than Benito Skinner.\n\nFeaturing: @bennydrama7 & @ridethepod\n\nWho should Benito impersonate next? Let us know below \ud83d\udc47\n\n#Shorts #BenitoSkinner #BennyDrama #RideThePod #Satire #Comedy"
-                },
-                "B": {
-                  "title": "The Exact Moment Mary Beth Couldn't Stop Laughing",
-                  "hook_angle": "Contagious Laughter / Banter",
-                  "description": "Benito was in top form today on Ride The Pod...\n\nFeaturing: @ridethepod\n\nRate this impersonation from 1 to 10 in the comments \ud83d\udc47\n\n#Shorts #RideThePod #BennyDrama #ComedyPodcast #LOL"
-                },
-                "C": {
-                  "title": "Why Benito Skinner is Hollywood's Funniest Creator Right Now",
-                  "hook_angle": "Appreciation / Hype",
-                  "description": "The talent and comedic timing here is genuinely unmatched.\n\nFeaturing: @bennydrama7\n\nHave you watched Ride The Pod yet? Drop your thoughts \ud83d\udc47\n\n#Shorts #BenitoSkinner #ComedyShorts #StandUpComedy"
-                }
-              }
-            },
-            "youtube_video_id": "46cyGL26hXw",
-            "youtube_url": "https://www.youtube.com/shorts/46cyGL26hXw",
-            "uploaded": true,
-            "video_file": "abigail_clip_03_benito_master.mp4",
-            "duration": 12.2,
-            "rendered": true
-          },
-          {
-            "id": "abigail_clip_02_emergency",
-            "source_video": "Emergency Intercom - Episode 255",
-            "creator": "Emergency Intercom",
-            "title": "DREW AND ENYA HAVE OFFICIALLY LOST THEIR MINDS...",
-            "publish_at": "2026-10-14T21:00:00Z",
-            "status": "PUBLISHED",
-            "metadata": {
-              "creator": "Emergency Intercom",
-              "topic": "Unhinged Roommate Banter",
-              "active_variant": "A",
-              "ab_variants": {
-                "A": {
-                  "title": "DREW AND ENYA HAVE OFFICIALLY LOST THEIR MINDS...",
-                  "hook_angle": "Chaos / Absurdist Banter",
-                  "description": "There is no context on Earth that makes this conversation normal...\n\nFeaturing: @emergencyintercom\n\nAre Drew and Enya the funniest duo on YouTube right now? Comment below \ud83d\udc47\n\n#Shorts #EmergencyIntercom #DrewPhillips #EnyaUmanzor #Comedy #Podcast"
-                },
-                "B": {
-                  "title": "When Your Best Friend Says Something So Out of Pocket",
-                  "hook_angle": "Out of Pocket / Shock Laugh",
-                  "description": "Enya couldn't even keep a straight face after Drew dropped this...\n\nFeaturing: @emergencyintercom\n\nDrop an emoji for how unhinged this is \ud83d\udc47\n\n#Shorts #EmergencyIntercom #Chaos #ViralHumor"
-                },
-                "C": {
-                  "title": "How Every 2 AM Conversation With Your Best Friend Goes",
-                  "hook_angle": "Relatable Friendship / Late Night",
-                  "description": "If you don't talk to your best friend like this, are you even friends?\n\nFeaturing: @emergencyintercom\n\nSend this to your best friend without saying anything \ud83d\udc47\n\n#Shorts #EmergencyIntercom #BFFs #ComedyShorts"
-                }
-              }
-            },
-            "youtube_video_id": "7CDto-1BXXg",
-            "youtube_url": "https://www.youtube.com/shorts/7CDto-1BXXg",
-            "uploaded": true,
-            "video_file": "abigail_clip_02_emergency_master.mp4",
-            "duration": 27.4,
-            "rendered": true
-          },
-          {
-            "id": "abigail_clip_01_trisha",
-            "source_video": "Brittany Broski CLOCKS Her Manipulative Ex",
-            "creator": "Trisha Paytas",
-            "title": "TRISHA'S JAW DROPPED WHEN BRITTANY SAID THIS...",
-            "publish_at": "2026-10-14T16:30:00Z",
-            "status": "PUBLISHED",
-            "metadata": {
-              "creator": "Trisha Paytas",
-              "topic": "Brittany Broski Ex Drama & Toxic Dating",
-              "active_variant": "A",
-              "ab_variants": {
-                "A": {
-                  "title": "TRISHA'S JAW DROPPED WHEN BRITTANY SAID THIS...",
-                  "hook_angle": "Shock & Celebrity Tea",
-                  "description": "The exact second Brittany Broski dropped the truth on Just Trish...\n\nFeaturing: @JustTrishPodcast & @BrittanyBroski\n\nDid she go too far or was she completely valid? Tell us in the comments \ud83d\udc47\n\n#Shorts #JustTrish #TrishaPaytas #BrittanyBroski #PopCulture #Drama"
-                },
-                "B": {
-                  "title": "Brittany Broski Exposed Her Worst Ex on Live Camera",
-                  "hook_angle": "Expose / Storytime",
-                  "description": "Never trust someone who acts like this on a first date...\n\nFeaturing: @JustTrishPodcast\n\nWhat is your biggest red flag in dating? Let us know below \ud83d\udc47\n\n#Shorts #TrishaPaytas #PodcastClips #Storytime #PopCulture"
-                },
-                "C": {
-                  "title": "The Most Relatable 30 Seconds on the Internet Today",
-                  "hook_angle": "Relatable Humor / Viral Quote",
-                  "description": "Trisha's reaction at the end is all of us.\n\nFeaturing: @JustTrishPodcast\n\nTag a friend who needs to hear this right now \ud83d\udc47\n\n#Shorts #JustTrish #Comedy #Relatable #BestOfTrish"
-                }
-              }
-            },
-            "youtube_video_id": "2eV-Xlbk5fU",
-            "youtube_url": "https://www.youtube.com/shorts/2eV-Xlbk5fU",
-            "uploaded": true,
-            "video_file": "abigail_clip_01_trisha_master.mp4",
-            "duration": 27.9,
-            "rendered": true
+            "id": "clipper_a_short_03",
+            "title": "Bro thought he already won \ud83d\udc80 #clashroyale #shorts",
+            "description": "The greatest 1-second miracle turnaround in Clash Royale history \ud83d\udc80 Bro's the luckiest man alive.\n\n#clashroyale #shorts #cr #gaming #clashroyalememes #supercell #clutch",
+            "tags": [
+              "Shorts",
+              "ClashRoyale",
+              "CR",
+              "ClashRoyaleMemes",
+              "Gaming",
+              "Supercell",
+              "ClashRoyaleClutch",
+              "MiracleTurnaround",
+              "ClashCam"
+            ],
+            "publish_at": "2026-10-22T00:30:00Z",
+            "slot_display": "08:30 PM EST (Wed, Oct 21)",
+            "file_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/clipper_a_short_03.mp4",
+            "duration_sec": 14.0,
+            "niche": "Bait-and-Switch Miracle Turnaround"
           }
-        ]
+        ],
+        "published": []
       },
       "analytics": {
         "summary": {
@@ -6318,17 +5682,17 @@
   "agents": {
     "SCOUT": {
       "status": "working",
-      "current_task": "Queue up to date. Waiting for next daily Ken upload.",
+      "current_task": "Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
       "last_completed_task": "Ingested 5 recent Ken master videos into source pool",
       "recent_logs": [
-        "[23:20:34] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
         "[23:20:49] Queue up to date. Waiting for next daily Ken upload.",
         "[23:24:30] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
         "[23:24:42] Queue up to date. Waiting for next daily Ken upload.",
         "[23:27:43] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
         "[23:27:56] Queue up to date. Waiting for next daily Ken upload.",
         "[23:30:55] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
-        "[23:31:08] Queue up to date. Waiting for next daily Ken upload."
+        "[23:31:08] Queue up to date. Waiting for next daily Ken upload.",
+        "[23:34:15] Scanning @kenforrest YouTube feed for latest Clash Royale uploads..."
       ]
     },
     "STRATEGIST": {

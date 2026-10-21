@@ -1,6 +1,6 @@
 {
-  "timestamp": 1792577160.667331,
-  "sync_time_iso": "2026-10-21T10:06:00Z",
+  "timestamp": 1792577222.6168692,
+  "sync_time_iso": "2026-10-21T10:07:02Z",
   "default_channel": "ken_clips_burger",
   "channels": {
     "ken_clips_burger": {
@@ -94,17 +94,17 @@
       "agents": {
         "SCOUT": {
           "status": "working",
-          "current_task": "Ingested 3 fresh Ken clip candidate(s) into queue.",
+          "current_task": "Queue up to date. Waiting for next daily Ken upload.",
           "last_completed_task": "Ingested 5 recent Ken master videos into source pool",
           "recent_logs": [
-            "[05:52:18] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
-            "[05:52:29] Queue up to date. Waiting for next daily Ken upload.",
             "[05:55:30] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
             "[05:55:41] Queue up to date. Waiting for next daily Ken upload.",
             "[05:58:40] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
             "[05:58:52] Queue up to date. Waiting for next daily Ken upload.",
             "[06:01:47] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
-            "[06:01:59] Ingested 3 fresh Ken clip candidate(s) into queue."
+            "[06:01:59] Ingested 3 fresh Ken clip candidate(s) into queue.",
+            "[06:06:21] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
+            "[06:06:33] Queue up to date. Waiting for next daily Ken upload."
           ]
         },
         "STRATEGIST": {
@@ -151,14 +151,14 @@
           "current_task": "Upload staged for automatic retry: ken_1792576919_0",
           "last_completed_task": "Uploaded all 3 initial Clash Royale gaming cuts to YouTube (kenclipsburger420)",
           "recent_logs": [
-            "[18:32:05] Short SCHEDULED on YouTube: NuCE_5c__rM (11:30 AM ET (Wed, Oct 21))",
-            "[18:35:40] Generating gaming A/B metadata for slot: 09:30 PM ET (Tue, Oct 20)...",
-            "[18:35:55] Deploying to YouTube (@kenclipsburger420) for release 09:30 PM ET (Tue, Oct 20)...",
-            "[18:36:00] Short SCHEDULED on YouTube: BVf4jSqOdDo (09:30 PM ET (Tue, Oct 20))",
             "[06:02:59] Generating gaming A/B metadata for slot: 11:30 AM ET (Wed, Oct 21)...",
             "[06:03:04] Deploying to YouTube (@kenclipsburger420) for release 11:30 AM ET (Wed, Oct 21)...",
             "[06:03:20] YouTube upload error: ('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
-            "[06:03:20] Upload staged for automatic retry: ken_1792576919_0"
+            "[06:03:20] Upload staged for automatic retry: ken_1792576919_0",
+            "[06:06:33] Generating gaming A/B metadata for slot: 11:30 AM ET (Wed, Oct 21)...",
+            "[06:06:44] Deploying to YouTube (@kenclipsburger420) for release 11:30 AM ET (Wed, Oct 21)...",
+            "[06:07:01] YouTube upload error: ('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
+            "[06:07:01] Upload staged for automatic retry: ken_1792576919_0"
           ]
         },
         "ANALYST": {
@@ -5718,17 +5718,17 @@
   "agents": {
     "SCOUT": {
       "status": "working",
-      "current_task": "Ingested 3 fresh Ken clip candidate(s) into queue.",
+      "current_task": "Queue up to date. Waiting for next daily Ken upload.",
       "last_completed_task": "Ingested 5 recent Ken master videos into source pool",
       "recent_logs": [
-        "[05:52:18] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
-        "[05:52:29] Queue up to date. Waiting for next daily Ken upload.",
         "[05:55:30] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
         "[05:55:41] Queue up to date. Waiting for next daily Ken upload.",
         "[05:58:40] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
         "[05:58:52] Queue up to date. Waiting for next daily Ken upload.",
         "[06:01:47] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
-        "[06:01:59] Ingested 3 fresh Ken clip candidate(s) into queue."
+        "[06:01:59] Ingested 3 fresh Ken clip candidate(s) into queue.",
+        "[06:06:21] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
+        "[06:06:33] Queue up to date. Waiting for next daily Ken upload."
       ]
     },
     "STRATEGIST": {
@@ -5775,14 +5775,14 @@
       "current_task": "Upload staged for automatic retry: ken_1792576919_0",
       "last_completed_task": "Uploaded all 3 initial Clash Royale gaming cuts to YouTube (kenclipsburger420)",
       "recent_logs": [
-        "[18:32:05] Short SCHEDULED on YouTube: NuCE_5c__rM (11:30 AM ET (Wed, Oct 21))",
-        "[18:35:40] Generating gaming A/B metadata for slot: 09:30 PM ET (Tue, Oct 20)...",
-        "[18:35:55] Deploying to YouTube (@kenclipsburger420) for release 09:30 PM ET (Tue, Oct 20)...",
-        "[18:36:00] Short SCHEDULED on YouTube: BVf4jSqOdDo (09:30 PM ET (Tue, Oct 20))",
         "[06:02:59] Generating gaming A/B metadata for slot: 11:30 AM ET (Wed, Oct 21)...",
         "[06:03:04] Deploying to YouTube (@kenclipsburger420) for release 11:30 AM ET (Wed, Oct 21)...",
         "[06:03:20] YouTube upload error: ('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
-        "[06:03:20] Upload staged for automatic retry: ken_1792576919_0"
+        "[06:03:20] Upload staged for automatic retry: ken_1792576919_0",
+        "[06:06:33] Generating gaming A/B metadata for slot: 11:30 AM ET (Wed, Oct 21)...",
+        "[06:06:44] Deploying to YouTube (@kenclipsburger420) for release 11:30 AM ET (Wed, Oct 21)...",
+        "[06:07:01] YouTube upload error: ('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
+        "[06:07:01] Upload staged for automatic retry: ken_1792576919_0"
       ]
     },
     "ANALYST": {

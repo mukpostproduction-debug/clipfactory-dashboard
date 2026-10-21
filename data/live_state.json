@@ -1,6 +1,6 @@
 {
-  "timestamp": 1792552919.617106,
-  "sync_time_iso": "2026-10-21T03:21:59Z",
+  "timestamp": 1792552981.3394701,
+  "sync_time_iso": "2026-10-21T03:23:01Z",
   "default_channel": "ken_clips_burger",
   "channels": {
     "ken_clips_burger": {
@@ -163,17 +163,17 @@
         },
         "ANALYST": {
           "status": "working",
-          "current_task": "Telemetry Audit: 23,300 views (31 shorts). Auto-pivoted 1 stalled title(s).",
+          "current_task": "Telemetry Audit: 23,219 views (31 shorts). Auto-pivoted 1 stalled title(s).",
           "last_completed_task": "Calibrated gaming threshold: >15 views/hr within 4h",
           "recent_logs": [
-            "[22:50:46] Telemetry Audit: 23,181 views (31 shorts). Auto-pivoted 1 stalled title(s).",
             "[22:55:21] Telemetry Audit: 23,189 views (31 shorts). Auto-pivoted 1 stalled title(s).",
             "[22:59:27] Telemetry Audit: 23,203 views (31 shorts). Auto-pivoted 1 stalled title(s).",
             "[23:03:35] Telemetry Audit: 23,201 views (31 shorts). Auto-pivoted 1 stalled title(s).",
             "[23:07:16] Telemetry Audit: 23,205 views (31 shorts). Auto-pivoted 1 stalled title(s).",
             "[23:11:05] Telemetry Audit: 23,287 views (31 shorts). Auto-pivoted 1 stalled title(s).",
             "[23:14:47] Telemetry Audit: 23,214 views (31 shorts). Auto-pivoted 1 stalled title(s).",
-            "[23:18:34] Telemetry Audit: 23,300 views (31 shorts). Auto-pivoted 1 stalled title(s)."
+            "[23:18:34] Telemetry Audit: 23,300 views (31 shorts). Auto-pivoted 1 stalled title(s).",
+            "[23:22:30] Telemetry Audit: 23,219 views (31 shorts). Auto-pivoted 1 stalled title(s)."
           ]
         },
         "WATCHDOG": {
@@ -181,14 +181,14 @@
           "current_task": "Verifying Supercell fan policy: 0 claims, 0 strikes.",
           "last_completed_task": "Audited source parameters: strictly <30s segment rule active",
           "recent_logs": [
-            "[22:50:46] Verifying Supercell fan policy: 0 claims, 0 strikes.",
             "[22:55:21] Verifying Supercell fan policy: 0 claims, 0 strikes.",
             "[22:59:27] Verifying Supercell fan policy: 0 claims, 0 strikes.",
             "[23:03:35] Verifying Supercell fan policy: 0 claims, 0 strikes.",
             "[23:07:16] Verifying Supercell fan policy: 0 claims, 0 strikes.",
             "[23:11:05] Verifying Supercell fan policy: 0 claims, 0 strikes.",
             "[23:14:47] Verifying Supercell fan policy: 0 claims, 0 strikes.",
-            "[23:18:34] Verifying Supercell fan policy: 0 claims, 0 strikes."
+            "[23:18:34] Verifying Supercell fan policy: 0 claims, 0 strikes.",
+            "[23:22:30] Verifying Supercell fan policy: 0 claims, 0 strikes."
           ]
         }
       },
@@ -1367,13 +1367,13 @@
                 }
               ],
               "metrics": {
-                "views": 167,
+                "views": 168,
                 "likes": 2,
                 "comments": 0,
                 "retention": 0.0,
                 "ctr": 0.0,
-                "velocity_vph": 130.63,
-                "engagement_pct": 1.2
+                "velocity_vph": 125.34,
+                "engagement_pct": 1.19
               }
             },
             "created_at": "2026-10-20T22:59:14.884861+00:00"
@@ -1440,7 +1440,7 @@
                 "comments": 0,
                 "retention": 0.0,
                 "ctr": 0.0,
-                "velocity_vph": 91.68,
+                "velocity_vph": 90.85,
                 "engagement_pct": 0.64
               }
             },
@@ -1503,13 +1503,13 @@
                 }
               ],
               "metrics": {
-                "views": 1156,
+                "views": 1073,
                 "likes": 11,
                 "comments": 0,
                 "retention": 0.0,
                 "ctr": 0.0,
-                "velocity_vph": 112.41,
-                "engagement_pct": 0.95
+                "velocity_vph": 103.71,
+                "engagement_pct": 1.03
               }
             },
             "reframed": "gaming_split"
@@ -1576,7 +1576,7 @@
                 "comments": 0,
                 "retention": 0.0,
                 "ctr": 0.0,
-                "velocity_vph": 24.79,
+                "velocity_vph": 24.66,
                 "engagement_pct": 3.08
               }
             },
@@ -1644,7 +1644,7 @@
                 "comments": 0,
                 "retention": 0.0,
                 "ctr": 0.0,
-                "velocity_vph": 11.07,
+                "velocity_vph": 11.01,
                 "engagement_pct": 0.68
               }
             },
@@ -1713,7 +1713,7 @@
                 "comments": 0,
                 "retention": 0.0,
                 "ctr": 0.0,
-                "velocity_vph": 8.47,
+                "velocity_vph": 8.45,
                 "engagement_pct": 1.89
               }
             },
@@ -1781,7 +1781,7 @@
                 "comments": 0,
                 "retention": 0.0,
                 "ctr": 0.0,
-                "velocity_vph": 14.23,
+                "velocity_vph": 14.2,
                 "engagement_pct": 0.82
               }
             },
@@ -1844,12 +1844,12 @@
                 }
               ],
               "metrics": {
-                "views": 530,
+                "views": 531,
                 "likes": 13,
                 "comments": 0,
                 "retention": 0.0,
                 "ctr": 0.0,
-                "velocity_vph": 19.08,
+                "velocity_vph": 19.07,
                 "engagement_pct": 2.45
               }
             },
@@ -1917,7 +1917,7 @@
                 "comments": 0,
                 "retention": 0.0,
                 "ctr": 0.0,
-                "velocity_vph": 8.87,
+                "velocity_vph": 8.85,
                 "engagement_pct": 0.37
               }
             },
@@ -1927,7 +1927,7 @@
             "id": "ken_1792212492_9",
             "source_video": "least busted card [Clutch Moment]",
             "creator": "Ken",
-            "title": "Why Chip Cycling Just Lost Its Power",
+            "title": "Chip Cycling Is Officially Dead",
             "publish_at": "2026-10-19T17:00:00Z",
             "status": "PUBLISHED",
             "uploaded": true,
@@ -1938,8 +1938,8 @@
             "duration": 27.73,
             "hook_summary": "The creator makes a bold claim about why traditional chip cycle strategies are officially dead in the current meta.",
             "metadata": {
-              "title": "Why Chip Cycling Just Lost Its Power",
-              "description": "Most players are still wasting elixir on a strategy that the current meta has completely broken. Ken breaks down the exact reason why chipping the tower is a losing battle now.\n\n\u2022 Discover why traditional chip damage no longer wins games\n\u2022 The hidden shift in defensive meta you missed\n\u2022 How to adapt your strategy before your rank drops\n\nFeaturing: Ken\n\nAre you still trying to chip towers, or have you adapted to the new meta?\n\n#shorts #ken #clashroyale #gaming #strategy #metashift",
+              "title": "Chip Cycling Is Officially Dead",
+              "description": "Forget everything you know about standard tower pressure because chip cycle is officially dead. Ken exposes why minor chip damage is a complete waste of your resources.\n\n\u2022 The brutal truth about current tower defense scaling\n\u2022 Why bridge spam punishes old-school tactics instantly\n\u2022 The exact moment you should stop chipping and start saving\n\nFeaturing: Ken\n\nIs bridge spam actually unbeatable right now, or is there a counter?\n\n#shorts #ken #gamingtips #meta #clashroyale #strategy",
               "tags": [
                 "chip cycle",
                 "bridge spam",
@@ -1969,7 +1969,7 @@
                   "description": "If you are still relying on minor tower chips to win, you are playing the game wrong. Ken shares the exact rule you need to follow to stop bleeding elixir in today's meta.\n\n\u2022 The new golden rule for elixir management\n\u2022 How to pivot away from outdated chip strategies\n\u2022 Building a push that actually overwhelms modern defenses\n\nFeaturing: Ken\n\nWhat is your go-to win condition if not chip damage?\n\n#shorts #ken #gaming #protips #clashroyale #elixir"
                 }
               },
-              "active_variant": "A",
+              "active_variant": "B",
               "test_status": "ACTIVE_TEST",
               "variant_history": [
                 {
@@ -2053,7 +2053,7 @@
                 "comments": 0,
                 "retention": 0.0,
                 "ctr": 0.0,
-                "velocity_vph": 11.54,
+                "velocity_vph": 11.52,
                 "engagement_pct": 1.69
               }
             },
@@ -2121,7 +2121,7 @@
                 "comments": 0,
                 "retention": 0.0,
                 "ctr": 0.0,
-                "velocity_vph": 10.11,
+                "velocity_vph": 10.09,
                 "engagement_pct": 1.06
               }
             },
@@ -2189,7 +2189,7 @@
                 "comments": 0,
                 "retention": 0.0,
                 "ctr": 0.0,
-                "velocity_vph": 22.53,
+                "velocity_vph": 22.5,
                 "engagement_pct": 1.09
               }
             },
@@ -2257,7 +2257,7 @@
                 "comments": 0,
                 "retention": 0.0,
                 "ctr": 0.0,
-                "velocity_vph": 23.81,
+                "velocity_vph": 23.78,
                 "engagement_pct": 0.97
               }
             },
@@ -2325,7 +2325,7 @@
                 "comments": 0,
                 "retention": 0.0,
                 "ctr": 0.0,
-                "velocity_vph": 21.32,
+                "velocity_vph": 21.29,
                 "engagement_pct": 0.94
               }
             },
@@ -2393,7 +2393,7 @@
                 "comments": 0,
                 "retention": 0.0,
                 "ctr": 0.0,
-                "velocity_vph": 5.66,
+                "velocity_vph": 5.65,
                 "engagement_pct": 1.52
               }
             },
@@ -2461,7 +2461,7 @@
                 "comments": 0,
                 "retention": 0.0,
                 "ctr": 0.0,
-                "velocity_vph": 20.92,
+                "velocity_vph": 20.9,
                 "engagement_pct": 0.94
               }
             },
@@ -2703,7 +2703,7 @@
                 "comments": 0,
                 "retention": 0.0,
                 "ctr": 0.0,
-                "velocity_vph": 20.01,
+                "velocity_vph": 20.0,
                 "engagement_pct": 1.64
               }
             },
@@ -2729,7 +2729,7 @@
                 "views": 1671,
                 "likes": 21,
                 "comments": 1,
-                "velocity_vph": 19.59,
+                "velocity_vph": 19.58,
                 "engagement_pct": 1.32
               },
               "test_status": "WINNER_LOCKED"
@@ -2935,7 +2935,7 @@
                 "comments": 1,
                 "retention": 0.0,
                 "ctr": 0.0,
-                "velocity_vph": 7.99,
+                "velocity_vph": 7.98,
                 "engagement_pct": 1.98
               }
             },
@@ -3003,7 +3003,7 @@
                 "comments": 2,
                 "retention": 0.0,
                 "ctr": 0.0,
-                "velocity_vph": 9.98,
+                "velocity_vph": 9.97,
                 "engagement_pct": 0.98
               }
             },
@@ -3137,7 +3137,7 @@
                 "comments": 1,
                 "retention": 0.0,
                 "ctr": 0.0,
-                "velocity_vph": 9.25,
+                "velocity_vph": 9.24,
                 "engagement_pct": 0.82
               }
             },
@@ -3284,7 +3284,7 @@
       },
       "analytics": {
         "summary": {
-          "total_views": 23300,
+          "total_views": 23219,
           "shorts_published": 0,
           "total_likes": 276,
           "avg_retention_pct": 82.5,
@@ -3293,77 +3293,77 @@
           "estimated_revenue_usd": 0.0,
           "health_grade": "A+",
           "total_shorts_published": 31,
-          "last_audit": 1792552714.065623
+          "last_audit": 1792552950.954797
         },
         "top_shorts": [
           {
             "title": "This modifier is actually illegal.",
             "creator": "Ken",
-            "views": 167,
-            "velocity": 130.63,
+            "views": 168,
+            "velocity": 125.34,
             "angle": "Curiosity Gap"
           },
           {
             "title": "The Evo E-Giant is actually unplayable (bad)",
             "creator": "Ken",
             "views": 622,
-            "velocity": 91.68,
+            "velocity": 90.85,
             "angle": "Contrarian Truth"
           },
           {
             "title": "This 1 Card Makes eGiant Unstoppable...",
             "creator": "Ken",
-            "views": 1156,
-            "velocity": 112.41,
+            "views": 1073,
+            "velocity": 103.71,
             "angle": "Curiosity Gap"
           },
           {
             "title": "Why this broken spam strategy actually works...",
             "creator": "Ken",
             "views": 292,
-            "velocity": 24.79,
+            "velocity": 24.66,
             "angle": "Curiosity Gap"
           },
           {
             "title": "Gaming rage isn't about the game at all.",
             "creator": "Ken",
             "views": 147,
-            "velocity": 11.07,
+            "velocity": 11.01,
             "angle": "Contrarian Truth"
           },
           {
             "title": "He actually said this in the lobby... \ud83d\udc80",
             "creator": "Ken",
             "views": 212,
-            "velocity": 8.47,
+            "velocity": 8.45,
             "angle": "Curiosity Gap"
           },
           {
             "title": "Why adults secretly act so boring...",
             "creator": "Ken",
             "views": 367,
-            "velocity": 14.23,
+            "velocity": 14.2,
             "angle": "Curiosity Gap"
           },
           {
             "title": "The illegal Evo Hunter trick nobody is using",
             "creator": "Ken",
-            "views": 530,
-            "velocity": 19.08,
+            "views": 531,
+            "velocity": 19.07,
             "angle": "Curiosity Gap"
           },
           {
             "title": "The Golden Rule of YouTube Comments",
             "creator": "Ken",
             "views": 273,
-            "velocity": 8.87,
+            "velocity": 8.85,
             "angle": "Actionable Protocol"
           },
           {
             "title": "He regret saying this immediately...",
             "creator": "Ken",
             "views": 413,
-            "velocity": 11.54,
+            "velocity": 11.52,
             "angle": "Curiosity Gap"
           }
         ],
@@ -5275,6 +5275,51 @@
             "duration": 3600,
             "status": "FAILED_DOWNLOAD",
             "added_at": "2026-10-15T15:39:37Z"
+          },
+          {
+            "id": "clipper_a_1792552952_0",
+            "creator": "KaiserDEthik",
+            "title": "Mirror is Finally Broken \ud83d\udc80\ud83d\ude4f #clashroyale #viral",
+            "url": "https://www.youtube.com/shorts/7ip2WO8AhCE",
+            "duration": 60,
+            "added_at": 1792552952.580907,
+            "status": "QUEUED"
+          },
+          {
+            "id": "clipper_a_1792552952_1",
+            "creator": "KaiserDEthik",
+            "title": "Evo Giant Deadly Combo \ud83d\udc80\ud83d\ude4f\ud83c\udffb #clashroyale #viral",
+            "url": "https://www.youtube.com/shorts/HZe2rRmZAyY",
+            "duration": 60,
+            "added_at": 1792552952.580918,
+            "status": "QUEUED"
+          },
+          {
+            "id": "clipper_a_1792552952_2",
+            "creator": "KaiserDEthik",
+            "title": "I'm Still Standing \ud83e\udd76 #clashroyale",
+            "url": "https://www.youtube.com/shorts/mwxwVTNgDg8",
+            "duration": 60,
+            "added_at": 1792552952.58092,
+            "status": "QUEUED"
+          },
+          {
+            "id": "clipper_a_1792552952_3",
+            "creator": "KaiserDEthik",
+            "title": "Halfway Dead Ability \ud83d\ude2d\ud83d\ude4f\ud83c\udffb #clashroyale #evogiant #viral",
+            "url": "https://www.youtube.com/shorts/n1r_Chk6mi0",
+            "duration": 60,
+            "added_at": 1792552952.5809238,
+            "status": "QUEUED"
+          },
+          {
+            "id": "clipper_a_1792552952_4",
+            "creator": "KaiserDEthik",
+            "title": "Prince Love Story \ud83d\udc94 #clashroyale",
+            "url": "https://www.youtube.com/shorts/tlnpUDWBXss",
+            "duration": 60,
+            "added_at": 1792552952.580925,
+            "status": "QUEUED"
           }
         ],
         "processing": null,
@@ -5381,52 +5426,54 @@
         ]
       },
       "calendar": {
-        "scheduled": [
+        "scheduled": [],
+        "held": [],
+        "published": [
           {
-            "id": "abigail_1792162863_1",
-            "source_video": "A KARDASHIAN KRISMAS Pt. 2 | Benito Skinner (2019)",
-            "creator": "Benito Skinner",
-            "title": "Benito Skinner\u2019s Season 20 Secret Revealed \ud83e\udd2b",
-            "publish_at": "2026-10-17T16:30:00Z",
-            "status": "SCHEDULED",
+            "id": "abigail_1792177358_0",
+            "source_video": "Emergency Intercom - Episode 256 (Why Enya lost 100k followers)",
+            "creator": "Emergency Intercom",
+            "title": "Kim K\u2019s TikTok Live got hijacked by this...",
+            "publish_at": "2026-10-18T01:00:00Z",
+            "status": "PUBLISHED",
             "uploaded": true,
-            "youtube_video_id": "KGeMWgJMi8U",
-            "youtube_url": "https://www.youtube.com/shorts/KGeMWgJMi8U",
-            "video_file": "abigail_1792162863_1_master.mp4",
-            "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/abigail_1792162863_1_master.mp4",
-            "duration": 30.2,
-            "hook_summary": "Essential discussion and core insight",
+            "youtube_video_id": "s9VjCartwDI",
+            "youtube_url": "https://www.youtube.com/shorts/s9VjCartwDI",
+            "video_file": "abigail_1792177358_0_master.mp4",
+            "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/abigail_1792177358_0_master.mp4",
+            "duration": 32.0,
+            "hook_summary": "A deep dive into the surreal and hilarious moment when North West and Kim Kardashian's TikTok Live was hijacked by repetitive AI 'Charlie Kirk' song donations.",
             "metadata": {
-              "title": "Benito Skinner\u2019s Season 20 Secret Revealed \ud83e\udd2b",
-              "description": "Benito Skinner finally reveals the truth about what happened behind the scenes at Noble. This is the moment that changed everything for Season 20.\n\n\u2022 The reality of filming at Noble\n\u2022 Why Season 20 felt different\n\u2022 The truth about the production process\n\nFeaturing: Benito Skinner\n\nDo you think reality TV scenes are mostly scripted or 100% authentic? \n\n#shorts #benitoskinner #kardashians #entertainment #popculture",
+              "title": "Kim K\u2019s TikTok Live got hijacked by this...",
+              "description": "The most surreal moment in internet history happened when North West went live and Kim had absolutely no idea what was happening. This is the peak of Gen Alpha chaos.\n\n- Why celebrities can't control AI spam bots\n- The funniest glitch in TikTok Live history\n- How North West is single-handedly breaking the internet\n\nFeaturing: Emergency Intercom\n\nIs North West doing this on purpose or is it just pure luck? \n\n#shorts #emergencyintercom #northwest #kimkardashian #tiktoklive #viral",
               "tags": [
-                "Benito Skinner",
-                "Benny Drama",
-                "Season 20",
-                "Noble",
-                "The Kardashians",
-                "Reality TV Secrets",
-                "Podcast Highlights",
-                "Pop Culture Analysis",
-                "Entertainment Industry",
-                "Celebrity Interview"
+                "emergency intercom",
+                "north west",
+                "kim kardashian",
+                "tiktok live",
+                "charlie kirk song",
+                "drew phillips",
+                "enya umanzor",
+                "viral tiktok",
+                "internet lore",
+                "gen alpha"
               ],
-              "pinned_comment": "Was Benito the best part of the season, or do you prefer the original cast? Drop a 'BENNY' or 'CAST' below! \ud83d\udc47",
+              "pinned_comment": "Did North West know exactly what she was doing with those AI donations? \ud83d\udc80",
               "ab_variants": {
                 "A": {
                   "angle": "Curiosity Gap",
-                  "title": "Benito Skinner\u2019s Season 20 Secret Revealed \ud83e\udd2b",
-                  "description": "Benito Skinner finally reveals the truth about what happened behind the scenes at Noble. This is the moment that changed everything for Season 20.\n\n\u2022 The reality of filming at Noble\n\u2022 Why Season 20 felt different\n\u2022 The truth about the production process\n\nFeaturing: Benito Skinner\n\nDo you think reality TV scenes are mostly scripted or 100% authentic? \n\n#shorts #benitoskinner #kardashians #entertainment #popculture"
+                  "title": "Kim K\u2019s TikTok Live got hijacked by this...",
+                  "description": "The most surreal moment in internet history happened when North West went live and Kim had absolutely no idea what was happening. This is the peak of Gen Alpha chaos.\n\n- Why celebrities can't control AI spam bots\n- The funniest glitch in TikTok Live history\n- How North West is single-handedly breaking the internet\n\nFeaturing: Emergency Intercom\n\nIs North West doing this on purpose or is it just pure luck? \n\n#shorts #emergencyintercom #northwest #kimkardashian #tiktoklive #viral"
                 },
                 "B": {
                   "angle": "Contrarian Truth",
-                  "title": "Why Reality TV Filming is a Lie \ud83c\udfa5",
-                  "description": "Most people think reality TV is effortless, but Benito Skinner exposes the calculated chaos of the Season 20 set at Noble. It\u2019s not what you see on screen.\n\n\u2022 The pressure of the Season 20 spotlight\n\u2022 Why the Noble scene was a turning point\n\u2022 The difference between persona and reality\n\nFeaturing: Benito Skinner\n\nWould you ever let a camera crew follow you 24/7 for a million dollars? \n\n#shorts #benitoskinner #mindset #celebrity #realitytv #fame"
+                  "title": "Why Kim K\u2019s TikTok Live was a total nightmare",
+                  "description": "Everyone thought North West\u2019s livestream was cute until the repetitive AI donations started. Kim\u2019s reaction proves she is completely out of touch with current internet lore.\n\n- The breakdown of the 'Charlie Kirk' donation trend\n- Why TikTok\u2019s moderation failed in real-time\n- The absurdity of celebrity-child digital footprints\n\nFeaturing: Emergency Intercom\n\nShould Kim be letting North go live at all after this mess?\n\n#shorts #emergencyintercom #internetculture #kimk #northwest #memes"
                 },
                 "C": {
                   "angle": "Actionable Protocol",
-                  "title": "The Rule for Breaking Into Reality TV \ud83c\udf1f",
-                  "description": "Benito Skinner shares the essential framework for staying authentic while filming major productions like Season 20. Learn how to handle the high-stakes environment at Noble.\n\n\u2022 How to maintain your brand on a major set\n\u2022 The secret to a successful cameo performance\n\u2022 Navigating the Noble production protocol\n\nFeaturing: Benito Skinner\n\nIf you could guest star on any show in history, which one would you pick? \n\n#shorts #benitoskinner #career #success #media #hollywood"
+                  "title": "The formula for North West\u2019s viral chaos",
+                  "description": "There is a specific reason why this livestream went viral, and it involves a bizarre AI feedback loop. Here is how internet trolls officially hijacked the Kardashian brand.\n\n- How AI spam disrupts high-tier influencer streams\n- The pattern of viral Gen Alpha humor\n- Why repetitive audio is the ultimate engagement hack\n\nFeaturing: Emergency Intercom\n\nWhich celebrity would have the funniest reaction to being hijacked by AI songs?\n\n#shorts #emergencyintercom #strategy #marketing #northwest #tiktok"
                 }
               },
               "active_variant": "A",
@@ -5434,8 +5481,8 @@
               "variant_history": [
                 {
                   "variant": "A",
-                  "title": "Benito Skinner\u2019s Season 20 Secret Revealed \ud83e\udd2b",
-                  "deployed_at": 1792163092.897343,
+                  "title": "Kim K\u2019s TikTok Live got hijacked by this...",
+                  "deployed_at": 1792177480.791858,
                   "reason": "Initial A/B test deployment"
                 }
               ],
@@ -5454,7 +5501,7 @@
             "creator": "Benito Skinner",
             "title": "The moment Benito knew it was over...",
             "publish_at": "2026-10-17T21:00:00Z",
-            "status": "SCHEDULED",
+            "status": "PUBLISHED",
             "uploaded": true,
             "youtube_video_id": "Hzi-fr-Odjs",
             "youtube_url": "https://www.youtube.com/shorts/Hzi-fr-Odjs",
@@ -5515,50 +5562,50 @@
             }
           },
           {
-            "id": "abigail_1792177358_0",
-            "source_video": "Emergency Intercom - Episode 256 (Why Enya lost 100k followers)",
-            "creator": "Emergency Intercom",
-            "title": "Kim K\u2019s TikTok Live got hijacked by this...",
-            "publish_at": "2026-10-18T01:00:00Z",
-            "status": "SCHEDULED",
+            "id": "abigail_1792162863_1",
+            "source_video": "A KARDASHIAN KRISMAS Pt. 2 | Benito Skinner (2019)",
+            "creator": "Benito Skinner",
+            "title": "Benito Skinner\u2019s Season 20 Secret Revealed \ud83e\udd2b",
+            "publish_at": "2026-10-17T16:30:00Z",
+            "status": "PUBLISHED",
             "uploaded": true,
-            "youtube_video_id": "s9VjCartwDI",
-            "youtube_url": "https://www.youtube.com/shorts/s9VjCartwDI",
-            "video_file": "abigail_1792177358_0_master.mp4",
-            "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/abigail_1792177358_0_master.mp4",
-            "duration": 32.0,
-            "hook_summary": "A deep dive into the surreal and hilarious moment when North West and Kim Kardashian's TikTok Live was hijacked by repetitive AI 'Charlie Kirk' song donations.",
+            "youtube_video_id": "KGeMWgJMi8U",
+            "youtube_url": "https://www.youtube.com/shorts/KGeMWgJMi8U",
+            "video_file": "abigail_1792162863_1_master.mp4",
+            "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/abigail_1792162863_1_master.mp4",
+            "duration": 30.2,
+            "hook_summary": "Essential discussion and core insight",
             "metadata": {
-              "title": "Kim K\u2019s TikTok Live got hijacked by this...",
-              "description": "The most surreal moment in internet history happened when North West went live and Kim had absolutely no idea what was happening. This is the peak of Gen Alpha chaos.\n\n- Why celebrities can't control AI spam bots\n- The funniest glitch in TikTok Live history\n- How North West is single-handedly breaking the internet\n\nFeaturing: Emergency Intercom\n\nIs North West doing this on purpose or is it just pure luck? \n\n#shorts #emergencyintercom #northwest #kimkardashian #tiktoklive #viral",
+              "title": "Benito Skinner\u2019s Season 20 Secret Revealed \ud83e\udd2b",
+              "description": "Benito Skinner finally reveals the truth about what happened behind the scenes at Noble. This is the moment that changed everything for Season 20.\n\n\u2022 The reality of filming at Noble\n\u2022 Why Season 20 felt different\n\u2022 The truth about the production process\n\nFeaturing: Benito Skinner\n\nDo you think reality TV scenes are mostly scripted or 100% authentic? \n\n#shorts #benitoskinner #kardashians #entertainment #popculture",
               "tags": [
-                "emergency intercom",
-                "north west",
-                "kim kardashian",
-                "tiktok live",
-                "charlie kirk song",
-                "drew phillips",
-                "enya umanzor",
-                "viral tiktok",
-                "internet lore",
-                "gen alpha"
+                "Benito Skinner",
+                "Benny Drama",
+                "Season 20",
+                "Noble",
+                "The Kardashians",
+                "Reality TV Secrets",
+                "Podcast Highlights",
+                "Pop Culture Analysis",
+                "Entertainment Industry",
+                "Celebrity Interview"
               ],
-              "pinned_comment": "Did North West know exactly what she was doing with those AI donations? \ud83d\udc80",
+              "pinned_comment": "Was Benito the best part of the season, or do you prefer the original cast? Drop a 'BENNY' or 'CAST' below! \ud83d\udc47",
               "ab_variants": {
                 "A": {
                   "angle": "Curiosity Gap",
-                  "title": "Kim K\u2019s TikTok Live got hijacked by this...",
-                  "description": "The most surreal moment in internet history happened when North West went live and Kim had absolutely no idea what was happening. This is the peak of Gen Alpha chaos.\n\n- Why celebrities can't control AI spam bots\n- The funniest glitch in TikTok Live history\n- How North West is single-handedly breaking the internet\n\nFeaturing: Emergency Intercom\n\nIs North West doing this on purpose or is it just pure luck? \n\n#shorts #emergencyintercom #northwest #kimkardashian #tiktoklive #viral"
+                  "title": "Benito Skinner\u2019s Season 20 Secret Revealed \ud83e\udd2b",
+                  "description": "Benito Skinner finally reveals the truth about what happened behind the scenes at Noble. This is the moment that changed everything for Season 20.\n\n\u2022 The reality of filming at Noble\n\u2022 Why Season 20 felt different\n\u2022 The truth about the production process\n\nFeaturing: Benito Skinner\n\nDo you think reality TV scenes are mostly scripted or 100% authentic? \n\n#shorts #benitoskinner #kardashians #entertainment #popculture"
                 },
                 "B": {
                   "angle": "Contrarian Truth",
-                  "title": "Why Kim K\u2019s TikTok Live was a total nightmare",
-                  "description": "Everyone thought North West\u2019s livestream was cute until the repetitive AI donations started. Kim\u2019s reaction proves she is completely out of touch with current internet lore.\n\n- The breakdown of the 'Charlie Kirk' donation trend\n- Why TikTok\u2019s moderation failed in real-time\n- The absurdity of celebrity-child digital footprints\n\nFeaturing: Emergency Intercom\n\nShould Kim be letting North go live at all after this mess?\n\n#shorts #emergencyintercom #internetculture #kimk #northwest #memes"
+                  "title": "Why Reality TV Filming is a Lie \ud83c\udfa5",
+                  "description": "Most people think reality TV is effortless, but Benito Skinner exposes the calculated chaos of the Season 20 set at Noble. It\u2019s not what you see on screen.\n\n\u2022 The pressure of the Season 20 spotlight\n\u2022 Why the Noble scene was a turning point\n\u2022 The difference between persona and reality\n\nFeaturing: Benito Skinner\n\nWould you ever let a camera crew follow you 24/7 for a million dollars? \n\n#shorts #benitoskinner #mindset #celebrity #realitytv #fame"
                 },
                 "C": {
                   "angle": "Actionable Protocol",
-                  "title": "The formula for North West\u2019s viral chaos",
-                  "description": "There is a specific reason why this livestream went viral, and it involves a bizarre AI feedback loop. Here is how internet trolls officially hijacked the Kardashian brand.\n\n- How AI spam disrupts high-tier influencer streams\n- The pattern of viral Gen Alpha humor\n- Why repetitive audio is the ultimate engagement hack\n\nFeaturing: Emergency Intercom\n\nWhich celebrity would have the funniest reaction to being hijacked by AI songs?\n\n#shorts #emergencyintercom #strategy #marketing #northwest #tiktok"
+                  "title": "The Rule for Breaking Into Reality TV \ud83c\udf1f",
+                  "description": "Benito Skinner shares the essential framework for staying authentic while filming major productions like Season 20. Learn how to handle the high-stakes environment at Noble.\n\n\u2022 How to maintain your brand on a major set\n\u2022 The secret to a successful cameo performance\n\u2022 Navigating the Noble production protocol\n\nFeaturing: Benito Skinner\n\nIf you could guest star on any show in history, which one would you pick? \n\n#shorts #benitoskinner #career #success #media #hollywood"
                 }
               },
               "active_variant": "A",
@@ -5566,8 +5613,8 @@
               "variant_history": [
                 {
                   "variant": "A",
-                  "title": "Kim K\u2019s TikTok Live got hijacked by this...",
-                  "deployed_at": 1792177480.791858,
+                  "title": "Benito Skinner\u2019s Season 20 Secret Revealed \ud83e\udd2b",
+                  "deployed_at": 1792163092.897343,
                   "reason": "Initial A/B test deployment"
                 }
               ],
@@ -5579,10 +5626,7 @@
                 "ctr": 0.0
               }
             }
-          }
-        ],
-        "held": [],
-        "published": [
+          },
           {
             "id": "abigail_1792162863_0",
             "source_video": "KIM KARDASHIAN AS FIRST LADY | Benito Skinner (2020)",
@@ -6343,17 +6387,17 @@
     },
     "ANALYST": {
       "status": "working",
-      "current_task": "Telemetry Audit: 23,300 views (31 shorts). Auto-pivoted 1 stalled title(s).",
+      "current_task": "Telemetry Audit: 23,219 views (31 shorts). Auto-pivoted 1 stalled title(s).",
       "last_completed_task": "Calibrated gaming threshold: >15 views/hr within 4h",
       "recent_logs": [
-        "[22:50:46] Telemetry Audit: 23,181 views (31 shorts). Auto-pivoted 1 stalled title(s).",
         "[22:55:21] Telemetry Audit: 23,189 views (31 shorts). Auto-pivoted 1 stalled title(s).",
         "[22:59:27] Telemetry Audit: 23,203 views (31 shorts). Auto-pivoted 1 stalled title(s).",
         "[23:03:35] Telemetry Audit: 23,201 views (31 shorts). Auto-pivoted 1 stalled title(s).",
         "[23:07:16] Telemetry Audit: 23,205 views (31 shorts). Auto-pivoted 1 stalled title(s).",
         "[23:11:05] Telemetry Audit: 23,287 views (31 shorts). Auto-pivoted 1 stalled title(s).",
         "[23:14:47] Telemetry Audit: 23,214 views (31 shorts). Auto-pivoted 1 stalled title(s).",
-        "[23:18:34] Telemetry Audit: 23,300 views (31 shorts). Auto-pivoted 1 stalled title(s)."
+        "[23:18:34] Telemetry Audit: 23,300 views (31 shorts). Auto-pivoted 1 stalled title(s).",
+        "[23:22:30] Telemetry Audit: 23,219 views (31 shorts). Auto-pivoted 1 stalled title(s)."
       ]
     },
     "WATCHDOG": {
@@ -6361,14 +6405,14 @@
       "current_task": "Verifying Supercell fan policy: 0 claims, 0 strikes.",
       "last_completed_task": "Audited source parameters: strictly <30s segment rule active",
       "recent_logs": [
-        "[22:50:46] Verifying Supercell fan policy: 0 claims, 0 strikes.",
         "[22:55:21] Verifying Supercell fan policy: 0 claims, 0 strikes.",
         "[22:59:27] Verifying Supercell fan policy: 0 claims, 0 strikes.",
         "[23:03:35] Verifying Supercell fan policy: 0 claims, 0 strikes.",
         "[23:07:16] Verifying Supercell fan policy: 0 claims, 0 strikes.",
         "[23:11:05] Verifying Supercell fan policy: 0 claims, 0 strikes.",
         "[23:14:47] Verifying Supercell fan policy: 0 claims, 0 strikes.",
-        "[23:18:34] Verifying Supercell fan policy: 0 claims, 0 strikes."
+        "[23:18:34] Verifying Supercell fan policy: 0 claims, 0 strikes.",
+        "[23:22:30] Verifying Supercell fan policy: 0 claims, 0 strikes."
       ]
     }
   },
@@ -7547,13 +7591,13 @@
             }
           ],
           "metrics": {
-            "views": 167,
+            "views": 168,
             "likes": 2,
             "comments": 0,
             "retention": 0.0,
             "ctr": 0.0,
-            "velocity_vph": 130.63,
-            "engagement_pct": 1.2
+            "velocity_vph": 125.34,
+            "engagement_pct": 1.19
           }
         },
         "created_at": "2026-10-20T22:59:14.884861+00:00"
@@ -7620,7 +7664,7 @@
             "comments": 0,
             "retention": 0.0,
             "ctr": 0.0,
-            "velocity_vph": 91.68,
+            "velocity_vph": 90.85,
             "engagement_pct": 0.64
           }
         },
@@ -7683,13 +7727,13 @@
             }
           ],
           "metrics": {
-            "views": 1156,
+            "views": 1073,
             "likes": 11,
             "comments": 0,
             "retention": 0.0,
             "ctr": 0.0,
-            "velocity_vph": 112.41,
-            "engagement_pct": 0.95
+            "velocity_vph": 103.71,
+            "engagement_pct": 1.03
           }
         },
         "reframed": "gaming_split"
@@ -7756,7 +7800,7 @@
             "comments": 0,
             "retention": 0.0,
             "ctr": 0.0,
-            "velocity_vph": 24.79,
+            "velocity_vph": 24.66,
             "engagement_pct": 3.08
           }
         },
@@ -7824,7 +7868,7 @@
             "comments": 0,
             "retention": 0.0,
             "ctr": 0.0,
-            "velocity_vph": 11.07,
+            "velocity_vph": 11.01,
             "engagement_pct": 0.68
           }
         },
@@ -7893,7 +7937,7 @@
             "comments": 0,
             "retention": 0.0,
             "ctr": 0.0,
-            "velocity_vph": 8.47,
+            "velocity_vph": 8.45,
             "engagement_pct": 1.89
           }
         },
@@ -7961,7 +8005,7 @@
             "comments": 0,
             "retention": 0.0,
             "ctr": 0.0,
-            "velocity_vph": 14.23,
+            "velocity_vph": 14.2,
             "engagement_pct": 0.82
           }
         },
@@ -8024,12 +8068,12 @@
             }
           ],
           "metrics": {
-            "views": 530,
+            "views": 531,
             "likes": 13,
             "comments": 0,
             "retention": 0.0,
             "ctr": 0.0,
-            "velocity_vph": 19.08,
+            "velocity_vph": 19.07,
             "engagement_pct": 2.45
           }
         },
@@ -8097,7 +8141,7 @@
             "comments": 0,
             "retention": 0.0,
             "ctr": 0.0,
-            "velocity_vph": 8.87,
+            "velocity_vph": 8.85,
             "engagement_pct": 0.37
           }
         },
@@ -8107,7 +8151,7 @@
         "id": "ken_1792212492_9",
         "source_video": "least busted card [Clutch Moment]",
         "creator": "Ken",
-        "title": "Why Chip Cycling Just Lost Its Power",
+        "title": "Chip Cycling Is Officially Dead",
         "publish_at": "2026-10-19T17:00:00Z",
         "status": "PUBLISHED",
         "uploaded": true,
@@ -8118,8 +8162,8 @@
         "duration": 27.73,
         "hook_summary": "The creator makes a bold claim about why traditional chip cycle strategies are officially dead in the current meta.",
         "metadata": {
-          "title": "Why Chip Cycling Just Lost Its Power",
-          "description": "Most players are still wasting elixir on a strategy that the current meta has completely broken. Ken breaks down the exact reason why chipping the tower is a losing battle now.\n\n\u2022 Discover why traditional chip damage no longer wins games\n\u2022 The hidden shift in defensive meta you missed\n\u2022 How to adapt your strategy before your rank drops\n\nFeaturing: Ken\n\nAre you still trying to chip towers, or have you adapted to the new meta?\n\n#shorts #ken #clashroyale #gaming #strategy #metashift",
+          "title": "Chip Cycling Is Officially Dead",
+          "description": "Forget everything you know about standard tower pressure because chip cycle is officially dead. Ken exposes why minor chip damage is a complete waste of your resources.\n\n\u2022 The brutal truth about current tower defense scaling\n\u2022 Why bridge spam punishes old-school tactics instantly\n\u2022 The exact moment you should stop chipping and start saving\n\nFeaturing: Ken\n\nIs bridge spam actually unbeatable right now, or is there a counter?\n\n#shorts #ken #gamingtips #meta #clashroyale #strategy",
           "tags": [
             "chip cycle",
             "bridge spam",
@@ -8149,7 +8193,7 @@
               "description": "If you are still relying on minor tower chips to win, you are playing the game wrong. Ken shares the exact rule you need to follow to stop bleeding elixir in today's meta.\n\n\u2022 The new golden rule for elixir management\n\u2022 How to pivot away from outdated chip strategies\n\u2022 Building a push that actually overwhelms modern defenses\n\nFeaturing: Ken\n\nWhat is your go-to win condition if not chip damage?\n\n#shorts #ken #gaming #protips #clashroyale #elixir"
             }
           },
-          "active_variant": "A",
+          "active_variant": "B",
           "test_status": "ACTIVE_TEST",
           "variant_history": [
             {
@@ -8233,7 +8277,7 @@
             "comments": 0,
             "retention": 0.0,
             "ctr": 0.0,
-            "velocity_vph": 11.54,
+            "velocity_vph": 11.52,
             "engagement_pct": 1.69
           }
         },
@@ -8301,7 +8345,7 @@
             "comments": 0,
             "retention": 0.0,
             "ctr": 0.0,
-            "velocity_vph": 10.11,
+            "velocity_vph": 10.09,
             "engagement_pct": 1.06
           }
         },
@@ -8369,7 +8413,7 @@
             "comments": 0,
             "retention": 0.0,
             "ctr": 0.0,
-            "velocity_vph": 22.53,
+            "velocity_vph": 22.5,
             "engagement_pct": 1.09
           }
         },
@@ -8437,7 +8481,7 @@
             "comments": 0,
             "retention": 0.0,
             "ctr": 0.0,
-            "velocity_vph": 23.81,
+            "velocity_vph": 23.78,
             "engagement_pct": 0.97
           }
         },
@@ -8505,7 +8549,7 @@
             "comments": 0,
             "retention": 0.0,
             "ctr": 0.0,
-            "velocity_vph": 21.32,
+            "velocity_vph": 21.29,
             "engagement_pct": 0.94
           }
         },
@@ -8573,7 +8617,7 @@
             "comments": 0,
             "retention": 0.0,
             "ctr": 0.0,
-            "velocity_vph": 5.66,
+            "velocity_vph": 5.65,
             "engagement_pct": 1.52
           }
         },
@@ -8641,7 +8685,7 @@
             "comments": 0,
             "retention": 0.0,
             "ctr": 0.0,
-            "velocity_vph": 20.92,
+            "velocity_vph": 20.9,
             "engagement_pct": 0.94
           }
         },
@@ -8883,7 +8927,7 @@
             "comments": 0,
             "retention": 0.0,
             "ctr": 0.0,
-            "velocity_vph": 20.01,
+            "velocity_vph": 20.0,
             "engagement_pct": 1.64
           }
         },
@@ -8909,7 +8953,7 @@
             "views": 1671,
             "likes": 21,
             "comments": 1,
-            "velocity_vph": 19.59,
+            "velocity_vph": 19.58,
             "engagement_pct": 1.32
           },
           "test_status": "WINNER_LOCKED"
@@ -9115,7 +9159,7 @@
             "comments": 1,
             "retention": 0.0,
             "ctr": 0.0,
-            "velocity_vph": 7.99,
+            "velocity_vph": 7.98,
             "engagement_pct": 1.98
           }
         },
@@ -9183,7 +9227,7 @@
             "comments": 2,
             "retention": 0.0,
             "ctr": 0.0,
-            "velocity_vph": 9.98,
+            "velocity_vph": 9.97,
             "engagement_pct": 0.98
           }
         },
@@ -9317,7 +9361,7 @@
             "comments": 1,
             "retention": 0.0,
             "ctr": 0.0,
-            "velocity_vph": 9.25,
+            "velocity_vph": 9.24,
             "engagement_pct": 0.82
           }
         },
@@ -9464,7 +9508,7 @@
   },
   "analytics": {
     "summary": {
-      "total_views": 23300,
+      "total_views": 23219,
       "shorts_published": 0,
       "total_likes": 276,
       "avg_retention_pct": 82.5,
@@ -9473,77 +9517,77 @@
       "estimated_revenue_usd": 0.0,
       "health_grade": "A+",
       "total_shorts_published": 31,
-      "last_audit": 1792552714.065623
+      "last_audit": 1792552950.954797
     },
     "top_shorts": [
       {
         "title": "This modifier is actually illegal.",
         "creator": "Ken",
-        "views": 167,
-        "velocity": 130.63,
+        "views": 168,
+        "velocity": 125.34,
         "angle": "Curiosity Gap"
       },
       {
         "title": "The Evo E-Giant is actually unplayable (bad)",
         "creator": "Ken",
         "views": 622,
-        "velocity": 91.68,
+        "velocity": 90.85,
         "angle": "Contrarian Truth"
       },
       {
         "title": "This 1 Card Makes eGiant Unstoppable...",
         "creator": "Ken",
-        "views": 1156,
-        "velocity": 112.41,
+        "views": 1073,
+        "velocity": 103.71,
         "angle": "Curiosity Gap"
       },
       {
         "title": "Why this broken spam strategy actually works...",
         "creator": "Ken",
         "views": 292,
-        "velocity": 24.79,
+        "velocity": 24.66,
         "angle": "Curiosity Gap"
       },
       {
         "title": "Gaming rage isn't about the game at all.",
         "creator": "Ken",
         "views": 147,
-        "velocity": 11.07,
+        "velocity": 11.01,
         "angle": "Contrarian Truth"
       },
       {
         "title": "He actually said this in the lobby... \ud83d\udc80",
         "creator": "Ken",
         "views": 212,
-        "velocity": 8.47,
+        "velocity": 8.45,
         "angle": "Curiosity Gap"
       },
       {
         "title": "Why adults secretly act so boring...",
         "creator": "Ken",
         "views": 367,
-        "velocity": 14.23,
+        "velocity": 14.2,
         "angle": "Curiosity Gap"
       },
       {
         "title": "The illegal Evo Hunter trick nobody is using",
         "creator": "Ken",
-        "views": 530,
-        "velocity": 19.08,
+        "views": 531,
+        "velocity": 19.07,
         "angle": "Curiosity Gap"
       },
       {
         "title": "The Golden Rule of YouTube Comments",
         "creator": "Ken",
         "views": 273,
-        "velocity": 8.87,
+        "velocity": 8.85,
         "angle": "Actionable Protocol"
       },
       {
         "title": "He regret saying this immediately...",
         "creator": "Ken",
         "views": 413,
-        "velocity": 11.54,
+        "velocity": 11.52,
         "angle": "Curiosity Gap"
       }
     ],

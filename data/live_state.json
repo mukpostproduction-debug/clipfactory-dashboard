@@ -1,6 +1,6 @@
 {
-  "timestamp": 1792663289.57032,
-  "sync_time_iso": "2026-10-22T10:01:29Z",
+  "timestamp": 1792663351.634497,
+  "sync_time_iso": "2026-10-22T10:02:31Z",
   "default_channel": "ken_clips_burger",
   "channels": {
     "ken_clips_burger": {
@@ -94,17 +94,17 @@
       "agents": {
         "SCOUT": {
           "status": "working",
-          "current_task": "Queue up to date. Waiting for next daily Ken upload.",
+          "current_task": "Ingested 3 fresh Ken clip candidate(s) into queue.",
           "last_completed_task": "Ingested 5 recent Ken master videos into source pool",
           "recent_logs": [
-            "[05:47:41] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
-            "[05:47:53] Queue up to date. Waiting for next daily Ken upload.",
             "[05:51:11] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
             "[05:51:23] Queue up to date. Waiting for next daily Ken upload.",
             "[05:54:43] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
             "[05:54:54] Queue up to date. Waiting for next daily Ken upload.",
             "[05:58:16] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
-            "[05:58:27] Queue up to date. Waiting for next daily Ken upload."
+            "[05:58:27] Queue up to date. Waiting for next daily Ken upload.",
+            "[06:01:46] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
+            "[06:01:57] Ingested 3 fresh Ken clip candidate(s) into queue."
           ]
         },
         "STRATEGIST": {
@@ -151,14 +151,14 @@
           "current_task": "Upload staged for automatic retry: ken_1792576919_0",
           "last_completed_task": "Uploaded all 3 initial Clash Royale gaming cuts to YouTube (kenclipsburger420)",
           "recent_logs": [
-            "[05:54:54] Generating gaming A/B metadata for slot: 11:30 AM ET (Thu, Oct 22)...",
-            "[05:54:57] Deploying to YouTube (@kenclipsburger420) for release 11:30 AM ET (Thu, Oct 22)...",
-            "[05:55:14] YouTube upload error: ('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
-            "[05:55:14] Upload staged for automatic retry: ken_1792576919_0",
             "[05:58:27] Generating gaming A/B metadata for slot: 11:30 AM ET (Thu, Oct 22)...",
             "[05:58:30] Deploying to YouTube (@kenclipsburger420) for release 11:30 AM ET (Thu, Oct 22)...",
             "[05:58:47] YouTube upload error: ('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
-            "[05:58:47] Upload staged for automatic retry: ken_1792576919_0"
+            "[05:58:47] Upload staged for automatic retry: ken_1792576919_0",
+            "[06:01:57] Generating gaming A/B metadata for slot: 11:30 AM ET (Thu, Oct 22)...",
+            "[06:02:00] Deploying to YouTube (@kenclipsburger420) for release 11:30 AM ET (Thu, Oct 22)...",
+            "[06:02:16] YouTube upload error: ('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
+            "[06:02:16] Upload staged for automatic retry: ken_1792576919_0"
           ]
         },
         "ANALYST": {
@@ -750,6 +750,39 @@
             "duration": 1635,
             "status": "QUEUED",
             "added_at": "2026-10-21T10:01:59Z"
+          },
+          {
+            "id": "ken_1792663317_0",
+            "creator": "Ken",
+            "title": "they killed the game [Highlight]",
+            "source_title": "they killed the game",
+            "url": "https://www.youtube.com/watch?v=BXTF2EPyMx0",
+            "section": "*60-240",
+            "duration": 1076,
+            "status": "QUEUED",
+            "added_at": "2026-10-22T10:01:57Z"
+          },
+          {
+            "id": "ken_1792663317_1",
+            "creator": "Ken",
+            "title": "they killed the game [Clutch Moment]",
+            "source_title": "they killed the game",
+            "url": "https://www.youtube.com/watch?v=BXTF2EPyMx0",
+            "section": "*300-480",
+            "duration": 1076,
+            "status": "QUEUED",
+            "added_at": "2026-10-22T10:01:57Z"
+          },
+          {
+            "id": "ken_1792663317_2",
+            "creator": "Ken",
+            "title": "they killed the game [Overtime Battle]",
+            "source_title": "they killed the game",
+            "url": "https://www.youtube.com/watch?v=BXTF2EPyMx0",
+            "section": "*540-720",
+            "duration": 1076,
+            "status": "QUEUED",
+            "added_at": "2026-10-22T10:01:57Z"
           }
         ],
         "processing": null,
@@ -5731,17 +5764,17 @@
   "agents": {
     "SCOUT": {
       "status": "working",
-      "current_task": "Queue up to date. Waiting for next daily Ken upload.",
+      "current_task": "Ingested 3 fresh Ken clip candidate(s) into queue.",
       "last_completed_task": "Ingested 5 recent Ken master videos into source pool",
       "recent_logs": [
-        "[05:47:41] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
-        "[05:47:53] Queue up to date. Waiting for next daily Ken upload.",
         "[05:51:11] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
         "[05:51:23] Queue up to date. Waiting for next daily Ken upload.",
         "[05:54:43] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
         "[05:54:54] Queue up to date. Waiting for next daily Ken upload.",
         "[05:58:16] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
-        "[05:58:27] Queue up to date. Waiting for next daily Ken upload."
+        "[05:58:27] Queue up to date. Waiting for next daily Ken upload.",
+        "[06:01:46] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
+        "[06:01:57] Ingested 3 fresh Ken clip candidate(s) into queue."
       ]
     },
     "STRATEGIST": {
@@ -5788,14 +5821,14 @@
       "current_task": "Upload staged for automatic retry: ken_1792576919_0",
       "last_completed_task": "Uploaded all 3 initial Clash Royale gaming cuts to YouTube (kenclipsburger420)",
       "recent_logs": [
-        "[05:54:54] Generating gaming A/B metadata for slot: 11:30 AM ET (Thu, Oct 22)...",
-        "[05:54:57] Deploying to YouTube (@kenclipsburger420) for release 11:30 AM ET (Thu, Oct 22)...",
-        "[05:55:14] YouTube upload error: ('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
-        "[05:55:14] Upload staged for automatic retry: ken_1792576919_0",
         "[05:58:27] Generating gaming A/B metadata for slot: 11:30 AM ET (Thu, Oct 22)...",
         "[05:58:30] Deploying to YouTube (@kenclipsburger420) for release 11:30 AM ET (Thu, Oct 22)...",
         "[05:58:47] YouTube upload error: ('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
-        "[05:58:47] Upload staged for automatic retry: ken_1792576919_0"
+        "[05:58:47] Upload staged for automatic retry: ken_1792576919_0",
+        "[06:01:57] Generating gaming A/B metadata for slot: 11:30 AM ET (Thu, Oct 22)...",
+        "[06:02:00] Deploying to YouTube (@kenclipsburger420) for release 11:30 AM ET (Thu, Oct 22)...",
+        "[06:02:16] YouTube upload error: ('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
+        "[06:02:16] Upload staged for automatic retry: ken_1792576919_0"
       ]
     },
     "ANALYST": {
@@ -6387,6 +6420,39 @@
         "duration": 1635,
         "status": "QUEUED",
         "added_at": "2026-10-21T10:01:59Z"
+      },
+      {
+        "id": "ken_1792663317_0",
+        "creator": "Ken",
+        "title": "they killed the game [Highlight]",
+        "source_title": "they killed the game",
+        "url": "https://www.youtube.com/watch?v=BXTF2EPyMx0",
+        "section": "*60-240",
+        "duration": 1076,
+        "status": "QUEUED",
+        "added_at": "2026-10-22T10:01:57Z"
+      },
+      {
+        "id": "ken_1792663317_1",
+        "creator": "Ken",
+        "title": "they killed the game [Clutch Moment]",
+        "source_title": "they killed the game",
+        "url": "https://www.youtube.com/watch?v=BXTF2EPyMx0",
+        "section": "*300-480",
+        "duration": 1076,
+        "status": "QUEUED",
+        "added_at": "2026-10-22T10:01:57Z"
+      },
+      {
+        "id": "ken_1792663317_2",
+        "creator": "Ken",
+        "title": "they killed the game [Overtime Battle]",
+        "source_title": "they killed the game",
+        "url": "https://www.youtube.com/watch?v=BXTF2EPyMx0",
+        "section": "*540-720",
+        "duration": 1076,
+        "status": "QUEUED",
+        "added_at": "2026-10-22T10:01:57Z"
       }
     ],
     "processing": null,

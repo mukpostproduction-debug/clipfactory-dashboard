@@ -1,6 +1,6 @@
 {
-  "timestamp": 1792774809.7370229,
-  "sync_time_iso": "2026-10-23T17:00:09Z",
+  "timestamp": 1792774871.776607,
+  "sync_time_iso": "2026-10-23T17:01:11Z",
   "default_channel": "ken_clips_burger",
   "channels": {
     "ken_clips_burger": {
@@ -148,17 +148,17 @@
         },
         "PUBLISHER": {
           "status": "working",
-          "current_task": "Deploying to YouTube (@kenclipsburger420) for release 04:30 PM ET (Fri, Oct 23)...",
+          "current_task": "Upload staged for automatic retry: ken_1792576919_1",
           "last_completed_task": "Uploaded all 3 initial Clash Royale gaming cuts to YouTube (kenclipsburger420)",
           "recent_logs": [
-            "[12:52:53] YouTube upload error: ('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
-            "[12:52:53] Upload staged for automatic retry: ken_1792576919_1",
             "[12:56:11] Generating gaming A/B metadata for slot: 04:30 PM ET (Fri, Oct 23)...",
             "[12:56:13] Deploying to YouTube (@kenclipsburger420) for release 04:30 PM ET (Fri, Oct 23)...",
             "[12:56:30] YouTube upload error: ('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
             "[12:56:30] Upload staged for automatic retry: ken_1792576919_1",
             "[12:59:45] Generating gaming A/B metadata for slot: 04:30 PM ET (Fri, Oct 23)...",
-            "[12:59:55] Deploying to YouTube (@kenclipsburger420) for release 04:30 PM ET (Fri, Oct 23)..."
+            "[12:59:55] Deploying to YouTube (@kenclipsburger420) for release 04:30 PM ET (Fri, Oct 23)...",
+            "[13:00:11] YouTube upload error: ('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
+            "[13:00:11] Upload staged for automatic retry: ken_1792576919_1"
           ]
         },
         "ANALYST": {
@@ -5884,17 +5884,17 @@
     },
     "PUBLISHER": {
       "status": "working",
-      "current_task": "Deploying to YouTube (@kenclipsburger420) for release 04:30 PM ET (Fri, Oct 23)...",
+      "current_task": "Upload staged for automatic retry: ken_1792576919_1",
       "last_completed_task": "Uploaded all 3 initial Clash Royale gaming cuts to YouTube (kenclipsburger420)",
       "recent_logs": [
-        "[12:52:53] YouTube upload error: ('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
-        "[12:52:53] Upload staged for automatic retry: ken_1792576919_1",
         "[12:56:11] Generating gaming A/B metadata for slot: 04:30 PM ET (Fri, Oct 23)...",
         "[12:56:13] Deploying to YouTube (@kenclipsburger420) for release 04:30 PM ET (Fri, Oct 23)...",
         "[12:56:30] YouTube upload error: ('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
         "[12:56:30] Upload staged for automatic retry: ken_1792576919_1",
         "[12:59:45] Generating gaming A/B metadata for slot: 04:30 PM ET (Fri, Oct 23)...",
-        "[12:59:55] Deploying to YouTube (@kenclipsburger420) for release 04:30 PM ET (Fri, Oct 23)..."
+        "[12:59:55] Deploying to YouTube (@kenclipsburger420) for release 04:30 PM ET (Fri, Oct 23)...",
+        "[13:00:11] YouTube upload error: ('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
+        "[13:00:11] Upload staged for automatic retry: ken_1792576919_1"
       ]
     },
     "ANALYST": {

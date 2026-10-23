@@ -1,6 +1,6 @@
 {
-  "timestamp": 1792790092.6883252,
-  "sync_time_iso": "2026-10-23T21:14:52Z",
+  "timestamp": 1792790151.758048,
+  "sync_time_iso": "2026-10-23T21:15:51Z",
   "default_channel": "ken_clips_burger",
   "channels": {
     "ken_clips_burger": {
@@ -148,17 +148,17 @@
         },
         "PUBLISHER": {
           "status": "working",
-          "current_task": "Short SCHEDULED on YouTube: 0xK7mmvlyYY (09:30 PM ET (Fri, Oct 23))",
+          "current_task": "Short SCHEDULED on YouTube: fiwX1aRfhEg (11:30 AM ET (Sat, Oct 24))",
           "last_completed_task": "Uploaded all 3 initial Clash Royale gaming cuts to YouTube (kenclipsburger420)",
           "recent_logs": [
-            "[17:06:15] Deploying to YouTube (@kenclipsburger420) for release 09:30 PM ET (Fri, Oct 23)...",
-            "[17:06:47] Generating gaming A/B metadata for slot: 09:30 PM ET (Fri, Oct 23)...",
-            "[17:06:50] Deploying to YouTube (@kenclipsburger420) for release 09:30 PM ET (Fri, Oct 23)...",
             "[17:07:07] YouTube upload error: ('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
             "[17:07:07] Upload staged for automatic retry: ken_1792576919_1",
             "[17:10:30] Generating gaming A/B metadata for slot: 09:30 PM ET (Fri, Oct 23)...",
             "[17:10:33] Deploying to YouTube (@kenclipsburger420) for release 09:30 PM ET (Fri, Oct 23)...",
-            "[17:10:40] Short SCHEDULED on YouTube: 0xK7mmvlyYY (09:30 PM ET (Fri, Oct 23))"
+            "[17:10:40] Short SCHEDULED on YouTube: 0xK7mmvlyYY (09:30 PM ET (Fri, Oct 23))",
+            "[17:15:39] Generating gaming A/B metadata for slot: 11:30 AM ET (Sat, Oct 24)...",
+            "[17:15:41] Deploying to YouTube (@kenclipsburger420) for release 11:30 AM ET (Sat, Oct 24)...",
+            "[17:15:51] Short SCHEDULED on YouTube: fiwX1aRfhEg (11:30 AM ET (Sat, Oct 24))"
           ]
         },
         "ANALYST": {
@@ -730,17 +730,6 @@
             "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792576919_0_master.mp4"
           },
           {
-            "id": "ken_1792576919_2",
-            "creator": "Ken",
-            "title": "thanks supercell [Overtime Battle]",
-            "source_title": "thanks supercell",
-            "url": "https://www.youtube.com/watch?v=VgIIltGHbHU",
-            "section": "*540-720",
-            "duration": 1635,
-            "status": "PROCESSING",
-            "added_at": "2026-10-21T10:01:59Z"
-          },
-          {
             "id": "ken_1792663317_0",
             "creator": "Ken",
             "title": "they killed the game [Highlight]",
@@ -1121,6 +1110,19 @@
             "added_at": "2026-10-21T10:01:59Z",
             "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792576919_1_master.mp4",
             "youtube_video_id": "0xK7mmvlyYY"
+          },
+          {
+            "id": "ken_1792576919_2",
+            "creator": "Ken",
+            "title": "thanks supercell [Overtime Battle]",
+            "source_title": "thanks supercell",
+            "url": "https://www.youtube.com/watch?v=VgIIltGHbHU",
+            "section": "*540-720",
+            "duration": 1635,
+            "status": "COMPLETED",
+            "added_at": "2026-10-21T10:01:59Z",
+            "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792576919_2_master.mp4",
+            "youtube_video_id": "fiwX1aRfhEg"
           }
         ]
       },
@@ -1179,6 +1181,72 @@
                   "variant": "A",
                   "title": "How did he survive this clutch? \ud83e\udd2f",
                   "deployed_at": 1792789833.573917,
+                  "reason": "Initial A/B test deployment"
+                }
+              ],
+              "metrics": {
+                "views": 0,
+                "likes": 0,
+                "comments": 0,
+                "retention": 0.0,
+                "ctr": 0.0
+              }
+            },
+            "reframed": "gaming_split"
+          },
+          {
+            "id": "ken_1792576919_2",
+            "source_video": "thanks supercell [Overtime Battle]",
+            "creator": "Ken",
+            "title": "This lightning glitch is actually illegal...",
+            "publish_at": "2026-10-24T15:30:00Z",
+            "status": "SCHEDULED",
+            "uploaded": true,
+            "youtube_video_id": "fiwX1aRfhEg",
+            "youtube_url": "https://www.youtube.com/shorts/fiwX1aRfhEg",
+            "video_file": "ken_1792576919_2_master.mp4",
+            "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792576919_2_master.mp4",
+            "duration": 30.07,
+            "hook_summary": "The creator marvels at a game-breaking royal giant and lightning modifier interaction that leaves the opponent completely helpless.",
+            "metadata": {
+              "title": "This lightning glitch is actually illegal...",
+              "description": "How does a Royal Giant hit buildings across the entire map? Watch closely as this absurd game-breaking modifier completely breaks the game and leaves the opponent helpless.\n\n\u2022 Witness the exact moment the Royal Giant range modifier snaps across the map\n\u2022 Learn how unexpected spell and troop interactions create game-breaking states\n\u2022 Analyze the opponent's helpless reaction to an unwinnable setup\n\nFeaturing: Ken\n\nIs this the most broken mechanic ever added to the game or just peak luck?\n\n#shorts #clashroyale #gaming #ken #supercell #mobilegaming",
+              "tags": [
+                "clash royale",
+                "ken clash royale",
+                "royal giant",
+                "lightning modifier",
+                "clash royale funny moments",
+                "clash royale gameplay",
+                "mobile gaming",
+                "supercell",
+                "clash royale shorts"
+              ],
+              "pinned_comment": "Be honest: if your opponent did this to you, are you instantly closing the app or watching the replay?",
+              "ab_variants": {
+                "A": {
+                  "angle": "Curiosity Gap",
+                  "title": "This lightning glitch is actually illegal...",
+                  "description": "How does a Royal Giant hit buildings across the entire map? Watch closely as this absurd game-breaking modifier completely breaks the game and leaves the opponent helpless.\n\n\u2022 Witness the exact moment the Royal Giant range modifier snaps across the map\n\u2022 Learn how unexpected spell and troop interactions create game-breaking states\n\u2022 Analyze the opponent's helpless reaction to an unwinnable setup\n\nFeaturing: Ken\n\nIs this the most broken mechanic ever added to the game or just peak luck?\n\n#shorts #clashroyale #gaming #ken #supercell #mobilegaming"
+                },
+                "B": {
+                  "angle": "Contrarian Truth",
+                  "title": "Stop playing normal matches until you see this",
+                  "description": "Everyone thinks they know how to counter the Royal Giant, but this insane modifier completely shatters the meta and redefines how lightning spells work.\n\n\u2022 Discover why traditional positioning fails against this specific modifier\n\u2022 See how a single troop can control the entire map simultaneously\n\u2022 Understand why top players are calling this interaction completely suspicious\n\nFeaturing: Ken\n\nWould you have uninstalled the game if this happened to you?\n\n#shorts #clashroyale #gaming #ken #supercell #mobilegaming"
+                },
+                "C": {
+                  "angle": "Actionable Protocol",
+                  "title": "How to pull off the ultimate cross-map glitch",
+                  "description": "Want to completely confuse your opponents? Here is the blueprint for executing the most absurd cross-map Royal Giant lightning interaction in the current meta.\n\n\u2022 Step-by-step breakdown of setting up the ultimate troop placement\n\u2022 Maximize your spell value by abusing broken map ranges\n\u2022 Dominate your ladder matches using unexpected game physics\n\nFeaturing: Ken\n\nHave you ever successfully pulled off a cross-map shot like this in a match?\n\n#shorts #clashroyale #gaming #ken #supercell #mobilegaming"
+                }
+              },
+              "active_variant": "A",
+              "test_status": "ACTIVE_TEST",
+              "variant_history": [
+                {
+                  "variant": "A",
+                  "title": "This lightning glitch is actually illegal...",
+                  "deployed_at": 1792790141.9923499,
                   "reason": "Initial A/B test deployment"
                 }
               ],
@@ -5979,17 +6047,17 @@
     },
     "PUBLISHER": {
       "status": "working",
-      "current_task": "Short SCHEDULED on YouTube: 0xK7mmvlyYY (09:30 PM ET (Fri, Oct 23))",
+      "current_task": "Short SCHEDULED on YouTube: fiwX1aRfhEg (11:30 AM ET (Sat, Oct 24))",
       "last_completed_task": "Uploaded all 3 initial Clash Royale gaming cuts to YouTube (kenclipsburger420)",
       "recent_logs": [
-        "[17:06:15] Deploying to YouTube (@kenclipsburger420) for release 09:30 PM ET (Fri, Oct 23)...",
-        "[17:06:47] Generating gaming A/B metadata for slot: 09:30 PM ET (Fri, Oct 23)...",
-        "[17:06:50] Deploying to YouTube (@kenclipsburger420) for release 09:30 PM ET (Fri, Oct 23)...",
         "[17:07:07] YouTube upload error: ('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
         "[17:07:07] Upload staged for automatic retry: ken_1792576919_1",
         "[17:10:30] Generating gaming A/B metadata for slot: 09:30 PM ET (Fri, Oct 23)...",
         "[17:10:33] Deploying to YouTube (@kenclipsburger420) for release 09:30 PM ET (Fri, Oct 23)...",
-        "[17:10:40] Short SCHEDULED on YouTube: 0xK7mmvlyYY (09:30 PM ET (Fri, Oct 23))"
+        "[17:10:40] Short SCHEDULED on YouTube: 0xK7mmvlyYY (09:30 PM ET (Fri, Oct 23))",
+        "[17:15:39] Generating gaming A/B metadata for slot: 11:30 AM ET (Sat, Oct 24)...",
+        "[17:15:41] Deploying to YouTube (@kenclipsburger420) for release 11:30 AM ET (Sat, Oct 24)...",
+        "[17:15:51] Short SCHEDULED on YouTube: fiwX1aRfhEg (11:30 AM ET (Sat, Oct 24))"
       ]
     },
     "ANALYST": {
@@ -6561,17 +6629,6 @@
         "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792576919_0_master.mp4"
       },
       {
-        "id": "ken_1792576919_2",
-        "creator": "Ken",
-        "title": "thanks supercell [Overtime Battle]",
-        "source_title": "thanks supercell",
-        "url": "https://www.youtube.com/watch?v=VgIIltGHbHU",
-        "section": "*540-720",
-        "duration": 1635,
-        "status": "PROCESSING",
-        "added_at": "2026-10-21T10:01:59Z"
-      },
-      {
         "id": "ken_1792663317_0",
         "creator": "Ken",
         "title": "they killed the game [Highlight]",
@@ -6952,6 +7009,19 @@
         "added_at": "2026-10-21T10:01:59Z",
         "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792576919_1_master.mp4",
         "youtube_video_id": "0xK7mmvlyYY"
+      },
+      {
+        "id": "ken_1792576919_2",
+        "creator": "Ken",
+        "title": "thanks supercell [Overtime Battle]",
+        "source_title": "thanks supercell",
+        "url": "https://www.youtube.com/watch?v=VgIIltGHbHU",
+        "section": "*540-720",
+        "duration": 1635,
+        "status": "COMPLETED",
+        "added_at": "2026-10-21T10:01:59Z",
+        "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792576919_2_master.mp4",
+        "youtube_video_id": "fiwX1aRfhEg"
       }
     ]
   },
@@ -7010,6 +7080,72 @@
               "variant": "A",
               "title": "How did he survive this clutch? \ud83e\udd2f",
               "deployed_at": 1792789833.573917,
+              "reason": "Initial A/B test deployment"
+            }
+          ],
+          "metrics": {
+            "views": 0,
+            "likes": 0,
+            "comments": 0,
+            "retention": 0.0,
+            "ctr": 0.0
+          }
+        },
+        "reframed": "gaming_split"
+      },
+      {
+        "id": "ken_1792576919_2",
+        "source_video": "thanks supercell [Overtime Battle]",
+        "creator": "Ken",
+        "title": "This lightning glitch is actually illegal...",
+        "publish_at": "2026-10-24T15:30:00Z",
+        "status": "SCHEDULED",
+        "uploaded": true,
+        "youtube_video_id": "fiwX1aRfhEg",
+        "youtube_url": "https://www.youtube.com/shorts/fiwX1aRfhEg",
+        "video_file": "ken_1792576919_2_master.mp4",
+        "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792576919_2_master.mp4",
+        "duration": 30.07,
+        "hook_summary": "The creator marvels at a game-breaking royal giant and lightning modifier interaction that leaves the opponent completely helpless.",
+        "metadata": {
+          "title": "This lightning glitch is actually illegal...",
+          "description": "How does a Royal Giant hit buildings across the entire map? Watch closely as this absurd game-breaking modifier completely breaks the game and leaves the opponent helpless.\n\n\u2022 Witness the exact moment the Royal Giant range modifier snaps across the map\n\u2022 Learn how unexpected spell and troop interactions create game-breaking states\n\u2022 Analyze the opponent's helpless reaction to an unwinnable setup\n\nFeaturing: Ken\n\nIs this the most broken mechanic ever added to the game or just peak luck?\n\n#shorts #clashroyale #gaming #ken #supercell #mobilegaming",
+          "tags": [
+            "clash royale",
+            "ken clash royale",
+            "royal giant",
+            "lightning modifier",
+            "clash royale funny moments",
+            "clash royale gameplay",
+            "mobile gaming",
+            "supercell",
+            "clash royale shorts"
+          ],
+          "pinned_comment": "Be honest: if your opponent did this to you, are you instantly closing the app or watching the replay?",
+          "ab_variants": {
+            "A": {
+              "angle": "Curiosity Gap",
+              "title": "This lightning glitch is actually illegal...",
+              "description": "How does a Royal Giant hit buildings across the entire map? Watch closely as this absurd game-breaking modifier completely breaks the game and leaves the opponent helpless.\n\n\u2022 Witness the exact moment the Royal Giant range modifier snaps across the map\n\u2022 Learn how unexpected spell and troop interactions create game-breaking states\n\u2022 Analyze the opponent's helpless reaction to an unwinnable setup\n\nFeaturing: Ken\n\nIs this the most broken mechanic ever added to the game or just peak luck?\n\n#shorts #clashroyale #gaming #ken #supercell #mobilegaming"
+            },
+            "B": {
+              "angle": "Contrarian Truth",
+              "title": "Stop playing normal matches until you see this",
+              "description": "Everyone thinks they know how to counter the Royal Giant, but this insane modifier completely shatters the meta and redefines how lightning spells work.\n\n\u2022 Discover why traditional positioning fails against this specific modifier\n\u2022 See how a single troop can control the entire map simultaneously\n\u2022 Understand why top players are calling this interaction completely suspicious\n\nFeaturing: Ken\n\nWould you have uninstalled the game if this happened to you?\n\n#shorts #clashroyale #gaming #ken #supercell #mobilegaming"
+            },
+            "C": {
+              "angle": "Actionable Protocol",
+              "title": "How to pull off the ultimate cross-map glitch",
+              "description": "Want to completely confuse your opponents? Here is the blueprint for executing the most absurd cross-map Royal Giant lightning interaction in the current meta.\n\n\u2022 Step-by-step breakdown of setting up the ultimate troop placement\n\u2022 Maximize your spell value by abusing broken map ranges\n\u2022 Dominate your ladder matches using unexpected game physics\n\nFeaturing: Ken\n\nHave you ever successfully pulled off a cross-map shot like this in a match?\n\n#shorts #clashroyale #gaming #ken #supercell #mobilegaming"
+            }
+          },
+          "active_variant": "A",
+          "test_status": "ACTIVE_TEST",
+          "variant_history": [
+            {
+              "variant": "A",
+              "title": "This lightning glitch is actually illegal...",
+              "deployed_at": 1792790141.9923499,
               "reason": "Initial A/B test deployment"
             }
           ],

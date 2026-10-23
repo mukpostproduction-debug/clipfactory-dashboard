@@ -1,6 +1,6 @@
 {
-  "timestamp": 1792729640.0920541,
-  "sync_time_iso": "2026-10-23T04:27:20Z",
+  "timestamp": 1792729701.7211552,
+  "sync_time_iso": "2026-10-23T04:28:21Z",
   "default_channel": "ken_clips_burger",
   "channels": {
     "ken_clips_burger": {
@@ -97,14 +97,14 @@
           "current_task": "Queue up to date. Waiting for next daily Ken upload.",
           "last_completed_task": "Ingested 5 recent Ken master videos into source pool",
           "recent_logs": [
-            "[00:14:12] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
-            "[00:14:24] Queue up to date. Waiting for next daily Ken upload.",
             "[00:17:53] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
             "[00:18:06] Queue up to date. Waiting for next daily Ken upload.",
             "[00:21:28] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
             "[00:21:41] Queue up to date. Waiting for next daily Ken upload.",
             "[00:25:01] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
-            "[00:25:13] Queue up to date. Waiting for next daily Ken upload."
+            "[00:25:13] Queue up to date. Waiting for next daily Ken upload.",
+            "[00:27:20] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
+            "[00:27:31] Queue up to date. Waiting for next daily Ken upload."
           ]
         },
         "STRATEGIST": {
@@ -124,17 +124,17 @@
         },
         "EDITOR": {
           "status": "working",
-          "current_task": "Rendering gaming_split Short with captions: thanks supercell [Highlight]",
+          "current_task": "Render error: Command '['say', '-r', '175', '-o', '/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/audio/ken_1792576919_0_commentary.aiff', 'Which creator has helped you through your toughest moments?']' returned non-zero exit status 1.",
           "last_completed_task": "Rendered 'hp buffed' rage highlight with kinetic pop captions & commentary",
           "recent_logs": [
-            "[18:26:57] Downloading 1080p highlight segment (*300-480) for: welcome to hell [Clutch Moment]...",
-            "[18:27:06] Rendering gaming_split Short with captions: welcome to hell [Clutch Moment",
-            "[18:30:39] Downloading 1080p highlight segment (*300-480) for: new balance changes [Clutch Moment]...",
             "[18:30:52] Rendering gaming_split Short with captions: new balance changes [Clutch Mo",
             "[18:34:21] Downloading 1080p highlight segment (*300-480) for: new balance changes [Clutch Moment]...",
             "[18:34:32] Rendering gaming_split Short with captions: new balance changes [Clutch Mo",
             "[06:01:59] Downloading 1080p highlight segment (*60-240) for: thanks supercell [Highlight]...",
-            "[06:02:09] Rendering gaming_split Short with captions: thanks supercell [Highlight]"
+            "[06:02:09] Rendering gaming_split Short with captions: thanks supercell [Highlight]",
+            "[00:27:31] Downloading 1080p highlight segment (*60-240) for: thanks supercell [Highlight]...",
+            "[00:27:45] Rendering gaming_split Short with captions: thanks supercell [Highlight]",
+            "[00:28:11] Render error: Command '['say', '-r', '175', '-o', '/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/audio/ken_1792576919_0_commentary.aiff', 'Which creator has helped you through your toughest moments?']' returned non-zero exit status 1."
           ]
         },
         "COMMENTATOR": {
@@ -725,7 +725,7 @@
             "url": "https://www.youtube.com/watch?v=VgIIltGHbHU",
             "section": "*60-240",
             "duration": 1635,
-            "status": "RETRY_UPLOAD",
+            "status": "FAILED_RENDER",
             "added_at": "2026-10-21T10:01:59Z",
             "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792576919_0_master.mp4"
           },
@@ -5803,14 +5803,14 @@
       "current_task": "Queue up to date. Waiting for next daily Ken upload.",
       "last_completed_task": "Ingested 5 recent Ken master videos into source pool",
       "recent_logs": [
-        "[00:14:12] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
-        "[00:14:24] Queue up to date. Waiting for next daily Ken upload.",
         "[00:17:53] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
         "[00:18:06] Queue up to date. Waiting for next daily Ken upload.",
         "[00:21:28] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
         "[00:21:41] Queue up to date. Waiting for next daily Ken upload.",
         "[00:25:01] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
-        "[00:25:13] Queue up to date. Waiting for next daily Ken upload."
+        "[00:25:13] Queue up to date. Waiting for next daily Ken upload.",
+        "[00:27:20] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
+        "[00:27:31] Queue up to date. Waiting for next daily Ken upload."
       ]
     },
     "STRATEGIST": {
@@ -5830,17 +5830,17 @@
     },
     "EDITOR": {
       "status": "working",
-      "current_task": "Rendering gaming_split Short with captions: thanks supercell [Highlight]",
+      "current_task": "Render error: Command '['say', '-r', '175', '-o', '/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/audio/ken_1792576919_0_commentary.aiff', 'Which creator has helped you through your toughest moments?']' returned non-zero exit status 1.",
       "last_completed_task": "Rendered 'hp buffed' rage highlight with kinetic pop captions & commentary",
       "recent_logs": [
-        "[18:26:57] Downloading 1080p highlight segment (*300-480) for: welcome to hell [Clutch Moment]...",
-        "[18:27:06] Rendering gaming_split Short with captions: welcome to hell [Clutch Moment",
-        "[18:30:39] Downloading 1080p highlight segment (*300-480) for: new balance changes [Clutch Moment]...",
         "[18:30:52] Rendering gaming_split Short with captions: new balance changes [Clutch Mo",
         "[18:34:21] Downloading 1080p highlight segment (*300-480) for: new balance changes [Clutch Moment]...",
         "[18:34:32] Rendering gaming_split Short with captions: new balance changes [Clutch Mo",
         "[06:01:59] Downloading 1080p highlight segment (*60-240) for: thanks supercell [Highlight]...",
-        "[06:02:09] Rendering gaming_split Short with captions: thanks supercell [Highlight]"
+        "[06:02:09] Rendering gaming_split Short with captions: thanks supercell [Highlight]",
+        "[00:27:31] Downloading 1080p highlight segment (*60-240) for: thanks supercell [Highlight]...",
+        "[00:27:45] Rendering gaming_split Short with captions: thanks supercell [Highlight]",
+        "[00:28:11] Render error: Command '['say', '-r', '175', '-o', '/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/audio/ken_1792576919_0_commentary.aiff', 'Which creator has helped you through your toughest moments?']' returned non-zero exit status 1."
       ]
     },
     "COMMENTATOR": {
@@ -6431,7 +6431,7 @@
         "url": "https://www.youtube.com/watch?v=VgIIltGHbHU",
         "section": "*60-240",
         "duration": 1635,
-        "status": "RETRY_UPLOAD",
+        "status": "FAILED_RENDER",
         "added_at": "2026-10-21T10:01:59Z",
         "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792576919_0_master.mp4"
       },

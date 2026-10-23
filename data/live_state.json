@@ -1,6 +1,6 @@
 {
-  "timestamp": 1792790474.155013,
-  "sync_time_iso": "2026-10-23T21:21:14Z",
+  "timestamp": 1792790536.91607,
+  "sync_time_iso": "2026-10-23T21:22:16Z",
   "default_channel": "ken_clips_burger",
   "channels": {
     "ken_clips_burger": {
@@ -97,14 +97,14 @@
           "current_task": "Queue up to date. Waiting for next daily Ken upload.",
           "last_completed_task": "Ingested 5 recent Ken master videos into source pool",
           "recent_logs": [
-            "[17:06:34] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
-            "[17:06:47] Queue up to date. Waiting for next daily Ken upload.",
             "[17:10:15] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
             "[17:10:30] Queue up to date. Waiting for next daily Ken upload.",
             "[17:12:42] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
             "[17:12:55] Queue up to date. Waiting for next daily Ken upload.",
             "[17:18:00] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
-            "[17:18:13] Queue up to date. Waiting for next daily Ken upload."
+            "[17:18:13] Queue up to date. Waiting for next daily Ken upload.",
+            "[17:22:01] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
+            "[17:22:14] Queue up to date. Waiting for next daily Ken upload."
           ]
         },
         "STRATEGIST": {
@@ -124,17 +124,17 @@
         },
         "EDITOR": {
           "status": "working",
-          "current_task": "Rendering gaming_split Short with captions: they killed the game [Highligh",
+          "current_task": "Downloading 1080p highlight segment (*300-480) for: they killed the game [Clutch Moment...",
           "last_completed_task": "Rendered 'hp buffed' rage highlight with kinetic pop captions & commentary",
           "recent_logs": [
-            "[00:27:45] Rendering gaming_split Short with captions: thanks supercell [Highlight]",
             "[00:28:11] Render error: Command '['say', '-r', '175', '-o', '/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/audio/ken_1792576919_0_commentary.aiff', 'Which creator has helped you through your toughest moments?']' returned non-zero exit status 1.",
             "[00:31:32] Downloading 1080p highlight segment (*300-480) for: thanks supercell [Clutch Moment]...",
             "[00:31:47] Rendering gaming_split Short with captions: thanks supercell [Clutch Momen",
             "[17:12:55] Downloading 1080p highlight segment (*540-720) for: thanks supercell [Overtime Battle]...",
             "[17:13:12] Rendering gaming_split Short with captions: thanks supercell [Overtime Bat",
             "[17:18:13] Downloading 1080p highlight segment (*60-240) for: they killed the game [Highlight]...",
-            "[17:18:35] Rendering gaming_split Short with captions: they killed the game [Highligh"
+            "[17:18:35] Rendering gaming_split Short with captions: they killed the game [Highligh",
+            "[17:22:14] Downloading 1080p highlight segment (*300-480) for: they killed the game [Clutch Moment..."
           ]
         },
         "COMMENTATOR": {
@@ -737,7 +737,7 @@
             "url": "https://www.youtube.com/watch?v=BXTF2EPyMx0",
             "section": "*300-480",
             "duration": 1076,
-            "status": "QUEUED",
+            "status": "PROCESSING",
             "added_at": "2026-10-22T10:01:57Z"
           },
           {
@@ -6064,14 +6064,14 @@
       "current_task": "Queue up to date. Waiting for next daily Ken upload.",
       "last_completed_task": "Ingested 5 recent Ken master videos into source pool",
       "recent_logs": [
-        "[17:06:34] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
-        "[17:06:47] Queue up to date. Waiting for next daily Ken upload.",
         "[17:10:15] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
         "[17:10:30] Queue up to date. Waiting for next daily Ken upload.",
         "[17:12:42] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
         "[17:12:55] Queue up to date. Waiting for next daily Ken upload.",
         "[17:18:00] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
-        "[17:18:13] Queue up to date. Waiting for next daily Ken upload."
+        "[17:18:13] Queue up to date. Waiting for next daily Ken upload.",
+        "[17:22:01] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
+        "[17:22:14] Queue up to date. Waiting for next daily Ken upload."
       ]
     },
     "STRATEGIST": {
@@ -6091,17 +6091,17 @@
     },
     "EDITOR": {
       "status": "working",
-      "current_task": "Rendering gaming_split Short with captions: they killed the game [Highligh",
+      "current_task": "Downloading 1080p highlight segment (*300-480) for: they killed the game [Clutch Moment...",
       "last_completed_task": "Rendered 'hp buffed' rage highlight with kinetic pop captions & commentary",
       "recent_logs": [
-        "[00:27:45] Rendering gaming_split Short with captions: thanks supercell [Highlight]",
         "[00:28:11] Render error: Command '['say', '-r', '175', '-o', '/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/audio/ken_1792576919_0_commentary.aiff', 'Which creator has helped you through your toughest moments?']' returned non-zero exit status 1.",
         "[00:31:32] Downloading 1080p highlight segment (*300-480) for: thanks supercell [Clutch Moment]...",
         "[00:31:47] Rendering gaming_split Short with captions: thanks supercell [Clutch Momen",
         "[17:12:55] Downloading 1080p highlight segment (*540-720) for: thanks supercell [Overtime Battle]...",
         "[17:13:12] Rendering gaming_split Short with captions: thanks supercell [Overtime Bat",
         "[17:18:13] Downloading 1080p highlight segment (*60-240) for: they killed the game [Highlight]...",
-        "[17:18:35] Rendering gaming_split Short with captions: they killed the game [Highligh"
+        "[17:18:35] Rendering gaming_split Short with captions: they killed the game [Highligh",
+        "[17:22:14] Downloading 1080p highlight segment (*300-480) for: they killed the game [Clutch Moment..."
       ]
     },
     "COMMENTATOR": {
@@ -6704,7 +6704,7 @@
         "url": "https://www.youtube.com/watch?v=BXTF2EPyMx0",
         "section": "*300-480",
         "duration": 1076,
-        "status": "QUEUED",
+        "status": "PROCESSING",
         "added_at": "2026-10-22T10:01:57Z"
       },
       {

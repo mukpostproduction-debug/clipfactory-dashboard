@@ -1,6 +1,6 @@
 {
-  "timestamp": 1792790970.7301152,
-  "sync_time_iso": "2026-10-23T21:29:30Z",
+  "timestamp": 1792790994.226898,
+  "sync_time_iso": "2026-10-23T21:29:54Z",
   "default_channel": "ken_clips_burger",
   "channels": {
     "ken_clips_burger": {
@@ -148,17 +148,17 @@
         },
         "PUBLISHER": {
           "status": "working",
-          "current_task": "Short SCHEDULED on YouTube: OKG3j233Uac (11:30 AM ET (Sun, Oct 25))",
+          "current_task": "Short SCHEDULED on YouTube: kSh69WqVzNI (04:30 PM ET (Sun, Oct 25))",
           "last_completed_task": "Uploaded all 3 initial Clash Royale gaming cuts to YouTube (kenclipsburger420)",
           "recent_logs": [
-            "[17:19:53] Deploying to YouTube (@kenclipsburger420) for release 04:30 PM ET (Sat, Oct 24)...",
-            "[17:19:56] Short SCHEDULED on YouTube: tFp1jfzSrhI (04:30 PM ET (Sat, Oct 24))",
-            "[17:23:13] Generating gaming A/B metadata for slot: 09:30 PM ET (Sat, Oct 24)...",
             "[17:23:16] Deploying to YouTube (@kenclipsburger420) for release 09:30 PM ET (Sat, Oct 24)...",
             "[17:23:19] Short SCHEDULED on YouTube: XcLwVLXufjY (09:30 PM ET (Sat, Oct 24))",
             "[17:26:36] Generating gaming A/B metadata for slot: 11:30 AM ET (Sun, Oct 25)...",
             "[17:26:38] Deploying to YouTube (@kenclipsburger420) for release 11:30 AM ET (Sun, Oct 25)...",
-            "[17:26:41] Short SCHEDULED on YouTube: OKG3j233Uac (11:30 AM ET (Sun, Oct 25))"
+            "[17:26:41] Short SCHEDULED on YouTube: OKG3j233Uac (11:30 AM ET (Sun, Oct 25))",
+            "[17:29:46] Generating gaming A/B metadata for slot: 04:30 PM ET (Sun, Oct 25)...",
+            "[17:29:49] Deploying to YouTube (@kenclipsburger420) for release 04:30 PM ET (Sun, Oct 25)...",
+            "[17:29:54] Short SCHEDULED on YouTube: kSh69WqVzNI (04:30 PM ET (Sun, Oct 25))"
           ]
         },
         "ANALYST": {
@@ -728,17 +728,6 @@
             "status": "FAILED_RENDER",
             "added_at": "2026-10-21T10:01:59Z",
             "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792576919_0_master.mp4"
-          },
-          {
-            "id": "ken_1792767841_0",
-            "creator": "Ken",
-            "title": "what",
-            "source_title": "what",
-            "url": "https://www.youtube.com/watch?v=VvBVpdLnlW0",
-            "section": "*60-240",
-            "duration": 531,
-            "status": "PROCESSING",
-            "added_at": "2026-10-23T15:04:01Z"
           }
         ],
         "processing": null,
@@ -1129,6 +1118,19 @@
             "added_at": "2026-10-22T10:01:57Z",
             "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792663317_2_master.mp4",
             "youtube_video_id": "OKG3j233Uac"
+          },
+          {
+            "id": "ken_1792767841_0",
+            "creator": "Ken",
+            "title": "what",
+            "source_title": "what",
+            "url": "https://www.youtube.com/watch?v=VvBVpdLnlW0",
+            "section": "*60-240",
+            "duration": 531,
+            "status": "COMPLETED",
+            "added_at": "2026-10-23T15:04:01Z",
+            "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792767841_0_master.mp4",
+            "youtube_video_id": "kSh69WqVzNI"
           }
         ]
       },
@@ -1451,6 +1453,72 @@
                   "variant": "A",
                   "title": "They actually buffed THIS evolution? \ud83d\udc80",
                   "deployed_at": 1792790798.7115898,
+                  "reason": "Initial A/B test deployment"
+                }
+              ],
+              "metrics": {
+                "views": 0,
+                "likes": 0,
+                "comments": 0,
+                "retention": 0.0,
+                "ctr": 0.0
+              }
+            },
+            "reframed": "gaming_split"
+          },
+          {
+            "id": "ken_1792767841_0",
+            "source_video": "what",
+            "creator": "Ken",
+            "title": "Why Rage Spell is Dead...",
+            "publish_at": "2026-10-25T20:30:00Z",
+            "status": "SCHEDULED",
+            "uploaded": true,
+            "youtube_video_id": "kSh69WqVzNI",
+            "youtube_url": "https://www.youtube.com/shorts/kSh69WqVzNI",
+            "video_file": "ken_1792767841_0_master.mp4",
+            "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792767841_0_master.mp4",
+            "duration": 22.39,
+            "hook_summary": "The speaker questions the point of the rage spell when the new Evo Giant card has a built-in rage mechanic that buffs the entire push.",
+            "metadata": {
+              "title": "Why Rage Spell is Dead...",
+              "description": "Discover the shocking reason why the classic Rage Spell is becoming completely obsolete in the current meta. Watch as we break down the game-changing mechanics that are shifting the entire competitive landscape.\n\n\u2022 Analyze the hidden power of the new evolution mechanic\n\u2022 Learn how to optimize your deck without wasting elixir on standard spells\n\u2022 See the exact moment the meta shifted for top-tier players\n\nFeaturing: Ken\n\nAre you still running Rage Spell in your main deck, or have you made the switch yet?\n\n#shorts #clashroyale #gaming #ken #supercell #mobilegaming",
+              "tags": [
+                "Evo Giant",
+                "Clash Royale",
+                "Rage Spell",
+                "Clash Royale Meta",
+                "Evolution Giant",
+                "Ken Clash Royale",
+                "Clash Royale Decks",
+                "Best Evo Cards",
+                "Clash Royale Tips"
+              ],
+              "pinned_comment": "Be honest: has the Rage Spell officially become useless, or are people sleeping on its actual value? Let me know your current deck below!",
+              "ab_variants": {
+                "A": {
+                  "angle": "Curiosity Gap",
+                  "title": "Why Rage Spell is Dead...",
+                  "description": "Discover the shocking reason why the classic Rage Spell is becoming completely obsolete in the current meta. Watch as we break down the game-changing mechanics that are shifting the entire competitive landscape.\n\n\u2022 Analyze the hidden power of the new evolution mechanic\n\u2022 Learn how to optimize your deck without wasting elixir on standard spells\n\u2022 See the exact moment the meta shifted for top-tier players\n\nFeaturing: Ken\n\nAre you still running Rage Spell in your main deck, or have you made the switch yet?\n\n#shorts #clashroyale #gaming #ken #supercell #mobilegaming"
+                },
+                "B": {
+                  "angle": "Contrarian Truth",
+                  "title": "Stop Using Rage Spell Now",
+                  "description": "Everyone is still using the standard Rage Spell, but top players are already dropping it for something infinitely better. This meta shift changes how every major push is built from the ground up.\n\u2022 Uncover the truth about redundant spell cards in high-ladder play\n\u2022 Rebuild your elixir economy for maximum push efficiency\n\u2022 Adapt to the newest evolution abilities before your opponents do\n\nFeaturing: Ken\n\nIs the standard Rage Spell officially the most overrated card in the game right now?\n\n#shorts #clashroyale #gaming #ken #supercell #mobilegaming"
+                },
+                "C": {
+                  "angle": "Actionable Protocol",
+                  "title": "The Ultimate Push Strategy",
+                  "description": "Master the ultimate push strategy by replacing outdated spells with built-in evolution mechanics. Follow this exact deck-building framework to outvalue and overwhelm your opponents every single match.\n\u2022 Swap out low-value spells for high-impact evolution units\n\u2022 Maximize your push speed without spending extra elixir\n\u2022 Execute flawless offensive sequences on ladder\n\nFeaturing: Ken\n\nWhat card would you replace in your deck if you never needed a Rage Spell again?\n\n#shorts #clashroyale #gaming #ken #supercell #mobilegaming"
+                }
+              },
+              "active_variant": "A",
+              "test_status": "ACTIVE_TEST",
+              "variant_history": [
+                {
+                  "variant": "A",
+                  "title": "Why Rage Spell is Dead...",
+                  "deployed_at": 1792790989.4580219,
                   "reason": "Initial A/B test deployment"
                 }
               ],
@@ -6251,17 +6319,17 @@
     },
     "PUBLISHER": {
       "status": "working",
-      "current_task": "Short SCHEDULED on YouTube: OKG3j233Uac (11:30 AM ET (Sun, Oct 25))",
+      "current_task": "Short SCHEDULED on YouTube: kSh69WqVzNI (04:30 PM ET (Sun, Oct 25))",
       "last_completed_task": "Uploaded all 3 initial Clash Royale gaming cuts to YouTube (kenclipsburger420)",
       "recent_logs": [
-        "[17:19:53] Deploying to YouTube (@kenclipsburger420) for release 04:30 PM ET (Sat, Oct 24)...",
-        "[17:19:56] Short SCHEDULED on YouTube: tFp1jfzSrhI (04:30 PM ET (Sat, Oct 24))",
-        "[17:23:13] Generating gaming A/B metadata for slot: 09:30 PM ET (Sat, Oct 24)...",
         "[17:23:16] Deploying to YouTube (@kenclipsburger420) for release 09:30 PM ET (Sat, Oct 24)...",
         "[17:23:19] Short SCHEDULED on YouTube: XcLwVLXufjY (09:30 PM ET (Sat, Oct 24))",
         "[17:26:36] Generating gaming A/B metadata for slot: 11:30 AM ET (Sun, Oct 25)...",
         "[17:26:38] Deploying to YouTube (@kenclipsburger420) for release 11:30 AM ET (Sun, Oct 25)...",
-        "[17:26:41] Short SCHEDULED on YouTube: OKG3j233Uac (11:30 AM ET (Sun, Oct 25))"
+        "[17:26:41] Short SCHEDULED on YouTube: OKG3j233Uac (11:30 AM ET (Sun, Oct 25))",
+        "[17:29:46] Generating gaming A/B metadata for slot: 04:30 PM ET (Sun, Oct 25)...",
+        "[17:29:49] Deploying to YouTube (@kenclipsburger420) for release 04:30 PM ET (Sun, Oct 25)...",
+        "[17:29:54] Short SCHEDULED on YouTube: kSh69WqVzNI (04:30 PM ET (Sun, Oct 25))"
       ]
     },
     "ANALYST": {
@@ -6831,17 +6899,6 @@
         "status": "FAILED_RENDER",
         "added_at": "2026-10-21T10:01:59Z",
         "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792576919_0_master.mp4"
-      },
-      {
-        "id": "ken_1792767841_0",
-        "creator": "Ken",
-        "title": "what",
-        "source_title": "what",
-        "url": "https://www.youtube.com/watch?v=VvBVpdLnlW0",
-        "section": "*60-240",
-        "duration": 531,
-        "status": "PROCESSING",
-        "added_at": "2026-10-23T15:04:01Z"
       }
     ],
     "processing": null,
@@ -7232,6 +7289,19 @@
         "added_at": "2026-10-22T10:01:57Z",
         "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792663317_2_master.mp4",
         "youtube_video_id": "OKG3j233Uac"
+      },
+      {
+        "id": "ken_1792767841_0",
+        "creator": "Ken",
+        "title": "what",
+        "source_title": "what",
+        "url": "https://www.youtube.com/watch?v=VvBVpdLnlW0",
+        "section": "*60-240",
+        "duration": 531,
+        "status": "COMPLETED",
+        "added_at": "2026-10-23T15:04:01Z",
+        "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792767841_0_master.mp4",
+        "youtube_video_id": "kSh69WqVzNI"
       }
     ]
   },
@@ -7554,6 +7624,72 @@
               "variant": "A",
               "title": "They actually buffed THIS evolution? \ud83d\udc80",
               "deployed_at": 1792790798.7115898,
+              "reason": "Initial A/B test deployment"
+            }
+          ],
+          "metrics": {
+            "views": 0,
+            "likes": 0,
+            "comments": 0,
+            "retention": 0.0,
+            "ctr": 0.0
+          }
+        },
+        "reframed": "gaming_split"
+      },
+      {
+        "id": "ken_1792767841_0",
+        "source_video": "what",
+        "creator": "Ken",
+        "title": "Why Rage Spell is Dead...",
+        "publish_at": "2026-10-25T20:30:00Z",
+        "status": "SCHEDULED",
+        "uploaded": true,
+        "youtube_video_id": "kSh69WqVzNI",
+        "youtube_url": "https://www.youtube.com/shorts/kSh69WqVzNI",
+        "video_file": "ken_1792767841_0_master.mp4",
+        "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792767841_0_master.mp4",
+        "duration": 22.39,
+        "hook_summary": "The speaker questions the point of the rage spell when the new Evo Giant card has a built-in rage mechanic that buffs the entire push.",
+        "metadata": {
+          "title": "Why Rage Spell is Dead...",
+          "description": "Discover the shocking reason why the classic Rage Spell is becoming completely obsolete in the current meta. Watch as we break down the game-changing mechanics that are shifting the entire competitive landscape.\n\n\u2022 Analyze the hidden power of the new evolution mechanic\n\u2022 Learn how to optimize your deck without wasting elixir on standard spells\n\u2022 See the exact moment the meta shifted for top-tier players\n\nFeaturing: Ken\n\nAre you still running Rage Spell in your main deck, or have you made the switch yet?\n\n#shorts #clashroyale #gaming #ken #supercell #mobilegaming",
+          "tags": [
+            "Evo Giant",
+            "Clash Royale",
+            "Rage Spell",
+            "Clash Royale Meta",
+            "Evolution Giant",
+            "Ken Clash Royale",
+            "Clash Royale Decks",
+            "Best Evo Cards",
+            "Clash Royale Tips"
+          ],
+          "pinned_comment": "Be honest: has the Rage Spell officially become useless, or are people sleeping on its actual value? Let me know your current deck below!",
+          "ab_variants": {
+            "A": {
+              "angle": "Curiosity Gap",
+              "title": "Why Rage Spell is Dead...",
+              "description": "Discover the shocking reason why the classic Rage Spell is becoming completely obsolete in the current meta. Watch as we break down the game-changing mechanics that are shifting the entire competitive landscape.\n\n\u2022 Analyze the hidden power of the new evolution mechanic\n\u2022 Learn how to optimize your deck without wasting elixir on standard spells\n\u2022 See the exact moment the meta shifted for top-tier players\n\nFeaturing: Ken\n\nAre you still running Rage Spell in your main deck, or have you made the switch yet?\n\n#shorts #clashroyale #gaming #ken #supercell #mobilegaming"
+            },
+            "B": {
+              "angle": "Contrarian Truth",
+              "title": "Stop Using Rage Spell Now",
+              "description": "Everyone is still using the standard Rage Spell, but top players are already dropping it for something infinitely better. This meta shift changes how every major push is built from the ground up.\n\u2022 Uncover the truth about redundant spell cards in high-ladder play\n\u2022 Rebuild your elixir economy for maximum push efficiency\n\u2022 Adapt to the newest evolution abilities before your opponents do\n\nFeaturing: Ken\n\nIs the standard Rage Spell officially the most overrated card in the game right now?\n\n#shorts #clashroyale #gaming #ken #supercell #mobilegaming"
+            },
+            "C": {
+              "angle": "Actionable Protocol",
+              "title": "The Ultimate Push Strategy",
+              "description": "Master the ultimate push strategy by replacing outdated spells with built-in evolution mechanics. Follow this exact deck-building framework to outvalue and overwhelm your opponents every single match.\n\u2022 Swap out low-value spells for high-impact evolution units\n\u2022 Maximize your push speed without spending extra elixir\n\u2022 Execute flawless offensive sequences on ladder\n\nFeaturing: Ken\n\nWhat card would you replace in your deck if you never needed a Rage Spell again?\n\n#shorts #clashroyale #gaming #ken #supercell #mobilegaming"
+            }
+          },
+          "active_variant": "A",
+          "test_status": "ACTIVE_TEST",
+          "variant_history": [
+            {
+              "variant": "A",
+              "title": "Why Rage Spell is Dead...",
+              "deployed_at": 1792790989.4580219,
               "reason": "Initial A/B test deployment"
             }
           ],

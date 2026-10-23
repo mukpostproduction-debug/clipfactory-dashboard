@@ -1,6 +1,6 @@
 {
-  "timestamp": 1792789967.128115,
-  "sync_time_iso": "2026-10-23T21:12:47Z",
+  "timestamp": 1792790028.862127,
+  "sync_time_iso": "2026-10-23T21:13:48Z",
   "default_channel": "ken_clips_burger",
   "channels": {
     "ken_clips_burger": {
@@ -94,17 +94,17 @@
       "agents": {
         "SCOUT": {
           "status": "working",
-          "current_task": "Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
+          "current_task": "Queue up to date. Waiting for next daily Ken upload.",
           "last_completed_task": "Ingested 5 recent Ken master videos into source pool",
           "recent_logs": [
-            "[17:02:33] Queue up to date. Waiting for next daily Ken upload.",
             "[17:05:59] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
             "[17:06:12] Queue up to date. Waiting for next daily Ken upload.",
             "[17:06:34] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
             "[17:06:47] Queue up to date. Waiting for next daily Ken upload.",
             "[17:10:15] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
             "[17:10:30] Queue up to date. Waiting for next daily Ken upload.",
-            "[17:12:42] Scanning @kenforrest YouTube feed for latest Clash Royale uploads..."
+            "[17:12:42] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
+            "[17:12:55] Queue up to date. Waiting for next daily Ken upload."
           ]
         },
         "STRATEGIST": {
@@ -124,17 +124,17 @@
         },
         "EDITOR": {
           "status": "working",
-          "current_task": "Rendering gaming_split Short with captions: thanks supercell [Clutch Momen",
+          "current_task": "Rendering gaming_split Short with captions: thanks supercell [Overtime Bat",
           "last_completed_task": "Rendered 'hp buffed' rage highlight with kinetic pop captions & commentary",
           "recent_logs": [
-            "[18:34:32] Rendering gaming_split Short with captions: new balance changes [Clutch Mo",
-            "[06:01:59] Downloading 1080p highlight segment (*60-240) for: thanks supercell [Highlight]...",
             "[06:02:09] Rendering gaming_split Short with captions: thanks supercell [Highlight]",
             "[00:27:31] Downloading 1080p highlight segment (*60-240) for: thanks supercell [Highlight]...",
             "[00:27:45] Rendering gaming_split Short with captions: thanks supercell [Highlight]",
             "[00:28:11] Render error: Command '['say', '-r', '175', '-o', '/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/audio/ken_1792576919_0_commentary.aiff', 'Which creator has helped you through your toughest moments?']' returned non-zero exit status 1.",
             "[00:31:32] Downloading 1080p highlight segment (*300-480) for: thanks supercell [Clutch Moment]...",
-            "[00:31:47] Rendering gaming_split Short with captions: thanks supercell [Clutch Momen"
+            "[00:31:47] Rendering gaming_split Short with captions: thanks supercell [Clutch Momen",
+            "[17:12:55] Downloading 1080p highlight segment (*540-720) for: thanks supercell [Overtime Battle]...",
+            "[17:13:12] Rendering gaming_split Short with captions: thanks supercell [Overtime Bat"
           ]
         },
         "COMMENTATOR": {
@@ -737,7 +737,7 @@
             "url": "https://www.youtube.com/watch?v=VgIIltGHbHU",
             "section": "*540-720",
             "duration": 1635,
-            "status": "QUEUED",
+            "status": "PROCESSING",
             "added_at": "2026-10-21T10:01:59Z"
           },
           {
@@ -5925,17 +5925,17 @@
   "agents": {
     "SCOUT": {
       "status": "working",
-      "current_task": "Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
+      "current_task": "Queue up to date. Waiting for next daily Ken upload.",
       "last_completed_task": "Ingested 5 recent Ken master videos into source pool",
       "recent_logs": [
-        "[17:02:33] Queue up to date. Waiting for next daily Ken upload.",
         "[17:05:59] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
         "[17:06:12] Queue up to date. Waiting for next daily Ken upload.",
         "[17:06:34] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
         "[17:06:47] Queue up to date. Waiting for next daily Ken upload.",
         "[17:10:15] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
         "[17:10:30] Queue up to date. Waiting for next daily Ken upload.",
-        "[17:12:42] Scanning @kenforrest YouTube feed for latest Clash Royale uploads..."
+        "[17:12:42] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
+        "[17:12:55] Queue up to date. Waiting for next daily Ken upload."
       ]
     },
     "STRATEGIST": {
@@ -5955,17 +5955,17 @@
     },
     "EDITOR": {
       "status": "working",
-      "current_task": "Rendering gaming_split Short with captions: thanks supercell [Clutch Momen",
+      "current_task": "Rendering gaming_split Short with captions: thanks supercell [Overtime Bat",
       "last_completed_task": "Rendered 'hp buffed' rage highlight with kinetic pop captions & commentary",
       "recent_logs": [
-        "[18:34:32] Rendering gaming_split Short with captions: new balance changes [Clutch Mo",
-        "[06:01:59] Downloading 1080p highlight segment (*60-240) for: thanks supercell [Highlight]...",
         "[06:02:09] Rendering gaming_split Short with captions: thanks supercell [Highlight]",
         "[00:27:31] Downloading 1080p highlight segment (*60-240) for: thanks supercell [Highlight]...",
         "[00:27:45] Rendering gaming_split Short with captions: thanks supercell [Highlight]",
         "[00:28:11] Render error: Command '['say', '-r', '175', '-o', '/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/audio/ken_1792576919_0_commentary.aiff', 'Which creator has helped you through your toughest moments?']' returned non-zero exit status 1.",
         "[00:31:32] Downloading 1080p highlight segment (*300-480) for: thanks supercell [Clutch Moment]...",
-        "[00:31:47] Rendering gaming_split Short with captions: thanks supercell [Clutch Momen"
+        "[00:31:47] Rendering gaming_split Short with captions: thanks supercell [Clutch Momen",
+        "[17:12:55] Downloading 1080p highlight segment (*540-720) for: thanks supercell [Overtime Battle]...",
+        "[17:13:12] Rendering gaming_split Short with captions: thanks supercell [Overtime Bat"
       ]
     },
     "COMMENTATOR": {
@@ -6568,7 +6568,7 @@
         "url": "https://www.youtube.com/watch?v=VgIIltGHbHU",
         "section": "*540-720",
         "duration": 1635,
-        "status": "QUEUED",
+        "status": "PROCESSING",
         "added_at": "2026-10-21T10:01:59Z"
       },
       {

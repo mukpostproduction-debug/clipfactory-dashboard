@@ -1,6 +1,6 @@
 {
-  "timestamp": 1792790536.91607,
-  "sync_time_iso": "2026-10-23T21:22:16Z",
+  "timestamp": 1792790599.721615,
+  "sync_time_iso": "2026-10-23T21:23:19Z",
   "default_channel": "ken_clips_burger",
   "channels": {
     "ken_clips_burger": {
@@ -124,17 +124,17 @@
         },
         "EDITOR": {
           "status": "working",
-          "current_task": "Downloading 1080p highlight segment (*300-480) for: they killed the game [Clutch Moment...",
+          "current_task": "Rendering gaming_split Short with captions: they killed the game [Clutch M",
           "last_completed_task": "Rendered 'hp buffed' rage highlight with kinetic pop captions & commentary",
           "recent_logs": [
-            "[00:28:11] Render error: Command '['say', '-r', '175', '-o', '/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/audio/ken_1792576919_0_commentary.aiff', 'Which creator has helped you through your toughest moments?']' returned non-zero exit status 1.",
             "[00:31:32] Downloading 1080p highlight segment (*300-480) for: thanks supercell [Clutch Moment]...",
             "[00:31:47] Rendering gaming_split Short with captions: thanks supercell [Clutch Momen",
             "[17:12:55] Downloading 1080p highlight segment (*540-720) for: thanks supercell [Overtime Battle]...",
             "[17:13:12] Rendering gaming_split Short with captions: thanks supercell [Overtime Bat",
             "[17:18:13] Downloading 1080p highlight segment (*60-240) for: they killed the game [Highlight]...",
             "[17:18:35] Rendering gaming_split Short with captions: they killed the game [Highligh",
-            "[17:22:14] Downloading 1080p highlight segment (*300-480) for: they killed the game [Clutch Moment..."
+            "[17:22:14] Downloading 1080p highlight segment (*300-480) for: they killed the game [Clutch Moment...",
+            "[17:22:26] Rendering gaming_split Short with captions: they killed the game [Clutch M"
           ]
         },
         "COMMENTATOR": {
@@ -148,17 +148,17 @@
         },
         "PUBLISHER": {
           "status": "working",
-          "current_task": "Short SCHEDULED on YouTube: tFp1jfzSrhI (04:30 PM ET (Sat, Oct 24))",
+          "current_task": "Short SCHEDULED on YouTube: XcLwVLXufjY (09:30 PM ET (Sat, Oct 24))",
           "last_completed_task": "Uploaded all 3 initial Clash Royale gaming cuts to YouTube (kenclipsburger420)",
           "recent_logs": [
-            "[17:10:33] Deploying to YouTube (@kenclipsburger420) for release 09:30 PM ET (Fri, Oct 23)...",
-            "[17:10:40] Short SCHEDULED on YouTube: 0xK7mmvlyYY (09:30 PM ET (Fri, Oct 23))",
-            "[17:15:39] Generating gaming A/B metadata for slot: 11:30 AM ET (Sat, Oct 24)...",
             "[17:15:41] Deploying to YouTube (@kenclipsburger420) for release 11:30 AM ET (Sat, Oct 24)...",
             "[17:15:51] Short SCHEDULED on YouTube: fiwX1aRfhEg (11:30 AM ET (Sat, Oct 24))",
             "[17:19:50] Generating gaming A/B metadata for slot: 04:30 PM ET (Sat, Oct 24)...",
             "[17:19:53] Deploying to YouTube (@kenclipsburger420) for release 04:30 PM ET (Sat, Oct 24)...",
-            "[17:19:56] Short SCHEDULED on YouTube: tFp1jfzSrhI (04:30 PM ET (Sat, Oct 24))"
+            "[17:19:56] Short SCHEDULED on YouTube: tFp1jfzSrhI (04:30 PM ET (Sat, Oct 24))",
+            "[17:23:13] Generating gaming A/B metadata for slot: 09:30 PM ET (Sat, Oct 24)...",
+            "[17:23:16] Deploying to YouTube (@kenclipsburger420) for release 09:30 PM ET (Sat, Oct 24)...",
+            "[17:23:19] Short SCHEDULED on YouTube: XcLwVLXufjY (09:30 PM ET (Sat, Oct 24))"
           ]
         },
         "ANALYST": {
@@ -730,17 +730,6 @@
             "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792576919_0_master.mp4"
           },
           {
-            "id": "ken_1792663317_1",
-            "creator": "Ken",
-            "title": "they killed the game [Clutch Moment]",
-            "source_title": "they killed the game",
-            "url": "https://www.youtube.com/watch?v=BXTF2EPyMx0",
-            "section": "*300-480",
-            "duration": 1076,
-            "status": "PROCESSING",
-            "added_at": "2026-10-22T10:01:57Z"
-          },
-          {
             "id": "ken_1792663317_2",
             "creator": "Ken",
             "title": "they killed the game [Overtime Battle]",
@@ -1125,6 +1114,19 @@
             "added_at": "2026-10-22T10:01:57Z",
             "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792663317_0_master.mp4",
             "youtube_video_id": "tFp1jfzSrhI"
+          },
+          {
+            "id": "ken_1792663317_1",
+            "creator": "Ken",
+            "title": "they killed the game [Clutch Moment]",
+            "source_title": "they killed the game",
+            "url": "https://www.youtube.com/watch?v=BXTF2EPyMx0",
+            "section": "*300-480",
+            "duration": 1076,
+            "status": "COMPLETED",
+            "added_at": "2026-10-22T10:01:57Z",
+            "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792663317_1_master.mp4",
+            "youtube_video_id": "XcLwVLXufjY"
           }
         ]
       },
@@ -1315,6 +1317,72 @@
                   "variant": "A",
                   "title": "He turned a SpongeBob meme into THIS...",
                   "deployed_at": 1792790393.0744262,
+                  "reason": "Initial A/B test deployment"
+                }
+              ],
+              "metrics": {
+                "views": 0,
+                "likes": 0,
+                "comments": 0,
+                "retention": 0.0,
+                "ctr": 0.0
+              }
+            },
+            "reframed": "gaming_split"
+          },
+          {
+            "id": "ken_1792663317_1",
+            "source_video": "they killed the game [Clutch Moment]",
+            "creator": "Ken",
+            "title": "Where did all the Clash Royale prize money go?",
+            "publish_at": "2026-10-25T01:30:00Z",
+            "status": "SCHEDULED",
+            "uploaded": true,
+            "youtube_video_id": "XcLwVLXufjY",
+            "youtube_url": "https://www.youtube.com/shorts/XcLwVLXufjY",
+            "video_file": "ken_1792663317_1_master.mp4",
+            "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792663317_1_master.mp4",
+            "duration": 25.2,
+            "hook_summary": "The speaker calls out the ridiculously small prize pools in Clash Royale esports despite the company making tens of millions.",
+            "metadata": {
+              "title": "Where did all the Clash Royale prize money go?",
+              "description": "Ken exposes the shocking truth behind the microscopic prize pools in Clash Royale esports. Discover the hidden reality of mobile gaming revenue versus what players actually take home.\n\n\u2022 Uncover the exact math behind multi-million dollar mobile game profits versus tiny competitive payouts\n\u2022 Learn why top-tier esports competitors are silently questioning the future of the scene\n\u2022 See how corporate spending priorities completely miss the players driving the game\n\nFeaturing: Ken\n\nIs Supercell pocketing the cash, or is competitive mobile gaming just a marketing gimmick? Drop your take in the comments!\n\n#shorts #clashroyale #gaming #ken #supercell #mobilegaming",
+              "tags": [
+                "Clash Royale",
+                "Clash Royale Esports",
+                "Supercell",
+                "Mobile Gaming",
+                "Ken Clash Royale",
+                "Clash Royale Prize Pool",
+                "Mobile Esports",
+                "Gaming Industry",
+                "Clash Royale Drama"
+              ],
+              "pinned_comment": "Hot take: If a mobile game makes $100M+, the world finals payout should be life-changing, not pocket change. Agree or disagree?",
+              "ab_variants": {
+                "A": {
+                  "angle": "Curiosity Gap",
+                  "title": "Where did all the Clash Royale prize money go?",
+                  "description": "Ken exposes the shocking truth behind the microscopic prize pools in Clash Royale esports. Discover the hidden reality of mobile gaming revenue versus what players actually take home.\n\n\u2022 Uncover the exact math behind multi-million dollar mobile game profits versus tiny competitive payouts\n\u2022 Learn why top-tier esports competitors are silently questioning the future of the scene\n\u2022 See how corporate spending priorities completely miss the players driving the game\n\nFeaturing: Ken\n\nIs Supercell pocketing the cash, or is competitive mobile gaming just a marketing gimmick? Drop your take in the comments!\n\n#shorts #clashroyale #gaming #ken #supercell #mobilegaming"
+                },
+                "B": {
+                  "angle": "Contrarian Truth",
+                  "title": "Supercell makes millions, pays out pennies.",
+                  "description": "Everyone praises Clash Royale esports, but Ken is calling out the uncomfortable truth: the prize pools are embarrassingly small. It's time to talk about the massive disconnect between corporate earnings and player rewards.\n\n\u2022 Break down the massive revenue numbers compared to the shockingly low tournament payouts\n\u2022 Challenge the mainstream narrative that mobile esports are thriving financially for players\n\u2022 Expose the broken incentive structure keeping top competitors underpaid\n\nFeaturing: Ken\n\nAre pro players letting developers off the hook too easily? Let the debate begin below.\n\n#shorts #clashroyale #gaming #ken #supercell #esports"
+                },
+                "C": {
+                  "angle": "Actionable Protocol",
+                  "title": "How to fix broken mobile esports prize pools.",
+                  "description": "Ken breaks down the exact problem plaguing Clash Royale competitive integrity and reveals what needs to change immediately to save mobile esports.\n\n\u2022 Identify the core structural flaw in how game developers fund competitive circuits\n\u2022 Analyze the blueprint successful esports titles use to reward their competitors fairly\n\u2022 Learn what fans and players can do to demand better financial backing from publishers\n\nFeaturing: Ken\n\nShould players start boycotting low-payout tournaments to force a change? Tell me your strategy in the comments!\n\n#shorts #clashroyale #gaming #ken #supercell #competitivegaming"
+                }
+              },
+              "active_variant": "A",
+              "test_status": "ACTIVE_TEST",
+              "variant_history": [
+                {
+                  "variant": "A",
+                  "title": "Where did all the Clash Royale prize money go?",
+                  "deployed_at": 1792790596.0672488,
                   "reason": "Initial A/B test deployment"
                 }
               ],
@@ -6091,17 +6159,17 @@
     },
     "EDITOR": {
       "status": "working",
-      "current_task": "Downloading 1080p highlight segment (*300-480) for: they killed the game [Clutch Moment...",
+      "current_task": "Rendering gaming_split Short with captions: they killed the game [Clutch M",
       "last_completed_task": "Rendered 'hp buffed' rage highlight with kinetic pop captions & commentary",
       "recent_logs": [
-        "[00:28:11] Render error: Command '['say', '-r', '175', '-o', '/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/audio/ken_1792576919_0_commentary.aiff', 'Which creator has helped you through your toughest moments?']' returned non-zero exit status 1.",
         "[00:31:32] Downloading 1080p highlight segment (*300-480) for: thanks supercell [Clutch Moment]...",
         "[00:31:47] Rendering gaming_split Short with captions: thanks supercell [Clutch Momen",
         "[17:12:55] Downloading 1080p highlight segment (*540-720) for: thanks supercell [Overtime Battle]...",
         "[17:13:12] Rendering gaming_split Short with captions: thanks supercell [Overtime Bat",
         "[17:18:13] Downloading 1080p highlight segment (*60-240) for: they killed the game [Highlight]...",
         "[17:18:35] Rendering gaming_split Short with captions: they killed the game [Highligh",
-        "[17:22:14] Downloading 1080p highlight segment (*300-480) for: they killed the game [Clutch Moment..."
+        "[17:22:14] Downloading 1080p highlight segment (*300-480) for: they killed the game [Clutch Moment...",
+        "[17:22:26] Rendering gaming_split Short with captions: they killed the game [Clutch M"
       ]
     },
     "COMMENTATOR": {
@@ -6115,17 +6183,17 @@
     },
     "PUBLISHER": {
       "status": "working",
-      "current_task": "Short SCHEDULED on YouTube: tFp1jfzSrhI (04:30 PM ET (Sat, Oct 24))",
+      "current_task": "Short SCHEDULED on YouTube: XcLwVLXufjY (09:30 PM ET (Sat, Oct 24))",
       "last_completed_task": "Uploaded all 3 initial Clash Royale gaming cuts to YouTube (kenclipsburger420)",
       "recent_logs": [
-        "[17:10:33] Deploying to YouTube (@kenclipsburger420) for release 09:30 PM ET (Fri, Oct 23)...",
-        "[17:10:40] Short SCHEDULED on YouTube: 0xK7mmvlyYY (09:30 PM ET (Fri, Oct 23))",
-        "[17:15:39] Generating gaming A/B metadata for slot: 11:30 AM ET (Sat, Oct 24)...",
         "[17:15:41] Deploying to YouTube (@kenclipsburger420) for release 11:30 AM ET (Sat, Oct 24)...",
         "[17:15:51] Short SCHEDULED on YouTube: fiwX1aRfhEg (11:30 AM ET (Sat, Oct 24))",
         "[17:19:50] Generating gaming A/B metadata for slot: 04:30 PM ET (Sat, Oct 24)...",
         "[17:19:53] Deploying to YouTube (@kenclipsburger420) for release 04:30 PM ET (Sat, Oct 24)...",
-        "[17:19:56] Short SCHEDULED on YouTube: tFp1jfzSrhI (04:30 PM ET (Sat, Oct 24))"
+        "[17:19:56] Short SCHEDULED on YouTube: tFp1jfzSrhI (04:30 PM ET (Sat, Oct 24))",
+        "[17:23:13] Generating gaming A/B metadata for slot: 09:30 PM ET (Sat, Oct 24)...",
+        "[17:23:16] Deploying to YouTube (@kenclipsburger420) for release 09:30 PM ET (Sat, Oct 24)...",
+        "[17:23:19] Short SCHEDULED on YouTube: XcLwVLXufjY (09:30 PM ET (Sat, Oct 24))"
       ]
     },
     "ANALYST": {
@@ -6697,17 +6765,6 @@
         "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792576919_0_master.mp4"
       },
       {
-        "id": "ken_1792663317_1",
-        "creator": "Ken",
-        "title": "they killed the game [Clutch Moment]",
-        "source_title": "they killed the game",
-        "url": "https://www.youtube.com/watch?v=BXTF2EPyMx0",
-        "section": "*300-480",
-        "duration": 1076,
-        "status": "PROCESSING",
-        "added_at": "2026-10-22T10:01:57Z"
-      },
-      {
         "id": "ken_1792663317_2",
         "creator": "Ken",
         "title": "they killed the game [Overtime Battle]",
@@ -7092,6 +7149,19 @@
         "added_at": "2026-10-22T10:01:57Z",
         "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792663317_0_master.mp4",
         "youtube_video_id": "tFp1jfzSrhI"
+      },
+      {
+        "id": "ken_1792663317_1",
+        "creator": "Ken",
+        "title": "they killed the game [Clutch Moment]",
+        "source_title": "they killed the game",
+        "url": "https://www.youtube.com/watch?v=BXTF2EPyMx0",
+        "section": "*300-480",
+        "duration": 1076,
+        "status": "COMPLETED",
+        "added_at": "2026-10-22T10:01:57Z",
+        "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792663317_1_master.mp4",
+        "youtube_video_id": "XcLwVLXufjY"
       }
     ]
   },
@@ -7282,6 +7352,72 @@
               "variant": "A",
               "title": "He turned a SpongeBob meme into THIS...",
               "deployed_at": 1792790393.0744262,
+              "reason": "Initial A/B test deployment"
+            }
+          ],
+          "metrics": {
+            "views": 0,
+            "likes": 0,
+            "comments": 0,
+            "retention": 0.0,
+            "ctr": 0.0
+          }
+        },
+        "reframed": "gaming_split"
+      },
+      {
+        "id": "ken_1792663317_1",
+        "source_video": "they killed the game [Clutch Moment]",
+        "creator": "Ken",
+        "title": "Where did all the Clash Royale prize money go?",
+        "publish_at": "2026-10-25T01:30:00Z",
+        "status": "SCHEDULED",
+        "uploaded": true,
+        "youtube_video_id": "XcLwVLXufjY",
+        "youtube_url": "https://www.youtube.com/shorts/XcLwVLXufjY",
+        "video_file": "ken_1792663317_1_master.mp4",
+        "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792663317_1_master.mp4",
+        "duration": 25.2,
+        "hook_summary": "The speaker calls out the ridiculously small prize pools in Clash Royale esports despite the company making tens of millions.",
+        "metadata": {
+          "title": "Where did all the Clash Royale prize money go?",
+          "description": "Ken exposes the shocking truth behind the microscopic prize pools in Clash Royale esports. Discover the hidden reality of mobile gaming revenue versus what players actually take home.\n\n\u2022 Uncover the exact math behind multi-million dollar mobile game profits versus tiny competitive payouts\n\u2022 Learn why top-tier esports competitors are silently questioning the future of the scene\n\u2022 See how corporate spending priorities completely miss the players driving the game\n\nFeaturing: Ken\n\nIs Supercell pocketing the cash, or is competitive mobile gaming just a marketing gimmick? Drop your take in the comments!\n\n#shorts #clashroyale #gaming #ken #supercell #mobilegaming",
+          "tags": [
+            "Clash Royale",
+            "Clash Royale Esports",
+            "Supercell",
+            "Mobile Gaming",
+            "Ken Clash Royale",
+            "Clash Royale Prize Pool",
+            "Mobile Esports",
+            "Gaming Industry",
+            "Clash Royale Drama"
+          ],
+          "pinned_comment": "Hot take: If a mobile game makes $100M+, the world finals payout should be life-changing, not pocket change. Agree or disagree?",
+          "ab_variants": {
+            "A": {
+              "angle": "Curiosity Gap",
+              "title": "Where did all the Clash Royale prize money go?",
+              "description": "Ken exposes the shocking truth behind the microscopic prize pools in Clash Royale esports. Discover the hidden reality of mobile gaming revenue versus what players actually take home.\n\n\u2022 Uncover the exact math behind multi-million dollar mobile game profits versus tiny competitive payouts\n\u2022 Learn why top-tier esports competitors are silently questioning the future of the scene\n\u2022 See how corporate spending priorities completely miss the players driving the game\n\nFeaturing: Ken\n\nIs Supercell pocketing the cash, or is competitive mobile gaming just a marketing gimmick? Drop your take in the comments!\n\n#shorts #clashroyale #gaming #ken #supercell #mobilegaming"
+            },
+            "B": {
+              "angle": "Contrarian Truth",
+              "title": "Supercell makes millions, pays out pennies.",
+              "description": "Everyone praises Clash Royale esports, but Ken is calling out the uncomfortable truth: the prize pools are embarrassingly small. It's time to talk about the massive disconnect between corporate earnings and player rewards.\n\n\u2022 Break down the massive revenue numbers compared to the shockingly low tournament payouts\n\u2022 Challenge the mainstream narrative that mobile esports are thriving financially for players\n\u2022 Expose the broken incentive structure keeping top competitors underpaid\n\nFeaturing: Ken\n\nAre pro players letting developers off the hook too easily? Let the debate begin below.\n\n#shorts #clashroyale #gaming #ken #supercell #esports"
+            },
+            "C": {
+              "angle": "Actionable Protocol",
+              "title": "How to fix broken mobile esports prize pools.",
+              "description": "Ken breaks down the exact problem plaguing Clash Royale competitive integrity and reveals what needs to change immediately to save mobile esports.\n\n\u2022 Identify the core structural flaw in how game developers fund competitive circuits\n\u2022 Analyze the blueprint successful esports titles use to reward their competitors fairly\n\u2022 Learn what fans and players can do to demand better financial backing from publishers\n\nFeaturing: Ken\n\nShould players start boycotting low-payout tournaments to force a change? Tell me your strategy in the comments!\n\n#shorts #clashroyale #gaming #ken #supercell #competitivegaming"
+            }
+          },
+          "active_variant": "A",
+          "test_status": "ACTIVE_TEST",
+          "variant_history": [
+            {
+              "variant": "A",
+              "title": "Where did all the Clash Royale prize money go?",
+              "deployed_at": 1792790596.0672488,
               "reason": "Initial A/B test deployment"
             }
           ],

@@ -1,6 +1,6 @@
 {
-  "timestamp": 1792790908.844921,
-  "sync_time_iso": "2026-10-23T21:28:28Z",
+  "timestamp": 1792790970.7301152,
+  "sync_time_iso": "2026-10-23T21:29:30Z",
   "default_channel": "ken_clips_burger",
   "channels": {
     "ken_clips_burger": {
@@ -97,14 +97,14 @@
           "current_task": "Queue up to date. Waiting for next daily Ken upload.",
           "last_completed_task": "Ingested 5 recent Ken master videos into source pool",
           "recent_logs": [
-            "[17:12:42] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
-            "[17:12:55] Queue up to date. Waiting for next daily Ken upload.",
             "[17:18:00] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
             "[17:18:13] Queue up to date. Waiting for next daily Ken upload.",
             "[17:22:01] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
             "[17:22:14] Queue up to date. Waiting for next daily Ken upload.",
             "[17:25:20] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
-            "[17:25:33] Queue up to date. Waiting for next daily Ken upload."
+            "[17:25:33] Queue up to date. Waiting for next daily Ken upload.",
+            "[17:28:44] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
+            "[17:28:56] Queue up to date. Waiting for next daily Ken upload."
           ]
         },
         "STRATEGIST": {
@@ -124,17 +124,17 @@
         },
         "EDITOR": {
           "status": "working",
-          "current_task": "Rendering gaming_split Short with captions: they killed the game [Overtime",
+          "current_task": "Rendering gaming_split Short with captions: what",
           "last_completed_task": "Rendered 'hp buffed' rage highlight with kinetic pop captions & commentary",
           "recent_logs": [
-            "[17:12:55] Downloading 1080p highlight segment (*540-720) for: thanks supercell [Overtime Battle]...",
-            "[17:13:12] Rendering gaming_split Short with captions: thanks supercell [Overtime Bat",
             "[17:18:13] Downloading 1080p highlight segment (*60-240) for: they killed the game [Highlight]...",
             "[17:18:35] Rendering gaming_split Short with captions: they killed the game [Highligh",
             "[17:22:14] Downloading 1080p highlight segment (*300-480) for: they killed the game [Clutch Moment...",
             "[17:22:26] Rendering gaming_split Short with captions: they killed the game [Clutch M",
             "[17:25:33] Downloading 1080p highlight segment (*540-720) for: they killed the game [Overtime Batt...",
-            "[17:25:43] Rendering gaming_split Short with captions: they killed the game [Overtime"
+            "[17:25:43] Rendering gaming_split Short with captions: they killed the game [Overtime",
+            "[17:28:56] Downloading 1080p highlight segment (*60-240) for: what...",
+            "[17:29:10] Rendering gaming_split Short with captions: what"
           ]
         },
         "COMMENTATOR": {
@@ -737,7 +737,7 @@
             "url": "https://www.youtube.com/watch?v=VvBVpdLnlW0",
             "section": "*60-240",
             "duration": 531,
-            "status": "QUEUED",
+            "status": "PROCESSING",
             "added_at": "2026-10-23T15:04:01Z"
           }
         ],
@@ -6200,14 +6200,14 @@
       "current_task": "Queue up to date. Waiting for next daily Ken upload.",
       "last_completed_task": "Ingested 5 recent Ken master videos into source pool",
       "recent_logs": [
-        "[17:12:42] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
-        "[17:12:55] Queue up to date. Waiting for next daily Ken upload.",
         "[17:18:00] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
         "[17:18:13] Queue up to date. Waiting for next daily Ken upload.",
         "[17:22:01] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
         "[17:22:14] Queue up to date. Waiting for next daily Ken upload.",
         "[17:25:20] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
-        "[17:25:33] Queue up to date. Waiting for next daily Ken upload."
+        "[17:25:33] Queue up to date. Waiting for next daily Ken upload.",
+        "[17:28:44] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
+        "[17:28:56] Queue up to date. Waiting for next daily Ken upload."
       ]
     },
     "STRATEGIST": {
@@ -6227,17 +6227,17 @@
     },
     "EDITOR": {
       "status": "working",
-      "current_task": "Rendering gaming_split Short with captions: they killed the game [Overtime",
+      "current_task": "Rendering gaming_split Short with captions: what",
       "last_completed_task": "Rendered 'hp buffed' rage highlight with kinetic pop captions & commentary",
       "recent_logs": [
-        "[17:12:55] Downloading 1080p highlight segment (*540-720) for: thanks supercell [Overtime Battle]...",
-        "[17:13:12] Rendering gaming_split Short with captions: thanks supercell [Overtime Bat",
         "[17:18:13] Downloading 1080p highlight segment (*60-240) for: they killed the game [Highlight]...",
         "[17:18:35] Rendering gaming_split Short with captions: they killed the game [Highligh",
         "[17:22:14] Downloading 1080p highlight segment (*300-480) for: they killed the game [Clutch Moment...",
         "[17:22:26] Rendering gaming_split Short with captions: they killed the game [Clutch M",
         "[17:25:33] Downloading 1080p highlight segment (*540-720) for: they killed the game [Overtime Batt...",
-        "[17:25:43] Rendering gaming_split Short with captions: they killed the game [Overtime"
+        "[17:25:43] Rendering gaming_split Short with captions: they killed the game [Overtime",
+        "[17:28:56] Downloading 1080p highlight segment (*60-240) for: what...",
+        "[17:29:10] Rendering gaming_split Short with captions: what"
       ]
     },
     "COMMENTATOR": {
@@ -6840,7 +6840,7 @@
         "url": "https://www.youtube.com/watch?v=VvBVpdLnlW0",
         "section": "*60-240",
         "duration": 531,
-        "status": "QUEUED",
+        "status": "PROCESSING",
         "added_at": "2026-10-23T15:04:01Z"
       }
     ],

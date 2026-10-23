@@ -1,6 +1,6 @@
 {
-  "timestamp": 1792790785.223503,
-  "sync_time_iso": "2026-10-23T21:26:25Z",
+  "timestamp": 1792790802.040205,
+  "sync_time_iso": "2026-10-23T21:26:42Z",
   "default_channel": "ken_clips_burger",
   "channels": {
     "ken_clips_burger": {
@@ -148,17 +148,17 @@
         },
         "PUBLISHER": {
           "status": "working",
-          "current_task": "Short SCHEDULED on YouTube: XcLwVLXufjY (09:30 PM ET (Sat, Oct 24))",
+          "current_task": "Short SCHEDULED on YouTube: OKG3j233Uac (11:30 AM ET (Sun, Oct 25))",
           "last_completed_task": "Uploaded all 3 initial Clash Royale gaming cuts to YouTube (kenclipsburger420)",
           "recent_logs": [
-            "[17:15:41] Deploying to YouTube (@kenclipsburger420) for release 11:30 AM ET (Sat, Oct 24)...",
-            "[17:15:51] Short SCHEDULED on YouTube: fiwX1aRfhEg (11:30 AM ET (Sat, Oct 24))",
-            "[17:19:50] Generating gaming A/B metadata for slot: 04:30 PM ET (Sat, Oct 24)...",
             "[17:19:53] Deploying to YouTube (@kenclipsburger420) for release 04:30 PM ET (Sat, Oct 24)...",
             "[17:19:56] Short SCHEDULED on YouTube: tFp1jfzSrhI (04:30 PM ET (Sat, Oct 24))",
             "[17:23:13] Generating gaming A/B metadata for slot: 09:30 PM ET (Sat, Oct 24)...",
             "[17:23:16] Deploying to YouTube (@kenclipsburger420) for release 09:30 PM ET (Sat, Oct 24)...",
-            "[17:23:19] Short SCHEDULED on YouTube: XcLwVLXufjY (09:30 PM ET (Sat, Oct 24))"
+            "[17:23:19] Short SCHEDULED on YouTube: XcLwVLXufjY (09:30 PM ET (Sat, Oct 24))",
+            "[17:26:36] Generating gaming A/B metadata for slot: 11:30 AM ET (Sun, Oct 25)...",
+            "[17:26:38] Deploying to YouTube (@kenclipsburger420) for release 11:30 AM ET (Sun, Oct 25)...",
+            "[17:26:41] Short SCHEDULED on YouTube: OKG3j233Uac (11:30 AM ET (Sun, Oct 25))"
           ]
         },
         "ANALYST": {
@@ -730,17 +730,6 @@
             "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792576919_0_master.mp4"
           },
           {
-            "id": "ken_1792663317_2",
-            "creator": "Ken",
-            "title": "they killed the game [Overtime Battle]",
-            "source_title": "they killed the game",
-            "url": "https://www.youtube.com/watch?v=BXTF2EPyMx0",
-            "section": "*540-720",
-            "duration": 1076,
-            "status": "PROCESSING",
-            "added_at": "2026-10-22T10:01:57Z"
-          },
-          {
             "id": "ken_1792767841_0",
             "creator": "Ken",
             "title": "what",
@@ -1127,6 +1116,19 @@
             "added_at": "2026-10-22T10:01:57Z",
             "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792663317_1_master.mp4",
             "youtube_video_id": "XcLwVLXufjY"
+          },
+          {
+            "id": "ken_1792663317_2",
+            "creator": "Ken",
+            "title": "they killed the game [Overtime Battle]",
+            "source_title": "they killed the game",
+            "url": "https://www.youtube.com/watch?v=BXTF2EPyMx0",
+            "section": "*540-720",
+            "duration": 1076,
+            "status": "COMPLETED",
+            "added_at": "2026-10-22T10:01:57Z",
+            "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792663317_2_master.mp4",
+            "youtube_video_id": "OKG3j233Uac"
           }
         ]
       },
@@ -1383,6 +1385,72 @@
                   "variant": "A",
                   "title": "Where did all the Clash Royale prize money go?",
                   "deployed_at": 1792790596.0672488,
+                  "reason": "Initial A/B test deployment"
+                }
+              ],
+              "metrics": {
+                "views": 0,
+                "likes": 0,
+                "comments": 0,
+                "retention": 0.0,
+                "ctr": 0.0
+              }
+            },
+            "reframed": "gaming_split"
+          },
+          {
+            "id": "ken_1792663317_2",
+            "source_video": "they killed the game [Overtime Battle]",
+            "creator": "Ken",
+            "title": "They actually buffed THIS evolution? \ud83d\udc80",
+            "publish_at": "2026-10-25T15:30:00Z",
+            "status": "SCHEDULED",
+            "uploaded": true,
+            "youtube_video_id": "OKG3j233Uac",
+            "youtube_url": "https://www.youtube.com/shorts/OKG3j233Uac",
+            "video_file": "ken_1792663317_2_master.mp4",
+            "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792663317_2_master.mp4",
+            "duration": 22.15,
+            "hook_summary": "The creator reacts in utter disbelief to a completely broken evolution card that received massive stat buffs and an elixir reduction, turning it into Godzilla.",
+            "metadata": {
+              "title": "They actually buffed THIS evolution? \ud83d\udc80",
+              "description": "Ken loses his mind discovering the most broken stat changes ever pushed to a live evolution card. You won't believe what they did to the elixir cost.\n\n\u2022 Uncover the secret stat buffs that broke the meta instantly\n\u2022 See why this card now plays like an absolute Godzilla on the field\n\u2022 Learn how to react when your opponent drops this nightmare\n\nFeaturing: Ken\n\nIs this the most overpowered evolution release in mobile gaming history or is the community just overreacting? Drop your thoughts below!\n\n#shorts #clashroyale #gaming #ken #supercell #mobilegaming",
+              "tags": [
+                "clash royale",
+                "clash royale evolutions",
+                "evo cards",
+                "ken clash royale",
+                "clash royale funny moments",
+                "op cards clash royale",
+                "clash royale meta",
+                "mobile gaming",
+                "clash royale update"
+              ],
+              "pinned_comment": "Be honest: have you abused this broken evo yet, or are you still losing to it? \ud83d\udc40\ud83d\udc47",
+              "ab_variants": {
+                "A": {
+                  "angle": "Curiosity Gap",
+                  "title": "They actually buffed THIS evolution? \ud83d\udc80",
+                  "description": "Ken loses his mind discovering the most broken stat changes ever pushed to a live evolution card. You won't believe what they did to the elixir cost.\n\n\u2022 Uncover the secret stat buffs that broke the meta instantly\n\u2022 See why this card now plays like an absolute Godzilla on the field\n\u2022 Learn how to react when your opponent drops this nightmare\n\nFeaturing: Ken\n\nIs this the most overpowered evolution release in mobile gaming history or is the community just overreacting? Drop your thoughts below!\n\n#shorts #clashroyale #gaming #ken #supercell #mobilegaming"
+                },
+                "B": {
+                  "angle": "Contrarian Truth",
+                  "title": "Nerf this broken evo immediately. NOW.",
+                  "description": "Everyone thinks the latest balance changes are balanced, but Ken proves why this single evolution card completely ruins competitive integrity.\n\n\u2022 Exposing the hidden mechanics that make this card uncounterable\n\u2022 Why traditional defensive strategies fail against the Godzilla buff\n\u2022 The harsh truth about recent developer update priorities\n\nFeaturing: Ken\n\nShould emergency nerfs happen mid-season, or should players just adapt to the chaos? Let's argue in the comments!\n\n#shorts #clashroyale #gaming #ken #supercell #mobilegaming"
+                },
+                "C": {
+                  "angle": "Actionable Protocol",
+                  "title": "How to abuse the new broken evo card",
+                  "description": "Stop losing trophies and start abusing the absolute most overpowered evolution card currently dominating the arena before emergency nerfs hit.\n\n\u2022 Exact deck synergy to maximize this card's insane new stat buffs\n\u2022 Step-by-step placement guide to turn any push into Godzilla mode\n\u2022 Pro tips on outplaying mirror matches using the same evolution\n\nFeaturing: Ken\n\nWhat is your current win rate since adding this evolution to your main deck? Tell us below!\n\n#shorts #clashroyale #gaming #ken #supercell #mobilegaming"
+                }
+              },
+              "active_variant": "A",
+              "test_status": "ACTIVE_TEST",
+              "variant_history": [
+                {
+                  "variant": "A",
+                  "title": "They actually buffed THIS evolution? \ud83d\udc80",
+                  "deployed_at": 1792790798.7115898,
                   "reason": "Initial A/B test deployment"
                 }
               ],
@@ -6183,17 +6251,17 @@
     },
     "PUBLISHER": {
       "status": "working",
-      "current_task": "Short SCHEDULED on YouTube: XcLwVLXufjY (09:30 PM ET (Sat, Oct 24))",
+      "current_task": "Short SCHEDULED on YouTube: OKG3j233Uac (11:30 AM ET (Sun, Oct 25))",
       "last_completed_task": "Uploaded all 3 initial Clash Royale gaming cuts to YouTube (kenclipsburger420)",
       "recent_logs": [
-        "[17:15:41] Deploying to YouTube (@kenclipsburger420) for release 11:30 AM ET (Sat, Oct 24)...",
-        "[17:15:51] Short SCHEDULED on YouTube: fiwX1aRfhEg (11:30 AM ET (Sat, Oct 24))",
-        "[17:19:50] Generating gaming A/B metadata for slot: 04:30 PM ET (Sat, Oct 24)...",
         "[17:19:53] Deploying to YouTube (@kenclipsburger420) for release 04:30 PM ET (Sat, Oct 24)...",
         "[17:19:56] Short SCHEDULED on YouTube: tFp1jfzSrhI (04:30 PM ET (Sat, Oct 24))",
         "[17:23:13] Generating gaming A/B metadata for slot: 09:30 PM ET (Sat, Oct 24)...",
         "[17:23:16] Deploying to YouTube (@kenclipsburger420) for release 09:30 PM ET (Sat, Oct 24)...",
-        "[17:23:19] Short SCHEDULED on YouTube: XcLwVLXufjY (09:30 PM ET (Sat, Oct 24))"
+        "[17:23:19] Short SCHEDULED on YouTube: XcLwVLXufjY (09:30 PM ET (Sat, Oct 24))",
+        "[17:26:36] Generating gaming A/B metadata for slot: 11:30 AM ET (Sun, Oct 25)...",
+        "[17:26:38] Deploying to YouTube (@kenclipsburger420) for release 11:30 AM ET (Sun, Oct 25)...",
+        "[17:26:41] Short SCHEDULED on YouTube: OKG3j233Uac (11:30 AM ET (Sun, Oct 25))"
       ]
     },
     "ANALYST": {
@@ -6765,17 +6833,6 @@
         "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792576919_0_master.mp4"
       },
       {
-        "id": "ken_1792663317_2",
-        "creator": "Ken",
-        "title": "they killed the game [Overtime Battle]",
-        "source_title": "they killed the game",
-        "url": "https://www.youtube.com/watch?v=BXTF2EPyMx0",
-        "section": "*540-720",
-        "duration": 1076,
-        "status": "PROCESSING",
-        "added_at": "2026-10-22T10:01:57Z"
-      },
-      {
         "id": "ken_1792767841_0",
         "creator": "Ken",
         "title": "what",
@@ -7162,6 +7219,19 @@
         "added_at": "2026-10-22T10:01:57Z",
         "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792663317_1_master.mp4",
         "youtube_video_id": "XcLwVLXufjY"
+      },
+      {
+        "id": "ken_1792663317_2",
+        "creator": "Ken",
+        "title": "they killed the game [Overtime Battle]",
+        "source_title": "they killed the game",
+        "url": "https://www.youtube.com/watch?v=BXTF2EPyMx0",
+        "section": "*540-720",
+        "duration": 1076,
+        "status": "COMPLETED",
+        "added_at": "2026-10-22T10:01:57Z",
+        "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792663317_2_master.mp4",
+        "youtube_video_id": "OKG3j233Uac"
       }
     ]
   },
@@ -7418,6 +7488,72 @@
               "variant": "A",
               "title": "Where did all the Clash Royale prize money go?",
               "deployed_at": 1792790596.0672488,
+              "reason": "Initial A/B test deployment"
+            }
+          ],
+          "metrics": {
+            "views": 0,
+            "likes": 0,
+            "comments": 0,
+            "retention": 0.0,
+            "ctr": 0.0
+          }
+        },
+        "reframed": "gaming_split"
+      },
+      {
+        "id": "ken_1792663317_2",
+        "source_video": "they killed the game [Overtime Battle]",
+        "creator": "Ken",
+        "title": "They actually buffed THIS evolution? \ud83d\udc80",
+        "publish_at": "2026-10-25T15:30:00Z",
+        "status": "SCHEDULED",
+        "uploaded": true,
+        "youtube_video_id": "OKG3j233Uac",
+        "youtube_url": "https://www.youtube.com/shorts/OKG3j233Uac",
+        "video_file": "ken_1792663317_2_master.mp4",
+        "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792663317_2_master.mp4",
+        "duration": 22.15,
+        "hook_summary": "The creator reacts in utter disbelief to a completely broken evolution card that received massive stat buffs and an elixir reduction, turning it into Godzilla.",
+        "metadata": {
+          "title": "They actually buffed THIS evolution? \ud83d\udc80",
+          "description": "Ken loses his mind discovering the most broken stat changes ever pushed to a live evolution card. You won't believe what they did to the elixir cost.\n\n\u2022 Uncover the secret stat buffs that broke the meta instantly\n\u2022 See why this card now plays like an absolute Godzilla on the field\n\u2022 Learn how to react when your opponent drops this nightmare\n\nFeaturing: Ken\n\nIs this the most overpowered evolution release in mobile gaming history or is the community just overreacting? Drop your thoughts below!\n\n#shorts #clashroyale #gaming #ken #supercell #mobilegaming",
+          "tags": [
+            "clash royale",
+            "clash royale evolutions",
+            "evo cards",
+            "ken clash royale",
+            "clash royale funny moments",
+            "op cards clash royale",
+            "clash royale meta",
+            "mobile gaming",
+            "clash royale update"
+          ],
+          "pinned_comment": "Be honest: have you abused this broken evo yet, or are you still losing to it? \ud83d\udc40\ud83d\udc47",
+          "ab_variants": {
+            "A": {
+              "angle": "Curiosity Gap",
+              "title": "They actually buffed THIS evolution? \ud83d\udc80",
+              "description": "Ken loses his mind discovering the most broken stat changes ever pushed to a live evolution card. You won't believe what they did to the elixir cost.\n\n\u2022 Uncover the secret stat buffs that broke the meta instantly\n\u2022 See why this card now plays like an absolute Godzilla on the field\n\u2022 Learn how to react when your opponent drops this nightmare\n\nFeaturing: Ken\n\nIs this the most overpowered evolution release in mobile gaming history or is the community just overreacting? Drop your thoughts below!\n\n#shorts #clashroyale #gaming #ken #supercell #mobilegaming"
+            },
+            "B": {
+              "angle": "Contrarian Truth",
+              "title": "Nerf this broken evo immediately. NOW.",
+              "description": "Everyone thinks the latest balance changes are balanced, but Ken proves why this single evolution card completely ruins competitive integrity.\n\n\u2022 Exposing the hidden mechanics that make this card uncounterable\n\u2022 Why traditional defensive strategies fail against the Godzilla buff\n\u2022 The harsh truth about recent developer update priorities\n\nFeaturing: Ken\n\nShould emergency nerfs happen mid-season, or should players just adapt to the chaos? Let's argue in the comments!\n\n#shorts #clashroyale #gaming #ken #supercell #mobilegaming"
+            },
+            "C": {
+              "angle": "Actionable Protocol",
+              "title": "How to abuse the new broken evo card",
+              "description": "Stop losing trophies and start abusing the absolute most overpowered evolution card currently dominating the arena before emergency nerfs hit.\n\n\u2022 Exact deck synergy to maximize this card's insane new stat buffs\n\u2022 Step-by-step placement guide to turn any push into Godzilla mode\n\u2022 Pro tips on outplaying mirror matches using the same evolution\n\nFeaturing: Ken\n\nWhat is your current win rate since adding this evolution to your main deck? Tell us below!\n\n#shorts #clashroyale #gaming #ken #supercell #mobilegaming"
+            }
+          },
+          "active_variant": "A",
+          "test_status": "ACTIVE_TEST",
+          "variant_history": [
+            {
+              "variant": "A",
+              "title": "They actually buffed THIS evolution? \ud83d\udc80",
+              "deployed_at": 1792790798.7115898,
               "reason": "Initial A/B test deployment"
             }
           ],

@@ -1,6 +1,6 @@
 {
-  "timestamp": 1792864036.441028,
-  "sync_time_iso": "2026-10-24T17:47:16Z",
+  "timestamp": 1792864104.23214,
+  "sync_time_iso": "2026-10-24T17:48:24Z",
   "default_channel": "ken_clips_burger",
   "channels": {
     "ken_clips_burger": {
@@ -94,17 +94,17 @@
       "agents": {
         "SCOUT": {
           "status": "working",
-          "current_task": "Queue up to date. Waiting for next daily Ken upload.",
+          "current_task": "Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
           "last_completed_task": "Ingested 5 recent Ken master videos into source pool",
           "recent_logs": [
-            "[13:36:23] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
             "[13:36:59] Queue up to date. Waiting for next daily Ken upload.",
             "[13:39:01] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
             "[13:39:32] Queue up to date. Waiting for next daily Ken upload.",
             "[13:41:42] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
             "[13:42:44] Error scanning Ken feed: Command '['/Users/jacksonmcmurdo/Desktop/Muk_Post/02_BUSINESS_&_OPERATIONS/muk_jarvis_env/bin/python3', '-m', 'yt_dlp', '--flat-playlist', '--print', '%(title)s;;;%(url)s;;;%(duration)s', 'https://www.youtube.com/@kenforrest/videos']' timed out after 60 seconds",
             "[13:45:27] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
-            "[13:45:45] Queue up to date. Waiting for next daily Ken upload."
+            "[13:45:45] Queue up to date. Waiting for next daily Ken upload.",
+            "[13:47:47] Scanning @kenforrest YouTube feed for latest Clash Royale uploads..."
           ]
         },
         "STRATEGIST": {
@@ -6508,17 +6508,17 @@
   "agents": {
     "SCOUT": {
       "status": "working",
-      "current_task": "Queue up to date. Waiting for next daily Ken upload.",
+      "current_task": "Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
       "last_completed_task": "Ingested 5 recent Ken master videos into source pool",
       "recent_logs": [
-        "[13:36:23] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
         "[13:36:59] Queue up to date. Waiting for next daily Ken upload.",
         "[13:39:01] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
         "[13:39:32] Queue up to date. Waiting for next daily Ken upload.",
         "[13:41:42] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
         "[13:42:44] Error scanning Ken feed: Command '['/Users/jacksonmcmurdo/Desktop/Muk_Post/02_BUSINESS_&_OPERATIONS/muk_jarvis_env/bin/python3', '-m', 'yt_dlp', '--flat-playlist', '--print', '%(title)s;;;%(url)s;;;%(duration)s', 'https://www.youtube.com/@kenforrest/videos']' timed out after 60 seconds",
         "[13:45:27] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
-        "[13:45:45] Queue up to date. Waiting for next daily Ken upload."
+        "[13:45:45] Queue up to date. Waiting for next daily Ken upload.",
+        "[13:47:47] Scanning @kenforrest YouTube feed for latest Clash Royale uploads..."
       ]
     },
     "STRATEGIST": {

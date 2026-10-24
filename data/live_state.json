@@ -1,6 +1,6 @@
 {
-  "timestamp": 1792854691.432574,
-  "sync_time_iso": "2026-10-24T15:11:31Z",
+  "timestamp": 1792854753.195349,
+  "sync_time_iso": "2026-10-24T15:12:33Z",
   "default_channel": "ken_clips_burger",
   "channels": {
     "ken_clips_burger": {
@@ -94,17 +94,17 @@
       "agents": {
         "SCOUT": {
           "status": "working",
-          "current_task": "Ingested 3 fresh Ken clip candidate(s) into queue.",
+          "current_task": "Queue up to date. Waiting for next daily Ken upload.",
           "last_completed_task": "Ingested 5 recent Ken master videos into source pool",
           "recent_logs": [
-            "[06:41:03] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
-            "[06:41:15] Queue up to date. Waiting for next daily Ken upload.",
             "[08:15:38] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
             "[08:25:55] Queue up to date. Waiting for next daily Ken upload.",
             "[10:27:55] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
             "[11:06:01] Queue up to date. Waiting for next daily Ken upload.",
             "[11:08:03] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
-            "[11:08:15] Ingested 3 fresh Ken clip candidate(s) into queue."
+            "[11:08:15] Ingested 3 fresh Ken clip candidate(s) into queue.",
+            "[11:11:39] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
+            "[11:11:50] Queue up to date. Waiting for next daily Ken upload."
           ]
         },
         "STRATEGIST": {
@@ -124,17 +124,17 @@
         },
         "EDITOR": {
           "status": "working",
-          "current_task": "Rendering gaming_split Short with captions: Giant Evolution [Highlight]",
+          "current_task": "Rendering gaming_split Short with captions: Giant Evolution [Clutch Moment",
           "last_completed_task": "Rendered 'hp buffed' rage highlight with kinetic pop captions & commentary",
           "recent_logs": [
-            "[17:22:14] Downloading 1080p highlight segment (*300-480) for: they killed the game [Clutch Moment...",
-            "[17:22:26] Rendering gaming_split Short with captions: they killed the game [Clutch M",
             "[17:25:33] Downloading 1080p highlight segment (*540-720) for: they killed the game [Overtime Batt...",
             "[17:25:43] Rendering gaming_split Short with captions: they killed the game [Overtime",
             "[17:28:56] Downloading 1080p highlight segment (*60-240) for: what...",
             "[17:29:10] Rendering gaming_split Short with captions: what",
             "[11:08:15] Downloading 1080p highlight segment (*60-240) for: Giant Evolution [Highlight]...",
-            "[11:08:26] Rendering gaming_split Short with captions: Giant Evolution [Highlight]"
+            "[11:08:26] Rendering gaming_split Short with captions: Giant Evolution [Highlight]",
+            "[11:11:50] Downloading 1080p highlight segment (*300-480) for: Giant Evolution [Clutch Moment]...",
+            "[11:12:01] Rendering gaming_split Short with captions: Giant Evolution [Clutch Moment"
           ]
         },
         "COMMENTATOR": {
@@ -737,7 +737,7 @@
             "url": "https://www.youtube.com/watch?v=fV0sbJMIfvQ",
             "section": "*300-480",
             "duration": 1048,
-            "status": "QUEUED",
+            "status": "PROCESSING",
             "added_at": "2026-10-24T15:08:15Z"
           },
           {
@@ -6368,17 +6368,17 @@
   "agents": {
     "SCOUT": {
       "status": "working",
-      "current_task": "Ingested 3 fresh Ken clip candidate(s) into queue.",
+      "current_task": "Queue up to date. Waiting for next daily Ken upload.",
       "last_completed_task": "Ingested 5 recent Ken master videos into source pool",
       "recent_logs": [
-        "[06:41:03] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
-        "[06:41:15] Queue up to date. Waiting for next daily Ken upload.",
         "[08:15:38] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
         "[08:25:55] Queue up to date. Waiting for next daily Ken upload.",
         "[10:27:55] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
         "[11:06:01] Queue up to date. Waiting for next daily Ken upload.",
         "[11:08:03] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
-        "[11:08:15] Ingested 3 fresh Ken clip candidate(s) into queue."
+        "[11:08:15] Ingested 3 fresh Ken clip candidate(s) into queue.",
+        "[11:11:39] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
+        "[11:11:50] Queue up to date. Waiting for next daily Ken upload."
       ]
     },
     "STRATEGIST": {
@@ -6398,17 +6398,17 @@
     },
     "EDITOR": {
       "status": "working",
-      "current_task": "Rendering gaming_split Short with captions: Giant Evolution [Highlight]",
+      "current_task": "Rendering gaming_split Short with captions: Giant Evolution [Clutch Moment",
       "last_completed_task": "Rendered 'hp buffed' rage highlight with kinetic pop captions & commentary",
       "recent_logs": [
-        "[17:22:14] Downloading 1080p highlight segment (*300-480) for: they killed the game [Clutch Moment...",
-        "[17:22:26] Rendering gaming_split Short with captions: they killed the game [Clutch M",
         "[17:25:33] Downloading 1080p highlight segment (*540-720) for: they killed the game [Overtime Batt...",
         "[17:25:43] Rendering gaming_split Short with captions: they killed the game [Overtime",
         "[17:28:56] Downloading 1080p highlight segment (*60-240) for: what...",
         "[17:29:10] Rendering gaming_split Short with captions: what",
         "[11:08:15] Downloading 1080p highlight segment (*60-240) for: Giant Evolution [Highlight]...",
-        "[11:08:26] Rendering gaming_split Short with captions: Giant Evolution [Highlight]"
+        "[11:08:26] Rendering gaming_split Short with captions: Giant Evolution [Highlight]",
+        "[11:11:50] Downloading 1080p highlight segment (*300-480) for: Giant Evolution [Clutch Moment]...",
+        "[11:12:01] Rendering gaming_split Short with captions: Giant Evolution [Clutch Moment"
       ]
     },
     "COMMENTATOR": {
@@ -7011,7 +7011,7 @@
         "url": "https://www.youtube.com/watch?v=fV0sbJMIfvQ",
         "section": "*300-480",
         "duration": 1048,
-        "status": "QUEUED",
+        "status": "PROCESSING",
         "added_at": "2026-10-24T15:08:15Z"
       },
       {

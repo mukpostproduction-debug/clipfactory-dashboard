@@ -1,6 +1,6 @@
 {
-  "timestamp": 1792854753.195349,
-  "sync_time_iso": "2026-10-24T15:12:33Z",
+  "timestamp": 1792854801.254389,
+  "sync_time_iso": "2026-10-24T15:13:21Z",
   "default_channel": "ken_clips_burger",
   "channels": {
     "ken_clips_burger": {
@@ -148,17 +148,17 @@
         },
         "PUBLISHER": {
           "status": "working",
-          "current_task": "Short SCHEDULED on YouTube: YjctDLZRdGc (09:30 PM ET (Sun, Oct 25))",
+          "current_task": "Short SCHEDULED on YouTube: IZkvSXd1wt4 (11:30 AM ET (Mon, Oct 26))",
           "last_completed_task": "Uploaded all 3 initial Clash Royale gaming cuts to YouTube (kenclipsburger420)",
           "recent_logs": [
-            "[17:26:38] Deploying to YouTube (@kenclipsburger420) for release 11:30 AM ET (Sun, Oct 25)...",
-            "[17:26:41] Short SCHEDULED on YouTube: OKG3j233Uac (11:30 AM ET (Sun, Oct 25))",
-            "[17:29:46] Generating gaming A/B metadata for slot: 04:30 PM ET (Sun, Oct 25)...",
             "[17:29:49] Deploying to YouTube (@kenclipsburger420) for release 04:30 PM ET (Sun, Oct 25)...",
             "[17:29:54] Short SCHEDULED on YouTube: kSh69WqVzNI (04:30 PM ET (Sun, Oct 25))",
             "[11:09:21] Generating gaming A/B metadata for slot: 09:30 PM ET (Sun, Oct 25)...",
             "[11:09:30] Deploying to YouTube (@kenclipsburger420) for release 09:30 PM ET (Sun, Oct 25)...",
-            "[11:09:35] Short SCHEDULED on YouTube: YjctDLZRdGc (09:30 PM ET (Sun, Oct 25))"
+            "[11:09:35] Short SCHEDULED on YouTube: YjctDLZRdGc (09:30 PM ET (Sun, Oct 25))",
+            "[11:13:05] Generating gaming A/B metadata for slot: 11:30 AM ET (Mon, Oct 26)...",
+            "[11:13:14] Deploying to YouTube (@kenclipsburger420) for release 11:30 AM ET (Mon, Oct 26)...",
+            "[11:13:21] Short SCHEDULED on YouTube: IZkvSXd1wt4 (11:30 AM ET (Mon, Oct 26))"
           ]
         },
         "ANALYST": {
@@ -730,17 +730,6 @@
             "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792576919_0_master.mp4"
           },
           {
-            "id": "ken_1792854495_1",
-            "creator": "Ken",
-            "title": "Giant Evolution [Clutch Moment]",
-            "source_title": "Giant Evolution",
-            "url": "https://www.youtube.com/watch?v=fV0sbJMIfvQ",
-            "section": "*300-480",
-            "duration": 1048,
-            "status": "PROCESSING",
-            "added_at": "2026-10-24T15:08:15Z"
-          },
-          {
             "id": "ken_1792854495_2",
             "creator": "Ken",
             "title": "Giant Evolution [Overtime Battle]",
@@ -1166,6 +1155,19 @@
             "added_at": "2026-10-24T15:08:15Z",
             "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792854495_0_master.mp4",
             "youtube_video_id": "YjctDLZRdGc"
+          },
+          {
+            "id": "ken_1792854495_1",
+            "creator": "Ken",
+            "title": "Giant Evolution [Clutch Moment]",
+            "source_title": "Giant Evolution",
+            "url": "https://www.youtube.com/watch?v=fV0sbJMIfvQ",
+            "section": "*300-480",
+            "duration": 1048,
+            "status": "COMPLETED",
+            "added_at": "2026-10-24T15:08:15Z",
+            "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792854495_1_master.mp4",
+            "youtube_video_id": "IZkvSXd1wt4"
           }
         ]
       },
@@ -1554,6 +1556,73 @@
                   "variant": "A",
                   "title": "This Evo Goblin Giant Combo Broke Clash...",
                   "deployed_at": 1792854570.707964,
+                  "reason": "Initial A/B test deployment"
+                }
+              ],
+              "metrics": {
+                "views": 0,
+                "likes": 0,
+                "comments": 0,
+                "retention": 0.0,
+                "ctr": 0.0
+              }
+            },
+            "reframed": "gaming_split"
+          },
+          {
+            "id": "ken_1792854495_1",
+            "source_video": "Giant Evolution [Clutch Moment]",
+            "creator": "Ken",
+            "title": "This Evo Giant Interaction Is Broken...",
+            "publish_at": "2026-10-26T15:30:00Z",
+            "status": "SCHEDULED",
+            "uploaded": true,
+            "youtube_video_id": "IZkvSXd1wt4",
+            "youtube_url": "https://www.youtube.com/shorts/IZkvSXd1wt4",
+            "video_file": "ken_1792854495_1_master.mp4",
+            "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792854495_1_master.mp4",
+            "duration": 27.82,
+            "hook_summary": "The creator reacts to a massive unexpected push taking a turret to half HP, leading to a realization about the most gimmicky part of the card.",
+            "metadata": {
+              "title": "This Evo Giant Interaction Is Broken...",
+              "description": "Ken just realized why the Evolution Giant is the ultimate gimmick card in Clash Royale right now.\n\n\u2022 Watch a single push melt a turret to half HP instantly\n\u2022 The hidden synergy between Rage spell and Evo Giant\n\u2022 Why you cannot ignore this card in the current meta\n\nFeaturing: Ken\n\nIs Evo Giant actually broken, or is this just bad defense? Let us know below!\n\n#shorts #clashroyale #gaming #ken #evogiant #mobilegaming",
+              "tags": [
+                "clash royale",
+                "ken clash royale",
+                "evo giant",
+                "evolution giant clash royale",
+                "clash royale gameplay",
+                "evo giant rage push",
+                "clash royale best deck",
+                "clash royale funny moments",
+                "clash royale strategy",
+                "supercell"
+              ],
+              "pinned_comment": "Is Evo Giant actually overpowered or is this just a lucky push? Drop your hot takes below \ud83d\udc47",
+              "ab_variants": {
+                "A": {
+                  "angle": "Curiosity Gap",
+                  "title": "This Evo Giant Interaction Is Broken...",
+                  "description": "Ken just realized why the Evolution Giant is the ultimate gimmick card in Clash Royale right now.\n\n\u2022 Watch a single push melt a turret to half HP instantly\n\u2022 The hidden synergy between Rage spell and Evo Giant\n\u2022 Why you cannot ignore this card in the current meta\n\nFeaturing: Ken\n\nIs Evo Giant actually broken, or is this just bad defense? Let us know below!\n\n#shorts #clashroyale #gaming #ken #evogiant #mobilegaming"
+                },
+                "B": {
+                  "angle": "Contrarian Truth",
+                  "title": "Evo Giant Is Actually the Dirtiest Card",
+                  "description": "Everyone thinks Evo Giant is balanced, but this single clip proves it's the most toxic gimmick in the game.\n\n\u2022 Half HP tower gone in a literal blink of an eye\n\u2022 Why Rage spell makes Evo Giant completely unfair\n\u2022 The broken push strategy Clash Royale pros abuse\n\nFeaturing: Ken\n\nWhich card needs an immediate nerf in Clash Royale right now?\n\n#shorts #clashroyale #gaming #supercell #clashroyalememes #ken"
+                },
+                "C": {
+                  "angle": "Actionable Protocol",
+                  "title": "How to Wipe Towers in Seconds with Giant",
+                  "description": "Master the ultimate Evo Giant push strategy to strip half a tower's health in seconds.\n\n\u2022 Time your Rage spell right as Evo Giant locks on\n\u2022 Overwhelm defenses before they can cycle counters\n\u2022 Punish heavy elixir investments with instant lane pressure\n\nFeaturing: Ken\n\nHow do you personally defend against an Evo Giant Rage push?\n\n#shorts #clashroyale #clashroyaletips #gaming #evogiant #ken"
+                }
+              },
+              "active_variant": "A",
+              "test_status": "ACTIVE_TEST",
+              "variant_history": [
+                {
+                  "variant": "A",
+                  "title": "This Evo Giant Interaction Is Broken...",
+                  "deployed_at": 1792854794.621923,
                   "reason": "Initial A/B test deployment"
                 }
               ],
@@ -6422,17 +6491,17 @@
     },
     "PUBLISHER": {
       "status": "working",
-      "current_task": "Short SCHEDULED on YouTube: YjctDLZRdGc (09:30 PM ET (Sun, Oct 25))",
+      "current_task": "Short SCHEDULED on YouTube: IZkvSXd1wt4 (11:30 AM ET (Mon, Oct 26))",
       "last_completed_task": "Uploaded all 3 initial Clash Royale gaming cuts to YouTube (kenclipsburger420)",
       "recent_logs": [
-        "[17:26:38] Deploying to YouTube (@kenclipsburger420) for release 11:30 AM ET (Sun, Oct 25)...",
-        "[17:26:41] Short SCHEDULED on YouTube: OKG3j233Uac (11:30 AM ET (Sun, Oct 25))",
-        "[17:29:46] Generating gaming A/B metadata for slot: 04:30 PM ET (Sun, Oct 25)...",
         "[17:29:49] Deploying to YouTube (@kenclipsburger420) for release 04:30 PM ET (Sun, Oct 25)...",
         "[17:29:54] Short SCHEDULED on YouTube: kSh69WqVzNI (04:30 PM ET (Sun, Oct 25))",
         "[11:09:21] Generating gaming A/B metadata for slot: 09:30 PM ET (Sun, Oct 25)...",
         "[11:09:30] Deploying to YouTube (@kenclipsburger420) for release 09:30 PM ET (Sun, Oct 25)...",
-        "[11:09:35] Short SCHEDULED on YouTube: YjctDLZRdGc (09:30 PM ET (Sun, Oct 25))"
+        "[11:09:35] Short SCHEDULED on YouTube: YjctDLZRdGc (09:30 PM ET (Sun, Oct 25))",
+        "[11:13:05] Generating gaming A/B metadata for slot: 11:30 AM ET (Mon, Oct 26)...",
+        "[11:13:14] Deploying to YouTube (@kenclipsburger420) for release 11:30 AM ET (Mon, Oct 26)...",
+        "[11:13:21] Short SCHEDULED on YouTube: IZkvSXd1wt4 (11:30 AM ET (Mon, Oct 26))"
       ]
     },
     "ANALYST": {
@@ -7004,17 +7073,6 @@
         "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792576919_0_master.mp4"
       },
       {
-        "id": "ken_1792854495_1",
-        "creator": "Ken",
-        "title": "Giant Evolution [Clutch Moment]",
-        "source_title": "Giant Evolution",
-        "url": "https://www.youtube.com/watch?v=fV0sbJMIfvQ",
-        "section": "*300-480",
-        "duration": 1048,
-        "status": "PROCESSING",
-        "added_at": "2026-10-24T15:08:15Z"
-      },
-      {
         "id": "ken_1792854495_2",
         "creator": "Ken",
         "title": "Giant Evolution [Overtime Battle]",
@@ -7440,6 +7498,19 @@
         "added_at": "2026-10-24T15:08:15Z",
         "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792854495_0_master.mp4",
         "youtube_video_id": "YjctDLZRdGc"
+      },
+      {
+        "id": "ken_1792854495_1",
+        "creator": "Ken",
+        "title": "Giant Evolution [Clutch Moment]",
+        "source_title": "Giant Evolution",
+        "url": "https://www.youtube.com/watch?v=fV0sbJMIfvQ",
+        "section": "*300-480",
+        "duration": 1048,
+        "status": "COMPLETED",
+        "added_at": "2026-10-24T15:08:15Z",
+        "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792854495_1_master.mp4",
+        "youtube_video_id": "IZkvSXd1wt4"
       }
     ]
   },
@@ -7828,6 +7899,73 @@
               "variant": "A",
               "title": "This Evo Goblin Giant Combo Broke Clash...",
               "deployed_at": 1792854570.707964,
+              "reason": "Initial A/B test deployment"
+            }
+          ],
+          "metrics": {
+            "views": 0,
+            "likes": 0,
+            "comments": 0,
+            "retention": 0.0,
+            "ctr": 0.0
+          }
+        },
+        "reframed": "gaming_split"
+      },
+      {
+        "id": "ken_1792854495_1",
+        "source_video": "Giant Evolution [Clutch Moment]",
+        "creator": "Ken",
+        "title": "This Evo Giant Interaction Is Broken...",
+        "publish_at": "2026-10-26T15:30:00Z",
+        "status": "SCHEDULED",
+        "uploaded": true,
+        "youtube_video_id": "IZkvSXd1wt4",
+        "youtube_url": "https://www.youtube.com/shorts/IZkvSXd1wt4",
+        "video_file": "ken_1792854495_1_master.mp4",
+        "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792854495_1_master.mp4",
+        "duration": 27.82,
+        "hook_summary": "The creator reacts to a massive unexpected push taking a turret to half HP, leading to a realization about the most gimmicky part of the card.",
+        "metadata": {
+          "title": "This Evo Giant Interaction Is Broken...",
+          "description": "Ken just realized why the Evolution Giant is the ultimate gimmick card in Clash Royale right now.\n\n\u2022 Watch a single push melt a turret to half HP instantly\n\u2022 The hidden synergy between Rage spell and Evo Giant\n\u2022 Why you cannot ignore this card in the current meta\n\nFeaturing: Ken\n\nIs Evo Giant actually broken, or is this just bad defense? Let us know below!\n\n#shorts #clashroyale #gaming #ken #evogiant #mobilegaming",
+          "tags": [
+            "clash royale",
+            "ken clash royale",
+            "evo giant",
+            "evolution giant clash royale",
+            "clash royale gameplay",
+            "evo giant rage push",
+            "clash royale best deck",
+            "clash royale funny moments",
+            "clash royale strategy",
+            "supercell"
+          ],
+          "pinned_comment": "Is Evo Giant actually overpowered or is this just a lucky push? Drop your hot takes below \ud83d\udc47",
+          "ab_variants": {
+            "A": {
+              "angle": "Curiosity Gap",
+              "title": "This Evo Giant Interaction Is Broken...",
+              "description": "Ken just realized why the Evolution Giant is the ultimate gimmick card in Clash Royale right now.\n\n\u2022 Watch a single push melt a turret to half HP instantly\n\u2022 The hidden synergy between Rage spell and Evo Giant\n\u2022 Why you cannot ignore this card in the current meta\n\nFeaturing: Ken\n\nIs Evo Giant actually broken, or is this just bad defense? Let us know below!\n\n#shorts #clashroyale #gaming #ken #evogiant #mobilegaming"
+            },
+            "B": {
+              "angle": "Contrarian Truth",
+              "title": "Evo Giant Is Actually the Dirtiest Card",
+              "description": "Everyone thinks Evo Giant is balanced, but this single clip proves it's the most toxic gimmick in the game.\n\n\u2022 Half HP tower gone in a literal blink of an eye\n\u2022 Why Rage spell makes Evo Giant completely unfair\n\u2022 The broken push strategy Clash Royale pros abuse\n\nFeaturing: Ken\n\nWhich card needs an immediate nerf in Clash Royale right now?\n\n#shorts #clashroyale #gaming #supercell #clashroyalememes #ken"
+            },
+            "C": {
+              "angle": "Actionable Protocol",
+              "title": "How to Wipe Towers in Seconds with Giant",
+              "description": "Master the ultimate Evo Giant push strategy to strip half a tower's health in seconds.\n\n\u2022 Time your Rage spell right as Evo Giant locks on\n\u2022 Overwhelm defenses before they can cycle counters\n\u2022 Punish heavy elixir investments with instant lane pressure\n\nFeaturing: Ken\n\nHow do you personally defend against an Evo Giant Rage push?\n\n#shorts #clashroyale #clashroyaletips #gaming #evogiant #ken"
+            }
+          },
+          "active_variant": "A",
+          "test_status": "ACTIVE_TEST",
+          "variant_history": [
+            {
+              "variant": "A",
+              "title": "This Evo Giant Interaction Is Broken...",
+              "deployed_at": 1792854794.621923,
               "reason": "Initial A/B test deployment"
             }
           ],

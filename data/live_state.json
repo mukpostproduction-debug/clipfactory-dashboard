@@ -1,6 +1,6 @@
 {
-  "timestamp": 1792854567.6226509,
-  "sync_time_iso": "2026-10-24T15:09:27Z",
+  "timestamp": 1792854576.071127,
+  "sync_time_iso": "2026-10-24T15:09:36Z",
   "default_channel": "ken_clips_burger",
   "channels": {
     "ken_clips_burger": {
@@ -148,17 +148,17 @@
         },
         "PUBLISHER": {
           "status": "working",
-          "current_task": "Generating gaming A/B metadata for slot: 09:30 PM ET (Sun, Oct 25)...",
+          "current_task": "Short SCHEDULED on YouTube: YjctDLZRdGc (09:30 PM ET (Sun, Oct 25))",
           "last_completed_task": "Uploaded all 3 initial Clash Royale gaming cuts to YouTube (kenclipsburger420)",
           "recent_logs": [
-            "[17:23:19] Short SCHEDULED on YouTube: XcLwVLXufjY (09:30 PM ET (Sat, Oct 24))",
-            "[17:26:36] Generating gaming A/B metadata for slot: 11:30 AM ET (Sun, Oct 25)...",
             "[17:26:38] Deploying to YouTube (@kenclipsburger420) for release 11:30 AM ET (Sun, Oct 25)...",
             "[17:26:41] Short SCHEDULED on YouTube: OKG3j233Uac (11:30 AM ET (Sun, Oct 25))",
             "[17:29:46] Generating gaming A/B metadata for slot: 04:30 PM ET (Sun, Oct 25)...",
             "[17:29:49] Deploying to YouTube (@kenclipsburger420) for release 04:30 PM ET (Sun, Oct 25)...",
             "[17:29:54] Short SCHEDULED on YouTube: kSh69WqVzNI (04:30 PM ET (Sun, Oct 25))",
-            "[11:09:21] Generating gaming A/B metadata for slot: 09:30 PM ET (Sun, Oct 25)..."
+            "[11:09:21] Generating gaming A/B metadata for slot: 09:30 PM ET (Sun, Oct 25)...",
+            "[11:09:30] Deploying to YouTube (@kenclipsburger420) for release 09:30 PM ET (Sun, Oct 25)...",
+            "[11:09:35] Short SCHEDULED on YouTube: YjctDLZRdGc (09:30 PM ET (Sun, Oct 25))"
           ]
         },
         "ANALYST": {
@@ -730,17 +730,6 @@
             "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792576919_0_master.mp4"
           },
           {
-            "id": "ken_1792854495_0",
-            "creator": "Ken",
-            "title": "Giant Evolution [Highlight]",
-            "source_title": "Giant Evolution",
-            "url": "https://www.youtube.com/watch?v=fV0sbJMIfvQ",
-            "section": "*60-240",
-            "duration": 1048,
-            "status": "PROCESSING",
-            "added_at": "2026-10-24T15:08:15Z"
-          },
-          {
             "id": "ken_1792854495_1",
             "creator": "Ken",
             "title": "Giant Evolution [Clutch Moment]",
@@ -1164,6 +1153,19 @@
             "added_at": "2026-10-23T15:04:01Z",
             "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792767841_0_master.mp4",
             "youtube_video_id": "kSh69WqVzNI"
+          },
+          {
+            "id": "ken_1792854495_0",
+            "creator": "Ken",
+            "title": "Giant Evolution [Highlight]",
+            "source_title": "Giant Evolution",
+            "url": "https://www.youtube.com/watch?v=fV0sbJMIfvQ",
+            "section": "*60-240",
+            "duration": 1048,
+            "status": "COMPLETED",
+            "added_at": "2026-10-24T15:08:15Z",
+            "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792854495_0_master.mp4",
+            "youtube_video_id": "YjctDLZRdGc"
           }
         ]
       },
@@ -1486,6 +1488,72 @@
                   "variant": "A",
                   "title": "Why Rage Spell is Dead...",
                   "deployed_at": 1792790989.4580219,
+                  "reason": "Initial A/B test deployment"
+                }
+              ],
+              "metrics": {
+                "views": 0,
+                "likes": 0,
+                "comments": 0,
+                "retention": 0.0,
+                "ctr": 0.0
+              }
+            },
+            "reframed": "gaming_split"
+          },
+          {
+            "id": "ken_1792854495_0",
+            "source_video": "Giant Evolution [Highlight]",
+            "creator": "Ken",
+            "title": "This Evo Goblin Giant Combo Broke Clash...",
+            "publish_at": "2026-10-26T01:30:00Z",
+            "status": "SCHEDULED",
+            "uploaded": true,
+            "youtube_video_id": "YjctDLZRdGc",
+            "youtube_url": "https://www.youtube.com/shorts/YjctDLZRdGc",
+            "video_file": "ken_1792854495_0_master.mp4",
+            "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792854495_0_master.mp4",
+            "duration": 22.07,
+            "hook_summary": "The creator has a sudden, brilliant game plan to combine the Evo Goblin Giant with Freeze to create an unstoppable, infinitely growing rage trap.",
+            "metadata": {
+              "title": "This Evo Goblin Giant Combo Broke Clash...",
+              "description": "Ken just realized a secret interaction with the Evo Goblin Giant that might completely break the game logic. Is this strategy actually unstoppable?\n\n\u2022 How to stack infinite Goblins using Freeze\n\u2022 Creating an inescapable rage trap\n\u2022 Exploiting spawn timing for maximum chaos\n\nFeaturing: Ken\n\nIs this combo an unfair exploit or pure genius?\n\n#shorts #clashroyale #gaming #ken #supercell",
+              "tags": [
+                "clash royale",
+                "evo goblin giant",
+                "ken clash royale",
+                "clash royale glitch",
+                "infinite goblins",
+                "clash royale strategy",
+                "clash royale shorts",
+                "supercell",
+                "evo giant combo"
+              ],
+              "pinned_comment": "Is this infinite Goblin strat genius or does it ruin the game? Let me know below! \ud83d\udc47",
+              "ab_variants": {
+                "A": {
+                  "angle": "Curiosity Gap",
+                  "title": "This Evo Goblin Giant Combo Broke Clash...",
+                  "description": "Ken just realized a secret interaction with the Evo Goblin Giant that might completely break the game logic. Is this strategy actually unstoppable?\n\n\u2022 How to stack infinite Goblins using Freeze\n\u2022 Creating an inescapable rage trap\n\u2022 Exploiting spawn timing for maximum chaos\n\nFeaturing: Ken\n\nIs this combo an unfair exploit or pure genius?\n\n#shorts #clashroyale #gaming #ken #supercell"
+                },
+                "B": {
+                  "angle": "Contrarian Truth",
+                  "title": "Stop Playing Evo Goblin Giant Wrong!",
+                  "description": "Most players are using the Evo Goblin Giant completely wrong. Ken proves that pairing it with Freeze creates an infinite spawn loop that destroys traditional defense.\n\n\u2022 Why standard counters fail against this strat\n\u2022 The Freeze timing secret to infinite Goblins\n\u2022 Turning a push into an instant 3-crown win\n\nFeaturing: Ken\n\nShould Supercell patch this combo immediately?\n\n#shorts #clashroyale #gaming #ken #mobilegaming"
+                },
+                "C": {
+                  "angle": "Actionable Protocol",
+                  "title": "The Infinite Goblin Spawn Deck Strategy",
+                  "description": "Here is the exact setup to trigger an endless Goblin spawn loop in your next match. Master this simple sequence to lock down the arena.\n\n\u2022 Precise placement for Evo Goblin Giant\n\u2022 Freeze spell timing to maximize Goblin output\n\u2022 Overwhelming towers before opponent elixir recharges\n\nFeaturing: Ken\n\nWhat card is the ultimate hard counter to this strategy?\n\n#shorts #clashroyale #mobilegaming #ken #clashroyaledeck"
+                }
+              },
+              "active_variant": "A",
+              "test_status": "ACTIVE_TEST",
+              "variant_history": [
+                {
+                  "variant": "A",
+                  "title": "This Evo Goblin Giant Combo Broke Clash...",
+                  "deployed_at": 1792854570.707964,
                   "reason": "Initial A/B test deployment"
                 }
               ],
@@ -6354,17 +6422,17 @@
     },
     "PUBLISHER": {
       "status": "working",
-      "current_task": "Generating gaming A/B metadata for slot: 09:30 PM ET (Sun, Oct 25)...",
+      "current_task": "Short SCHEDULED on YouTube: YjctDLZRdGc (09:30 PM ET (Sun, Oct 25))",
       "last_completed_task": "Uploaded all 3 initial Clash Royale gaming cuts to YouTube (kenclipsburger420)",
       "recent_logs": [
-        "[17:23:19] Short SCHEDULED on YouTube: XcLwVLXufjY (09:30 PM ET (Sat, Oct 24))",
-        "[17:26:36] Generating gaming A/B metadata for slot: 11:30 AM ET (Sun, Oct 25)...",
         "[17:26:38] Deploying to YouTube (@kenclipsburger420) for release 11:30 AM ET (Sun, Oct 25)...",
         "[17:26:41] Short SCHEDULED on YouTube: OKG3j233Uac (11:30 AM ET (Sun, Oct 25))",
         "[17:29:46] Generating gaming A/B metadata for slot: 04:30 PM ET (Sun, Oct 25)...",
         "[17:29:49] Deploying to YouTube (@kenclipsburger420) for release 04:30 PM ET (Sun, Oct 25)...",
         "[17:29:54] Short SCHEDULED on YouTube: kSh69WqVzNI (04:30 PM ET (Sun, Oct 25))",
-        "[11:09:21] Generating gaming A/B metadata for slot: 09:30 PM ET (Sun, Oct 25)..."
+        "[11:09:21] Generating gaming A/B metadata for slot: 09:30 PM ET (Sun, Oct 25)...",
+        "[11:09:30] Deploying to YouTube (@kenclipsburger420) for release 09:30 PM ET (Sun, Oct 25)...",
+        "[11:09:35] Short SCHEDULED on YouTube: YjctDLZRdGc (09:30 PM ET (Sun, Oct 25))"
       ]
     },
     "ANALYST": {
@@ -6936,17 +7004,6 @@
         "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792576919_0_master.mp4"
       },
       {
-        "id": "ken_1792854495_0",
-        "creator": "Ken",
-        "title": "Giant Evolution [Highlight]",
-        "source_title": "Giant Evolution",
-        "url": "https://www.youtube.com/watch?v=fV0sbJMIfvQ",
-        "section": "*60-240",
-        "duration": 1048,
-        "status": "PROCESSING",
-        "added_at": "2026-10-24T15:08:15Z"
-      },
-      {
         "id": "ken_1792854495_1",
         "creator": "Ken",
         "title": "Giant Evolution [Clutch Moment]",
@@ -7370,6 +7427,19 @@
         "added_at": "2026-10-23T15:04:01Z",
         "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792767841_0_master.mp4",
         "youtube_video_id": "kSh69WqVzNI"
+      },
+      {
+        "id": "ken_1792854495_0",
+        "creator": "Ken",
+        "title": "Giant Evolution [Highlight]",
+        "source_title": "Giant Evolution",
+        "url": "https://www.youtube.com/watch?v=fV0sbJMIfvQ",
+        "section": "*60-240",
+        "duration": 1048,
+        "status": "COMPLETED",
+        "added_at": "2026-10-24T15:08:15Z",
+        "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792854495_0_master.mp4",
+        "youtube_video_id": "YjctDLZRdGc"
       }
     ]
   },
@@ -7692,6 +7762,72 @@
               "variant": "A",
               "title": "Why Rage Spell is Dead...",
               "deployed_at": 1792790989.4580219,
+              "reason": "Initial A/B test deployment"
+            }
+          ],
+          "metrics": {
+            "views": 0,
+            "likes": 0,
+            "comments": 0,
+            "retention": 0.0,
+            "ctr": 0.0
+          }
+        },
+        "reframed": "gaming_split"
+      },
+      {
+        "id": "ken_1792854495_0",
+        "source_video": "Giant Evolution [Highlight]",
+        "creator": "Ken",
+        "title": "This Evo Goblin Giant Combo Broke Clash...",
+        "publish_at": "2026-10-26T01:30:00Z",
+        "status": "SCHEDULED",
+        "uploaded": true,
+        "youtube_video_id": "YjctDLZRdGc",
+        "youtube_url": "https://www.youtube.com/shorts/YjctDLZRdGc",
+        "video_file": "ken_1792854495_0_master.mp4",
+        "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792854495_0_master.mp4",
+        "duration": 22.07,
+        "hook_summary": "The creator has a sudden, brilliant game plan to combine the Evo Goblin Giant with Freeze to create an unstoppable, infinitely growing rage trap.",
+        "metadata": {
+          "title": "This Evo Goblin Giant Combo Broke Clash...",
+          "description": "Ken just realized a secret interaction with the Evo Goblin Giant that might completely break the game logic. Is this strategy actually unstoppable?\n\n\u2022 How to stack infinite Goblins using Freeze\n\u2022 Creating an inescapable rage trap\n\u2022 Exploiting spawn timing for maximum chaos\n\nFeaturing: Ken\n\nIs this combo an unfair exploit or pure genius?\n\n#shorts #clashroyale #gaming #ken #supercell",
+          "tags": [
+            "clash royale",
+            "evo goblin giant",
+            "ken clash royale",
+            "clash royale glitch",
+            "infinite goblins",
+            "clash royale strategy",
+            "clash royale shorts",
+            "supercell",
+            "evo giant combo"
+          ],
+          "pinned_comment": "Is this infinite Goblin strat genius or does it ruin the game? Let me know below! \ud83d\udc47",
+          "ab_variants": {
+            "A": {
+              "angle": "Curiosity Gap",
+              "title": "This Evo Goblin Giant Combo Broke Clash...",
+              "description": "Ken just realized a secret interaction with the Evo Goblin Giant that might completely break the game logic. Is this strategy actually unstoppable?\n\n\u2022 How to stack infinite Goblins using Freeze\n\u2022 Creating an inescapable rage trap\n\u2022 Exploiting spawn timing for maximum chaos\n\nFeaturing: Ken\n\nIs this combo an unfair exploit or pure genius?\n\n#shorts #clashroyale #gaming #ken #supercell"
+            },
+            "B": {
+              "angle": "Contrarian Truth",
+              "title": "Stop Playing Evo Goblin Giant Wrong!",
+              "description": "Most players are using the Evo Goblin Giant completely wrong. Ken proves that pairing it with Freeze creates an infinite spawn loop that destroys traditional defense.\n\n\u2022 Why standard counters fail against this strat\n\u2022 The Freeze timing secret to infinite Goblins\n\u2022 Turning a push into an instant 3-crown win\n\nFeaturing: Ken\n\nShould Supercell patch this combo immediately?\n\n#shorts #clashroyale #gaming #ken #mobilegaming"
+            },
+            "C": {
+              "angle": "Actionable Protocol",
+              "title": "The Infinite Goblin Spawn Deck Strategy",
+              "description": "Here is the exact setup to trigger an endless Goblin spawn loop in your next match. Master this simple sequence to lock down the arena.\n\n\u2022 Precise placement for Evo Goblin Giant\n\u2022 Freeze spell timing to maximize Goblin output\n\u2022 Overwhelming towers before opponent elixir recharges\n\nFeaturing: Ken\n\nWhat card is the ultimate hard counter to this strategy?\n\n#shorts #clashroyale #mobilegaming #ken #clashroyaledeck"
+            }
+          },
+          "active_variant": "A",
+          "test_status": "ACTIVE_TEST",
+          "variant_history": [
+            {
+              "variant": "A",
+              "title": "This Evo Goblin Giant Combo Broke Clash...",
+              "deployed_at": 1792854570.707964,
               "reason": "Initial A/B test deployment"
             }
           ],

@@ -1,6 +1,6 @@
 {
-  "timestamp": 1792855802.815692,
-  "sync_time_iso": "2026-10-24T15:30:02Z",
+  "timestamp": 1792855864.5152209,
+  "sync_time_iso": "2026-10-24T15:31:04Z",
   "default_channel": "ken_clips_burger",
   "channels": {
     "ken_clips_burger": {
@@ -97,14 +97,14 @@
           "current_task": "Queue up to date. Waiting for next daily Ken upload.",
           "last_completed_task": "Ingested 5 recent Ken master videos into source pool",
           "recent_logs": [
-            "[11:21:35] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
-            "[11:21:47] Queue up to date. Waiting for next daily Ken upload.",
             "[11:23:49] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
             "[11:24:02] Queue up to date. Waiting for next daily Ken upload.",
             "[11:26:03] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
             "[11:26:15] Queue up to date. Waiting for next daily Ken upload.",
             "[11:28:17] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
-            "[11:28:30] Queue up to date. Waiting for next daily Ken upload."
+            "[11:28:30] Queue up to date. Waiting for next daily Ken upload.",
+            "[11:30:31] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
+            "[11:30:44] Queue up to date. Waiting for next daily Ken upload."
           ]
         },
         "STRATEGIST": {
@@ -112,14 +112,14 @@
           "current_task": "No queued Ken candidates ready. Waiting for SCOUT.",
           "last_completed_task": "Mapped 3 distinct viral gaming hook angles for initial drops",
           "recent_logs": [
-            "[06:41:15] No queued Ken candidates ready. Waiting for SCOUT.",
             "[08:25:55] No queued Ken candidates ready. Waiting for SCOUT.",
             "[11:06:01] No queued Ken candidates ready. Waiting for SCOUT.",
             "[11:19:34] No queued Ken candidates ready. Waiting for SCOUT.",
             "[11:21:47] No queued Ken candidates ready. Waiting for SCOUT.",
             "[11:24:02] No queued Ken candidates ready. Waiting for SCOUT.",
             "[11:26:15] No queued Ken candidates ready. Waiting for SCOUT.",
-            "[11:28:30] No queued Ken candidates ready. Waiting for SCOUT."
+            "[11:28:30] No queued Ken candidates ready. Waiting for SCOUT.",
+            "[11:30:44] No queued Ken candidates ready. Waiting for SCOUT."
           ]
         },
         "EDITOR": {
@@ -163,17 +163,17 @@
         },
         "ANALYST": {
           "status": "working",
-          "current_task": "Telemetry Audit: 30,116 views (36 shorts). Auto-pivoted 1 stalled title(s).",
+          "current_task": "Telemetry Audit: 30,148 views (37 shorts). Auto-pivoted 1 stalled title(s).",
           "last_completed_task": "Calibrated gaming threshold: >15 views/hr within 4h",
           "recent_logs": [
-            "[11:09:39] Telemetry Audit: 30,121 views (36 shorts). Auto-pivoted 1 stalled title(s).",
             "[11:13:24] Telemetry Audit: 30,116 views (36 shorts). Auto-pivoted 1 stalled title(s).",
             "[11:17:22] Telemetry Audit: 30,119 views (36 shorts). Auto-pivoted 1 stalled title(s).",
             "[11:19:35] Telemetry Audit: 30,116 views (36 shorts). Auto-pivoted 1 stalled title(s).",
             "[11:21:49] Telemetry Audit: 30,121 views (36 shorts). Auto-pivoted 1 stalled title(s).",
             "[11:24:03] Telemetry Audit: 30,119 views (36 shorts). Auto-pivoted 1 stalled title(s).",
             "[11:26:17] Telemetry Audit: 30,116 views (36 shorts). Auto-pivoted 1 stalled title(s).",
-            "[11:28:31] Telemetry Audit: 30,116 views (36 shorts). Auto-pivoted 1 stalled title(s)."
+            "[11:28:31] Telemetry Audit: 30,116 views (36 shorts). Auto-pivoted 1 stalled title(s).",
+            "[11:30:45] Telemetry Audit: 30,148 views (37 shorts). Auto-pivoted 1 stalled title(s)."
           ]
         },
         "WATCHDOG": {
@@ -181,14 +181,14 @@
           "current_task": "Verifying Supercell fan policy: 0 claims, 0 strikes.",
           "last_completed_task": "Audited source parameters: strictly <30s segment rule active",
           "recent_logs": [
-            "[11:09:39] Verifying Supercell fan policy: 0 claims, 0 strikes.",
             "[11:13:24] Verifying Supercell fan policy: 0 claims, 0 strikes.",
             "[11:17:22] Verifying Supercell fan policy: 0 claims, 0 strikes.",
             "[11:19:35] Verifying Supercell fan policy: 0 claims, 0 strikes.",
             "[11:21:49] Verifying Supercell fan policy: 0 claims, 0 strikes.",
             "[11:24:03] Verifying Supercell fan policy: 0 claims, 0 strikes.",
             "[11:26:17] Verifying Supercell fan policy: 0 claims, 0 strikes.",
-            "[11:28:31] Verifying Supercell fan policy: 0 claims, 0 strikes."
+            "[11:28:31] Verifying Supercell fan policy: 0 claims, 0 strikes.",
+            "[11:30:45] Verifying Supercell fan policy: 0 claims, 0 strikes."
           ]
         }
       },
@@ -1176,72 +1176,6 @@
       "calendar": {
         "scheduled": [
           {
-            "id": "ken_1792576919_2",
-            "source_video": "thanks supercell [Overtime Battle]",
-            "creator": "Ken",
-            "title": "This lightning glitch is actually illegal...",
-            "publish_at": "2026-10-24T15:30:00Z",
-            "status": "SCHEDULED",
-            "uploaded": true,
-            "youtube_video_id": "fiwX1aRfhEg",
-            "youtube_url": "https://www.youtube.com/shorts/fiwX1aRfhEg",
-            "video_file": "ken_1792576919_2_master.mp4",
-            "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792576919_2_master.mp4",
-            "duration": 30.07,
-            "hook_summary": "The creator marvels at a game-breaking royal giant and lightning modifier interaction that leaves the opponent completely helpless.",
-            "metadata": {
-              "title": "This lightning glitch is actually illegal...",
-              "description": "How does a Royal Giant hit buildings across the entire map? Watch closely as this absurd game-breaking modifier completely breaks the game and leaves the opponent helpless.\n\n\u2022 Witness the exact moment the Royal Giant range modifier snaps across the map\n\u2022 Learn how unexpected spell and troop interactions create game-breaking states\n\u2022 Analyze the opponent's helpless reaction to an unwinnable setup\n\nFeaturing: Ken\n\nIs this the most broken mechanic ever added to the game or just peak luck?\n\n#shorts #clashroyale #gaming #ken #supercell #mobilegaming",
-              "tags": [
-                "clash royale",
-                "ken clash royale",
-                "royal giant",
-                "lightning modifier",
-                "clash royale funny moments",
-                "clash royale gameplay",
-                "mobile gaming",
-                "supercell",
-                "clash royale shorts"
-              ],
-              "pinned_comment": "Be honest: if your opponent did this to you, are you instantly closing the app or watching the replay?",
-              "ab_variants": {
-                "A": {
-                  "angle": "Curiosity Gap",
-                  "title": "This lightning glitch is actually illegal...",
-                  "description": "How does a Royal Giant hit buildings across the entire map? Watch closely as this absurd game-breaking modifier completely breaks the game and leaves the opponent helpless.\n\n\u2022 Witness the exact moment the Royal Giant range modifier snaps across the map\n\u2022 Learn how unexpected spell and troop interactions create game-breaking states\n\u2022 Analyze the opponent's helpless reaction to an unwinnable setup\n\nFeaturing: Ken\n\nIs this the most broken mechanic ever added to the game or just peak luck?\n\n#shorts #clashroyale #gaming #ken #supercell #mobilegaming"
-                },
-                "B": {
-                  "angle": "Contrarian Truth",
-                  "title": "Stop playing normal matches until you see this",
-                  "description": "Everyone thinks they know how to counter the Royal Giant, but this insane modifier completely shatters the meta and redefines how lightning spells work.\n\n\u2022 Discover why traditional positioning fails against this specific modifier\n\u2022 See how a single troop can control the entire map simultaneously\n\u2022 Understand why top players are calling this interaction completely suspicious\n\nFeaturing: Ken\n\nWould you have uninstalled the game if this happened to you?\n\n#shorts #clashroyale #gaming #ken #supercell #mobilegaming"
-                },
-                "C": {
-                  "angle": "Actionable Protocol",
-                  "title": "How to pull off the ultimate cross-map glitch",
-                  "description": "Want to completely confuse your opponents? Here is the blueprint for executing the most absurd cross-map Royal Giant lightning interaction in the current meta.\n\n\u2022 Step-by-step breakdown of setting up the ultimate troop placement\n\u2022 Maximize your spell value by abusing broken map ranges\n\u2022 Dominate your ladder matches using unexpected game physics\n\nFeaturing: Ken\n\nHave you ever successfully pulled off a cross-map shot like this in a match?\n\n#shorts #clashroyale #gaming #ken #supercell #mobilegaming"
-                }
-              },
-              "active_variant": "A",
-              "test_status": "ACTIVE_TEST",
-              "variant_history": [
-                {
-                  "variant": "A",
-                  "title": "This lightning glitch is actually illegal...",
-                  "deployed_at": 1792790141.9923499,
-                  "reason": "Initial A/B test deployment"
-                }
-              ],
-              "metrics": {
-                "views": 0,
-                "likes": 0,
-                "comments": 0,
-                "retention": 0.0,
-                "ctr": 0.0
-              }
-            },
-            "reframed": "gaming_split"
-          },
-          {
             "id": "ken_1792663317_0",
             "source_video": "they killed the game [Highlight]",
             "creator": "Ken",
@@ -1709,6 +1643,74 @@
         "held": [],
         "published": [
           {
+            "id": "ken_1792576919_2",
+            "source_video": "thanks supercell [Overtime Battle]",
+            "creator": "Ken",
+            "title": "This lightning glitch is actually illegal...",
+            "publish_at": "2026-10-24T15:30:00Z",
+            "status": "PUBLISHED",
+            "uploaded": true,
+            "youtube_video_id": "fiwX1aRfhEg",
+            "youtube_url": "https://www.youtube.com/shorts/fiwX1aRfhEg",
+            "video_file": "ken_1792576919_2_master.mp4",
+            "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792576919_2_master.mp4",
+            "duration": 30.07,
+            "hook_summary": "The creator marvels at a game-breaking royal giant and lightning modifier interaction that leaves the opponent completely helpless.",
+            "metadata": {
+              "title": "This lightning glitch is actually illegal...",
+              "description": "How does a Royal Giant hit buildings across the entire map? Watch closely as this absurd game-breaking modifier completely breaks the game and leaves the opponent helpless.\n\n\u2022 Witness the exact moment the Royal Giant range modifier snaps across the map\n\u2022 Learn how unexpected spell and troop interactions create game-breaking states\n\u2022 Analyze the opponent's helpless reaction to an unwinnable setup\n\nFeaturing: Ken\n\nIs this the most broken mechanic ever added to the game or just peak luck?\n\n#shorts #clashroyale #gaming #ken #supercell #mobilegaming",
+              "tags": [
+                "clash royale",
+                "ken clash royale",
+                "royal giant",
+                "lightning modifier",
+                "clash royale funny moments",
+                "clash royale gameplay",
+                "mobile gaming",
+                "supercell",
+                "clash royale shorts"
+              ],
+              "pinned_comment": "Be honest: if your opponent did this to you, are you instantly closing the app or watching the replay?",
+              "ab_variants": {
+                "A": {
+                  "angle": "Curiosity Gap",
+                  "title": "This lightning glitch is actually illegal...",
+                  "description": "How does a Royal Giant hit buildings across the entire map? Watch closely as this absurd game-breaking modifier completely breaks the game and leaves the opponent helpless.\n\n\u2022 Witness the exact moment the Royal Giant range modifier snaps across the map\n\u2022 Learn how unexpected spell and troop interactions create game-breaking states\n\u2022 Analyze the opponent's helpless reaction to an unwinnable setup\n\nFeaturing: Ken\n\nIs this the most broken mechanic ever added to the game or just peak luck?\n\n#shorts #clashroyale #gaming #ken #supercell #mobilegaming"
+                },
+                "B": {
+                  "angle": "Contrarian Truth",
+                  "title": "Stop playing normal matches until you see this",
+                  "description": "Everyone thinks they know how to counter the Royal Giant, but this insane modifier completely shatters the meta and redefines how lightning spells work.\n\n\u2022 Discover why traditional positioning fails against this specific modifier\n\u2022 See how a single troop can control the entire map simultaneously\n\u2022 Understand why top players are calling this interaction completely suspicious\n\nFeaturing: Ken\n\nWould you have uninstalled the game if this happened to you?\n\n#shorts #clashroyale #gaming #ken #supercell #mobilegaming"
+                },
+                "C": {
+                  "angle": "Actionable Protocol",
+                  "title": "How to pull off the ultimate cross-map glitch",
+                  "description": "Want to completely confuse your opponents? Here is the blueprint for executing the most absurd cross-map Royal Giant lightning interaction in the current meta.\n\n\u2022 Step-by-step breakdown of setting up the ultimate troop placement\n\u2022 Maximize your spell value by abusing broken map ranges\n\u2022 Dominate your ladder matches using unexpected game physics\n\nFeaturing: Ken\n\nHave you ever successfully pulled off a cross-map shot like this in a match?\n\n#shorts #clashroyale #gaming #ken #supercell #mobilegaming"
+                }
+              },
+              "active_variant": "A",
+              "test_status": "ACTIVE_TEST",
+              "variant_history": [
+                {
+                  "variant": "A",
+                  "title": "This lightning glitch is actually illegal...",
+                  "deployed_at": 1792790141.9923499,
+                  "reason": "Initial A/B test deployment"
+                }
+              ],
+              "metrics": {
+                "views": 0,
+                "likes": 0,
+                "comments": 0,
+                "retention": 0.0,
+                "ctr": 0.0,
+                "velocity_vph": 0.0,
+                "engagement_pct": 0.0
+              }
+            },
+            "reframed": "gaming_split"
+          },
+          {
             "id": "ken_1792576919_1",
             "source_video": "thanks supercell [Clutch Moment]",
             "creator": "Ken",
@@ -1765,13 +1767,13 @@
                 }
               ],
               "metrics": {
-                "views": 93,
+                "views": 120,
                 "likes": 2,
                 "comments": 0,
                 "retention": 0.0,
                 "ctr": 0.0,
-                "velocity_vph": 6.66,
-                "engagement_pct": 2.15
+                "velocity_vph": 8.57,
+                "engagement_pct": 1.67
               }
             },
             "reframed": "gaming_split"
@@ -1904,7 +1906,7 @@
                 "comments": 0,
                 "retention": 0.0,
                 "ctr": 0.0,
-                "velocity_vph": 25.03,
+                "velocity_vph": 25.02,
                 "engagement_pct": 0.89
               }
             },
@@ -2102,12 +2104,12 @@
                 }
               ],
               "metrics": {
-                "views": 1052,
+                "views": 1054,
                 "likes": 14,
                 "comments": 0,
                 "retention": 0.0,
                 "ctr": 0.0,
-                "velocity_vph": 12.31,
+                "velocity_vph": 12.33,
                 "engagement_pct": 1.33
               }
             },
@@ -2170,12 +2172,12 @@
                 }
               ],
               "metrics": {
-                "views": 1075,
+                "views": 1074,
                 "likes": 10,
                 "comments": 0,
                 "retention": 0.0,
                 "ctr": 0.0,
-                "velocity_vph": 11.82,
+                "velocity_vph": 11.8,
                 "engagement_pct": 0.93
               }
             },
@@ -2238,12 +2240,12 @@
                 }
               ],
               "metrics": {
-                "views": 1763,
+                "views": 1767,
                 "likes": 12,
                 "comments": 0,
                 "retention": 0.0,
                 "ctr": 0.0,
-                "velocity_vph": 18.66,
+                "velocity_vph": 18.7,
                 "engagement_pct": 0.68
               }
             },
@@ -2379,7 +2381,7 @@
                 "comments": 0,
                 "retention": 0.0,
                 "ctr": 0.0,
-                "velocity_vph": 2.98,
+                "velocity_vph": 2.97,
                 "engagement_pct": 1.03
               }
             },
@@ -2662,7 +2664,7 @@
             "id": "ken_1792212492_9",
             "source_video": "least busted card [Clutch Moment]",
             "creator": "Ken",
-            "title": "Why Chip Cycling Just Lost Its Power",
+            "title": "Chip Cycling Is Officially Dead",
             "publish_at": "2026-10-19T17:00:00Z",
             "status": "PUBLISHED",
             "uploaded": true,
@@ -2673,8 +2675,8 @@
             "duration": 27.73,
             "hook_summary": "The creator makes a bold claim about why traditional chip cycle strategies are officially dead in the current meta.",
             "metadata": {
-              "title": "Why Chip Cycling Just Lost Its Power",
-              "description": "Most players are still wasting elixir on a strategy that the current meta has completely broken. Ken breaks down the exact reason why chipping the tower is a losing battle now.\n\n\u2022 Discover why traditional chip damage no longer wins games\n\u2022 The hidden shift in defensive meta you missed\n\u2022 How to adapt your strategy before your rank drops\n\nFeaturing: Ken\n\nAre you still trying to chip towers, or have you adapted to the new meta?\n\n#shorts #ken #clashroyale #gaming #strategy #metashift",
+              "title": "Chip Cycling Is Officially Dead",
+              "description": "Forget everything you know about standard tower pressure because chip cycle is officially dead. Ken exposes why minor chip damage is a complete waste of your resources.\n\n\u2022 The brutal truth about current tower defense scaling\n\u2022 Why bridge spam punishes old-school tactics instantly\n\u2022 The exact moment you should stop chipping and start saving\n\nFeaturing: Ken\n\nIs bridge spam actually unbeatable right now, or is there a counter?\n\n#shorts #ken #gamingtips #meta #clashroyale #strategy",
               "tags": [
                 "chip cycle",
                 "bridge spam",
@@ -2704,7 +2706,7 @@
                   "description": "If you are still relying on minor tower chips to win, you are playing the game wrong. Ken shares the exact rule you need to follow to stop bleeding elixir in today's meta.\n\n\u2022 The new golden rule for elixir management\n\u2022 How to pivot away from outdated chip strategies\n\u2022 Building a push that actually overwhelms modern defenses\n\nFeaturing: Ken\n\nWhat is your go-to win condition if not chip damage?\n\n#shorts #ken #gaming #protips #clashroyale #elixir"
                 }
               },
-              "active_variant": "A",
+              "active_variant": "B",
               "test_status": "ACTIVE_TEST",
               "variant_history": [
                 {
@@ -3332,7 +3334,7 @@
                 "comments": 0,
                 "retention": 0.0,
                 "ctr": 0.0,
-                "velocity_vph": 3.63,
+                "velocity_vph": 3.62,
                 "engagement_pct": 1.21
               }
             },
@@ -3438,7 +3440,7 @@
                 "comments": 0,
                 "retention": 0.0,
                 "ctr": 0.0,
-                "velocity_vph": 10.27,
+                "velocity_vph": 10.26,
                 "engagement_pct": 1.58
               }
             },
@@ -3464,7 +3466,7 @@
                 "views": 1716,
                 "likes": 22,
                 "comments": 1,
-                "velocity_vph": 10.13,
+                "velocity_vph": 10.12,
                 "engagement_pct": 1.34
               },
               "test_status": "WINNER_LOCKED"
@@ -4019,7 +4021,7 @@
       },
       "analytics": {
         "summary": {
-          "total_views": 30116,
+          "total_views": 30148,
           "shorts_published": 0,
           "total_likes": 356,
           "avg_retention_pct": 82.5,
@@ -4027,10 +4029,17 @@
           "total_subscribers_gained": 0,
           "estimated_revenue_usd": 0.0,
           "health_grade": "A+",
-          "total_shorts_published": 36,
-          "last_audit": 1792855711.466948
+          "total_shorts_published": 37,
+          "last_audit": 1792855845.886846
         },
         "top_shorts": [
+          {
+            "title": "How did he survive this clutch? \ud83e\udd2f",
+            "creator": "Ken",
+            "views": 120,
+            "velocity": 8.57,
+            "angle": "Curiosity Gap"
+          },
           {
             "title": "Sportsmanship is ruining your win rate.",
             "creator": "Ken",
@@ -4042,7 +4051,7 @@
             "title": "This secret deck gets you to Ultimate Champion",
             "creator": "Ken",
             "views": 1689,
-            "velocity": 25.03,
+            "velocity": 25.02,
             "angle": "Curiosity Gap"
           },
           {
@@ -4062,22 +4071,22 @@
           {
             "title": "This modifier is actually illegal.",
             "creator": "Ken",
-            "views": 1052,
-            "velocity": 12.31,
+            "views": 1054,
+            "velocity": 12.33,
             "angle": "Curiosity Gap"
           },
           {
             "title": "The Evo E-Giant is actually unplayable (bad)",
             "creator": "Ken",
-            "views": 1075,
-            "velocity": 11.82,
+            "views": 1074,
+            "velocity": 11.8,
             "angle": "Contrarian Truth"
           },
           {
             "title": "This 1 Card Makes eGiant Unstoppable...",
             "creator": "Ken",
-            "views": 1763,
-            "velocity": 18.66,
+            "views": 1767,
+            "velocity": 18.7,
             "angle": "Curiosity Gap"
           },
           {
@@ -4091,15 +4100,8 @@
             "title": "Gaming rage isn't about the game at all.",
             "creator": "Ken",
             "views": 290,
-            "velocity": 2.98,
+            "velocity": 2.97,
             "angle": "Contrarian Truth"
-          },
-          {
-            "title": "He actually said this in the lobby... \ud83d\udc80",
-            "creator": "Ken",
-            "views": 323,
-            "velocity": 2.96,
-            "angle": "Curiosity Gap"
           }
         ],
         "ab_test_learnings": [
@@ -6509,14 +6511,14 @@
       "current_task": "Queue up to date. Waiting for next daily Ken upload.",
       "last_completed_task": "Ingested 5 recent Ken master videos into source pool",
       "recent_logs": [
-        "[11:21:35] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
-        "[11:21:47] Queue up to date. Waiting for next daily Ken upload.",
         "[11:23:49] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
         "[11:24:02] Queue up to date. Waiting for next daily Ken upload.",
         "[11:26:03] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
         "[11:26:15] Queue up to date. Waiting for next daily Ken upload.",
         "[11:28:17] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
-        "[11:28:30] Queue up to date. Waiting for next daily Ken upload."
+        "[11:28:30] Queue up to date. Waiting for next daily Ken upload.",
+        "[11:30:31] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
+        "[11:30:44] Queue up to date. Waiting for next daily Ken upload."
       ]
     },
     "STRATEGIST": {
@@ -6524,14 +6526,14 @@
       "current_task": "No queued Ken candidates ready. Waiting for SCOUT.",
       "last_completed_task": "Mapped 3 distinct viral gaming hook angles for initial drops",
       "recent_logs": [
-        "[06:41:15] No queued Ken candidates ready. Waiting for SCOUT.",
         "[08:25:55] No queued Ken candidates ready. Waiting for SCOUT.",
         "[11:06:01] No queued Ken candidates ready. Waiting for SCOUT.",
         "[11:19:34] No queued Ken candidates ready. Waiting for SCOUT.",
         "[11:21:47] No queued Ken candidates ready. Waiting for SCOUT.",
         "[11:24:02] No queued Ken candidates ready. Waiting for SCOUT.",
         "[11:26:15] No queued Ken candidates ready. Waiting for SCOUT.",
-        "[11:28:30] No queued Ken candidates ready. Waiting for SCOUT."
+        "[11:28:30] No queued Ken candidates ready. Waiting for SCOUT.",
+        "[11:30:44] No queued Ken candidates ready. Waiting for SCOUT."
       ]
     },
     "EDITOR": {
@@ -6575,17 +6577,17 @@
     },
     "ANALYST": {
       "status": "working",
-      "current_task": "Telemetry Audit: 30,116 views (36 shorts). Auto-pivoted 1 stalled title(s).",
+      "current_task": "Telemetry Audit: 30,148 views (37 shorts). Auto-pivoted 1 stalled title(s).",
       "last_completed_task": "Calibrated gaming threshold: >15 views/hr within 4h",
       "recent_logs": [
-        "[11:09:39] Telemetry Audit: 30,121 views (36 shorts). Auto-pivoted 1 stalled title(s).",
         "[11:13:24] Telemetry Audit: 30,116 views (36 shorts). Auto-pivoted 1 stalled title(s).",
         "[11:17:22] Telemetry Audit: 30,119 views (36 shorts). Auto-pivoted 1 stalled title(s).",
         "[11:19:35] Telemetry Audit: 30,116 views (36 shorts). Auto-pivoted 1 stalled title(s).",
         "[11:21:49] Telemetry Audit: 30,121 views (36 shorts). Auto-pivoted 1 stalled title(s).",
         "[11:24:03] Telemetry Audit: 30,119 views (36 shorts). Auto-pivoted 1 stalled title(s).",
         "[11:26:17] Telemetry Audit: 30,116 views (36 shorts). Auto-pivoted 1 stalled title(s).",
-        "[11:28:31] Telemetry Audit: 30,116 views (36 shorts). Auto-pivoted 1 stalled title(s)."
+        "[11:28:31] Telemetry Audit: 30,116 views (36 shorts). Auto-pivoted 1 stalled title(s).",
+        "[11:30:45] Telemetry Audit: 30,148 views (37 shorts). Auto-pivoted 1 stalled title(s)."
       ]
     },
     "WATCHDOG": {
@@ -6593,14 +6595,14 @@
       "current_task": "Verifying Supercell fan policy: 0 claims, 0 strikes.",
       "last_completed_task": "Audited source parameters: strictly <30s segment rule active",
       "recent_logs": [
-        "[11:09:39] Verifying Supercell fan policy: 0 claims, 0 strikes.",
         "[11:13:24] Verifying Supercell fan policy: 0 claims, 0 strikes.",
         "[11:17:22] Verifying Supercell fan policy: 0 claims, 0 strikes.",
         "[11:19:35] Verifying Supercell fan policy: 0 claims, 0 strikes.",
         "[11:21:49] Verifying Supercell fan policy: 0 claims, 0 strikes.",
         "[11:24:03] Verifying Supercell fan policy: 0 claims, 0 strikes.",
         "[11:26:17] Verifying Supercell fan policy: 0 claims, 0 strikes.",
-        "[11:28:31] Verifying Supercell fan policy: 0 claims, 0 strikes."
+        "[11:28:31] Verifying Supercell fan policy: 0 claims, 0 strikes.",
+        "[11:30:45] Verifying Supercell fan policy: 0 claims, 0 strikes."
       ]
     }
   },
@@ -7588,72 +7590,6 @@
   "calendar": {
     "scheduled": [
       {
-        "id": "ken_1792576919_2",
-        "source_video": "thanks supercell [Overtime Battle]",
-        "creator": "Ken",
-        "title": "This lightning glitch is actually illegal...",
-        "publish_at": "2026-10-24T15:30:00Z",
-        "status": "SCHEDULED",
-        "uploaded": true,
-        "youtube_video_id": "fiwX1aRfhEg",
-        "youtube_url": "https://www.youtube.com/shorts/fiwX1aRfhEg",
-        "video_file": "ken_1792576919_2_master.mp4",
-        "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792576919_2_master.mp4",
-        "duration": 30.07,
-        "hook_summary": "The creator marvels at a game-breaking royal giant and lightning modifier interaction that leaves the opponent completely helpless.",
-        "metadata": {
-          "title": "This lightning glitch is actually illegal...",
-          "description": "How does a Royal Giant hit buildings across the entire map? Watch closely as this absurd game-breaking modifier completely breaks the game and leaves the opponent helpless.\n\n\u2022 Witness the exact moment the Royal Giant range modifier snaps across the map\n\u2022 Learn how unexpected spell and troop interactions create game-breaking states\n\u2022 Analyze the opponent's helpless reaction to an unwinnable setup\n\nFeaturing: Ken\n\nIs this the most broken mechanic ever added to the game or just peak luck?\n\n#shorts #clashroyale #gaming #ken #supercell #mobilegaming",
-          "tags": [
-            "clash royale",
-            "ken clash royale",
-            "royal giant",
-            "lightning modifier",
-            "clash royale funny moments",
-            "clash royale gameplay",
-            "mobile gaming",
-            "supercell",
-            "clash royale shorts"
-          ],
-          "pinned_comment": "Be honest: if your opponent did this to you, are you instantly closing the app or watching the replay?",
-          "ab_variants": {
-            "A": {
-              "angle": "Curiosity Gap",
-              "title": "This lightning glitch is actually illegal...",
-              "description": "How does a Royal Giant hit buildings across the entire map? Watch closely as this absurd game-breaking modifier completely breaks the game and leaves the opponent helpless.\n\n\u2022 Witness the exact moment the Royal Giant range modifier snaps across the map\n\u2022 Learn how unexpected spell and troop interactions create game-breaking states\n\u2022 Analyze the opponent's helpless reaction to an unwinnable setup\n\nFeaturing: Ken\n\nIs this the most broken mechanic ever added to the game or just peak luck?\n\n#shorts #clashroyale #gaming #ken #supercell #mobilegaming"
-            },
-            "B": {
-              "angle": "Contrarian Truth",
-              "title": "Stop playing normal matches until you see this",
-              "description": "Everyone thinks they know how to counter the Royal Giant, but this insane modifier completely shatters the meta and redefines how lightning spells work.\n\n\u2022 Discover why traditional positioning fails against this specific modifier\n\u2022 See how a single troop can control the entire map simultaneously\n\u2022 Understand why top players are calling this interaction completely suspicious\n\nFeaturing: Ken\n\nWould you have uninstalled the game if this happened to you?\n\n#shorts #clashroyale #gaming #ken #supercell #mobilegaming"
-            },
-            "C": {
-              "angle": "Actionable Protocol",
-              "title": "How to pull off the ultimate cross-map glitch",
-              "description": "Want to completely confuse your opponents? Here is the blueprint for executing the most absurd cross-map Royal Giant lightning interaction in the current meta.\n\n\u2022 Step-by-step breakdown of setting up the ultimate troop placement\n\u2022 Maximize your spell value by abusing broken map ranges\n\u2022 Dominate your ladder matches using unexpected game physics\n\nFeaturing: Ken\n\nHave you ever successfully pulled off a cross-map shot like this in a match?\n\n#shorts #clashroyale #gaming #ken #supercell #mobilegaming"
-            }
-          },
-          "active_variant": "A",
-          "test_status": "ACTIVE_TEST",
-          "variant_history": [
-            {
-              "variant": "A",
-              "title": "This lightning glitch is actually illegal...",
-              "deployed_at": 1792790141.9923499,
-              "reason": "Initial A/B test deployment"
-            }
-          ],
-          "metrics": {
-            "views": 0,
-            "likes": 0,
-            "comments": 0,
-            "retention": 0.0,
-            "ctr": 0.0
-          }
-        },
-        "reframed": "gaming_split"
-      },
-      {
         "id": "ken_1792663317_0",
         "source_video": "they killed the game [Highlight]",
         "creator": "Ken",
@@ -8121,6 +8057,74 @@
     "held": [],
     "published": [
       {
+        "id": "ken_1792576919_2",
+        "source_video": "thanks supercell [Overtime Battle]",
+        "creator": "Ken",
+        "title": "This lightning glitch is actually illegal...",
+        "publish_at": "2026-10-24T15:30:00Z",
+        "status": "PUBLISHED",
+        "uploaded": true,
+        "youtube_video_id": "fiwX1aRfhEg",
+        "youtube_url": "https://www.youtube.com/shorts/fiwX1aRfhEg",
+        "video_file": "ken_1792576919_2_master.mp4",
+        "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792576919_2_master.mp4",
+        "duration": 30.07,
+        "hook_summary": "The creator marvels at a game-breaking royal giant and lightning modifier interaction that leaves the opponent completely helpless.",
+        "metadata": {
+          "title": "This lightning glitch is actually illegal...",
+          "description": "How does a Royal Giant hit buildings across the entire map? Watch closely as this absurd game-breaking modifier completely breaks the game and leaves the opponent helpless.\n\n\u2022 Witness the exact moment the Royal Giant range modifier snaps across the map\n\u2022 Learn how unexpected spell and troop interactions create game-breaking states\n\u2022 Analyze the opponent's helpless reaction to an unwinnable setup\n\nFeaturing: Ken\n\nIs this the most broken mechanic ever added to the game or just peak luck?\n\n#shorts #clashroyale #gaming #ken #supercell #mobilegaming",
+          "tags": [
+            "clash royale",
+            "ken clash royale",
+            "royal giant",
+            "lightning modifier",
+            "clash royale funny moments",
+            "clash royale gameplay",
+            "mobile gaming",
+            "supercell",
+            "clash royale shorts"
+          ],
+          "pinned_comment": "Be honest: if your opponent did this to you, are you instantly closing the app or watching the replay?",
+          "ab_variants": {
+            "A": {
+              "angle": "Curiosity Gap",
+              "title": "This lightning glitch is actually illegal...",
+              "description": "How does a Royal Giant hit buildings across the entire map? Watch closely as this absurd game-breaking modifier completely breaks the game and leaves the opponent helpless.\n\n\u2022 Witness the exact moment the Royal Giant range modifier snaps across the map\n\u2022 Learn how unexpected spell and troop interactions create game-breaking states\n\u2022 Analyze the opponent's helpless reaction to an unwinnable setup\n\nFeaturing: Ken\n\nIs this the most broken mechanic ever added to the game or just peak luck?\n\n#shorts #clashroyale #gaming #ken #supercell #mobilegaming"
+            },
+            "B": {
+              "angle": "Contrarian Truth",
+              "title": "Stop playing normal matches until you see this",
+              "description": "Everyone thinks they know how to counter the Royal Giant, but this insane modifier completely shatters the meta and redefines how lightning spells work.\n\n\u2022 Discover why traditional positioning fails against this specific modifier\n\u2022 See how a single troop can control the entire map simultaneously\n\u2022 Understand why top players are calling this interaction completely suspicious\n\nFeaturing: Ken\n\nWould you have uninstalled the game if this happened to you?\n\n#shorts #clashroyale #gaming #ken #supercell #mobilegaming"
+            },
+            "C": {
+              "angle": "Actionable Protocol",
+              "title": "How to pull off the ultimate cross-map glitch",
+              "description": "Want to completely confuse your opponents? Here is the blueprint for executing the most absurd cross-map Royal Giant lightning interaction in the current meta.\n\n\u2022 Step-by-step breakdown of setting up the ultimate troop placement\n\u2022 Maximize your spell value by abusing broken map ranges\n\u2022 Dominate your ladder matches using unexpected game physics\n\nFeaturing: Ken\n\nHave you ever successfully pulled off a cross-map shot like this in a match?\n\n#shorts #clashroyale #gaming #ken #supercell #mobilegaming"
+            }
+          },
+          "active_variant": "A",
+          "test_status": "ACTIVE_TEST",
+          "variant_history": [
+            {
+              "variant": "A",
+              "title": "This lightning glitch is actually illegal...",
+              "deployed_at": 1792790141.9923499,
+              "reason": "Initial A/B test deployment"
+            }
+          ],
+          "metrics": {
+            "views": 0,
+            "likes": 0,
+            "comments": 0,
+            "retention": 0.0,
+            "ctr": 0.0,
+            "velocity_vph": 0.0,
+            "engagement_pct": 0.0
+          }
+        },
+        "reframed": "gaming_split"
+      },
+      {
         "id": "ken_1792576919_1",
         "source_video": "thanks supercell [Clutch Moment]",
         "creator": "Ken",
@@ -8177,13 +8181,13 @@
             }
           ],
           "metrics": {
-            "views": 93,
+            "views": 120,
             "likes": 2,
             "comments": 0,
             "retention": 0.0,
             "ctr": 0.0,
-            "velocity_vph": 6.66,
-            "engagement_pct": 2.15
+            "velocity_vph": 8.57,
+            "engagement_pct": 1.67
           }
         },
         "reframed": "gaming_split"
@@ -8316,7 +8320,7 @@
             "comments": 0,
             "retention": 0.0,
             "ctr": 0.0,
-            "velocity_vph": 25.03,
+            "velocity_vph": 25.02,
             "engagement_pct": 0.89
           }
         },
@@ -8514,12 +8518,12 @@
             }
           ],
           "metrics": {
-            "views": 1052,
+            "views": 1054,
             "likes": 14,
             "comments": 0,
             "retention": 0.0,
             "ctr": 0.0,
-            "velocity_vph": 12.31,
+            "velocity_vph": 12.33,
             "engagement_pct": 1.33
           }
         },
@@ -8582,12 +8586,12 @@
             }
           ],
           "metrics": {
-            "views": 1075,
+            "views": 1074,
             "likes": 10,
             "comments": 0,
             "retention": 0.0,
             "ctr": 0.0,
-            "velocity_vph": 11.82,
+            "velocity_vph": 11.8,
             "engagement_pct": 0.93
           }
         },
@@ -8650,12 +8654,12 @@
             }
           ],
           "metrics": {
-            "views": 1763,
+            "views": 1767,
             "likes": 12,
             "comments": 0,
             "retention": 0.0,
             "ctr": 0.0,
-            "velocity_vph": 18.66,
+            "velocity_vph": 18.7,
             "engagement_pct": 0.68
           }
         },
@@ -8791,7 +8795,7 @@
             "comments": 0,
             "retention": 0.0,
             "ctr": 0.0,
-            "velocity_vph": 2.98,
+            "velocity_vph": 2.97,
             "engagement_pct": 1.03
           }
         },
@@ -9074,7 +9078,7 @@
         "id": "ken_1792212492_9",
         "source_video": "least busted card [Clutch Moment]",
         "creator": "Ken",
-        "title": "Why Chip Cycling Just Lost Its Power",
+        "title": "Chip Cycling Is Officially Dead",
         "publish_at": "2026-10-19T17:00:00Z",
         "status": "PUBLISHED",
         "uploaded": true,
@@ -9085,8 +9089,8 @@
         "duration": 27.73,
         "hook_summary": "The creator makes a bold claim about why traditional chip cycle strategies are officially dead in the current meta.",
         "metadata": {
-          "title": "Why Chip Cycling Just Lost Its Power",
-          "description": "Most players are still wasting elixir on a strategy that the current meta has completely broken. Ken breaks down the exact reason why chipping the tower is a losing battle now.\n\n\u2022 Discover why traditional chip damage no longer wins games\n\u2022 The hidden shift in defensive meta you missed\n\u2022 How to adapt your strategy before your rank drops\n\nFeaturing: Ken\n\nAre you still trying to chip towers, or have you adapted to the new meta?\n\n#shorts #ken #clashroyale #gaming #strategy #metashift",
+          "title": "Chip Cycling Is Officially Dead",
+          "description": "Forget everything you know about standard tower pressure because chip cycle is officially dead. Ken exposes why minor chip damage is a complete waste of your resources.\n\n\u2022 The brutal truth about current tower defense scaling\n\u2022 Why bridge spam punishes old-school tactics instantly\n\u2022 The exact moment you should stop chipping and start saving\n\nFeaturing: Ken\n\nIs bridge spam actually unbeatable right now, or is there a counter?\n\n#shorts #ken #gamingtips #meta #clashroyale #strategy",
           "tags": [
             "chip cycle",
             "bridge spam",
@@ -9116,7 +9120,7 @@
               "description": "If you are still relying on minor tower chips to win, you are playing the game wrong. Ken shares the exact rule you need to follow to stop bleeding elixir in today's meta.\n\n\u2022 The new golden rule for elixir management\n\u2022 How to pivot away from outdated chip strategies\n\u2022 Building a push that actually overwhelms modern defenses\n\nFeaturing: Ken\n\nWhat is your go-to win condition if not chip damage?\n\n#shorts #ken #gaming #protips #clashroyale #elixir"
             }
           },
-          "active_variant": "A",
+          "active_variant": "B",
           "test_status": "ACTIVE_TEST",
           "variant_history": [
             {
@@ -9744,7 +9748,7 @@
             "comments": 0,
             "retention": 0.0,
             "ctr": 0.0,
-            "velocity_vph": 3.63,
+            "velocity_vph": 3.62,
             "engagement_pct": 1.21
           }
         },
@@ -9850,7 +9854,7 @@
             "comments": 0,
             "retention": 0.0,
             "ctr": 0.0,
-            "velocity_vph": 10.27,
+            "velocity_vph": 10.26,
             "engagement_pct": 1.58
           }
         },
@@ -9876,7 +9880,7 @@
             "views": 1716,
             "likes": 22,
             "comments": 1,
-            "velocity_vph": 10.13,
+            "velocity_vph": 10.12,
             "engagement_pct": 1.34
           },
           "test_status": "WINNER_LOCKED"
@@ -10431,7 +10435,7 @@
   },
   "analytics": {
     "summary": {
-      "total_views": 30116,
+      "total_views": 30148,
       "shorts_published": 0,
       "total_likes": 356,
       "avg_retention_pct": 82.5,
@@ -10439,10 +10443,17 @@
       "total_subscribers_gained": 0,
       "estimated_revenue_usd": 0.0,
       "health_grade": "A+",
-      "total_shorts_published": 36,
-      "last_audit": 1792855711.466948
+      "total_shorts_published": 37,
+      "last_audit": 1792855845.886846
     },
     "top_shorts": [
+      {
+        "title": "How did he survive this clutch? \ud83e\udd2f",
+        "creator": "Ken",
+        "views": 120,
+        "velocity": 8.57,
+        "angle": "Curiosity Gap"
+      },
       {
         "title": "Sportsmanship is ruining your win rate.",
         "creator": "Ken",
@@ -10454,7 +10465,7 @@
         "title": "This secret deck gets you to Ultimate Champion",
         "creator": "Ken",
         "views": 1689,
-        "velocity": 25.03,
+        "velocity": 25.02,
         "angle": "Curiosity Gap"
       },
       {
@@ -10474,22 +10485,22 @@
       {
         "title": "This modifier is actually illegal.",
         "creator": "Ken",
-        "views": 1052,
-        "velocity": 12.31,
+        "views": 1054,
+        "velocity": 12.33,
         "angle": "Curiosity Gap"
       },
       {
         "title": "The Evo E-Giant is actually unplayable (bad)",
         "creator": "Ken",
-        "views": 1075,
-        "velocity": 11.82,
+        "views": 1074,
+        "velocity": 11.8,
         "angle": "Contrarian Truth"
       },
       {
         "title": "This 1 Card Makes eGiant Unstoppable...",
         "creator": "Ken",
-        "views": 1763,
-        "velocity": 18.66,
+        "views": 1767,
+        "velocity": 18.7,
         "angle": "Curiosity Gap"
       },
       {
@@ -10503,15 +10514,8 @@
         "title": "Gaming rage isn't about the game at all.",
         "creator": "Ken",
         "views": 290,
-        "velocity": 2.98,
+        "velocity": 2.97,
         "angle": "Contrarian Truth"
-      },
-      {
-        "title": "He actually said this in the lobby... \ud83d\udc80",
-        "creator": "Ken",
-        "views": 323,
-        "velocity": 2.96,
-        "angle": "Curiosity Gap"
       }
     ],
     "ab_test_learnings": [

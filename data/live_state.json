@@ -1,6 +1,6 @@
 {
-  "timestamp": 1792959158.454527,
-  "sync_time_iso": "2026-10-25T20:12:38Z",
+  "timestamp": 1792959220.635255,
+  "sync_time_iso": "2026-10-25T20:13:40Z",
   "default_channel": "ken_clips_burger",
   "channels": {
     "ken_clips_burger": {
@@ -95,14 +95,14 @@
           "current_task": "Queue up to date. Waiting for next daily Ken upload.",
           "last_completed_task": "Ingested 5 recent Ken master videos into source pool",
           "recent_logs": [
-            "[16:03:33] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
-            "[16:03:46] Queue up to date. Waiting for next daily Ken upload.",
             "[16:05:52] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
             "[16:06:07] Queue up to date. Waiting for next daily Ken upload.",
             "[16:08:13] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
             "[16:08:28] Queue up to date. Waiting for next daily Ken upload.",
             "[16:10:35] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
-            "[16:10:49] Queue up to date. Waiting for next daily Ken upload."
+            "[16:10:49] Queue up to date. Waiting for next daily Ken upload.",
+            "[16:12:55] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
+            "[16:13:10] Queue up to date. Waiting for next daily Ken upload."
           ]
         },
         "STRATEGIST": {
@@ -110,14 +110,14 @@
           "current_task": "No queued Ken candidates ready. Waiting for SCOUT.",
           "last_completed_task": "Mapped 3 distinct viral gaming hook angles for initial drops",
           "recent_logs": [
-            "[15:54:25] No queued Ken candidates ready. Waiting for SCOUT.",
             "[15:56:46] No queued Ken candidates ready. Waiting for SCOUT.",
             "[15:59:06] No queued Ken candidates ready. Waiting for SCOUT.",
             "[16:01:28] No queued Ken candidates ready. Waiting for SCOUT.",
             "[16:03:46] No queued Ken candidates ready. Waiting for SCOUT.",
             "[16:06:07] No queued Ken candidates ready. Waiting for SCOUT.",
             "[16:08:28] No queued Ken candidates ready. Waiting for SCOUT.",
-            "[16:10:49] No queued Ken candidates ready. Waiting for SCOUT."
+            "[16:10:49] No queued Ken candidates ready. Waiting for SCOUT.",
+            "[16:13:10] No queued Ken candidates ready. Waiting for SCOUT."
           ]
         },
         "EDITOR": {
@@ -161,17 +161,17 @@
         },
         "ANALYST": {
           "status": "working",
-          "current_task": "Telemetry Audit: 34,647 views (40 shorts). Auto-pivoted 1 stalled title(s).",
+          "current_task": "Telemetry Audit: 34,667 views (40 shorts). Auto-pivoted 1 stalled title(s).",
           "last_completed_task": "Calibrated gaming threshold: >15 views/hr within 4h",
           "recent_logs": [
-            "[15:54:32] Telemetry Audit: 34,495 views (40 shorts). Auto-pivoted 1 stalled title(s).",
             "[15:56:52] Telemetry Audit: 34,502 views (40 shorts). Auto-pivoted 1 stalled title(s).",
             "[15:59:13] Telemetry Audit: 34,565 views (40 shorts). Auto-pivoted 1 stalled title(s).",
             "[16:01:33] Telemetry Audit: 34,570 views (40 shorts). Auto-pivoted 1 stalled title(s).",
             "[16:03:52] Telemetry Audit: 34,611 views (40 shorts). Auto-pivoted 1 stalled title(s).",
             "[16:06:13] Telemetry Audit: 34,614 views (40 shorts). Auto-pivoted 1 stalled title(s).",
             "[16:08:35] Telemetry Audit: 34,646 views (40 shorts). Auto-pivoted 1 stalled title(s).",
-            "[16:10:55] Telemetry Audit: 34,647 views (40 shorts). Auto-pivoted 1 stalled title(s)."
+            "[16:10:55] Telemetry Audit: 34,647 views (40 shorts). Auto-pivoted 1 stalled title(s).",
+            "[16:13:16] Telemetry Audit: 34,667 views (40 shorts). Auto-pivoted 1 stalled title(s)."
           ]
         },
         "WATCHDOG": {
@@ -179,14 +179,14 @@
           "current_task": "Verifying Supercell fan policy: 0 claims, 0 strikes.",
           "last_completed_task": "Audited source parameters: strictly <30s segment rule active",
           "recent_logs": [
-            "[15:54:32] Verifying Supercell fan policy: 0 claims, 0 strikes.",
             "[15:56:52] Verifying Supercell fan policy: 0 claims, 0 strikes.",
             "[15:59:13] Verifying Supercell fan policy: 0 claims, 0 strikes.",
             "[16:01:33] Verifying Supercell fan policy: 0 claims, 0 strikes.",
             "[16:03:52] Verifying Supercell fan policy: 0 claims, 0 strikes.",
             "[16:06:13] Verifying Supercell fan policy: 0 claims, 0 strikes.",
             "[16:08:35] Verifying Supercell fan policy: 0 claims, 0 strikes.",
-            "[16:10:55] Verifying Supercell fan policy: 0 claims, 0 strikes."
+            "[16:10:55] Verifying Supercell fan policy: 0 claims, 0 strikes.",
+            "[16:13:16] Verifying Supercell fan policy: 0 claims, 0 strikes."
           ]
         }
       },
@@ -1654,7 +1654,7 @@
                 "comments": 0,
                 "retention": 0.0,
                 "ctr": 0.0,
-                "velocity_vph": 127.06,
+                "velocity_vph": 126.0,
                 "engagement_pct": 0.34
               }
             },
@@ -1716,13 +1716,13 @@
                 }
               ],
               "metrics": {
-                "views": 1032,
+                "views": 1046,
                 "likes": 4,
                 "comments": 0,
                 "retention": 0.0,
                 "ctr": 0.0,
-                "velocity_vph": 55.25,
-                "engagement_pct": 0.39
+                "velocity_vph": 55.89,
+                "engagement_pct": 0.38
               }
             },
             "reframed": "gaming_split"
@@ -1788,7 +1788,7 @@
                 "comments": 1,
                 "retention": 0.0,
                 "ctr": 0.0,
-                "velocity_vph": 46.59,
+                "velocity_vph": 46.52,
                 "engagement_pct": 0.63
               }
             },
@@ -1855,7 +1855,7 @@
                 "comments": 0,
                 "retention": 0.0,
                 "ctr": 0.0,
-                "velocity_vph": 23.57,
+                "velocity_vph": 23.54,
                 "engagement_pct": 0.3
               }
             },
@@ -1917,12 +1917,12 @@
                 }
               ],
               "metrics": {
-                "views": 967,
+                "views": 973,
                 "likes": 10,
                 "comments": 0,
                 "retention": 0.0,
                 "ctr": 0.0,
-                "velocity_vph": 22.66,
+                "velocity_vph": 22.78,
                 "engagement_pct": 1.03
               }
             },
@@ -1988,7 +1988,7 @@
                 "comments": 0,
                 "retention": 0.0,
                 "ctr": 0.0,
-                "velocity_vph": 7.1,
+                "velocity_vph": 7.09,
                 "engagement_pct": 1.41
               }
             },
@@ -2054,7 +2054,7 @@
                 "comments": 0,
                 "retention": 0.0,
                 "ctr": 0.0,
-                "velocity_vph": 19.8,
+                "velocity_vph": 19.79,
                 "engagement_pct": 0.89
               }
             },
@@ -2120,7 +2120,7 @@
                 "comments": 0,
                 "retention": 0.0,
                 "ctr": 0.0,
-                "velocity_vph": 5.19,
+                "velocity_vph": 5.18,
                 "engagement_pct": 1.7
               }
             },
@@ -2252,7 +2252,7 @@
                 "comments": 0,
                 "retention": 0.0,
                 "ctr": 0.0,
-                "velocity_vph": 9.35,
+                "velocity_vph": 9.34,
                 "engagement_pct": 1.41
               }
             },
@@ -2319,7 +2319,7 @@
                 "comments": 0,
                 "retention": 0.0,
                 "ctr": 0.0,
-                "velocity_vph": 9.07,
+                "velocity_vph": 9.06,
                 "engagement_pct": 0.92
               }
             },
@@ -2798,7 +2798,7 @@
             "id": "ken_1792212492_9",
             "source_video": "least busted card [Clutch Moment]",
             "creator": "Ken",
-            "title": "Chip Cycling Is Officially Dead",
+            "title": "Stop Doing This With Your Elixir",
             "publish_at": "2026-10-19T17:00:00Z",
             "status": "PUBLISHED",
             "uploaded": true,
@@ -2809,8 +2809,8 @@
             "duration": 27.73,
             "hook_summary": "The creator makes a bold claim about why traditional chip cycle strategies are officially dead in the current meta.",
             "metadata": {
-              "title": "Chip Cycling Is Officially Dead",
-              "description": "Forget everything you know about standard tower pressure because chip cycle is officially dead. Ken exposes why minor chip damage is a complete waste of your resources.\n\n\u2022 The brutal truth about current tower defense scaling\n\u2022 Why bridge spam punishes old-school tactics instantly\n\u2022 The exact moment you should stop chipping and start saving\n\nFeaturing: Ken\n\nIs bridge spam actually unbeatable right now, or is there a counter?\n\n#shorts #ken #gamingtips #meta #clashroyale #strategy",
+              "title": "Stop Doing This With Your Elixir",
+              "description": "If you are still relying on minor tower chips to win, you are playing the game wrong. Ken shares the exact rule you need to follow to stop bleeding elixir in today's meta.\n\n\u2022 The new golden rule for elixir management\n\u2022 How to pivot away from outdated chip strategies\n\u2022 Building a push that actually overwhelms modern defenses\n\nFeaturing: Ken\n\nWhat is your go-to win condition if not chip damage?\n\n#shorts #ken #gaming #protips #clashroyale #elixir",
               "tags": [
                 "Shorts",
                 "ClashRoyale",
@@ -2839,7 +2839,7 @@
                   "description": "If you are still relying on minor tower chips to win, you are playing the game wrong. Ken shares the exact rule you need to follow to stop bleeding elixir in today's meta.\n\n\u2022 The new golden rule for elixir management\n\u2022 How to pivot away from outdated chip strategies\n\u2022 Building a push that actually overwhelms modern defenses\n\nFeaturing: Ken\n\nWhat is your go-to win condition if not chip damage?\n\n#shorts #ken #gaming #protips #clashroyale #elixir"
                 }
               },
-              "active_variant": "B",
+              "active_variant": "C",
               "test_status": "ACTIVE_TEST",
               "variant_history": [
                 {
@@ -3735,7 +3735,7 @@
                 "comments": 1,
                 "retention": 0.0,
                 "ctr": 0.0,
-                "velocity_vph": 6.05,
+                "velocity_vph": 6.04,
                 "engagement_pct": 0.92
               }
             },
@@ -4186,7 +4186,7 @@
       },
       "analytics": {
         "summary": {
-          "total_views": 34647,
+          "total_views": 34667,
           "shorts_published": 0,
           "total_likes": 381,
           "avg_retention_pct": 82.5,
@@ -4195,63 +4195,63 @@
           "estimated_revenue_usd": 0.0,
           "health_grade": "A+",
           "total_shorts_published": 40,
-          "last_audit": 1792959055.35434
+          "last_audit": 1792959196.948609
         },
         "top_shorts": [
           {
             "title": "They Made This Evolution Into GODZILLA \ud83d\udc80",
             "creator": "Ken",
             "views": 594,
-            "velocity": 127.06,
+            "velocity": 126.0,
             "angle": "Curiosity Gap"
           },
           {
             "title": "Where Did All The Prize Money Go? \ud83d\udc80",
             "creator": "Ken",
-            "views": 1032,
-            "velocity": 55.25,
+            "views": 1046,
+            "velocity": 55.89,
             "angle": "Curiosity Gap"
           },
           {
             "title": "Bro Recreated The SpongeBob Meme In Clash \ud83d\udc80",
             "creator": "Ken",
             "views": 1103,
-            "velocity": 46.59,
+            "velocity": 46.52,
             "angle": "Curiosity Gap"
           },
           {
             "title": "This Lightning Modifier Is Pure Chaos \u26a1\ufe0f\ud83d\udc80",
             "creator": "Ken",
             "views": 676,
-            "velocity": 23.57,
+            "velocity": 23.54,
             "angle": "Curiosity Gap"
           },
           {
             "title": "Bro Smiled At His Own Demise \ud83d\ude2d\ud83d\udc80",
             "creator": "Ken",
-            "views": 967,
-            "velocity": 22.66,
+            "views": 973,
+            "velocity": 22.78,
             "angle": "Curiosity Gap"
           },
           {
             "title": "The Most Toxic Clash Royale Player Ever \ud83d\ude2d\ud83d\udc80",
             "creator": "Ken",
             "views": 640,
-            "velocity": 7.1,
+            "velocity": 7.09,
             "angle": "Contrarian Truth"
           },
           {
             "title": "3 Wins Away From Ultimate Champion With THIS Deck \ud83c\udfc6",
             "creator": "Ken",
             "views": 1904,
-            "velocity": 19.8,
+            "velocity": 19.79,
             "angle": "Curiosity Gap"
           },
           {
             "title": "1 HP Evo Goblin Giant + Freeze Clutch! \ud83e\udd76\ud83d\udc80",
             "creator": "Ken",
             "views": 530,
-            "velocity": 5.19,
+            "velocity": 5.18,
             "angle": "Curiosity Gap"
           },
           {
@@ -4265,7 +4265,7 @@
             "title": "The Most Broken Modifier In Clash History \ud83d\udc80",
             "creator": "Ken",
             "views": 1067,
-            "velocity": 9.35,
+            "velocity": 9.34,
             "angle": "Curiosity Gap"
           }
         ],
@@ -6674,14 +6674,14 @@
       "current_task": "Queue up to date. Waiting for next daily Ken upload.",
       "last_completed_task": "Ingested 5 recent Ken master videos into source pool",
       "recent_logs": [
-        "[16:03:33] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
-        "[16:03:46] Queue up to date. Waiting for next daily Ken upload.",
         "[16:05:52] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
         "[16:06:07] Queue up to date. Waiting for next daily Ken upload.",
         "[16:08:13] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
         "[16:08:28] Queue up to date. Waiting for next daily Ken upload.",
         "[16:10:35] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
-        "[16:10:49] Queue up to date. Waiting for next daily Ken upload."
+        "[16:10:49] Queue up to date. Waiting for next daily Ken upload.",
+        "[16:12:55] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
+        "[16:13:10] Queue up to date. Waiting for next daily Ken upload."
       ]
     },
     "STRATEGIST": {
@@ -6689,14 +6689,14 @@
       "current_task": "No queued Ken candidates ready. Waiting for SCOUT.",
       "last_completed_task": "Mapped 3 distinct viral gaming hook angles for initial drops",
       "recent_logs": [
-        "[15:54:25] No queued Ken candidates ready. Waiting for SCOUT.",
         "[15:56:46] No queued Ken candidates ready. Waiting for SCOUT.",
         "[15:59:06] No queued Ken candidates ready. Waiting for SCOUT.",
         "[16:01:28] No queued Ken candidates ready. Waiting for SCOUT.",
         "[16:03:46] No queued Ken candidates ready. Waiting for SCOUT.",
         "[16:06:07] No queued Ken candidates ready. Waiting for SCOUT.",
         "[16:08:28] No queued Ken candidates ready. Waiting for SCOUT.",
-        "[16:10:49] No queued Ken candidates ready. Waiting for SCOUT."
+        "[16:10:49] No queued Ken candidates ready. Waiting for SCOUT.",
+        "[16:13:10] No queued Ken candidates ready. Waiting for SCOUT."
       ]
     },
     "EDITOR": {
@@ -6740,17 +6740,17 @@
     },
     "ANALYST": {
       "status": "working",
-      "current_task": "Telemetry Audit: 34,647 views (40 shorts). Auto-pivoted 1 stalled title(s).",
+      "current_task": "Telemetry Audit: 34,667 views (40 shorts). Auto-pivoted 1 stalled title(s).",
       "last_completed_task": "Calibrated gaming threshold: >15 views/hr within 4h",
       "recent_logs": [
-        "[15:54:32] Telemetry Audit: 34,495 views (40 shorts). Auto-pivoted 1 stalled title(s).",
         "[15:56:52] Telemetry Audit: 34,502 views (40 shorts). Auto-pivoted 1 stalled title(s).",
         "[15:59:13] Telemetry Audit: 34,565 views (40 shorts). Auto-pivoted 1 stalled title(s).",
         "[16:01:33] Telemetry Audit: 34,570 views (40 shorts). Auto-pivoted 1 stalled title(s).",
         "[16:03:52] Telemetry Audit: 34,611 views (40 shorts). Auto-pivoted 1 stalled title(s).",
         "[16:06:13] Telemetry Audit: 34,614 views (40 shorts). Auto-pivoted 1 stalled title(s).",
         "[16:08:35] Telemetry Audit: 34,646 views (40 shorts). Auto-pivoted 1 stalled title(s).",
-        "[16:10:55] Telemetry Audit: 34,647 views (40 shorts). Auto-pivoted 1 stalled title(s)."
+        "[16:10:55] Telemetry Audit: 34,647 views (40 shorts). Auto-pivoted 1 stalled title(s).",
+        "[16:13:16] Telemetry Audit: 34,667 views (40 shorts). Auto-pivoted 1 stalled title(s)."
       ]
     },
     "WATCHDOG": {
@@ -6758,14 +6758,14 @@
       "current_task": "Verifying Supercell fan policy: 0 claims, 0 strikes.",
       "last_completed_task": "Audited source parameters: strictly <30s segment rule active",
       "recent_logs": [
-        "[15:54:32] Verifying Supercell fan policy: 0 claims, 0 strikes.",
         "[15:56:52] Verifying Supercell fan policy: 0 claims, 0 strikes.",
         "[15:59:13] Verifying Supercell fan policy: 0 claims, 0 strikes.",
         "[16:01:33] Verifying Supercell fan policy: 0 claims, 0 strikes.",
         "[16:03:52] Verifying Supercell fan policy: 0 claims, 0 strikes.",
         "[16:06:13] Verifying Supercell fan policy: 0 claims, 0 strikes.",
         "[16:08:35] Verifying Supercell fan policy: 0 claims, 0 strikes.",
-        "[16:10:55] Verifying Supercell fan policy: 0 claims, 0 strikes."
+        "[16:10:55] Verifying Supercell fan policy: 0 claims, 0 strikes.",
+        "[16:13:16] Verifying Supercell fan policy: 0 claims, 0 strikes."
       ]
     }
   },
@@ -8233,7 +8233,7 @@
             "comments": 0,
             "retention": 0.0,
             "ctr": 0.0,
-            "velocity_vph": 127.06,
+            "velocity_vph": 126.0,
             "engagement_pct": 0.34
           }
         },
@@ -8295,13 +8295,13 @@
             }
           ],
           "metrics": {
-            "views": 1032,
+            "views": 1046,
             "likes": 4,
             "comments": 0,
             "retention": 0.0,
             "ctr": 0.0,
-            "velocity_vph": 55.25,
-            "engagement_pct": 0.39
+            "velocity_vph": 55.89,
+            "engagement_pct": 0.38
           }
         },
         "reframed": "gaming_split"
@@ -8367,7 +8367,7 @@
             "comments": 1,
             "retention": 0.0,
             "ctr": 0.0,
-            "velocity_vph": 46.59,
+            "velocity_vph": 46.52,
             "engagement_pct": 0.63
           }
         },
@@ -8434,7 +8434,7 @@
             "comments": 0,
             "retention": 0.0,
             "ctr": 0.0,
-            "velocity_vph": 23.57,
+            "velocity_vph": 23.54,
             "engagement_pct": 0.3
           }
         },
@@ -8496,12 +8496,12 @@
             }
           ],
           "metrics": {
-            "views": 967,
+            "views": 973,
             "likes": 10,
             "comments": 0,
             "retention": 0.0,
             "ctr": 0.0,
-            "velocity_vph": 22.66,
+            "velocity_vph": 22.78,
             "engagement_pct": 1.03
           }
         },
@@ -8567,7 +8567,7 @@
             "comments": 0,
             "retention": 0.0,
             "ctr": 0.0,
-            "velocity_vph": 7.1,
+            "velocity_vph": 7.09,
             "engagement_pct": 1.41
           }
         },
@@ -8633,7 +8633,7 @@
             "comments": 0,
             "retention": 0.0,
             "ctr": 0.0,
-            "velocity_vph": 19.8,
+            "velocity_vph": 19.79,
             "engagement_pct": 0.89
           }
         },
@@ -8699,7 +8699,7 @@
             "comments": 0,
             "retention": 0.0,
             "ctr": 0.0,
-            "velocity_vph": 5.19,
+            "velocity_vph": 5.18,
             "engagement_pct": 1.7
           }
         },
@@ -8831,7 +8831,7 @@
             "comments": 0,
             "retention": 0.0,
             "ctr": 0.0,
-            "velocity_vph": 9.35,
+            "velocity_vph": 9.34,
             "engagement_pct": 1.41
           }
         },
@@ -8898,7 +8898,7 @@
             "comments": 0,
             "retention": 0.0,
             "ctr": 0.0,
-            "velocity_vph": 9.07,
+            "velocity_vph": 9.06,
             "engagement_pct": 0.92
           }
         },
@@ -9377,7 +9377,7 @@
         "id": "ken_1792212492_9",
         "source_video": "least busted card [Clutch Moment]",
         "creator": "Ken",
-        "title": "Chip Cycling Is Officially Dead",
+        "title": "Stop Doing This With Your Elixir",
         "publish_at": "2026-10-19T17:00:00Z",
         "status": "PUBLISHED",
         "uploaded": true,
@@ -9388,8 +9388,8 @@
         "duration": 27.73,
         "hook_summary": "The creator makes a bold claim about why traditional chip cycle strategies are officially dead in the current meta.",
         "metadata": {
-          "title": "Chip Cycling Is Officially Dead",
-          "description": "Forget everything you know about standard tower pressure because chip cycle is officially dead. Ken exposes why minor chip damage is a complete waste of your resources.\n\n\u2022 The brutal truth about current tower defense scaling\n\u2022 Why bridge spam punishes old-school tactics instantly\n\u2022 The exact moment you should stop chipping and start saving\n\nFeaturing: Ken\n\nIs bridge spam actually unbeatable right now, or is there a counter?\n\n#shorts #ken #gamingtips #meta #clashroyale #strategy",
+          "title": "Stop Doing This With Your Elixir",
+          "description": "If you are still relying on minor tower chips to win, you are playing the game wrong. Ken shares the exact rule you need to follow to stop bleeding elixir in today's meta.\n\n\u2022 The new golden rule for elixir management\n\u2022 How to pivot away from outdated chip strategies\n\u2022 Building a push that actually overwhelms modern defenses\n\nFeaturing: Ken\n\nWhat is your go-to win condition if not chip damage?\n\n#shorts #ken #gaming #protips #clashroyale #elixir",
           "tags": [
             "Shorts",
             "ClashRoyale",
@@ -9418,7 +9418,7 @@
               "description": "If you are still relying on minor tower chips to win, you are playing the game wrong. Ken shares the exact rule you need to follow to stop bleeding elixir in today's meta.\n\n\u2022 The new golden rule for elixir management\n\u2022 How to pivot away from outdated chip strategies\n\u2022 Building a push that actually overwhelms modern defenses\n\nFeaturing: Ken\n\nWhat is your go-to win condition if not chip damage?\n\n#shorts #ken #gaming #protips #clashroyale #elixir"
             }
           },
-          "active_variant": "B",
+          "active_variant": "C",
           "test_status": "ACTIVE_TEST",
           "variant_history": [
             {
@@ -10314,7 +10314,7 @@
             "comments": 1,
             "retention": 0.0,
             "ctr": 0.0,
-            "velocity_vph": 6.05,
+            "velocity_vph": 6.04,
             "engagement_pct": 0.92
           }
         },
@@ -10765,7 +10765,7 @@
   },
   "analytics": {
     "summary": {
-      "total_views": 34647,
+      "total_views": 34667,
       "shorts_published": 0,
       "total_likes": 381,
       "avg_retention_pct": 82.5,
@@ -10774,63 +10774,63 @@
       "estimated_revenue_usd": 0.0,
       "health_grade": "A+",
       "total_shorts_published": 40,
-      "last_audit": 1792959055.35434
+      "last_audit": 1792959196.948609
     },
     "top_shorts": [
       {
         "title": "They Made This Evolution Into GODZILLA \ud83d\udc80",
         "creator": "Ken",
         "views": 594,
-        "velocity": 127.06,
+        "velocity": 126.0,
         "angle": "Curiosity Gap"
       },
       {
         "title": "Where Did All The Prize Money Go? \ud83d\udc80",
         "creator": "Ken",
-        "views": 1032,
-        "velocity": 55.25,
+        "views": 1046,
+        "velocity": 55.89,
         "angle": "Curiosity Gap"
       },
       {
         "title": "Bro Recreated The SpongeBob Meme In Clash \ud83d\udc80",
         "creator": "Ken",
         "views": 1103,
-        "velocity": 46.59,
+        "velocity": 46.52,
         "angle": "Curiosity Gap"
       },
       {
         "title": "This Lightning Modifier Is Pure Chaos \u26a1\ufe0f\ud83d\udc80",
         "creator": "Ken",
         "views": 676,
-        "velocity": 23.57,
+        "velocity": 23.54,
         "angle": "Curiosity Gap"
       },
       {
         "title": "Bro Smiled At His Own Demise \ud83d\ude2d\ud83d\udc80",
         "creator": "Ken",
-        "views": 967,
-        "velocity": 22.66,
+        "views": 973,
+        "velocity": 22.78,
         "angle": "Curiosity Gap"
       },
       {
         "title": "The Most Toxic Clash Royale Player Ever \ud83d\ude2d\ud83d\udc80",
         "creator": "Ken",
         "views": 640,
-        "velocity": 7.1,
+        "velocity": 7.09,
         "angle": "Contrarian Truth"
       },
       {
         "title": "3 Wins Away From Ultimate Champion With THIS Deck \ud83c\udfc6",
         "creator": "Ken",
         "views": 1904,
-        "velocity": 19.8,
+        "velocity": 19.79,
         "angle": "Curiosity Gap"
       },
       {
         "title": "1 HP Evo Goblin Giant + Freeze Clutch! \ud83e\udd76\ud83d\udc80",
         "creator": "Ken",
         "views": 530,
-        "velocity": 5.19,
+        "velocity": 5.18,
         "angle": "Curiosity Gap"
       },
       {
@@ -10844,7 +10844,7 @@
         "title": "The Most Broken Modifier In Clash History \ud83d\udc80",
         "creator": "Ken",
         "views": 1067,
-        "velocity": 9.35,
+        "velocity": 9.34,
         "angle": "Curiosity Gap"
       }
     ],

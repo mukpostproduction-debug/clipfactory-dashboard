@@ -1,6 +1,6 @@
 {
-  "timestamp": 1792948323.582499,
-  "sync_time_iso": "2026-10-25T17:12:03Z",
+  "timestamp": 1792948347.100425,
+  "sync_time_iso": "2026-10-25T17:12:27Z",
   "default_channel": "ken_clips_burger",
   "channels": {
     "ken_clips_burger": {
@@ -146,17 +146,17 @@
         },
         "PUBLISHER": {
           "status": "working",
-          "current_task": "Short SCHEDULED on YouTube: 3N0ATaF3YKs (09:30 PM ET (Mon, Oct 26))",
+          "current_task": "Short SCHEDULED on YouTube: WsoFhfilcnY (11:30 AM ET (Tue, Oct 27))",
           "last_completed_task": "Uploaded all 3 initial Clash Royale gaming cuts to YouTube (kenclipsburger420)",
           "recent_logs": [
-            "[11:13:14] Deploying to YouTube (@kenclipsburger420) for release 11:30 AM ET (Mon, Oct 26)...",
-            "[11:13:21] Short SCHEDULED on YouTube: IZkvSXd1wt4 (11:30 AM ET (Mon, Oct 26))",
-            "[11:16:48] Generating gaming A/B metadata for slot: 04:30 PM ET (Mon, Oct 26)...",
             "[11:17:13] Deploying to YouTube (@kenclipsburger420) for release 04:30 PM ET (Mon, Oct 26)...",
             "[11:17:19] Short SCHEDULED on YouTube: 1b7lzTxGuNA (04:30 PM ET (Mon, Oct 26))",
             "[13:10:31] Generating gaming A/B metadata for slot: 09:30 PM ET (Mon, Oct 26)...",
             "[13:10:34] Deploying to YouTube (@kenclipsburger420) for release 09:30 PM ET (Mon, Oct 26)...",
-            "[13:10:38] Short SCHEDULED on YouTube: 3N0ATaF3YKs (09:30 PM ET (Mon, Oct 26))"
+            "[13:10:38] Short SCHEDULED on YouTube: 3N0ATaF3YKs (09:30 PM ET (Mon, Oct 26))",
+            "[13:12:15] Generating gaming A/B metadata for slot: 11:30 AM ET (Tue, Oct 27)...",
+            "[13:12:22] Deploying to YouTube (@kenclipsburger420) for release 11:30 AM ET (Tue, Oct 27)...",
+            "[13:12:27] Short SCHEDULED on YouTube: WsoFhfilcnY (11:30 AM ET (Tue, Oct 27))"
           ]
         },
         "ANALYST": {
@@ -726,17 +726,6 @@
             "status": "FAILED_RENDER",
             "added_at": "2026-10-21T10:01:59Z",
             "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792576919_0_master.mp4"
-          },
-          {
-            "id": "ken_1792948153_1",
-            "creator": "Ken",
-            "title": "Mirror Evolution [Clutch Moment]",
-            "source_title": "Mirror Evolution",
-            "url": "https://www.youtube.com/watch?v=Cnr2byks_3o",
-            "section": "*300-480",
-            "duration": 866,
-            "status": "PROCESSING",
-            "added_at": "2026-10-25T17:09:13Z"
           }
         ],
         "processing": null,
@@ -1192,6 +1181,19 @@
             "added_at": "2026-10-25T17:09:13Z",
             "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792948153_0_master.mp4",
             "youtube_video_id": "3N0ATaF3YKs"
+          },
+          {
+            "id": "ken_1792948153_1",
+            "creator": "Ken",
+            "title": "Mirror Evolution [Clutch Moment]",
+            "source_title": "Mirror Evolution",
+            "url": "https://www.youtube.com/watch?v=Cnr2byks_3o",
+            "section": "*300-480",
+            "duration": 866,
+            "status": "COMPLETED",
+            "added_at": "2026-10-25T17:09:13Z",
+            "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792948153_1_master.mp4",
+            "youtube_video_id": "WsoFhfilcnY"
           }
         ]
       },
@@ -1510,6 +1512,71 @@
                   "variant": "A",
                   "title": "Why the Evo Mirror broke my brain",
                   "deployed_at": 1792948234.7850502,
+                  "reason": "Initial A/B test deployment"
+                }
+              ],
+              "metrics": {
+                "views": 0,
+                "likes": 0,
+                "comments": 0,
+                "retention": 0.0,
+                "ctr": 0.0
+              }
+            },
+            "reframed": "gaming_split"
+          },
+          {
+            "id": "ken_1792948153_1",
+            "source_video": "Mirror Evolution [Clutch Moment]",
+            "creator": "Ken",
+            "title": "The worst strategy I've ever used...",
+            "publish_at": "2026-10-27T15:30:00Z",
+            "status": "SCHEDULED",
+            "uploaded": true,
+            "youtube_video_id": "WsoFhfilcnY",
+            "youtube_url": "https://www.youtube.com/shorts/WsoFhfilcnY",
+            "video_file": "ken_1792948153_1_master.mp4",
+            "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792948153_1_master.mp4",
+            "duration": 26.61,
+            "hook_summary": "The creator realizes their tactic is failing miserably and spirals into humorous despair as the match falls apart.",
+            "metadata": {
+              "title": "The worst strategy I've ever used...",
+              "description": "Watch the exact moment a masterclass plan completely implodes into pure comedy. Sometimes the wildest tactics sound good on paper until reality hits hard.\n\n\u2022 Witness the live collapse of a terrible game plan\n\u2022 Learn what NOT to do when your push fails\n\u2022 Experience second-hand gaming despair in real-time\n\nFeaturing: Ken\n\nHave you ever tried a strategy so bad it actually made you laugh out loud? Drop your biggest gaming fails below!\n\n#shorts #gaming #mobilegaming #fail #strategy #funny",
+              "tags": [
+                "gaming shorts",
+                "ken gameplay",
+                "strategy fail",
+                "mobile gaming",
+                "funny gaming moments",
+                "deck building fail",
+                "ranked match despair",
+                "epic fails"
+              ],
+              "pinned_comment": "Be honest: have you ever copied a strategy online thinking it was 200 IQ, only for it to fail instantly on the first play?",
+              "ab_variants": {
+                "A": {
+                  "angle": "Curiosity Gap",
+                  "title": "The worst strategy I've ever used...",
+                  "description": "Watch the exact moment a masterclass plan completely implodes into pure comedy. Sometimes the wildest tactics sound good on paper until reality hits hard.\n\n\u2022 Witness the live collapse of a terrible game plan\n\u2022 Learn what NOT to do when your push fails\n\u2022 Experience second-hand gaming despair in real-time\n\nFeaturing: Ken\n\nHave you ever tried a strategy so bad it actually made you laugh out loud? Drop your biggest gaming fails below!\n\n#shorts #gaming #mobilegaming #fail #strategy #funny"
+                },
+                "B": {
+                  "angle": "Contrarian Truth",
+                  "title": "Meta strategies are a complete trap.",
+                  "description": "Everyone tells you to follow the meta, but sometimes inventing your own chaotic tactics leads to the funniest disasters. Here is proof that genius and stupidity are separated by a very thin line.\n\n\u2022 Why conventional deck building sometimes backfires\n\u2022 The truth about experimental tactics in ranked matches\n\u2022 How to embrace the loss when everything goes wrong\n\nFeaturing: Ken\n\nIs it better to lose with a creative deck or win using a boring meta strategy? Let's settle the debate!\n\n#shorts #gaming #meta #strategy #mobilegaming #fail"
+                },
+                "C": {
+                  "angle": "Actionable Protocol",
+                  "title": "How to completely ruin your win streak",
+                  "description": "Need a masterclass in how to throw a match in under thirty seconds? Study this absolute disasterpiece of a tactical breakdown and do the exact opposite.\n\n\u2022 Step one: Invent a questionable new synergy\n\u2022 Step two: Watch your entire push evaporate instantly\n\u2022 Step three: Question all your life choices\n\nFeaturing: Ken\n\nWhat is the single worst card or item you have ever wasted Elixir or resources on? Tell me your story!\n\n#shorts #gaming #strategy #mobilegaming #fail #funny"
+                }
+              },
+              "active_variant": "A",
+              "test_status": "ACTIVE_TEST",
+              "variant_history": [
+                {
+                  "variant": "A",
+                  "title": "The worst strategy I've ever used...",
+                  "deployed_at": 1792948342.010823,
                   "reason": "Initial A/B test deployment"
                 }
               ],
@@ -6658,17 +6725,17 @@
     },
     "PUBLISHER": {
       "status": "working",
-      "current_task": "Short SCHEDULED on YouTube: 3N0ATaF3YKs (09:30 PM ET (Mon, Oct 26))",
+      "current_task": "Short SCHEDULED on YouTube: WsoFhfilcnY (11:30 AM ET (Tue, Oct 27))",
       "last_completed_task": "Uploaded all 3 initial Clash Royale gaming cuts to YouTube (kenclipsburger420)",
       "recent_logs": [
-        "[11:13:14] Deploying to YouTube (@kenclipsburger420) for release 11:30 AM ET (Mon, Oct 26)...",
-        "[11:13:21] Short SCHEDULED on YouTube: IZkvSXd1wt4 (11:30 AM ET (Mon, Oct 26))",
-        "[11:16:48] Generating gaming A/B metadata for slot: 04:30 PM ET (Mon, Oct 26)...",
         "[11:17:13] Deploying to YouTube (@kenclipsburger420) for release 04:30 PM ET (Mon, Oct 26)...",
         "[11:17:19] Short SCHEDULED on YouTube: 1b7lzTxGuNA (04:30 PM ET (Mon, Oct 26))",
         "[13:10:31] Generating gaming A/B metadata for slot: 09:30 PM ET (Mon, Oct 26)...",
         "[13:10:34] Deploying to YouTube (@kenclipsburger420) for release 09:30 PM ET (Mon, Oct 26)...",
-        "[13:10:38] Short SCHEDULED on YouTube: 3N0ATaF3YKs (09:30 PM ET (Mon, Oct 26))"
+        "[13:10:38] Short SCHEDULED on YouTube: 3N0ATaF3YKs (09:30 PM ET (Mon, Oct 26))",
+        "[13:12:15] Generating gaming A/B metadata for slot: 11:30 AM ET (Tue, Oct 27)...",
+        "[13:12:22] Deploying to YouTube (@kenclipsburger420) for release 11:30 AM ET (Tue, Oct 27)...",
+        "[13:12:27] Short SCHEDULED on YouTube: WsoFhfilcnY (11:30 AM ET (Tue, Oct 27))"
       ]
     },
     "ANALYST": {
@@ -7238,17 +7305,6 @@
         "status": "FAILED_RENDER",
         "added_at": "2026-10-21T10:01:59Z",
         "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792576919_0_master.mp4"
-      },
-      {
-        "id": "ken_1792948153_1",
-        "creator": "Ken",
-        "title": "Mirror Evolution [Clutch Moment]",
-        "source_title": "Mirror Evolution",
-        "url": "https://www.youtube.com/watch?v=Cnr2byks_3o",
-        "section": "*300-480",
-        "duration": 866,
-        "status": "PROCESSING",
-        "added_at": "2026-10-25T17:09:13Z"
       }
     ],
     "processing": null,
@@ -7704,6 +7760,19 @@
         "added_at": "2026-10-25T17:09:13Z",
         "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792948153_0_master.mp4",
         "youtube_video_id": "3N0ATaF3YKs"
+      },
+      {
+        "id": "ken_1792948153_1",
+        "creator": "Ken",
+        "title": "Mirror Evolution [Clutch Moment]",
+        "source_title": "Mirror Evolution",
+        "url": "https://www.youtube.com/watch?v=Cnr2byks_3o",
+        "section": "*300-480",
+        "duration": 866,
+        "status": "COMPLETED",
+        "added_at": "2026-10-25T17:09:13Z",
+        "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792948153_1_master.mp4",
+        "youtube_video_id": "WsoFhfilcnY"
       }
     ]
   },
@@ -8022,6 +8091,71 @@
               "variant": "A",
               "title": "Why the Evo Mirror broke my brain",
               "deployed_at": 1792948234.7850502,
+              "reason": "Initial A/B test deployment"
+            }
+          ],
+          "metrics": {
+            "views": 0,
+            "likes": 0,
+            "comments": 0,
+            "retention": 0.0,
+            "ctr": 0.0
+          }
+        },
+        "reframed": "gaming_split"
+      },
+      {
+        "id": "ken_1792948153_1",
+        "source_video": "Mirror Evolution [Clutch Moment]",
+        "creator": "Ken",
+        "title": "The worst strategy I've ever used...",
+        "publish_at": "2026-10-27T15:30:00Z",
+        "status": "SCHEDULED",
+        "uploaded": true,
+        "youtube_video_id": "WsoFhfilcnY",
+        "youtube_url": "https://www.youtube.com/shorts/WsoFhfilcnY",
+        "video_file": "ken_1792948153_1_master.mp4",
+        "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/clipfactory/storage/cuts/ken_1792948153_1_master.mp4",
+        "duration": 26.61,
+        "hook_summary": "The creator realizes their tactic is failing miserably and spirals into humorous despair as the match falls apart.",
+        "metadata": {
+          "title": "The worst strategy I've ever used...",
+          "description": "Watch the exact moment a masterclass plan completely implodes into pure comedy. Sometimes the wildest tactics sound good on paper until reality hits hard.\n\n\u2022 Witness the live collapse of a terrible game plan\n\u2022 Learn what NOT to do when your push fails\n\u2022 Experience second-hand gaming despair in real-time\n\nFeaturing: Ken\n\nHave you ever tried a strategy so bad it actually made you laugh out loud? Drop your biggest gaming fails below!\n\n#shorts #gaming #mobilegaming #fail #strategy #funny",
+          "tags": [
+            "gaming shorts",
+            "ken gameplay",
+            "strategy fail",
+            "mobile gaming",
+            "funny gaming moments",
+            "deck building fail",
+            "ranked match despair",
+            "epic fails"
+          ],
+          "pinned_comment": "Be honest: have you ever copied a strategy online thinking it was 200 IQ, only for it to fail instantly on the first play?",
+          "ab_variants": {
+            "A": {
+              "angle": "Curiosity Gap",
+              "title": "The worst strategy I've ever used...",
+              "description": "Watch the exact moment a masterclass plan completely implodes into pure comedy. Sometimes the wildest tactics sound good on paper until reality hits hard.\n\n\u2022 Witness the live collapse of a terrible game plan\n\u2022 Learn what NOT to do when your push fails\n\u2022 Experience second-hand gaming despair in real-time\n\nFeaturing: Ken\n\nHave you ever tried a strategy so bad it actually made you laugh out loud? Drop your biggest gaming fails below!\n\n#shorts #gaming #mobilegaming #fail #strategy #funny"
+            },
+            "B": {
+              "angle": "Contrarian Truth",
+              "title": "Meta strategies are a complete trap.",
+              "description": "Everyone tells you to follow the meta, but sometimes inventing your own chaotic tactics leads to the funniest disasters. Here is proof that genius and stupidity are separated by a very thin line.\n\n\u2022 Why conventional deck building sometimes backfires\n\u2022 The truth about experimental tactics in ranked matches\n\u2022 How to embrace the loss when everything goes wrong\n\nFeaturing: Ken\n\nIs it better to lose with a creative deck or win using a boring meta strategy? Let's settle the debate!\n\n#shorts #gaming #meta #strategy #mobilegaming #fail"
+            },
+            "C": {
+              "angle": "Actionable Protocol",
+              "title": "How to completely ruin your win streak",
+              "description": "Need a masterclass in how to throw a match in under thirty seconds? Study this absolute disasterpiece of a tactical breakdown and do the exact opposite.\n\n\u2022 Step one: Invent a questionable new synergy\n\u2022 Step two: Watch your entire push evaporate instantly\n\u2022 Step three: Question all your life choices\n\nFeaturing: Ken\n\nWhat is the single worst card or item you have ever wasted Elixir or resources on? Tell me your story!\n\n#shorts #gaming #strategy #mobilegaming #fail #funny"
+            }
+          },
+          "active_variant": "A",
+          "test_status": "ACTIVE_TEST",
+          "variant_history": [
+            {
+              "variant": "A",
+              "title": "The worst strategy I've ever used...",
+              "deployed_at": 1792948342.010823,
               "reason": "Initial A/B test deployment"
             }
           ],

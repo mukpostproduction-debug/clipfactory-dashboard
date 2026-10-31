@@ -1,6 +1,6 @@
 {
-  "timestamp": 1793475439.802094,
-  "sync_time_iso": "2026-10-31T19:37:19Z",
+  "timestamp": 1793475496.725234,
+  "sync_time_iso": "2026-10-31T19:38:16Z",
   "default_channel": "ken_clips_burger",
   "channels": {
     "ken_clips_burger": {
@@ -146,17 +146,17 @@
         },
         "PUBLISHER": {
           "status": "working",
-          "current_task": "Short SCHEDULED on YouTube: ArAlebW0xuA (12:30 PM ET (Thu, Nov 05))",
+          "current_task": "Short SCHEDULED on YouTube: 6M0hN3rrDT4 (06:30 PM ET (Thu, Nov 05))",
           "last_completed_task": "Uploaded all 3 initial Clash Royale gaming cuts to YouTube (kenclipsburger420)",
           "recent_logs": [
-            "[15:24:54] Deploying to YouTube (@kenclipsburger420) for release 12:30 PM ET (Wed, Nov 04)...",
-            "[15:25:04] Short SCHEDULED on YouTube: Hhi3BDglQRI (12:30 PM ET (Wed, Nov 04))",
-            "[15:29:12] Generating gaming A/B metadata for slot: 06:30 PM ET (Wed, Nov 04)...",
             "[15:29:24] Deploying to YouTube (@kenclipsburger420) for release 06:30 PM ET (Wed, Nov 04)...",
             "[15:29:34] Short SCHEDULED on YouTube: OMsFb2IyTak (06:30 PM ET (Wed, Nov 04))",
             "[15:33:39] Generating gaming A/B metadata for slot: 12:30 PM ET (Thu, Nov 05)...",
             "[15:33:50] Deploying to YouTube (@kenclipsburger420) for release 12:30 PM ET (Thu, Nov 05)...",
-            "[15:34:00] Short SCHEDULED on YouTube: ArAlebW0xuA (12:30 PM ET (Thu, Nov 05))"
+            "[15:34:00] Short SCHEDULED on YouTube: ArAlebW0xuA (12:30 PM ET (Thu, Nov 05))",
+            "[15:37:53] Generating gaming A/B metadata for slot: 06:30 PM ET (Thu, Nov 05)...",
+            "[15:38:05] Deploying to YouTube (@kenclipsburger420) for release 06:30 PM ET (Thu, Nov 05)...",
+            "[15:38:16] Short SCHEDULED on YouTube: 6M0hN3rrDT4 (06:30 PM ET (Thu, Nov 05))"
           ]
         },
         "ANALYST": {
@@ -192,17 +192,6 @@
       },
       "queue": {
         "queue": [
-          {
-            "id": "ken_1793472807_19",
-            "creator": "Ken",
-            "title": "I don't care [Holy niki from obsession (669 likes)]",
-            "source_title": "I don't care",
-            "url": "https://www.youtube.com/watch?v=ScNtqik22iA",
-            "section": "*813-861",
-            "duration": 867,
-            "status": "PROCESSING",
-            "added_at": "2026-10-31T18:53:12Z"
-          },
           {
             "id": "ken_1793472807_18",
             "creator": "Ken",
@@ -1439,6 +1428,19 @@
             "added_at": "2026-10-31T18:53:12Z",
             "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/06_STUDIO_SOFTWARE_&_LABS/clipfactory/storage/cuts/ken_1793472810_22_master.mp4",
             "youtube_video_id": "ArAlebW0xuA"
+          },
+          {
+            "id": "ken_1793472807_19",
+            "creator": "Ken",
+            "title": "I don't care [Holy niki from obsession (669 likes)]",
+            "source_title": "I don't care",
+            "url": "https://www.youtube.com/watch?v=ScNtqik22iA",
+            "section": "*813-861",
+            "duration": 867,
+            "status": "COMPLETED",
+            "added_at": "2026-10-31T18:53:12Z",
+            "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/06_STUDIO_SOFTWARE_&_LABS/clipfactory/storage/cuts/ken_1793472807_19_master.mp4",
+            "youtube_video_id": "6M0hN3rrDT4"
           }
         ]
       },
@@ -1938,6 +1940,72 @@
                   "variant": "A",
                   "title": "He panicked at the bridge... then this happened",
                   "deployed_at": 1793475230.590152,
+                  "reason": "Initial A/B test deployment"
+                }
+              ],
+              "metrics": {
+                "views": 0,
+                "likes": 0,
+                "comments": 0,
+                "retention": 0.0,
+                "ctr": 0.0
+              }
+            },
+            "reframed": "gaming_split"
+          },
+          {
+            "id": "ken_1793472807_19",
+            "source_video": "I don't care [Holy niki from obsession (669 likes)]",
+            "creator": "Ken",
+            "title": "The exact moment his defense completely crumbled...",
+            "publish_at": "2026-11-05T23:30:00Z",
+            "status": "SCHEDULED",
+            "uploaded": true,
+            "youtube_video_id": "6M0hN3rrDT4",
+            "youtube_url": "https://www.youtube.com/shorts/6M0hN3rrDT4",
+            "video_file": "ken_1793472807_19_master.mp4",
+            "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/06_STUDIO_SOFTWARE_&_LABS/clipfactory/storage/cuts/ken_1793472807_19_master.mp4",
+            "duration": 18.4,
+            "hook_summary": "The creator experiences a mental breakdown after a Monk ability juke fails and a Lightning spell ruins his entire defense strategy.",
+            "metadata": {
+              "title": "The exact moment his defense completely crumbled...",
+              "description": "Watch how one failed play turns into an absolute disaster that costs the entire game. You won't believe how this setup falls apart in seconds.\n\n\u2022 Witness the exact millisecond the strategy backfires\n\u2022 Learn what happens when a high-risk juke goes completely wrong\n\u2022 See how a single lightning spell changes the match outcome\n\nFeaturing: Ken\n\nHave you ever completely lost a game because of one mistimed ability, or was this the worst luck ever?\n\n#shorts #clashroyale #gaming #ken #supercell #mobilegaming",
+              "tags": [
+                "Clash Royale",
+                "Ken Clash Royale",
+                "Monk ability",
+                "Lightning spell",
+                "Clash Royale funny moments",
+                "Clash Royale gameplay",
+                "mobile gaming shorts",
+                "Clash Royale rage",
+                "Clash Royale strategy"
+              ],
+              "pinned_comment": "Be honest: would you have rage quit right here, or tried to salvage the match?",
+              "ab_variants": {
+                "A": {
+                  "angle": "Curiosity Gap",
+                  "title": "The exact moment his defense completely crumbled...",
+                  "description": "Watch how one failed play turns into an absolute disaster that costs the entire game. You won't believe how this setup falls apart in seconds.\n\n\u2022 Witness the exact millisecond the strategy backfires\n\u2022 Learn what happens when a high-risk juke goes completely wrong\n\u2022 See how a single lightning spell changes the match outcome\n\nFeaturing: Ken\n\nHave you ever completely lost a game because of one mistimed ability, or was this the worst luck ever?\n\n#shorts #clashroyale #gaming #ken #supercell #mobilegaming"
+                },
+                "B": {
+                  "angle": "Contrarian Truth",
+                  "title": "Stop using this Monk strategy immediately.",
+                  "description": "Most players think this defensive setup is unbreakable, but this clip proves it's a massive trap. Don't make the same mistake.\n\n\u2022 Debunking common misconceptions about monk defense tactics\n\u2022 Why trying to outplay lightning with barbells fails\n\u2022 The hidden vulnerability in top-tier defensive plays\n\nFeaturing: Ken\n\nIs this Monk ability actually overrated, or did he just play it completely wrong?\n\n#shorts #clashroyale #gaming #ken #supercell #mobilegaming"
+                },
+                "C": {
+                  "angle": "Actionable Protocol",
+                  "title": "How to never get destroyed by Lightning again.",
+                  "description": "Break down the ultimate defensive mistake and learn the exact positioning rules to keep your strategy safe from surprise spells.\n\n\u2022 Step-by-step breakdown of the failed juke attempt\n\u2022 How to anticipate and counter heavy spell damage\n\u2022 Essential rules for protecting your core units\n\nFeaturing: Ken\n\nWould you have dropped the barbells or saved your elixir for a different counterplay?\n\n#shorts #clashroyale #gaming #ken #supercell #mobilegaming"
+                }
+              },
+              "active_variant": "A",
+              "test_status": "ACTIVE_TEST",
+              "variant_history": [
+                {
+                  "variant": "A",
+                  "title": "The exact moment his defense completely crumbled...",
+                  "deployed_at": 1793475485.090415,
                   "reason": "Initial A/B test deployment"
                 }
               ],
@@ -7617,17 +7685,17 @@
     },
     "PUBLISHER": {
       "status": "working",
-      "current_task": "Short SCHEDULED on YouTube: ArAlebW0xuA (12:30 PM ET (Thu, Nov 05))",
+      "current_task": "Short SCHEDULED on YouTube: 6M0hN3rrDT4 (06:30 PM ET (Thu, Nov 05))",
       "last_completed_task": "Uploaded all 3 initial Clash Royale gaming cuts to YouTube (kenclipsburger420)",
       "recent_logs": [
-        "[15:24:54] Deploying to YouTube (@kenclipsburger420) for release 12:30 PM ET (Wed, Nov 04)...",
-        "[15:25:04] Short SCHEDULED on YouTube: Hhi3BDglQRI (12:30 PM ET (Wed, Nov 04))",
-        "[15:29:12] Generating gaming A/B metadata for slot: 06:30 PM ET (Wed, Nov 04)...",
         "[15:29:24] Deploying to YouTube (@kenclipsburger420) for release 06:30 PM ET (Wed, Nov 04)...",
         "[15:29:34] Short SCHEDULED on YouTube: OMsFb2IyTak (06:30 PM ET (Wed, Nov 04))",
         "[15:33:39] Generating gaming A/B metadata for slot: 12:30 PM ET (Thu, Nov 05)...",
         "[15:33:50] Deploying to YouTube (@kenclipsburger420) for release 12:30 PM ET (Thu, Nov 05)...",
-        "[15:34:00] Short SCHEDULED on YouTube: ArAlebW0xuA (12:30 PM ET (Thu, Nov 05))"
+        "[15:34:00] Short SCHEDULED on YouTube: ArAlebW0xuA (12:30 PM ET (Thu, Nov 05))",
+        "[15:37:53] Generating gaming A/B metadata for slot: 06:30 PM ET (Thu, Nov 05)...",
+        "[15:38:05] Deploying to YouTube (@kenclipsburger420) for release 06:30 PM ET (Thu, Nov 05)...",
+        "[15:38:16] Short SCHEDULED on YouTube: 6M0hN3rrDT4 (06:30 PM ET (Thu, Nov 05))"
       ]
     },
     "ANALYST": {
@@ -7663,17 +7731,6 @@
   },
   "queue": {
     "queue": [
-      {
-        "id": "ken_1793472807_19",
-        "creator": "Ken",
-        "title": "I don't care [Holy niki from obsession (669 likes)]",
-        "source_title": "I don't care",
-        "url": "https://www.youtube.com/watch?v=ScNtqik22iA",
-        "section": "*813-861",
-        "duration": 867,
-        "status": "PROCESSING",
-        "added_at": "2026-10-31T18:53:12Z"
-      },
       {
         "id": "ken_1793472807_18",
         "creator": "Ken",
@@ -8910,6 +8967,19 @@
         "added_at": "2026-10-31T18:53:12Z",
         "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/06_STUDIO_SOFTWARE_&_LABS/clipfactory/storage/cuts/ken_1793472810_22_master.mp4",
         "youtube_video_id": "ArAlebW0xuA"
+      },
+      {
+        "id": "ken_1793472807_19",
+        "creator": "Ken",
+        "title": "I don't care [Holy niki from obsession (669 likes)]",
+        "source_title": "I don't care",
+        "url": "https://www.youtube.com/watch?v=ScNtqik22iA",
+        "section": "*813-861",
+        "duration": 867,
+        "status": "COMPLETED",
+        "added_at": "2026-10-31T18:53:12Z",
+        "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/06_STUDIO_SOFTWARE_&_LABS/clipfactory/storage/cuts/ken_1793472807_19_master.mp4",
+        "youtube_video_id": "6M0hN3rrDT4"
       }
     ]
   },
@@ -9409,6 +9479,72 @@
               "variant": "A",
               "title": "He panicked at the bridge... then this happened",
               "deployed_at": 1793475230.590152,
+              "reason": "Initial A/B test deployment"
+            }
+          ],
+          "metrics": {
+            "views": 0,
+            "likes": 0,
+            "comments": 0,
+            "retention": 0.0,
+            "ctr": 0.0
+          }
+        },
+        "reframed": "gaming_split"
+      },
+      {
+        "id": "ken_1793472807_19",
+        "source_video": "I don't care [Holy niki from obsession (669 likes)]",
+        "creator": "Ken",
+        "title": "The exact moment his defense completely crumbled...",
+        "publish_at": "2026-11-05T23:30:00Z",
+        "status": "SCHEDULED",
+        "uploaded": true,
+        "youtube_video_id": "6M0hN3rrDT4",
+        "youtube_url": "https://www.youtube.com/shorts/6M0hN3rrDT4",
+        "video_file": "ken_1793472807_19_master.mp4",
+        "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/06_STUDIO_SOFTWARE_&_LABS/clipfactory/storage/cuts/ken_1793472807_19_master.mp4",
+        "duration": 18.4,
+        "hook_summary": "The creator experiences a mental breakdown after a Monk ability juke fails and a Lightning spell ruins his entire defense strategy.",
+        "metadata": {
+          "title": "The exact moment his defense completely crumbled...",
+          "description": "Watch how one failed play turns into an absolute disaster that costs the entire game. You won't believe how this setup falls apart in seconds.\n\n\u2022 Witness the exact millisecond the strategy backfires\n\u2022 Learn what happens when a high-risk juke goes completely wrong\n\u2022 See how a single lightning spell changes the match outcome\n\nFeaturing: Ken\n\nHave you ever completely lost a game because of one mistimed ability, or was this the worst luck ever?\n\n#shorts #clashroyale #gaming #ken #supercell #mobilegaming",
+          "tags": [
+            "Clash Royale",
+            "Ken Clash Royale",
+            "Monk ability",
+            "Lightning spell",
+            "Clash Royale funny moments",
+            "Clash Royale gameplay",
+            "mobile gaming shorts",
+            "Clash Royale rage",
+            "Clash Royale strategy"
+          ],
+          "pinned_comment": "Be honest: would you have rage quit right here, or tried to salvage the match?",
+          "ab_variants": {
+            "A": {
+              "angle": "Curiosity Gap",
+              "title": "The exact moment his defense completely crumbled...",
+              "description": "Watch how one failed play turns into an absolute disaster that costs the entire game. You won't believe how this setup falls apart in seconds.\n\n\u2022 Witness the exact millisecond the strategy backfires\n\u2022 Learn what happens when a high-risk juke goes completely wrong\n\u2022 See how a single lightning spell changes the match outcome\n\nFeaturing: Ken\n\nHave you ever completely lost a game because of one mistimed ability, or was this the worst luck ever?\n\n#shorts #clashroyale #gaming #ken #supercell #mobilegaming"
+            },
+            "B": {
+              "angle": "Contrarian Truth",
+              "title": "Stop using this Monk strategy immediately.",
+              "description": "Most players think this defensive setup is unbreakable, but this clip proves it's a massive trap. Don't make the same mistake.\n\n\u2022 Debunking common misconceptions about monk defense tactics\n\u2022 Why trying to outplay lightning with barbells fails\n\u2022 The hidden vulnerability in top-tier defensive plays\n\nFeaturing: Ken\n\nIs this Monk ability actually overrated, or did he just play it completely wrong?\n\n#shorts #clashroyale #gaming #ken #supercell #mobilegaming"
+            },
+            "C": {
+              "angle": "Actionable Protocol",
+              "title": "How to never get destroyed by Lightning again.",
+              "description": "Break down the ultimate defensive mistake and learn the exact positioning rules to keep your strategy safe from surprise spells.\n\n\u2022 Step-by-step breakdown of the failed juke attempt\n\u2022 How to anticipate and counter heavy spell damage\n\u2022 Essential rules for protecting your core units\n\nFeaturing: Ken\n\nWould you have dropped the barbells or saved your elixir for a different counterplay?\n\n#shorts #clashroyale #gaming #ken #supercell #mobilegaming"
+            }
+          },
+          "active_variant": "A",
+          "test_status": "ACTIVE_TEST",
+          "variant_history": [
+            {
+              "variant": "A",
+              "title": "The exact moment his defense completely crumbled...",
+              "deployed_at": 1793475485.090415,
               "reason": "Initial A/B test deployment"
             }
           ],

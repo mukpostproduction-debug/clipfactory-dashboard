@@ -1,6 +1,6 @@
 {
-  "timestamp": 1793475193.651241,
-  "sync_time_iso": "2026-10-31T19:33:13Z",
+  "timestamp": 1793475240.5252638,
+  "sync_time_iso": "2026-10-31T19:34:00Z",
   "default_channel": "ken_clips_burger",
   "channels": {
     "ken_clips_burger": {
@@ -146,17 +146,17 @@
         },
         "PUBLISHER": {
           "status": "working",
-          "current_task": "Short SCHEDULED on YouTube: OMsFb2IyTak (06:30 PM ET (Wed, Nov 04))",
+          "current_task": "Short SCHEDULED on YouTube: ArAlebW0xuA (12:30 PM ET (Thu, Nov 05))",
           "last_completed_task": "Uploaded all 3 initial Clash Royale gaming cuts to YouTube (kenclipsburger420)",
           "recent_logs": [
-            "[15:20:31] Deploying to YouTube (@kenclipsburger420) for release 06:30 PM ET (Tue, Nov 03)...",
-            "[15:20:41] Short SCHEDULED on YouTube: 8JA6BpoH7to (06:30 PM ET (Tue, Nov 03))",
-            "[15:24:42] Generating gaming A/B metadata for slot: 12:30 PM ET (Wed, Nov 04)...",
             "[15:24:54] Deploying to YouTube (@kenclipsburger420) for release 12:30 PM ET (Wed, Nov 04)...",
             "[15:25:04] Short SCHEDULED on YouTube: Hhi3BDglQRI (12:30 PM ET (Wed, Nov 04))",
             "[15:29:12] Generating gaming A/B metadata for slot: 06:30 PM ET (Wed, Nov 04)...",
             "[15:29:24] Deploying to YouTube (@kenclipsburger420) for release 06:30 PM ET (Wed, Nov 04)...",
-            "[15:29:34] Short SCHEDULED on YouTube: OMsFb2IyTak (06:30 PM ET (Wed, Nov 04))"
+            "[15:29:34] Short SCHEDULED on YouTube: OMsFb2IyTak (06:30 PM ET (Wed, Nov 04))",
+            "[15:33:39] Generating gaming A/B metadata for slot: 12:30 PM ET (Thu, Nov 05)...",
+            "[15:33:50] Deploying to YouTube (@kenclipsburger420) for release 12:30 PM ET (Thu, Nov 05)...",
+            "[15:34:00] Short SCHEDULED on YouTube: ArAlebW0xuA (12:30 PM ET (Thu, Nov 05))"
           ]
         },
         "ANALYST": {
@@ -192,17 +192,6 @@
       },
       "queue": {
         "queue": [
-          {
-            "id": "ken_1793472810_22",
-            "creator": "Ken",
-            "title": "2.9 fatherless cycle [hero ken activates his kenmentia ability, predic (1100 likes)]",
-            "source_title": "2.9 fatherless cycle",
-            "url": "https://www.youtube.com/watch?v=Va4Bm6ZbUCo",
-            "section": "*395-443",
-            "duration": 1537,
-            "status": "PROCESSING",
-            "added_at": "2026-10-31T18:53:12Z"
-          },
           {
             "id": "ken_1793472807_19",
             "creator": "Ken",
@@ -1437,6 +1426,19 @@
             "added_at": "2026-10-31T18:53:12Z",
             "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/06_STUDIO_SOFTWARE_&_LABS/clipfactory/storage/cuts/ken_1793472810_21_master.mp4",
             "youtube_video_id": "OMsFb2IyTak"
+          },
+          {
+            "id": "ken_1793472810_22",
+            "creator": "Ken",
+            "title": "2.9 fatherless cycle [hero ken activates his kenmentia ability, predic (1100 likes)]",
+            "source_title": "2.9 fatherless cycle",
+            "url": "https://www.youtube.com/watch?v=Va4Bm6ZbUCo",
+            "section": "*395-443",
+            "duration": 1537,
+            "status": "COMPLETED",
+            "added_at": "2026-10-31T18:53:12Z",
+            "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/06_STUDIO_SOFTWARE_&_LABS/clipfactory/storage/cuts/ken_1793472810_22_master.mp4",
+            "youtube_video_id": "ArAlebW0xuA"
           }
         ]
       },
@@ -1870,6 +1872,72 @@
                   "variant": "A",
                   "title": "Why Ken Made This Massive Mistake...",
                   "deployed_at": 1793474964.9035368,
+                  "reason": "Initial A/B test deployment"
+                }
+              ],
+              "metrics": {
+                "views": 0,
+                "likes": 0,
+                "comments": 0,
+                "retention": 0.0,
+                "ctr": 0.0
+              }
+            },
+            "reframed": "gaming_split"
+          },
+          {
+            "id": "ken_1793472810_22",
+            "source_video": "2.9 fatherless cycle [hero ken activates his kenmentia ability, predic (1100 likes)]",
+            "creator": "Ken",
+            "title": "He panicked at the bridge... then this happened",
+            "publish_at": "2026-11-05T17:30:00Z",
+            "status": "SCHEDULED",
+            "uploaded": true,
+            "youtube_video_id": "ArAlebW0xuA",
+            "youtube_url": "https://www.youtube.com/shorts/ArAlebW0xuA",
+            "video_file": "ken_1793472810_22_master.mp4",
+            "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/06_STUDIO_SOFTWARE_&_LABS/clipfactory/storage/cuts/ken_1793472810_22_master.mp4",
+            "duration": 22.34,
+            "hook_summary": "Ken executes an aggressive bridge play that triggers instant panic, only to realize his E-Barbs are melting through the opponent's Evolution Recruits in seconds.",
+            "metadata": {
+              "title": "He panicked at the bridge... then this happened",
+              "description": "Watch the exact moment pure panic turns into an unbelievable bridge play that completely shreds Evolution Recruits in seconds. You won't believe how fast they melted.\n\n* Witness the high-risk bridge play that triggers instant panic.\n* See how E-Barbs shred Evolution Recruits in seconds.\n* Analyze the exact positioning needed to pull off this defense.\n\nFeaturing: Ken\n\nWould you have dropped the E-Barbs here or panicked like Ken?\n\n#shorts #clashroyale #gaming #ken #supercell #mobilegaming",
+              "tags": [
+                "Clash Royale",
+                "Ken Clash Royale",
+                "Evolution Recruits",
+                "Evo Recruits",
+                "Elite Barbarians",
+                "Clash Royale Shorts",
+                "Clash Royale Funny Moments",
+                "Clash Royale Gameplay",
+                "Supercell"
+              ],
+              "pinned_comment": "Be honest: would you have surrendered the moment you saw those Evo Recruits, or did you know the E-Barbs were going to clutch it?",
+              "ab_variants": {
+                "A": {
+                  "angle": "Curiosity Gap",
+                  "title": "He panicked at the bridge... then this happened",
+                  "description": "Watch the exact moment pure panic turns into an unbelievable bridge play that completely shreds Evolution Recruits in seconds. You won't believe how fast they melted.\n\n* Witness the high-risk bridge play that triggers instant panic.\n* See how E-Barbs shred Evolution Recruits in seconds.\n* Analyze the exact positioning needed to pull off this defense.\n\nFeaturing: Ken\n\nWould you have dropped the E-Barbs here or panicked like Ken?\n\n#shorts #clashroyale #gaming #ken #supercell #mobilegaming"
+                },
+                "B": {
+                  "angle": "Contrarian Truth",
+                  "title": "Stop fearing Evo Recruits at the bridge",
+                  "description": "Everyone says Evolution Recruits are unstoppable at the bridge, but this insane clip proves there is a fast way to melt them before they even touch your tower.\n\n* Debunk the myth that Evo Recruits cannot be stopped at the bridge.\n* Discover the hidden offensive power of E-Barbs.\n* Learn how to turn a disastrous start into a winning counter-push.\n\nFeaturing: Ken\n\nAre Evo Recruits actually overrated or is this just a lucky play?\n\n#shorts #clashroyale #gaming #ken #supercell #mobilegaming"
+                },
+                "C": {
+                  "angle": "Actionable Protocol",
+                  "title": "How to melt Evo Recruits in seconds",
+                  "description": "Master this aggressive bridge play strategy to instantly shut down Evolution Recruits and turn the tables on your opponent with pure speed.\n\n* Step-by-step breakdown of the aggressive bridge drop.\n* Master the timing required to counter meta evolutions.\n* Apply this high-pressure tactic to your own ranked matches.\n\nFeaturing: Ken\n\nWhat is your go-to counter for Evolution Recruits in the current meta?\n\n#shorts #clashroyale #gaming #ken #supercell #mobilegaming"
+                }
+              },
+              "active_variant": "A",
+              "test_status": "ACTIVE_TEST",
+              "variant_history": [
+                {
+                  "variant": "A",
+                  "title": "He panicked at the bridge... then this happened",
+                  "deployed_at": 1793475230.590152,
                   "reason": "Initial A/B test deployment"
                 }
               ],
@@ -7549,17 +7617,17 @@
     },
     "PUBLISHER": {
       "status": "working",
-      "current_task": "Short SCHEDULED on YouTube: OMsFb2IyTak (06:30 PM ET (Wed, Nov 04))",
+      "current_task": "Short SCHEDULED on YouTube: ArAlebW0xuA (12:30 PM ET (Thu, Nov 05))",
       "last_completed_task": "Uploaded all 3 initial Clash Royale gaming cuts to YouTube (kenclipsburger420)",
       "recent_logs": [
-        "[15:20:31] Deploying to YouTube (@kenclipsburger420) for release 06:30 PM ET (Tue, Nov 03)...",
-        "[15:20:41] Short SCHEDULED on YouTube: 8JA6BpoH7to (06:30 PM ET (Tue, Nov 03))",
-        "[15:24:42] Generating gaming A/B metadata for slot: 12:30 PM ET (Wed, Nov 04)...",
         "[15:24:54] Deploying to YouTube (@kenclipsburger420) for release 12:30 PM ET (Wed, Nov 04)...",
         "[15:25:04] Short SCHEDULED on YouTube: Hhi3BDglQRI (12:30 PM ET (Wed, Nov 04))",
         "[15:29:12] Generating gaming A/B metadata for slot: 06:30 PM ET (Wed, Nov 04)...",
         "[15:29:24] Deploying to YouTube (@kenclipsburger420) for release 06:30 PM ET (Wed, Nov 04)...",
-        "[15:29:34] Short SCHEDULED on YouTube: OMsFb2IyTak (06:30 PM ET (Wed, Nov 04))"
+        "[15:29:34] Short SCHEDULED on YouTube: OMsFb2IyTak (06:30 PM ET (Wed, Nov 04))",
+        "[15:33:39] Generating gaming A/B metadata for slot: 12:30 PM ET (Thu, Nov 05)...",
+        "[15:33:50] Deploying to YouTube (@kenclipsburger420) for release 12:30 PM ET (Thu, Nov 05)...",
+        "[15:34:00] Short SCHEDULED on YouTube: ArAlebW0xuA (12:30 PM ET (Thu, Nov 05))"
       ]
     },
     "ANALYST": {
@@ -7595,17 +7663,6 @@
   },
   "queue": {
     "queue": [
-      {
-        "id": "ken_1793472810_22",
-        "creator": "Ken",
-        "title": "2.9 fatherless cycle [hero ken activates his kenmentia ability, predic (1100 likes)]",
-        "source_title": "2.9 fatherless cycle",
-        "url": "https://www.youtube.com/watch?v=Va4Bm6ZbUCo",
-        "section": "*395-443",
-        "duration": 1537,
-        "status": "PROCESSING",
-        "added_at": "2026-10-31T18:53:12Z"
-      },
       {
         "id": "ken_1793472807_19",
         "creator": "Ken",
@@ -8840,6 +8897,19 @@
         "added_at": "2026-10-31T18:53:12Z",
         "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/06_STUDIO_SOFTWARE_&_LABS/clipfactory/storage/cuts/ken_1793472810_21_master.mp4",
         "youtube_video_id": "OMsFb2IyTak"
+      },
+      {
+        "id": "ken_1793472810_22",
+        "creator": "Ken",
+        "title": "2.9 fatherless cycle [hero ken activates his kenmentia ability, predic (1100 likes)]",
+        "source_title": "2.9 fatherless cycle",
+        "url": "https://www.youtube.com/watch?v=Va4Bm6ZbUCo",
+        "section": "*395-443",
+        "duration": 1537,
+        "status": "COMPLETED",
+        "added_at": "2026-10-31T18:53:12Z",
+        "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/06_STUDIO_SOFTWARE_&_LABS/clipfactory/storage/cuts/ken_1793472810_22_master.mp4",
+        "youtube_video_id": "ArAlebW0xuA"
       }
     ]
   },
@@ -9273,6 +9343,72 @@
               "variant": "A",
               "title": "Why Ken Made This Massive Mistake...",
               "deployed_at": 1793474964.9035368,
+              "reason": "Initial A/B test deployment"
+            }
+          ],
+          "metrics": {
+            "views": 0,
+            "likes": 0,
+            "comments": 0,
+            "retention": 0.0,
+            "ctr": 0.0
+          }
+        },
+        "reframed": "gaming_split"
+      },
+      {
+        "id": "ken_1793472810_22",
+        "source_video": "2.9 fatherless cycle [hero ken activates his kenmentia ability, predic (1100 likes)]",
+        "creator": "Ken",
+        "title": "He panicked at the bridge... then this happened",
+        "publish_at": "2026-11-05T17:30:00Z",
+        "status": "SCHEDULED",
+        "uploaded": true,
+        "youtube_video_id": "ArAlebW0xuA",
+        "youtube_url": "https://www.youtube.com/shorts/ArAlebW0xuA",
+        "video_file": "ken_1793472810_22_master.mp4",
+        "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/06_STUDIO_SOFTWARE_&_LABS/clipfactory/storage/cuts/ken_1793472810_22_master.mp4",
+        "duration": 22.34,
+        "hook_summary": "Ken executes an aggressive bridge play that triggers instant panic, only to realize his E-Barbs are melting through the opponent's Evolution Recruits in seconds.",
+        "metadata": {
+          "title": "He panicked at the bridge... then this happened",
+          "description": "Watch the exact moment pure panic turns into an unbelievable bridge play that completely shreds Evolution Recruits in seconds. You won't believe how fast they melted.\n\n* Witness the high-risk bridge play that triggers instant panic.\n* See how E-Barbs shred Evolution Recruits in seconds.\n* Analyze the exact positioning needed to pull off this defense.\n\nFeaturing: Ken\n\nWould you have dropped the E-Barbs here or panicked like Ken?\n\n#shorts #clashroyale #gaming #ken #supercell #mobilegaming",
+          "tags": [
+            "Clash Royale",
+            "Ken Clash Royale",
+            "Evolution Recruits",
+            "Evo Recruits",
+            "Elite Barbarians",
+            "Clash Royale Shorts",
+            "Clash Royale Funny Moments",
+            "Clash Royale Gameplay",
+            "Supercell"
+          ],
+          "pinned_comment": "Be honest: would you have surrendered the moment you saw those Evo Recruits, or did you know the E-Barbs were going to clutch it?",
+          "ab_variants": {
+            "A": {
+              "angle": "Curiosity Gap",
+              "title": "He panicked at the bridge... then this happened",
+              "description": "Watch the exact moment pure panic turns into an unbelievable bridge play that completely shreds Evolution Recruits in seconds. You won't believe how fast they melted.\n\n* Witness the high-risk bridge play that triggers instant panic.\n* See how E-Barbs shred Evolution Recruits in seconds.\n* Analyze the exact positioning needed to pull off this defense.\n\nFeaturing: Ken\n\nWould you have dropped the E-Barbs here or panicked like Ken?\n\n#shorts #clashroyale #gaming #ken #supercell #mobilegaming"
+            },
+            "B": {
+              "angle": "Contrarian Truth",
+              "title": "Stop fearing Evo Recruits at the bridge",
+              "description": "Everyone says Evolution Recruits are unstoppable at the bridge, but this insane clip proves there is a fast way to melt them before they even touch your tower.\n\n* Debunk the myth that Evo Recruits cannot be stopped at the bridge.\n* Discover the hidden offensive power of E-Barbs.\n* Learn how to turn a disastrous start into a winning counter-push.\n\nFeaturing: Ken\n\nAre Evo Recruits actually overrated or is this just a lucky play?\n\n#shorts #clashroyale #gaming #ken #supercell #mobilegaming"
+            },
+            "C": {
+              "angle": "Actionable Protocol",
+              "title": "How to melt Evo Recruits in seconds",
+              "description": "Master this aggressive bridge play strategy to instantly shut down Evolution Recruits and turn the tables on your opponent with pure speed.\n\n* Step-by-step breakdown of the aggressive bridge drop.\n* Master the timing required to counter meta evolutions.\n* Apply this high-pressure tactic to your own ranked matches.\n\nFeaturing: Ken\n\nWhat is your go-to counter for Evolution Recruits in the current meta?\n\n#shorts #clashroyale #gaming #ken #supercell #mobilegaming"
+            }
+          },
+          "active_variant": "A",
+          "test_status": "ACTIVE_TEST",
+          "variant_history": [
+            {
+              "variant": "A",
+              "title": "He panicked at the bridge... then this happened",
+              "deployed_at": 1793475230.590152,
               "reason": "Initial A/B test deployment"
             }
           ],

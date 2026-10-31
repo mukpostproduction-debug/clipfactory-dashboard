@@ -1,6 +1,6 @@
 {
-  "timestamp": 1793475995.491563,
-  "sync_time_iso": "2026-10-31T19:46:35Z",
+  "timestamp": 1793476006.802033,
+  "sync_time_iso": "2026-10-31T19:46:46Z",
   "default_channel": "ken_clips_burger",
   "channels": {
     "ken_clips_burger": {
@@ -146,17 +146,17 @@
         },
         "PUBLISHER": {
           "status": "working",
-          "current_task": "Generating gaming A/B metadata for slot: 06:30 PM ET (Fri, Nov 06)...",
+          "current_task": "Short SCHEDULED on YouTube: ppciLeLHvmI (06:30 PM ET (Fri, Nov 06))",
           "last_completed_task": "Uploaded all 3 initial Clash Royale gaming cuts to YouTube (kenclipsburger420)",
           "recent_logs": [
-            "[15:34:00] Short SCHEDULED on YouTube: ArAlebW0xuA (12:30 PM ET (Thu, Nov 05))",
-            "[15:37:53] Generating gaming A/B metadata for slot: 06:30 PM ET (Thu, Nov 05)...",
             "[15:38:05] Deploying to YouTube (@kenclipsburger420) for release 06:30 PM ET (Thu, Nov 05)...",
             "[15:38:16] Short SCHEDULED on YouTube: 6M0hN3rrDT4 (06:30 PM ET (Thu, Nov 05))",
             "[15:42:09] Generating gaming A/B metadata for slot: 12:30 PM ET (Fri, Nov 06)...",
             "[15:42:21] Deploying to YouTube (@kenclipsburger420) for release 12:30 PM ET (Fri, Nov 06)...",
             "[15:42:30] Short SCHEDULED on YouTube: D2dQk2bsNA0 (12:30 PM ET (Fri, Nov 06))",
-            "[15:46:29] Generating gaming A/B metadata for slot: 06:30 PM ET (Fri, Nov 06)..."
+            "[15:46:29] Generating gaming A/B metadata for slot: 06:30 PM ET (Fri, Nov 06)...",
+            "[15:46:37] Deploying to YouTube (@kenclipsburger420) for release 06:30 PM ET (Fri, Nov 06)...",
+            "[15:46:46] Short SCHEDULED on YouTube: ppciLeLHvmI (06:30 PM ET (Fri, Nov 06))"
           ]
         },
         "ANALYST": {
@@ -192,17 +192,6 @@
       },
       "queue": {
         "queue": [
-          {
-            "id": "ken_1793472807_16",
-            "creator": "Ken",
-            "title": "I don't care [dementia hitting within the same sentence (364 likes)]",
-            "source_title": "I don't care",
-            "url": "https://www.youtube.com/watch?v=ScNtqik22iA",
-            "section": "*9-57",
-            "duration": 867,
-            "status": "PROCESSING",
-            "added_at": "2026-10-31T18:53:12Z"
-          },
           {
             "id": "ken_1793472810_23",
             "creator": "Ken",
@@ -1443,6 +1432,19 @@
             "added_at": "2026-10-31T18:53:12Z",
             "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/06_STUDIO_SOFTWARE_&_LABS/clipfactory/storage/cuts/ken_1793472807_18_master.mp4",
             "youtube_video_id": "D2dQk2bsNA0"
+          },
+          {
+            "id": "ken_1793472807_16",
+            "creator": "Ken",
+            "title": "I don't care [dementia hitting within the same sentence (364 likes)]",
+            "source_title": "I don't care",
+            "url": "https://www.youtube.com/watch?v=ScNtqik22iA",
+            "section": "*9-57",
+            "duration": 867,
+            "status": "COMPLETED",
+            "added_at": "2026-10-31T18:53:12Z",
+            "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/06_STUDIO_SOFTWARE_&_LABS/clipfactory/storage/cuts/ken_1793472807_16_master.mp4",
+            "youtube_video_id": "ppciLeLHvmI"
           }
         ]
       },
@@ -2073,6 +2075,73 @@
                   "variant": "A",
                   "title": "Why this meta shift changes everything...",
                   "deployed_at": 1793475741.360497,
+                  "reason": "Initial A/B test deployment"
+                }
+              ],
+              "metrics": {
+                "views": 0,
+                "likes": 0,
+                "comments": 0,
+                "retention": 0.0,
+                "ctr": 0.0
+              }
+            },
+            "reframed": "gaming_split"
+          },
+          {
+            "id": "ken_1793472807_16",
+            "source_video": "I don't care [dementia hitting within the same sentence (364 likes)]",
+            "creator": "Ken",
+            "title": "The One Clash Royale Deck Ken Loves...",
+            "publish_at": "2026-11-06T23:30:00Z",
+            "status": "SCHEDULED",
+            "uploaded": true,
+            "youtube_video_id": "ppciLeLHvmI",
+            "youtube_url": "https://www.youtube.com/shorts/ppciLeLHvmI",
+            "video_file": "ken_1793472807_16_master.mp4",
+            "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/06_STUDIO_SOFTWARE_&_LABS/clipfactory/storage/cuts/ken_1793472807_16_master.mp4",
+            "duration": 18.78,
+            "hook_summary": "The creator has a visceral, unhinged reaction to facing a Goblin Bow deck, describing the matchup in the most Ken-style way possible.",
+            "metadata": {
+              "title": "The One Clash Royale Deck Ken Loves...",
+              "description": "Ken gets paired against Goblin Bow and has the most unhinged reaction possible. Watch how he handles one of the most controversial matchups in Clash Royale history.\n\n\u2022 The ultimate reaction to Goblin Bow matchups\n\u2022 Why this deck triggers every Clash Royale player\n\u2022 How Ken turns high-stress games into pure entertainment\n\nFeaturing: Ken\n\nIs Goblin Bow the most annoying deck in the game or free wins?\n\n#shorts #clashroyale #gaming #ken #supercell #mobilegaming",
+              "tags": [
+                "clash royale",
+                "ken clash royale",
+                "goblin bow deck",
+                "clash royale ken",
+                "goblin bow",
+                "clash royale gameplay",
+                "toxic clash royale decks",
+                "supercell",
+                "clash royale highlights",
+                "gaming shorts"
+              ],
+              "pinned_comment": "Be honest: Is Goblin Bow free trophies or an instant loss for you?",
+              "ab_variants": {
+                "A": {
+                  "angle": "Curiosity Gap",
+                  "title": "The One Clash Royale Deck Ken Loves...",
+                  "description": "Ken gets paired against Goblin Bow and has the most unhinged reaction possible. Watch how he handles one of the most controversial matchups in Clash Royale history.\n\n\u2022 The ultimate reaction to Goblin Bow matchups\n\u2022 Why this deck triggers every Clash Royale player\n\u2022 How Ken turns high-stress games into pure entertainment\n\nFeaturing: Ken\n\nIs Goblin Bow the most annoying deck in the game or free wins?\n\n#shorts #clashroyale #gaming #ken #supercell #mobilegaming"
+                },
+                "B": {
+                  "angle": "Contrarian Truth",
+                  "title": "Goblin Bow Is Actually A Dream Matchup?",
+                  "description": "Everyone hates playing against Goblin Bow, but Ken calls it an absolute dream matchup. Here is why this toxic deck might actually be your ticket to free trophies.\n\n\u2022 Why most players fear the Goblin Bow deck\n\u2022 Ken's unexpected take on the toxic meta\n\u2022 Turning nightmare matchups into easy wins\n\nFeaturing: Ken\n\nWould you ever want to face Goblin Bow on ladder?\n\n#shorts #clashroyale #gaming #ken #supercell #clash"
+                },
+                "C": {
+                  "angle": "Actionable Protocol",
+                  "title": "How To Beat Goblin Bow Every Time",
+                  "description": "Facing Goblin Bow can ruin your ladder push, but Ken shows the exact mindset needed to dominate it. Master this matchup and never panic against toxic decks again.\n\n\u2022 Key mistakes to avoid against Goblin Bow\n\u2022 Mindset shift for toxic deck matchups\n\u2022 How to capitalize on aggressive opponent plays\n\nFeaturing: Ken\n\nWhat is your secret weapon against toxic decks?\n\n#shorts #clashroyale #gaming #ken #mobilegaming #supercell"
+                }
+              },
+              "active_variant": "A",
+              "test_status": "ACTIVE_TEST",
+              "variant_history": [
+                {
+                  "variant": "A",
+                  "title": "The One Clash Royale Deck Ken Loves...",
+                  "deployed_at": 1793475997.886694,
                   "reason": "Initial A/B test deployment"
                 }
               ],
@@ -7752,17 +7821,17 @@
     },
     "PUBLISHER": {
       "status": "working",
-      "current_task": "Generating gaming A/B metadata for slot: 06:30 PM ET (Fri, Nov 06)...",
+      "current_task": "Short SCHEDULED on YouTube: ppciLeLHvmI (06:30 PM ET (Fri, Nov 06))",
       "last_completed_task": "Uploaded all 3 initial Clash Royale gaming cuts to YouTube (kenclipsburger420)",
       "recent_logs": [
-        "[15:34:00] Short SCHEDULED on YouTube: ArAlebW0xuA (12:30 PM ET (Thu, Nov 05))",
-        "[15:37:53] Generating gaming A/B metadata for slot: 06:30 PM ET (Thu, Nov 05)...",
         "[15:38:05] Deploying to YouTube (@kenclipsburger420) for release 06:30 PM ET (Thu, Nov 05)...",
         "[15:38:16] Short SCHEDULED on YouTube: 6M0hN3rrDT4 (06:30 PM ET (Thu, Nov 05))",
         "[15:42:09] Generating gaming A/B metadata for slot: 12:30 PM ET (Fri, Nov 06)...",
         "[15:42:21] Deploying to YouTube (@kenclipsburger420) for release 12:30 PM ET (Fri, Nov 06)...",
         "[15:42:30] Short SCHEDULED on YouTube: D2dQk2bsNA0 (12:30 PM ET (Fri, Nov 06))",
-        "[15:46:29] Generating gaming A/B metadata for slot: 06:30 PM ET (Fri, Nov 06)..."
+        "[15:46:29] Generating gaming A/B metadata for slot: 06:30 PM ET (Fri, Nov 06)...",
+        "[15:46:37] Deploying to YouTube (@kenclipsburger420) for release 06:30 PM ET (Fri, Nov 06)...",
+        "[15:46:46] Short SCHEDULED on YouTube: ppciLeLHvmI (06:30 PM ET (Fri, Nov 06))"
       ]
     },
     "ANALYST": {
@@ -7798,17 +7867,6 @@
   },
   "queue": {
     "queue": [
-      {
-        "id": "ken_1793472807_16",
-        "creator": "Ken",
-        "title": "I don't care [dementia hitting within the same sentence (364 likes)]",
-        "source_title": "I don't care",
-        "url": "https://www.youtube.com/watch?v=ScNtqik22iA",
-        "section": "*9-57",
-        "duration": 867,
-        "status": "PROCESSING",
-        "added_at": "2026-10-31T18:53:12Z"
-      },
       {
         "id": "ken_1793472810_23",
         "creator": "Ken",
@@ -9049,6 +9107,19 @@
         "added_at": "2026-10-31T18:53:12Z",
         "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/06_STUDIO_SOFTWARE_&_LABS/clipfactory/storage/cuts/ken_1793472807_18_master.mp4",
         "youtube_video_id": "D2dQk2bsNA0"
+      },
+      {
+        "id": "ken_1793472807_16",
+        "creator": "Ken",
+        "title": "I don't care [dementia hitting within the same sentence (364 likes)]",
+        "source_title": "I don't care",
+        "url": "https://www.youtube.com/watch?v=ScNtqik22iA",
+        "section": "*9-57",
+        "duration": 867,
+        "status": "COMPLETED",
+        "added_at": "2026-10-31T18:53:12Z",
+        "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/06_STUDIO_SOFTWARE_&_LABS/clipfactory/storage/cuts/ken_1793472807_16_master.mp4",
+        "youtube_video_id": "ppciLeLHvmI"
       }
     ]
   },
@@ -9679,6 +9750,73 @@
               "variant": "A",
               "title": "Why this meta shift changes everything...",
               "deployed_at": 1793475741.360497,
+              "reason": "Initial A/B test deployment"
+            }
+          ],
+          "metrics": {
+            "views": 0,
+            "likes": 0,
+            "comments": 0,
+            "retention": 0.0,
+            "ctr": 0.0
+          }
+        },
+        "reframed": "gaming_split"
+      },
+      {
+        "id": "ken_1793472807_16",
+        "source_video": "I don't care [dementia hitting within the same sentence (364 likes)]",
+        "creator": "Ken",
+        "title": "The One Clash Royale Deck Ken Loves...",
+        "publish_at": "2026-11-06T23:30:00Z",
+        "status": "SCHEDULED",
+        "uploaded": true,
+        "youtube_video_id": "ppciLeLHvmI",
+        "youtube_url": "https://www.youtube.com/shorts/ppciLeLHvmI",
+        "video_file": "ken_1793472807_16_master.mp4",
+        "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/06_STUDIO_SOFTWARE_&_LABS/clipfactory/storage/cuts/ken_1793472807_16_master.mp4",
+        "duration": 18.78,
+        "hook_summary": "The creator has a visceral, unhinged reaction to facing a Goblin Bow deck, describing the matchup in the most Ken-style way possible.",
+        "metadata": {
+          "title": "The One Clash Royale Deck Ken Loves...",
+          "description": "Ken gets paired against Goblin Bow and has the most unhinged reaction possible. Watch how he handles one of the most controversial matchups in Clash Royale history.\n\n\u2022 The ultimate reaction to Goblin Bow matchups\n\u2022 Why this deck triggers every Clash Royale player\n\u2022 How Ken turns high-stress games into pure entertainment\n\nFeaturing: Ken\n\nIs Goblin Bow the most annoying deck in the game or free wins?\n\n#shorts #clashroyale #gaming #ken #supercell #mobilegaming",
+          "tags": [
+            "clash royale",
+            "ken clash royale",
+            "goblin bow deck",
+            "clash royale ken",
+            "goblin bow",
+            "clash royale gameplay",
+            "toxic clash royale decks",
+            "supercell",
+            "clash royale highlights",
+            "gaming shorts"
+          ],
+          "pinned_comment": "Be honest: Is Goblin Bow free trophies or an instant loss for you?",
+          "ab_variants": {
+            "A": {
+              "angle": "Curiosity Gap",
+              "title": "The One Clash Royale Deck Ken Loves...",
+              "description": "Ken gets paired against Goblin Bow and has the most unhinged reaction possible. Watch how he handles one of the most controversial matchups in Clash Royale history.\n\n\u2022 The ultimate reaction to Goblin Bow matchups\n\u2022 Why this deck triggers every Clash Royale player\n\u2022 How Ken turns high-stress games into pure entertainment\n\nFeaturing: Ken\n\nIs Goblin Bow the most annoying deck in the game or free wins?\n\n#shorts #clashroyale #gaming #ken #supercell #mobilegaming"
+            },
+            "B": {
+              "angle": "Contrarian Truth",
+              "title": "Goblin Bow Is Actually A Dream Matchup?",
+              "description": "Everyone hates playing against Goblin Bow, but Ken calls it an absolute dream matchup. Here is why this toxic deck might actually be your ticket to free trophies.\n\n\u2022 Why most players fear the Goblin Bow deck\n\u2022 Ken's unexpected take on the toxic meta\n\u2022 Turning nightmare matchups into easy wins\n\nFeaturing: Ken\n\nWould you ever want to face Goblin Bow on ladder?\n\n#shorts #clashroyale #gaming #ken #supercell #clash"
+            },
+            "C": {
+              "angle": "Actionable Protocol",
+              "title": "How To Beat Goblin Bow Every Time",
+              "description": "Facing Goblin Bow can ruin your ladder push, but Ken shows the exact mindset needed to dominate it. Master this matchup and never panic against toxic decks again.\n\n\u2022 Key mistakes to avoid against Goblin Bow\n\u2022 Mindset shift for toxic deck matchups\n\u2022 How to capitalize on aggressive opponent plays\n\nFeaturing: Ken\n\nWhat is your secret weapon against toxic decks?\n\n#shorts #clashroyale #gaming #ken #mobilegaming #supercell"
+            }
+          },
+          "active_variant": "A",
+          "test_status": "ACTIVE_TEST",
+          "variant_history": [
+            {
+              "variant": "A",
+              "title": "The One Clash Royale Deck Ken Loves...",
+              "deployed_at": 1793475997.886694,
               "reason": "Initial A/B test deployment"
             }
           ],

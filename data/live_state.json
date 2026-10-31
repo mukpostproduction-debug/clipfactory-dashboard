@@ -1,6 +1,6 @@
 {
-  "timestamp": 1793474392.501419,
-  "sync_time_iso": "2026-10-31T19:19:52Z",
+  "timestamp": 1793474441.283623,
+  "sync_time_iso": "2026-10-31T19:20:41Z",
   "default_channel": "ken_clips_burger",
   "channels": {
     "ken_clips_burger": {
@@ -92,17 +92,17 @@
       "agents": {
         "SCOUT": {
           "status": "working",
-          "current_task": "Mined 4 crowd-upvoted comment timestamps for: the last hope",
+          "current_task": "Queue up to date. Waiting for next daily Ken upload.",
           "last_completed_task": "Ingested 5 recent Ken master videos into source pool",
           "recent_logs": [
-            "[15:15:18] Mined 4 crowd-upvoted comment timestamps for: the last hope",
-            "[15:15:23] Mined 4 crowd-upvoted comment timestamps for: I don't care",
-            "[15:15:26] Mined 4 crowd-upvoted comment timestamps for: 2.9 fatherless cycle",
             "[15:15:26] Queue up to date. Waiting for next daily Ken upload.",
             "[15:19:28] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
             "[15:19:44] Mined 4 crowd-upvoted comment timestamps for: chaos mega draft, but I pick a",
             "[15:19:46] Mined 4 crowd-upvoted comment timestamps for: chaos mega draft, but I pick w",
-            "[15:19:49] Mined 4 crowd-upvoted comment timestamps for: the last hope"
+            "[15:19:49] Mined 4 crowd-upvoted comment timestamps for: the last hope",
+            "[15:19:53] Mined 4 crowd-upvoted comment timestamps for: I don't care",
+            "[15:19:56] Mined 4 crowd-upvoted comment timestamps for: 2.9 fatherless cycle",
+            "[15:19:56] Queue up to date. Waiting for next daily Ken upload."
           ]
         },
         "STRATEGIST": {
@@ -122,17 +122,17 @@
         },
         "EDITOR": {
           "status": "working",
-          "current_task": "Selected complete sentence-aligned highlight: 10.08s -> 33.02s (22.94s)",
+          "current_task": "Selected complete sentence-aligned highlight: 0.00s -> 10.84s (10.84s)",
           "last_completed_task": "Rendered 'hp buffed' rage highlight with kinetic pop captions & commentary",
           "recent_logs": [
-            "[15:07:35] Rendering V3 60FPS Zero-Crop Short: the last hope [ken weasels in club ",
-            "[15:07:49] Selected complete sentence-aligned highlight: 7.72s -> 25.68s (17.96s)",
-            "[15:11:25] Downloading 1080p60 highlight segment (*960-998) for: chaos mega draft, but I pick win co...",
             "[15:11:29] Rendering V3 60FPS Zero-Crop Short: chaos mega draft, but I pick win co",
             "[15:11:36] Selected complete sentence-aligned highlight: 0.00s -> 20.56s (20.56s)",
             "[15:15:26] Downloading 1080p60 highlight segment (*55-103) for: the last hope [he pronounced it cor...",
             "[15:15:57] Rendering V3 60FPS Zero-Crop Short: the last hope [he pronounced it cor",
-            "[15:16:12] Selected complete sentence-aligned highlight: 10.08s -> 33.02s (22.94s)"
+            "[15:16:12] Selected complete sentence-aligned highlight: 10.08s -> 33.02s (22.94s)",
+            "[15:19:56] Downloading 1080p60 highlight segment (*1285-1310) for: chaos mega draft, but I pick air [w...",
+            "[15:20:02] Rendering V3 60FPS Zero-Crop Short: chaos mega draft, but I pick air [w",
+            "[15:20:04] Selected complete sentence-aligned highlight: 0.00s -> 10.84s (10.84s)"
           ]
         },
         "COMMENTATOR": {
@@ -146,17 +146,17 @@
         },
         "PUBLISHER": {
           "status": "working",
-          "current_task": "Short SCHEDULED on YouTube: kCsVsIlzU1M (12:30 PM ET (Tue, Nov 03))",
+          "current_task": "Short SCHEDULED on YouTube: 8JA6BpoH7to (06:30 PM ET (Tue, Nov 03))",
           "last_completed_task": "Uploaded all 3 initial Clash Royale gaming cuts to YouTube (kenclipsburger420)",
           "recent_logs": [
-            "[15:08:39] Deploying to YouTube (@kenclipsburger420) for release 12:30 PM ET (Mon, Nov 02)...",
-            "[15:08:47] Short SCHEDULED on YouTube: -L0wH4FffO4 (12:30 PM ET (Mon, Nov 02))",
-            "[15:12:26] Generating gaming A/B metadata for slot: 06:30 PM ET (Mon, Nov 02)...",
             "[15:12:31] Deploying to YouTube (@kenclipsburger420) for release 06:30 PM ET (Mon, Nov 02)...",
             "[15:12:47] Short SCHEDULED on YouTube: 4tMBDx6ura8 (06:30 PM ET (Mon, Nov 02))",
             "[15:17:00] Generating gaming A/B metadata for slot: 12:30 PM ET (Tue, Nov 03)...",
             "[15:17:09] Deploying to YouTube (@kenclipsburger420) for release 12:30 PM ET (Tue, Nov 03)...",
-            "[15:17:20] Short SCHEDULED on YouTube: kCsVsIlzU1M (12:30 PM ET (Tue, Nov 03))"
+            "[15:17:20] Short SCHEDULED on YouTube: kCsVsIlzU1M (12:30 PM ET (Tue, Nov 03))",
+            "[15:20:27] Generating gaming A/B metadata for slot: 06:30 PM ET (Tue, Nov 03)...",
+            "[15:20:31] Deploying to YouTube (@kenclipsburger420) for release 06:30 PM ET (Tue, Nov 03)...",
+            "[15:20:41] Short SCHEDULED on YouTube: 8JA6BpoH7to (06:30 PM ET (Tue, Nov 03))"
           ]
         },
         "ANALYST": {
@@ -192,17 +192,6 @@
       },
       "queue": {
         "queue": [
-          {
-            "id": "ken_1793472796_3",
-            "creator": "Ken",
-            "title": "chaos mega draft, but I pick air [we got the good ending (267 likes)]",
-            "source_title": "chaos mega draft, but I pick air",
-            "url": "https://www.youtube.com/watch?v=LR5jmisfQo0",
-            "section": "*1285-1310",
-            "duration": 1312,
-            "status": "QUEUED",
-            "added_at": "2026-10-31T18:53:12Z"
-          },
           {
             "id": "ken_1793472796_0",
             "creator": "Ken",
@@ -1431,6 +1420,19 @@
             "added_at": "2026-10-31T18:53:12Z",
             "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/06_STUDIO_SOFTWARE_&_LABS/clipfactory/storage/cuts/ken_1793472802_8_master.mp4",
             "youtube_video_id": "kCsVsIlzU1M"
+          },
+          {
+            "id": "ken_1793472796_3",
+            "creator": "Ken",
+            "title": "chaos mega draft, but I pick air [we got the good ending (267 likes)]",
+            "source_title": "chaos mega draft, but I pick air",
+            "url": "https://www.youtube.com/watch?v=LR5jmisfQo0",
+            "section": "*1285-1310",
+            "duration": 1312,
+            "status": "COMPLETED",
+            "added_at": "2026-10-31T18:53:12Z",
+            "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/06_STUDIO_SOFTWARE_&_LABS/clipfactory/storage/cuts/ken_1793472796_3_master.mp4",
+            "youtube_video_id": "8JA6BpoH7to"
           }
         ]
       },
@@ -1666,6 +1668,72 @@
                   "variant": "A",
                   "title": "Ken's Rant Got Interrupted By THIS",
                   "deployed_at": 1793474229.3475368,
+                  "reason": "Initial A/B test deployment"
+                }
+              ],
+              "metrics": {
+                "views": 0,
+                "likes": 0,
+                "comments": 0,
+                "retention": 0.0,
+                "ctr": 0.0
+              }
+            },
+            "reframed": "gaming_split"
+          },
+          {
+            "id": "ken_1793472796_3",
+            "source_video": "chaos mega draft, but I pick air [we got the good ending (267 likes)]",
+            "creator": "Ken",
+            "title": "He actually ended it right here...",
+            "publish_at": "2026-11-03T23:30:00Z",
+            "status": "SCHEDULED",
+            "uploaded": true,
+            "youtube_video_id": "8JA6BpoH7to",
+            "youtube_url": "https://www.youtube.com/shorts/8JA6BpoH7to",
+            "video_file": "ken_1793472796_3_master.mp4",
+            "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/06_STUDIO_SOFTWARE_&_LABS/clipfactory/storage/cuts/ken_1793472796_3_master.mp4",
+            "duration": 10.84,
+            "hook_summary": "Full self-contained clip",
+            "metadata": {
+              "title": "He actually ended it right here...",
+              "description": "You won't believe how this conversation wraps up until you hear the final reason. Ken reveals a conclusion that completely shifts the perspective on the whole discussion.\n\n\u2022 Discover the surprising final takeaway\n\u2022 See why the decision was made so quickly\n\u2022 Uncover the unspoken context behind the ending\n\nFeaturing: Ken\n\nWould you have stopped right there, or kept going? Drop your thoughts below!\n\n#shorts #discussion #ken #viral #mindset #insights",
+              "tags": [
+                "Ken",
+                "Ken shorts",
+                "key discussion",
+                "mindset shift",
+                "satisfaction",
+                "productivity tips",
+                "strategy",
+                "viral shorts",
+                "life advice"
+              ],
+              "pinned_comment": "At what exact moment do you know it's time to just walk away and call it a win? Let me know below! \ud83d\udc47",
+              "ab_variants": {
+                "A": {
+                  "angle": "Curiosity Gap",
+                  "title": "He actually ended it right here...",
+                  "description": "You won't believe how this conversation wraps up until you hear the final reason. Ken reveals a conclusion that completely shifts the perspective on the whole discussion.\n\n\u2022 Discover the surprising final takeaway\n\u2022 See why the decision was made so quickly\n\u2022 Uncover the unspoken context behind the ending\n\nFeaturing: Ken\n\nWould you have stopped right there, or kept going? Drop your thoughts below!\n\n#shorts #discussion #ken #viral #mindset #insights"
+                },
+                "B": {
+                  "angle": "Contrarian Truth",
+                  "title": "Stopping here is actually the smartest move",
+                  "description": "Most people think you need to keep pushing, but knowing when to walk away satisfied is the real secret. Ken breaks down why ending it on a high note beats dragging things out.\n\n\u2022 Why more isn't always better\n\u2022 The power of absolute satisfaction\n\u2022 Redefining how we judge a successful finish\n\nFeaturing: Ken\n\nAre you guilty of always overdoing it, or do you know when to quit? Let's debate in the comments.\n\n#shorts #truth #ken #strategy #perspective #mindset"
+                },
+                "C": {
+                  "angle": "Actionable Protocol",
+                  "title": "Use this rule before you finish anything",
+                  "description": "Want to know the exact moment to walk away feeling completely fulfilled? Ken shares the ultimate standard for knowing when a project or session is truly complete.\n\n\u2022 The exact metric for total satisfaction\n\u2022 How to avoid burnout by quitting right\n\u2022 A simple framework for knowing your limits\n\nFeaturing: Ken\n\nWhat is your personal rule for knowing when a session is completely done? Tell us your strategy!\n\n#shorts #tips #ken #productivity #success #framework"
+                }
+              },
+              "active_variant": "A",
+              "test_status": "ACTIVE_TEST",
+              "variant_history": [
+                {
+                  "variant": "A",
+                  "title": "He actually ended it right here...",
+                  "deployed_at": 1793474431.949075,
                   "reason": "Initial A/B test deployment"
                 }
               ],
@@ -7291,17 +7359,17 @@
   "agents": {
     "SCOUT": {
       "status": "working",
-      "current_task": "Mined 4 crowd-upvoted comment timestamps for: the last hope",
+      "current_task": "Queue up to date. Waiting for next daily Ken upload.",
       "last_completed_task": "Ingested 5 recent Ken master videos into source pool",
       "recent_logs": [
-        "[15:15:18] Mined 4 crowd-upvoted comment timestamps for: the last hope",
-        "[15:15:23] Mined 4 crowd-upvoted comment timestamps for: I don't care",
-        "[15:15:26] Mined 4 crowd-upvoted comment timestamps for: 2.9 fatherless cycle",
         "[15:15:26] Queue up to date. Waiting for next daily Ken upload.",
         "[15:19:28] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
         "[15:19:44] Mined 4 crowd-upvoted comment timestamps for: chaos mega draft, but I pick a",
         "[15:19:46] Mined 4 crowd-upvoted comment timestamps for: chaos mega draft, but I pick w",
-        "[15:19:49] Mined 4 crowd-upvoted comment timestamps for: the last hope"
+        "[15:19:49] Mined 4 crowd-upvoted comment timestamps for: the last hope",
+        "[15:19:53] Mined 4 crowd-upvoted comment timestamps for: I don't care",
+        "[15:19:56] Mined 4 crowd-upvoted comment timestamps for: 2.9 fatherless cycle",
+        "[15:19:56] Queue up to date. Waiting for next daily Ken upload."
       ]
     },
     "STRATEGIST": {
@@ -7321,17 +7389,17 @@
     },
     "EDITOR": {
       "status": "working",
-      "current_task": "Selected complete sentence-aligned highlight: 10.08s -> 33.02s (22.94s)",
+      "current_task": "Selected complete sentence-aligned highlight: 0.00s -> 10.84s (10.84s)",
       "last_completed_task": "Rendered 'hp buffed' rage highlight with kinetic pop captions & commentary",
       "recent_logs": [
-        "[15:07:35] Rendering V3 60FPS Zero-Crop Short: the last hope [ken weasels in club ",
-        "[15:07:49] Selected complete sentence-aligned highlight: 7.72s -> 25.68s (17.96s)",
-        "[15:11:25] Downloading 1080p60 highlight segment (*960-998) for: chaos mega draft, but I pick win co...",
         "[15:11:29] Rendering V3 60FPS Zero-Crop Short: chaos mega draft, but I pick win co",
         "[15:11:36] Selected complete sentence-aligned highlight: 0.00s -> 20.56s (20.56s)",
         "[15:15:26] Downloading 1080p60 highlight segment (*55-103) for: the last hope [he pronounced it cor...",
         "[15:15:57] Rendering V3 60FPS Zero-Crop Short: the last hope [he pronounced it cor",
-        "[15:16:12] Selected complete sentence-aligned highlight: 10.08s -> 33.02s (22.94s)"
+        "[15:16:12] Selected complete sentence-aligned highlight: 10.08s -> 33.02s (22.94s)",
+        "[15:19:56] Downloading 1080p60 highlight segment (*1285-1310) for: chaos mega draft, but I pick air [w...",
+        "[15:20:02] Rendering V3 60FPS Zero-Crop Short: chaos mega draft, but I pick air [w",
+        "[15:20:04] Selected complete sentence-aligned highlight: 0.00s -> 10.84s (10.84s)"
       ]
     },
     "COMMENTATOR": {
@@ -7345,17 +7413,17 @@
     },
     "PUBLISHER": {
       "status": "working",
-      "current_task": "Short SCHEDULED on YouTube: kCsVsIlzU1M (12:30 PM ET (Tue, Nov 03))",
+      "current_task": "Short SCHEDULED on YouTube: 8JA6BpoH7to (06:30 PM ET (Tue, Nov 03))",
       "last_completed_task": "Uploaded all 3 initial Clash Royale gaming cuts to YouTube (kenclipsburger420)",
       "recent_logs": [
-        "[15:08:39] Deploying to YouTube (@kenclipsburger420) for release 12:30 PM ET (Mon, Nov 02)...",
-        "[15:08:47] Short SCHEDULED on YouTube: -L0wH4FffO4 (12:30 PM ET (Mon, Nov 02))",
-        "[15:12:26] Generating gaming A/B metadata for slot: 06:30 PM ET (Mon, Nov 02)...",
         "[15:12:31] Deploying to YouTube (@kenclipsburger420) for release 06:30 PM ET (Mon, Nov 02)...",
         "[15:12:47] Short SCHEDULED on YouTube: 4tMBDx6ura8 (06:30 PM ET (Mon, Nov 02))",
         "[15:17:00] Generating gaming A/B metadata for slot: 12:30 PM ET (Tue, Nov 03)...",
         "[15:17:09] Deploying to YouTube (@kenclipsburger420) for release 12:30 PM ET (Tue, Nov 03)...",
-        "[15:17:20] Short SCHEDULED on YouTube: kCsVsIlzU1M (12:30 PM ET (Tue, Nov 03))"
+        "[15:17:20] Short SCHEDULED on YouTube: kCsVsIlzU1M (12:30 PM ET (Tue, Nov 03))",
+        "[15:20:27] Generating gaming A/B metadata for slot: 06:30 PM ET (Tue, Nov 03)...",
+        "[15:20:31] Deploying to YouTube (@kenclipsburger420) for release 06:30 PM ET (Tue, Nov 03)...",
+        "[15:20:41] Short SCHEDULED on YouTube: 8JA6BpoH7to (06:30 PM ET (Tue, Nov 03))"
       ]
     },
     "ANALYST": {
@@ -7391,17 +7459,6 @@
   },
   "queue": {
     "queue": [
-      {
-        "id": "ken_1793472796_3",
-        "creator": "Ken",
-        "title": "chaos mega draft, but I pick air [we got the good ending (267 likes)]",
-        "source_title": "chaos mega draft, but I pick air",
-        "url": "https://www.youtube.com/watch?v=LR5jmisfQo0",
-        "section": "*1285-1310",
-        "duration": 1312,
-        "status": "QUEUED",
-        "added_at": "2026-10-31T18:53:12Z"
-      },
       {
         "id": "ken_1793472796_0",
         "creator": "Ken",
@@ -8630,6 +8687,19 @@
         "added_at": "2026-10-31T18:53:12Z",
         "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/06_STUDIO_SOFTWARE_&_LABS/clipfactory/storage/cuts/ken_1793472802_8_master.mp4",
         "youtube_video_id": "kCsVsIlzU1M"
+      },
+      {
+        "id": "ken_1793472796_3",
+        "creator": "Ken",
+        "title": "chaos mega draft, but I pick air [we got the good ending (267 likes)]",
+        "source_title": "chaos mega draft, but I pick air",
+        "url": "https://www.youtube.com/watch?v=LR5jmisfQo0",
+        "section": "*1285-1310",
+        "duration": 1312,
+        "status": "COMPLETED",
+        "added_at": "2026-10-31T18:53:12Z",
+        "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/06_STUDIO_SOFTWARE_&_LABS/clipfactory/storage/cuts/ken_1793472796_3_master.mp4",
+        "youtube_video_id": "8JA6BpoH7to"
       }
     ]
   },
@@ -8865,6 +8935,72 @@
               "variant": "A",
               "title": "Ken's Rant Got Interrupted By THIS",
               "deployed_at": 1793474229.3475368,
+              "reason": "Initial A/B test deployment"
+            }
+          ],
+          "metrics": {
+            "views": 0,
+            "likes": 0,
+            "comments": 0,
+            "retention": 0.0,
+            "ctr": 0.0
+          }
+        },
+        "reframed": "gaming_split"
+      },
+      {
+        "id": "ken_1793472796_3",
+        "source_video": "chaos mega draft, but I pick air [we got the good ending (267 likes)]",
+        "creator": "Ken",
+        "title": "He actually ended it right here...",
+        "publish_at": "2026-11-03T23:30:00Z",
+        "status": "SCHEDULED",
+        "uploaded": true,
+        "youtube_video_id": "8JA6BpoH7to",
+        "youtube_url": "https://www.youtube.com/shorts/8JA6BpoH7to",
+        "video_file": "ken_1793472796_3_master.mp4",
+        "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/06_STUDIO_SOFTWARE_&_LABS/clipfactory/storage/cuts/ken_1793472796_3_master.mp4",
+        "duration": 10.84,
+        "hook_summary": "Full self-contained clip",
+        "metadata": {
+          "title": "He actually ended it right here...",
+          "description": "You won't believe how this conversation wraps up until you hear the final reason. Ken reveals a conclusion that completely shifts the perspective on the whole discussion.\n\n\u2022 Discover the surprising final takeaway\n\u2022 See why the decision was made so quickly\n\u2022 Uncover the unspoken context behind the ending\n\nFeaturing: Ken\n\nWould you have stopped right there, or kept going? Drop your thoughts below!\n\n#shorts #discussion #ken #viral #mindset #insights",
+          "tags": [
+            "Ken",
+            "Ken shorts",
+            "key discussion",
+            "mindset shift",
+            "satisfaction",
+            "productivity tips",
+            "strategy",
+            "viral shorts",
+            "life advice"
+          ],
+          "pinned_comment": "At what exact moment do you know it's time to just walk away and call it a win? Let me know below! \ud83d\udc47",
+          "ab_variants": {
+            "A": {
+              "angle": "Curiosity Gap",
+              "title": "He actually ended it right here...",
+              "description": "You won't believe how this conversation wraps up until you hear the final reason. Ken reveals a conclusion that completely shifts the perspective on the whole discussion.\n\n\u2022 Discover the surprising final takeaway\n\u2022 See why the decision was made so quickly\n\u2022 Uncover the unspoken context behind the ending\n\nFeaturing: Ken\n\nWould you have stopped right there, or kept going? Drop your thoughts below!\n\n#shorts #discussion #ken #viral #mindset #insights"
+            },
+            "B": {
+              "angle": "Contrarian Truth",
+              "title": "Stopping here is actually the smartest move",
+              "description": "Most people think you need to keep pushing, but knowing when to walk away satisfied is the real secret. Ken breaks down why ending it on a high note beats dragging things out.\n\n\u2022 Why more isn't always better\n\u2022 The power of absolute satisfaction\n\u2022 Redefining how we judge a successful finish\n\nFeaturing: Ken\n\nAre you guilty of always overdoing it, or do you know when to quit? Let's debate in the comments.\n\n#shorts #truth #ken #strategy #perspective #mindset"
+            },
+            "C": {
+              "angle": "Actionable Protocol",
+              "title": "Use this rule before you finish anything",
+              "description": "Want to know the exact moment to walk away feeling completely fulfilled? Ken shares the ultimate standard for knowing when a project or session is truly complete.\n\n\u2022 The exact metric for total satisfaction\n\u2022 How to avoid burnout by quitting right\n\u2022 A simple framework for knowing your limits\n\nFeaturing: Ken\n\nWhat is your personal rule for knowing when a session is completely done? Tell us your strategy!\n\n#shorts #tips #ken #productivity #success #framework"
+            }
+          },
+          "active_variant": "A",
+          "test_status": "ACTIVE_TEST",
+          "variant_history": [
+            {
+              "variant": "A",
+              "title": "He actually ended it right here...",
+              "deployed_at": 1793474431.949075,
               "reason": "Initial A/B test deployment"
             }
           ],

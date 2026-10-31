@@ -1,6 +1,6 @@
 {
-  "timestamp": 1793475748.470541,
-  "sync_time_iso": "2026-10-31T19:42:28Z",
+  "timestamp": 1793475750.591299,
+  "sync_time_iso": "2026-10-31T19:42:30Z",
   "default_channel": "ken_clips_burger",
   "channels": {
     "ken_clips_burger": {
@@ -146,17 +146,17 @@
         },
         "PUBLISHER": {
           "status": "working",
-          "current_task": "Deploying to YouTube (@kenclipsburger420) for release 12:30 PM ET (Fri, Nov 06)...",
+          "current_task": "Short SCHEDULED on YouTube: D2dQk2bsNA0 (12:30 PM ET (Fri, Nov 06))",
           "last_completed_task": "Uploaded all 3 initial Clash Royale gaming cuts to YouTube (kenclipsburger420)",
           "recent_logs": [
-            "[15:33:39] Generating gaming A/B metadata for slot: 12:30 PM ET (Thu, Nov 05)...",
             "[15:33:50] Deploying to YouTube (@kenclipsburger420) for release 12:30 PM ET (Thu, Nov 05)...",
             "[15:34:00] Short SCHEDULED on YouTube: ArAlebW0xuA (12:30 PM ET (Thu, Nov 05))",
             "[15:37:53] Generating gaming A/B metadata for slot: 06:30 PM ET (Thu, Nov 05)...",
             "[15:38:05] Deploying to YouTube (@kenclipsburger420) for release 06:30 PM ET (Thu, Nov 05)...",
             "[15:38:16] Short SCHEDULED on YouTube: 6M0hN3rrDT4 (06:30 PM ET (Thu, Nov 05))",
             "[15:42:09] Generating gaming A/B metadata for slot: 12:30 PM ET (Fri, Nov 06)...",
-            "[15:42:21] Deploying to YouTube (@kenclipsburger420) for release 12:30 PM ET (Fri, Nov 06)..."
+            "[15:42:21] Deploying to YouTube (@kenclipsburger420) for release 12:30 PM ET (Fri, Nov 06)...",
+            "[15:42:30] Short SCHEDULED on YouTube: D2dQk2bsNA0 (12:30 PM ET (Fri, Nov 06))"
           ]
         },
         "ANALYST": {
@@ -192,17 +192,6 @@
       },
       "queue": {
         "queue": [
-          {
-            "id": "ken_1793472807_18",
-            "creator": "Ken",
-            "title": "I don't care [hero dementia (585 likes)]",
-            "source_title": "I don't care",
-            "url": "https://www.youtube.com/watch?v=ScNtqik22iA",
-            "section": "*538-586",
-            "duration": 867,
-            "status": "PROCESSING",
-            "added_at": "2026-10-31T18:53:12Z"
-          },
           {
             "id": "ken_1793472807_16",
             "creator": "Ken",
@@ -1441,6 +1430,19 @@
             "added_at": "2026-10-31T18:53:12Z",
             "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/06_STUDIO_SOFTWARE_&_LABS/clipfactory/storage/cuts/ken_1793472807_19_master.mp4",
             "youtube_video_id": "6M0hN3rrDT4"
+          },
+          {
+            "id": "ken_1793472807_18",
+            "creator": "Ken",
+            "title": "I don't care [hero dementia (585 likes)]",
+            "source_title": "I don't care",
+            "url": "https://www.youtube.com/watch?v=ScNtqik22iA",
+            "section": "*538-586",
+            "duration": 867,
+            "status": "COMPLETED",
+            "added_at": "2026-10-31T18:53:12Z",
+            "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/06_STUDIO_SOFTWARE_&_LABS/clipfactory/storage/cuts/ken_1793472807_18_master.mp4",
+            "youtube_video_id": "D2dQk2bsNA0"
           }
         ]
       },
@@ -2006,6 +2008,71 @@
                   "variant": "A",
                   "title": "The exact moment his defense completely crumbled...",
                   "deployed_at": 1793475485.090415,
+                  "reason": "Initial A/B test deployment"
+                }
+              ],
+              "metrics": {
+                "views": 0,
+                "likes": 0,
+                "comments": 0,
+                "retention": 0.0,
+                "ctr": 0.0
+              }
+            },
+            "reframed": "gaming_split"
+          },
+          {
+            "id": "ken_1793472807_18",
+            "source_video": "I don't care [hero dementia (585 likes)]",
+            "creator": "Ken",
+            "title": "Why this meta shift changes everything...",
+            "publish_at": "2026-11-06T17:30:00Z",
+            "status": "SCHEDULED",
+            "uploaded": true,
+            "youtube_video_id": "D2dQk2bsNA0",
+            "youtube_url": "https://www.youtube.com/shorts/D2dQk2bsNA0",
+            "video_file": "ken_1793472807_18_master.mp4",
+            "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/06_STUDIO_SOFTWARE_&_LABS/clipfactory/storage/cuts/ken_1793472807_18_master.mp4",
+            "duration": 22.16,
+            "hook_summary": "Essential discussion and core insight",
+            "metadata": {
+              "title": "Why this meta shift changes everything...",
+              "description": "Ken uncovers the hidden flaw in the current strategy that most players completely overlook until it's too late. Discover the exact reason why rushing into certain tactics is quietly ruining your matches.\n\n\u2022 Exposes the hidden trap behind popular strategies\n\u2022 Breaks down why certain playstyles fail in higher ranks\n\u2022 Reveals what you should be doing instead for easy wins\n\nFeaturing: Ken\n\nHave you fallen for this trap yet, or did you figure it out early? Drop your thoughts below!\n\n#shorts #gaming #ken #gaminghighlights #mobilegaming #strategy",
+              "tags": [
+                "gaming highlights",
+                "ken gaming",
+                "mobile gaming shorts",
+                "meta analysis",
+                "gaming strategy",
+                "pro tips",
+                "gaming moments",
+                "top plays"
+              ],
+              "pinned_comment": "Hot take: If you still rely on the rocket cycle in 2024, you're actively throwing your matches. Prove me wrong in the replies.",
+              "ab_variants": {
+                "A": {
+                  "angle": "Curiosity Gap",
+                  "title": "Why this meta shift changes everything...",
+                  "description": "Ken uncovers the hidden flaw in the current strategy that most players completely overlook until it's too late. Discover the exact reason why rushing into certain tactics is quietly ruining your matches.\n\n\u2022 Exposes the hidden trap behind popular strategies\n\u2022 Breaks down why certain playstyles fail in higher ranks\n\u2022 Reveals what you should be doing instead for easy wins\n\nFeaturing: Ken\n\nHave you fallen for this trap yet, or did you figure it out early? Drop your thoughts below!\n\n#shorts #gaming #ken #gaminghighlights #mobilegaming #strategy"
+                },
+                "B": {
+                  "angle": "Contrarian Truth",
+                  "title": "Stop playing the rocket cycle completely.",
+                  "description": "Everyone says playing a specific way is the ultimate path to victory, but Ken proves why that mindset is fundamentally holding you back. It is time to rethink how you approach the meta completely.\n\n\u2022 Challenges the most popular advice in the community\n\u2022 Shows why conventional tactics lead to sudden losses\n\u2022 Delivers a fresh perspective on high-level gameplay\n\nFeaturing: Ken\n\nAre you brave enough to drop your favorite strategy, or is everyone else just playing wrong? Let's debate in the comments!\n\n#shorts #gaming #ken #meta #gamingcommunity #gamers"
+                },
+                "C": {
+                  "angle": "Actionable Protocol",
+                  "title": "The exact fix for your losing streak.",
+                  "description": "Tired of losing matches you should have easily won? Ken breaks down the definitive step-by-step adjustment you need to make right now to turn your win rate around.\n\n\u2022 Step-by-step guide to fixing your mid-game rotation\n\u2022 How to instantly spot and punish opponent overcommitments\n\u2022 The ultimate mental trick to stay calm under pressure\n\nFeaturing: Ken\n\nWhat is your current win rate? Tell us how this adjustment changes your gameplay!\n\n#shorts #gaming #ken #protips #gamingtips #progamer"
+                }
+              },
+              "active_variant": "A",
+              "test_status": "ACTIVE_TEST",
+              "variant_history": [
+                {
+                  "variant": "A",
+                  "title": "Why this meta shift changes everything...",
+                  "deployed_at": 1793475741.360497,
                   "reason": "Initial A/B test deployment"
                 }
               ],
@@ -7685,17 +7752,17 @@
     },
     "PUBLISHER": {
       "status": "working",
-      "current_task": "Deploying to YouTube (@kenclipsburger420) for release 12:30 PM ET (Fri, Nov 06)...",
+      "current_task": "Short SCHEDULED on YouTube: D2dQk2bsNA0 (12:30 PM ET (Fri, Nov 06))",
       "last_completed_task": "Uploaded all 3 initial Clash Royale gaming cuts to YouTube (kenclipsburger420)",
       "recent_logs": [
-        "[15:33:39] Generating gaming A/B metadata for slot: 12:30 PM ET (Thu, Nov 05)...",
         "[15:33:50] Deploying to YouTube (@kenclipsburger420) for release 12:30 PM ET (Thu, Nov 05)...",
         "[15:34:00] Short SCHEDULED on YouTube: ArAlebW0xuA (12:30 PM ET (Thu, Nov 05))",
         "[15:37:53] Generating gaming A/B metadata for slot: 06:30 PM ET (Thu, Nov 05)...",
         "[15:38:05] Deploying to YouTube (@kenclipsburger420) for release 06:30 PM ET (Thu, Nov 05)...",
         "[15:38:16] Short SCHEDULED on YouTube: 6M0hN3rrDT4 (06:30 PM ET (Thu, Nov 05))",
         "[15:42:09] Generating gaming A/B metadata for slot: 12:30 PM ET (Fri, Nov 06)...",
-        "[15:42:21] Deploying to YouTube (@kenclipsburger420) for release 12:30 PM ET (Fri, Nov 06)..."
+        "[15:42:21] Deploying to YouTube (@kenclipsburger420) for release 12:30 PM ET (Fri, Nov 06)...",
+        "[15:42:30] Short SCHEDULED on YouTube: D2dQk2bsNA0 (12:30 PM ET (Fri, Nov 06))"
       ]
     },
     "ANALYST": {
@@ -7731,17 +7798,6 @@
   },
   "queue": {
     "queue": [
-      {
-        "id": "ken_1793472807_18",
-        "creator": "Ken",
-        "title": "I don't care [hero dementia (585 likes)]",
-        "source_title": "I don't care",
-        "url": "https://www.youtube.com/watch?v=ScNtqik22iA",
-        "section": "*538-586",
-        "duration": 867,
-        "status": "PROCESSING",
-        "added_at": "2026-10-31T18:53:12Z"
-      },
       {
         "id": "ken_1793472807_16",
         "creator": "Ken",
@@ -8980,6 +9036,19 @@
         "added_at": "2026-10-31T18:53:12Z",
         "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/06_STUDIO_SOFTWARE_&_LABS/clipfactory/storage/cuts/ken_1793472807_19_master.mp4",
         "youtube_video_id": "6M0hN3rrDT4"
+      },
+      {
+        "id": "ken_1793472807_18",
+        "creator": "Ken",
+        "title": "I don't care [hero dementia (585 likes)]",
+        "source_title": "I don't care",
+        "url": "https://www.youtube.com/watch?v=ScNtqik22iA",
+        "section": "*538-586",
+        "duration": 867,
+        "status": "COMPLETED",
+        "added_at": "2026-10-31T18:53:12Z",
+        "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/06_STUDIO_SOFTWARE_&_LABS/clipfactory/storage/cuts/ken_1793472807_18_master.mp4",
+        "youtube_video_id": "D2dQk2bsNA0"
       }
     ]
   },
@@ -9545,6 +9614,71 @@
               "variant": "A",
               "title": "The exact moment his defense completely crumbled...",
               "deployed_at": 1793475485.090415,
+              "reason": "Initial A/B test deployment"
+            }
+          ],
+          "metrics": {
+            "views": 0,
+            "likes": 0,
+            "comments": 0,
+            "retention": 0.0,
+            "ctr": 0.0
+          }
+        },
+        "reframed": "gaming_split"
+      },
+      {
+        "id": "ken_1793472807_18",
+        "source_video": "I don't care [hero dementia (585 likes)]",
+        "creator": "Ken",
+        "title": "Why this meta shift changes everything...",
+        "publish_at": "2026-11-06T17:30:00Z",
+        "status": "SCHEDULED",
+        "uploaded": true,
+        "youtube_video_id": "D2dQk2bsNA0",
+        "youtube_url": "https://www.youtube.com/shorts/D2dQk2bsNA0",
+        "video_file": "ken_1793472807_18_master.mp4",
+        "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/06_STUDIO_SOFTWARE_&_LABS/clipfactory/storage/cuts/ken_1793472807_18_master.mp4",
+        "duration": 22.16,
+        "hook_summary": "Essential discussion and core insight",
+        "metadata": {
+          "title": "Why this meta shift changes everything...",
+          "description": "Ken uncovers the hidden flaw in the current strategy that most players completely overlook until it's too late. Discover the exact reason why rushing into certain tactics is quietly ruining your matches.\n\n\u2022 Exposes the hidden trap behind popular strategies\n\u2022 Breaks down why certain playstyles fail in higher ranks\n\u2022 Reveals what you should be doing instead for easy wins\n\nFeaturing: Ken\n\nHave you fallen for this trap yet, or did you figure it out early? Drop your thoughts below!\n\n#shorts #gaming #ken #gaminghighlights #mobilegaming #strategy",
+          "tags": [
+            "gaming highlights",
+            "ken gaming",
+            "mobile gaming shorts",
+            "meta analysis",
+            "gaming strategy",
+            "pro tips",
+            "gaming moments",
+            "top plays"
+          ],
+          "pinned_comment": "Hot take: If you still rely on the rocket cycle in 2024, you're actively throwing your matches. Prove me wrong in the replies.",
+          "ab_variants": {
+            "A": {
+              "angle": "Curiosity Gap",
+              "title": "Why this meta shift changes everything...",
+              "description": "Ken uncovers the hidden flaw in the current strategy that most players completely overlook until it's too late. Discover the exact reason why rushing into certain tactics is quietly ruining your matches.\n\n\u2022 Exposes the hidden trap behind popular strategies\n\u2022 Breaks down why certain playstyles fail in higher ranks\n\u2022 Reveals what you should be doing instead for easy wins\n\nFeaturing: Ken\n\nHave you fallen for this trap yet, or did you figure it out early? Drop your thoughts below!\n\n#shorts #gaming #ken #gaminghighlights #mobilegaming #strategy"
+            },
+            "B": {
+              "angle": "Contrarian Truth",
+              "title": "Stop playing the rocket cycle completely.",
+              "description": "Everyone says playing a specific way is the ultimate path to victory, but Ken proves why that mindset is fundamentally holding you back. It is time to rethink how you approach the meta completely.\n\n\u2022 Challenges the most popular advice in the community\n\u2022 Shows why conventional tactics lead to sudden losses\n\u2022 Delivers a fresh perspective on high-level gameplay\n\nFeaturing: Ken\n\nAre you brave enough to drop your favorite strategy, or is everyone else just playing wrong? Let's debate in the comments!\n\n#shorts #gaming #ken #meta #gamingcommunity #gamers"
+            },
+            "C": {
+              "angle": "Actionable Protocol",
+              "title": "The exact fix for your losing streak.",
+              "description": "Tired of losing matches you should have easily won? Ken breaks down the definitive step-by-step adjustment you need to make right now to turn your win rate around.\n\n\u2022 Step-by-step guide to fixing your mid-game rotation\n\u2022 How to instantly spot and punish opponent overcommitments\n\u2022 The ultimate mental trick to stay calm under pressure\n\nFeaturing: Ken\n\nWhat is your current win rate? Tell us how this adjustment changes your gameplay!\n\n#shorts #gaming #ken #protips #gamingtips #progamer"
+            }
+          },
+          "active_variant": "A",
+          "test_status": "ACTIVE_TEST",
+          "variant_history": [
+            {
+              "variant": "A",
+              "title": "Why this meta shift changes everything...",
+              "deployed_at": 1793475741.360497,
               "reason": "Initial A/B test deployment"
             }
           ],

@@ -1,6 +1,6 @@
 {
-  "timestamp": 1793474207.6603642,
-  "sync_time_iso": "2026-10-31T19:16:47Z",
+  "timestamp": 1793474240.4990752,
+  "sync_time_iso": "2026-10-31T19:17:20Z",
   "default_channel": "ken_clips_burger",
   "channels": {
     "ken_clips_burger": {
@@ -146,17 +146,17 @@
         },
         "PUBLISHER": {
           "status": "working",
-          "current_task": "Short SCHEDULED on YouTube: 4tMBDx6ura8 (06:30 PM ET (Mon, Nov 02))",
+          "current_task": "Short SCHEDULED on YouTube: kCsVsIlzU1M (12:30 PM ET (Tue, Nov 03))",
           "last_completed_task": "Uploaded all 3 initial Clash Royale gaming cuts to YouTube (kenclipsburger420)",
           "recent_logs": [
-            "[13:12:22] Deploying to YouTube (@kenclipsburger420) for release 11:30 AM ET (Tue, Oct 27)...",
-            "[13:12:27] Short SCHEDULED on YouTube: WsoFhfilcnY (11:30 AM ET (Tue, Oct 27))",
-            "[15:08:27] Generating gaming A/B metadata for slot: 12:30 PM ET (Mon, Nov 02)...",
             "[15:08:39] Deploying to YouTube (@kenclipsburger420) for release 12:30 PM ET (Mon, Nov 02)...",
             "[15:08:47] Short SCHEDULED on YouTube: -L0wH4FffO4 (12:30 PM ET (Mon, Nov 02))",
             "[15:12:26] Generating gaming A/B metadata for slot: 06:30 PM ET (Mon, Nov 02)...",
             "[15:12:31] Deploying to YouTube (@kenclipsburger420) for release 06:30 PM ET (Mon, Nov 02)...",
-            "[15:12:47] Short SCHEDULED on YouTube: 4tMBDx6ura8 (06:30 PM ET (Mon, Nov 02))"
+            "[15:12:47] Short SCHEDULED on YouTube: 4tMBDx6ura8 (06:30 PM ET (Mon, Nov 02))",
+            "[15:17:00] Generating gaming A/B metadata for slot: 12:30 PM ET (Tue, Nov 03)...",
+            "[15:17:09] Deploying to YouTube (@kenclipsburger420) for release 12:30 PM ET (Tue, Nov 03)...",
+            "[15:17:20] Short SCHEDULED on YouTube: kCsVsIlzU1M (12:30 PM ET (Tue, Nov 03))"
           ]
         },
         "ANALYST": {
@@ -192,17 +192,6 @@
       },
       "queue": {
         "queue": [
-          {
-            "id": "ken_1793472802_8",
-            "creator": "Ken",
-            "title": "the last hope [he pronounced it correctly not once but TWICE (307 likes)]",
-            "source_title": "the last hope",
-            "url": "https://www.youtube.com/watch?v=O1AwQYzztPA",
-            "section": "*55-103",
-            "duration": 1653,
-            "status": "PROCESSING",
-            "added_at": "2026-10-31T18:53:12Z"
-          },
           {
             "id": "ken_1793472796_3",
             "creator": "Ken",
@@ -1429,6 +1418,19 @@
             "added_at": "2026-10-31T18:53:12Z",
             "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/06_STUDIO_SOFTWARE_&_LABS/clipfactory/storage/cuts/ken_1793472799_7_master.mp4",
             "youtube_video_id": "4tMBDx6ura8"
+          },
+          {
+            "id": "ken_1793472802_8",
+            "creator": "Ken",
+            "title": "the last hope [he pronounced it correctly not once but TWICE (307 likes)]",
+            "source_title": "the last hope",
+            "url": "https://www.youtube.com/watch?v=O1AwQYzztPA",
+            "section": "*55-103",
+            "duration": 1653,
+            "status": "COMPLETED",
+            "added_at": "2026-10-31T18:53:12Z",
+            "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/06_STUDIO_SOFTWARE_&_LABS/clipfactory/storage/cuts/ken_1793472802_8_master.mp4",
+            "youtube_video_id": "kCsVsIlzU1M"
           }
         ]
       },
@@ -1598,6 +1600,72 @@
                   "variant": "A",
                   "title": "How did he actually pull this off?",
                   "deployed_at": 1793473951.628737,
+                  "reason": "Initial A/B test deployment"
+                }
+              ],
+              "metrics": {
+                "views": 0,
+                "likes": 0,
+                "comments": 0,
+                "retention": 0.0,
+                "ctr": 0.0
+              }
+            },
+            "reframed": "gaming_split"
+          },
+          {
+            "id": "ken_1793472802_8",
+            "source_video": "the last hope [he pronounced it correctly not once but TWICE (307 likes)]",
+            "creator": "Ken",
+            "title": "Ken's Rant Got Interrupted By THIS",
+            "publish_at": "2026-11-03T17:30:00Z",
+            "status": "SCHEDULED",
+            "uploaded": true,
+            "youtube_video_id": "kCsVsIlzU1M",
+            "youtube_url": "https://www.youtube.com/shorts/kCsVsIlzU1M",
+            "video_file": "ken_1793472802_8_master.mp4",
+            "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/06_STUDIO_SOFTWARE_&_LABS/clipfactory/storage/cuts/ken_1793472802_8_master.mp4",
+            "duration": 22.94,
+            "hook_summary": "Ken starts an aggressive rant about players ruining the 'Chaos' mode with counter-decks before being immediately interrupted by a chaotic visual glitch on his own screen.",
+            "metadata": {
+              "title": "Ken's Rant Got Interrupted By THIS",
+              "description": "Ken was mid-rage about meta counter-decks ruining Chaos Mode when Karma immediately hit his screen.\n\nKey takeaways:\n\u2022 Why counter-decks ruin casual modes\n\u2022 The instant karma moment caught on live stream\n\u2022 How the Chaos meta is collapsing\n\nFeaturing: Ken\n\nIs counter-decking in Chaos Mode toxic or just smart play?\n\n#shorts #clashroyale #gaming #ken #supercell",
+              "tags": [
+                "clash royale",
+                "ken clash royale",
+                "chaos mode",
+                "clash royale rage",
+                "counter deck",
+                "clash royale funny moments",
+                "gaming shorts",
+                "supercell",
+                "clash royale meta"
+              ],
+              "pinned_comment": "Are counter-decks ruining Chaos Mode, or is it just part of the game? Drop your thoughts below \ud83d\udc47",
+              "ab_variants": {
+                "A": {
+                  "angle": "Curiosity Gap",
+                  "title": "Ken's Rant Got Interrupted By THIS",
+                  "description": "Ken was mid-rage about meta counter-decks ruining Chaos Mode when Karma immediately hit his screen.\n\nKey takeaways:\n\u2022 Why counter-decks ruin casual modes\n\u2022 The instant karma moment caught on live stream\n\u2022 How the Chaos meta is collapsing\n\nFeaturing: Ken\n\nIs counter-decking in Chaos Mode toxic or just smart play?\n\n#shorts #clashroyale #gaming #ken #supercell"
+                },
+                "B": {
+                  "angle": "Contrarian Truth",
+                  "title": "Stop Making Counter Decks.",
+                  "description": "Everyone thinks Chaos Mode is just for fun until tryhards bring hard counters to every match.\n\nKey takeaways:\n\u2022 The frustrating reality of casual game modes\n\u2022 Why tryhards ruin fun experimental queues\n\u2022 Ken's explosive reaction to the sweat meta\n\nFeaturing: Ken\n\nShould casual modes ban hard-counter cards entirely?\n\n#shorts #clashroyale #gaming #ken #clashroyalememe #mobilegaming"
+                },
+                "C": {
+                  "angle": "Actionable Protocol",
+                  "title": "How To Handle Chaos Mode Tryhards",
+                  "description": "Tired of running into sweat decks in Chaos Mode? Here is how to handle the inevitable counter-meta crash-out.\n\nKey takeaways:\n\u2022 Anticipating the counter-deck shift in new modes\n\u2022 Maintaining composure when hard-countered\n\u2022 Adapting when the game literally breaks\n\nFeaturing: Ken\n\nWhat deck are you currently running to beat Chaos Mode?\n\n#shorts #clashroyale #gaming #ken #mobilegaming"
+                }
+              },
+              "active_variant": "A",
+              "test_status": "ACTIVE_TEST",
+              "variant_history": [
+                {
+                  "variant": "A",
+                  "title": "Ken's Rant Got Interrupted By THIS",
+                  "deployed_at": 1793474229.3475368,
                   "reason": "Initial A/B test deployment"
                 }
               ],
@@ -7277,17 +7345,17 @@
     },
     "PUBLISHER": {
       "status": "working",
-      "current_task": "Short SCHEDULED on YouTube: 4tMBDx6ura8 (06:30 PM ET (Mon, Nov 02))",
+      "current_task": "Short SCHEDULED on YouTube: kCsVsIlzU1M (12:30 PM ET (Tue, Nov 03))",
       "last_completed_task": "Uploaded all 3 initial Clash Royale gaming cuts to YouTube (kenclipsburger420)",
       "recent_logs": [
-        "[13:12:22] Deploying to YouTube (@kenclipsburger420) for release 11:30 AM ET (Tue, Oct 27)...",
-        "[13:12:27] Short SCHEDULED on YouTube: WsoFhfilcnY (11:30 AM ET (Tue, Oct 27))",
-        "[15:08:27] Generating gaming A/B metadata for slot: 12:30 PM ET (Mon, Nov 02)...",
         "[15:08:39] Deploying to YouTube (@kenclipsburger420) for release 12:30 PM ET (Mon, Nov 02)...",
         "[15:08:47] Short SCHEDULED on YouTube: -L0wH4FffO4 (12:30 PM ET (Mon, Nov 02))",
         "[15:12:26] Generating gaming A/B metadata for slot: 06:30 PM ET (Mon, Nov 02)...",
         "[15:12:31] Deploying to YouTube (@kenclipsburger420) for release 06:30 PM ET (Mon, Nov 02)...",
-        "[15:12:47] Short SCHEDULED on YouTube: 4tMBDx6ura8 (06:30 PM ET (Mon, Nov 02))"
+        "[15:12:47] Short SCHEDULED on YouTube: 4tMBDx6ura8 (06:30 PM ET (Mon, Nov 02))",
+        "[15:17:00] Generating gaming A/B metadata for slot: 12:30 PM ET (Tue, Nov 03)...",
+        "[15:17:09] Deploying to YouTube (@kenclipsburger420) for release 12:30 PM ET (Tue, Nov 03)...",
+        "[15:17:20] Short SCHEDULED on YouTube: kCsVsIlzU1M (12:30 PM ET (Tue, Nov 03))"
       ]
     },
     "ANALYST": {
@@ -7323,17 +7391,6 @@
   },
   "queue": {
     "queue": [
-      {
-        "id": "ken_1793472802_8",
-        "creator": "Ken",
-        "title": "the last hope [he pronounced it correctly not once but TWICE (307 likes)]",
-        "source_title": "the last hope",
-        "url": "https://www.youtube.com/watch?v=O1AwQYzztPA",
-        "section": "*55-103",
-        "duration": 1653,
-        "status": "PROCESSING",
-        "added_at": "2026-10-31T18:53:12Z"
-      },
       {
         "id": "ken_1793472796_3",
         "creator": "Ken",
@@ -8560,6 +8617,19 @@
         "added_at": "2026-10-31T18:53:12Z",
         "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/06_STUDIO_SOFTWARE_&_LABS/clipfactory/storage/cuts/ken_1793472799_7_master.mp4",
         "youtube_video_id": "4tMBDx6ura8"
+      },
+      {
+        "id": "ken_1793472802_8",
+        "creator": "Ken",
+        "title": "the last hope [he pronounced it correctly not once but TWICE (307 likes)]",
+        "source_title": "the last hope",
+        "url": "https://www.youtube.com/watch?v=O1AwQYzztPA",
+        "section": "*55-103",
+        "duration": 1653,
+        "status": "COMPLETED",
+        "added_at": "2026-10-31T18:53:12Z",
+        "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/06_STUDIO_SOFTWARE_&_LABS/clipfactory/storage/cuts/ken_1793472802_8_master.mp4",
+        "youtube_video_id": "kCsVsIlzU1M"
       }
     ]
   },
@@ -8729,6 +8799,72 @@
               "variant": "A",
               "title": "How did he actually pull this off?",
               "deployed_at": 1793473951.628737,
+              "reason": "Initial A/B test deployment"
+            }
+          ],
+          "metrics": {
+            "views": 0,
+            "likes": 0,
+            "comments": 0,
+            "retention": 0.0,
+            "ctr": 0.0
+          }
+        },
+        "reframed": "gaming_split"
+      },
+      {
+        "id": "ken_1793472802_8",
+        "source_video": "the last hope [he pronounced it correctly not once but TWICE (307 likes)]",
+        "creator": "Ken",
+        "title": "Ken's Rant Got Interrupted By THIS",
+        "publish_at": "2026-11-03T17:30:00Z",
+        "status": "SCHEDULED",
+        "uploaded": true,
+        "youtube_video_id": "kCsVsIlzU1M",
+        "youtube_url": "https://www.youtube.com/shorts/kCsVsIlzU1M",
+        "video_file": "ken_1793472802_8_master.mp4",
+        "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/06_STUDIO_SOFTWARE_&_LABS/clipfactory/storage/cuts/ken_1793472802_8_master.mp4",
+        "duration": 22.94,
+        "hook_summary": "Ken starts an aggressive rant about players ruining the 'Chaos' mode with counter-decks before being immediately interrupted by a chaotic visual glitch on his own screen.",
+        "metadata": {
+          "title": "Ken's Rant Got Interrupted By THIS",
+          "description": "Ken was mid-rage about meta counter-decks ruining Chaos Mode when Karma immediately hit his screen.\n\nKey takeaways:\n\u2022 Why counter-decks ruin casual modes\n\u2022 The instant karma moment caught on live stream\n\u2022 How the Chaos meta is collapsing\n\nFeaturing: Ken\n\nIs counter-decking in Chaos Mode toxic or just smart play?\n\n#shorts #clashroyale #gaming #ken #supercell",
+          "tags": [
+            "clash royale",
+            "ken clash royale",
+            "chaos mode",
+            "clash royale rage",
+            "counter deck",
+            "clash royale funny moments",
+            "gaming shorts",
+            "supercell",
+            "clash royale meta"
+          ],
+          "pinned_comment": "Are counter-decks ruining Chaos Mode, or is it just part of the game? Drop your thoughts below \ud83d\udc47",
+          "ab_variants": {
+            "A": {
+              "angle": "Curiosity Gap",
+              "title": "Ken's Rant Got Interrupted By THIS",
+              "description": "Ken was mid-rage about meta counter-decks ruining Chaos Mode when Karma immediately hit his screen.\n\nKey takeaways:\n\u2022 Why counter-decks ruin casual modes\n\u2022 The instant karma moment caught on live stream\n\u2022 How the Chaos meta is collapsing\n\nFeaturing: Ken\n\nIs counter-decking in Chaos Mode toxic or just smart play?\n\n#shorts #clashroyale #gaming #ken #supercell"
+            },
+            "B": {
+              "angle": "Contrarian Truth",
+              "title": "Stop Making Counter Decks.",
+              "description": "Everyone thinks Chaos Mode is just for fun until tryhards bring hard counters to every match.\n\nKey takeaways:\n\u2022 The frustrating reality of casual game modes\n\u2022 Why tryhards ruin fun experimental queues\n\u2022 Ken's explosive reaction to the sweat meta\n\nFeaturing: Ken\n\nShould casual modes ban hard-counter cards entirely?\n\n#shorts #clashroyale #gaming #ken #clashroyalememe #mobilegaming"
+            },
+            "C": {
+              "angle": "Actionable Protocol",
+              "title": "How To Handle Chaos Mode Tryhards",
+              "description": "Tired of running into sweat decks in Chaos Mode? Here is how to handle the inevitable counter-meta crash-out.\n\nKey takeaways:\n\u2022 Anticipating the counter-deck shift in new modes\n\u2022 Maintaining composure when hard-countered\n\u2022 Adapting when the game literally breaks\n\nFeaturing: Ken\n\nWhat deck are you currently running to beat Chaos Mode?\n\n#shorts #clashroyale #gaming #ken #mobilegaming"
+            }
+          },
+          "active_variant": "A",
+          "test_status": "ACTIVE_TEST",
+          "variant_history": [
+            {
+              "variant": "A",
+              "title": "Ken's Rant Got Interrupted By THIS",
+              "deployed_at": 1793474229.3475368,
               "reason": "Initial A/B test deployment"
             }
           ],

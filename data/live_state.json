@@ -1,6 +1,6 @@
 {
-  "timestamp": 1793474577.150044,
-  "sync_time_iso": "2026-10-31T19:22:57Z",
+  "timestamp": 1793474638.610074,
+  "sync_time_iso": "2026-10-31T19:23:58Z",
   "default_channel": "ken_clips_burger",
   "channels": {
     "ken_clips_burger": {
@@ -92,17 +92,17 @@
       "agents": {
         "SCOUT": {
           "status": "working",
-          "current_task": "Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
+          "current_task": "Queue up to date. Waiting for next daily Ken upload.",
           "last_completed_task": "Ingested 5 recent Ken master videos into source pool",
           "recent_logs": [
-            "[15:19:28] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
-            "[15:19:44] Mined 4 crowd-upvoted comment timestamps for: chaos mega draft, but I pick a",
-            "[15:19:46] Mined 4 crowd-upvoted comment timestamps for: chaos mega draft, but I pick w",
-            "[15:19:49] Mined 4 crowd-upvoted comment timestamps for: the last hope",
-            "[15:19:53] Mined 4 crowd-upvoted comment timestamps for: I don't care",
-            "[15:19:56] Mined 4 crowd-upvoted comment timestamps for: 2.9 fatherless cycle",
             "[15:19:56] Queue up to date. Waiting for next daily Ken upload.",
-            "[15:22:50] Scanning @kenforrest YouTube feed for latest Clash Royale uploads..."
+            "[15:22:50] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
+            "[15:23:05] Mined 4 crowd-upvoted comment timestamps for: chaos mega draft, but I pick a",
+            "[15:23:07] Mined 4 crowd-upvoted comment timestamps for: chaos mega draft, but I pick w",
+            "[15:23:11] Mined 4 crowd-upvoted comment timestamps for: the last hope",
+            "[15:23:16] Mined 4 crowd-upvoted comment timestamps for: I don't care",
+            "[15:23:19] Mined 4 crowd-upvoted comment timestamps for: 2.9 fatherless cycle",
+            "[15:23:19] Queue up to date. Waiting for next daily Ken upload."
           ]
         },
         "STRATEGIST": {
@@ -122,17 +122,17 @@
         },
         "EDITOR": {
           "status": "working",
-          "current_task": "Selected complete sentence-aligned highlight: 0.00s -> 10.84s (10.84s)",
+          "current_task": "Rendering V3 60FPS Zero-Crop Short: chaos mega draft, but I pick air [\"",
           "last_completed_task": "Rendered 'hp buffed' rage highlight with kinetic pop captions & commentary",
           "recent_logs": [
-            "[15:11:29] Rendering V3 60FPS Zero-Crop Short: chaos mega draft, but I pick win co",
-            "[15:11:36] Selected complete sentence-aligned highlight: 0.00s -> 20.56s (20.56s)",
             "[15:15:26] Downloading 1080p60 highlight segment (*55-103) for: the last hope [he pronounced it cor...",
             "[15:15:57] Rendering V3 60FPS Zero-Crop Short: the last hope [he pronounced it cor",
             "[15:16:12] Selected complete sentence-aligned highlight: 10.08s -> 33.02s (22.94s)",
             "[15:19:56] Downloading 1080p60 highlight segment (*1285-1310) for: chaos mega draft, but I pick air [w...",
             "[15:20:02] Rendering V3 60FPS Zero-Crop Short: chaos mega draft, but I pick air [w",
-            "[15:20:04] Selected complete sentence-aligned highlight: 0.00s -> 10.84s (10.84s)"
+            "[15:20:04] Selected complete sentence-aligned highlight: 0.00s -> 10.84s (10.84s)",
+            "[15:23:19] Downloading 1080p60 highlight segment (*275-323) for: chaos mega draft, but I pick air [\"...",
+            "[15:23:53] Rendering V3 60FPS Zero-Crop Short: chaos mega draft, but I pick air [\""
           ]
         },
         "COMMENTATOR": {
@@ -200,7 +200,7 @@
             "url": "https://www.youtube.com/watch?v=LR5jmisfQo0",
             "section": "*275-323",
             "duration": 1312,
-            "status": "QUEUED",
+            "status": "PROCESSING",
             "added_at": "2026-10-31T18:53:12Z"
           },
           {
@@ -7359,17 +7359,17 @@
   "agents": {
     "SCOUT": {
       "status": "working",
-      "current_task": "Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
+      "current_task": "Queue up to date. Waiting for next daily Ken upload.",
       "last_completed_task": "Ingested 5 recent Ken master videos into source pool",
       "recent_logs": [
-        "[15:19:28] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
-        "[15:19:44] Mined 4 crowd-upvoted comment timestamps for: chaos mega draft, but I pick a",
-        "[15:19:46] Mined 4 crowd-upvoted comment timestamps for: chaos mega draft, but I pick w",
-        "[15:19:49] Mined 4 crowd-upvoted comment timestamps for: the last hope",
-        "[15:19:53] Mined 4 crowd-upvoted comment timestamps for: I don't care",
-        "[15:19:56] Mined 4 crowd-upvoted comment timestamps for: 2.9 fatherless cycle",
         "[15:19:56] Queue up to date. Waiting for next daily Ken upload.",
-        "[15:22:50] Scanning @kenforrest YouTube feed for latest Clash Royale uploads..."
+        "[15:22:50] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
+        "[15:23:05] Mined 4 crowd-upvoted comment timestamps for: chaos mega draft, but I pick a",
+        "[15:23:07] Mined 4 crowd-upvoted comment timestamps for: chaos mega draft, but I pick w",
+        "[15:23:11] Mined 4 crowd-upvoted comment timestamps for: the last hope",
+        "[15:23:16] Mined 4 crowd-upvoted comment timestamps for: I don't care",
+        "[15:23:19] Mined 4 crowd-upvoted comment timestamps for: 2.9 fatherless cycle",
+        "[15:23:19] Queue up to date. Waiting for next daily Ken upload."
       ]
     },
     "STRATEGIST": {
@@ -7389,17 +7389,17 @@
     },
     "EDITOR": {
       "status": "working",
-      "current_task": "Selected complete sentence-aligned highlight: 0.00s -> 10.84s (10.84s)",
+      "current_task": "Rendering V3 60FPS Zero-Crop Short: chaos mega draft, but I pick air [\"",
       "last_completed_task": "Rendered 'hp buffed' rage highlight with kinetic pop captions & commentary",
       "recent_logs": [
-        "[15:11:29] Rendering V3 60FPS Zero-Crop Short: chaos mega draft, but I pick win co",
-        "[15:11:36] Selected complete sentence-aligned highlight: 0.00s -> 20.56s (20.56s)",
         "[15:15:26] Downloading 1080p60 highlight segment (*55-103) for: the last hope [he pronounced it cor...",
         "[15:15:57] Rendering V3 60FPS Zero-Crop Short: the last hope [he pronounced it cor",
         "[15:16:12] Selected complete sentence-aligned highlight: 10.08s -> 33.02s (22.94s)",
         "[15:19:56] Downloading 1080p60 highlight segment (*1285-1310) for: chaos mega draft, but I pick air [w...",
         "[15:20:02] Rendering V3 60FPS Zero-Crop Short: chaos mega draft, but I pick air [w",
-        "[15:20:04] Selected complete sentence-aligned highlight: 0.00s -> 10.84s (10.84s)"
+        "[15:20:04] Selected complete sentence-aligned highlight: 0.00s -> 10.84s (10.84s)",
+        "[15:23:19] Downloading 1080p60 highlight segment (*275-323) for: chaos mega draft, but I pick air [\"...",
+        "[15:23:53] Rendering V3 60FPS Zero-Crop Short: chaos mega draft, but I pick air [\""
       ]
     },
     "COMMENTATOR": {
@@ -7467,7 +7467,7 @@
         "url": "https://www.youtube.com/watch?v=LR5jmisfQo0",
         "section": "*275-323",
         "duration": 1312,
-        "status": "QUEUED",
+        "status": "PROCESSING",
         "added_at": "2026-10-31T18:53:12Z"
       },
       {

@@ -1,6 +1,6 @@
 {
-  "timestamp": 1793473837.871785,
-  "sync_time_iso": "2026-10-31T19:10:37Z",
+  "timestamp": 1793473899.568795,
+  "sync_time_iso": "2026-10-31T19:11:39Z",
   "default_channel": "ken_clips_burger",
   "channels": {
     "ken_clips_burger": {
@@ -95,14 +95,14 @@
           "current_task": "Ingested 1 fresh Ken clip candidate(s) into queue.",
           "last_completed_task": "Ingested 5 recent Ken master videos into source pool",
           "recent_logs": [
-            "[14:53:30] Ingested 24 fresh Ken clip candidate(s) into queue.",
-            "[15:06:31] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
-            "[15:06:48] Mined 4 crowd-upvoted comment timestamps for: chaos mega draft, but I pick a",
-            "[15:06:51] Mined 4 crowd-upvoted comment timestamps for: chaos mega draft, but I pick w",
-            "[15:06:54] Mined 4 crowd-upvoted comment timestamps for: the last hope",
-            "[15:06:58] Mined 4 crowd-upvoted comment timestamps for: I don't care",
-            "[15:07:01] Mined 4 crowd-upvoted comment timestamps for: 2.9 fatherless cycle",
-            "[15:07:01] Ingested 1 fresh Ken clip candidate(s) into queue."
+            "[15:07:01] Ingested 1 fresh Ken clip candidate(s) into queue.",
+            "[15:10:56] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
+            "[15:11:11] Mined 4 crowd-upvoted comment timestamps for: chaos mega draft, but I pick a",
+            "[15:11:14] Mined 4 crowd-upvoted comment timestamps for: chaos mega draft, but I pick w",
+            "[15:11:17] Mined 4 crowd-upvoted comment timestamps for: the last hope",
+            "[15:11:22] Mined 4 crowd-upvoted comment timestamps for: I don't care",
+            "[15:11:25] Mined 4 crowd-upvoted comment timestamps for: 2.9 fatherless cycle",
+            "[15:11:25] Ingested 1 fresh Ken clip candidate(s) into queue."
           ]
         },
         "STRATEGIST": {
@@ -122,17 +122,17 @@
         },
         "EDITOR": {
           "status": "working",
-          "current_task": "Selected complete sentence-aligned highlight: 7.72s -> 25.68s (17.96s)",
+          "current_task": "Selected complete sentence-aligned highlight: 0.00s -> 20.56s (20.56s)",
           "last_completed_task": "Rendered 'hp buffed' rage highlight with kinetic pop captions & commentary",
           "recent_logs": [
-            "[11:15:45] Rendering gaming_split Short with captions: Giant Evolution [Overtime Batt",
-            "[13:09:13] Downloading 1080p highlight segment (*60-240) for: Mirror Evolution [Highlight]...",
-            "[13:09:26] Rendering gaming_split Short with captions: Mirror Evolution [Highlight]",
             "[13:11:15] Downloading 1080p highlight segment (*300-480) for: Mirror Evolution [Clutch Moment]...",
             "[13:11:27] Rendering gaming_split Short with captions: Mirror Evolution [Clutch Momen",
             "[15:07:01] Downloading 1080p60 highlight segment (*597-645) for: the last hope [ken weasels in club ...",
             "[15:07:35] Rendering V3 60FPS Zero-Crop Short: the last hope [ken weasels in club ",
-            "[15:07:49] Selected complete sentence-aligned highlight: 7.72s -> 25.68s (17.96s)"
+            "[15:07:49] Selected complete sentence-aligned highlight: 7.72s -> 25.68s (17.96s)",
+            "[15:11:25] Downloading 1080p60 highlight segment (*960-998) for: chaos mega draft, but I pick win co...",
+            "[15:11:29] Rendering V3 60FPS Zero-Crop Short: chaos mega draft, but I pick win co",
+            "[15:11:36] Selected complete sentence-aligned highlight: 0.00s -> 20.56s (20.56s)"
           ]
         },
         "COMMENTATOR": {
@@ -200,7 +200,7 @@
             "url": "https://www.youtube.com/watch?v=BOLEIbXcOOM",
             "section": "*960-998",
             "duration": 1000,
-            "status": "QUEUED",
+            "status": "PROCESSING",
             "added_at": "2026-10-31T18:53:12Z"
           },
           {
@@ -400,6 +400,17 @@
             "duration": 1653,
             "status": "QUEUED",
             "added_at": "2026-10-31T19:06:45Z"
+          },
+          {
+            "id": "ken_1793473871_0",
+            "creator": "Ken",
+            "title": "chaos mega draft, but I pick air [It only took for Ken to forget the entire premis (163 likes)]",
+            "source_title": "chaos mega draft, but I pick air",
+            "url": "https://www.youtube.com/watch?v=LR5jmisfQo0",
+            "section": "*43-91",
+            "duration": 1312,
+            "status": "QUEUED",
+            "added_at": "2026-10-31T19:11:08Z"
           }
         ],
         "processing": null,
@@ -7148,14 +7159,14 @@
       "current_task": "Ingested 1 fresh Ken clip candidate(s) into queue.",
       "last_completed_task": "Ingested 5 recent Ken master videos into source pool",
       "recent_logs": [
-        "[14:53:30] Ingested 24 fresh Ken clip candidate(s) into queue.",
-        "[15:06:31] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
-        "[15:06:48] Mined 4 crowd-upvoted comment timestamps for: chaos mega draft, but I pick a",
-        "[15:06:51] Mined 4 crowd-upvoted comment timestamps for: chaos mega draft, but I pick w",
-        "[15:06:54] Mined 4 crowd-upvoted comment timestamps for: the last hope",
-        "[15:06:58] Mined 4 crowd-upvoted comment timestamps for: I don't care",
-        "[15:07:01] Mined 4 crowd-upvoted comment timestamps for: 2.9 fatherless cycle",
-        "[15:07:01] Ingested 1 fresh Ken clip candidate(s) into queue."
+        "[15:07:01] Ingested 1 fresh Ken clip candidate(s) into queue.",
+        "[15:10:56] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
+        "[15:11:11] Mined 4 crowd-upvoted comment timestamps for: chaos mega draft, but I pick a",
+        "[15:11:14] Mined 4 crowd-upvoted comment timestamps for: chaos mega draft, but I pick w",
+        "[15:11:17] Mined 4 crowd-upvoted comment timestamps for: the last hope",
+        "[15:11:22] Mined 4 crowd-upvoted comment timestamps for: I don't care",
+        "[15:11:25] Mined 4 crowd-upvoted comment timestamps for: 2.9 fatherless cycle",
+        "[15:11:25] Ingested 1 fresh Ken clip candidate(s) into queue."
       ]
     },
     "STRATEGIST": {
@@ -7175,17 +7186,17 @@
     },
     "EDITOR": {
       "status": "working",
-      "current_task": "Selected complete sentence-aligned highlight: 7.72s -> 25.68s (17.96s)",
+      "current_task": "Selected complete sentence-aligned highlight: 0.00s -> 20.56s (20.56s)",
       "last_completed_task": "Rendered 'hp buffed' rage highlight with kinetic pop captions & commentary",
       "recent_logs": [
-        "[11:15:45] Rendering gaming_split Short with captions: Giant Evolution [Overtime Batt",
-        "[13:09:13] Downloading 1080p highlight segment (*60-240) for: Mirror Evolution [Highlight]...",
-        "[13:09:26] Rendering gaming_split Short with captions: Mirror Evolution [Highlight]",
         "[13:11:15] Downloading 1080p highlight segment (*300-480) for: Mirror Evolution [Clutch Moment]...",
         "[13:11:27] Rendering gaming_split Short with captions: Mirror Evolution [Clutch Momen",
         "[15:07:01] Downloading 1080p60 highlight segment (*597-645) for: the last hope [ken weasels in club ...",
         "[15:07:35] Rendering V3 60FPS Zero-Crop Short: the last hope [ken weasels in club ",
-        "[15:07:49] Selected complete sentence-aligned highlight: 7.72s -> 25.68s (17.96s)"
+        "[15:07:49] Selected complete sentence-aligned highlight: 7.72s -> 25.68s (17.96s)",
+        "[15:11:25] Downloading 1080p60 highlight segment (*960-998) for: chaos mega draft, but I pick win co...",
+        "[15:11:29] Rendering V3 60FPS Zero-Crop Short: chaos mega draft, but I pick win co",
+        "[15:11:36] Selected complete sentence-aligned highlight: 0.00s -> 20.56s (20.56s)"
       ]
     },
     "COMMENTATOR": {
@@ -7253,7 +7264,7 @@
         "url": "https://www.youtube.com/watch?v=BOLEIbXcOOM",
         "section": "*960-998",
         "duration": 1000,
-        "status": "QUEUED",
+        "status": "PROCESSING",
         "added_at": "2026-10-31T18:53:12Z"
       },
       {
@@ -7453,6 +7464,17 @@
         "duration": 1653,
         "status": "QUEUED",
         "added_at": "2026-10-31T19:06:45Z"
+      },
+      {
+        "id": "ken_1793473871_0",
+        "creator": "Ken",
+        "title": "chaos mega draft, but I pick air [It only took for Ken to forget the entire premis (163 likes)]",
+        "source_title": "chaos mega draft, but I pick air",
+        "url": "https://www.youtube.com/watch?v=LR5jmisfQo0",
+        "section": "*43-91",
+        "duration": 1312,
+        "status": "QUEUED",
+        "added_at": "2026-10-31T19:11:08Z"
       }
     ],
     "processing": null,

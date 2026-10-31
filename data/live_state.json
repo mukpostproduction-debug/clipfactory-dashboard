@@ -1,6 +1,6 @@
 {
-  "timestamp": 1793473961.232638,
-  "sync_time_iso": "2026-10-31T19:12:41Z",
+  "timestamp": 1793473967.5018802,
+  "sync_time_iso": "2026-10-31T19:12:47Z",
   "default_channel": "ken_clips_burger",
   "channels": {
     "ken_clips_burger": {
@@ -146,17 +146,17 @@
         },
         "PUBLISHER": {
           "status": "working",
-          "current_task": "Deploying to YouTube (@kenclipsburger420) for release 06:30 PM ET (Mon, Nov 02)...",
+          "current_task": "Short SCHEDULED on YouTube: 4tMBDx6ura8 (06:30 PM ET (Mon, Nov 02))",
           "last_completed_task": "Uploaded all 3 initial Clash Royale gaming cuts to YouTube (kenclipsburger420)",
           "recent_logs": [
-            "[13:12:15] Generating gaming A/B metadata for slot: 11:30 AM ET (Tue, Oct 27)...",
             "[13:12:22] Deploying to YouTube (@kenclipsburger420) for release 11:30 AM ET (Tue, Oct 27)...",
             "[13:12:27] Short SCHEDULED on YouTube: WsoFhfilcnY (11:30 AM ET (Tue, Oct 27))",
             "[15:08:27] Generating gaming A/B metadata for slot: 12:30 PM ET (Mon, Nov 02)...",
             "[15:08:39] Deploying to YouTube (@kenclipsburger420) for release 12:30 PM ET (Mon, Nov 02)...",
             "[15:08:47] Short SCHEDULED on YouTube: -L0wH4FffO4 (12:30 PM ET (Mon, Nov 02))",
             "[15:12:26] Generating gaming A/B metadata for slot: 06:30 PM ET (Mon, Nov 02)...",
-            "[15:12:31] Deploying to YouTube (@kenclipsburger420) for release 06:30 PM ET (Mon, Nov 02)..."
+            "[15:12:31] Deploying to YouTube (@kenclipsburger420) for release 06:30 PM ET (Mon, Nov 02)...",
+            "[15:12:47] Short SCHEDULED on YouTube: 4tMBDx6ura8 (06:30 PM ET (Mon, Nov 02))"
           ]
         },
         "ANALYST": {
@@ -192,17 +192,6 @@
       },
       "queue": {
         "queue": [
-          {
-            "id": "ken_1793472799_7",
-            "creator": "Ken",
-            "title": "chaos mega draft, but I pick win conditions [Ken's last braincell after realising his deck ha (350 likes)]",
-            "source_title": "chaos mega draft, but I pick win conditions",
-            "url": "https://www.youtube.com/watch?v=BOLEIbXcOOM",
-            "section": "*960-998",
-            "duration": 1000,
-            "status": "PROCESSING",
-            "added_at": "2026-10-31T18:53:12Z"
-          },
           {
             "id": "ken_1793472802_8",
             "creator": "Ken",
@@ -1427,6 +1416,19 @@
             "added_at": "2026-10-31T18:53:12Z",
             "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/06_STUDIO_SOFTWARE_&_LABS/clipfactory/storage/cuts/ken_1793472802_9_master.mp4",
             "youtube_video_id": "-L0wH4FffO4"
+          },
+          {
+            "id": "ken_1793472799_7",
+            "creator": "Ken",
+            "title": "chaos mega draft, but I pick win conditions [Ken's last braincell after realising his deck ha (350 likes)]",
+            "source_title": "chaos mega draft, but I pick win conditions",
+            "url": "https://www.youtube.com/watch?v=BOLEIbXcOOM",
+            "section": "*960-998",
+            "duration": 1000,
+            "status": "COMPLETED",
+            "added_at": "2026-10-31T18:53:12Z",
+            "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/06_STUDIO_SOFTWARE_&_LABS/clipfactory/storage/cuts/ken_1793472799_7_master.mp4",
+            "youtube_video_id": "4tMBDx6ura8"
           }
         ]
       },
@@ -1531,6 +1533,71 @@
                   "variant": "A",
                   "title": "Why Club Penguin DESTROYS Clash Royale...",
                   "deployed_at": 1793473719.9038029,
+                  "reason": "Initial A/B test deployment"
+                }
+              ],
+              "metrics": {
+                "views": 0,
+                "likes": 0,
+                "comments": 0,
+                "retention": 0.0,
+                "ctr": 0.0
+              }
+            },
+            "reframed": "gaming_split"
+          },
+          {
+            "id": "ken_1793472799_7",
+            "source_video": "chaos mega draft, but I pick win conditions [Ken's last braincell after realising his deck ha (350 likes)]",
+            "creator": "Ken",
+            "title": "How did he actually pull this off?",
+            "publish_at": "2026-11-02T23:30:00Z",
+            "status": "SCHEDULED",
+            "uploaded": true,
+            "youtube_video_id": "4tMBDx6ura8",
+            "youtube_url": "https://www.youtube.com/shorts/4tMBDx6ura8",
+            "video_file": "ken_1793472799_7_master.mp4",
+            "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/06_STUDIO_SOFTWARE_&_LABS/clipfactory/storage/cuts/ken_1793472799_7_master.mp4",
+            "duration": 20.56,
+            "hook_summary": "Full self-contained clip",
+            "metadata": {
+              "title": "How did he actually pull this off?",
+              "description": "You won't believe how the sequence actually played out in the end. Ken breaks down the exact moment everything flipped.\n\n\u2022 Uncovers the hidden pattern behind the play\n\u2022 Analyzes the exact sequence that sealed the outcome\n\u2022 Breaks down why the setup worked so seamlessly\n\nFeaturing: Ken\n\nWhat would you have done differently in this exact spot?\n\n#shorts #gaming #strategy #ken #mobilegaming #gameplay",
+              "tags": [
+                "ken",
+                "gaming shorts",
+                "mobile gaming",
+                "strategy guide",
+                "pro tips",
+                "gameplay analysis",
+                "top player",
+                "meta breakdown"
+              ],
+              "pinned_comment": "Be honest: would you have choked under this much pressure, or is this an easy read?",
+              "ab_variants": {
+                "A": {
+                  "angle": "Curiosity Gap",
+                  "title": "How did he actually pull this off?",
+                  "description": "You won't believe how the sequence actually played out in the end. Ken breaks down the exact moment everything flipped.\n\n\u2022 Uncovers the hidden pattern behind the play\n\u2022 Analyzes the exact sequence that sealed the outcome\n\u2022 Breaks down why the setup worked so seamlessly\n\nFeaturing: Ken\n\nWhat would you have done differently in this exact spot?\n\n#shorts #gaming #strategy #ken #mobilegaming #gameplay"
+                },
+                "B": {
+                  "angle": "Contrarian Truth",
+                  "title": "Most players are totally reading this wrong.",
+                  "description": "Everyone thinks they know how this works, but the reality is completely different. Ken exposes the truth behind the meta.\n\n\u2022 Debunks the most common misconception on the ladder\n\u2022 Reveals the hidden dynamic deciding every major matchup\n\u2022 Shows why standard advice is holding you back\n\nFeaturing: Ken\n\nAre you still making this massive mistake?\n\n#shorts #gaming #strategy #ken #mobilegaming #meta"
+                },
+                "C": {
+                  "angle": "Actionable Protocol",
+                  "title": "The exact blueprint for endless wins.",
+                  "description": "Want to lock in every single time? Ken shares the repeatable framework you need to start using right now.\n\n\u2022 Master the step-by-step execution protocol\n\u2022 Learn how to secure a generational advantage\n\u2022 Apply the ultimate high-level consistency strategy\n\nFeaturing: Ken\n\nWhat is your go-to strategy when the pressure is on?\n\n#shorts #gaming #strategy #ken #mobilegaming #protips"
+                }
+              },
+              "active_variant": "A",
+              "test_status": "ACTIVE_TEST",
+              "variant_history": [
+                {
+                  "variant": "A",
+                  "title": "How did he actually pull this off?",
+                  "deployed_at": 1793473951.628737,
                   "reason": "Initial A/B test deployment"
                 }
               ],
@@ -7210,17 +7277,17 @@
     },
     "PUBLISHER": {
       "status": "working",
-      "current_task": "Deploying to YouTube (@kenclipsburger420) for release 06:30 PM ET (Mon, Nov 02)...",
+      "current_task": "Short SCHEDULED on YouTube: 4tMBDx6ura8 (06:30 PM ET (Mon, Nov 02))",
       "last_completed_task": "Uploaded all 3 initial Clash Royale gaming cuts to YouTube (kenclipsburger420)",
       "recent_logs": [
-        "[13:12:15] Generating gaming A/B metadata for slot: 11:30 AM ET (Tue, Oct 27)...",
         "[13:12:22] Deploying to YouTube (@kenclipsburger420) for release 11:30 AM ET (Tue, Oct 27)...",
         "[13:12:27] Short SCHEDULED on YouTube: WsoFhfilcnY (11:30 AM ET (Tue, Oct 27))",
         "[15:08:27] Generating gaming A/B metadata for slot: 12:30 PM ET (Mon, Nov 02)...",
         "[15:08:39] Deploying to YouTube (@kenclipsburger420) for release 12:30 PM ET (Mon, Nov 02)...",
         "[15:08:47] Short SCHEDULED on YouTube: -L0wH4FffO4 (12:30 PM ET (Mon, Nov 02))",
         "[15:12:26] Generating gaming A/B metadata for slot: 06:30 PM ET (Mon, Nov 02)...",
-        "[15:12:31] Deploying to YouTube (@kenclipsburger420) for release 06:30 PM ET (Mon, Nov 02)..."
+        "[15:12:31] Deploying to YouTube (@kenclipsburger420) for release 06:30 PM ET (Mon, Nov 02)...",
+        "[15:12:47] Short SCHEDULED on YouTube: 4tMBDx6ura8 (06:30 PM ET (Mon, Nov 02))"
       ]
     },
     "ANALYST": {
@@ -7256,17 +7323,6 @@
   },
   "queue": {
     "queue": [
-      {
-        "id": "ken_1793472799_7",
-        "creator": "Ken",
-        "title": "chaos mega draft, but I pick win conditions [Ken's last braincell after realising his deck ha (350 likes)]",
-        "source_title": "chaos mega draft, but I pick win conditions",
-        "url": "https://www.youtube.com/watch?v=BOLEIbXcOOM",
-        "section": "*960-998",
-        "duration": 1000,
-        "status": "PROCESSING",
-        "added_at": "2026-10-31T18:53:12Z"
-      },
       {
         "id": "ken_1793472802_8",
         "creator": "Ken",
@@ -8491,6 +8547,19 @@
         "added_at": "2026-10-31T18:53:12Z",
         "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/06_STUDIO_SOFTWARE_&_LABS/clipfactory/storage/cuts/ken_1793472802_9_master.mp4",
         "youtube_video_id": "-L0wH4FffO4"
+      },
+      {
+        "id": "ken_1793472799_7",
+        "creator": "Ken",
+        "title": "chaos mega draft, but I pick win conditions [Ken's last braincell after realising his deck ha (350 likes)]",
+        "source_title": "chaos mega draft, but I pick win conditions",
+        "url": "https://www.youtube.com/watch?v=BOLEIbXcOOM",
+        "section": "*960-998",
+        "duration": 1000,
+        "status": "COMPLETED",
+        "added_at": "2026-10-31T18:53:12Z",
+        "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/06_STUDIO_SOFTWARE_&_LABS/clipfactory/storage/cuts/ken_1793472799_7_master.mp4",
+        "youtube_video_id": "4tMBDx6ura8"
       }
     ]
   },
@@ -8595,6 +8664,71 @@
               "variant": "A",
               "title": "Why Club Penguin DESTROYS Clash Royale...",
               "deployed_at": 1793473719.9038029,
+              "reason": "Initial A/B test deployment"
+            }
+          ],
+          "metrics": {
+            "views": 0,
+            "likes": 0,
+            "comments": 0,
+            "retention": 0.0,
+            "ctr": 0.0
+          }
+        },
+        "reframed": "gaming_split"
+      },
+      {
+        "id": "ken_1793472799_7",
+        "source_video": "chaos mega draft, but I pick win conditions [Ken's last braincell after realising his deck ha (350 likes)]",
+        "creator": "Ken",
+        "title": "How did he actually pull this off?",
+        "publish_at": "2026-11-02T23:30:00Z",
+        "status": "SCHEDULED",
+        "uploaded": true,
+        "youtube_video_id": "4tMBDx6ura8",
+        "youtube_url": "https://www.youtube.com/shorts/4tMBDx6ura8",
+        "video_file": "ken_1793472799_7_master.mp4",
+        "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/06_STUDIO_SOFTWARE_&_LABS/clipfactory/storage/cuts/ken_1793472799_7_master.mp4",
+        "duration": 20.56,
+        "hook_summary": "Full self-contained clip",
+        "metadata": {
+          "title": "How did he actually pull this off?",
+          "description": "You won't believe how the sequence actually played out in the end. Ken breaks down the exact moment everything flipped.\n\n\u2022 Uncovers the hidden pattern behind the play\n\u2022 Analyzes the exact sequence that sealed the outcome\n\u2022 Breaks down why the setup worked so seamlessly\n\nFeaturing: Ken\n\nWhat would you have done differently in this exact spot?\n\n#shorts #gaming #strategy #ken #mobilegaming #gameplay",
+          "tags": [
+            "ken",
+            "gaming shorts",
+            "mobile gaming",
+            "strategy guide",
+            "pro tips",
+            "gameplay analysis",
+            "top player",
+            "meta breakdown"
+          ],
+          "pinned_comment": "Be honest: would you have choked under this much pressure, or is this an easy read?",
+          "ab_variants": {
+            "A": {
+              "angle": "Curiosity Gap",
+              "title": "How did he actually pull this off?",
+              "description": "You won't believe how the sequence actually played out in the end. Ken breaks down the exact moment everything flipped.\n\n\u2022 Uncovers the hidden pattern behind the play\n\u2022 Analyzes the exact sequence that sealed the outcome\n\u2022 Breaks down why the setup worked so seamlessly\n\nFeaturing: Ken\n\nWhat would you have done differently in this exact spot?\n\n#shorts #gaming #strategy #ken #mobilegaming #gameplay"
+            },
+            "B": {
+              "angle": "Contrarian Truth",
+              "title": "Most players are totally reading this wrong.",
+              "description": "Everyone thinks they know how this works, but the reality is completely different. Ken exposes the truth behind the meta.\n\n\u2022 Debunks the most common misconception on the ladder\n\u2022 Reveals the hidden dynamic deciding every major matchup\n\u2022 Shows why standard advice is holding you back\n\nFeaturing: Ken\n\nAre you still making this massive mistake?\n\n#shorts #gaming #strategy #ken #mobilegaming #meta"
+            },
+            "C": {
+              "angle": "Actionable Protocol",
+              "title": "The exact blueprint for endless wins.",
+              "description": "Want to lock in every single time? Ken shares the repeatable framework you need to start using right now.\n\n\u2022 Master the step-by-step execution protocol\n\u2022 Learn how to secure a generational advantage\n\u2022 Apply the ultimate high-level consistency strategy\n\nFeaturing: Ken\n\nWhat is your go-to strategy when the pressure is on?\n\n#shorts #gaming #strategy #ken #mobilegaming #protips"
+            }
+          },
+          "active_variant": "A",
+          "test_status": "ACTIVE_TEST",
+          "variant_history": [
+            {
+              "variant": "A",
+              "title": "How did he actually pull this off?",
+              "deployed_at": 1793473951.628737,
               "reason": "Initial A/B test deployment"
             }
           ],

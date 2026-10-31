@@ -1,6 +1,6 @@
 {
-  "timestamp": 1793474700.170384,
-  "sync_time_iso": "2026-10-31T19:25:00Z",
+  "timestamp": 1793474704.237549,
+  "sync_time_iso": "2026-10-31T19:25:04Z",
   "default_channel": "ken_clips_burger",
   "channels": {
     "ken_clips_burger": {
@@ -146,17 +146,17 @@
         },
         "PUBLISHER": {
           "status": "working",
-          "current_task": "Deploying to YouTube (@kenclipsburger420) for release 12:30 PM ET (Wed, Nov 04)...",
+          "current_task": "Short SCHEDULED on YouTube: Hhi3BDglQRI (12:30 PM ET (Wed, Nov 04))",
           "last_completed_task": "Uploaded all 3 initial Clash Royale gaming cuts to YouTube (kenclipsburger420)",
           "recent_logs": [
-            "[15:17:00] Generating gaming A/B metadata for slot: 12:30 PM ET (Tue, Nov 03)...",
             "[15:17:09] Deploying to YouTube (@kenclipsburger420) for release 12:30 PM ET (Tue, Nov 03)...",
             "[15:17:20] Short SCHEDULED on YouTube: kCsVsIlzU1M (12:30 PM ET (Tue, Nov 03))",
             "[15:20:27] Generating gaming A/B metadata for slot: 06:30 PM ET (Tue, Nov 03)...",
             "[15:20:31] Deploying to YouTube (@kenclipsburger420) for release 06:30 PM ET (Tue, Nov 03)...",
             "[15:20:41] Short SCHEDULED on YouTube: 8JA6BpoH7to (06:30 PM ET (Tue, Nov 03))",
             "[15:24:42] Generating gaming A/B metadata for slot: 12:30 PM ET (Wed, Nov 04)...",
-            "[15:24:54] Deploying to YouTube (@kenclipsburger420) for release 12:30 PM ET (Wed, Nov 04)..."
+            "[15:24:54] Deploying to YouTube (@kenclipsburger420) for release 12:30 PM ET (Wed, Nov 04)...",
+            "[15:25:04] Short SCHEDULED on YouTube: Hhi3BDglQRI (12:30 PM ET (Wed, Nov 04))"
           ]
         },
         "ANALYST": {
@@ -192,17 +192,6 @@
       },
       "queue": {
         "queue": [
-          {
-            "id": "ken_1793472796_0",
-            "creator": "Ken",
-            "title": "chaos mega draft, but I pick air [\"30 seconds left\" says Ken, just as the timer fl (162 likes)]",
-            "source_title": "chaos mega draft, but I pick air",
-            "url": "https://www.youtube.com/watch?v=LR5jmisfQo0",
-            "section": "*275-323",
-            "duration": 1312,
-            "status": "PROCESSING",
-            "added_at": "2026-10-31T18:53:12Z"
-          },
           {
             "id": "ken_1793472810_21",
             "creator": "Ken",
@@ -1433,6 +1422,19 @@
             "added_at": "2026-10-31T18:53:12Z",
             "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/06_STUDIO_SOFTWARE_&_LABS/clipfactory/storage/cuts/ken_1793472796_3_master.mp4",
             "youtube_video_id": "8JA6BpoH7to"
+          },
+          {
+            "id": "ken_1793472796_0",
+            "creator": "Ken",
+            "title": "chaos mega draft, but I pick air [\"30 seconds left\" says Ken, just as the timer fl (162 likes)]",
+            "source_title": "chaos mega draft, but I pick air",
+            "url": "https://www.youtube.com/watch?v=LR5jmisfQo0",
+            "section": "*275-323",
+            "duration": 1312,
+            "status": "COMPLETED",
+            "added_at": "2026-10-31T18:53:12Z",
+            "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/06_STUDIO_SOFTWARE_&_LABS/clipfactory/storage/cuts/ken_1793472796_0_master.mp4",
+            "youtube_video_id": "Hhi3BDglQRI"
           }
         ]
       },
@@ -1734,6 +1736,72 @@
                   "variant": "A",
                   "title": "He actually ended it right here...",
                   "deployed_at": 1793474431.949075,
+                  "reason": "Initial A/B test deployment"
+                }
+              ],
+              "metrics": {
+                "views": 0,
+                "likes": 0,
+                "comments": 0,
+                "retention": 0.0,
+                "ctr": 0.0
+              }
+            },
+            "reframed": "gaming_split"
+          },
+          {
+            "id": "ken_1793472796_0",
+            "source_video": "chaos mega draft, but I pick air [\"30 seconds left\" says Ken, just as the timer fl (162 likes)]",
+            "creator": "Ken",
+            "title": "He said he couldn't lose... then this happened",
+            "publish_at": "2026-11-04T17:30:00Z",
+            "status": "SCHEDULED",
+            "uploaded": true,
+            "youtube_video_id": "Hhi3BDglQRI",
+            "youtube_url": "https://www.youtube.com/shorts/Hhi3BDglQRI",
+            "video_file": "ken_1793472796_0_master.mp4",
+            "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/06_STUDIO_SOFTWARE_&_LABS/clipfactory/storage/cuts/ken_1793472796_0_master.mp4",
+            "duration": 17.02,
+            "hook_summary": "The creator makes a high-stakes claim that he would need a 'severe misplay' to lose, building instant tension before an aggressive all-air victory.",
+            "metadata": {
+              "title": "He said he couldn't lose... then this happened",
+              "description": "With only 30 seconds on the clock, victory seemed mathematically guaranteed\u2014until a shocking turn of events changed everything. Watch how this high-stakes match reaches its absolute limit.\n\n\u2022 Discover how sudden overconfidence instantly flips a winning match\n\u2022 Analyze the exact 30-second warning sign that signals a massive choke\n\u2022 See how aggressive aerial tactics secure a jaw-dropping finish\n\nFeaturing: Ken\n\nWould you have played it safe with 30 seconds left, or gone for the aggressive aerial win like Ken?\n\n#shorts #gaming #ken #clashroyale #mobilegaming #viral",
+              "tags": [
+                "Clash Royale",
+                "Ken",
+                "Clash Royale Ken",
+                "Gaming Shorts",
+                "Clutch Gameplay",
+                "Mobile Gaming",
+                "Clash Royale Moments",
+                "Pro Gameplay",
+                "Gaming Strategy"
+              ],
+              "pinned_comment": "Be honest: would you have choked this game, or are you pulling off the same aggressive air attack? Let's settle it in the replies.",
+              "ab_variants": {
+                "A": {
+                  "angle": "Curiosity Gap",
+                  "title": "He said he couldn't lose... then this happened",
+                  "description": "With only 30 seconds on the clock, victory seemed mathematically guaranteed\u2014until a shocking turn of events changed everything. Watch how this high-stakes match reaches its absolute limit.\n\n\u2022 Discover how sudden overconfidence instantly flips a winning match\n\u2022 Analyze the exact 30-second warning sign that signals a massive choke\n\u2022 See how aggressive aerial tactics secure a jaw-dropping finish\n\nFeaturing: Ken\n\nWould you have played it safe with 30 seconds left, or gone for the aggressive aerial win like Ken?\n\n#shorts #gaming #ken #clashroyale #mobilegaming #viral"
+                },
+                "B": {
+                  "angle": "Contrarian Truth",
+                  "title": "Never say 'I can't lose' in this game",
+                  "description": "Gamers always think a massive lead protects them, but ego is the fastest way to blow a secure win. This chaotic finish proves that no lead is ever truly safe.\n\n\u2022 Why calling an easy win early invites total disaster\n\u2022 The psychological trap of playing too relaxed under a timer\n\u2022 How to capitalize instantly when your opponent gets too cocky\n\nFeaturing: Ken\n\nHas a player ever cost themselves a guaranteed win against you just because they got too arrogant?\n\n#shorts #gaming #ken #clashroyale #strategy #gamingmoments"
+                },
+                "C": {
+                  "angle": "Actionable Protocol",
+                  "title": "How to clutch a win with 30 seconds left",
+                  "description": "Mastering high-pressure endgame scenarios separates casual players from elite competitors. Learn the mindset needed to lock down a chaotic final minute without crumbling.\n\n\u2022 Step-by-step mental focus required during the final 30 seconds\n\u2022 How to execute a relentless all-air assault under extreme pressure\n\u2022 Avoiding the fatal 'severe misplay' when victory is right in front of you\n\nFeaturing: Ken\n\nWhat is your go-to strategy for clutching out a game when the clock is running out?\n\n#shorts #gaming #ken #clashroyale #protips #mobilegaming"
+                }
+              },
+              "active_variant": "A",
+              "test_status": "ACTIVE_TEST",
+              "variant_history": [
+                {
+                  "variant": "A",
+                  "title": "He said he couldn't lose... then this happened",
+                  "deployed_at": 1793474694.0818949,
                   "reason": "Initial A/B test deployment"
                 }
               ],
@@ -7413,17 +7481,17 @@
     },
     "PUBLISHER": {
       "status": "working",
-      "current_task": "Deploying to YouTube (@kenclipsburger420) for release 12:30 PM ET (Wed, Nov 04)...",
+      "current_task": "Short SCHEDULED on YouTube: Hhi3BDglQRI (12:30 PM ET (Wed, Nov 04))",
       "last_completed_task": "Uploaded all 3 initial Clash Royale gaming cuts to YouTube (kenclipsburger420)",
       "recent_logs": [
-        "[15:17:00] Generating gaming A/B metadata for slot: 12:30 PM ET (Tue, Nov 03)...",
         "[15:17:09] Deploying to YouTube (@kenclipsburger420) for release 12:30 PM ET (Tue, Nov 03)...",
         "[15:17:20] Short SCHEDULED on YouTube: kCsVsIlzU1M (12:30 PM ET (Tue, Nov 03))",
         "[15:20:27] Generating gaming A/B metadata for slot: 06:30 PM ET (Tue, Nov 03)...",
         "[15:20:31] Deploying to YouTube (@kenclipsburger420) for release 06:30 PM ET (Tue, Nov 03)...",
         "[15:20:41] Short SCHEDULED on YouTube: 8JA6BpoH7to (06:30 PM ET (Tue, Nov 03))",
         "[15:24:42] Generating gaming A/B metadata for slot: 12:30 PM ET (Wed, Nov 04)...",
-        "[15:24:54] Deploying to YouTube (@kenclipsburger420) for release 12:30 PM ET (Wed, Nov 04)..."
+        "[15:24:54] Deploying to YouTube (@kenclipsburger420) for release 12:30 PM ET (Wed, Nov 04)...",
+        "[15:25:04] Short SCHEDULED on YouTube: Hhi3BDglQRI (12:30 PM ET (Wed, Nov 04))"
       ]
     },
     "ANALYST": {
@@ -7459,17 +7527,6 @@
   },
   "queue": {
     "queue": [
-      {
-        "id": "ken_1793472796_0",
-        "creator": "Ken",
-        "title": "chaos mega draft, but I pick air [\"30 seconds left\" says Ken, just as the timer fl (162 likes)]",
-        "source_title": "chaos mega draft, but I pick air",
-        "url": "https://www.youtube.com/watch?v=LR5jmisfQo0",
-        "section": "*275-323",
-        "duration": 1312,
-        "status": "PROCESSING",
-        "added_at": "2026-10-31T18:53:12Z"
-      },
       {
         "id": "ken_1793472810_21",
         "creator": "Ken",
@@ -8700,6 +8757,19 @@
         "added_at": "2026-10-31T18:53:12Z",
         "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/06_STUDIO_SOFTWARE_&_LABS/clipfactory/storage/cuts/ken_1793472796_3_master.mp4",
         "youtube_video_id": "8JA6BpoH7to"
+      },
+      {
+        "id": "ken_1793472796_0",
+        "creator": "Ken",
+        "title": "chaos mega draft, but I pick air [\"30 seconds left\" says Ken, just as the timer fl (162 likes)]",
+        "source_title": "chaos mega draft, but I pick air",
+        "url": "https://www.youtube.com/watch?v=LR5jmisfQo0",
+        "section": "*275-323",
+        "duration": 1312,
+        "status": "COMPLETED",
+        "added_at": "2026-10-31T18:53:12Z",
+        "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/06_STUDIO_SOFTWARE_&_LABS/clipfactory/storage/cuts/ken_1793472796_0_master.mp4",
+        "youtube_video_id": "Hhi3BDglQRI"
       }
     ]
   },
@@ -9001,6 +9071,72 @@
               "variant": "A",
               "title": "He actually ended it right here...",
               "deployed_at": 1793474431.949075,
+              "reason": "Initial A/B test deployment"
+            }
+          ],
+          "metrics": {
+            "views": 0,
+            "likes": 0,
+            "comments": 0,
+            "retention": 0.0,
+            "ctr": 0.0
+          }
+        },
+        "reframed": "gaming_split"
+      },
+      {
+        "id": "ken_1793472796_0",
+        "source_video": "chaos mega draft, but I pick air [\"30 seconds left\" says Ken, just as the timer fl (162 likes)]",
+        "creator": "Ken",
+        "title": "He said he couldn't lose... then this happened",
+        "publish_at": "2026-11-04T17:30:00Z",
+        "status": "SCHEDULED",
+        "uploaded": true,
+        "youtube_video_id": "Hhi3BDglQRI",
+        "youtube_url": "https://www.youtube.com/shorts/Hhi3BDglQRI",
+        "video_file": "ken_1793472796_0_master.mp4",
+        "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/06_STUDIO_SOFTWARE_&_LABS/clipfactory/storage/cuts/ken_1793472796_0_master.mp4",
+        "duration": 17.02,
+        "hook_summary": "The creator makes a high-stakes claim that he would need a 'severe misplay' to lose, building instant tension before an aggressive all-air victory.",
+        "metadata": {
+          "title": "He said he couldn't lose... then this happened",
+          "description": "With only 30 seconds on the clock, victory seemed mathematically guaranteed\u2014until a shocking turn of events changed everything. Watch how this high-stakes match reaches its absolute limit.\n\n\u2022 Discover how sudden overconfidence instantly flips a winning match\n\u2022 Analyze the exact 30-second warning sign that signals a massive choke\n\u2022 See how aggressive aerial tactics secure a jaw-dropping finish\n\nFeaturing: Ken\n\nWould you have played it safe with 30 seconds left, or gone for the aggressive aerial win like Ken?\n\n#shorts #gaming #ken #clashroyale #mobilegaming #viral",
+          "tags": [
+            "Clash Royale",
+            "Ken",
+            "Clash Royale Ken",
+            "Gaming Shorts",
+            "Clutch Gameplay",
+            "Mobile Gaming",
+            "Clash Royale Moments",
+            "Pro Gameplay",
+            "Gaming Strategy"
+          ],
+          "pinned_comment": "Be honest: would you have choked this game, or are you pulling off the same aggressive air attack? Let's settle it in the replies.",
+          "ab_variants": {
+            "A": {
+              "angle": "Curiosity Gap",
+              "title": "He said he couldn't lose... then this happened",
+              "description": "With only 30 seconds on the clock, victory seemed mathematically guaranteed\u2014until a shocking turn of events changed everything. Watch how this high-stakes match reaches its absolute limit.\n\n\u2022 Discover how sudden overconfidence instantly flips a winning match\n\u2022 Analyze the exact 30-second warning sign that signals a massive choke\n\u2022 See how aggressive aerial tactics secure a jaw-dropping finish\n\nFeaturing: Ken\n\nWould you have played it safe with 30 seconds left, or gone for the aggressive aerial win like Ken?\n\n#shorts #gaming #ken #clashroyale #mobilegaming #viral"
+            },
+            "B": {
+              "angle": "Contrarian Truth",
+              "title": "Never say 'I can't lose' in this game",
+              "description": "Gamers always think a massive lead protects them, but ego is the fastest way to blow a secure win. This chaotic finish proves that no lead is ever truly safe.\n\n\u2022 Why calling an easy win early invites total disaster\n\u2022 The psychological trap of playing too relaxed under a timer\n\u2022 How to capitalize instantly when your opponent gets too cocky\n\nFeaturing: Ken\n\nHas a player ever cost themselves a guaranteed win against you just because they got too arrogant?\n\n#shorts #gaming #ken #clashroyale #strategy #gamingmoments"
+            },
+            "C": {
+              "angle": "Actionable Protocol",
+              "title": "How to clutch a win with 30 seconds left",
+              "description": "Mastering high-pressure endgame scenarios separates casual players from elite competitors. Learn the mindset needed to lock down a chaotic final minute without crumbling.\n\n\u2022 Step-by-step mental focus required during the final 30 seconds\n\u2022 How to execute a relentless all-air assault under extreme pressure\n\u2022 Avoiding the fatal 'severe misplay' when victory is right in front of you\n\nFeaturing: Ken\n\nWhat is your go-to strategy for clutching out a game when the clock is running out?\n\n#shorts #gaming #ken #clashroyale #protips #mobilegaming"
+            }
+          },
+          "active_variant": "A",
+          "test_status": "ACTIVE_TEST",
+          "variant_history": [
+            {
+              "variant": "A",
+              "title": "He said he couldn't lose... then this happened",
+              "deployed_at": 1793474694.0818949,
               "reason": "Initial A/B test deployment"
             }
           ],

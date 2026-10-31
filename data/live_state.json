@@ -1,6 +1,6 @@
 {
-  "timestamp": 1793476242.546581,
-  "sync_time_iso": "2026-10-31T19:50:42Z",
+  "timestamp": 1793476271.9776661,
+  "sync_time_iso": "2026-10-31T19:51:11Z",
   "default_channel": "ken_clips_burger",
   "channels": {
     "ken_clips_burger": {
@@ -146,17 +146,17 @@
         },
         "PUBLISHER": {
           "status": "working",
-          "current_task": "Short SCHEDULED on YouTube: ppciLeLHvmI (06:30 PM ET (Fri, Nov 06))",
+          "current_task": "Short SCHEDULED on YouTube: j7ag2yJDnJg (12:30 PM ET (Sat, Nov 07))",
           "last_completed_task": "Uploaded all 3 initial Clash Royale gaming cuts to YouTube (kenclipsburger420)",
           "recent_logs": [
-            "[15:38:05] Deploying to YouTube (@kenclipsburger420) for release 06:30 PM ET (Thu, Nov 05)...",
-            "[15:38:16] Short SCHEDULED on YouTube: 6M0hN3rrDT4 (06:30 PM ET (Thu, Nov 05))",
-            "[15:42:09] Generating gaming A/B metadata for slot: 12:30 PM ET (Fri, Nov 06)...",
             "[15:42:21] Deploying to YouTube (@kenclipsburger420) for release 12:30 PM ET (Fri, Nov 06)...",
             "[15:42:30] Short SCHEDULED on YouTube: D2dQk2bsNA0 (12:30 PM ET (Fri, Nov 06))",
             "[15:46:29] Generating gaming A/B metadata for slot: 06:30 PM ET (Fri, Nov 06)...",
             "[15:46:37] Deploying to YouTube (@kenclipsburger420) for release 06:30 PM ET (Fri, Nov 06)...",
-            "[15:46:46] Short SCHEDULED on YouTube: ppciLeLHvmI (06:30 PM ET (Fri, Nov 06))"
+            "[15:46:46] Short SCHEDULED on YouTube: ppciLeLHvmI (06:30 PM ET (Fri, Nov 06))",
+            "[15:50:44] Generating gaming A/B metadata for slot: 12:30 PM ET (Sat, Nov 07)...",
+            "[15:50:56] Deploying to YouTube (@kenclipsburger420) for release 12:30 PM ET (Sat, Nov 07)...",
+            "[15:51:11] Short SCHEDULED on YouTube: j7ag2yJDnJg (12:30 PM ET (Sat, Nov 07))"
           ]
         },
         "ANALYST": {
@@ -192,17 +192,6 @@
       },
       "queue": {
         "queue": [
-          {
-            "id": "ken_1793472810_23",
-            "creator": "Ken",
-            "title": "2.9 fatherless cycle [bro threw in a fun fact \ud83d\ude02 (158 likes)]",
-            "source_title": "2.9 fatherless cycle",
-            "url": "https://www.youtube.com/watch?v=Va4Bm6ZbUCo",
-            "section": "*1495-1535",
-            "duration": 1537,
-            "status": "PROCESSING",
-            "added_at": "2026-10-31T18:53:12Z"
-          },
           {
             "id": "ken_1793472810_20",
             "creator": "Ken",
@@ -1445,6 +1434,19 @@
             "added_at": "2026-10-31T18:53:12Z",
             "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/06_STUDIO_SOFTWARE_&_LABS/clipfactory/storage/cuts/ken_1793472807_16_master.mp4",
             "youtube_video_id": "ppciLeLHvmI"
+          },
+          {
+            "id": "ken_1793472810_23",
+            "creator": "Ken",
+            "title": "2.9 fatherless cycle [bro threw in a fun fact \ud83d\ude02 (158 likes)]",
+            "source_title": "2.9 fatherless cycle",
+            "url": "https://www.youtube.com/watch?v=Va4Bm6ZbUCo",
+            "section": "*1495-1535",
+            "duration": 1537,
+            "status": "COMPLETED",
+            "added_at": "2026-10-31T18:53:12Z",
+            "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/06_STUDIO_SOFTWARE_&_LABS/clipfactory/storage/cuts/ken_1793472810_23_master.mp4",
+            "youtube_video_id": "j7ag2yJDnJg"
           }
         ]
       },
@@ -2142,6 +2144,73 @@
                   "variant": "A",
                   "title": "The One Clash Royale Deck Ken Loves...",
                   "deployed_at": 1793475997.886694,
+                  "reason": "Initial A/B test deployment"
+                }
+              ],
+              "metrics": {
+                "views": 0,
+                "likes": 0,
+                "comments": 0,
+                "retention": 0.0,
+                "ctr": 0.0
+              }
+            },
+            "reframed": "gaming_split"
+          },
+          {
+            "id": "ken_1793472810_23",
+            "source_video": "2.9 fatherless cycle [bro threw in a fun fact \ud83d\ude02 (158 likes)]",
+            "creator": "Ken",
+            "title": "Why this matchup is literally impossible to win...",
+            "publish_at": "2026-11-07T17:30:00Z",
+            "status": "SCHEDULED",
+            "uploaded": true,
+            "youtube_video_id": "j7ag2yJDnJg",
+            "youtube_url": "https://www.youtube.com/shorts/j7ag2yJDnJg",
+            "video_file": "ken_1793472810_23_master.mp4",
+            "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/06_STUDIO_SOFTWARE_&_LABS/clipfactory/storage/cuts/ken_1793472810_23_master.mp4",
+            "duration": 20.18,
+            "hook_summary": "Essential discussion and core insight",
+            "metadata": {
+              "title": "Why this matchup is literally impossible to win...",
+              "description": "You won't believe how this completely unwinnable matchup ends for the bowler. Ken breaks down the exact micro-interactions that decide the game before it even starts.\n\n\u2022 Spot the critical positioning mistake most players make\n\u2022 Learn how to punish specific card pairings instantly\n\u2022 Discover the hidden win condition in brutal matchups\n\nFeaturing: Ken\n\nHave you ever completely given up on a match just based on the starting hand, or do you always fight it out?\n\n#shorts #clashroyale #gaming #ken #mobilegaming #strategy",
+              "tags": [
+                "Clash Royale",
+                "Ken Clash Royale",
+                "Clash Royale Gameplay",
+                "Best Clash Royale Deck",
+                "Clash Royale Tips",
+                "Clash Royale Shorts",
+                "Mobile Gaming",
+                "Clash Royale Strategy",
+                "Bowler Gameplay",
+                "Musketeer Clash Royale"
+              ],
+              "pinned_comment": "Be honest: would you have rage-quit in this exact situation, or could you have salvaged the win?",
+              "ab_variants": {
+                "A": {
+                  "angle": "Curiosity Gap",
+                  "title": "Why this matchup is literally impossible to win...",
+                  "description": "You won't believe how this completely unwinnable matchup ends for the bowler. Ken breaks down the exact micro-interactions that decide the game before it even starts.\n\n\u2022 Spot the critical positioning mistake most players make\n\u2022 Learn how to punish specific card pairings instantly\n\u2022 Discover the hidden win condition in brutal matchups\n\nFeaturing: Ken\n\nHave you ever completely given up on a match just based on the starting hand, or do you always fight it out?\n\n#shorts #clashroyale #gaming #ken #mobilegaming #strategy"
+                },
+                "B": {
+                  "angle": "Contrarian Truth",
+                  "title": "Stop playing Bowler until you watch this.",
+                  "description": "Everyone thinks this deck is meta, but Ken proves why relying on it is absolute suicide against a good Musketeer player. The numbers don't lie.\n\n\u2022 Debunking the biggest myth about current meta decks\n\u2022 Why your favorite card is losing you trophies\n\u2022 The brutal reality of high-ladder counter-picking\n\nFeaturing: Ken\n\nIs this card actually garbage now, or are people just playing it completely wrong?\n\n#shorts #clashroyale #gaming #ken #supercell #meta"
+                },
+                "C": {
+                  "angle": "Actionable Protocol",
+                  "title": "Exact steps to counter any Musketeer instantly",
+                  "description": "Want to shut down annoying Musketeer players every single time? Ken drops the definitive strategy guide on how to dismantle them piece by piece.\n\n\u2022 Step-by-step counter placement for maximum value\n\u2022 Timing your elixir trades to completely starve the opponent\n\u2022 Converting defense into an unstoppable counter-push\n\nFeaturing: Ken\n\nWhat is your go-to card when you need to eliminate a backline Musketeer immediately?\n\n#shorts #clashroyale #gaming #ken #mobilegaming #protip"
+                }
+              },
+              "active_variant": "A",
+              "test_status": "ACTIVE_TEST",
+              "variant_history": [
+                {
+                  "variant": "A",
+                  "title": "Why this matchup is literally impossible to win...",
+                  "deployed_at": 1793476256.535788,
                   "reason": "Initial A/B test deployment"
                 }
               ],
@@ -7821,17 +7890,17 @@
     },
     "PUBLISHER": {
       "status": "working",
-      "current_task": "Short SCHEDULED on YouTube: ppciLeLHvmI (06:30 PM ET (Fri, Nov 06))",
+      "current_task": "Short SCHEDULED on YouTube: j7ag2yJDnJg (12:30 PM ET (Sat, Nov 07))",
       "last_completed_task": "Uploaded all 3 initial Clash Royale gaming cuts to YouTube (kenclipsburger420)",
       "recent_logs": [
-        "[15:38:05] Deploying to YouTube (@kenclipsburger420) for release 06:30 PM ET (Thu, Nov 05)...",
-        "[15:38:16] Short SCHEDULED on YouTube: 6M0hN3rrDT4 (06:30 PM ET (Thu, Nov 05))",
-        "[15:42:09] Generating gaming A/B metadata for slot: 12:30 PM ET (Fri, Nov 06)...",
         "[15:42:21] Deploying to YouTube (@kenclipsburger420) for release 12:30 PM ET (Fri, Nov 06)...",
         "[15:42:30] Short SCHEDULED on YouTube: D2dQk2bsNA0 (12:30 PM ET (Fri, Nov 06))",
         "[15:46:29] Generating gaming A/B metadata for slot: 06:30 PM ET (Fri, Nov 06)...",
         "[15:46:37] Deploying to YouTube (@kenclipsburger420) for release 06:30 PM ET (Fri, Nov 06)...",
-        "[15:46:46] Short SCHEDULED on YouTube: ppciLeLHvmI (06:30 PM ET (Fri, Nov 06))"
+        "[15:46:46] Short SCHEDULED on YouTube: ppciLeLHvmI (06:30 PM ET (Fri, Nov 06))",
+        "[15:50:44] Generating gaming A/B metadata for slot: 12:30 PM ET (Sat, Nov 07)...",
+        "[15:50:56] Deploying to YouTube (@kenclipsburger420) for release 12:30 PM ET (Sat, Nov 07)...",
+        "[15:51:11] Short SCHEDULED on YouTube: j7ag2yJDnJg (12:30 PM ET (Sat, Nov 07))"
       ]
     },
     "ANALYST": {
@@ -7867,17 +7936,6 @@
   },
   "queue": {
     "queue": [
-      {
-        "id": "ken_1793472810_23",
-        "creator": "Ken",
-        "title": "2.9 fatherless cycle [bro threw in a fun fact \ud83d\ude02 (158 likes)]",
-        "source_title": "2.9 fatherless cycle",
-        "url": "https://www.youtube.com/watch?v=Va4Bm6ZbUCo",
-        "section": "*1495-1535",
-        "duration": 1537,
-        "status": "PROCESSING",
-        "added_at": "2026-10-31T18:53:12Z"
-      },
       {
         "id": "ken_1793472810_20",
         "creator": "Ken",
@@ -9120,6 +9178,19 @@
         "added_at": "2026-10-31T18:53:12Z",
         "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/06_STUDIO_SOFTWARE_&_LABS/clipfactory/storage/cuts/ken_1793472807_16_master.mp4",
         "youtube_video_id": "ppciLeLHvmI"
+      },
+      {
+        "id": "ken_1793472810_23",
+        "creator": "Ken",
+        "title": "2.9 fatherless cycle [bro threw in a fun fact \ud83d\ude02 (158 likes)]",
+        "source_title": "2.9 fatherless cycle",
+        "url": "https://www.youtube.com/watch?v=Va4Bm6ZbUCo",
+        "section": "*1495-1535",
+        "duration": 1537,
+        "status": "COMPLETED",
+        "added_at": "2026-10-31T18:53:12Z",
+        "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/06_STUDIO_SOFTWARE_&_LABS/clipfactory/storage/cuts/ken_1793472810_23_master.mp4",
+        "youtube_video_id": "j7ag2yJDnJg"
       }
     ]
   },
@@ -9817,6 +9888,73 @@
               "variant": "A",
               "title": "The One Clash Royale Deck Ken Loves...",
               "deployed_at": 1793475997.886694,
+              "reason": "Initial A/B test deployment"
+            }
+          ],
+          "metrics": {
+            "views": 0,
+            "likes": 0,
+            "comments": 0,
+            "retention": 0.0,
+            "ctr": 0.0
+          }
+        },
+        "reframed": "gaming_split"
+      },
+      {
+        "id": "ken_1793472810_23",
+        "source_video": "2.9 fatherless cycle [bro threw in a fun fact \ud83d\ude02 (158 likes)]",
+        "creator": "Ken",
+        "title": "Why this matchup is literally impossible to win...",
+        "publish_at": "2026-11-07T17:30:00Z",
+        "status": "SCHEDULED",
+        "uploaded": true,
+        "youtube_video_id": "j7ag2yJDnJg",
+        "youtube_url": "https://www.youtube.com/shorts/j7ag2yJDnJg",
+        "video_file": "ken_1793472810_23_master.mp4",
+        "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/06_STUDIO_SOFTWARE_&_LABS/clipfactory/storage/cuts/ken_1793472810_23_master.mp4",
+        "duration": 20.18,
+        "hook_summary": "Essential discussion and core insight",
+        "metadata": {
+          "title": "Why this matchup is literally impossible to win...",
+          "description": "You won't believe how this completely unwinnable matchup ends for the bowler. Ken breaks down the exact micro-interactions that decide the game before it even starts.\n\n\u2022 Spot the critical positioning mistake most players make\n\u2022 Learn how to punish specific card pairings instantly\n\u2022 Discover the hidden win condition in brutal matchups\n\nFeaturing: Ken\n\nHave you ever completely given up on a match just based on the starting hand, or do you always fight it out?\n\n#shorts #clashroyale #gaming #ken #mobilegaming #strategy",
+          "tags": [
+            "Clash Royale",
+            "Ken Clash Royale",
+            "Clash Royale Gameplay",
+            "Best Clash Royale Deck",
+            "Clash Royale Tips",
+            "Clash Royale Shorts",
+            "Mobile Gaming",
+            "Clash Royale Strategy",
+            "Bowler Gameplay",
+            "Musketeer Clash Royale"
+          ],
+          "pinned_comment": "Be honest: would you have rage-quit in this exact situation, or could you have salvaged the win?",
+          "ab_variants": {
+            "A": {
+              "angle": "Curiosity Gap",
+              "title": "Why this matchup is literally impossible to win...",
+              "description": "You won't believe how this completely unwinnable matchup ends for the bowler. Ken breaks down the exact micro-interactions that decide the game before it even starts.\n\n\u2022 Spot the critical positioning mistake most players make\n\u2022 Learn how to punish specific card pairings instantly\n\u2022 Discover the hidden win condition in brutal matchups\n\nFeaturing: Ken\n\nHave you ever completely given up on a match just based on the starting hand, or do you always fight it out?\n\n#shorts #clashroyale #gaming #ken #mobilegaming #strategy"
+            },
+            "B": {
+              "angle": "Contrarian Truth",
+              "title": "Stop playing Bowler until you watch this.",
+              "description": "Everyone thinks this deck is meta, but Ken proves why relying on it is absolute suicide against a good Musketeer player. The numbers don't lie.\n\n\u2022 Debunking the biggest myth about current meta decks\n\u2022 Why your favorite card is losing you trophies\n\u2022 The brutal reality of high-ladder counter-picking\n\nFeaturing: Ken\n\nIs this card actually garbage now, or are people just playing it completely wrong?\n\n#shorts #clashroyale #gaming #ken #supercell #meta"
+            },
+            "C": {
+              "angle": "Actionable Protocol",
+              "title": "Exact steps to counter any Musketeer instantly",
+              "description": "Want to shut down annoying Musketeer players every single time? Ken drops the definitive strategy guide on how to dismantle them piece by piece.\n\n\u2022 Step-by-step counter placement for maximum value\n\u2022 Timing your elixir trades to completely starve the opponent\n\u2022 Converting defense into an unstoppable counter-push\n\nFeaturing: Ken\n\nWhat is your go-to card when you need to eliminate a backline Musketeer immediately?\n\n#shorts #clashroyale #gaming #ken #mobilegaming #protip"
+            }
+          },
+          "active_variant": "A",
+          "test_status": "ACTIVE_TEST",
+          "variant_history": [
+            {
+              "variant": "A",
+              "title": "Why this matchup is literally impossible to win...",
+              "deployed_at": 1793476256.535788,
               "reason": "Initial A/B test deployment"
             }
           ],

@@ -1,6 +1,6 @@
 {
-  "timestamp": 1793474946.6051168,
-  "sync_time_iso": "2026-10-31T19:29:06Z",
+  "timestamp": 1793474974.6246011,
+  "sync_time_iso": "2026-10-31T19:29:34Z",
   "default_channel": "ken_clips_burger",
   "channels": {
     "ken_clips_burger": {
@@ -146,17 +146,17 @@
         },
         "PUBLISHER": {
           "status": "working",
-          "current_task": "Short SCHEDULED on YouTube: Hhi3BDglQRI (12:30 PM ET (Wed, Nov 04))",
+          "current_task": "Short SCHEDULED on YouTube: OMsFb2IyTak (06:30 PM ET (Wed, Nov 04))",
           "last_completed_task": "Uploaded all 3 initial Clash Royale gaming cuts to YouTube (kenclipsburger420)",
           "recent_logs": [
-            "[15:17:09] Deploying to YouTube (@kenclipsburger420) for release 12:30 PM ET (Tue, Nov 03)...",
-            "[15:17:20] Short SCHEDULED on YouTube: kCsVsIlzU1M (12:30 PM ET (Tue, Nov 03))",
-            "[15:20:27] Generating gaming A/B metadata for slot: 06:30 PM ET (Tue, Nov 03)...",
             "[15:20:31] Deploying to YouTube (@kenclipsburger420) for release 06:30 PM ET (Tue, Nov 03)...",
             "[15:20:41] Short SCHEDULED on YouTube: 8JA6BpoH7to (06:30 PM ET (Tue, Nov 03))",
             "[15:24:42] Generating gaming A/B metadata for slot: 12:30 PM ET (Wed, Nov 04)...",
             "[15:24:54] Deploying to YouTube (@kenclipsburger420) for release 12:30 PM ET (Wed, Nov 04)...",
-            "[15:25:04] Short SCHEDULED on YouTube: Hhi3BDglQRI (12:30 PM ET (Wed, Nov 04))"
+            "[15:25:04] Short SCHEDULED on YouTube: Hhi3BDglQRI (12:30 PM ET (Wed, Nov 04))",
+            "[15:29:12] Generating gaming A/B metadata for slot: 06:30 PM ET (Wed, Nov 04)...",
+            "[15:29:24] Deploying to YouTube (@kenclipsburger420) for release 06:30 PM ET (Wed, Nov 04)...",
+            "[15:29:34] Short SCHEDULED on YouTube: OMsFb2IyTak (06:30 PM ET (Wed, Nov 04))"
           ]
         },
         "ANALYST": {
@@ -192,17 +192,6 @@
       },
       "queue": {
         "queue": [
-          {
-            "id": "ken_1793472810_21",
-            "creator": "Ken",
-            "title": "2.9 fatherless cycle [i fear ur wrong abt that one kenneth (1300 likes)]",
-            "source_title": "2.9 fatherless cycle",
-            "url": "https://www.youtube.com/watch?v=Va4Bm6ZbUCo",
-            "section": "*314-362",
-            "duration": 1537,
-            "status": "PROCESSING",
-            "added_at": "2026-10-31T18:53:12Z"
-          },
           {
             "id": "ken_1793472810_22",
             "creator": "Ken",
@@ -1435,6 +1424,19 @@
             "added_at": "2026-10-31T18:53:12Z",
             "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/06_STUDIO_SOFTWARE_&_LABS/clipfactory/storage/cuts/ken_1793472796_0_master.mp4",
             "youtube_video_id": "Hhi3BDglQRI"
+          },
+          {
+            "id": "ken_1793472810_21",
+            "creator": "Ken",
+            "title": "2.9 fatherless cycle [i fear ur wrong abt that one kenneth (1300 likes)]",
+            "source_title": "2.9 fatherless cycle",
+            "url": "https://www.youtube.com/watch?v=Va4Bm6ZbUCo",
+            "section": "*314-362",
+            "duration": 1537,
+            "status": "COMPLETED",
+            "added_at": "2026-10-31T18:53:12Z",
+            "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/06_STUDIO_SOFTWARE_&_LABS/clipfactory/storage/cuts/ken_1793472810_21_master.mp4",
+            "youtube_video_id": "OMsFb2IyTak"
           }
         ]
       },
@@ -1802,6 +1804,72 @@
                   "variant": "A",
                   "title": "He said he couldn't lose... then this happened",
                   "deployed_at": 1793474694.0818949,
+                  "reason": "Initial A/B test deployment"
+                }
+              ],
+              "metrics": {
+                "views": 0,
+                "likes": 0,
+                "comments": 0,
+                "retention": 0.0,
+                "ctr": 0.0
+              }
+            },
+            "reframed": "gaming_split"
+          },
+          {
+            "id": "ken_1793472810_21",
+            "source_video": "2.9 fatherless cycle [i fear ur wrong abt that one kenneth (1300 likes)]",
+            "creator": "Ken",
+            "title": "Why Ken Made This Massive Mistake...",
+            "publish_at": "2026-11-04T23:30:00Z",
+            "status": "SCHEDULED",
+            "uploaded": true,
+            "youtube_video_id": "OMsFb2IyTak",
+            "youtube_url": "https://www.youtube.com/shorts/OMsFb2IyTak",
+            "video_file": "ken_1793472810_21_master.mp4",
+            "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/06_STUDIO_SOFTWARE_&_LABS/clipfactory/storage/cuts/ken_1793472810_21_master.mp4",
+            "duration": 21.86,
+            "hook_summary": "Essential discussion and core insight",
+            "metadata": {
+              "title": "Why Ken Made This Massive Mistake...",
+              "description": "Ken thought he had the ultimate strategy locked in, but one tiny miscalculation completely flipped the match. Watch what happens right after the legendary line drops.\n\n* Spot the exact second the strategy completely falls apart\n* Learn the subtle positioning trap that caught Ken off guard\n* See how a single bad call changes the entire endgame\n\nFeaturing: Ken\n\nDid Ken throw the game on purpose here, or was that genuinely just a terrible read? Drop your thoughts below!\n\n#shorts #gaming #ken #gamingshorts #gamingmoments #strategy",
+              "tags": [
+                "Ken gaming",
+                "gaming highlights",
+                "bad iceberg",
+                "gaming tips",
+                "epic gaming moments",
+                "gaming strategy",
+                "Ken shorts",
+                "pro gamer moments",
+                "gaming fails"
+              ],
+              "pinned_comment": "Be honest: would you have recovered from that play, or would you have rage-quit immediately? \ud83d\udc47",
+              "ab_variants": {
+                "A": {
+                  "angle": "Curiosity Gap",
+                  "title": "Why Ken Made This Massive Mistake...",
+                  "description": "Ken thought he had the ultimate strategy locked in, but one tiny miscalculation completely flipped the match. Watch what happens right after the legendary line drops.\n\n* Spot the exact second the strategy completely falls apart\n* Learn the subtle positioning trap that caught Ken off guard\n* See how a single bad call changes the entire endgame\n\nFeaturing: Ken\n\nDid Ken throw the game on purpose here, or was that genuinely just a terrible read? Drop your thoughts below!\n\n#shorts #gaming #ken #gamingshorts #gamingmoments #strategy"
+                },
+                "B": {
+                  "angle": "Contrarian Truth",
+                  "title": "Stop Playing Like This (Ken's Warning)",
+                  "description": "Everyone thinks standard plays are the safest bet, but Ken just proved why the most popular meta strategy is a total trap. Don't make the same mistake.\n\n* Uncover the hidden flaw in standard playstyles\n* Why playing it safe is actually losing you matches\n* The mindset shift needed to avoid bad icebergs\n\nFeaturing: Ken\n\nIs the current meta completely overrated or are players just using it wrong? Let's argue in the comments.\n\n#shorts #gaming #ken #gamingclips #meta #gamingsetup"
+                },
+                "C": {
+                  "angle": "Actionable Protocol",
+                  "title": "How to Avoid Ken's Massive Play Error",
+                  "description": "Want to rank up faster? Study Ken's exact misplay so you know what to avoid when your own match is on the line.\n\n* Break down the warning signs of a failing strategy\n* Step-by-step adjustment when your initial plan fails\n* How to pivot instantly under high pressure\n\nFeaturing: Ken\n\nWhat would your immediate move have been if you were in Ken's position? Tell us below!\n\n#shorts #gaming #ken #protips #gamingcommunity #gamer"
+                }
+              },
+              "active_variant": "A",
+              "test_status": "ACTIVE_TEST",
+              "variant_history": [
+                {
+                  "variant": "A",
+                  "title": "Why Ken Made This Massive Mistake...",
+                  "deployed_at": 1793474964.9035368,
                   "reason": "Initial A/B test deployment"
                 }
               ],
@@ -7481,17 +7549,17 @@
     },
     "PUBLISHER": {
       "status": "working",
-      "current_task": "Short SCHEDULED on YouTube: Hhi3BDglQRI (12:30 PM ET (Wed, Nov 04))",
+      "current_task": "Short SCHEDULED on YouTube: OMsFb2IyTak (06:30 PM ET (Wed, Nov 04))",
       "last_completed_task": "Uploaded all 3 initial Clash Royale gaming cuts to YouTube (kenclipsburger420)",
       "recent_logs": [
-        "[15:17:09] Deploying to YouTube (@kenclipsburger420) for release 12:30 PM ET (Tue, Nov 03)...",
-        "[15:17:20] Short SCHEDULED on YouTube: kCsVsIlzU1M (12:30 PM ET (Tue, Nov 03))",
-        "[15:20:27] Generating gaming A/B metadata for slot: 06:30 PM ET (Tue, Nov 03)...",
         "[15:20:31] Deploying to YouTube (@kenclipsburger420) for release 06:30 PM ET (Tue, Nov 03)...",
         "[15:20:41] Short SCHEDULED on YouTube: 8JA6BpoH7to (06:30 PM ET (Tue, Nov 03))",
         "[15:24:42] Generating gaming A/B metadata for slot: 12:30 PM ET (Wed, Nov 04)...",
         "[15:24:54] Deploying to YouTube (@kenclipsburger420) for release 12:30 PM ET (Wed, Nov 04)...",
-        "[15:25:04] Short SCHEDULED on YouTube: Hhi3BDglQRI (12:30 PM ET (Wed, Nov 04))"
+        "[15:25:04] Short SCHEDULED on YouTube: Hhi3BDglQRI (12:30 PM ET (Wed, Nov 04))",
+        "[15:29:12] Generating gaming A/B metadata for slot: 06:30 PM ET (Wed, Nov 04)...",
+        "[15:29:24] Deploying to YouTube (@kenclipsburger420) for release 06:30 PM ET (Wed, Nov 04)...",
+        "[15:29:34] Short SCHEDULED on YouTube: OMsFb2IyTak (06:30 PM ET (Wed, Nov 04))"
       ]
     },
     "ANALYST": {
@@ -7527,17 +7595,6 @@
   },
   "queue": {
     "queue": [
-      {
-        "id": "ken_1793472810_21",
-        "creator": "Ken",
-        "title": "2.9 fatherless cycle [i fear ur wrong abt that one kenneth (1300 likes)]",
-        "source_title": "2.9 fatherless cycle",
-        "url": "https://www.youtube.com/watch?v=Va4Bm6ZbUCo",
-        "section": "*314-362",
-        "duration": 1537,
-        "status": "PROCESSING",
-        "added_at": "2026-10-31T18:53:12Z"
-      },
       {
         "id": "ken_1793472810_22",
         "creator": "Ken",
@@ -8770,6 +8827,19 @@
         "added_at": "2026-10-31T18:53:12Z",
         "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/06_STUDIO_SOFTWARE_&_LABS/clipfactory/storage/cuts/ken_1793472796_0_master.mp4",
         "youtube_video_id": "Hhi3BDglQRI"
+      },
+      {
+        "id": "ken_1793472810_21",
+        "creator": "Ken",
+        "title": "2.9 fatherless cycle [i fear ur wrong abt that one kenneth (1300 likes)]",
+        "source_title": "2.9 fatherless cycle",
+        "url": "https://www.youtube.com/watch?v=Va4Bm6ZbUCo",
+        "section": "*314-362",
+        "duration": 1537,
+        "status": "COMPLETED",
+        "added_at": "2026-10-31T18:53:12Z",
+        "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/06_STUDIO_SOFTWARE_&_LABS/clipfactory/storage/cuts/ken_1793472810_21_master.mp4",
+        "youtube_video_id": "OMsFb2IyTak"
       }
     ]
   },
@@ -9137,6 +9207,72 @@
               "variant": "A",
               "title": "He said he couldn't lose... then this happened",
               "deployed_at": 1793474694.0818949,
+              "reason": "Initial A/B test deployment"
+            }
+          ],
+          "metrics": {
+            "views": 0,
+            "likes": 0,
+            "comments": 0,
+            "retention": 0.0,
+            "ctr": 0.0
+          }
+        },
+        "reframed": "gaming_split"
+      },
+      {
+        "id": "ken_1793472810_21",
+        "source_video": "2.9 fatherless cycle [i fear ur wrong abt that one kenneth (1300 likes)]",
+        "creator": "Ken",
+        "title": "Why Ken Made This Massive Mistake...",
+        "publish_at": "2026-11-04T23:30:00Z",
+        "status": "SCHEDULED",
+        "uploaded": true,
+        "youtube_video_id": "OMsFb2IyTak",
+        "youtube_url": "https://www.youtube.com/shorts/OMsFb2IyTak",
+        "video_file": "ken_1793472810_21_master.mp4",
+        "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/06_STUDIO_SOFTWARE_&_LABS/clipfactory/storage/cuts/ken_1793472810_21_master.mp4",
+        "duration": 21.86,
+        "hook_summary": "Essential discussion and core insight",
+        "metadata": {
+          "title": "Why Ken Made This Massive Mistake...",
+          "description": "Ken thought he had the ultimate strategy locked in, but one tiny miscalculation completely flipped the match. Watch what happens right after the legendary line drops.\n\n* Spot the exact second the strategy completely falls apart\n* Learn the subtle positioning trap that caught Ken off guard\n* See how a single bad call changes the entire endgame\n\nFeaturing: Ken\n\nDid Ken throw the game on purpose here, or was that genuinely just a terrible read? Drop your thoughts below!\n\n#shorts #gaming #ken #gamingshorts #gamingmoments #strategy",
+          "tags": [
+            "Ken gaming",
+            "gaming highlights",
+            "bad iceberg",
+            "gaming tips",
+            "epic gaming moments",
+            "gaming strategy",
+            "Ken shorts",
+            "pro gamer moments",
+            "gaming fails"
+          ],
+          "pinned_comment": "Be honest: would you have recovered from that play, or would you have rage-quit immediately? \ud83d\udc47",
+          "ab_variants": {
+            "A": {
+              "angle": "Curiosity Gap",
+              "title": "Why Ken Made This Massive Mistake...",
+              "description": "Ken thought he had the ultimate strategy locked in, but one tiny miscalculation completely flipped the match. Watch what happens right after the legendary line drops.\n\n* Spot the exact second the strategy completely falls apart\n* Learn the subtle positioning trap that caught Ken off guard\n* See how a single bad call changes the entire endgame\n\nFeaturing: Ken\n\nDid Ken throw the game on purpose here, or was that genuinely just a terrible read? Drop your thoughts below!\n\n#shorts #gaming #ken #gamingshorts #gamingmoments #strategy"
+            },
+            "B": {
+              "angle": "Contrarian Truth",
+              "title": "Stop Playing Like This (Ken's Warning)",
+              "description": "Everyone thinks standard plays are the safest bet, but Ken just proved why the most popular meta strategy is a total trap. Don't make the same mistake.\n\n* Uncover the hidden flaw in standard playstyles\n* Why playing it safe is actually losing you matches\n* The mindset shift needed to avoid bad icebergs\n\nFeaturing: Ken\n\nIs the current meta completely overrated or are players just using it wrong? Let's argue in the comments.\n\n#shorts #gaming #ken #gamingclips #meta #gamingsetup"
+            },
+            "C": {
+              "angle": "Actionable Protocol",
+              "title": "How to Avoid Ken's Massive Play Error",
+              "description": "Want to rank up faster? Study Ken's exact misplay so you know what to avoid when your own match is on the line.\n\n* Break down the warning signs of a failing strategy\n* Step-by-step adjustment when your initial plan fails\n* How to pivot instantly under high pressure\n\nFeaturing: Ken\n\nWhat would your immediate move have been if you were in Ken's position? Tell us below!\n\n#shorts #gaming #ken #protips #gamingcommunity #gamer"
+            }
+          },
+          "active_variant": "A",
+          "test_status": "ACTIVE_TEST",
+          "variant_history": [
+            {
+              "variant": "A",
+              "title": "Why Ken Made This Massive Mistake...",
+              "deployed_at": 1793474964.9035368,
               "reason": "Initial A/B test deployment"
             }
           ],

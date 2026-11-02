@@ -1,6 +1,6 @@
 {
-  "timestamp": 1793617887.9143229,
-  "sync_time_iso": "2026-11-02T11:11:27Z",
+  "timestamp": 1793617949.684277,
+  "sync_time_iso": "2026-11-02T11:12:29Z",
   "default_channel": "ken_clips_burger",
   "channels": {
     "ken_clips_burger": {
@@ -92,17 +92,17 @@
       "agents": {
         "SCOUT": {
           "status": "working",
-          "current_task": "Queue up to date. Waiting for next daily Ken upload.",
+          "current_task": "Ingested 4 fresh Ken clip candidate(s) into queue.",
           "last_completed_task": "Ingested 5 recent Ken master videos into source pool",
           "recent_logs": [
-            "[06:01:28] Queue up to date. Waiting for next daily Ken upload.",
-            "[06:07:46] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
-            "[06:07:59] Mined 4 crowd-upvoted comment timestamps for: 20 win challenge",
-            "[06:08:01] Mined 4 crowd-upvoted comment timestamps for: chaos mega draft, but I pick a",
-            "[06:08:04] Mined 4 crowd-upvoted comment timestamps for: chaos mega draft, but I pick w",
-            "[06:08:06] Mined 4 crowd-upvoted comment timestamps for: the last hope",
             "[06:08:10] Mined 4 crowd-upvoted comment timestamps for: I don't care",
-            "[06:08:10] Queue up to date. Waiting for next daily Ken upload."
+            "[06:08:10] Queue up to date. Waiting for next daily Ken upload.",
+            "[06:12:04] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
+            "[06:12:20] Mined 4 crowd-upvoted comment timestamps for: 20 win challenge",
+            "[06:12:23] Mined 4 crowd-upvoted comment timestamps for: chaos mega draft, but I pick a",
+            "[06:12:25] Mined 4 crowd-upvoted comment timestamps for: chaos mega draft, but I pick w",
+            "[06:12:27] Mined 4 crowd-upvoted comment timestamps for: the last hope",
+            "[06:12:29] Ingested 4 fresh Ken clip candidate(s) into queue."
           ]
         },
         "STRATEGIST": {
@@ -146,17 +146,17 @@
         },
         "PUBLISHER": {
           "status": "working",
-          "current_task": "Upload staged for automatic retry: ken_1793472810_20",
+          "current_task": "Generating gaming A/B metadata for slot: 06:30 PM ET (Sat, Nov 07)...",
           "last_completed_task": "Uploaded all 3 initial Clash Royale gaming cuts to YouTube (kenclipsburger420)",
           "recent_logs": [
-            "[06:01:29] Generating gaming A/B metadata for slot: 06:30 PM ET (Sat, Nov 07)...",
             "[06:01:48] Deploying to YouTube (@kenclipsburger420) for release 06:30 PM ET (Sat, Nov 07)...",
             "[06:02:05] YouTube upload error: ('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
             "[06:02:05] Upload staged for automatic retry: ken_1793472810_20",
             "[06:08:10] Generating gaming A/B metadata for slot: 06:30 PM ET (Sat, Nov 07)...",
             "[06:08:13] Deploying to YouTube (@kenclipsburger420) for release 06:30 PM ET (Sat, Nov 07)...",
             "[06:08:29] YouTube upload error: ('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
-            "[06:08:29] Upload staged for automatic retry: ken_1793472810_20"
+            "[06:08:29] Upload staged for automatic retry: ken_1793472810_20",
+            "[06:12:29] Generating gaming A/B metadata for slot: 06:30 PM ET (Sat, Nov 07)..."
           ]
         },
         "ANALYST": {
@@ -390,6 +390,50 @@
             "duration": 1000,
             "status": "QUEUED",
             "added_at": "2026-11-02T09:13:59Z"
+          },
+          {
+            "id": "ken_1793617937_0",
+            "creator": "Ken",
+            "title": "Can I beat 20 wins in front of 10,000 viewers? [Match 1 Climax]",
+            "source_title": "Can I beat 20 wins in front of 10,000 viewers?",
+            "url": "https://www.youtube.com/watch?v=hOxZPqFmXf4",
+            "section": "*150-210",
+            "duration": 1003,
+            "status": "QUEUED",
+            "added_at": "2026-11-02T11:12:15Z"
+          },
+          {
+            "id": "ken_1793617937_1",
+            "creator": "Ken",
+            "title": "Can I beat 20 wins in front of 10,000 viewers? [Match 2 Clutch]",
+            "source_title": "Can I beat 20 wins in front of 10,000 viewers?",
+            "url": "https://www.youtube.com/watch?v=hOxZPqFmXf4",
+            "section": "*391-451",
+            "duration": 1003,
+            "status": "QUEUED",
+            "added_at": "2026-11-02T11:12:15Z"
+          },
+          {
+            "id": "ken_1793617937_2",
+            "creator": "Ken",
+            "title": "Can I beat 20 wins in front of 10,000 viewers? [Match 3 Rage]",
+            "source_title": "Can I beat 20 wins in front of 10,000 viewers?",
+            "url": "https://www.youtube.com/watch?v=hOxZPqFmXf4",
+            "section": "*621-681",
+            "duration": 1003,
+            "status": "QUEUED",
+            "added_at": "2026-11-02T11:12:15Z"
+          },
+          {
+            "id": "ken_1793617937_3",
+            "creator": "Ken",
+            "title": "Can I beat 20 wins in front of 10,000 viewers? [Final Overtime Battle]",
+            "source_title": "Can I beat 20 wins in front of 10,000 viewers?",
+            "url": "https://www.youtube.com/watch?v=hOxZPqFmXf4",
+            "section": "*832-892",
+            "duration": 1003,
+            "status": "QUEUED",
+            "added_at": "2026-11-02T11:12:15Z"
           }
         ],
         "processing": null,
@@ -7982,17 +8026,17 @@
   "agents": {
     "SCOUT": {
       "status": "working",
-      "current_task": "Queue up to date. Waiting for next daily Ken upload.",
+      "current_task": "Ingested 4 fresh Ken clip candidate(s) into queue.",
       "last_completed_task": "Ingested 5 recent Ken master videos into source pool",
       "recent_logs": [
-        "[06:01:28] Queue up to date. Waiting for next daily Ken upload.",
-        "[06:07:46] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
-        "[06:07:59] Mined 4 crowd-upvoted comment timestamps for: 20 win challenge",
-        "[06:08:01] Mined 4 crowd-upvoted comment timestamps for: chaos mega draft, but I pick a",
-        "[06:08:04] Mined 4 crowd-upvoted comment timestamps for: chaos mega draft, but I pick w",
-        "[06:08:06] Mined 4 crowd-upvoted comment timestamps for: the last hope",
         "[06:08:10] Mined 4 crowd-upvoted comment timestamps for: I don't care",
-        "[06:08:10] Queue up to date. Waiting for next daily Ken upload."
+        "[06:08:10] Queue up to date. Waiting for next daily Ken upload.",
+        "[06:12:04] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
+        "[06:12:20] Mined 4 crowd-upvoted comment timestamps for: 20 win challenge",
+        "[06:12:23] Mined 4 crowd-upvoted comment timestamps for: chaos mega draft, but I pick a",
+        "[06:12:25] Mined 4 crowd-upvoted comment timestamps for: chaos mega draft, but I pick w",
+        "[06:12:27] Mined 4 crowd-upvoted comment timestamps for: the last hope",
+        "[06:12:29] Ingested 4 fresh Ken clip candidate(s) into queue."
       ]
     },
     "STRATEGIST": {
@@ -8036,17 +8080,17 @@
     },
     "PUBLISHER": {
       "status": "working",
-      "current_task": "Upload staged for automatic retry: ken_1793472810_20",
+      "current_task": "Generating gaming A/B metadata for slot: 06:30 PM ET (Sat, Nov 07)...",
       "last_completed_task": "Uploaded all 3 initial Clash Royale gaming cuts to YouTube (kenclipsburger420)",
       "recent_logs": [
-        "[06:01:29] Generating gaming A/B metadata for slot: 06:30 PM ET (Sat, Nov 07)...",
         "[06:01:48] Deploying to YouTube (@kenclipsburger420) for release 06:30 PM ET (Sat, Nov 07)...",
         "[06:02:05] YouTube upload error: ('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
         "[06:02:05] Upload staged for automatic retry: ken_1793472810_20",
         "[06:08:10] Generating gaming A/B metadata for slot: 06:30 PM ET (Sat, Nov 07)...",
         "[06:08:13] Deploying to YouTube (@kenclipsburger420) for release 06:30 PM ET (Sat, Nov 07)...",
         "[06:08:29] YouTube upload error: ('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
-        "[06:08:29] Upload staged for automatic retry: ken_1793472810_20"
+        "[06:08:29] Upload staged for automatic retry: ken_1793472810_20",
+        "[06:12:29] Generating gaming A/B metadata for slot: 06:30 PM ET (Sat, Nov 07)..."
       ]
     },
     "ANALYST": {
@@ -8280,6 +8324,50 @@
         "duration": 1000,
         "status": "QUEUED",
         "added_at": "2026-11-02T09:13:59Z"
+      },
+      {
+        "id": "ken_1793617937_0",
+        "creator": "Ken",
+        "title": "Can I beat 20 wins in front of 10,000 viewers? [Match 1 Climax]",
+        "source_title": "Can I beat 20 wins in front of 10,000 viewers?",
+        "url": "https://www.youtube.com/watch?v=hOxZPqFmXf4",
+        "section": "*150-210",
+        "duration": 1003,
+        "status": "QUEUED",
+        "added_at": "2026-11-02T11:12:15Z"
+      },
+      {
+        "id": "ken_1793617937_1",
+        "creator": "Ken",
+        "title": "Can I beat 20 wins in front of 10,000 viewers? [Match 2 Clutch]",
+        "source_title": "Can I beat 20 wins in front of 10,000 viewers?",
+        "url": "https://www.youtube.com/watch?v=hOxZPqFmXf4",
+        "section": "*391-451",
+        "duration": 1003,
+        "status": "QUEUED",
+        "added_at": "2026-11-02T11:12:15Z"
+      },
+      {
+        "id": "ken_1793617937_2",
+        "creator": "Ken",
+        "title": "Can I beat 20 wins in front of 10,000 viewers? [Match 3 Rage]",
+        "source_title": "Can I beat 20 wins in front of 10,000 viewers?",
+        "url": "https://www.youtube.com/watch?v=hOxZPqFmXf4",
+        "section": "*621-681",
+        "duration": 1003,
+        "status": "QUEUED",
+        "added_at": "2026-11-02T11:12:15Z"
+      },
+      {
+        "id": "ken_1793617937_3",
+        "creator": "Ken",
+        "title": "Can I beat 20 wins in front of 10,000 viewers? [Final Overtime Battle]",
+        "source_title": "Can I beat 20 wins in front of 10,000 viewers?",
+        "url": "https://www.youtube.com/watch?v=hOxZPqFmXf4",
+        "section": "*832-892",
+        "duration": 1003,
+        "status": "QUEUED",
+        "added_at": "2026-11-02T11:12:15Z"
       }
     ],
     "processing": null,

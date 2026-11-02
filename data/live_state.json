@@ -1,6 +1,6 @@
 {
-  "timestamp": 1793607745.537775,
-  "sync_time_iso": "2026-11-02T08:22:25Z",
+  "timestamp": 1793607808.8024771,
+  "sync_time_iso": "2026-11-02T08:23:28Z",
   "default_channel": "ken_clips_burger",
   "channels": {
     "ken_clips_burger": {
@@ -85,24 +85,24 @@
         "autopilot_engaged": true,
         "buffer_target_shorts": 10,
         "daily_target": 5,
-        "remote_tunnel_url": "https://exposure-metallica-knows-yield.trycloudflare.com",
+        "remote_tunnel_url": "https://detroit-edition-clearing-eau.trycloudflare.com",
         "channel_id": "UCsBZAgHGlc5GU7r4E-8tUyA",
         "oauth_connected": true
       },
       "agents": {
         "SCOUT": {
           "status": "working",
-          "current_task": "Queue up to date. Waiting for next daily Ken upload.",
+          "current_task": "Ingested 5 fresh Ken clip candidate(s) into queue.",
           "last_completed_task": "Ingested 5 recent Ken master videos into source pool",
           "recent_logs": [
-            "[18:19:51] Queue up to date. Waiting for next daily Ken upload.",
-            "[18:23:35] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
-            "[18:23:50] Mined 4 crowd-upvoted comment timestamps for: chaos mega draft, but I pick a",
-            "[18:23:53] Mined 4 crowd-upvoted comment timestamps for: chaos mega draft, but I pick w",
-            "[18:23:56] Mined 4 crowd-upvoted comment timestamps for: the last hope",
-            "[18:24:00] Mined 4 crowd-upvoted comment timestamps for: I don't care",
-            "[18:24:03] Mined 4 crowd-upvoted comment timestamps for: 2.9 fatherless cycle",
-            "[18:24:03] Queue up to date. Waiting for next daily Ken upload."
+            "[18:24:03] Queue up to date. Waiting for next daily Ken upload.",
+            "[03:22:29] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
+            "[03:22:51] Mined 4 crowd-upvoted comment timestamps for: 20 win challenge",
+            "[03:22:56] Mined 4 crowd-upvoted comment timestamps for: chaos mega draft, but I pick a",
+            "[03:22:59] Mined 4 crowd-upvoted comment timestamps for: chaos mega draft, but I pick w",
+            "[03:23:03] Mined 4 crowd-upvoted comment timestamps for: the last hope",
+            "[03:23:09] Mined 4 crowd-upvoted comment timestamps for: I don't care",
+            "[03:23:09] Ingested 5 fresh Ken clip candidate(s) into queue."
           ]
         },
         "STRATEGIST": {
@@ -122,17 +122,17 @@
         },
         "EDITOR": {
           "status": "working",
-          "current_task": "Selected complete sentence-aligned highlight: 0.00s -> 20.18s (20.18s)",
+          "current_task": "Downloading 1080p60 highlight segment (*112-160) for: 2.9 fatherless cycle [\"They just ha...",
           "last_completed_task": "Rendered 'hp buffed' rage highlight with kinetic pop captions & commentary",
           "recent_logs": [
-            "[15:41:19] Rendering V3 60FPS Zero-Crop Short: I don't care [hero dementia (585 li",
             "[15:41:23] Selected complete sentence-aligned highlight: 0.00s -> 22.16s (22.16s)",
             "[15:45:07] Downloading 1080p60 highlight segment (*9-57) for: I don't care [dementia hitting with...",
             "[15:45:40] Rendering V3 60FPS Zero-Crop Short: I don't care [dementia hitting with",
             "[15:45:51] Selected complete sentence-aligned highlight: 29.10s -> 47.88s (18.78s)",
             "[15:49:22] Downloading 1080p60 highlight segment (*1495-1535) for: 2.9 fatherless cycle [bro threw in ...",
             "[15:49:45] Rendering V3 60FPS Zero-Crop Short: 2.9 fatherless cycle [bro threw in ",
-            "[15:50:01] Selected complete sentence-aligned highlight: 0.00s -> 20.18s (20.18s)"
+            "[15:50:01] Selected complete sentence-aligned highlight: 0.00s -> 20.18s (20.18s)",
+            "[03:23:09] Downloading 1080p60 highlight segment (*112-160) for: 2.9 fatherless cycle [\"They just ha..."
           ]
         },
         "COMMENTATOR": {
@@ -200,7 +200,7 @@
             "url": "https://www.youtube.com/watch?v=Va4Bm6ZbUCo",
             "section": "*112-160",
             "duration": 1537,
-            "status": "QUEUED",
+            "status": "PROCESSING",
             "added_at": "2026-10-31T18:53:12Z"
           },
           {
@@ -323,6 +323,61 @@
             "duration": 1000,
             "status": "QUEUED",
             "added_at": "2026-10-31T21:14:37Z"
+          },
+          {
+            "id": "ken_1793607771_0",
+            "creator": "Ken",
+            "title": "20 win challenge [bro is not Walter white (235 likes)]",
+            "source_title": "20 win challenge",
+            "url": "https://www.youtube.com/watch?v=mXRk9WgvHrQ",
+            "section": "*29-77",
+            "duration": 864,
+            "status": "QUEUED",
+            "added_at": "2026-11-02T08:22:45Z"
+          },
+          {
+            "id": "ken_1793607771_1",
+            "creator": "Ken",
+            "title": "20 win challenge [The ken who laughs appearances (1500 likes)]",
+            "source_title": "20 win challenge",
+            "url": "https://www.youtube.com/watch?v=mXRk9WgvHrQ",
+            "section": "*333-381",
+            "duration": 864,
+            "status": "QUEUED",
+            "added_at": "2026-11-02T08:22:45Z"
+          },
+          {
+            "id": "ken_1793607771_2",
+            "creator": "Ken",
+            "title": "20 win challenge [ken finally shows us what playing clash every da (4000 likes)]",
+            "source_title": "20 win challenge",
+            "url": "https://www.youtube.com/watch?v=mXRk9WgvHrQ",
+            "section": "*632-680",
+            "duration": 864,
+            "status": "QUEUED",
+            "added_at": "2026-11-02T08:22:45Z"
+          },
+          {
+            "id": "ken_1793607771_3",
+            "creator": "Ken",
+            "title": "20 win challenge [The ken who laughs appearances (1500 likes)]",
+            "source_title": "20 win challenge",
+            "url": "https://www.youtube.com/watch?v=mXRk9WgvHrQ",
+            "section": "*801-849",
+            "duration": 864,
+            "status": "QUEUED",
+            "added_at": "2026-11-02T08:22:45Z"
+          },
+          {
+            "id": "ken_1793607776_4",
+            "creator": "Ken",
+            "title": "chaos mega draft, but I pick air [how does kens enemy see him take 5 flying cards  (70 likes)]",
+            "source_title": "chaos mega draft, but I pick air",
+            "url": "https://www.youtube.com/watch?v=LR5jmisfQo0",
+            "section": "*30-78",
+            "duration": 1312,
+            "status": "QUEUED",
+            "added_at": "2026-11-02T08:22:45Z"
           }
         ],
         "processing": null,
@@ -1475,51 +1530,6 @@
       "calendar": {
         "scheduled": [
           {
-            "id": "ken_v3_count_orgob",
-            "source_video": "Who The Hell Is Count Orgob?! \ud83d\udc80 #Shorts",
-            "creator": "Ken",
-            "title": "Who The Hell Is Count Orgob?! \ud83d\udc80 #Shorts",
-            "publish_at": "2026-10-31T22:30:00Z",
-            "status": "SCHEDULED",
-            "uploaded": true,
-            "youtube_video_id": "QyhcTHWzMNQ",
-            "youtube_url": "https://www.youtube.com/shorts/QyhcTHWzMNQ",
-            "video_file": "test_count_orgob_upgrade.mp4",
-            "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/06_STUDIO_SOFTWARE_&_LABS/clipfactory/storage/ken/test_count_orgob_upgrade.mp4",
-            "duration": 21.0,
-            "reframed": "gaming_split_v3"
-          },
-          {
-            "id": "ken_v3_casket_meltdown",
-            "source_video": "That Was Not A Good Game In Any Sense Of The Word \ud83d\udc80 #Shorts",
-            "creator": "Ken",
-            "title": "That Was Not A Good Game In Any Sense Of The Word \ud83d\udc80 #Shorts",
-            "publish_at": "2026-11-01T17:30:00Z",
-            "status": "SCHEDULED",
-            "uploaded": true,
-            "youtube_video_id": "QwaYQVwXb3A",
-            "youtube_url": "https://www.youtube.com/shorts/QwaYQVwXb3A",
-            "video_file": "example_01_casket_meltdown_19s.mp4",
-            "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/06_STUDIO_SOFTWARE_&_LABS/clipfactory/storage/ken/examples_22s_max/example_01_casket_meltdown_19s.mp4",
-            "duration": 15.2,
-            "reframed": "gaming_split_v3"
-          },
-          {
-            "id": "ken_v3_air_only_barb_barrel",
-            "source_video": "It Took 53 Seconds To Break The Air-Only Rule \ud83d\udc80 #Shorts",
-            "creator": "Ken",
-            "title": "It Took 53 Seconds To Break The Air-Only Rule \ud83d\udc80 #Shorts",
-            "publish_at": "2026-11-01T23:30:00Z",
-            "status": "SCHEDULED",
-            "uploaded": true,
-            "youtube_video_id": "Dbzqjyf53Og",
-            "youtube_url": "https://www.youtube.com/shorts/Dbzqjyf53Og",
-            "video_file": "example_03_air_only_barb_barrel_20s.mp4",
-            "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/06_STUDIO_SOFTWARE_&_LABS/clipfactory/storage/ken/examples_22s_max/example_03_air_only_barb_barrel_20s.mp4",
-            "duration": 19.8,
-            "reframed": "gaming_split_v3"
-          },
-          {
             "id": "ken_1793472802_9",
             "source_video": "the last hope [ken weasels in club penguin for the 500th time\ud83d\ude2d\ud83d\ude2d (394 likes)]",
             "creator": "Ken",
@@ -2249,6 +2259,51 @@
         ],
         "held": [],
         "published": [
+          {
+            "id": "ken_v3_air_only_barb_barrel",
+            "source_video": "It Took 53 Seconds To Break The Air-Only Rule \ud83d\udc80 #Shorts",
+            "creator": "Ken",
+            "title": "It Took 53 Seconds To Break The Air-Only Rule \ud83d\udc80 #Shorts",
+            "publish_at": "2026-11-01T23:30:00Z",
+            "status": "PUBLISHED",
+            "uploaded": true,
+            "youtube_video_id": "Dbzqjyf53Og",
+            "youtube_url": "https://www.youtube.com/shorts/Dbzqjyf53Og",
+            "video_file": "example_03_air_only_barb_barrel_20s.mp4",
+            "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/06_STUDIO_SOFTWARE_&_LABS/clipfactory/storage/ken/examples_22s_max/example_03_air_only_barb_barrel_20s.mp4",
+            "duration": 19.8,
+            "reframed": "gaming_split_v3"
+          },
+          {
+            "id": "ken_v3_casket_meltdown",
+            "source_video": "That Was Not A Good Game In Any Sense Of The Word \ud83d\udc80 #Shorts",
+            "creator": "Ken",
+            "title": "That Was Not A Good Game In Any Sense Of The Word \ud83d\udc80 #Shorts",
+            "publish_at": "2026-11-01T17:30:00Z",
+            "status": "PUBLISHED",
+            "uploaded": true,
+            "youtube_video_id": "QwaYQVwXb3A",
+            "youtube_url": "https://www.youtube.com/shorts/QwaYQVwXb3A",
+            "video_file": "example_01_casket_meltdown_19s.mp4",
+            "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/06_STUDIO_SOFTWARE_&_LABS/clipfactory/storage/ken/examples_22s_max/example_01_casket_meltdown_19s.mp4",
+            "duration": 15.2,
+            "reframed": "gaming_split_v3"
+          },
+          {
+            "id": "ken_v3_count_orgob",
+            "source_video": "Who The Hell Is Count Orgob?! \ud83d\udc80 #Shorts",
+            "creator": "Ken",
+            "title": "Who The Hell Is Count Orgob?! \ud83d\udc80 #Shorts",
+            "publish_at": "2026-10-31T22:30:00Z",
+            "status": "PUBLISHED",
+            "uploaded": true,
+            "youtube_video_id": "QyhcTHWzMNQ",
+            "youtube_url": "https://www.youtube.com/shorts/QyhcTHWzMNQ",
+            "video_file": "test_count_orgob_upgrade.mp4",
+            "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/06_STUDIO_SOFTWARE_&_LABS/clipfactory/storage/ken/test_count_orgob_upgrade.mp4",
+            "duration": 21.0,
+            "reframed": "gaming_split_v3"
+          },
           {
             "id": "ken_1792854495_0",
             "source_video": "Giant Evolution [Highlight]",
@@ -5579,7 +5634,7 @@
         "dashboard": {
           "host": "127.0.0.1",
           "port": 8899,
-          "remote_tunnel_url": "https://exposure-metallica-knows-yield.trycloudflare.com",
+          "remote_tunnel_url": "https://detroit-edition-clearing-eau.trycloudflare.com",
           "tunnel_active": true
         },
         "clash_royale_ecosystem": {
@@ -5596,7 +5651,7 @@
         },
         "status": "PAUSED",
         "buffer_target_shorts": 6,
-        "remote_tunnel_url": "https://exposure-metallica-knows-yield.trycloudflare.com",
+        "remote_tunnel_url": "https://detroit-edition-clearing-eau.trycloudflare.com",
         "channel_id": "UCKqBK1q6-0i735Mn_hiNIig",
         "channel_name": "Muks Breakdown Room",
         "oauth_connected": true
@@ -7125,7 +7180,7 @@
         "emergency_stop": false,
         "autopilot_engaged": false,
         "buffer_target_shorts": 6,
-        "remote_tunnel_url": "https://exposure-metallica-knows-yield.trycloudflare.com",
+        "remote_tunnel_url": "https://detroit-edition-clearing-eau.trycloudflare.com",
         "channel_id": "UCcNdnkFH4m9C3rUunbOEaSg",
         "oauth_connected": true
       },
@@ -7851,24 +7906,24 @@
     "autopilot_engaged": true,
     "buffer_target_shorts": 10,
     "daily_target": 5,
-    "remote_tunnel_url": "https://exposure-metallica-knows-yield.trycloudflare.com",
+    "remote_tunnel_url": "https://detroit-edition-clearing-eau.trycloudflare.com",
     "channel_id": "UCsBZAgHGlc5GU7r4E-8tUyA",
     "oauth_connected": true
   },
   "agents": {
     "SCOUT": {
       "status": "working",
-      "current_task": "Queue up to date. Waiting for next daily Ken upload.",
+      "current_task": "Ingested 5 fresh Ken clip candidate(s) into queue.",
       "last_completed_task": "Ingested 5 recent Ken master videos into source pool",
       "recent_logs": [
-        "[18:19:51] Queue up to date. Waiting for next daily Ken upload.",
-        "[18:23:35] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
-        "[18:23:50] Mined 4 crowd-upvoted comment timestamps for: chaos mega draft, but I pick a",
-        "[18:23:53] Mined 4 crowd-upvoted comment timestamps for: chaos mega draft, but I pick w",
-        "[18:23:56] Mined 4 crowd-upvoted comment timestamps for: the last hope",
-        "[18:24:00] Mined 4 crowd-upvoted comment timestamps for: I don't care",
-        "[18:24:03] Mined 4 crowd-upvoted comment timestamps for: 2.9 fatherless cycle",
-        "[18:24:03] Queue up to date. Waiting for next daily Ken upload."
+        "[18:24:03] Queue up to date. Waiting for next daily Ken upload.",
+        "[03:22:29] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
+        "[03:22:51] Mined 4 crowd-upvoted comment timestamps for: 20 win challenge",
+        "[03:22:56] Mined 4 crowd-upvoted comment timestamps for: chaos mega draft, but I pick a",
+        "[03:22:59] Mined 4 crowd-upvoted comment timestamps for: chaos mega draft, but I pick w",
+        "[03:23:03] Mined 4 crowd-upvoted comment timestamps for: the last hope",
+        "[03:23:09] Mined 4 crowd-upvoted comment timestamps for: I don't care",
+        "[03:23:09] Ingested 5 fresh Ken clip candidate(s) into queue."
       ]
     },
     "STRATEGIST": {
@@ -7888,17 +7943,17 @@
     },
     "EDITOR": {
       "status": "working",
-      "current_task": "Selected complete sentence-aligned highlight: 0.00s -> 20.18s (20.18s)",
+      "current_task": "Downloading 1080p60 highlight segment (*112-160) for: 2.9 fatherless cycle [\"They just ha...",
       "last_completed_task": "Rendered 'hp buffed' rage highlight with kinetic pop captions & commentary",
       "recent_logs": [
-        "[15:41:19] Rendering V3 60FPS Zero-Crop Short: I don't care [hero dementia (585 li",
         "[15:41:23] Selected complete sentence-aligned highlight: 0.00s -> 22.16s (22.16s)",
         "[15:45:07] Downloading 1080p60 highlight segment (*9-57) for: I don't care [dementia hitting with...",
         "[15:45:40] Rendering V3 60FPS Zero-Crop Short: I don't care [dementia hitting with",
         "[15:45:51] Selected complete sentence-aligned highlight: 29.10s -> 47.88s (18.78s)",
         "[15:49:22] Downloading 1080p60 highlight segment (*1495-1535) for: 2.9 fatherless cycle [bro threw in ...",
         "[15:49:45] Rendering V3 60FPS Zero-Crop Short: 2.9 fatherless cycle [bro threw in ",
-        "[15:50:01] Selected complete sentence-aligned highlight: 0.00s -> 20.18s (20.18s)"
+        "[15:50:01] Selected complete sentence-aligned highlight: 0.00s -> 20.18s (20.18s)",
+        "[03:23:09] Downloading 1080p60 highlight segment (*112-160) for: 2.9 fatherless cycle [\"They just ha..."
       ]
     },
     "COMMENTATOR": {
@@ -7966,7 +8021,7 @@
         "url": "https://www.youtube.com/watch?v=Va4Bm6ZbUCo",
         "section": "*112-160",
         "duration": 1537,
-        "status": "QUEUED",
+        "status": "PROCESSING",
         "added_at": "2026-10-31T18:53:12Z"
       },
       {
@@ -8089,6 +8144,61 @@
         "duration": 1000,
         "status": "QUEUED",
         "added_at": "2026-10-31T21:14:37Z"
+      },
+      {
+        "id": "ken_1793607771_0",
+        "creator": "Ken",
+        "title": "20 win challenge [bro is not Walter white (235 likes)]",
+        "source_title": "20 win challenge",
+        "url": "https://www.youtube.com/watch?v=mXRk9WgvHrQ",
+        "section": "*29-77",
+        "duration": 864,
+        "status": "QUEUED",
+        "added_at": "2026-11-02T08:22:45Z"
+      },
+      {
+        "id": "ken_1793607771_1",
+        "creator": "Ken",
+        "title": "20 win challenge [The ken who laughs appearances (1500 likes)]",
+        "source_title": "20 win challenge",
+        "url": "https://www.youtube.com/watch?v=mXRk9WgvHrQ",
+        "section": "*333-381",
+        "duration": 864,
+        "status": "QUEUED",
+        "added_at": "2026-11-02T08:22:45Z"
+      },
+      {
+        "id": "ken_1793607771_2",
+        "creator": "Ken",
+        "title": "20 win challenge [ken finally shows us what playing clash every da (4000 likes)]",
+        "source_title": "20 win challenge",
+        "url": "https://www.youtube.com/watch?v=mXRk9WgvHrQ",
+        "section": "*632-680",
+        "duration": 864,
+        "status": "QUEUED",
+        "added_at": "2026-11-02T08:22:45Z"
+      },
+      {
+        "id": "ken_1793607771_3",
+        "creator": "Ken",
+        "title": "20 win challenge [The ken who laughs appearances (1500 likes)]",
+        "source_title": "20 win challenge",
+        "url": "https://www.youtube.com/watch?v=mXRk9WgvHrQ",
+        "section": "*801-849",
+        "duration": 864,
+        "status": "QUEUED",
+        "added_at": "2026-11-02T08:22:45Z"
+      },
+      {
+        "id": "ken_1793607776_4",
+        "creator": "Ken",
+        "title": "chaos mega draft, but I pick air [how does kens enemy see him take 5 flying cards  (70 likes)]",
+        "source_title": "chaos mega draft, but I pick air",
+        "url": "https://www.youtube.com/watch?v=LR5jmisfQo0",
+        "section": "*30-78",
+        "duration": 1312,
+        "status": "QUEUED",
+        "added_at": "2026-11-02T08:22:45Z"
       }
     ],
     "processing": null,
@@ -9241,51 +9351,6 @@
   "calendar": {
     "scheduled": [
       {
-        "id": "ken_v3_count_orgob",
-        "source_video": "Who The Hell Is Count Orgob?! \ud83d\udc80 #Shorts",
-        "creator": "Ken",
-        "title": "Who The Hell Is Count Orgob?! \ud83d\udc80 #Shorts",
-        "publish_at": "2026-10-31T22:30:00Z",
-        "status": "SCHEDULED",
-        "uploaded": true,
-        "youtube_video_id": "QyhcTHWzMNQ",
-        "youtube_url": "https://www.youtube.com/shorts/QyhcTHWzMNQ",
-        "video_file": "test_count_orgob_upgrade.mp4",
-        "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/06_STUDIO_SOFTWARE_&_LABS/clipfactory/storage/ken/test_count_orgob_upgrade.mp4",
-        "duration": 21.0,
-        "reframed": "gaming_split_v3"
-      },
-      {
-        "id": "ken_v3_casket_meltdown",
-        "source_video": "That Was Not A Good Game In Any Sense Of The Word \ud83d\udc80 #Shorts",
-        "creator": "Ken",
-        "title": "That Was Not A Good Game In Any Sense Of The Word \ud83d\udc80 #Shorts",
-        "publish_at": "2026-11-01T17:30:00Z",
-        "status": "SCHEDULED",
-        "uploaded": true,
-        "youtube_video_id": "QwaYQVwXb3A",
-        "youtube_url": "https://www.youtube.com/shorts/QwaYQVwXb3A",
-        "video_file": "example_01_casket_meltdown_19s.mp4",
-        "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/06_STUDIO_SOFTWARE_&_LABS/clipfactory/storage/ken/examples_22s_max/example_01_casket_meltdown_19s.mp4",
-        "duration": 15.2,
-        "reframed": "gaming_split_v3"
-      },
-      {
-        "id": "ken_v3_air_only_barb_barrel",
-        "source_video": "It Took 53 Seconds To Break The Air-Only Rule \ud83d\udc80 #Shorts",
-        "creator": "Ken",
-        "title": "It Took 53 Seconds To Break The Air-Only Rule \ud83d\udc80 #Shorts",
-        "publish_at": "2026-11-01T23:30:00Z",
-        "status": "SCHEDULED",
-        "uploaded": true,
-        "youtube_video_id": "Dbzqjyf53Og",
-        "youtube_url": "https://www.youtube.com/shorts/Dbzqjyf53Og",
-        "video_file": "example_03_air_only_barb_barrel_20s.mp4",
-        "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/06_STUDIO_SOFTWARE_&_LABS/clipfactory/storage/ken/examples_22s_max/example_03_air_only_barb_barrel_20s.mp4",
-        "duration": 19.8,
-        "reframed": "gaming_split_v3"
-      },
-      {
         "id": "ken_1793472802_9",
         "source_video": "the last hope [ken weasels in club penguin for the 500th time\ud83d\ude2d\ud83d\ude2d (394 likes)]",
         "creator": "Ken",
@@ -10015,6 +10080,51 @@
     ],
     "held": [],
     "published": [
+      {
+        "id": "ken_v3_air_only_barb_barrel",
+        "source_video": "It Took 53 Seconds To Break The Air-Only Rule \ud83d\udc80 #Shorts",
+        "creator": "Ken",
+        "title": "It Took 53 Seconds To Break The Air-Only Rule \ud83d\udc80 #Shorts",
+        "publish_at": "2026-11-01T23:30:00Z",
+        "status": "PUBLISHED",
+        "uploaded": true,
+        "youtube_video_id": "Dbzqjyf53Og",
+        "youtube_url": "https://www.youtube.com/shorts/Dbzqjyf53Og",
+        "video_file": "example_03_air_only_barb_barrel_20s.mp4",
+        "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/06_STUDIO_SOFTWARE_&_LABS/clipfactory/storage/ken/examples_22s_max/example_03_air_only_barb_barrel_20s.mp4",
+        "duration": 19.8,
+        "reframed": "gaming_split_v3"
+      },
+      {
+        "id": "ken_v3_casket_meltdown",
+        "source_video": "That Was Not A Good Game In Any Sense Of The Word \ud83d\udc80 #Shorts",
+        "creator": "Ken",
+        "title": "That Was Not A Good Game In Any Sense Of The Word \ud83d\udc80 #Shorts",
+        "publish_at": "2026-11-01T17:30:00Z",
+        "status": "PUBLISHED",
+        "uploaded": true,
+        "youtube_video_id": "QwaYQVwXb3A",
+        "youtube_url": "https://www.youtube.com/shorts/QwaYQVwXb3A",
+        "video_file": "example_01_casket_meltdown_19s.mp4",
+        "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/06_STUDIO_SOFTWARE_&_LABS/clipfactory/storage/ken/examples_22s_max/example_01_casket_meltdown_19s.mp4",
+        "duration": 15.2,
+        "reframed": "gaming_split_v3"
+      },
+      {
+        "id": "ken_v3_count_orgob",
+        "source_video": "Who The Hell Is Count Orgob?! \ud83d\udc80 #Shorts",
+        "creator": "Ken",
+        "title": "Who The Hell Is Count Orgob?! \ud83d\udc80 #Shorts",
+        "publish_at": "2026-10-31T22:30:00Z",
+        "status": "PUBLISHED",
+        "uploaded": true,
+        "youtube_video_id": "QyhcTHWzMNQ",
+        "youtube_url": "https://www.youtube.com/shorts/QyhcTHWzMNQ",
+        "video_file": "test_count_orgob_upgrade.mp4",
+        "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/06_STUDIO_SOFTWARE_&_LABS/clipfactory/storage/ken/test_count_orgob_upgrade.mp4",
+        "duration": 21.0,
+        "reframed": "gaming_split_v3"
+      },
       {
         "id": "ken_1792854495_0",
         "source_video": "Giant Evolution [Highlight]",

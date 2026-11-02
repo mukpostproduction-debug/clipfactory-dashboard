@@ -1,6 +1,6 @@
 {
-  "timestamp": 1793640761.086008,
-  "sync_time_iso": "2026-11-02T17:32:41Z",
+  "timestamp": 1793640822.8566809,
+  "sync_time_iso": "2026-11-02T17:33:42Z",
   "default_channel": "ken_clips_burger",
   "channels": {
     "ken_clips_burger": {
@@ -95,14 +95,14 @@
           "current_task": "Queue up to date. Waiting for next daily Ken upload.",
           "last_completed_task": "Ingested 5 recent Ken master videos into source pool",
           "recent_logs": [
-            "[12:24:04] Queue up to date. Waiting for next daily Ken upload.",
-            "[12:27:56] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
-            "[12:28:09] Mined 4 crowd-upvoted comment timestamps for: Can I beat 20 wins in front of",
-            "[12:28:12] Mined 4 crowd-upvoted comment timestamps for: 20 win challenge",
-            "[12:28:15] Mined 4 crowd-upvoted comment timestamps for: chaos mega draft, but I pick a",
-            "[12:28:18] Mined 4 crowd-upvoted comment timestamps for: chaos mega draft, but I pick w",
-            "[12:28:21] Mined 4 crowd-upvoted comment timestamps for: the last hope",
-            "[12:28:22] Queue up to date. Waiting for next daily Ken upload."
+            "[12:28:22] Queue up to date. Waiting for next daily Ken upload.",
+            "[12:32:42] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
+            "[12:32:55] Mined 4 crowd-upvoted comment timestamps for: Can I beat 20 wins in front of",
+            "[12:32:58] Mined 4 crowd-upvoted comment timestamps for: 20 win challenge",
+            "[12:33:00] Mined 4 crowd-upvoted comment timestamps for: chaos mega draft, but I pick a",
+            "[12:33:02] Mined 4 crowd-upvoted comment timestamps for: chaos mega draft, but I pick w",
+            "[12:33:05] Mined 4 crowd-upvoted comment timestamps for: the last hope",
+            "[12:33:06] Queue up to date. Waiting for next daily Ken upload."
           ]
         },
         "STRATEGIST": {
@@ -146,17 +146,17 @@
         },
         "PUBLISHER": {
           "status": "working",
-          "current_task": "Upload staged for automatic retry: ken_1793472810_20",
+          "current_task": "Deploying to YouTube (@kenclipsburger420) for release 06:30 PM ET (Sat, Nov 07)...",
           "last_completed_task": "Uploaded all 3 initial Clash Royale gaming cuts to YouTube (kenclipsburger420)",
           "recent_logs": [
-            "[12:24:04] Generating gaming A/B metadata for slot: 06:30 PM ET (Sat, Nov 07)...",
-            "[12:24:08] Deploying to YouTube (@kenclipsburger420) for release 06:30 PM ET (Sat, Nov 07)...",
             "[12:24:24] YouTube upload error: ('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
             "[12:24:24] Upload staged for automatic retry: ken_1793472810_20",
             "[12:28:22] Generating gaming A/B metadata for slot: 06:30 PM ET (Sat, Nov 07)...",
             "[12:28:47] Deploying to YouTube (@kenclipsburger420) for release 06:30 PM ET (Sat, Nov 07)...",
             "[12:29:04] YouTube upload error: ('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
-            "[12:29:04] Upload staged for automatic retry: ken_1793472810_20"
+            "[12:29:04] Upload staged for automatic retry: ken_1793472810_20",
+            "[12:33:06] Generating gaming A/B metadata for slot: 06:30 PM ET (Sat, Nov 07)...",
+            "[12:33:33] Deploying to YouTube (@kenclipsburger420) for release 06:30 PM ET (Sat, Nov 07)..."
           ]
         },
         "ANALYST": {
@@ -1696,73 +1696,6 @@
       "calendar": {
         "scheduled": [
           {
-            "id": "ken_1793472802_9",
-            "source_video": "the last hope [ken weasels in club penguin for the 500th time\ud83d\ude2d\ud83d\ude2d (394 likes)]",
-            "creator": "Ken",
-            "title": "Why Club Penguin DESTROYS Clash Royale...",
-            "publish_at": "2026-11-02T17:30:00Z",
-            "status": "SCHEDULED",
-            "uploaded": true,
-            "youtube_video_id": "-L0wH4FffO4",
-            "youtube_url": "https://www.youtube.com/shorts/-L0wH4FffO4",
-            "video_file": "ken_1793472802_9_master.mp4",
-            "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/06_STUDIO_SOFTWARE_&_LABS/clipfactory/storage/cuts/ken_1793472802_9_master.mp4",
-            "duration": 17.96,
-            "hook_summary": "Ken opens with a high-energy, bizarre outburst about Rascal Girls before launching into a passionate 'yap' session comparing Clash Royale's seasons to the legendary depth of Club Penguin.",
-            "metadata": {
-              "title": "Why Club Penguin DESTROYS Clash Royale...",
-              "description": "Ken goes completely unhinged comparing modern mobile gaming to the golden era of Club Penguin, and you won't believe where the rant goes. \n\n- Discover the shocking depth Club Penguin had over modern gaming seasons\n- Watch the exact moment a Clash Royale comparison goes too far\n- Experience the ultimate gaming nostalgia trip mixed with pure chaos\n\nFeaturing: Ken\n\nIs Club Penguin actually a better strategy game than Clash Royale, or has Ken finally lost his mind?\n\n#shorts #clubpenguin #clashroyale #gaming #nostalgia #mobilegaming",
-              "tags": [
-                "Club Penguin",
-                "Clash Royale",
-                "Ken",
-                "Supercell",
-                "Mobile Gaming",
-                "Gaming Rant",
-                "Nostalgia",
-                "Flash Games",
-                "Gaming History",
-                "Funny Moments"
-              ],
-              "pinned_comment": "Be honest: would you trade all of Clash Royale's current updates just to get the original Club Penguin back right now?",
-              "ab_variants": {
-                "A": {
-                  "angle": "Curiosity Gap",
-                  "title": "Why Club Penguin DESTROYS Clash Royale...",
-                  "description": "Ken goes completely unhinged comparing modern mobile gaming to the golden era of Club Penguin, and you won't believe where the rant goes. \n\n- Discover the shocking depth Club Penguin had over modern gaming seasons\n- Watch the exact moment a Clash Royale comparison goes too far\n- Experience the ultimate gaming nostalgia trip mixed with pure chaos\n\nFeaturing: Ken\n\nIs Club Penguin actually a better strategy game than Clash Royale, or has Ken finally lost his mind?\n\n#shorts #clubpenguin #clashroyale #gaming #nostalgia #mobilegaming"
-                },
-                "B": {
-                  "angle": "Contrarian Truth",
-                  "title": "Clash Royale Is Trash Compared to This",
-                  "description": "Forget everything you know about Supercell seasons because Ken is here to expose the undeniable truth about Club Penguin's absolute superiority. \n\n- Uncover why modern battle passes pale in comparison to classic virtual worlds\n- Learn the harsh truth about the state of mobile gaming updates\n- Hear the unfiltered rant that every gamer needs to listen to\n\nFeaturing: Ken\n\nDo you actually miss the golden era of flash games, or is Clash Royale still the undisputed king?\n\n#shorts #clashroyale #supercell #gaming #gamer #hottake"
-                },
-                "C": {
-                  "angle": "Actionable Protocol",
-                  "title": "How Club Penguin Beat Every Supercell Game",
-                  "description": "Take a masterclass in gaming history as Ken breaks down why classic virtual world mechanics completely out-class modern mobile monetization strategies. \n\n- Analyze the exact features that made early online games infinitely replayable\n- Decode the psychology behind modern seasonal updates vs classic content\n- Upgrade your gaming perspective with this wild historical breakdown\n\nFeaturing: Ken\n\nWhat is one feature from an old game that every modern mobile title desperately needs to steal?\n\n#shorts #clubpenguin #clashroyale #gaming #strategy #mobilegaming"
-                }
-              },
-              "active_variant": "A",
-              "test_status": "ACTIVE_TEST",
-              "variant_history": [
-                {
-                  "variant": "A",
-                  "title": "Why Club Penguin DESTROYS Clash Royale...",
-                  "deployed_at": 1793473719.9038029,
-                  "reason": "Initial A/B test deployment"
-                }
-              ],
-              "metrics": {
-                "views": 0,
-                "likes": 0,
-                "comments": 0,
-                "retention": 0.0,
-                "ctr": 0.0
-              }
-            },
-            "reframed": "gaming_split"
-          },
-          {
             "id": "ken_1793472799_7",
             "source_video": "chaos mega draft, but I pick win conditions [Ken's last braincell after realising his deck ha (350 likes)]",
             "creator": "Ken",
@@ -2425,6 +2358,73 @@
         ],
         "held": [],
         "published": [
+          {
+            "id": "ken_1793472802_9",
+            "source_video": "the last hope [ken weasels in club penguin for the 500th time\ud83d\ude2d\ud83d\ude2d (394 likes)]",
+            "creator": "Ken",
+            "title": "Why Club Penguin DESTROYS Clash Royale...",
+            "publish_at": "2026-11-02T17:30:00Z",
+            "status": "PUBLISHED",
+            "uploaded": true,
+            "youtube_video_id": "-L0wH4FffO4",
+            "youtube_url": "https://www.youtube.com/shorts/-L0wH4FffO4",
+            "video_file": "ken_1793472802_9_master.mp4",
+            "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/06_STUDIO_SOFTWARE_&_LABS/clipfactory/storage/cuts/ken_1793472802_9_master.mp4",
+            "duration": 17.96,
+            "hook_summary": "Ken opens with a high-energy, bizarre outburst about Rascal Girls before launching into a passionate 'yap' session comparing Clash Royale's seasons to the legendary depth of Club Penguin.",
+            "metadata": {
+              "title": "Why Club Penguin DESTROYS Clash Royale...",
+              "description": "Ken goes completely unhinged comparing modern mobile gaming to the golden era of Club Penguin, and you won't believe where the rant goes. \n\n- Discover the shocking depth Club Penguin had over modern gaming seasons\n- Watch the exact moment a Clash Royale comparison goes too far\n- Experience the ultimate gaming nostalgia trip mixed with pure chaos\n\nFeaturing: Ken\n\nIs Club Penguin actually a better strategy game than Clash Royale, or has Ken finally lost his mind?\n\n#shorts #clubpenguin #clashroyale #gaming #nostalgia #mobilegaming",
+              "tags": [
+                "Club Penguin",
+                "Clash Royale",
+                "Ken",
+                "Supercell",
+                "Mobile Gaming",
+                "Gaming Rant",
+                "Nostalgia",
+                "Flash Games",
+                "Gaming History",
+                "Funny Moments"
+              ],
+              "pinned_comment": "Be honest: would you trade all of Clash Royale's current updates just to get the original Club Penguin back right now?",
+              "ab_variants": {
+                "A": {
+                  "angle": "Curiosity Gap",
+                  "title": "Why Club Penguin DESTROYS Clash Royale...",
+                  "description": "Ken goes completely unhinged comparing modern mobile gaming to the golden era of Club Penguin, and you won't believe where the rant goes. \n\n- Discover the shocking depth Club Penguin had over modern gaming seasons\n- Watch the exact moment a Clash Royale comparison goes too far\n- Experience the ultimate gaming nostalgia trip mixed with pure chaos\n\nFeaturing: Ken\n\nIs Club Penguin actually a better strategy game than Clash Royale, or has Ken finally lost his mind?\n\n#shorts #clubpenguin #clashroyale #gaming #nostalgia #mobilegaming"
+                },
+                "B": {
+                  "angle": "Contrarian Truth",
+                  "title": "Clash Royale Is Trash Compared to This",
+                  "description": "Forget everything you know about Supercell seasons because Ken is here to expose the undeniable truth about Club Penguin's absolute superiority. \n\n- Uncover why modern battle passes pale in comparison to classic virtual worlds\n- Learn the harsh truth about the state of mobile gaming updates\n- Hear the unfiltered rant that every gamer needs to listen to\n\nFeaturing: Ken\n\nDo you actually miss the golden era of flash games, or is Clash Royale still the undisputed king?\n\n#shorts #clashroyale #supercell #gaming #gamer #hottake"
+                },
+                "C": {
+                  "angle": "Actionable Protocol",
+                  "title": "How Club Penguin Beat Every Supercell Game",
+                  "description": "Take a masterclass in gaming history as Ken breaks down why classic virtual world mechanics completely out-class modern mobile monetization strategies. \n\n- Analyze the exact features that made early online games infinitely replayable\n- Decode the psychology behind modern seasonal updates vs classic content\n- Upgrade your gaming perspective with this wild historical breakdown\n\nFeaturing: Ken\n\nWhat is one feature from an old game that every modern mobile title desperately needs to steal?\n\n#shorts #clubpenguin #clashroyale #gaming #strategy #mobilegaming"
+                }
+              },
+              "active_variant": "A",
+              "test_status": "ACTIVE_TEST",
+              "variant_history": [
+                {
+                  "variant": "A",
+                  "title": "Why Club Penguin DESTROYS Clash Royale...",
+                  "deployed_at": 1793473719.9038029,
+                  "reason": "Initial A/B test deployment"
+                }
+              ],
+              "metrics": {
+                "views": 0,
+                "likes": 0,
+                "comments": 0,
+                "retention": 0.0,
+                "ctr": 0.0
+              }
+            },
+            "reframed": "gaming_split"
+          },
           {
             "id": "Ia36QIuLAug",
             "youtube_video_id": "Ia36QIuLAug",
@@ -8139,14 +8139,14 @@
       "current_task": "Queue up to date. Waiting for next daily Ken upload.",
       "last_completed_task": "Ingested 5 recent Ken master videos into source pool",
       "recent_logs": [
-        "[12:24:04] Queue up to date. Waiting for next daily Ken upload.",
-        "[12:27:56] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
-        "[12:28:09] Mined 4 crowd-upvoted comment timestamps for: Can I beat 20 wins in front of",
-        "[12:28:12] Mined 4 crowd-upvoted comment timestamps for: 20 win challenge",
-        "[12:28:15] Mined 4 crowd-upvoted comment timestamps for: chaos mega draft, but I pick a",
-        "[12:28:18] Mined 4 crowd-upvoted comment timestamps for: chaos mega draft, but I pick w",
-        "[12:28:21] Mined 4 crowd-upvoted comment timestamps for: the last hope",
-        "[12:28:22] Queue up to date. Waiting for next daily Ken upload."
+        "[12:28:22] Queue up to date. Waiting for next daily Ken upload.",
+        "[12:32:42] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
+        "[12:32:55] Mined 4 crowd-upvoted comment timestamps for: Can I beat 20 wins in front of",
+        "[12:32:58] Mined 4 crowd-upvoted comment timestamps for: 20 win challenge",
+        "[12:33:00] Mined 4 crowd-upvoted comment timestamps for: chaos mega draft, but I pick a",
+        "[12:33:02] Mined 4 crowd-upvoted comment timestamps for: chaos mega draft, but I pick w",
+        "[12:33:05] Mined 4 crowd-upvoted comment timestamps for: the last hope",
+        "[12:33:06] Queue up to date. Waiting for next daily Ken upload."
       ]
     },
     "STRATEGIST": {
@@ -8190,17 +8190,17 @@
     },
     "PUBLISHER": {
       "status": "working",
-      "current_task": "Upload staged for automatic retry: ken_1793472810_20",
+      "current_task": "Deploying to YouTube (@kenclipsburger420) for release 06:30 PM ET (Sat, Nov 07)...",
       "last_completed_task": "Uploaded all 3 initial Clash Royale gaming cuts to YouTube (kenclipsburger420)",
       "recent_logs": [
-        "[12:24:04] Generating gaming A/B metadata for slot: 06:30 PM ET (Sat, Nov 07)...",
-        "[12:24:08] Deploying to YouTube (@kenclipsburger420) for release 06:30 PM ET (Sat, Nov 07)...",
         "[12:24:24] YouTube upload error: ('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
         "[12:24:24] Upload staged for automatic retry: ken_1793472810_20",
         "[12:28:22] Generating gaming A/B metadata for slot: 06:30 PM ET (Sat, Nov 07)...",
         "[12:28:47] Deploying to YouTube (@kenclipsburger420) for release 06:30 PM ET (Sat, Nov 07)...",
         "[12:29:04] YouTube upload error: ('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
-        "[12:29:04] Upload staged for automatic retry: ken_1793472810_20"
+        "[12:29:04] Upload staged for automatic retry: ken_1793472810_20",
+        "[12:33:06] Generating gaming A/B metadata for slot: 06:30 PM ET (Sat, Nov 07)...",
+        "[12:33:33] Deploying to YouTube (@kenclipsburger420) for release 06:30 PM ET (Sat, Nov 07)..."
       ]
     },
     "ANALYST": {
@@ -9740,73 +9740,6 @@
   "calendar": {
     "scheduled": [
       {
-        "id": "ken_1793472802_9",
-        "source_video": "the last hope [ken weasels in club penguin for the 500th time\ud83d\ude2d\ud83d\ude2d (394 likes)]",
-        "creator": "Ken",
-        "title": "Why Club Penguin DESTROYS Clash Royale...",
-        "publish_at": "2026-11-02T17:30:00Z",
-        "status": "SCHEDULED",
-        "uploaded": true,
-        "youtube_video_id": "-L0wH4FffO4",
-        "youtube_url": "https://www.youtube.com/shorts/-L0wH4FffO4",
-        "video_file": "ken_1793472802_9_master.mp4",
-        "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/06_STUDIO_SOFTWARE_&_LABS/clipfactory/storage/cuts/ken_1793472802_9_master.mp4",
-        "duration": 17.96,
-        "hook_summary": "Ken opens with a high-energy, bizarre outburst about Rascal Girls before launching into a passionate 'yap' session comparing Clash Royale's seasons to the legendary depth of Club Penguin.",
-        "metadata": {
-          "title": "Why Club Penguin DESTROYS Clash Royale...",
-          "description": "Ken goes completely unhinged comparing modern mobile gaming to the golden era of Club Penguin, and you won't believe where the rant goes. \n\n- Discover the shocking depth Club Penguin had over modern gaming seasons\n- Watch the exact moment a Clash Royale comparison goes too far\n- Experience the ultimate gaming nostalgia trip mixed with pure chaos\n\nFeaturing: Ken\n\nIs Club Penguin actually a better strategy game than Clash Royale, or has Ken finally lost his mind?\n\n#shorts #clubpenguin #clashroyale #gaming #nostalgia #mobilegaming",
-          "tags": [
-            "Club Penguin",
-            "Clash Royale",
-            "Ken",
-            "Supercell",
-            "Mobile Gaming",
-            "Gaming Rant",
-            "Nostalgia",
-            "Flash Games",
-            "Gaming History",
-            "Funny Moments"
-          ],
-          "pinned_comment": "Be honest: would you trade all of Clash Royale's current updates just to get the original Club Penguin back right now?",
-          "ab_variants": {
-            "A": {
-              "angle": "Curiosity Gap",
-              "title": "Why Club Penguin DESTROYS Clash Royale...",
-              "description": "Ken goes completely unhinged comparing modern mobile gaming to the golden era of Club Penguin, and you won't believe where the rant goes. \n\n- Discover the shocking depth Club Penguin had over modern gaming seasons\n- Watch the exact moment a Clash Royale comparison goes too far\n- Experience the ultimate gaming nostalgia trip mixed with pure chaos\n\nFeaturing: Ken\n\nIs Club Penguin actually a better strategy game than Clash Royale, or has Ken finally lost his mind?\n\n#shorts #clubpenguin #clashroyale #gaming #nostalgia #mobilegaming"
-            },
-            "B": {
-              "angle": "Contrarian Truth",
-              "title": "Clash Royale Is Trash Compared to This",
-              "description": "Forget everything you know about Supercell seasons because Ken is here to expose the undeniable truth about Club Penguin's absolute superiority. \n\n- Uncover why modern battle passes pale in comparison to classic virtual worlds\n- Learn the harsh truth about the state of mobile gaming updates\n- Hear the unfiltered rant that every gamer needs to listen to\n\nFeaturing: Ken\n\nDo you actually miss the golden era of flash games, or is Clash Royale still the undisputed king?\n\n#shorts #clashroyale #supercell #gaming #gamer #hottake"
-            },
-            "C": {
-              "angle": "Actionable Protocol",
-              "title": "How Club Penguin Beat Every Supercell Game",
-              "description": "Take a masterclass in gaming history as Ken breaks down why classic virtual world mechanics completely out-class modern mobile monetization strategies. \n\n- Analyze the exact features that made early online games infinitely replayable\n- Decode the psychology behind modern seasonal updates vs classic content\n- Upgrade your gaming perspective with this wild historical breakdown\n\nFeaturing: Ken\n\nWhat is one feature from an old game that every modern mobile title desperately needs to steal?\n\n#shorts #clubpenguin #clashroyale #gaming #strategy #mobilegaming"
-            }
-          },
-          "active_variant": "A",
-          "test_status": "ACTIVE_TEST",
-          "variant_history": [
-            {
-              "variant": "A",
-              "title": "Why Club Penguin DESTROYS Clash Royale...",
-              "deployed_at": 1793473719.9038029,
-              "reason": "Initial A/B test deployment"
-            }
-          ],
-          "metrics": {
-            "views": 0,
-            "likes": 0,
-            "comments": 0,
-            "retention": 0.0,
-            "ctr": 0.0
-          }
-        },
-        "reframed": "gaming_split"
-      },
-      {
         "id": "ken_1793472799_7",
         "source_video": "chaos mega draft, but I pick win conditions [Ken's last braincell after realising his deck ha (350 likes)]",
         "creator": "Ken",
@@ -10469,6 +10402,73 @@
     ],
     "held": [],
     "published": [
+      {
+        "id": "ken_1793472802_9",
+        "source_video": "the last hope [ken weasels in club penguin for the 500th time\ud83d\ude2d\ud83d\ude2d (394 likes)]",
+        "creator": "Ken",
+        "title": "Why Club Penguin DESTROYS Clash Royale...",
+        "publish_at": "2026-11-02T17:30:00Z",
+        "status": "PUBLISHED",
+        "uploaded": true,
+        "youtube_video_id": "-L0wH4FffO4",
+        "youtube_url": "https://www.youtube.com/shorts/-L0wH4FffO4",
+        "video_file": "ken_1793472802_9_master.mp4",
+        "output_path": "/Users/jacksonmcmurdo/Desktop/Muk_Post/06_STUDIO_SOFTWARE_&_LABS/clipfactory/storage/cuts/ken_1793472802_9_master.mp4",
+        "duration": 17.96,
+        "hook_summary": "Ken opens with a high-energy, bizarre outburst about Rascal Girls before launching into a passionate 'yap' session comparing Clash Royale's seasons to the legendary depth of Club Penguin.",
+        "metadata": {
+          "title": "Why Club Penguin DESTROYS Clash Royale...",
+          "description": "Ken goes completely unhinged comparing modern mobile gaming to the golden era of Club Penguin, and you won't believe where the rant goes. \n\n- Discover the shocking depth Club Penguin had over modern gaming seasons\n- Watch the exact moment a Clash Royale comparison goes too far\n- Experience the ultimate gaming nostalgia trip mixed with pure chaos\n\nFeaturing: Ken\n\nIs Club Penguin actually a better strategy game than Clash Royale, or has Ken finally lost his mind?\n\n#shorts #clubpenguin #clashroyale #gaming #nostalgia #mobilegaming",
+          "tags": [
+            "Club Penguin",
+            "Clash Royale",
+            "Ken",
+            "Supercell",
+            "Mobile Gaming",
+            "Gaming Rant",
+            "Nostalgia",
+            "Flash Games",
+            "Gaming History",
+            "Funny Moments"
+          ],
+          "pinned_comment": "Be honest: would you trade all of Clash Royale's current updates just to get the original Club Penguin back right now?",
+          "ab_variants": {
+            "A": {
+              "angle": "Curiosity Gap",
+              "title": "Why Club Penguin DESTROYS Clash Royale...",
+              "description": "Ken goes completely unhinged comparing modern mobile gaming to the golden era of Club Penguin, and you won't believe where the rant goes. \n\n- Discover the shocking depth Club Penguin had over modern gaming seasons\n- Watch the exact moment a Clash Royale comparison goes too far\n- Experience the ultimate gaming nostalgia trip mixed with pure chaos\n\nFeaturing: Ken\n\nIs Club Penguin actually a better strategy game than Clash Royale, or has Ken finally lost his mind?\n\n#shorts #clubpenguin #clashroyale #gaming #nostalgia #mobilegaming"
+            },
+            "B": {
+              "angle": "Contrarian Truth",
+              "title": "Clash Royale Is Trash Compared to This",
+              "description": "Forget everything you know about Supercell seasons because Ken is here to expose the undeniable truth about Club Penguin's absolute superiority. \n\n- Uncover why modern battle passes pale in comparison to classic virtual worlds\n- Learn the harsh truth about the state of mobile gaming updates\n- Hear the unfiltered rant that every gamer needs to listen to\n\nFeaturing: Ken\n\nDo you actually miss the golden era of flash games, or is Clash Royale still the undisputed king?\n\n#shorts #clashroyale #supercell #gaming #gamer #hottake"
+            },
+            "C": {
+              "angle": "Actionable Protocol",
+              "title": "How Club Penguin Beat Every Supercell Game",
+              "description": "Take a masterclass in gaming history as Ken breaks down why classic virtual world mechanics completely out-class modern mobile monetization strategies. \n\n- Analyze the exact features that made early online games infinitely replayable\n- Decode the psychology behind modern seasonal updates vs classic content\n- Upgrade your gaming perspective with this wild historical breakdown\n\nFeaturing: Ken\n\nWhat is one feature from an old game that every modern mobile title desperately needs to steal?\n\n#shorts #clubpenguin #clashroyale #gaming #strategy #mobilegaming"
+            }
+          },
+          "active_variant": "A",
+          "test_status": "ACTIVE_TEST",
+          "variant_history": [
+            {
+              "variant": "A",
+              "title": "Why Club Penguin DESTROYS Clash Royale...",
+              "deployed_at": 1793473719.9038029,
+              "reason": "Initial A/B test deployment"
+            }
+          ],
+          "metrics": {
+            "views": 0,
+            "likes": 0,
+            "comments": 0,
+            "retention": 0.0,
+            "ctr": 0.0
+          }
+        },
+        "reframed": "gaming_split"
+      },
       {
         "id": "Ia36QIuLAug",
         "youtube_video_id": "Ia36QIuLAug",

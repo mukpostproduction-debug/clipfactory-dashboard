@@ -1,6 +1,6 @@
 {
-  "timestamp": 1793751506.094314,
-  "sync_time_iso": "2026-11-04T00:18:26Z",
+  "timestamp": 1793751568.1733491,
+  "sync_time_iso": "2026-11-04T00:19:28Z",
   "default_channel": "ken_clips_burger",
   "channels": {
     "ken_clips_burger": {
@@ -161,17 +161,17 @@
         },
         "ANALYST": {
           "status": "working",
-          "current_task": "Telemetry Audit: 48,922 views (54 shorts). Auto-pivoted 4 stalled title(s).",
+          "current_task": "Telemetry Audit: 48,924 views (54 shorts). Auto-pivoted 4 stalled title(s).",
           "last_completed_task": "Calibrated gaming threshold: >15 views/hr within 4h",
           "recent_logs": [
-            "[22:55:35] Telemetry Audit: 46,596 views (52 shorts). Auto-pivoted 4 stalled title(s).",
             "[22:59:46] Telemetry Audit: 46,597 views (52 shorts). Auto-pivoted 4 stalled title(s).",
             "[23:03:47] Telemetry Audit: 46,603 views (52 shorts). Auto-pivoted 4 stalled title(s).",
             "[05:57:05] Telemetry Audit: 47,117 views (52 shorts). Auto-pivoted 5 stalled title(s).",
             "[18:58:36] Telemetry Audit: 47,928 views (52 shorts). Auto-pivoted 4 stalled title(s).",
             "[19:03:55] Telemetry Audit: 48,886 views (54 shorts). Auto-pivoted 4 stalled title(s).",
             "[19:09:09] Telemetry Audit: 48,890 views (54 shorts). Auto-pivoted 4 stalled title(s).",
-            "[19:14:31] Telemetry Audit: 48,922 views (54 shorts). Auto-pivoted 4 stalled title(s)."
+            "[19:14:31] Telemetry Audit: 48,922 views (54 shorts). Auto-pivoted 4 stalled title(s).",
+            "[19:18:52] Telemetry Audit: 48,924 views (54 shorts). Auto-pivoted 4 stalled title(s)."
           ]
         },
         "WATCHDOG": {
@@ -179,14 +179,14 @@
           "current_task": "Verifying Supercell fan policy: 0 claims, 0 strikes.",
           "last_completed_task": "Audited source parameters: strictly <30s segment rule active",
           "recent_logs": [
-            "[22:55:35] Verifying Supercell fan policy: 0 claims, 0 strikes.",
             "[22:59:46] Verifying Supercell fan policy: 0 claims, 0 strikes.",
             "[23:03:47] Verifying Supercell fan policy: 0 claims, 0 strikes.",
             "[05:57:05] Verifying Supercell fan policy: 0 claims, 0 strikes.",
             "[18:58:36] Verifying Supercell fan policy: 0 claims, 0 strikes.",
             "[19:03:55] Verifying Supercell fan policy: 0 claims, 0 strikes.",
             "[19:09:09] Verifying Supercell fan policy: 0 claims, 0 strikes.",
-            "[19:14:31] Verifying Supercell fan policy: 0 claims, 0 strikes."
+            "[19:14:31] Verifying Supercell fan policy: 0 claims, 0 strikes.",
+            "[19:18:52] Verifying Supercell fan policy: 0 claims, 0 strikes."
           ]
         }
       },
@@ -2274,12 +2274,12 @@
               ],
               "metrics": {
                 "views": 32,
-                "likes": 0,
+                "likes": 1,
                 "comments": 0,
                 "retention": 0.0,
                 "ctr": 0.0,
-                "velocity_vph": 45.49,
-                "engagement_pct": 0.0
+                "velocity_vph": 41.11,
+                "engagement_pct": 3.12
               }
             },
             "reframed": "gaming_split"
@@ -2346,7 +2346,7 @@
                 "comments": 0,
                 "retention": 0.0,
                 "ctr": 0.0,
-                "velocity_vph": 32.21,
+                "velocity_vph": 31.85,
                 "engagement_pct": 0.46
               }
             },
@@ -2413,7 +2413,7 @@
                 "comments": 0,
                 "retention": 0.0,
                 "ctr": 0.0,
-                "velocity_vph": 48.65,
+                "velocity_vph": 48.5,
                 "engagement_pct": 0.58
               }
             },
@@ -2477,12 +2477,12 @@
                 }
               ],
               "metrics": {
-                "views": 1336,
+                "views": 1340,
                 "likes": 3,
                 "comments": 0,
                 "retention": 0.0,
                 "ctr": 0.0,
-                "velocity_vph": 43.52,
+                "velocity_vph": 43.54,
                 "engagement_pct": 0.22
               }
             },
@@ -2509,7 +2509,7 @@
                 "views": 1385,
                 "likes": 58,
                 "comments": 2,
-                "velocity_vph": 35.26,
+                "velocity_vph": 35.19,
                 "engagement_pct": 4.33
               },
               "test_status": "WINNER_LOCKED"
@@ -2531,10 +2531,10 @@
             "reframed": "gaming_split_v3",
             "metadata": {
               "metrics": {
-                "views": 1256,
+                "views": 1253,
                 "likes": 13,
                 "comments": 0,
-                "velocity_vph": 25.79,
+                "velocity_vph": 25.69,
                 "engagement_pct": 1.04
               },
               "test_status": "WINNER_LOCKED"
@@ -2559,7 +2559,7 @@
                 "views": 732,
                 "likes": 15,
                 "comments": 0,
-                "velocity_vph": 13.38,
+                "velocity_vph": 13.36,
                 "engagement_pct": 2.05
               },
               "test_status": "WINNER_LOCKED"
@@ -2581,7 +2581,7 @@
             "reframed": "gaming_split_v3",
             "metadata": {
               "metrics": {
-                "views": 1099,
+                "views": 1100,
                 "likes": 18,
                 "comments": 2,
                 "velocity_vph": 14.91,
@@ -2651,7 +2651,7 @@
                 "comments": 1,
                 "retention": 0.0,
                 "ctr": 0.0,
-                "velocity_vph": 7.38,
+                "velocity_vph": 7.37,
                 "engagement_pct": 0.32
               }
             },
@@ -2661,7 +2661,7 @@
             "id": "ken_1792854495_1",
             "source_video": "Giant Evolution [Clutch Moment]",
             "creator": "Ken",
-            "title": "How to Wipe Towers in Seconds with Giant",
+            "title": "This Evo Giant Interaction Is Broken...",
             "publish_at": "2026-10-26T15:30:00Z",
             "status": "SCHEDULED",
             "uploaded": true,
@@ -2672,8 +2672,8 @@
             "duration": 27.82,
             "hook_summary": "The creator reacts to a massive unexpected push taking a turret to half HP, leading to a realization about the most gimmicky part of the card.",
             "metadata": {
-              "title": "How to Wipe Towers in Seconds with Giant",
-              "description": "Master the ultimate Evo Giant push strategy to strip half a tower's health in seconds.\n\n\u2022 Time your Rage spell right as Evo Giant locks on\n\u2022 Overwhelm defenses before they can cycle counters\n\u2022 Punish heavy elixir investments with instant lane pressure\n\nFeaturing: Ken\n\nHow do you personally defend against an Evo Giant Rage push?\n\n#shorts #clashroyale #clashroyaletips #gaming #evogiant #ken",
+              "title": "This Evo Giant Interaction Is Broken...",
+              "description": "Ken just realized why the Evolution Giant is the ultimate gimmick card in Clash Royale right now.\n\n\u2022 Watch a single push melt a turret to half HP instantly\n\u2022 The hidden synergy between Rage spell and Evo Giant\n\u2022 Why you cannot ignore this card in the current meta\n\nFeaturing: Ken\n\nIs Evo Giant actually broken, or is this just bad defense? Let us know below!\n\n#shorts #clashroyale #gaming #ken #evogiant #mobilegaming",
               "tags": [
                 "Shorts",
                 "ClashRoyale",
@@ -2702,7 +2702,7 @@
                   "description": "Master the ultimate Evo Giant push strategy to strip half a tower's health in seconds.\n\n\u2022 Time your Rage spell right as Evo Giant locks on\n\u2022 Overwhelm defenses before they can cycle counters\n\u2022 Punish heavy elixir investments with instant lane pressure\n\nFeaturing: Ken\n\nHow do you personally defend against an Evo Giant Rage push?\n\n#shorts #clashroyale #clashroyaletips #gaming #evogiant #ken"
                 }
               },
-              "active_variant": "C",
+              "active_variant": "A",
               "test_status": "ACTIVE_TEST",
               "variant_history": [
                 {
@@ -2728,7 +2728,7 @@
             "id": "ken_1792854495_2",
             "source_video": "Giant Evolution [Overtime Battle]",
             "creator": "Ken",
-            "title": "How to Master the Evo Giant Gimmick",
+            "title": "The SECRET Evo Giant Gimmick Revealed",
             "publish_at": "2026-10-26T20:30:00Z",
             "status": "SCHEDULED",
             "uploaded": true,
@@ -2739,8 +2739,8 @@
             "duration": 24.57,
             "hook_summary": "The creator breaks down the secret mechanic behind the Evo Giant, explaining how its self-contained rage makes all the difference.",
             "metadata": {
-              "title": "How to Master the Evo Giant Gimmick",
-              "description": "Learn the exact framework Ken uses to dominate with the Evo Giant. This breakdown shows you how to utilize the self-contained rage to overwhelm opponents before they can react.\n\n- Perfecting the gimmick timing\n- Step-by-step placement strategy\n- Maximizing the speed advantage\n\nFeaturing: Ken\n\nWhat is the best card to pair with Evo Giant for this specific play?\n\n#shorts #clashroyale #mobilegaming #ken #cr #clash",
+              "title": "The SECRET Evo Giant Gimmick Revealed",
+              "description": "Ken uncovers the hidden mechanic that makes the Evo Giant gimmick unstoppable in the current meta. If you aren't exploiting this specific interaction, you are missing out on free wins.\n\n- The secret of self-contained rage\n- Why the speed factor changes everything\n- How to bypass traditional counters\n\nFeaturing: Ken\n\nIs the Evo Giant the most broken evolution in the game right now?\n\n#shorts #clashroyale #gaming #ken #evogiant #supercell",
               "tags": [
                 "Shorts",
                 "ClashRoyale",
@@ -2769,7 +2769,7 @@
                   "description": "Learn the exact framework Ken uses to dominate with the Evo Giant. This breakdown shows you how to utilize the self-contained rage to overwhelm opponents before they can react.\n\n- Perfecting the gimmick timing\n- Step-by-step placement strategy\n- Maximizing the speed advantage\n\nFeaturing: Ken\n\nWhat is the best card to pair with Evo Giant for this specific play?\n\n#shorts #clashroyale #mobilegaming #ken #cr #clash"
                 }
               },
-              "active_variant": "C",
+              "active_variant": "A",
               "test_status": "ACTIVE_TEST",
               "variant_history": [
                 {
@@ -2866,7 +2866,7 @@
             "id": "ken_1792948153_1",
             "source_video": "Mirror Evolution [Clutch Moment]",
             "creator": "Ken",
-            "title": "How to completely ruin your win streak",
+            "title": "The worst strategy I've ever used...",
             "publish_at": "2026-10-27T15:30:00Z",
             "status": "SCHEDULED",
             "uploaded": true,
@@ -2877,8 +2877,8 @@
             "duration": 26.61,
             "hook_summary": "The creator realizes their tactic is failing miserably and spirals into humorous despair as the match falls apart.",
             "metadata": {
-              "title": "How to completely ruin your win streak",
-              "description": "Need a masterclass in how to throw a match in under thirty seconds? Study this absolute disasterpiece of a tactical breakdown and do the exact opposite.\n\n\u2022 Step one: Invent a questionable new synergy\n\u2022 Step two: Watch your entire push evaporate instantly\n\u2022 Step three: Question all your life choices\n\nFeaturing: Ken\n\nWhat is the single worst card or item you have ever wasted Elixir or resources on? Tell me your story!\n\n#shorts #gaming #strategy #mobilegaming #fail #funny",
+              "title": "The worst strategy I've ever used...",
+              "description": "Watch the exact moment a masterclass plan completely implodes into pure comedy. Sometimes the wildest tactics sound good on paper until reality hits hard.\n\n\u2022 Witness the live collapse of a terrible game plan\n\u2022 Learn what NOT to do when your push fails\n\u2022 Experience second-hand gaming despair in real-time\n\nFeaturing: Ken\n\nHave you ever tried a strategy so bad it actually made you laugh out loud? Drop your biggest gaming fails below!\n\n#shorts #gaming #mobilegaming #fail #strategy #funny",
               "tags": [
                 "gaming shorts",
                 "ken gameplay",
@@ -2907,7 +2907,7 @@
                   "description": "Need a masterclass in how to throw a match in under thirty seconds? Study this absolute disasterpiece of a tactical breakdown and do the exact opposite.\n\n\u2022 Step one: Invent a questionable new synergy\n\u2022 Step two: Watch your entire push evaporate instantly\n\u2022 Step three: Question all your life choices\n\nFeaturing: Ken\n\nWhat is the single worst card or item you have ever wasted Elixir or resources on? Tell me your story!\n\n#shorts #gaming #strategy #mobilegaming #fail #funny"
                 }
               },
-              "active_variant": "C",
+              "active_variant": "A",
               "test_status": "ACTIVE_TEST",
               "variant_history": [
                 {
@@ -4020,7 +4020,7 @@
                 "comments": 0,
                 "retention": 0.0,
                 "ctr": 0.0,
-                "velocity_vph": 0.91,
+                "velocity_vph": 0.9,
                 "engagement_pct": 2.47,
                 "vvsa_pct": 32.7,
                 "average_view_pct": 81.77,
@@ -4160,7 +4160,7 @@
                 "comments": 0,
                 "retention": 0.0,
                 "ctr": 0.0,
-                "velocity_vph": 2.86,
+                "velocity_vph": 2.85,
                 "engagement_pct": 2.04,
                 "vvsa_pct": 46.5,
                 "average_view_pct": 63.01,
@@ -4243,7 +4243,7 @@
             "id": "ken_1792212492_9",
             "source_video": "least busted card [Clutch Moment]",
             "creator": "Ken",
-            "title": "Chip Cycling Is Officially Dead",
+            "title": "Stop Doing This With Your Elixir",
             "publish_at": "2026-10-19T17:00:00Z",
             "status": "PUBLISHED",
             "uploaded": true,
@@ -4254,8 +4254,8 @@
             "duration": 27.73,
             "hook_summary": "The creator makes a bold claim about why traditional chip cycle strategies are officially dead in the current meta.",
             "metadata": {
-              "title": "Chip Cycling Is Officially Dead",
-              "description": "Forget everything you know about standard tower pressure because chip cycle is officially dead. Ken exposes why minor chip damage is a complete waste of your resources.\n\n\u2022 The brutal truth about current tower defense scaling\n\u2022 Why bridge spam punishes old-school tactics instantly\n\u2022 The exact moment you should stop chipping and start saving\n\nFeaturing: Ken\n\nIs bridge spam actually unbeatable right now, or is there a counter?\n\n#shorts #ken #gamingtips #meta #clashroyale #strategy",
+              "title": "Stop Doing This With Your Elixir",
+              "description": "If you are still relying on minor tower chips to win, you are playing the game wrong. Ken shares the exact rule you need to follow to stop bleeding elixir in today's meta.\n\n\u2022 The new golden rule for elixir management\n\u2022 How to pivot away from outdated chip strategies\n\u2022 Building a push that actually overwhelms modern defenses\n\nFeaturing: Ken\n\nWhat is your go-to win condition if not chip damage?\n\n#shorts #ken #gaming #protips #clashroyale #elixir",
               "tags": [
                 "Shorts",
                 "ClashRoyale",
@@ -4284,7 +4284,7 @@
                   "description": "If you are still relying on minor tower chips to win, you are playing the game wrong. Ken shares the exact rule you need to follow to stop bleeding elixir in today's meta.\n\n\u2022 The new golden rule for elixir management\n\u2022 How to pivot away from outdated chip strategies\n\u2022 Building a push that actually overwhelms modern defenses\n\nFeaturing: Ken\n\nWhat is your go-to win condition if not chip damage?\n\n#shorts #ken #gaming #protips #clashroyale #elixir"
                 }
               },
-              "active_variant": "B",
+              "active_variant": "C",
               "test_status": "ACTIVE_TEST",
               "variant_history": [
                 {
@@ -5499,7 +5499,7 @@
                 "comments": 1,
                 "retention": 0.0,
                 "ctr": 0.0,
-                "velocity_vph": 2.62,
+                "velocity_vph": 2.61,
                 "engagement_pct": 0.82,
                 "vvsa_pct": 14.4,
                 "average_view_pct": 37.29,
@@ -5694,23 +5694,23 @@
       },
       "analytics": {
         "summary": {
-          "total_views": 48922,
+          "total_views": 48924,
           "shorts_published": 0,
-          "total_likes": 530,
+          "total_likes": 531,
           "avg_retention_pct": 82.5,
           "avg_ctr_pct": 14.8,
           "total_subscribers_gained": 0,
           "estimated_revenue_usd": 0.0,
           "health_grade": "A+",
           "total_shorts_published": 54,
-          "last_audit": 1793751271.047032
+          "last_audit": 1793751532.5019321
         },
         "top_shorts": [
           {
             "title": "He actually ended it right here...",
             "creator": "Ken",
             "views": 32,
-            "velocity": 45.49,
+            "velocity": 41.11,
             "vvsa_pct": 0.0,
             "average_view_pct": 0.0,
             "angle": "Curiosity Gap"
@@ -5719,7 +5719,7 @@
             "title": "Ken's Rant Got Interrupted By THIS",
             "creator": "Ken",
             "views": 216,
-            "velocity": 32.21,
+            "velocity": 31.85,
             "vvsa_pct": 0.0,
             "average_view_pct": 0.0,
             "angle": "Curiosity Gap"
@@ -5728,7 +5728,7 @@
             "title": "How did he actually pull this off?",
             "creator": "Ken",
             "views": 1202,
-            "velocity": 48.65,
+            "velocity": 48.5,
             "vvsa_pct": 0.0,
             "average_view_pct": 0.0,
             "angle": "Curiosity Gap"
@@ -5736,8 +5736,8 @@
           {
             "title": "Why Club Penguin DESTROYS Clash Royale...",
             "creator": "Ken",
-            "views": 1336,
-            "velocity": 43.52,
+            "views": 1340,
+            "velocity": 43.54,
             "vvsa_pct": 0.0,
             "average_view_pct": 0.0,
             "angle": "Curiosity Gap"
@@ -5746,7 +5746,7 @@
             "title": "Ken FINALLY Beats The 20-Win Challenge At 19-2 (LIVE POP-OFF) \ud83c\udfc6\ud83d\udc80 #shorts",
             "creator": "Ken (@kenforrest)",
             "views": 1385,
-            "velocity": 35.26,
+            "velocity": 35.19,
             "vvsa_pct": 0.0,
             "average_view_pct": 0.0,
             "angle": "High Retention / Viral Peak"
@@ -5754,8 +5754,8 @@
           {
             "title": "It Took 53 Seconds To Break The Air-Only Rule \ud83d\udc80 #Shorts",
             "creator": "Ken",
-            "views": 1256,
-            "velocity": 25.79,
+            "views": 1253,
+            "velocity": 25.69,
             "vvsa_pct": 0.0,
             "average_view_pct": 0.0,
             "angle": "High Retention / Viral Peak"
@@ -5764,7 +5764,7 @@
             "title": "That Was Not A Good Game In Any Sense Of The Word \ud83d\udc80 #Shorts",
             "creator": "Ken",
             "views": 732,
-            "velocity": 13.38,
+            "velocity": 13.36,
             "vvsa_pct": 0.0,
             "average_view_pct": 0.0,
             "angle": "High Retention / Viral Peak"
@@ -5772,7 +5772,7 @@
           {
             "title": "Who The Hell Is Count Orgob?! \ud83d\udc80 #Shorts",
             "creator": "Ken",
-            "views": 1099,
+            "views": 1100,
             "velocity": 14.91,
             "vvsa_pct": 0.0,
             "average_view_pct": 0.0,
@@ -5782,7 +5782,7 @@
             "title": "Infinite Goblin Giant Freeze Combo Broke Clash \ud83d\udc80",
             "creator": "Ken",
             "views": 1584,
-            "velocity": 7.38,
+            "velocity": 7.37,
             "vvsa_pct": 0.0,
             "average_view_pct": 0.0,
             "angle": "Curiosity Gap"
@@ -8268,17 +8268,17 @@
     },
     "ANALYST": {
       "status": "working",
-      "current_task": "Telemetry Audit: 48,922 views (54 shorts). Auto-pivoted 4 stalled title(s).",
+      "current_task": "Telemetry Audit: 48,924 views (54 shorts). Auto-pivoted 4 stalled title(s).",
       "last_completed_task": "Calibrated gaming threshold: >15 views/hr within 4h",
       "recent_logs": [
-        "[22:55:35] Telemetry Audit: 46,596 views (52 shorts). Auto-pivoted 4 stalled title(s).",
         "[22:59:46] Telemetry Audit: 46,597 views (52 shorts). Auto-pivoted 4 stalled title(s).",
         "[23:03:47] Telemetry Audit: 46,603 views (52 shorts). Auto-pivoted 4 stalled title(s).",
         "[05:57:05] Telemetry Audit: 47,117 views (52 shorts). Auto-pivoted 5 stalled title(s).",
         "[18:58:36] Telemetry Audit: 47,928 views (52 shorts). Auto-pivoted 4 stalled title(s).",
         "[19:03:55] Telemetry Audit: 48,886 views (54 shorts). Auto-pivoted 4 stalled title(s).",
         "[19:09:09] Telemetry Audit: 48,890 views (54 shorts). Auto-pivoted 4 stalled title(s).",
-        "[19:14:31] Telemetry Audit: 48,922 views (54 shorts). Auto-pivoted 4 stalled title(s)."
+        "[19:14:31] Telemetry Audit: 48,922 views (54 shorts). Auto-pivoted 4 stalled title(s).",
+        "[19:18:52] Telemetry Audit: 48,924 views (54 shorts). Auto-pivoted 4 stalled title(s)."
       ]
     },
     "WATCHDOG": {
@@ -8286,14 +8286,14 @@
       "current_task": "Verifying Supercell fan policy: 0 claims, 0 strikes.",
       "last_completed_task": "Audited source parameters: strictly <30s segment rule active",
       "recent_logs": [
-        "[22:55:35] Verifying Supercell fan policy: 0 claims, 0 strikes.",
         "[22:59:46] Verifying Supercell fan policy: 0 claims, 0 strikes.",
         "[23:03:47] Verifying Supercell fan policy: 0 claims, 0 strikes.",
         "[05:57:05] Verifying Supercell fan policy: 0 claims, 0 strikes.",
         "[18:58:36] Verifying Supercell fan policy: 0 claims, 0 strikes.",
         "[19:03:55] Verifying Supercell fan policy: 0 claims, 0 strikes.",
         "[19:09:09] Verifying Supercell fan policy: 0 claims, 0 strikes.",
-        "[19:14:31] Verifying Supercell fan policy: 0 claims, 0 strikes."
+        "[19:14:31] Verifying Supercell fan policy: 0 claims, 0 strikes.",
+        "[19:18:52] Verifying Supercell fan policy: 0 claims, 0 strikes."
       ]
     }
   },
@@ -10381,12 +10381,12 @@
           ],
           "metrics": {
             "views": 32,
-            "likes": 0,
+            "likes": 1,
             "comments": 0,
             "retention": 0.0,
             "ctr": 0.0,
-            "velocity_vph": 45.49,
-            "engagement_pct": 0.0
+            "velocity_vph": 41.11,
+            "engagement_pct": 3.12
           }
         },
         "reframed": "gaming_split"
@@ -10453,7 +10453,7 @@
             "comments": 0,
             "retention": 0.0,
             "ctr": 0.0,
-            "velocity_vph": 32.21,
+            "velocity_vph": 31.85,
             "engagement_pct": 0.46
           }
         },
@@ -10520,7 +10520,7 @@
             "comments": 0,
             "retention": 0.0,
             "ctr": 0.0,
-            "velocity_vph": 48.65,
+            "velocity_vph": 48.5,
             "engagement_pct": 0.58
           }
         },
@@ -10584,12 +10584,12 @@
             }
           ],
           "metrics": {
-            "views": 1336,
+            "views": 1340,
             "likes": 3,
             "comments": 0,
             "retention": 0.0,
             "ctr": 0.0,
-            "velocity_vph": 43.52,
+            "velocity_vph": 43.54,
             "engagement_pct": 0.22
           }
         },
@@ -10616,7 +10616,7 @@
             "views": 1385,
             "likes": 58,
             "comments": 2,
-            "velocity_vph": 35.26,
+            "velocity_vph": 35.19,
             "engagement_pct": 4.33
           },
           "test_status": "WINNER_LOCKED"
@@ -10638,10 +10638,10 @@
         "reframed": "gaming_split_v3",
         "metadata": {
           "metrics": {
-            "views": 1256,
+            "views": 1253,
             "likes": 13,
             "comments": 0,
-            "velocity_vph": 25.79,
+            "velocity_vph": 25.69,
             "engagement_pct": 1.04
           },
           "test_status": "WINNER_LOCKED"
@@ -10666,7 +10666,7 @@
             "views": 732,
             "likes": 15,
             "comments": 0,
-            "velocity_vph": 13.38,
+            "velocity_vph": 13.36,
             "engagement_pct": 2.05
           },
           "test_status": "WINNER_LOCKED"
@@ -10688,7 +10688,7 @@
         "reframed": "gaming_split_v3",
         "metadata": {
           "metrics": {
-            "views": 1099,
+            "views": 1100,
             "likes": 18,
             "comments": 2,
             "velocity_vph": 14.91,
@@ -10758,7 +10758,7 @@
             "comments": 1,
             "retention": 0.0,
             "ctr": 0.0,
-            "velocity_vph": 7.38,
+            "velocity_vph": 7.37,
             "engagement_pct": 0.32
           }
         },
@@ -10768,7 +10768,7 @@
         "id": "ken_1792854495_1",
         "source_video": "Giant Evolution [Clutch Moment]",
         "creator": "Ken",
-        "title": "How to Wipe Towers in Seconds with Giant",
+        "title": "This Evo Giant Interaction Is Broken...",
         "publish_at": "2026-10-26T15:30:00Z",
         "status": "SCHEDULED",
         "uploaded": true,
@@ -10779,8 +10779,8 @@
         "duration": 27.82,
         "hook_summary": "The creator reacts to a massive unexpected push taking a turret to half HP, leading to a realization about the most gimmicky part of the card.",
         "metadata": {
-          "title": "How to Wipe Towers in Seconds with Giant",
-          "description": "Master the ultimate Evo Giant push strategy to strip half a tower's health in seconds.\n\n\u2022 Time your Rage spell right as Evo Giant locks on\n\u2022 Overwhelm defenses before they can cycle counters\n\u2022 Punish heavy elixir investments with instant lane pressure\n\nFeaturing: Ken\n\nHow do you personally defend against an Evo Giant Rage push?\n\n#shorts #clashroyale #clashroyaletips #gaming #evogiant #ken",
+          "title": "This Evo Giant Interaction Is Broken...",
+          "description": "Ken just realized why the Evolution Giant is the ultimate gimmick card in Clash Royale right now.\n\n\u2022 Watch a single push melt a turret to half HP instantly\n\u2022 The hidden synergy between Rage spell and Evo Giant\n\u2022 Why you cannot ignore this card in the current meta\n\nFeaturing: Ken\n\nIs Evo Giant actually broken, or is this just bad defense? Let us know below!\n\n#shorts #clashroyale #gaming #ken #evogiant #mobilegaming",
           "tags": [
             "Shorts",
             "ClashRoyale",
@@ -10809,7 +10809,7 @@
               "description": "Master the ultimate Evo Giant push strategy to strip half a tower's health in seconds.\n\n\u2022 Time your Rage spell right as Evo Giant locks on\n\u2022 Overwhelm defenses before they can cycle counters\n\u2022 Punish heavy elixir investments with instant lane pressure\n\nFeaturing: Ken\n\nHow do you personally defend against an Evo Giant Rage push?\n\n#shorts #clashroyale #clashroyaletips #gaming #evogiant #ken"
             }
           },
-          "active_variant": "C",
+          "active_variant": "A",
           "test_status": "ACTIVE_TEST",
           "variant_history": [
             {
@@ -10835,7 +10835,7 @@
         "id": "ken_1792854495_2",
         "source_video": "Giant Evolution [Overtime Battle]",
         "creator": "Ken",
-        "title": "How to Master the Evo Giant Gimmick",
+        "title": "The SECRET Evo Giant Gimmick Revealed",
         "publish_at": "2026-10-26T20:30:00Z",
         "status": "SCHEDULED",
         "uploaded": true,
@@ -10846,8 +10846,8 @@
         "duration": 24.57,
         "hook_summary": "The creator breaks down the secret mechanic behind the Evo Giant, explaining how its self-contained rage makes all the difference.",
         "metadata": {
-          "title": "How to Master the Evo Giant Gimmick",
-          "description": "Learn the exact framework Ken uses to dominate with the Evo Giant. This breakdown shows you how to utilize the self-contained rage to overwhelm opponents before they can react.\n\n- Perfecting the gimmick timing\n- Step-by-step placement strategy\n- Maximizing the speed advantage\n\nFeaturing: Ken\n\nWhat is the best card to pair with Evo Giant for this specific play?\n\n#shorts #clashroyale #mobilegaming #ken #cr #clash",
+          "title": "The SECRET Evo Giant Gimmick Revealed",
+          "description": "Ken uncovers the hidden mechanic that makes the Evo Giant gimmick unstoppable in the current meta. If you aren't exploiting this specific interaction, you are missing out on free wins.\n\n- The secret of self-contained rage\n- Why the speed factor changes everything\n- How to bypass traditional counters\n\nFeaturing: Ken\n\nIs the Evo Giant the most broken evolution in the game right now?\n\n#shorts #clashroyale #gaming #ken #evogiant #supercell",
           "tags": [
             "Shorts",
             "ClashRoyale",
@@ -10876,7 +10876,7 @@
               "description": "Learn the exact framework Ken uses to dominate with the Evo Giant. This breakdown shows you how to utilize the self-contained rage to overwhelm opponents before they can react.\n\n- Perfecting the gimmick timing\n- Step-by-step placement strategy\n- Maximizing the speed advantage\n\nFeaturing: Ken\n\nWhat is the best card to pair with Evo Giant for this specific play?\n\n#shorts #clashroyale #mobilegaming #ken #cr #clash"
             }
           },
-          "active_variant": "C",
+          "active_variant": "A",
           "test_status": "ACTIVE_TEST",
           "variant_history": [
             {
@@ -10973,7 +10973,7 @@
         "id": "ken_1792948153_1",
         "source_video": "Mirror Evolution [Clutch Moment]",
         "creator": "Ken",
-        "title": "How to completely ruin your win streak",
+        "title": "The worst strategy I've ever used...",
         "publish_at": "2026-10-27T15:30:00Z",
         "status": "SCHEDULED",
         "uploaded": true,
@@ -10984,8 +10984,8 @@
         "duration": 26.61,
         "hook_summary": "The creator realizes their tactic is failing miserably and spirals into humorous despair as the match falls apart.",
         "metadata": {
-          "title": "How to completely ruin your win streak",
-          "description": "Need a masterclass in how to throw a match in under thirty seconds? Study this absolute disasterpiece of a tactical breakdown and do the exact opposite.\n\n\u2022 Step one: Invent a questionable new synergy\n\u2022 Step two: Watch your entire push evaporate instantly\n\u2022 Step three: Question all your life choices\n\nFeaturing: Ken\n\nWhat is the single worst card or item you have ever wasted Elixir or resources on? Tell me your story!\n\n#shorts #gaming #strategy #mobilegaming #fail #funny",
+          "title": "The worst strategy I've ever used...",
+          "description": "Watch the exact moment a masterclass plan completely implodes into pure comedy. Sometimes the wildest tactics sound good on paper until reality hits hard.\n\n\u2022 Witness the live collapse of a terrible game plan\n\u2022 Learn what NOT to do when your push fails\n\u2022 Experience second-hand gaming despair in real-time\n\nFeaturing: Ken\n\nHave you ever tried a strategy so bad it actually made you laugh out loud? Drop your biggest gaming fails below!\n\n#shorts #gaming #mobilegaming #fail #strategy #funny",
           "tags": [
             "gaming shorts",
             "ken gameplay",
@@ -11014,7 +11014,7 @@
               "description": "Need a masterclass in how to throw a match in under thirty seconds? Study this absolute disasterpiece of a tactical breakdown and do the exact opposite.\n\n\u2022 Step one: Invent a questionable new synergy\n\u2022 Step two: Watch your entire push evaporate instantly\n\u2022 Step three: Question all your life choices\n\nFeaturing: Ken\n\nWhat is the single worst card or item you have ever wasted Elixir or resources on? Tell me your story!\n\n#shorts #gaming #strategy #mobilegaming #fail #funny"
             }
           },
-          "active_variant": "C",
+          "active_variant": "A",
           "test_status": "ACTIVE_TEST",
           "variant_history": [
             {
@@ -12127,7 +12127,7 @@
             "comments": 0,
             "retention": 0.0,
             "ctr": 0.0,
-            "velocity_vph": 0.91,
+            "velocity_vph": 0.9,
             "engagement_pct": 2.47,
             "vvsa_pct": 32.7,
             "average_view_pct": 81.77,
@@ -12267,7 +12267,7 @@
             "comments": 0,
             "retention": 0.0,
             "ctr": 0.0,
-            "velocity_vph": 2.86,
+            "velocity_vph": 2.85,
             "engagement_pct": 2.04,
             "vvsa_pct": 46.5,
             "average_view_pct": 63.01,
@@ -12350,7 +12350,7 @@
         "id": "ken_1792212492_9",
         "source_video": "least busted card [Clutch Moment]",
         "creator": "Ken",
-        "title": "Chip Cycling Is Officially Dead",
+        "title": "Stop Doing This With Your Elixir",
         "publish_at": "2026-10-19T17:00:00Z",
         "status": "PUBLISHED",
         "uploaded": true,
@@ -12361,8 +12361,8 @@
         "duration": 27.73,
         "hook_summary": "The creator makes a bold claim about why traditional chip cycle strategies are officially dead in the current meta.",
         "metadata": {
-          "title": "Chip Cycling Is Officially Dead",
-          "description": "Forget everything you know about standard tower pressure because chip cycle is officially dead. Ken exposes why minor chip damage is a complete waste of your resources.\n\n\u2022 The brutal truth about current tower defense scaling\n\u2022 Why bridge spam punishes old-school tactics instantly\n\u2022 The exact moment you should stop chipping and start saving\n\nFeaturing: Ken\n\nIs bridge spam actually unbeatable right now, or is there a counter?\n\n#shorts #ken #gamingtips #meta #clashroyale #strategy",
+          "title": "Stop Doing This With Your Elixir",
+          "description": "If you are still relying on minor tower chips to win, you are playing the game wrong. Ken shares the exact rule you need to follow to stop bleeding elixir in today's meta.\n\n\u2022 The new golden rule for elixir management\n\u2022 How to pivot away from outdated chip strategies\n\u2022 Building a push that actually overwhelms modern defenses\n\nFeaturing: Ken\n\nWhat is your go-to win condition if not chip damage?\n\n#shorts #ken #gaming #protips #clashroyale #elixir",
           "tags": [
             "Shorts",
             "ClashRoyale",
@@ -12391,7 +12391,7 @@
               "description": "If you are still relying on minor tower chips to win, you are playing the game wrong. Ken shares the exact rule you need to follow to stop bleeding elixir in today's meta.\n\n\u2022 The new golden rule for elixir management\n\u2022 How to pivot away from outdated chip strategies\n\u2022 Building a push that actually overwhelms modern defenses\n\nFeaturing: Ken\n\nWhat is your go-to win condition if not chip damage?\n\n#shorts #ken #gaming #protips #clashroyale #elixir"
             }
           },
-          "active_variant": "B",
+          "active_variant": "C",
           "test_status": "ACTIVE_TEST",
           "variant_history": [
             {
@@ -13606,7 +13606,7 @@
             "comments": 1,
             "retention": 0.0,
             "ctr": 0.0,
-            "velocity_vph": 2.62,
+            "velocity_vph": 2.61,
             "engagement_pct": 0.82,
             "vvsa_pct": 14.4,
             "average_view_pct": 37.29,
@@ -13801,23 +13801,23 @@
   },
   "analytics": {
     "summary": {
-      "total_views": 48922,
+      "total_views": 48924,
       "shorts_published": 0,
-      "total_likes": 530,
+      "total_likes": 531,
       "avg_retention_pct": 82.5,
       "avg_ctr_pct": 14.8,
       "total_subscribers_gained": 0,
       "estimated_revenue_usd": 0.0,
       "health_grade": "A+",
       "total_shorts_published": 54,
-      "last_audit": 1793751271.047032
+      "last_audit": 1793751532.5019321
     },
     "top_shorts": [
       {
         "title": "He actually ended it right here...",
         "creator": "Ken",
         "views": 32,
-        "velocity": 45.49,
+        "velocity": 41.11,
         "vvsa_pct": 0.0,
         "average_view_pct": 0.0,
         "angle": "Curiosity Gap"
@@ -13826,7 +13826,7 @@
         "title": "Ken's Rant Got Interrupted By THIS",
         "creator": "Ken",
         "views": 216,
-        "velocity": 32.21,
+        "velocity": 31.85,
         "vvsa_pct": 0.0,
         "average_view_pct": 0.0,
         "angle": "Curiosity Gap"
@@ -13835,7 +13835,7 @@
         "title": "How did he actually pull this off?",
         "creator": "Ken",
         "views": 1202,
-        "velocity": 48.65,
+        "velocity": 48.5,
         "vvsa_pct": 0.0,
         "average_view_pct": 0.0,
         "angle": "Curiosity Gap"
@@ -13843,8 +13843,8 @@
       {
         "title": "Why Club Penguin DESTROYS Clash Royale...",
         "creator": "Ken",
-        "views": 1336,
-        "velocity": 43.52,
+        "views": 1340,
+        "velocity": 43.54,
         "vvsa_pct": 0.0,
         "average_view_pct": 0.0,
         "angle": "Curiosity Gap"
@@ -13853,7 +13853,7 @@
         "title": "Ken FINALLY Beats The 20-Win Challenge At 19-2 (LIVE POP-OFF) \ud83c\udfc6\ud83d\udc80 #shorts",
         "creator": "Ken (@kenforrest)",
         "views": 1385,
-        "velocity": 35.26,
+        "velocity": 35.19,
         "vvsa_pct": 0.0,
         "average_view_pct": 0.0,
         "angle": "High Retention / Viral Peak"
@@ -13861,8 +13861,8 @@
       {
         "title": "It Took 53 Seconds To Break The Air-Only Rule \ud83d\udc80 #Shorts",
         "creator": "Ken",
-        "views": 1256,
-        "velocity": 25.79,
+        "views": 1253,
+        "velocity": 25.69,
         "vvsa_pct": 0.0,
         "average_view_pct": 0.0,
         "angle": "High Retention / Viral Peak"
@@ -13871,7 +13871,7 @@
         "title": "That Was Not A Good Game In Any Sense Of The Word \ud83d\udc80 #Shorts",
         "creator": "Ken",
         "views": 732,
-        "velocity": 13.38,
+        "velocity": 13.36,
         "vvsa_pct": 0.0,
         "average_view_pct": 0.0,
         "angle": "High Retention / Viral Peak"
@@ -13879,7 +13879,7 @@
       {
         "title": "Who The Hell Is Count Orgob?! \ud83d\udc80 #Shorts",
         "creator": "Ken",
-        "views": 1099,
+        "views": 1100,
         "velocity": 14.91,
         "vvsa_pct": 0.0,
         "average_view_pct": 0.0,
@@ -13889,7 +13889,7 @@
         "title": "Infinite Goblin Giant Freeze Combo Broke Clash \ud83d\udc80",
         "creator": "Ken",
         "views": 1584,
-        "velocity": 7.38,
+        "velocity": 7.37,
         "vvsa_pct": 0.0,
         "average_view_pct": 0.0,
         "angle": "Curiosity Gap"

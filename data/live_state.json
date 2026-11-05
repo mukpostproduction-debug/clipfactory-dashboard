@@ -1,6 +1,6 @@
 {
-  "timestamp": 1793872994.43013,
-  "sync_time_iso": "2026-11-05T10:03:14Z",
+  "timestamp": 1793873056.207773,
+  "sync_time_iso": "2026-11-05T10:04:16Z",
   "default_channel": "ken_clips_burger",
   "channels": {
     "ken_clips_burger": {
@@ -92,17 +92,17 @@
       "agents": {
         "SCOUT": {
           "status": "working",
-          "current_task": "Queue up to date. Waiting for next daily Ken upload.",
+          "current_task": "Ingested 4 fresh Ken clip candidate(s) into queue.",
           "last_completed_task": "Ingested 5 recent Ken master videos into source pool",
           "recent_logs": [
-            "[04:59:05] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
-            "[04:59:17] Mined 4 crowd-upvoted comment timestamps for: chaos mega draft, but I pick c",
-            "[04:59:19] Mined 4 crowd-upvoted comment timestamps for: I love bullying",
-            "[04:59:22] Mined 4 crowd-upvoted comment timestamps for: Can I beat 20 wins in front of",
-            "[04:59:25] Mined 4 crowd-upvoted comment timestamps for: 20 win challenge",
-            "[04:59:27] Mined 4 crowd-upvoted comment timestamps for: chaos mega draft, but I pick a",
-            "[04:59:29] Mined 4 crowd-upvoted comment timestamps for: chaos mega draft, but I pick w",
-            "[04:59:29] Queue up to date. Waiting for next daily Ken upload."
+            "[04:59:29] Queue up to date. Waiting for next daily Ken upload.",
+            "[05:03:30] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
+            "[05:03:45] Mined 4 crowd-upvoted comment timestamps for: chaos mega draft, but I pick c",
+            "[05:03:47] Mined 4 crowd-upvoted comment timestamps for: I love bullying",
+            "[05:03:49] Mined 4 crowd-upvoted comment timestamps for: Can I beat 20 wins in front of",
+            "[05:03:52] Mined 4 crowd-upvoted comment timestamps for: 20 win challenge",
+            "[05:03:54] Mined 4 crowd-upvoted comment timestamps for: chaos mega draft, but I pick a",
+            "[05:03:54] Ingested 4 fresh Ken clip candidate(s) into queue."
           ]
         },
         "STRATEGIST": {
@@ -146,17 +146,17 @@
         },
         "PUBLISHER": {
           "status": "working",
-          "current_task": "Upload staged for automatic retry: ken_1793839637_0",
+          "current_task": "Deploying to YouTube (@kenclipsburger420) for release 06:30 PM ET (Sat, Nov 07)...",
           "last_completed_task": "Uploaded all 3 initial Clash Royale gaming cuts to YouTube (kenclipsburger420)",
           "recent_logs": [
-            "[04:54:59] Generating gaming A/B metadata for slot: 06:30 PM ET (Sat, Nov 07)...",
-            "[04:55:14] Deploying to YouTube (@kenclipsburger420) for release 06:30 PM ET (Sat, Nov 07)...",
             "[04:55:31] YouTube upload error: ('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
             "[04:55:31] Upload staged for automatic retry: ken_1793839637_0",
             "[04:59:29] Generating gaming A/B metadata for slot: 06:30 PM ET (Sat, Nov 07)...",
             "[04:59:40] Deploying to YouTube (@kenclipsburger420) for release 06:30 PM ET (Sat, Nov 07)...",
             "[04:59:56] YouTube upload error: ('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
-            "[04:59:56] Upload staged for automatic retry: ken_1793839637_0"
+            "[04:59:56] Upload staged for automatic retry: ken_1793839637_0",
+            "[05:03:54] Generating gaming A/B metadata for slot: 06:30 PM ET (Sat, Nov 07)...",
+            "[05:04:05] Deploying to YouTube (@kenclipsburger420) for release 06:30 PM ET (Sat, Nov 07)..."
           ]
         },
         "ANALYST": {
@@ -732,6 +732,50 @@
             "duration": 1003,
             "status": "QUEUED",
             "added_at": "2026-11-05T00:47:08Z"
+          },
+          {
+            "id": "ken_1793873022_0",
+            "creator": "Ken",
+            "title": "2.6 goon cycle [Match 1 Climax]",
+            "source_title": "2.6 goon cycle",
+            "url": "https://www.youtube.com/watch?v=9WSKL8Q1pgQ",
+            "section": "*96-156",
+            "duration": 703,
+            "status": "QUEUED",
+            "added_at": "2026-11-05T10:03:40Z"
+          },
+          {
+            "id": "ken_1793873022_1",
+            "creator": "Ken",
+            "title": "2.6 goon cycle [Match 2 Clutch]",
+            "source_title": "2.6 goon cycle",
+            "url": "https://www.youtube.com/watch?v=9WSKL8Q1pgQ",
+            "section": "*265-325",
+            "duration": 703,
+            "status": "QUEUED",
+            "added_at": "2026-11-05T10:03:40Z"
+          },
+          {
+            "id": "ken_1793873022_2",
+            "creator": "Ken",
+            "title": "2.6 goon cycle [Match 3 Rage]",
+            "source_title": "2.6 goon cycle",
+            "url": "https://www.youtube.com/watch?v=9WSKL8Q1pgQ",
+            "section": "*426-486",
+            "duration": 703,
+            "status": "QUEUED",
+            "added_at": "2026-11-05T10:03:40Z"
+          },
+          {
+            "id": "ken_1793873022_3",
+            "creator": "Ken",
+            "title": "2.6 goon cycle [Final Overtime Battle]",
+            "source_title": "2.6 goon cycle",
+            "url": "https://www.youtube.com/watch?v=9WSKL8Q1pgQ",
+            "section": "*574-634",
+            "duration": 703,
+            "status": "QUEUED",
+            "added_at": "2026-11-05T10:03:40Z"
           }
         ],
         "processing": null,
@@ -8336,17 +8380,17 @@
   "agents": {
     "SCOUT": {
       "status": "working",
-      "current_task": "Queue up to date. Waiting for next daily Ken upload.",
+      "current_task": "Ingested 4 fresh Ken clip candidate(s) into queue.",
       "last_completed_task": "Ingested 5 recent Ken master videos into source pool",
       "recent_logs": [
-        "[04:59:05] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
-        "[04:59:17] Mined 4 crowd-upvoted comment timestamps for: chaos mega draft, but I pick c",
-        "[04:59:19] Mined 4 crowd-upvoted comment timestamps for: I love bullying",
-        "[04:59:22] Mined 4 crowd-upvoted comment timestamps for: Can I beat 20 wins in front of",
-        "[04:59:25] Mined 4 crowd-upvoted comment timestamps for: 20 win challenge",
-        "[04:59:27] Mined 4 crowd-upvoted comment timestamps for: chaos mega draft, but I pick a",
-        "[04:59:29] Mined 4 crowd-upvoted comment timestamps for: chaos mega draft, but I pick w",
-        "[04:59:29] Queue up to date. Waiting for next daily Ken upload."
+        "[04:59:29] Queue up to date. Waiting for next daily Ken upload.",
+        "[05:03:30] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
+        "[05:03:45] Mined 4 crowd-upvoted comment timestamps for: chaos mega draft, but I pick c",
+        "[05:03:47] Mined 4 crowd-upvoted comment timestamps for: I love bullying",
+        "[05:03:49] Mined 4 crowd-upvoted comment timestamps for: Can I beat 20 wins in front of",
+        "[05:03:52] Mined 4 crowd-upvoted comment timestamps for: 20 win challenge",
+        "[05:03:54] Mined 4 crowd-upvoted comment timestamps for: chaos mega draft, but I pick a",
+        "[05:03:54] Ingested 4 fresh Ken clip candidate(s) into queue."
       ]
     },
     "STRATEGIST": {
@@ -8390,17 +8434,17 @@
     },
     "PUBLISHER": {
       "status": "working",
-      "current_task": "Upload staged for automatic retry: ken_1793839637_0",
+      "current_task": "Deploying to YouTube (@kenclipsburger420) for release 06:30 PM ET (Sat, Nov 07)...",
       "last_completed_task": "Uploaded all 3 initial Clash Royale gaming cuts to YouTube (kenclipsburger420)",
       "recent_logs": [
-        "[04:54:59] Generating gaming A/B metadata for slot: 06:30 PM ET (Sat, Nov 07)...",
-        "[04:55:14] Deploying to YouTube (@kenclipsburger420) for release 06:30 PM ET (Sat, Nov 07)...",
         "[04:55:31] YouTube upload error: ('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
         "[04:55:31] Upload staged for automatic retry: ken_1793839637_0",
         "[04:59:29] Generating gaming A/B metadata for slot: 06:30 PM ET (Sat, Nov 07)...",
         "[04:59:40] Deploying to YouTube (@kenclipsburger420) for release 06:30 PM ET (Sat, Nov 07)...",
         "[04:59:56] YouTube upload error: ('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
-        "[04:59:56] Upload staged for automatic retry: ken_1793839637_0"
+        "[04:59:56] Upload staged for automatic retry: ken_1793839637_0",
+        "[05:03:54] Generating gaming A/B metadata for slot: 06:30 PM ET (Sat, Nov 07)...",
+        "[05:04:05] Deploying to YouTube (@kenclipsburger420) for release 06:30 PM ET (Sat, Nov 07)..."
       ]
     },
     "ANALYST": {
@@ -8976,6 +9020,50 @@
         "duration": 1003,
         "status": "QUEUED",
         "added_at": "2026-11-05T00:47:08Z"
+      },
+      {
+        "id": "ken_1793873022_0",
+        "creator": "Ken",
+        "title": "2.6 goon cycle [Match 1 Climax]",
+        "source_title": "2.6 goon cycle",
+        "url": "https://www.youtube.com/watch?v=9WSKL8Q1pgQ",
+        "section": "*96-156",
+        "duration": 703,
+        "status": "QUEUED",
+        "added_at": "2026-11-05T10:03:40Z"
+      },
+      {
+        "id": "ken_1793873022_1",
+        "creator": "Ken",
+        "title": "2.6 goon cycle [Match 2 Clutch]",
+        "source_title": "2.6 goon cycle",
+        "url": "https://www.youtube.com/watch?v=9WSKL8Q1pgQ",
+        "section": "*265-325",
+        "duration": 703,
+        "status": "QUEUED",
+        "added_at": "2026-11-05T10:03:40Z"
+      },
+      {
+        "id": "ken_1793873022_2",
+        "creator": "Ken",
+        "title": "2.6 goon cycle [Match 3 Rage]",
+        "source_title": "2.6 goon cycle",
+        "url": "https://www.youtube.com/watch?v=9WSKL8Q1pgQ",
+        "section": "*426-486",
+        "duration": 703,
+        "status": "QUEUED",
+        "added_at": "2026-11-05T10:03:40Z"
+      },
+      {
+        "id": "ken_1793873022_3",
+        "creator": "Ken",
+        "title": "2.6 goon cycle [Final Overtime Battle]",
+        "source_title": "2.6 goon cycle",
+        "url": "https://www.youtube.com/watch?v=9WSKL8Q1pgQ",
+        "section": "*574-634",
+        "duration": 703,
+        "status": "QUEUED",
+        "added_at": "2026-11-05T10:03:40Z"
       }
     ],
     "processing": null,

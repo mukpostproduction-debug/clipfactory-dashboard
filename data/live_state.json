@@ -1,6 +1,6 @@
 {
-  "timestamp": 1793873797.4509912,
-  "sync_time_iso": "2026-11-05T10:16:37Z",
+  "timestamp": 1793873858.970339,
+  "sync_time_iso": "2026-11-05T10:17:38Z",
   "default_channel": "ken_clips_burger",
   "channels": {
     "ken_clips_burger": {
@@ -92,17 +92,17 @@
       "agents": {
         "SCOUT": {
           "status": "working",
-          "current_task": "Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
+          "current_task": "Ingested 2 fresh Ken clip candidate(s) into queue.",
           "last_completed_task": "Ingested 5 recent Ken master videos into source pool",
           "recent_logs": [
-            "[05:12:10] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
-            "[05:12:25] Mined 4 crowd-upvoted comment timestamps for: chaos mega draft, but I pick c",
-            "[05:12:27] Mined 4 crowd-upvoted comment timestamps for: I love bullying",
-            "[05:12:29] Mined 4 crowd-upvoted comment timestamps for: Can I beat 20 wins in front of",
-            "[05:12:31] Mined 4 crowd-upvoted comment timestamps for: 20 win challenge",
-            "[05:12:34] Mined 4 crowd-upvoted comment timestamps for: chaos mega draft, but I pick a",
-            "[05:12:34] Queue up to date. Waiting for next daily Ken upload.",
-            "[05:16:27] Scanning @kenforrest YouTube feed for latest Clash Royale uploads..."
+            "[05:16:27] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
+            "[05:16:40] Mined 2 crowd-upvoted comment timestamps for: 2.6 goon cycle",
+            "[05:16:43] Mined 4 crowd-upvoted comment timestamps for: chaos mega draft, but I pick c",
+            "[05:16:45] Mined 4 crowd-upvoted comment timestamps for: I love bullying",
+            "[05:16:48] Mined 4 crowd-upvoted comment timestamps for: Can I beat 20 wins in front of",
+            "[05:16:50] Mined 4 crowd-upvoted comment timestamps for: 20 win challenge",
+            "[05:16:52] Mined 4 crowd-upvoted comment timestamps for: chaos mega draft, but I pick a",
+            "[05:16:52] Ingested 2 fresh Ken clip candidate(s) into queue."
           ]
         },
         "STRATEGIST": {
@@ -149,14 +149,14 @@
           "current_task": "Upload staged for automatic retry: ken_1793839637_0",
           "last_completed_task": "Uploaded all 3 initial Clash Royale gaming cuts to YouTube (kenclipsburger420)",
           "recent_logs": [
-            "[05:08:18] Generating gaming A/B metadata for slot: 06:30 PM ET (Sat, Nov 07)...",
-            "[05:08:20] Deploying to YouTube (@kenclipsburger420) for release 06:30 PM ET (Sat, Nov 07)...",
-            "[05:08:36] YouTube upload error: ('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
-            "[05:08:36] Upload staged for automatic retry: ken_1793839637_0",
             "[05:12:34] Generating gaming A/B metadata for slot: 06:30 PM ET (Sat, Nov 07)...",
             "[05:12:35] Deploying to YouTube (@kenclipsburger420) for release 06:30 PM ET (Sat, Nov 07)...",
             "[05:12:51] YouTube upload error: ('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
-            "[05:12:51] Upload staged for automatic retry: ken_1793839637_0"
+            "[05:12:51] Upload staged for automatic retry: ken_1793839637_0",
+            "[05:16:52] Generating gaming A/B metadata for slot: 06:30 PM ET (Sat, Nov 07)...",
+            "[05:17:01] Deploying to YouTube (@kenclipsburger420) for release 06:30 PM ET (Sat, Nov 07)...",
+            "[05:17:18] YouTube upload error: ('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
+            "[05:17:18] Upload staged for automatic retry: ken_1793839637_0"
           ]
         },
         "ANALYST": {
@@ -820,6 +820,28 @@
             "duration": 703,
             "status": "QUEUED",
             "added_at": "2026-11-05T10:08:03Z"
+          },
+          {
+            "id": "ken_1793873800_0",
+            "creator": "Ken",
+            "title": "2.6 goon cycle [bro started talking like guga when explaining a  (0 likes)]",
+            "source_title": "2.6 goon cycle",
+            "url": "https://www.youtube.com/watch?v=9WSKL8Q1pgQ",
+            "section": "*165-213",
+            "duration": 703,
+            "status": "QUEUED",
+            "added_at": "2026-11-05T10:16:38Z"
+          },
+          {
+            "id": "ken_1793873800_1",
+            "creator": "Ken",
+            "title": "2.6 goon cycle [when the royal recruit got your tower at the end (0 likes)]",
+            "source_title": "2.6 goon cycle",
+            "url": "https://www.youtube.com/watch?v=9WSKL8Q1pgQ",
+            "section": "*651-699",
+            "duration": 703,
+            "status": "QUEUED",
+            "added_at": "2026-11-05T10:16:38Z"
           }
         ],
         "processing": null,
@@ -8424,17 +8446,17 @@
   "agents": {
     "SCOUT": {
       "status": "working",
-      "current_task": "Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
+      "current_task": "Ingested 2 fresh Ken clip candidate(s) into queue.",
       "last_completed_task": "Ingested 5 recent Ken master videos into source pool",
       "recent_logs": [
-        "[05:12:10] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
-        "[05:12:25] Mined 4 crowd-upvoted comment timestamps for: chaos mega draft, but I pick c",
-        "[05:12:27] Mined 4 crowd-upvoted comment timestamps for: I love bullying",
-        "[05:12:29] Mined 4 crowd-upvoted comment timestamps for: Can I beat 20 wins in front of",
-        "[05:12:31] Mined 4 crowd-upvoted comment timestamps for: 20 win challenge",
-        "[05:12:34] Mined 4 crowd-upvoted comment timestamps for: chaos mega draft, but I pick a",
-        "[05:12:34] Queue up to date. Waiting for next daily Ken upload.",
-        "[05:16:27] Scanning @kenforrest YouTube feed for latest Clash Royale uploads..."
+        "[05:16:27] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
+        "[05:16:40] Mined 2 crowd-upvoted comment timestamps for: 2.6 goon cycle",
+        "[05:16:43] Mined 4 crowd-upvoted comment timestamps for: chaos mega draft, but I pick c",
+        "[05:16:45] Mined 4 crowd-upvoted comment timestamps for: I love bullying",
+        "[05:16:48] Mined 4 crowd-upvoted comment timestamps for: Can I beat 20 wins in front of",
+        "[05:16:50] Mined 4 crowd-upvoted comment timestamps for: 20 win challenge",
+        "[05:16:52] Mined 4 crowd-upvoted comment timestamps for: chaos mega draft, but I pick a",
+        "[05:16:52] Ingested 2 fresh Ken clip candidate(s) into queue."
       ]
     },
     "STRATEGIST": {
@@ -8481,14 +8503,14 @@
       "current_task": "Upload staged for automatic retry: ken_1793839637_0",
       "last_completed_task": "Uploaded all 3 initial Clash Royale gaming cuts to YouTube (kenclipsburger420)",
       "recent_logs": [
-        "[05:08:18] Generating gaming A/B metadata for slot: 06:30 PM ET (Sat, Nov 07)...",
-        "[05:08:20] Deploying to YouTube (@kenclipsburger420) for release 06:30 PM ET (Sat, Nov 07)...",
-        "[05:08:36] YouTube upload error: ('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
-        "[05:08:36] Upload staged for automatic retry: ken_1793839637_0",
         "[05:12:34] Generating gaming A/B metadata for slot: 06:30 PM ET (Sat, Nov 07)...",
         "[05:12:35] Deploying to YouTube (@kenclipsburger420) for release 06:30 PM ET (Sat, Nov 07)...",
         "[05:12:51] YouTube upload error: ('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
-        "[05:12:51] Upload staged for automatic retry: ken_1793839637_0"
+        "[05:12:51] Upload staged for automatic retry: ken_1793839637_0",
+        "[05:16:52] Generating gaming A/B metadata for slot: 06:30 PM ET (Sat, Nov 07)...",
+        "[05:17:01] Deploying to YouTube (@kenclipsburger420) for release 06:30 PM ET (Sat, Nov 07)...",
+        "[05:17:18] YouTube upload error: ('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
+        "[05:17:18] Upload staged for automatic retry: ken_1793839637_0"
       ]
     },
     "ANALYST": {
@@ -9152,6 +9174,28 @@
         "duration": 703,
         "status": "QUEUED",
         "added_at": "2026-11-05T10:08:03Z"
+      },
+      {
+        "id": "ken_1793873800_0",
+        "creator": "Ken",
+        "title": "2.6 goon cycle [bro started talking like guga when explaining a  (0 likes)]",
+        "source_title": "2.6 goon cycle",
+        "url": "https://www.youtube.com/watch?v=9WSKL8Q1pgQ",
+        "section": "*165-213",
+        "duration": 703,
+        "status": "QUEUED",
+        "added_at": "2026-11-05T10:16:38Z"
+      },
+      {
+        "id": "ken_1793873800_1",
+        "creator": "Ken",
+        "title": "2.6 goon cycle [when the royal recruit got your tower at the end (0 likes)]",
+        "source_title": "2.6 goon cycle",
+        "url": "https://www.youtube.com/watch?v=9WSKL8Q1pgQ",
+        "section": "*651-699",
+        "duration": 703,
+        "status": "QUEUED",
+        "added_at": "2026-11-05T10:16:38Z"
       }
     ],
     "processing": null,

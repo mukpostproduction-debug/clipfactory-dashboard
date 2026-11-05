@@ -1,6 +1,6 @@
 {
-  "timestamp": 1793873241.514603,
-  "sync_time_iso": "2026-11-05T10:07:21Z",
+  "timestamp": 1793873303.633472,
+  "sync_time_iso": "2026-11-05T10:08:23Z",
   "default_channel": "ken_clips_burger",
   "channels": {
     "ken_clips_burger": {
@@ -95,14 +95,14 @@
           "current_task": "Ingested 4 fresh Ken clip candidate(s) into queue.",
           "last_completed_task": "Ingested 5 recent Ken master videos into source pool",
           "recent_logs": [
-            "[04:59:29] Queue up to date. Waiting for next daily Ken upload.",
-            "[05:03:30] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
-            "[05:03:45] Mined 4 crowd-upvoted comment timestamps for: chaos mega draft, but I pick c",
-            "[05:03:47] Mined 4 crowd-upvoted comment timestamps for: I love bullying",
-            "[05:03:49] Mined 4 crowd-upvoted comment timestamps for: Can I beat 20 wins in front of",
-            "[05:03:52] Mined 4 crowd-upvoted comment timestamps for: 20 win challenge",
-            "[05:03:54] Mined 4 crowd-upvoted comment timestamps for: chaos mega draft, but I pick a",
-            "[05:03:54] Ingested 4 fresh Ken clip candidate(s) into queue."
+            "[05:07:53] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
+            "[05:08:05] Mined 4 crowd-upvoted comment timestamps for: 2.6 goon cycle",
+            "[05:08:08] Mined 4 crowd-upvoted comment timestamps for: chaos mega draft, but I pick c",
+            "[05:08:10] Mined 4 crowd-upvoted comment timestamps for: I love bullying",
+            "[05:08:13] Mined 4 crowd-upvoted comment timestamps for: Can I beat 20 wins in front of",
+            "[05:08:15] Mined 4 crowd-upvoted comment timestamps for: 20 win challenge",
+            "[05:08:18] Mined 4 crowd-upvoted comment timestamps for: chaos mega draft, but I pick a",
+            "[05:08:18] Ingested 4 fresh Ken clip candidate(s) into queue."
           ]
         },
         "STRATEGIST": {
@@ -146,17 +146,17 @@
         },
         "PUBLISHER": {
           "status": "working",
-          "current_task": "Upload staged for automatic retry: ken_1793839637_0",
+          "current_task": "Deploying to YouTube (@kenclipsburger420) for release 06:30 PM ET (Sat, Nov 07)...",
           "last_completed_task": "Uploaded all 3 initial Clash Royale gaming cuts to YouTube (kenclipsburger420)",
           "recent_logs": [
-            "[04:59:29] Generating gaming A/B metadata for slot: 06:30 PM ET (Sat, Nov 07)...",
-            "[04:59:40] Deploying to YouTube (@kenclipsburger420) for release 06:30 PM ET (Sat, Nov 07)...",
             "[04:59:56] YouTube upload error: ('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
             "[04:59:56] Upload staged for automatic retry: ken_1793839637_0",
             "[05:03:54] Generating gaming A/B metadata for slot: 06:30 PM ET (Sat, Nov 07)...",
             "[05:04:05] Deploying to YouTube (@kenclipsburger420) for release 06:30 PM ET (Sat, Nov 07)...",
             "[05:04:21] YouTube upload error: ('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
-            "[05:04:21] Upload staged for automatic retry: ken_1793839637_0"
+            "[05:04:21] Upload staged for automatic retry: ken_1793839637_0",
+            "[05:08:18] Generating gaming A/B metadata for slot: 06:30 PM ET (Sat, Nov 07)...",
+            "[05:08:20] Deploying to YouTube (@kenclipsburger420) for release 06:30 PM ET (Sat, Nov 07)..."
           ]
         },
         "ANALYST": {
@@ -776,6 +776,50 @@
             "duration": 703,
             "status": "QUEUED",
             "added_at": "2026-11-05T10:03:40Z"
+          },
+          {
+            "id": "ken_1793873285_0",
+            "creator": "Ken",
+            "title": "2.6 goon cycle [Hello Ken \ud83c\udf89\ud83c\udf89\u2764 big fan Ken I love you Kenneth wow (0 likes)]",
+            "source_title": "2.6 goon cycle",
+            "url": "https://www.youtube.com/watch?v=9WSKL8Q1pgQ",
+            "section": "*9-57",
+            "duration": 703,
+            "status": "QUEUED",
+            "added_at": "2026-11-05T10:08:03Z"
+          },
+          {
+            "id": "ken_1793873285_1",
+            "creator": "Ken",
+            "title": "2.6 goon cycle [Hello Ken \ud83c\udf89\ud83c\udf89\u2764 big fan Ken I love you Kenneth wow (0 likes)]",
+            "source_title": "2.6 goon cycle",
+            "url": "https://www.youtube.com/watch?v=9WSKL8Q1pgQ",
+            "section": "*283-331",
+            "duration": 703,
+            "status": "QUEUED",
+            "added_at": "2026-11-05T10:08:03Z"
+          },
+          {
+            "id": "ken_1793873285_2",
+            "creator": "Ken",
+            "title": "2.6 goon cycle [Hello Ken \ud83c\udf89\ud83c\udf89\u2764 big fan Ken I love you Kenneth wow (0 likes)]",
+            "source_title": "2.6 goon cycle",
+            "url": "https://www.youtube.com/watch?v=9WSKL8Q1pgQ",
+            "section": "*548-596",
+            "duration": 703,
+            "status": "QUEUED",
+            "added_at": "2026-11-05T10:08:03Z"
+          },
+          {
+            "id": "ken_1793873285_3",
+            "creator": "Ken",
+            "title": "2.6 goon cycle [Hello Ken \ud83c\udf89\ud83c\udf89\u2764 big fan Ken I love you Kenneth wow (0 likes)]",
+            "source_title": "2.6 goon cycle",
+            "url": "https://www.youtube.com/watch?v=9WSKL8Q1pgQ",
+            "section": "*659-701",
+            "duration": 703,
+            "status": "QUEUED",
+            "added_at": "2026-11-05T10:08:03Z"
           }
         ],
         "processing": null,
@@ -8383,14 +8427,14 @@
       "current_task": "Ingested 4 fresh Ken clip candidate(s) into queue.",
       "last_completed_task": "Ingested 5 recent Ken master videos into source pool",
       "recent_logs": [
-        "[04:59:29] Queue up to date. Waiting for next daily Ken upload.",
-        "[05:03:30] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
-        "[05:03:45] Mined 4 crowd-upvoted comment timestamps for: chaos mega draft, but I pick c",
-        "[05:03:47] Mined 4 crowd-upvoted comment timestamps for: I love bullying",
-        "[05:03:49] Mined 4 crowd-upvoted comment timestamps for: Can I beat 20 wins in front of",
-        "[05:03:52] Mined 4 crowd-upvoted comment timestamps for: 20 win challenge",
-        "[05:03:54] Mined 4 crowd-upvoted comment timestamps for: chaos mega draft, but I pick a",
-        "[05:03:54] Ingested 4 fresh Ken clip candidate(s) into queue."
+        "[05:07:53] Scanning @kenforrest YouTube feed for latest Clash Royale uploads...",
+        "[05:08:05] Mined 4 crowd-upvoted comment timestamps for: 2.6 goon cycle",
+        "[05:08:08] Mined 4 crowd-upvoted comment timestamps for: chaos mega draft, but I pick c",
+        "[05:08:10] Mined 4 crowd-upvoted comment timestamps for: I love bullying",
+        "[05:08:13] Mined 4 crowd-upvoted comment timestamps for: Can I beat 20 wins in front of",
+        "[05:08:15] Mined 4 crowd-upvoted comment timestamps for: 20 win challenge",
+        "[05:08:18] Mined 4 crowd-upvoted comment timestamps for: chaos mega draft, but I pick a",
+        "[05:08:18] Ingested 4 fresh Ken clip candidate(s) into queue."
       ]
     },
     "STRATEGIST": {
@@ -8434,17 +8478,17 @@
     },
     "PUBLISHER": {
       "status": "working",
-      "current_task": "Upload staged for automatic retry: ken_1793839637_0",
+      "current_task": "Deploying to YouTube (@kenclipsburger420) for release 06:30 PM ET (Sat, Nov 07)...",
       "last_completed_task": "Uploaded all 3 initial Clash Royale gaming cuts to YouTube (kenclipsburger420)",
       "recent_logs": [
-        "[04:59:29] Generating gaming A/B metadata for slot: 06:30 PM ET (Sat, Nov 07)...",
-        "[04:59:40] Deploying to YouTube (@kenclipsburger420) for release 06:30 PM ET (Sat, Nov 07)...",
         "[04:59:56] YouTube upload error: ('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
         "[04:59:56] Upload staged for automatic retry: ken_1793839637_0",
         "[05:03:54] Generating gaming A/B metadata for slot: 06:30 PM ET (Sat, Nov 07)...",
         "[05:04:05] Deploying to YouTube (@kenclipsburger420) for release 06:30 PM ET (Sat, Nov 07)...",
         "[05:04:21] YouTube upload error: ('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
-        "[05:04:21] Upload staged for automatic retry: ken_1793839637_0"
+        "[05:04:21] Upload staged for automatic retry: ken_1793839637_0",
+        "[05:08:18] Generating gaming A/B metadata for slot: 06:30 PM ET (Sat, Nov 07)...",
+        "[05:08:20] Deploying to YouTube (@kenclipsburger420) for release 06:30 PM ET (Sat, Nov 07)..."
       ]
     },
     "ANALYST": {
@@ -9064,6 +9108,50 @@
         "duration": 703,
         "status": "QUEUED",
         "added_at": "2026-11-05T10:03:40Z"
+      },
+      {
+        "id": "ken_1793873285_0",
+        "creator": "Ken",
+        "title": "2.6 goon cycle [Hello Ken \ud83c\udf89\ud83c\udf89\u2764 big fan Ken I love you Kenneth wow (0 likes)]",
+        "source_title": "2.6 goon cycle",
+        "url": "https://www.youtube.com/watch?v=9WSKL8Q1pgQ",
+        "section": "*9-57",
+        "duration": 703,
+        "status": "QUEUED",
+        "added_at": "2026-11-05T10:08:03Z"
+      },
+      {
+        "id": "ken_1793873285_1",
+        "creator": "Ken",
+        "title": "2.6 goon cycle [Hello Ken \ud83c\udf89\ud83c\udf89\u2764 big fan Ken I love you Kenneth wow (0 likes)]",
+        "source_title": "2.6 goon cycle",
+        "url": "https://www.youtube.com/watch?v=9WSKL8Q1pgQ",
+        "section": "*283-331",
+        "duration": 703,
+        "status": "QUEUED",
+        "added_at": "2026-11-05T10:08:03Z"
+      },
+      {
+        "id": "ken_1793873285_2",
+        "creator": "Ken",
+        "title": "2.6 goon cycle [Hello Ken \ud83c\udf89\ud83c\udf89\u2764 big fan Ken I love you Kenneth wow (0 likes)]",
+        "source_title": "2.6 goon cycle",
+        "url": "https://www.youtube.com/watch?v=9WSKL8Q1pgQ",
+        "section": "*548-596",
+        "duration": 703,
+        "status": "QUEUED",
+        "added_at": "2026-11-05T10:08:03Z"
+      },
+      {
+        "id": "ken_1793873285_3",
+        "creator": "Ken",
+        "title": "2.6 goon cycle [Hello Ken \ud83c\udf89\ud83c\udf89\u2764 big fan Ken I love you Kenneth wow (0 likes)]",
+        "source_title": "2.6 goon cycle",
+        "url": "https://www.youtube.com/watch?v=9WSKL8Q1pgQ",
+        "section": "*659-701",
+        "duration": 703,
+        "status": "QUEUED",
+        "added_at": "2026-11-05T10:08:03Z"
       }
     ],
     "processing": null,
